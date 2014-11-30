@@ -278,10 +278,6 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                    <!-- BEGIN TWITTER WIDGET -->
-                    	<a class="twitter-timeline" href="https://twitter.com/artucalvo" data-widget-id="539162757028122624">Tweets by @artucalvo</a>
-						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-					<!-- END TWITTER WIDGET -->
                     </div>
                 </div>
             </div>
@@ -319,9 +315,9 @@
                         <div class="modal-body">
                             <h2>Trinity College Dublin</h2>
                             <hr class="star-primary">
-                            <p>CNGL (Centre for Global Intelligent Content) is a collaborative academia-industry research centre dedicated to delivering disruptive innovations in digital intelligent content.</p>
-			    <p>Four universities (Trinity College Dublin, Dublin City University, University College Dublin and University of Limerick) and seventeen industry partners (Microsoft, Intel, Cisco, Symantec, McAfee,...) are involved in this project.</p>
-			    <p>My role as a Senior Research Software Architect and Scrum Master based at Trinity College Dublin is to conduct research driven development and systems integration in the areas of semantic web and global intelligent content processing.</p>
+                            <p style="text-align: justify;">CNGL (Centre for Global Intelligent Content) is a collaborative academia-industry research centre dedicated to delivering disruptive innovations in digital intelligent content.</p>
+			    		    <p style="text-align: justify;">Four universities (Trinity College Dublin, Dublin City University, University College Dublin and University of Limerick) and seventeen industry partners (Microsoft, Intel, Cisco, Symantec, McAfee,...) are involved in this project.</p>
+			    			<p style="text-align: justify;">My role as a Senior Research Software Architect and Scrum Master based at Trinity College Dublin is to conduct research driven development and systems integration in the areas of semantic web and global intelligent content processing.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
