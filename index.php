@@ -63,7 +63,7 @@
                         <a href="#contact">Contact</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="http://blog.arturocalvo.com" href="_new">Blog</a>
+                        <a href="http://blog.arturocalvo.com" target="_new">Blog</a>
                     </li>
                 </ul>
             </div>
