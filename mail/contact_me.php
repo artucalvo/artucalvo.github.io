@@ -13,30 +13,39 @@ $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
 
-require 'PHPMailerAutoload.php';
-$mail = new PHPMailer;
-
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.gmail.com';                       // Specify main and backup server
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'hello@dialective.com';      	      // SMTP username
-$mail->Password = 'Remiche06';               	      // SMTP password
-$mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
-$mail->Port = 587;                                    //Set the SMTP port number - 587 for authenticated TLS
-$mail->setFrom('hello@dialective.com', 'Arturocalvo.com'); //Set who the message is to be sent from
-$mail->addAddress('arturocalvodevesa@gmail.com', 'Arturo Calvo');  // Add a recipient
-$mail->isHTML(true);                                  // Set email format to HTML
- 
-$mail->Subject = 'Website Contact Form:  $name';
-$mail->Body    = 'You have received a new message from your website contact form.\n\nHere are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message';
- 
-//Read an HTML message body from an external file, convert referenced images to embedded,
-//convert HTML into a basic plain-text alternative body
-$mail->msgHTML(file_get_contents('contents.html'), dirname(__FILE__));
- 
-if(!$mail->send()) {
-   return false;
+try {
+    $mandrill = new Mandrill('wmwyLlm6pEV71G8jmzq0XQ');
+    $message = array(
+        'html' => 'You have received a new message from your website contact form.\n\nHere are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message',
+        'text' => 'Example text content',
+        'subject' => 'Website Contact Form:  $name',
+        'from_email' => 'hello@arturocalvo.com',
+        'from_name' => 'Arturocalvo.com',
+        'to' => array(
+            array(
+                'email' => 'hello@arturocalvo.com',
+                'name' => 'Arturo Calvo',
+                'type' => 'to'
+            )
+        ),
+        'important' => false,
+        'track_opens' => null,
+        'track_clicks' => null,
+        'auto_text' => null,
+        'auto_html' => null,
+        'inline_css' => null,
+        'url_strip_qs' => null,
+        'preserve_recipients' => null,
+        'view_content_link' => null,
+        'tracking_domain' => null,
+        'signing_domain' => null,
+        'return_path_domain' => null,
+    );
+    $async = false;
+    $result = $mandrill->messages->send($message, $async, $ip_pool, $send_at);
+    return true;
+} catch(Mandrill_Error $e) {
+    // Mandrill errors are thrown as exceptions
+    return false;
 }
- 
-return true;			
 ?>
