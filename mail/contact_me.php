@@ -13,7 +13,7 @@ $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
 
-require '/mail/PHPMailerAutoload.php';
+require 'PHPMailerAutoload.php';
 $mail = new PHPMailer;
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
