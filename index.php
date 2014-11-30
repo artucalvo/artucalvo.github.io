@@ -94,15 +94,15 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
-                    <hr class="star-light">
+                    <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>I am a software professional with extensive experience in both, the online and offline industries from development to management roles. In the past I have worked as a Software Engineer and Business Analyst in multinationals and organizations in Ireland and Spain. Currently I am working as a Senior Research Software Architect in Trinity College Dublin.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p>I combine this role with my passion about Internet entrepreneurship. I have set up three companies in the US, UK and Spain, holding positions as CEO and CTO. In addition I participate as mentor and advisor in different startups and entrepreneurial programs. My interests are Scrum project management, Lean Coaching and Web Development.</p>
                 </div>
             </div>
         </div>
@@ -114,7 +114,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Portfolio</h2>
-                    <hr class="star-primary">
+                    <hr class="star-light">
                 </div>
             </div>
             <div class="row">
