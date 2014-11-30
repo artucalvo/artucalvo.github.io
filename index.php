@@ -9,7 +9,7 @@
     <meta name="description" content="Arturo Calvo - Software Engineer and Internet Entrepreneur">
     <meta name="author" content="Arturo Calvo">
 
-    <title>Arturo Calvo - Software Engineer and Internet Entrepreneur</title>
+    <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -102,7 +102,7 @@
                     <div class="intro-text">
                         <span class="name">Arturo Calvo</span>
                         <hr class="star-light">
-                        <span class="skills">Software Engineer - Internet Entrepreneur</span>
+                        <span class="skills">Software Engineer &amp; Internet Entrepreneur</span>
                     </div>
                 </div>
             </div>
