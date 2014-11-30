@@ -17,9 +17,9 @@ try {
     require_once 'src/Mandrill.php'; 
     $mandrill = new Mandrill('wmwyLlm6pEV71G8jmzq0XQ');
     $message = array(
-        'html' => 'You have received a new message from your website contact form.\n\nHere are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message',
+        'html' => 'You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message,
         'text' => 'Example text content',
-        'subject' => 'Website Contact Form:  $name',
+        'subject' => 'Website Contact Form: '.$name,
         'from_email' => 'hello@arturocalvo.com',
         'from_name' => 'Arturocalvo.com',
         'to' => array(
