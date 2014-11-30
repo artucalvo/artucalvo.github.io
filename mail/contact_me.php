@@ -24,11 +24,11 @@ $mail->Password = '4N72asG9';               	      // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
 $mail->Port = 587;                                    //Set the SMTP port number - 587 for authenticated TLS
 $mail->setFrom('arturocalvodevesa@gmail.com', 'Arturo Calvo');     //Set who the message is to be sent from
-$mail->addAddress('calvodea@tcd.ie', 'Arturo Calvo');  // Add a recipient
-$mail->isHTML(false);                                  // Set email format to HTML
+$mail->addAddress('acalvo@dialective.com', 'Arturo Calvo');  // Add a recipient
+$mail->isHTML(true);                                  // Set email format to HTML
  
-$mail->Subject = "Website Contact Form:  $name";
-$mail->Body    = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message";
+$mail->Subject = 'Website Contact Form:  $name';
+$mail->Body    = 'You have received a new message from your website contact form.\n\nHere are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message';
  
 //Read an HTML message body from an external file, convert referenced images to embedded,
 //convert HTML into a basic plain-text alternative body
