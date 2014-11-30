@@ -14,6 +14,7 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 
 try {
+    require_once 'src/Mandrill.php'; 
     $mandrill = new Mandrill('wmwyLlm6pEV71G8jmzq0XQ');
     $message = array(
         'html' => 'You have received a new message from your website contact form.\n\nHere are the details:\n\nName: $name\n\nEmail: $email_address\n\nMessage:\n$message',
