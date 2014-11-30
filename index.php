@@ -350,16 +350,22 @@
                         <div class="modal-body">
                             <h2>Dialective Ltd.</h2>
                             <hr class="star-primary">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p style="text-align: justify;">As a <b>CTO</b> of Dialective Ltd I was in coordinating the <b>Product Management and Development</b> of five different products:</p>
+                            <p style="text-align: justify;">• <b><a href="https://www.dialective.com" target="_new">Dialective</a>:</b> web tool to create online catalogs to promote and sell products or services.</p>
+							<p style="text-align: justify;">• <b><a href="http://www.rebajapp.com" target="_new">Rebajapp</a>:</b> app to get discounts in SMEs in exchange for Facebook likes and posts.</p>
+							<p style="text-align: justify;">• <b><a href="http://www.copromly.com" target="_new">Copromly</a>:</b> web app that uses co-promotion in order to get increase your blog audience.</p>
+							<p style="text-align: justify;">• <b>Greenweaving:</b> web service to contact potential customers via Linkedin inMails.</p>
+							<p style="text-align: justify;">• <b>Obfuscriptor:</b> web app to obfuscate and compress Javascript code.</p>
+                            <p style="text-align: justify;">Dialective has been presented in 7 countries, and has won some international awards. We have participated in Imagine Creativity Center (Silicon Valley) and Oxygen Accelerator (London). Dialective is revenue generating, has 5 employees, thousands of users and has raised $180K.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
-                                    <strong>Senior Research Software Architect</strong>
+                                    <strong>Co-founder and CTO</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Sept 2014 - Present</strong>
+                                    <strong>May 2012 - Present</strong>
                                 </li>
                                 <li>Location:
-                                    <strong>Dublin (Ireland)</strong>
+                                    <strong>London (UK)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -383,16 +389,18 @@
                         <div class="modal-body">
                             <h2>iFlikeU Inc.</h2>
                             <hr class="star-primary">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p style="text-align: justify;"><b>iFlikeU</b> is an Android and Facebook app that lets you find matches among your Facebook friends while keeping your identity safe. Using PHP and Phonegap technologies, iFlikeU included other features such as an anonymous messenger and a match-maker tool.</p>
+                            <p style="text-align: justify;">With <b>thousands of users</b> worldwide, most of them teenagers, iFlikeU has been featured in tech blogs such as <a href="http://geeksroom.com/2013/03/con-iflikeu-puedes-descubrir-atracciones-mutuas-con-amigos-de-facebook/73251/" target="_new">Geeksroom</a> and <a href="http://wwwhatsnew.com/2013/03/26/iflikeu-conectando-a-amigos-que-se-gustan-mutuamente/" target="_new">wwwhatsnew</a></p>.
+                            <p style="text-align: justify;">My role as <b>CEO</b> of the company was setting the business goals following the <b>Lean Startup</b> principles and coordinating the team in order to achieve significant milestones.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
-                                    <strong>Senior Research Software Architect</strong>
+                                    <strong>Co-founder and CEO</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Sept 2014 - Present</strong>
+                                    <strong>Sept 2012 - Sept 2014</strong>
                                 </li>
                                 <li>Location:
-                                    <strong>Dublin (Ireland)</strong>
+                                    <strong>Delaware (USA)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -414,25 +422,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Hertz</h2>
+                            <h2>Hertz Corporation</h2>
                             <hr class="star-primary">
-                            <p>Responsible for the work on business-driven projects in TAS (Hertz's car rental management system) from User Requirement Analysis through Testing and Implementation. The main responsibilities of this role were as follows:
-
-• Deliver projects to the Production environment meeting the business and system enhancement requirements.
-
-• Analyse and prepare detailed functional system specifications for the development of new functionality or enhancements to the existing application. Provide detailed specifications to the programmers to achieve required changes.
-
-• Complete system/user testing on new functionality or enhancements to the existing application. Ensure users acceptance of changes.
-
-• Ensure changes releases are complete and follow up with users on issues/problems. Ensure follow up with end users on changes released so as to solve and eliminate outstanding issues.
-
-• Develop automated testing scripts (Watir/Ruby) that are included in the regression testing suite that is run every day.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.hertz.com" target="_new">Hertz</a></b> is the world leader in the car rental industry, with presence in 145 countries. The new Rental System, that processes 5.5 million car rentals per year, was being developed by the large multinational team that I joined in June 2011.</p>
+							<p style="text-align: justify;">My main responsibilities as an IT Business Analyst were basically: :</p>
+                            <p style="text-align: justify;">• Deliver projects to the Production environment meeting the business and system enhancement requirements.</p>
+                            <p style="text-align: justify;">• Analyse and prepare detailed <b>functional system specifications</b> for the development of new functionality or enhancements to the existing application. Provide detailed specifications to the programmers to achieve required changes.</p>
+                            <p style="text-align: justify;">• Complete system/user testing on new functionality or enhancements to the existing application. Ensure users acceptance of changes.</p>
+                            <p style="text-align: justify;">• Ensure changes releases are complete and follow up with users on issues/problems. Ensure follow up with end users on changes released so as to solve and eliminate outstanding issues.</p>
+                            <p style="text-align: justify;">• Develop <b>automated testing scripts</b> (Watir/Ruby) that are included in the regression testing suite that is run every day.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
-                                    <strong>Senior Research Software Architect</strong>
+                                    <strong>IT Business Analyst</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Sept 2014 - Present</strong>
+                                    <strong>Jun 2011 - Jul 2012</strong>
                                 </li>
                                 <li>Location:
                                     <strong>Dublin (Ireland)</strong>
