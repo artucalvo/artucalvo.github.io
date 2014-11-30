@@ -13,7 +13,7 @@ $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
 
-require 'http://www.arturocalvo.com/mail/PHPMailerAutoload.php';
+require '/mail/PHPMailerAutoload.php';
 $mail = new PHPMailer;
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
