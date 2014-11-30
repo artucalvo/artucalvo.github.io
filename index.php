@@ -356,7 +356,7 @@
 							<p style="text-align: justify;">• <b><a href="http://www.copromly.com" target="_new">Copromly</a>:</b> web app that uses co-promotion in order to get increase your blog audience.</p>
 							<p style="text-align: justify;">• <b>Greenweaving:</b> web service to contact potential customers via Linkedin inMails.</p>
 							<p style="text-align: justify;">• <b>Obfuscriptor:</b> web app to obfuscate and compress Javascript code.</p>
-                            <p style="text-align: justify;">Dialective has been presented in 7 countries, and has won some international awards. We have participated in Imagine Creativity Center (Silicon Valley) and Oxygen Accelerator (London). Dialective is revenue generating, has 5 employees, thousands of users and has raised $180K.</p>
+                            <p style="text-align: justify;">Dialective has been presented in <b>7 countries</b>, and has won some <b>international awards</b>. We have participated in <a href="http://www.imagine.cc" target="_new">Imagine Creativity Center</a> (Silicon Valley) and <a href="http://www.oxygenaccelerator.com" target="_new">Oxygen Accelerator</a> (London). Dialective is <b>revenue generating</b>, has 5 employees, thousands of users and has raised <b>$180K</b>.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Co-founder and CTO</strong>
@@ -425,7 +425,7 @@
                             <h2>Hertz Corporation</h2>
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.hertz.com" target="_new">Hertz</a></b> is the world leader in the car rental industry, with presence in 145 countries. The new Rental System, that processes 5.5 million car rentals per year, was being developed by the large multinational team that I joined in June 2011.</p>
-							<p style="text-align: justify;">My main responsibilities as an IT Business Analyst were basically: :</p>
+							<p style="text-align: justify;">My main responsibilities as an IT Business Analyst were basically:</p>
                             <p style="text-align: justify;">• Deliver projects to the Production environment meeting the business and system enhancement requirements.</p>
                             <p style="text-align: justify;">• Analyse and prepare detailed <b>functional system specifications</b> for the development of new functionality or enhancements to the existing application. Provide detailed specifications to the programmers to achieve required changes.</p>
                             <p style="text-align: justify;">• Complete system/user testing on new functionality or enhancements to the existing application. Ensure users acceptance of changes.</p>
