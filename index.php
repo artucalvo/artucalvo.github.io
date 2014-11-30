@@ -315,9 +315,9 @@
                         <div class="modal-body">
                             <h2>Trinity College Dublin</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;">CNGL (Centre for Global Intelligent Content) is a collaborative academia-industry research centre dedicated to delivering disruptive innovations in digital intelligent content.</p>
-			    		    <p style="text-align: justify;">Four universities (Trinity College Dublin, Dublin City University, University College Dublin and University of Limerick) and seventeen industry partners (Microsoft, Intel, Cisco, Symantec, McAfee,...) are involved in this project.</p>
-			    			<p style="text-align: justify;">My role as a Senior Research Software Architect and Scrum Master based at Trinity College Dublin is to conduct research driven development and systems integration in the areas of semantic web and global intelligent content processing.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.cngl.ie" target="_new">CNGL</a></b> (Centre for Global Intelligent Content) is a collaborative academia-industry research centre dedicated to delivering <b>disruptive innovations in digital intelligent content</b>.</p>
+			    		    <p style="text-align: justify;"><b>Four universities</b> (Trinity College Dublin, Dublin City University, University College Dublin and University of Limerick) and <b>seventeen industry partners</b> (Microsoft, Intel, Cisco, Symantec, McAfee,...) are involved in this project.</p>
+			    			<p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> and <b>Scrum Master</b> based at Trinity College Dublin is to conduct research driven development and systems integration in the areas of <b>semantic web</b> and <b>global intelligent content</b>.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
@@ -352,17 +352,14 @@
                             <hr class="star-primary">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Role:
+                                    <strong>Senior Research Software Architect</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Dates:
+                                    <strong>Sept 2014 - Present</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Dublin (Ireland)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -388,17 +385,14 @@
                             <hr class="star-primary">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Role:
+                                    <strong>Senior Research Software Architect</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Dates:
+                                    <strong>Sept 2014 - Present</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Dublin (Ireland)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -422,19 +416,26 @@
                         <div class="modal-body">
                             <h2>Hertz</h2>
                             <hr class="star-primary">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Responsible for the work on business-driven projects in TAS (Hertz's car rental management system) from User Requirement Analysis through Testing and Implementation. The main responsibilities of this role were as follows:
+
+• Deliver projects to the Production environment meeting the business and system enhancement requirements.
+
+• Analyse and prepare detailed functional system specifications for the development of new functionality or enhancements to the existing application. Provide detailed specifications to the programmers to achieve required changes.
+
+• Complete system/user testing on new functionality or enhancements to the existing application. Ensure users acceptance of changes.
+
+• Ensure changes releases are complete and follow up with users on issues/problems. Ensure follow up with end users on changes released so as to solve and eliminate outstanding issues.
+
+• Develop automated testing scripts (Watir/Ruby) that are included in the regression testing suite that is run every day.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Role:
+                                    <strong>Senior Research Software Architect</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Dates:
+                                    <strong>Sept 2014 - Present</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Dublin (Ireland)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -458,19 +459,20 @@
                         <div class="modal-body">
                             <h2>Spanish Basketball Federation</h2>
                             <hr class="star-primary">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p style="text-align: justify;">I was coordinating the <b>technological projects</b> in the Sports Department of the <b><a href="http://www.feb.es" target="_new">Spanish Basketball Federation</a></b>. My main responsibilities were:</p>
+                            <p style="text-align: justify;">• Development of the <a href="http://www.clubdelarbitro.com" target="_new">Referee Club</a> and the <a href="http://www.clubdelentrenador.com" target="_new">Coach Club</a>, tailor-made <b>e-learning tools</b> that have significantly increased productivity in the organization, reducing costs, and have been exported to over twenty Regional, National and International Federations.</p>
+                            <p style="text-align: justify;">• Communication with International Federations, especially in regard to referees.</p>
+                            <p style="text-align: justify;">• Technical support in training activities and events.</p>
+                            <p style="text-align: justify;">• Video production to support player, coach and referee training. Image editing and publishing.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Role:
+                                    <strong>Software Engineer</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Dates:
+                                    <strong>Feb 2006 - Jun 2011</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Madrid (Spain)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -494,19 +496,21 @@
                         <div class="modal-body">
                             <h2>Castilla y Leon Basketball Federation</h2>
                             <hr class="star-primary">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p style="text-align: justify;">I helped the <b><a href="http://www.basketcyl.com" target="_target">FBCyL</a></b> become one of the leading Spanish sport federations, with <b>one of the first Web 2.0. platforms</b> with most of their services online. This measures had a huge impact in reducing the administrative costs and improving the media coverage.</p><br>
+                            <p style="text-align: justify;">My roles included:</p>
+                            <p style="text-align: justify;">• Website development and administration.</p>
+							<p style="text-align: justify;">• Database design and administration.</p>
+							<p style="text-align: justify;">• IT Consultancy for new projects.</p>
+							<p style="text-align: justify;">• Technical support in events.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Role:
+                                    <strong>IT Consultant</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Dates:
+                                    <strong>Aug 2005 - Jun 2011</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Valladolid (Spain)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
