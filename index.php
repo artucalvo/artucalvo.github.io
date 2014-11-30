@@ -99,7 +99,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>I am a software professional with extensive experience in both, the online and offline industries from development to management roles. In the past I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain. Currently I am working as a <b>Senior Research Software Architect</b> in Trinity College Dublin.</p>
+                    <p>I am a software professional with extensive experience in both, the online and offline industries from development to management roles. In the past I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain. Currently I am working as a <b>Senior Research Software Architect</b> in Trinity College Dublin delivering disruptive innovations in semantic web and digital intelligent content</p>
                 </div>
                 <div class="col-lg-4">
                     <p>I combine this role with my passion about <b>Internet entrepreneurship</b>. I have set up <b>three companies</b> in the US, UK and Spain, holding positions as <b>CEO</b> and <b>CTO</b>. In addition I participate as <b>mentor</b> and <b>advisor</b> in different startups and entrepreneurial programs. As entrepreneur I have received <b>several awards</b> in Spain and Luxembourg. My interests are <b>Agile project management</b>, <b>Lean Coaching</b> and <b>Web Development</b>.</p>
