@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -39,17 +39,6 @@
         ga('send', 'pageview');
     </script>
     <!-- END GOOGLE ANALYTICS -->
-
-    <!-- END MOUSEFLOW -->
-    <script type="text/javascript">
-        var _mfq = _mfq || [];
-        (function () {
-        var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
-        mf.src = "//cdn.mouseflow.com/projects/713df5d3-c3e4-4999-a880-eedd4e0ad10e.js";
-        document.getElementsByTagName("head")[0].appendChild(mf);
-      })();
-    </script>
-    <!-- END MOUSEFLOW -->
 </head>
 
 <body id="page-top" class="index">
