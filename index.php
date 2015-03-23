@@ -109,10 +109,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>I am a software professional with extensive experience in both, the online and offline industries, from development to management roles. Early in my career I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain.</p> <p>In 2012 I decided to live my own dream as an Internet entrepreneur, setting up <b>three companies</b> in the US, UK and Spain, holding <b>CEO</b> and <b>CTO</b> positions. As entrepreneur I have received several awards in Europe.</p>
+                    <p>I am a software professional with extensive experience in both, the online and offline industries, from development to management roles.</p> <p>Early in my career I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain.</p> <p>In 2012 I decided to live my own dream as an Internet entrepreneur, setting up <b>three companies</b> in the US, UK and Spain, holding <b>CEO</b> and <b>CTO</b> positions. As entrepreneur I have received several awards in Europe.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Currently I am working as a <b>Senior Research Software Architect</b> in Trinity College Dublin, delivering disruptive innovations in digital intelligent content.</p> <p>I combine this role with a <b>lead developer</b> position in Sedicii, a multi-award winning startup that provides user authentication services.</p> <p>Passionate about technology and entrepreneurship, I am <b>advisor</b> and <b>mentor</b> in multiple startups and accelerators.</p>
+                    <p>Currently I am working as a <b>Senior Research Software Architect</b> in <a href="http://www.adaptcentre.ie" target="_new">ADAPT</a>, a €100M world-class research center based in <a href="http://www.tcd.ie" target="_new">Trinity College Dublin</a>, delivering disruptive innovations in digital intelligent content.</p> <p>I combine this role with a <b>lead developer</b> position in <a href="http://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides user authentication services.</p> <p>Passionate about technology and entrepreneurship, I am <b>advisor</b> and <b>mentor</b> in multiple startups and accelerators.</p>
                 </div>
             </div>
         </div>
@@ -304,9 +304,10 @@
                         <div class="modal-body">
                             <h2>Trinity College Dublin</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="http://www.cngl.ie" target="_new">CNGL</a></b> (Centre for Global Intelligent Content) is a collaborative academia-industry research centre dedicated to delivering <b>disruptive innovations in digital intelligent content</b>.</p>
-			    		    <p style="text-align: justify;"><b>Four universities</b> (Trinity College Dublin, Dublin City University, University College Dublin and University of Limerick) and <b>seventeen industry partners</b> (Microsoft, Intel, Cisco, Symantec, McAfee,...) are involved in this project.</p>
-			    			<p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> and <b>Scrum Master</b> based at Trinity College Dublin is to conduct research driven development and systems integration in the areas of <b>semantic web</b> and <b>global intelligent content</b>.</p>
+                            <p style="text-align: justify;">ADAPT is a dynamic research center that combines the world-class expertise of 120+ researchers at four universities (Trinity College Dublin, Dublin City University, University College Dublin and Dublin Institute of Technology) with that of its industry partners (Microsoft, Intel, Cisco, Symantec, McAfee,...) to produce ground-breaking digital content innovations.</p>
+			    		    <p style="text-align: justify;">My role as a Senior Research Software Architect and Scrum Master based at Trinity College Dublin is to manage a small team of developers that are conducting research driven development and systems integration in the areas of semantic web and global intelligent content processing.</p>
+			    			<p style="text-align: justify;">I have been responsible of implementing the Scrum framework in the organization, along with software engineering best practices (clean code, TDD and continuous integration).</p>
+                            <p style="text-align: justify;">In addition, I am mentoring the Trinity College 5th-year Computer Science students with their entrepreneurial projects.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
@@ -351,7 +352,7 @@
                                     <strong>Co-founder and CTO</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>May 2012 - Present</strong>
+                                    <strong>May 2012 - March 2015</strong>
                                 </li>
                                 <li>Location:
                                     <strong>London (UK)</strong>
