@@ -316,7 +316,7 @@
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.adaptcentre.ie" target="_new">ADAPT</a></b> is a research center that combines the world-class expertise of 120+ researchers at four universities with that of its industry partners to produce <b>ground-breaking digital content innovations</b>.</p>
 			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> and <b>Scrum Master</b> based at Trinity College Dublin is to manage a small team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>semantic web</b> and <b>global intelligent content</b>.</p>
-			    			<p style="text-align: justify;">I have been responsible of implementing the <b>Scrum framework</b> in the organization, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>mentoring</b> Trinity College 5th-year Computer Science students with their entrepreneurial projects.</p>
+			    			<p style="text-align: justify;">I have implemented the <b>Scrum framework</b> in the organization, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>mentoring</b> 5th-year Computer Science students with their entrepreneurial projects.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
@@ -350,7 +350,7 @@
                             <h2>Sedicii Innovations Limited</h2>
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.sedicii.com" target="_new">Sedicii</a></b> is a a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with multinationals such as BT and Ernst&Young.</p>
-                            <p style="text-align: justify;">As a <b>lead developer</b> I am managing a team of software engineers that are building the next generation user authentication system and integrating it on our partners' solutions with the highest standards of security, reliability and performance.</p>
+                            <p style="text-align: justify;">As a <b>lead developer</b> I am managing a team of software engineers that are building the next generation user authentication system and integrating it in our partners' solutions with the highest standards of security, reliability and performance.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Lead Developer</strong>
