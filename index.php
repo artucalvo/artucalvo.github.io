@@ -139,6 +139,16 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/sedicii.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -304,10 +314,9 @@
                         <div class="modal-body">
                             <h2>Trinity College Dublin</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;">ADAPT is a dynamic research center that combines the world-class expertise of 120+ researchers at four universities (Trinity College Dublin, Dublin City University, University College Dublin and Dublin Institute of Technology) with that of its industry partners (Microsoft, Intel, Cisco, Symantec, McAfee,...) to produce ground-breaking digital content innovations.</p>
-			    		    <p style="text-align: justify;">My role as a Senior Research Software Architect and Scrum Master based at Trinity College Dublin is to manage a small team of developers that are conducting research driven development and systems integration in the areas of semantic web and global intelligent content processing.</p>
-			    			<p style="text-align: justify;">I have been responsible of implementing the Scrum framework in the organization, along with software engineering best practices (clean code, TDD and continuous integration).</p>
-                            <p style="text-align: justify;">In addition, I am mentoring the Trinity College 5th-year Computer Science students with their entrepreneurial projects.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.adaptcentre.ie" target="_new">ADAPT</a></b> is a research center that combines the world-class expertise of 120+ researchers at four universities with that of its industry partners to produce <b>ground-breaking digital content innovations</b>.</p>
+			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> and <b>Scrum Master</b> based at Trinity College Dublin is to manage a small team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>semantic web</b> and <b>global intelligent content</b>.</p>
+			    			<p style="text-align: justify;">I have been responsible of implementing the <b>Scrum framework</b> in the organization, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>mentoring</b> Trinity College 5th-year Computer Science students with their entrepreneurial projects.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
@@ -317,6 +326,40 @@
                                 </li>
                                 <li>Location:
                                     <strong>Dublin (Ireland)</strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Sedicii Innovations Limited</h2>
+                            <hr class="star-primary">
+                            <p style="text-align: justify;"><b><a href="http://www.sedicii.com" target="_new">Sedicii</a></b> is a a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with multinationals such as BT and Ernst&Young.</p>
+                            <p style="text-align: justify;">As a <b>lead developer</b> I am managing a team of software engineers that are building the next generation user authentication system and integrating it on our partners' solutions with the highest standards of security, reliability and performance.</p>
+                            <ul class="list-inline item-details">
+                                <li>Role:
+                                    <strong>Lead Developer</strong>
+                                </li>
+                                <li>Dates:
+                                    <strong>Dec 2014 - Present</strong>
+                                </li>
+                                <li>Location:
+                                    <strong>Waterford (Ireland)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
