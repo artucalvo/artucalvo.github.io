@@ -383,12 +383,7 @@
                         <div class="modal-body">
                             <h2>Dialective Ltd.</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;">As a <b>CTO</b> of Dialective Ltd I was in coordinating the <b>Product Management and Development</b> of five different products:</p>
-                            <p style="text-align: justify;">• <b><a href="https://www.dialective.com" target="_new">Dialective</a>:</b> web tool to create online catalogs to promote and sell products or services.</p>
-							<p style="text-align: justify;">• <b><a href="http://www.rebajapp.com" target="_new">Rebajapp</a>:</b> app to get discounts in SMEs in exchange for Facebook likes and posts.</p>
-							<p style="text-align: justify;">• <b><a href="http://www.copromly.com" target="_new">Copromly</a>:</b> web app that uses co-promotion in order to get increase your blog audience.</p>
-							<p style="text-align: justify;">• <b>Greenweaving:</b> web service to contact potential customers via Linkedin inMails.</p>
-							<p style="text-align: justify;">• <b>Obfuscriptor:</b> web app to obfuscate and compress Javascript code.</p>
+                            <p style="text-align: justify;">As a <b>CTO</b> of Dialective Ltd I was in coordinating the <b>Product Management and Development</b> of five different products: <b>Dialective</b> (online catalogs for SMEs), <b>Rebajapp</b> (discounts in exchange for social promotion), <b>Copromly</b> (blog copromotion), <b>Greenweaving</b> (Linkedin marketing) and <b>Obfuscriptor</b> (Javascript obfuscator and compressor).</p>
                             <p style="text-align: justify;">Dialective has been presented in <b>7 countries</b>, and has won some <b>international awards</b>. We have participated in <a href="http://www.imagine.cc" target="_new">Imagine Creativity Center</a> (Silicon Valley) and <a href="http://www.oxygenaccelerator.com" target="_new">Oxygen Accelerator</a> (London). Dialective is <b>revenue generating</b>, has 5 employees, thousands of users and has raised <b>$180K</b>.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
