@@ -349,7 +349,7 @@
                         <div class="modal-body">
                             <h2>Sedicii Innovations Limited</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="http://www.sedicii.com" target="_new">Sedicii</a></b> is a a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with world-class banks and telecom corporations.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.sedicii.com" target="_new">Sedicii</a></b> is a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with world-class banks and telecom corporations. The World Economic Forum named Sedicii as one of the 49 Global <b><a href="http://widgets.weforum.org/techpioneers-2015b/" target="_new">Technology Pioneers</a></b> in 2015.</p>
                             <p style="text-align: justify;">As <b>CTO</b> I am managing a team of software engineers that are building the next generation user authentication system and integrating it in our partners' solutions with the highest standards of security, reliability and performance.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
