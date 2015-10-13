@@ -11,10 +11,9 @@
     <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
 
 	<!-- BEGIN COOKIE WARNING -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script> 
-	<script>window.jQuery || document.write("<script src='assets/js/libs/jquery-1.7.1.min.js'>\x3C/script>")</script>
-	<script src="jquery.cookie.js"></script>
-	<script src="jquery.cookiecuttr.js"></script>
+	<script type="text/javascript">
+		window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+	</script>
     <!-- END COOKIE WARNING -->
 	
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -44,10 +43,6 @@
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', 'UA-57230744-1', 'auto');
         ga('send', 'pageview');
-		
-		$(document).ready(function () {
-			$.cookieCuttr();	
-		});
     </script>
     <!-- END GOOGLE ANALYTICS -->
 </head>
