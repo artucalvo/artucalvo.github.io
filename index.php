@@ -10,12 +10,6 @@
 
     <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
 
-	<!-- BEGIN COOKIE WARNING -->
-	<script type="text/javascript">
-		window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
-	</script>
-    <!-- END COOKIE WARNING -->
-	
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -45,6 +39,12 @@
         ga('send', 'pageview');
     </script>
     <!-- END GOOGLE ANALYTICS -->
+	<!-- BEGIN COOKIE WARNING -->
+	<script type="text/javascript">
+		window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+	</script>
+    <script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+    <!-- END COOKIE WARNING -->
 </head>
 
 <body id="page-top" class="index">
