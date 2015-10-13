@@ -11,7 +11,7 @@
     <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
 
 	<!-- BEGIN COOKIE WARNING -->
-	<script src="//ajax.googleapis.com/ajax/ libs/jquery/1.7.1/jquery.js"></script> 
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script> 
 	<script>window.jQuery || document.write("<script src='assets/js/libs/jquery-1.7.1.min.js'>\x3C/script>")</script>
 	<script src="jquery.cookie.js"></script>
 	<script src="jquery.cookiecuttr.js"></script>
