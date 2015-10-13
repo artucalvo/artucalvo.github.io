@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +10,13 @@
 
     <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
 
+	<!-- BEGIN COOKIE WARNING -->
+	<script src="//ajax.googleapis.com/ajax/ libs/jquery/1.7.1/jquery.js"></script> 
+	<script>window.jQuery || document.write("<script src='assets/js/libs/jquery-1.7.1.min.js'>\x3C/script>")</script>
+	<script src="jquery.cookie.js"></script>
+	<script src="jquery.cookiecuttr.js"></script>
+    <!-- END COOKIE WARNING -->
+	
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -21,7 +27,8 @@
     <link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-
+	<link rel="stylesheet" href="cookiecuttr.css">
+	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -37,6 +44,10 @@
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', 'UA-57230744-1', 'auto');
         ga('send', 'pageview');
+		
+		$(document).ready(function () {
+			$.cookieCuttr();	
+		});
     </script>
     <!-- END GOOGLE ANALYTICS -->
 </head>
