@@ -118,7 +118,7 @@
                     <p>I am a software professional with extensive experience in both, the online and offline industries, from development to management roles.</p> <p>Early in my career I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain.</p> <p>In 2012 I decided to live my own dream as an Internet entrepreneur, setting up <b>three companies</b> in the US, UK and Spain, holding <b>CEO</b> and <b>CTO</b> positions. As entrepreneur I have received several awards in Europe.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Currently I am working as a <b>Senior Research Software Architect</b> in <a href="http://www.adaptcentre.ie" target="_new">ADAPT</a>, a €110M world-class research center based in <a href="http://www.tcd.ie" target="_new">Trinity College Dublin</a>, delivering disruptive innovations in digital intelligent content.</p> <p>I combine this role with the <b>CTO</b> position in <a href="http://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides user authentication services.</p> <p>Passionate about technology and entrepreneurship, I am <b>advisor</b> and <b>mentor</b> in multiple startups and accelerators.</p>
+                    <p>Currently I am working as a <b>Senior Research Software Architect</b> in <a href="http://www.adaptcentre.ie" target="_new">ADAPT</a>, a €110M world-class research center based in <a href="http://www.tcd.ie" target="_new">Trinity College Dublin</a>, delivering disruptive innovations in digital intelligent content.</p> <p>I combine this role with the <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides user authentication services. My last project: <a href="http://www.xtegos.com" target="_new">Xtegos</a>.</p> <p>Passionate about technology and entrepreneurship, I am <b>advisor</b> and <b>mentor</b> in multiple startups and accelerators.</p>
                 </div>
             </div>
         </div>
@@ -291,7 +291,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        &copy; Arturo Calvo 2014
+                        &copy; Arturo Calvo 2015
                     </div>
                 </div>
             </div>
@@ -355,7 +355,7 @@
                         <div class="modal-body">
                             <h2>Sedicii Innovations Limited</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="http://www.sedicii.com" target="_new">Sedicii</a></b> is a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with world-class banks and telecom corporations. The World Economic Forum named Sedicii as one of the 49 Global <b><a href="http://widgets.weforum.org/techpioneers-2015b/" target="_new">Technology Pioneers</a></b> in 2015.</p>
+                            <p style="text-align: justify;"><b><a href="https://www.sedicii.com" target="_new">Sedicii</a></b> is a multi-award winning startup that provides user <b>authentication services</b>, eliminating the need to transmit passwords over the web. Sedicii has presence in Ireland, London and Silicon Valley, and it is proud to partner with world-class banks and telecom corporations. The World Economic Forum named Sedicii as one of the 49 Global <b><a href="http://widgets.weforum.org/techpioneers-2015b/" target="_new">Technology Pioneers</a></b> in 2015.</p>
                             <p style="text-align: justify;">As <b>CTO</b> I am managing a team of software engineers that are building the next generation user authentication system and integrating it in our partners' solutions with the highest standards of security, reliability and performance.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
@@ -365,7 +365,7 @@
                                     <strong>Dec 2014 - Present</strong>
                                 </li>
                                 <li>Location:
-                                    <strong>Waterford (Ireland)</strong>
+                                    <strong>Dublin (Ireland)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
