@@ -322,7 +322,7 @@
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.adaptcentre.ie" target="_new">ADAPT</a></b> is a research center that combines the world-class expertise of 120+ researchers at four universities with that of its industry partners to produce <b>ground-breaking digital content innovations</b>.</p>
 			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> and <b>Scrum Master</b> based at Trinity College Dublin is to manage a highly-skilled team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>machine learning</b>, <b>language technologies</b> and <b>semantic web</b>.</p>
-			    			<p style="text-align: justify;">I have implemented the <b>Scrum framework</b> in the organization, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>mentoring</b> 3rd and 5th-year Computer Science students that are working on entrepreneurial projects.</p>
+			    			<p style="text-align: justify;">I have implemented the <b>Scrum framework</b> in the organization, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>mentoring</b> 3rd and 5th-year Computer Science students that are working on entrepreneurial projects, and I am tutor at the <a href="http://adaptcentre.ie/ailo/" target="_new">All-Ireland Linguistics Olympiads</a>.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Senior Research Software Architect</strong>
