@@ -493,7 +493,7 @@
                             <h2>Hertz Corporation</h2>
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.hertz.com" target="_new">Hertz</a></b> is the world leader in the car rental industry, with presence in 145 countries. The new Rental System, that processes 5.5 million car rentals per year, was being developed by the large multinational team that I joined in June 2011.</p>
-							<p style="text-align: justify;">My main responsibilities as an IT Business Analyst were:</p>
+							<p style="text-align: justify;">My main responsibilities as <b>IT Business Analyst</b> were:</p>
                             <p style="text-align: justify;">• Deliver projects to the Production environment meeting the business and system enhancement requirements.</p>
                             <p style="text-align: justify;">• Analyse and prepare detailed <b>functional system specifications</b> for the development of new functionality or enhancements to the existing application. Provide detailed specifications to the programmers to achieve required changes.</p>
                             <p style="text-align: justify;">• Complete system/user testing on new functionality or enhancements to the existing application. Ensure users acceptance of changes.</p>
