@@ -442,7 +442,7 @@
                               <li class="bullets"><b>Greenweaving:</b> web service to contact potential customers via Linkedin inMails.</li>
                               <li class="bullets"><b>Obfuscriptor:</b> web app to obfuscate and compress Javascript code.</li>
 							</ul>
-							<p style="text-align: justify;">Dialective was presented in 7 countries, and won some <b>international awards</b>. We were selected to participate in <a href="http://siliconvalley.imagine.cc/2013/participants/" target="_new">Imagine Creativity Center</a> (Silicon Valley) and <a href="www.oxygenaccelerator.com/startup/dialective/" target="_new">Oxygen Accelerator</a> (London).</p>
+							<p style="text-align: justify;">Dialective was presented in 7 countries, and won some <b>international awards</b>. We were selected to participate in <a href="http://siliconvalley.imagine.cc/2013/participants/" target="_new">Imagine Creativity Center</a> (Silicon Valley) and <a href="http://www.oxygenaccelerator.com/startup/dialective/" target="_new">Oxygen Accelerator</a> (London).</p>
 							<p style="text-align: justify;">Dialective was revenue generating, had 5 employees, thousands of users and raised <b>$180K</b> from seed investors.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
