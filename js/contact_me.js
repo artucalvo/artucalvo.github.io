@@ -10,7 +10,7 @@ $(function() {
             // get values from FORM
             var name = $("input#name").val();
             var email = $("input#email").val();
-            var message = $("textarea#message").val();
+            var message = $("textarea#message").val().replace(/\n/g, "<br />");;
             var encoded_message = $('<div/>').text(message).html();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
@@ -20,7 +20,6 @@ $(function() {
             $.ajax({
                 url: "././mail/contact_me.php",
                 type: "POST",
-                headers: {'Content-Type': 'application/x-www-form-urlencoded'},
                 data: {
                     name: name,
                     email: email,
