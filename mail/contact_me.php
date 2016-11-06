@@ -12,41 +12,36 @@ if(empty($_POST['name'])  		||
 $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
+$html = 'You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message;
 
-try {
-    require_once 'src/Mandrill.php'; 
-    $mandrill = new Mandrill('wmwyLlm6pEV71G8jmzq0XQ');
-    $message = array(
-        'html' => 'You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message,
-        'text' => 'Example text content',
-        'subject' => 'Website Contact Form: '.$name,
-        'from_email' => 'hello@arturocalvo.com',
-        'from_name' => 'Arturocalvo.com',
-        'to' => array(
-            array(
-                'email' => 'hello@arturocalvo.com',
-                'name' => 'Arturo Calvo',
-                'type' => 'to'
-            )
-        ),
-        'important' => false,
-        'track_opens' => null,
-        'track_clicks' => null,
-        'auto_text' => null,
-        'auto_html' => null,
-        'inline_css' => null,
-        'url_strip_qs' => null,
-        'preserve_recipients' => null,
-        'view_content_link' => null,
-        'tracking_domain' => null,
-        'signing_domain' => null,
-        'return_path_domain' => null,
-    );
-    $async = false;
-    $result = $mandrill->messages->send($message, $async, $ip_pool, $send_at);
-    return true;
-} catch(Mandrill_Error $e) {
-    // Mandrill errors are thrown as exceptions
-    return false;
-}
+require("sendgrid-php/sendgrid-php.php");
+
+$apiKey = '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';
+$sg = new \SendGrid($apiKey);
+
+$request_body = json_decode('{
+  "personalizations": [
+    {
+      "to": [
+        {
+          "email": "hello@arturocalvo.com"
+        }
+      ],
+      "subject": "Website Contact Form: ".$name
+    }
+  ],
+  "from": {
+    "email": "hello@arturocalvo.com"
+  },
+  "content": [
+    {
+      "type": "text/html",
+      "value": $html
+    }
+  ]
+}');
+
+$result = $sg->client->mail()->send()->post($request_body);
+
+return true;
 ?>
