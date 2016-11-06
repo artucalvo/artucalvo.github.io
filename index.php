@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Arturo Calvo - Software Engineer and Internet Entrepreneur">
+    <meta name="description" content="Arturo Calvo - Software Engineer and Digital Entrepreneur">
     <meta name="author" content="Arturo Calvo">
 
-    <title>Arturo Calvo - Software Engineer &amp; Internet Entrepreneur</title>
+    <title>Arturo Calvo - Software Engineer &amp; Digital Entrepreneur</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -116,10 +116,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>I am a software professional with extensive experience in both, the online and offline industries, from development to management roles.</p> <p>Early in my career I have worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in multinationals and organizations in Ireland and Spain.</p> <p>In 2012 I decided to live my own dream as an Internet entrepreneur, setting up <b>three companies</b> in the US, UK and Spain, holding <b>CEO</b> and <b>CTO</b> positions. As entrepreneur I have received several awards in Europe.</p> <p>Since 2014 I work as a <b>Senior Research Software Architect</b> in <a href="http://www.adaptcentre.ie" target="_new">ADAPT</a>, a €110m world-class research center based in <a href="http://www.tcd.ie" target="_new">Trinity College Dublin</a>, delivering ground-breaking innovations in digital intelligent content.</p> <p>In ADAPT I manage a team of developers that builds prototypes on areas such as <b>machine learning</b>, <b>artificial intelligence</b>, <b>natural language processing</b> and <b>ethics</b>.</p>
+                    <p>I am a software professional with over ten years of experience working in startups, corporations and academia, from development to management roles.</p> <p>Early in my career I worked as a <b>Software Engineer</b> and <b>Business Analyst</b> in Ireland and Spain. In 2012 I quit my job and set up <a href="">Greenweaving</a>, a web app to generate interactive diagrams on the fly. A few months later I co-founded <a href="">iFlikeU</a>, an app to find matches safely among Facebook friends. My third startup was <a href="http://www.dialective.com">Dialective</a>, a web app to easily generate online catalogs for SMEs and share them with the world. Dialective raised $180K in funding and won multiple awards around Europe.</p> <p>In 2014 I started working as a <b>Senior Research Software Architect</b> at <a href="http://www.adaptcentre.ie">ADAPT Centre</a>, a world-class innovation hub based in Trinity College Dublin, where I led the development of research projects in the areas of <b>Machine Learning</b>, <b>Team Collaboration</b> and <b>Ethics</b>.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>I combine this role with the <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides disruptive identity verification services to large corporations.</p> <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> of multiple startups and <b>mentor</b> in accelerators and innovation programs such as the prestigious <a href="https://www.imagine.cc" target="_new">Imagine Creativity Center</a>.</p> <p>In addition, I started three popular <b>meetup groups</b> on <a href="http://www.meetup.com/Machine-Learning-Dublin" target="_new">Machine Learning</a>, Entrepreneurship and <a href="http://www.srsireland.org" target="_new">Research</a> in Ireland and Spain.</p> <p>Finally, I enjoy experimenting with new technologies and launching <b>side projects</b>, such as <a href="http://www.xtegos.com" target="_new">Xtegos</a> (speech synthesis with funny accents).</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear <b>positive impact</b>, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
+                    <p>After two enriching years in academia, joined <a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre">Accenture Centre for Innovation</a> as a <b>Software Development Associate Manager</b>, where I conduct research-driven development around <b>Data Science</b>.</p> <p>I combine this role with a <b>CTO</b> position in <a href="https://www.sedicii.com">Sedicii</a>, a multi-award winning startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>I am <b>co-founder</b> and active contributor of <a href="https://www.ethicscanvas.org">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects) and the <a href="">Spanish Research Society in Ireland</a>.</p> <p>Passionate about technology and entrepreneurship, I have founded two <b>meetup groups</b> and I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>Finally, I enjoy learning new technical skills and launching side projects, such as <a href="http://www.xtegos.com">Xtegos</a> (speech synthesis with funny accents).</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
                 </div>
             </div>
         </div>
@@ -136,13 +136,13 @@
             </div>
             <div class="row">
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/tcd.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/accenture.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -156,33 +156,13 @@
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dialective.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/iflikeu.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/hertz.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/adapt.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -192,11 +172,41 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
+                        <img src="img/portfolio/dialective.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/iflikeu.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/hertz.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
                         <img src="img/portfolio/feb.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -262,8 +272,6 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Contact:</h3>
-                        <p>Trinity College Dublin</p>
-                        <p>Dublin (Ireland)</p>
                         <p>hello@arturocalvo.com</p>
                     </div>
                     <div class="footer-col col-md-4">
@@ -307,7 +315,7 @@
     </div>
 
     <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -319,17 +327,18 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Trinity College Dublin</h2>
+                            <h2>Accenture Centre for Innovation</h2>
                             <hr class="star-primary">
                             <p style="text-align: justify;"><b><a href="http://www.adaptcentre.ie" target="_new">ADAPT</a></b> is a research centre that combines the world-class expertise of 120+ researchers at four universities with that of its industry partners to produce <b>ground-breaking digital content innovations</b>.</p>
-			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> based at Trinity College Dublin is to manage a team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>machine learning</b>, <b>artificial intelligence</b>, <b>language technologies</b> and <b>ethics</b>.</p>
-			    			<p style="text-align: justify;">I have implemented the <b>Scrum framework</b> in the team, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I am <b>Assistant Lecturer</b> in the <a href="https://sites.google.com/site/cs3bc21516s2/home" target="_new">e-Business II</a> and <a href="https://sites.google.com/site/cs70091516s2/home" target="_new">Networked Applications I</a> courses in the School of Computer Science and Statistics, and I was tutor at the <a href="http://adaptcentre.ie/ailo/" target="_new">All-Ireland Linguistics Olympiads</a>.</p>
+			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> based at Trinity College Dublin was to lead a team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>machine learning</b>, <b>artificial intelligence</b>, <b>language technologies</b> and <b>ethics</b>.</p>
+			    			<p style="text-align: justify;">I implemented the <b>Scrum framework</b> in the team, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I was occasionally <b>lecturing</b> in the <a href="https://sites.google.com/site/cs3bc21516s2/home" target="_new">e-Business II</a> and <a href="https://sites.google.com/site/cs70091516s2/home" target="_new">Networked Applications I</a> courses in the School of Computer Science and Statistics.</p>
+							<p style="text-align: justify;">Finally, I co-organised and presented the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a></b>, a monthly meetup that grew from 0 to 1400 members in 10 months; and I was tutor at the <a href="http://adaptcentre.ie/ailo/" target="_new">All-Ireland Linguistics Olympiads</a>.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
-                                    <strong>Senior Research Software Architect</strong>
+                                    <strong>Software Development Associate Manager</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Sept 2014 - Present</strong>
+                                    <strong>Nov 2016 - Present</strong>
                                 </li>
                                 <li>Location:
                                     <strong>Dublin (Ireland)</strong>
@@ -376,7 +385,43 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>ADAPT Centre</h2>
+                            <hr class="star-primary">
+                            <p style="text-align: justify;"><b><a href="http://www.adaptcentre.ie" target="_new">ADAPT</a></b> is a research centre that combines the world-class expertise of 120+ researchers at four universities with that of its industry partners to produce <b>ground-breaking digital content innovations</b>.</p>
+			    		    <p style="text-align: justify;">My role as a <b>Senior Research Software Architect</b> based at Trinity College Dublin was to lead a team of developers that are conducting <b>research driven development</b> and <b>systems integration</b> in the areas of <b>machine learning</b>, <b>artificial intelligence</b>, <b>language technologies</b> and <b>ethics</b>.</p>
+			    			<p style="text-align: justify;">I implemented the <b>Scrum framework</b> in the team, along with <b>software engineering best practices</b> (clean code, TDD and continuous integration). In addition, I was occasionally <b>lecturing</b> in the <a href="https://sites.google.com/site/cs3bc21516s2/home" target="_new">e-Business II</a> and <a href="https://sites.google.com/site/cs70091516s2/home" target="_new">Networked Applications I</a> courses in the School of Computer Science and Statistics.</p>
+							<p style="text-align: justify;">Finally, I co-organised and presented the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a></b>, a monthly meetup that grew from 0 to 1400 members in 10 months; and I was tutor at the <a href="http://adaptcentre.ie/ailo/" target="_new">All-Ireland Linguistics Olympiads</a>.</p>
+                            <ul class="list-inline item-details">
+                                <li>Role:
+                                    <strong>Senior Research Software Architect</strong>
+                                </li>
+                                <li>Dates:
+                                    <strong>Sept 2014 - Nov 2016</strong>
+                                </li>
+                                <li>Location:
+                                    <strong>Dublin (Ireland)</strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -410,7 +455,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -445,7 +490,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -484,7 +529,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -521,7 +566,7 @@
             </div>
         </div>
     </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
