@@ -35,7 +35,7 @@ $request_body = json_decode('{
   },
   "content": [
     {
-      "type": "text/html",
+      "type": "text/plain",
       "value": "'.$html.'"
     }
   ]
