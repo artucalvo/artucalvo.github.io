@@ -42,7 +42,6 @@ $request_body = json_decode('{
 }');
 
 $result = $sg->client->mail()->send()->post($request_body);
-echo $sg;
 echo $request_body;
 echo $result->statusCode();
 echo $result->headers();
