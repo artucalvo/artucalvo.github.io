@@ -12,7 +12,7 @@ if(empty($_POST['name'])  		||
 $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
-$html = 'You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message;
+$html = htmlentities('You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message, ENT_QUOTES);
 
 require("sendgrid-php/sendgrid-php.php");
 
