@@ -35,17 +35,13 @@ $request_body = json_decode('{
   },
   "content": [
     {
-      "type": "text/plain",
-      "value": "aaa"
+      "type": "text/html",
+      "value": "<b>a</b>aa"
     }
   ]
 }');
 
 $result = $sg->client->mail()->send()->post($request_body);
-echo $request_body;
-echo $result->statusCode();
-echo $result->headers();
-echo $result->body();
 
 return true;
 ?>
