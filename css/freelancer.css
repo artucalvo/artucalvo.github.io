@@ -443,3 +443,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.bullets {
+    text-align: left;
+    font-size: large;
+}
