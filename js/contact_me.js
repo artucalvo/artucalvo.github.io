@@ -20,6 +20,7 @@ $(function() {
             $.ajax({
                 url: "././mail/contact_me.php",
                 type: "POST",
+                headers: {'Content-Type': 'application/x-www-form-urlencoded'},
                 data: {
                     name: name,
                     email: email,

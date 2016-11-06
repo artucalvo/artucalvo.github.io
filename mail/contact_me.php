@@ -12,7 +12,9 @@ if(empty($_POST['name'])  		||
 $name = $_POST['name'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
+echo $message;
 $html = 'You have received a new message from your website contact form.<br><br>Here are the details:<br><br>Name: '.$name.'<br><br>Email: '.$email_address.'<br><br>Message:<br>'.$message;
+echo $html;
 
 require("sendgrid-php/sendgrid-php.php");
 
@@ -35,7 +37,7 @@ $request_body = json_decode('{
   },
   "content": [
     {
-      "type": "text/plain",
+      "type": "text/html",
       "value": "'.$html.'"
     }
   ]
