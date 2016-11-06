@@ -27,7 +27,7 @@ $request_body = json_decode('{
           "email": "hello@arturocalvo.com"
         }
       ],
-      "subject": "Website Contact Form: "
+      "subject": "Website Contact Form: '.$name.'"
     }
   ],
   "from": {
@@ -36,7 +36,7 @@ $request_body = json_decode('{
   "content": [
     {
       "type": "text/html",
-      "value": "<b>a</b>aa"
+      "value": "'.$html.'"
     }
   ]
 }');
