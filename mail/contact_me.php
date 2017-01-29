@@ -18,7 +18,7 @@ echo $html;
 
 require("sendgrid-php/sendgrid-php.php");
 
-$apiKey = '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';
+$apiKey = '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';
 $sg = new \SendGrid($apiKey);
 
 $request_body = json_decode('{
