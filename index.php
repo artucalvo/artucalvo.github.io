@@ -99,10 +99,10 @@
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
                     <p>I am a software professional with over ten years of experience working in startups, corporations and academia, from development to management roles.</p> <p>Early in my career I worked as a <b>Software Engineer</b> and <b>IT Business Analyst</b> in Ireland and Spain.</p> <p>In 2012 I quit my job and set up <i>Greenweaving</i>, a web app to generate interactive diagrams on the fly.</p> <p>A few months later I co-founded <i>iFlikeU</i>, an app to find matches safely among Facebook friends.</p> <p>My third startup was <a href="http://www.dialective.com" target="_new">Dialective</a>, a web app to easily generate online catalogs for SMEs and share them with the world. Dialective raised $180K in funding and won multiple awards around Europe.</p> <p>In 2014 I started working as a <b>Senior Research Software Architect</b> at <a href="http://www.adaptcentre.ie" target="_new">ADAPT Centre</a>, a world-class innovation hub based in Trinity College Dublin, where I led the development of research projects in the areas of <b>Machine Learning</b>, <b>Team Collaboration</b> and <b>Ethics</b>.</p>
+                    <p>After two enriching years in academia, joined <a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre" target="_new">Accenture Centre for Innovation</a> as a <b>Software Development Associate Manager</b>, where I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
                 </div>
                 <div class="col-lg-4">
-                	<p>After two enriching years in academia, joined <a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre" target="_new">Accenture Centre for Innovation</a> as a <b>Software Development Associate Manager</b>, where I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
-                    <p>I combine this role with a <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>I am <b>co-founder</b> and active contributor of <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects) and the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a>.</p> <p>Passionate about technology and entrepreneurship, I have founded two <b>meetup groups</b> and I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
+                    <p>I combine this role with a <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In January 2017 I founded with three colleagues a new startup, <a href="http://xchangeup.com" target="_new">Xchange Up</a>, a P2P currency exchange platform where I work as <b>CEO</b> and <b>CTO</b>.</p> <p>I am <b>co-founder</b> and active contributor of <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects) and the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a>.</p> <p>Passionate about technology and entrepreneurship, I have founded two <b>meetup groups</b> and I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
                 </div>
             </div>
         </div>
@@ -136,6 +136,16 @@
                             </div>
                         </div>
                         <img src="img/portfolio/sedicii.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/xchangeup.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -310,10 +320,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Accenture Centre for Innovation</h2>
+                            <h2>Accenture - The Dock</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre" target="_new">Accenture Centre for Innovation</a></b> is a multidisciplinary research and incubation hub, developing solutions to some of society’s most complex issues. We help clients unlock their potential through an entirely new approach to innovation, shaped by design-led experimentation and co-creation, and powered by new and emerging technology.</p>
-                            <p style="text-align: justify;">As a <b>Software Development Associate Manager</b> at Accenture Centre for Innovation, I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
+                            <p style="text-align: justify;"><b><a href="https://www.accenture.com/ie-en/blogs/blogs-centre-innovation-dublin-default" target="_new">Accenture - The Dock</a></b> is a multidisciplinary research and incubation hub, developing solutions to some of society’s most complex issues. We help clients unlock their potential through an entirely new approach to innovation, shaped by design-led experimentation and co-creation, and powered by new and emerging technology.</p>
+                            <p style="text-align: justify;">As a <b>Software Development Associate Manager</b> at Accenture - The Dock, I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Software Development Associate Manager</strong>
@@ -366,7 +376,41 @@
             </div>
         </div>
     </div>
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Xchange Up</h2>
+                            <hr class="star-primary">
+                            <p style="text-align: justify;"><b><a href="http://www.xchangeup.com" target="_new">Xchange Up</a></b> is a <b>P2P currency exchange app</b> that enables users to securely connect with other trusted users at airports in order to exchange foreign currency for the exact fair rate.</p>
+                            <p style="text-align: justify;">As a <b>CEO and CTO</b> I am leading the business strategy and technical architecture design for this platform, aiming to evolve rapidly with customer feedback, become revenue generating, raise seed funding and fuel up the growth engine.</p>
+                            <ul class="list-inline item-details">
+                                <li>Role:
+                                    <strong>Co-founder, CEO and CTO</strong>
+                                </li>
+                                <li>Dates:
+                                    <strong>Jan 2017 - Present</strong>
+                                </li>
+                                <li>Location:
+                                    <strong>Dublin (Ireland)</strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
