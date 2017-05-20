@@ -102,7 +102,7 @@
                     <p>After two enriching years in academia, joined <a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre" target="_new">Accenture - The Dock</a> as a <b>Software Development Associate Manager</b>, where I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>I combine this role with a <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In January 2017 I founded with three colleagues a new startup, <a href="http://xchangeup.com" target="_new">XchangeUp</a>, a P2P currency exchange platform where I work as <b>CEO</b> and <b>CTO</b>.</p> <p>I <b>co-founded</b> the <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects) and the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a>.</p> <p>Passionate about technology and entrepreneurship, I have founded two <b>meetup groups</b> and I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
+                    <p>For 2.5 years I held a part-time <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a multi-award winning startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In the past I also founded the <a href="http://xchangeup.com" target="_new">XchangeUp</a> (P2P currency exchange platform), <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects), the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a> and the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group (+2000 members). <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
                 </div>
             </div>
         </div>
@@ -390,14 +390,15 @@
                         <div class="modal-body">
                             <h2>XchangeUp</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="http://www.xchangeup.com" target="_new">XchangeUp</a></b> is a <b>P2P currency exchange app</b> that enables users to securely connect with other trusted users at airports in order to exchange foreign currency for the exact fair rate.</p>
-                            <p style="text-align: justify;">As a <b>CEO and CTO</b> I am leading the business strategy and technical architecture design for this platform, aiming to evolve rapidly with customer feedback, become revenue generating, raise seed funding and fuel up the growth engine.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.xchangeup.com" target="_new">XchangeUp</b> was a <b>P2P currency exchange app</b> that enabled users to securely connect with other trusted users at airports in order to exchange foreign currency for the exact fair rate.</p>
+                            <p style="text-align: justify;">As a <b>CEO and CTO</b> I was leading the business strategy and technical architecture design for this platform, aiming to evolve rapidly with customer feedback, become revenue generating, raise seed funding and fuel up the growth engine.</p>
+                            <p style="text-align: justify;">XchangeUp was one of the 30 startups selected, among 150 applicants, to participate in <a href="http://www.dit.ie/hothouse/newfrontiers/newfrontiersprogramme/" target="_new">National Entrepreneurs Development Program - New Frontiers</a> Phase 1 in 2017.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong>Co-founder, CEO and CTO</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Jan 2017 - Present</strong>
+                                    <strong>Jan 2017 - May 2017</strong>
                                 </li>
                                 <li>Location:
                                     <strong>Dublin (Ireland)</strong>
