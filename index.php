@@ -363,7 +363,7 @@
                                     <strong>CTO</strong>
                                 </li>
                                 <li>Dates:
-                                    <strong>Dec 2014 - Present</strong>
+                                    <strong>Dec 2014 - Jun 2017</strong>
                                 </li>
                                 <li>Location:
                                     <strong>Dublin (Ireland)</strong>
