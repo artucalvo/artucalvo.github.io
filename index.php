@@ -80,7 +80,7 @@
                     <div class="intro-text">
                         <span class="name">Arturo Calvo</span>
                         <hr class="star-light">
-                        <span class="skills">Software Engineer &amp; Internet Entrepreneur</span>
+                        <span class="skills">Software Engineer &amp; Digital Entrepreneur</span>
                     </div>
                 </div>
             </div>
@@ -99,10 +99,10 @@
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
                     <p>I am a software professional with over ten years of experience working in startups, corporations and academia, from development to management roles.</p> <p>Early in my career I worked as a <b>Software Engineer</b> and <b>IT Business Analyst</b> in Ireland and Spain.</p> <p>In 2012 I quit my job and set up <i>Greenweaving</i>, a web app to generate interactive diagrams on the fly.</p> <p>A few months later I co-founded <i>iFlikeU</i>, an app to find matches safely among Facebook friends.</p> <p>My third startup was <a href="http://www.dialective.com" target="_new">Dialective</a>, a web app to easily generate online catalogs for SMEs and share them with the world. Dialective raised $180K in funding and won multiple awards around Europe.</p> <p>In 2014 I started working as a <b>Senior Research Software Architect</b> at <a href="http://www.adaptcentre.ie" target="_new">ADAPT Centre</a>, a world-class innovation hub based in Trinity College Dublin, where I led the development of research projects in the areas of <b>Machine Learning</b>, <b>Team Collaboration</b> and <b>Ethics</b>.</p>
-                    <p>After two enriching years in academia, joined <a href="https://www.accenture.com/ie-en/careers/dublin-innovation-centre" target="_new">Accenture - The Dock</a> as a <b>Software Development Associate Manager</b>, where I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
+                    <p>After two enriching years in academia, joined <a href="https://www.accenture.com/no-en/" target="_new">Accenture</a> as a <b>Digital Business Integration Associate Manager</b>, first in Dublin (Ireland) and later in Oslo (Norway), where I am leading the architecting and development of large cross-industry projects.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>For 2.5 years I held a part-time <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a Word Economic Forum awarded startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In the past I also founded the <a href="http://xchangeup.com" target="_new">XchangeUp</a> (P2P currency exchange platform), <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects), the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a> and the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group (+2000 members). <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
+                    <p>For 2.5 years I held a part-time <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a Word Economic Forum awarded startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In the past I also founded the <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects), the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a> and the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group (+2500 members). <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
                 </div>
             </div>
         </div>
@@ -320,19 +320,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Accenture - The Dock</h2>
+                            <h2>Accenture</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="https://www.accenture.com/ie-en/blogs/blogs-centre-innovation-dublin-default" target="_new">Accenture - The Dock</a></b> is a multidisciplinary research and incubation hub, developing solutions to some of society’s most complex issues. We help clients unlock their potential through an entirely new approach to innovation, shaped by design-led experimentation and co-creation, and powered by new and emerging technology.</p>
-                            <p style="text-align: justify;">As a <b>Software Development Associate Manager</b> at Accenture - The Dock, I am leading the development of large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
+                            <p style="text-align: justify;"><b><a href="https://www.accenture.com/ie-en/blogs/blogs-centre-innovation-dublin-default" target="_new">Accenture - The Dock</a></b> is a multidisciplinary research and incubation hub, developing solutions to some of society’s most complex issues. We help clients unlock their potential through an entirely new approach to innovation, shaped by design-led experimentation and co-creation, and powered by new and emerging technology. As a <b>Software Development Associate Manager</b> at Accenture - The Dock (10-months), I was architecting and developing large cross-industry projects that apply cutting-edge research on <b>Data Science</b> to different verticals.</p>
+                            <p style="text-align: justify;">In August 2017 I voluntarely relocated to <b><a href="https://www.accenture.com/no-en/" target="_new">Accenture Norway</a></b>, where I hold a <b>Digital Business Integration Associate Manager</b> position, leading the architecting and development of innovative solutions to complex problems for our clients.</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
-                                    <strong>Software Development Associate Manager</strong>
+                                    <strong>Digital Business Integration Associate Manager</strong>
                                 </li>
                                 <li>Dates:
                                     <strong>Nov 2016 - Present</strong>
                                 </li>
                                 <li>Location:
-                                    <strong>Dublin (Ireland)</strong>
+                                    <strong>Oslo (Norway)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
