@@ -102,7 +102,7 @@
                     <p>After two enriching years in academia, joined <a href="https://www.accenture.com/no-en/" target="_new">Accenture</a> as a <b>Digital Business Integration Manager</b> and <b>Technology Architect</b>, first in Dublin (Ireland) and later in Oslo (Norway), where I am designing the technology architecture and leading the development of large cross-industry projects.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>For 2.5 years I held a part-time <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a Word Economic Forum awarded startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In the past I also founded the <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects), the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a> and the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group (+2500 members). <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
+                    <p>In addition, I am a <b>lecturer</b> on entrepreneurship and Lean Startup at Fundación General de la Universidad de La Laguna (Spain).</p> <p>For 2.5 years I held a part-time <b>CTO</b> position in <a href="https://www.sedicii.com" target="_new">Sedicii</a>, a Word Economic Forum awarded startup that provides identity verification services, eliminating the need to transmit sensitive data over the network.</p> <p>In the past I also founded the <a href="https://www.ethicscanvas.org" target="_new">Ethics Canvas</a> (collaborative tool to brainstorm about ethical impacts of digital projects), the <a href="http://www.srsireland.org" target="_new">Spanish Research Society in Ireland</a> and the <a href="https://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group (+2500 members). <p>Passionate about technology and entrepreneurship, I am <b>investor</b>, <b>advisor</b> and <b>mentor</b> in multiple startups and innovation programs.</p> <p>In addition, I have <b>Entrepreneurship</b> and <b>Business Management</b> certifications from Dublin Institute of Technology and Universidad a Distancia de Madrid respectively.</p> <p>My goal is to keep working on cutting-edge projects where I can have a clear impact, in an inspiring environment anywhere in the world. <a href="#contact">Ping me</a> if you want to have a chat!</p>
                 </div>
             </div>
         </div>
@@ -126,6 +126,16 @@
                             </div>
                         </div>
                         <img src="img/portfolio/accenture.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+				<div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/fgull.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -293,7 +303,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        &copy; Arturo Calvo 2017
+                        &copy; Arturo Calvo 2018
                     </div>
                 </div>
             </div>
@@ -333,6 +343,53 @@
                                 </li>
                                 <li>Location:
                                     <strong>Oslo (Norway)</strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Fundación General de la Universidad de La Laguna</h2>
+                            <hr class="star-primary">
+                            <p style="text-align: justify;">I am the lecturer of the online course <a href="http://www.periodismoull.es/la-universidad-de-la-laguna-ofrece-dos-nuevos-cursos-de-formacion-gratuitos/" target="_new"><b>Startup Innovation Lab</b></a>, which is part of a Government-funded special program for unemployed young people with university degrees. This course lasts three weeks and runs six times a year.</p>
+							<p style="text-align: justify;">These are the ten topics of the course:</p>
+							<ul>
+								<li>Lean Startup methodology</li>
+								<li>Lean Canvas and Business Model Canvas</li>
+								<li>Business Metrics</li>
+								<li>Market Research</li>
+								<li>Minimum Viable Product</li>
+								<li>Revenue Streams</li>
+								<li>Setting up a company</li>
+								<li>Funding your company</li>
+								<li>Business Plan</li>
+								<li>Pitch</li>
+							</ul>
+
+                            <ul class="list-inline item-details">
+                                <li>Role:
+                                    <strong>Lecturer on Entrepreneurship and Lean Startup</strong>
+                                </li>
+                                <li>Dates:
+                                    <strong>May 2017 - Present</strong>
+                                </li>
+                                <li>Location:
+                                    <strong>Tenerife (Spain)</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -390,7 +447,7 @@
                         <div class="modal-body">
                             <h2>XchangeUp</h2>
                             <hr class="star-primary">
-                            <p style="text-align: justify;"><b><a href="http://www.xchangeup.com" target="_new">XchangeUp</b> was a <b>P2P currency exchange app</b> that enabled users to securely connect with other trusted users at airports in order to exchange foreign currency for the exact fair rate.</p>
+                            <p style="text-align: justify;"><b><a href="http://www.xchangeup.com" target="_new">XchangeUp</b></a> was a <b>P2P currency exchange app</b> that enabled users to securely connect with other trusted users at airports in order to exchange foreign currency for the exact fair rate.</p>
                             <p style="text-align: justify;">As a <b>CEO and CTO</b> I was leading the business strategy and technical architecture design for this platform, aiming to evolve rapidly with customer feedback, become revenue generating, raise seed funding and fuel up the growth engine.</p>
                             <p style="text-align: justify;">XchangeUp was one of the 30 startups selected, among 150 applicants, to participate in <a href="http://www.dit.ie/hothouse/newfrontiers/newfrontiersprogramme/" target="_new">National Entrepreneurs Development Program - New Frontiers</a> Phase 1 in 2017.</p>
                             <ul class="list-inline item-details">
