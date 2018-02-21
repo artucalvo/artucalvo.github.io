@@ -367,7 +367,7 @@
                             <h2>Fundación General de la Universidad de La Laguna</h2>
                             <hr class="star-primary">
                             <p style="text-align: justify;">I am the lecturer of the online course <a href="http://www.periodismoull.es/la-universidad-de-la-laguna-ofrece-dos-nuevos-cursos-de-formacion-gratuitos/" target="_new"><b>Startup Innovation Lab</b></a>, which is part of a Government-funded special program for unemployed young people with university degrees. This course lasts three weeks and runs six times a year.</p>
-							<p style="text-align: justify;">These are the ten topics of the course:</p>
+							<p style="text-align: justify;">These are the ten topics of the course:
 							<ul>
 								<li>Lean Startup methodology</li>
 								<li>Lean Canvas and Business Model Canvas</li>
@@ -380,6 +380,7 @@
 								<li>Business Plan</li>
 								<li>Pitch</li>
 							</ul>
+							</p>
 
                             <ul class="list-inline item-details">
                                 <li>Role:
