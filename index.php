@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Arturo Calvo - Software Engineer and Digital Entrepreneur">
+    <meta name="description" content="Arturo Calvo - Tech Manager and Digital Entrepreneur">
     <meta name="author" content="Arturo Calvo">
 
-    <title>Arturo Calvo - Technical Architect &amp; Digital Entrepreneur</title>
+    <title>Arturo Calvo - Tech Manager &amp; Digital Entrepreneur</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -80,7 +80,7 @@
                     <div class="intro-text">
                         <span class="name">Arturo Calvo</span>
                         <hr class="star-light">
-                        <span class="skills">Technical Architect &amp; Digital Entrepreneur</span>
+                        <span class="skills">Tech Manager &amp; Digital Entrepreneur</span>
                     </div>
                 </div>
             </div>
