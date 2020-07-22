@@ -247,7 +247,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                  <form action="https://formspree.io/xbjzqdez" method="POST" name="sentMessage" novalidate>
+                  <form action="https://formspree.io/xbjzqdez" method="POST" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
@@ -258,7 +258,7 @@
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email Address</label>
-                                <input name="_replyto" type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <input name="email" type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -273,7 +273,8 @@
                         <div id="success"></div>
                         <div class="row">
                             <div class="form-group col-xs-12">
-                                <input type="submit" class="btn btn-success btn-lg"></input>
+                                <input type="submit" id="contactButton" class="btn btn-success btn-lg"></input>
+				<p id="contactStatus"></p>
 			    </div>
                         </div>
 		  </form>
@@ -762,18 +763,6 @@
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
 
-    <form id="my-form"
-  action="https://formspree.io/xbjzqdez"
-  method="POST"
->
-  <label>Email:</label>
-  <input type="email" name="email" />
-  <label>Message:</label>
-  <input type="text" name="message" />
-  <button id="my-form-button">Submit</button>
-  <p id="my-form-status"></p>
-</form>
-
 </body>
 
 <script>
@@ -781,9 +770,9 @@
 
     // get the form elements defined in your form HTML above
     
-    var form = document.getElementById("my-form");
-    var button = document.getElementById("my-form-button");
-    var status = document.getElementById("my-form-status");
+    var form = document.getElementById("contactForm");
+    var button = document.getElementById("contactButton");
+    var status = document.getElementById("contactStatus");
 
     // Success and Error functions for after the form is submitted
     
