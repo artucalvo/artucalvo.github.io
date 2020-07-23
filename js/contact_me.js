@@ -1,3 +1,4 @@
+<!--
 $(function() {
 
     $("input,textarea").jqBootstrapValidation({
@@ -12,7 +13,6 @@ $(function() {
             $('#contactForm').trigger("reset");
         },
         submitSuccess: function($form, event) {
-            event.preventDefault(); // prevent default submit behaviour
             $('#success').html("<div class='alert alert-success'>");
             $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
             	.append("</button>");
@@ -38,4 +38,4 @@ $(function() {
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {
     $('#success').html('');
-});
+}); -->
