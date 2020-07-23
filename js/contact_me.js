@@ -8,8 +8,6 @@ $(function() {
             	.append("</button>");
             $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", it seems that the mail server is not responding. Please try again later!");
             $('#success > .alert-danger').append('</div>');
-            //clear all fields
-            $('#contactForm').trigger("reset");
         },
         submitSuccess: function($form, event) {
             $('#success').html("<div class='alert alert-success'>");
@@ -19,8 +17,6 @@ $(function() {
             	.append("<strong>Your message has been sent. </strong>");
             $('#success > .alert-success')
                 .append('</div>');
-            //clear all fields
-            $('#contactForm').trigger("reset");
         },
         filter: function() {
             return $(this).is(":visible");
