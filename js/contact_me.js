@@ -17,7 +17,7 @@ $(function() {
             	.append("<strong>Your message has been sent. </strong>");
             $('#success > .alert-success')
                 .append('</div>');
-          *(
+          */
         },
         filter: function() {
             return $(this).is(":visible");
