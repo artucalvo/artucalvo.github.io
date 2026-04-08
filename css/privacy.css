@@ -1,0 +1,7 @@
+.cc-window.cc-floating {
+    max-width: 100% !important;
+    width: 100% !important;
+    left: 0 !important;
+    right: 0 !important;
+    border-radius: 0 !important;
+}
