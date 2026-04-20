@@ -184,6 +184,7 @@ section.success {
     .portfolio-item {
         margin: 0 0 15px;
         right: 0;
+        text-align: center;
         .portfolio-link {
             display: block;
             position: relative;
@@ -230,6 +231,16 @@ section.success {
     #portfolio {
         .portfolio-item {
             margin: 0 0 30px;
+        }
+    }
+}
+
+@media(max-width:767px) {
+    #portfolio {
+        .portfolio-item {
+            .portfolio-link {
+                max-width: 75%;
+            }
         }
     }
 }
