@@ -36,6 +36,18 @@ document.addEventListener("DOMContentLoaded", function () {
         ].join("");
     }
 
+    function hideMobileNavbar() {
+        var toggler = document.querySelector(".navbar-toggler");
+        if (!collapseElement || !toggler || !window.bootstrap || !window.bootstrap.Collapse) return;
+        if (window.getComputedStyle(toggler).display === "none") return;
+
+        var collapse = window.bootstrap.Collapse.getOrCreateInstance(collapseElement, { toggle: false });
+        collapse.hide();
+        window.setTimeout(function () {
+            collapse.hide();
+        }, 360);
+    }
+
     document.querySelectorAll('.page-scroll a[href^="#"]').forEach(function (link) {
         link.addEventListener("click", function (event) {
             var targetId = link.getAttribute("href");
@@ -43,16 +55,14 @@ document.addEventListener("DOMContentLoaded", function () {
             if (!target) return;
             event.preventDefault();
             target.scrollIntoView({ behavior: "smooth", block: "start" });
+            hideMobileNavbar();
         });
     });
 
     if (collapseElement && window.bootstrap && window.bootstrap.Collapse) {
-        var navCollapse = window.bootstrap.Collapse.getOrCreateInstance(collapseElement, { toggle: false });
         document.querySelectorAll("#main-navbar .nav-link").forEach(function (link) {
             link.addEventListener("click", function () {
-                if (window.getComputedStyle(document.querySelector(".navbar-toggler")).display !== "none") {
-                    navCollapse.hide();
-                }
+                hideMobileNavbar();
             });
         });
     }
