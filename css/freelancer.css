@@ -898,9 +898,28 @@ footer .footer-below {
         padding-top: 75px;
     }
 
-    #about .row:nth-of-type(2) > div,
     #contact form {
         padding: 1rem;
+    }
+
+    #about .row:nth-of-type(2) {
+        gap: 0;
+    }
+
+    #about .row:nth-of-type(2) > div {
+        padding: 1rem;
+        border: none;
+        border-radius: 0;
+        background: transparent;
+        box-shadow: none;
+    }
+
+    #about .row:nth-of-type(2) > div:first-child {
+        padding-bottom: 0;
+    }
+
+    #about .row:nth-of-type(2) > div:last-child {
+        padding-top: 0;
     }
 
     .portfolio-modal .modal-dialog {
