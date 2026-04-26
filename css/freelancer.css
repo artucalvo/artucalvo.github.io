@@ -919,7 +919,7 @@ footer .footer-below {
     }
 
     #about .row:nth-of-type(2) > div:last-child {
-        padding-top: 0;
+        padding-top: 1rem;
     }
 
     .portfolio-modal .modal-dialog {
