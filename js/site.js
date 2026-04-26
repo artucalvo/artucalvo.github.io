@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
     var nameInput = document.getElementById("name");
     var floatingGroups = document.querySelectorAll(".floating-label-form-group");
     var contactButton = document.getElementById("contactButton");
+    var sectionNavLinks = Array.from(document.querySelectorAll('#main-navbar .nav-link[href^="#"]')).filter(function (link) {
+        var targetId = link.getAttribute("href");
+        return targetId && targetId !== "#page-top" && document.querySelector(targetId);
+    });
 
     function updateNavbarShrink() {
         if (!navbar) return;
@@ -48,6 +52,27 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 360);
     }
 
+    function updateActiveNavLink() {
+        var markerOffset = Math.min(window.innerHeight * 0.34, 360);
+        var marker = window.scrollY + (navbar ? navbar.offsetHeight : 0) + markerOffset;
+        var currentLink = null;
+
+        sectionNavLinks.forEach(function (link) {
+            var section = document.querySelector(link.getAttribute("href"));
+            if (!section) return;
+
+            var top = section.offsetTop;
+            var bottom = top + section.offsetHeight;
+            if (marker >= top && marker < bottom) {
+                currentLink = link;
+            }
+        });
+
+        sectionNavLinks.forEach(function (link) {
+            link.classList.toggle("active", link === currentLink);
+        });
+    }
+
     document.querySelectorAll('.page-scroll a[href^="#"]').forEach(function (link) {
         link.addEventListener("click", function (event) {
             var targetId = link.getAttribute("href");
@@ -64,13 +89,6 @@ document.addEventListener("DOMContentLoaded", function () {
             link.addEventListener("click", function () {
                 hideMobileNavbar();
             });
-        });
-    }
-
-    if (window.bootstrap && window.bootstrap.ScrollSpy) {
-        new window.bootstrap.ScrollSpy(document.body, {
-            target: "#main-navbar",
-            offset: 120
         });
     }
 
@@ -138,5 +156,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     updateNavbarShrink();
-    window.addEventListener("scroll", updateNavbarShrink, { passive: true });
+    updateActiveNavLink();
+    window.addEventListener("scroll", function () {
+        updateNavbarShrink();
+        updateActiveNavLink();
+    }, { passive: true });
+    window.addEventListener("resize", updateActiveNavLink);
 });
