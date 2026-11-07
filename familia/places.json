@@ -359,6 +359,198 @@
       "latitude": 41.503333,
       "longitude": -5.755556,
       "source": "https://www.wikidata.org/wiki/Q15696"
+    },
+    {
+      "name": "Aguilar de Campos",
+      "province": "Valladolid",
+      "latitude": 41.98485705,
+      "longitude": -5.17938513,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/aguilar-de-campos-id47003",
+      "municipality": "Aguilar de Campos"
+    },
+    {
+      "name": "Argujillo",
+      "province": "Zamora",
+      "latitude": 41.31156,
+      "longitude": -5.58763,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/69245",
+      "municipality": "Argujillo"
+    },
+    {
+      "name": "Bermillo de Sayago",
+      "province": "Zamora",
+      "latitude": 41.36577291,
+      "longitude": -6.11288886,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/bermillo-de-sayago-id49023",
+      "municipality": "Bermillo de Sayago"
+    },
+    {
+      "name": "Cazurra",
+      "province": "Zamora",
+      "latitude": 41.41569818,
+      "longitude": -5.70367864,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/cazurra-id49044",
+      "municipality": "Cazurra"
+    },
+    {
+      "name": "Cármenes",
+      "province": "León",
+      "latitude": 42.9596358,
+      "longitude": -5.57294481,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/carmenes-id24037",
+      "municipality": "Cármenes"
+    },
+    {
+      "name": "El Perdigón",
+      "province": "Zamora",
+      "latitude": 41.41340986,
+      "longitude": -5.75454973,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/perdigon-el-id49151",
+      "municipality": "El Perdigón"
+    },
+    {
+      "name": "Figueruela de Abajo",
+      "province": "Zamora",
+      "latitude": 41.86351130573351,
+      "longitude": -6.448830904189698,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Figueruela%20de%20Abajo",
+      "municipality": "Figueruela de Arriba"
+    },
+    {
+      "name": "Fuente el Carnero",
+      "province": "Zamora",
+      "latitude": 41.32528335071569,
+      "longitude": -5.707989209143002,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Fuente%20el%20Carnero",
+      "municipality": "Corrales del Vino"
+    },
+    {
+      "name": "La Hiniesta",
+      "province": "Zamora",
+      "latitude": 41.55247939,
+      "longitude": -5.79869771,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/hiniesta-la-id49095",
+      "municipality": "La Hiniesta"
+    },
+    {
+      "name": "Luelmo",
+      "province": "Zamora",
+      "latitude": 41.43972004,
+      "longitude": -6.13474539,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/luelmo-id49101",
+      "municipality": "Luelmo"
+    },
+    {
+      "name": "Mansilla de las Mulas",
+      "province": "León",
+      "latitude": 42.49865875,
+      "longitude": -5.41644441,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/mansilla-de-las-mulas-id24094",
+      "municipality": "Mansilla de las Mulas"
+    },
+    {
+      "name": "Muga de Sayago",
+      "province": "Zamora",
+      "latitude": 41.38779,
+      "longitude": -6.19777,
+      "source": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/73014",
+      "municipality": "Muga de Sayago"
+    },
+    {
+      "name": "San Miguel de la Ribera",
+      "province": "Zamora",
+      "latitude": 41.33270849,
+      "longitude": -5.57597025,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/san-miguel-de-la-ribera-id49191",
+      "municipality": "San Miguel de la Ribera"
+    },
+    {
+      "name": "Sobradillo de Palomares",
+      "province": "Zamora",
+      "latitude": 41.37352,
+      "longitude": -5.89834,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/79266",
+      "municipality": "Pereruela"
+    },
+    {
+      "name": "Tudera",
+      "province": "Zamora",
+      "latitude": 41.417126112191504,
+      "longitude": -6.210026240722596,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Tudera",
+      "municipality": "Fariza"
+    },
+    {
+      "name": "Viana",
+      "province": "Navarra",
+      "latitude": 42.51526446,
+      "longitude": -2.37140346,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/viana-id31251",
+      "municipality": "Viana"
+    },
+    {
+      "name": "Villada",
+      "province": "Palencia",
+      "latitude": 42.24894479,
+      "longitude": -4.96783751,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/villada-id34206",
+      "municipality": "Villada"
+    },
+    {
+      "name": "Villaescusa",
+      "province": "Zamora",
+      "latitude": 41.20682328,
+      "longitude": -5.46368757,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/villaescusa-id49241",
+      "municipality": "Villaescusa"
+    },
+    {
+      "name": "Villaralbo",
+      "province": "Zamora",
+      "latitude": 41.489689,
+      "longitude": -5.683927,
+      "source": "https://www.villaralbo.es/villaralbo-localizacion-geografica/",
+      "municipality": "Villaralbo"
+    },
+    {
+      "name": "Villardondiego",
+      "province": "Zamora",
+      "latitude": 41.58441752,
+      "longitude": -5.37843179,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/villardondiego-id49267",
+      "municipality": "Villardondiego"
+    },
+    {
+      "name": "Villaseco del Pan",
+      "province": "Zamora",
+      "municipality": "Villaseco del Pan",
+      "latitude": 41.46834751,
+      "longitude": -5.96450215,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/villaseco-del-pan-id49269"
+    },
+    {
+      "name": "Las Hormazas",
+      "province": "Burgos",
+      "municipality": "Las Hormazas",
+      "latitude": 42.52550063,
+      "longitude": -3.92907399,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/hormazas-las-parte-la-id09166"
+    },
+    {
+      "name": "Sever",
+      "province": "Ourense",
+      "municipality": "Viana do Bolo",
+      "latitude": 42.0966669653838,
+      "longitude": -7.009401432628839,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Sever%2C%20Viana%20do%20Bolo"
+    },
+    {
+      "name": "Chaguazoso",
+      "province": "Ourense",
+      "municipality": "A Mezquita",
+      "latitude": 41.97494670289011,
+      "longitude": -7.045339256983714,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Chaguazoso%2C%20A%20Mezquita"
     }
   ]
 }

@@ -48,13 +48,13 @@ node --test familia/tree-layout.test.mjs
 
 La pestaña «Lugares» carga el mapa interactivo cuando se abre. Utiliza Leaflet 1.9.4 y las teselas de OpenStreetMap, con su atribución visible. La biblioteca y su licencia se conservan localmente entre los recursos de la página. Los marcadores y sus agrupaciones permiten explorar las localidades; la búsqueda y la lista de lugares también permiten seleccionar una localidad y encontrar sus personas relacionadas. Si las teselas no están disponibles, la lista sigue siendo utilizable.
 
-`familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. Los cuarenta y cinco lugares del índice tienen coordenadas verificadas en España. Las posiciones representan el centro o un punto representativo oficial de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora y Roales corresponde a Roales del Pan (Zamora), según la confirmación de la familia; también existen un Roales en Valderas (León) y Roales de Campos (Valladolid). Los once lugares que añade `TATARABUELOS SEGUNDOS.docx` también están en la provincia de Zamora. Fresnadillo es la localidad de Bermillo de Sayago que `TATARABUELOS TERCEROS.docx` llama Fresnadillo de Sayago; Muga de Alba pertenece a Losacino, y Sogo, a Pereruela. Fuentesaúco es el municipio zamorano, a menos de veinte kilómetros de El Cubo del Vino, y no Fuentesaúco de Fuentidueña (Segovia).
+`familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. El índice contiene sesenta y ocho referencias de lugar, con coordenadas verificadas para sesenta y siete localidades o municipios de España; Galicia se conserva como referencia regional sin marcador. Las posiciones representan el centro o un punto representativo oficial de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora y Roales corresponde a Roales del Pan (Zamora), según la confirmación de la familia; también existen un Roales en Valderas (León) y Roales de Campos (Valladolid). Los once lugares que añade `TATARABUELOS SEGUNDOS.docx` también están en la provincia de Zamora. Fresnadillo es la localidad de Bermillo de Sayago que `TATARABUELOS TERCEROS.docx` llama Fresnadillo de Sayago; Muga de Alba pertenece a Losacino, y Sogo, a Pereruela. Fuentesaúco es el municipio zamorano, a menos de veinte kilómetros de El Cubo del Vino, y no Fuentesaúco de Fuentidueña (Segovia).
 
 Al añadir un lugar nuevo, la lista sigue funcionando aunque todavía no tenga coordenadas. Comprueba su municipio y provincia antes de incorporarlo al mapa y pregunta a la familia si la localidad no se puede identificar con seguridad. No asignes una posición por aproximación ni conviertas una iglesia citada en las notas en una localidad independiente.
 
 ## Alcance y procedencia de los datos
 
-El archivo contiene doscientas cincuenta y una personas y hasta diez generaciones conectadas, con Arturo Calvo Devesa como punto de partida. La profundidad máxima incluye la pareja de antepasados compartida por Margarita y Fernando Girón Fernández, que aparecen en generaciones distintas del árbol. La ficha de Arturo incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
+El archivo contiene cuatrocientas sesenta y tres personas y hasta once generaciones conectadas, con Arturo Calvo Devesa como punto de partida. La profundidad máxima incluye la pareja de antepasados compartida por Margarita y Fernando Girón Fernández, que aparecen en generaciones distintas del árbol. La ficha de Arturo incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
 
 Los documentos recibidos pertenecen a la ascendencia de Bernardo Calvo Brioso. No se han atribuido esos antepasados a la rama Devesa Herrero ni se han creado ascendientes maternos de Arturo sin documentación. Los títulos de los documentos se interpretan respecto de Bernardo:
 
@@ -63,7 +63,8 @@ Los documentos recibidos pertenecen a la ascendencia de Bernardo Calvo Brioso. N
 - `BISABUELOS.docx`: amplía las ocho fichas de esos progenitores y aporta los nombres de sus dieciséis padres.
 - `TATARABUELOS PRIMEROS.docx`: amplía las dieciséis fichas de esos padres y aporta los nombres de sus treinta y dos padres.
 - `TATARABUELOS SEGUNDOS.docx`: amplía las treinta y dos fichas de esos padres y aporta los nombres de sus sesenta y cuatro padres.
-- `TATARABUELOS TERCEROS.docx`: amplía esas sesenta y cuatro fichas y añade ciento veinte padres identificados sin ambigüedad. Reutiliza dos fichas existentes para los padres de Fernando Girón Fernández; otras seis menciones de padres quedan pendientes de resolver tres identidades repetidas.
+- `TATARABUELOS TERCEROS.docx`: amplía esas sesenta y cuatro fichas y añade ciento veinte padres identificados sin ambigüedad. Reutiliza dos fichas existentes para los padres de Fernando Girón Fernández; otras seis menciones de padres quedan pendientes de resolver tres identidades repetidas. Estas tres identidades se resuelven con el lote siguiente.
+- `TATARABUELOS CUARTOS.docx`: amplía ciento veintidós fichas existentes, resuelve las tres identidades anteriores mediante cinco personas y añade doscientos siete progenitores identificados sin ambigüedad. Las fechas, identidades y localidades que siguen pendientes se detallan en el registro de este lote.
 
 Las personas repetidas entre documentos comparten una sola ficha. Se conservan los identificadores anteriores de Enrique y Benito, aunque `BISABUELOS.docx` amplía sus nombres a Enrique Brioso de Mena y Benito José de las Heras Rabanal, y el de Ángel, aunque `TATARABUELOS PRIMEROS.docx` amplía su nombre a Ángel Celedonio Prada Girón. Del mismo modo, `TATARABUELOS SEGUNDOS.docx` amplía los nombres de Diego Benito Calvo Salvador, María Juana Morales Valladolid y María Rosa de las Mercedes Hernández Martín sin cambiar sus identificadores; el documento abrevia «Mª Rosa», y se mantiene «María Rosa», como la escribe `TATARABUELOS PRIMEROS.docx`. Por decisión de la familia, Manuel Prada Sebastián pasa a llamarse Manuel de Prada Sebastián, como lo escriben las dos versiones de `TATARABUELOS SEGUNDOS.docx`, y conserva su identificador; su hijo mantiene el nombre de Ángel Celedonio Prada Girón. Los apellidos de Mena y de Prada se conservan como entradas compuestas. Las personas documentadas incluyen `source`; las tres fichas aportadas directamente por la familia no muestran una atribución documental.
 
@@ -142,13 +143,13 @@ La familia también ha identificado las tres localidades que no se podían situa
 
 | Persona | Lectura de la fuente | Localidad confirmada por la familia |
 | --- | --- | --- |
-| Matías Ibáñez, padre de Gabriel, MATERNOS 23 | «Matías Ibáñez (Viana)» | Viana do Bolo (Ourense). |
+| Matías Ibáñez, padre de Gabriel, MATERNOS 23 | «Matías Ibáñez (Viana)» | Viana do Bolo (Ourense); sustituido por Viana, Navarra, por decisión familiar en el lote CUARTOS. |
 | Agustina Pérez, madre de Gabriel, MATERNOS 23 | «Agustina Pérez (San Pedro de Tráveas)» | San Pedro de Trasverea, Riós (Ourense). |
 | Ángela Macías, madre de Pedro Bragado, MATERNOS 31 | «Ángela Macías (Corrales)» | Corrales del Vino (Zamora). |
 
-### Pendientes de confirmación
+### Pendientes al cerrar el lote TERCEROS
 
-La familia ha pedido dejar pendientes el fallecimiento de Bernardo y las tres identidades repetidas. Estos datos no se incorporan a los eventos, relaciones ni observaciones personales mientras no se resuelvan. Se mantiene el resto de información inequívoca de las personas afectadas.
+Al cerrar este lote, la familia pidió dejar pendientes el fallecimiento de Bernardo y las tres identidades repetidas. La tabla conserva el estado de entonces; las identidades de Pedro de Prada, Catalina Cabrero y Lorenzo Roncero se resuelven en el lote CUARTOS, como se detalla más abajo. El fallecimiento de Bernardo sigue sin incorporarse a los eventos ni a las observaciones personales.
 
 | Dato | Valor existente antes del lote | Lectura y contexto de la fuente | Estado |
 | --- | --- | --- | --- |
@@ -158,3 +159,93 @@ La familia ha pedido dejar pendientes el fallecimiento de Bernardo y las tres id
 | Lorenzo Roncero | No existían fichas ni enlaces para esos padres. | MATERNOS 10: «Lorenzo Roncero (Tardobispo) y Dorotea Hernández (Tardobispo)», padres de Joaquina Paula, nacida en 1748. MATERNOS 28: «Lorenzo Roncero (Tardobispo) y Micaela Pérez (Tardobispo)», padres de Francisca, nacida en 1771. | No se decide si es uno o dos hombres; ambos enlaces paternos quedan pendientes. |
 
 No se han añadido transcripciones de partidas que no se hayan facilitado.
+
+## Lote TATARABUELOS CUARTOS
+
+Se han comparado íntegramente las dos versiones facilitadas, con sesenta y cuatro entradas PATERNOS y sesenta y cuatro MATERNOS, referidas a Bernardo Calvo Brioso. La de «Árbol genealógico/Tatarabuelos cuartos» fue modificada el 29-08-2015 y la de «Árbol genealógico2», el 31-08-2018, según sus metadatos internos. Se citan como una sola fuente, `TATARABUELOS CUARTOS.docx`, no como dos testimonios independientes. Las treinta y dos diferencias de texto son complementarias: la versión de 2018 añade ocho matrimonios, once fallecimientos, cuatro lugares de nacimiento y el lugar de referencia de los padres de Andrea Juárez Hernández. Las fotografías quedan fuera de este lote y no se han consultado.
+
+| Versión | SHA-256 |
+| --- | --- |
+| 2018, «Árbol genealógico2» | `c3b7838980def795d465d018e1e7f4f78748a3f4e994bcf5adfce2ef78b11c20` |
+| 2015, «Tatarabuelos cuartos» | `c41f8c7cf07db6ea87a71cf6df5e59259a9b828b62338c78594041a4a4df6c77` |
+
+Las ciento veintiocho entradas corresponden a ciento veintisiete personas distintas, porque Lorenzo Roncero Herrero aparece dos veces. Se amplían ciento veintidós fichas existentes y se crean cinco para las identidades que estaban pendientes en el lote anterior. También se actualizan los enlaces parentales de seis hijos existentes. Los doscientos siete padres nuevos identificados sin ambigüedad elevan el archivo a cuatrocientas sesenta y tres personas y hasta once generaciones conectadas. Se conservan los identificadores anteriores, aunque se amplíen los nombres, entre ellos Ana Francisca Rodríguez Alonso, Francisca Isabel Ocampo Rodríguez, Esteban Vicente Martín Marqués y Jerónimo Juan Pérez Hernández. Francisco Girón Martín es el Francisco Santos Girón Martín ya documentado: conserva su nombre completo, sus fechas confirmadas y una sola ficha, igual que Josefa Fernández de la Peña.
+
+Los lugares anteriores se conservan como referencia si no son redundantes con un nacimiento documentado: por ejemplo, Juan Gonzalo Diego mantiene Fadón y añade su nacimiento en Gáname. Los padres nuevos solo reciben los nombres y lugares inequívocos del texto. No se atribuyen eventos a partir de los lugares entre paréntesis.
+
+### Precisión de los eventos
+
+«Falleció» se transcribe como fallecimiento. El documento no aporta fechas de funeral, sepultura ni inscripción; tampoco edades de las que calcular nacimientos. No se aplica la deducción de muerte a partir de sepultura autorizada para fotografías de otro lote. Los bautismos se registran separados de los nacimientos y no reciben localidad cuando esta no es expresa. S. Sebastián de los Caballeros, Santa María la Nueva, San Juan Bautista, S. Lorenzo, S. Torcuato, S. Antolín y S. Lázaro se conservan en las notas de los eventos correspondientes, sin crear localidades nuevas ni inferir entierros.
+
+El nacimiento de Ana Francisca Rodríguez Alonso solo tiene año, `1719`, y el de Manuel Pérez Roncero solo mes y año, `1706-06`. Los nacimientos anteriores a 1718 de Bernardo Calvo Alonso, a 1773 de Manuela Garrido Magarzo y Juan Lorenzo, y a 1696 de Pedro de Prada de Torrefrades se conservan en notas, sin asignar `date`. Los años de inicio o las lagunas de los libros de Félix Santamaría, Isabel Puertas e Inés Delgado describen la documentación disponible, no fechas de vida ni intervalos de nacimiento.
+
+La entrada PATERNOS 60 tiene el encabezamiento «Ana Delgado Hernández Gáname el 09-02-1750.». La fecha y el lugar finales repiten el matrimonio de Domingo Sastre Esteban y Águeda Gonzalo Gaspar y no se atribuyen a Ana. Se transcriben sus líneas expresas: nacimiento en Fadón el 29-03-1751 y matrimonio allí el 26-01-1775. No se añade una observación personal por este residuo del encabezamiento.
+
+### Decisiones de la familia el 7 de noviembre de 2026
+
+| Dato | Valor anterior o lectura de la fuente | Decisión |
+| --- | --- | --- |
+| Matías Ibáñez Garralete, MATERNOS 45 | La ficha tenía `origins: Viana do Bolo`, por confirmación familiar del lote anterior. La versión de 2018 dice «Nació en Viana (Navarra)»; la de 2015 deja el nacimiento en blanco. | Se registra el nacimiento en Viana, Navarra, sin fecha, y se retira el lugar de referencia Viana do Bolo. Esta decisión sustituye la identificación anterior para esta persona. La familia confirmó después que el «Viana» de su madre también es Viana, Navarra. |
+| Pedro de Prada, PATERNOS 11 y MATERNOS 49 | «Pedro de Prada Martín», nacido en Morales del Vino el 23-05-1708, frente a «Pedro de Prada», nacido en Torrefrades antes de 1696. | Son dos hombres. El primero se enlaza como padre de Felipa de Prada Martín; el segundo, de Diego de Prada Delgado. Se crean dos fichas y se resuelven los dos enlaces pendientes del lote anterior. |
+| Catalina Cabrero Marqués, MATERNOS 2 y 6 | La mujer de Baltasar Brioso es hija de «Francisco Cabrero […] e Inés Marqués»; la de Nicolás Alonso, de «Manuel Cabrero y Catalina Marqués». | Son dos mujeres, con fichas distintas y enlaces a Alonso Vicente Brioso Cabrero y Bernardo Mariano Alonso Cabrero, respectivamente. |
+| Lorenzo Roncero Herrero, MATERNOS 19 y 55 | Ambas entradas lo hacen hijo de «Manuel Roncero […] y Lucía Herrero»; la primera cita a Dorotea Hernández de la Fuente y la segunda a Micaela Pérez Hernández. | Es un solo hombre. Se reúnen los matrimonios del 20-01-1738 y 17-11-1755 en Tardobispo y los enlaces a Joaquina Paula Roncero Hernández y Francisca Roncero Pérez. Lucía conserva Tardobispo y Pereruela como lugares de referencia, sin atribuir nacimientos. |
+
+### Pendientes de este lote
+
+La familia ha pedido dejar pendientes las tres parejas de fechas y las nuevas menciones repetidas de padres consultadas. Las posibles coincidencias adicionales también se mantienen sin resolver; la familia confirmó que Bernardo Calvo, Juan Gonzalo, Manuel Pérez y Manuel Martín deben seguir pendientes. Las localidades confirmadas se recogen abajo; San Cristóbal sigue sin identificar. No se corrigen fechas, no se deciden identidades por el nombre y no se trasladan las discrepancias a `observations`. Continúa incorporada la información independiente e inequívoca. El fallecimiento de Bernardo Feltrero Esteban del lote TERCEROS sigue pendiente.
+
+Las tres personas siguientes no tenían fechas de nacimiento ni bautismo antes del lote. Se conservan los lugares de nacimiento documentados, pero ninguna de las seis fechas se incorpora mientras no se resuelva el bautismo anterior al nacimiento.
+
+| Persona | Lectura de ambas versiones | Estado |
+| --- | --- | --- |
+| Lorenzo Feltrero Calles, PATERNOS 45 | «Nació en Fadón el 30-07-1707. Fue bautizado el 10-07-1707.» | Nacimiento y bautismo sin fecha. |
+| Esteban Vicente Martín Marqués, MATERNOS 3 | «Nació en Morales del Vino el 02-08-1737. Fue bautizado el 14-02-1737.» | Nacimiento y bautismo sin fecha. |
+| Lorenzo Roncero Herrero, MATERNOS 19 | «Nació en Tardobispo el 06-08-1712. Fue bautizado el 18-06-1712.» | Nacimiento y bautismo sin fecha; su identidad única sí está confirmada. |
+
+Las menciones parentales de la tabla siguiente no tenían fichas ni enlaces propios antes de este lote. Cuando existe una posible coincidencia con una ficha enriquecida, se muestra su contexto. Quedan sin incorporar todos los enlaces afectados y no se crean personas adicionales por estas menciones hasta confirmar si se trata de una o varias personas.
+
+| Identidad pendiente | Situación conservada | Lectura y contexto de la fuente |
+| --- | --- | --- |
+| Isabel Martín | Sin enlaces maternos para María Terrón Martín y José Girón Martín. | PATERNOS 4: «Andrés Terrón e Isabel Martín»; MATERNOS 21: «Manuel Girón e Isabel Martín». |
+| María Martín | Sin enlaces maternos para Pedro de Prada Martín y Miguel Martín Martín. | PATERNOS 11: «Francisco de Prada y María Martín»; MATERNOS 47: «Francisco Martín (Chaguazoso, Orense) y María Martín (Venialbo)». |
+| Francisco Martín | Sin enlaces paternos para Luisa Martín Izquierdo y Miguel Martín Martín. | PATERNOS 12: «Francisco Martín e Isabel Izquierdo»; MATERNOS 47: «Francisco Martín (Chaguazoso, Orense) y María Martín (Venialbo)». |
+| Juan Martín | Sin enlaces paternos para Alonso Martín González, Ana Mª. Martín Rodríguez, Vicente Martín Martín y María Martín Martín. | PATERNOS 15: «Juan Martín y Francisca González»; PATERNOS 18: «Juan Martín y Apolonia Rodríguez»; MATERNOS 11: «Juan Martín (Pontejos) y Jerónima Martín (Pereruela)»; MATERNOS 16: «Juan Martín (Pontejos) y Jerónima Martín (Pontejos)». |
+| Jerónima Martín | Sin enlaces maternos para Vicente Martín Martín y María Martín Martín. | MATERNOS 11 la cita de Pereruela; MATERNOS 16, de Pontejos; ambas junto a «Juan Martín (Pontejos)». |
+| José Zurdo | Sin enlaces paternos para Sebastiana Zurdo Vega y Bárbara Zurdo Mateo. | PATERNOS 34: «José Zurdo (Gáname) y María Vega (Gáname)»; PATERNOS 64: «José Zurdo (Gáname) y Ana Mateo (Fadón)». |
+| Juan Vega | Sin enlaces paternos para Manuel Vega Antón y Ana Mª. Vega Zurdo. | PATERNOS 37: «Juan Vega (Gáname) y María Antón (Gáname)»; PATERNOS 38: «Juan Vega (Gáname) y Josefa Zurdo (Gáname)». Ambos hijos nacieron en Gáname en 1719. |
+| Domingo Garrote | Sin enlaces paternos para Teresa Garrote Diego y María Garrote de las Heras. | PATERNOS 50: «Domingo Garrote y Catalina Diego»; PATERNOS 54: «Domingo Garrote y Teresa de las Heras». |
+| Juan Pérez | Sin enlaces paternos para Manuel Pérez Roncero y Micaela Pérez Hernández. | MATERNOS 17: «Juan Pérez (Tardobispo) y Luisa Roncero (Tardobispo)»; MATERNOS 56: «Juan Pérez y Teresa Hernández (ambos de Tardobispo)». |
+| Teresa Hernández | Sin enlaces maternos para Miguel Izquierdo Hernández y Micaela Pérez Hernández. | MATERNOS 29: «Alonso Izquierdo y Teresa Hernández»; MATERNOS 56: «Juan Pérez y Teresa Hernández (ambos de Tardobispo)». |
+| Bernardo Calvo | Bernardo Calvo Alonso tiene nacimiento en Venialbo anterior a 1718, matrimonio con María Pérez Blanco en 1704 y muerte en Villalazán en 1736. Ignacia Calvo Portales sigue sin padre enlazado. | PATERNOS 30: «Bernardo Calvo (Arcenillas) y Manuela Portales (Cazurra)», padres de Ignacia, nacida en 1729. No se decide si coincide con Bernardo Calvo Alonso. |
+| Juan Gonzalo | Juan Gonzalo Diego nació en Gáname en 1698 y se casó con Josefa Barrocal Melado en 1735. Águeda Gonzalo Gaspar sigue sin padre enlazado. | PATERNOS 58: «Juan Gonzalo (Gáname) y Sebastiana Gaspar (Fadón)», padres de Águeda, nacida en 1731. No se decide si coincide con Juan Gonzalo Diego. |
+| Manuel Pérez | Manuel Pérez Roncero nació en Tardobispo en junio de 1706 y es padre de Juan Pérez Miguel con Ángela Miguel Vara. Jerónima Pérez Luelmo sigue sin padre enlazado. | MATERNOS 12: «Manuel Pérez y Atilana de Luelmo (ambos de Morales del Vino)», padres de Jerónima, nacida en 1745. No se decide si coincide con Manuel Pérez Roncero. |
+| Manuel Martín | Sin enlaces paternos para Diego Martín Prieto y Teresa Martín Jorge. | PATERNOS 9: «Manuel Martín (Casaseca de las Chanas) y Luisa Prieto (Pereruela)»; MATERNOS 52: «Manuel Martín y Catalina Jorge (ambos de Villadepera)». No se reutiliza otra ficha solo por el nombre. |
+| Alonso Martín | Alonso Martín González nació en Casaseca de las Chanas en 1710 y se casó con Jerónima Carrascal Trigo en 1733. Esteban Vicente Martín Marqués sigue sin padre enlazado. | MATERNOS 3: «Alonso Martín (Morales del Vino) e Isabel Marqués (Morales del Vino)». No se decide si coincide con Alonso Martín González. |
+| Francisco Pérez | Francisco Pérez Alonso nació en Casaseca de las Chanas en 1697 y se casó con Teresa Ponce Chico en 1729. Agustina Pérez Vázquez sigue sin padre enlazado. | MATERNOS 46: «Francisco Pérez (S. Pedro de Tráveas) y de María Vázquez (S. Cristóbal Ventas)». No se decide si coincide con Francisco Pérez Alonso. |
+
+Los nombres de los progenitores identificados sin ambigüedad se incorporan aunque su lugar quede pendiente. La familia ha confirmado estas identificaciones geográficas el 7 de noviembre de 2026; las lecturas originales se conservan aquí. Una localidad resuelta no decide por sí sola la identidad de una persona.
+
+| Persona o pareja | Valor anterior y lectura de la fuente | Localidad confirmada y aplicación |
+| --- | --- | --- |
+| Antonio Ufano, PATERNOS 6 | Sin lugar de referencia; «Antonio Ufano (¿El Perdigón?)». | El Perdigón, Zamora; se incorpora como lugar de referencia. |
+| Esteban Vicente Martín Marqués y María Marqués Casaseca, MATERNOS 3–4 | Matrimonio del 29-01-1756 con la lectura literal «Villaseco». | Villaseco del Pan, Zamora; se normaliza el lugar del matrimonio de ambos. |
+| Catalina Martínez, MATERNOS 43 | Sin lugar de referencia; «Catalina Martínez (Sever, Orense)». | Sever, municipio de Viana do Bolo, Ourense; se incorpora como lugar de referencia. |
+| Marcos Ibáñez, MATERNOS 45 | Sin lugar de referencia; «Marcos Ibáñez (Las Ormazas, Burgos)». | Las Hormazas, Burgos; se incorpora como lugar de referencia municipal. |
+| Agustina Garralete, MATERNOS 45 | Sin lugar de referencia; «Agustina Garralete (Viana)». | Viana, Navarra; se incorpora como lugar de referencia. |
+| Francisco Martín, MATERNOS 47 | Identidad y enlace paterno pendientes; «Francisco Martín (Chaguazoso, Orense)». | Chaguazoso, municipio de A Mezquita, Ourense. La identificación del lugar queda resuelta, pero no se crea ni se enlaza una persona mientras su identidad siga pendiente. |
+
+María Vázquez, MATERNOS 46, sigue sin lugar de referencia: «María Vázquez (S. Cristóbal Ventas)». La familia no ha podido identificar la localidad y ha pedido dejarla pendiente. No se amplía la abreviatura ni se asignan coordenadas.
+
+### Lugares del lote
+
+Veintitrés localidades o municipios nuevos utilizados tienen coordenadas verificadas y sus URL en `places.json`. AEMET respalda Aguilar de Campos, Bermillo de Sayago, Cazurra, Cármenes, El Perdigón, La Hiniesta, Luelmo, Mansilla de las Mulas, San Miguel de la Ribera, Viana, Villada, Villaescusa y Villardondiego; PARES respalda Argujillo, Muga de Sayago y Sobradillo de Palomares; IGN/CNIG CartoCiudad respalda Figueruela de Abajo, Fuente el Carnero y Tudera; y el Ayuntamiento respalda Villaralbo. Figueruela de Abajo pertenece a Figueruela de Arriba; Fuente el Carnero, a Corrales del Vino; Tudera, a Fariza; y Sobradillo de Palomares, a Pereruela. Se conserva sin uso personal el punto verificado de Viana do Bolo, por si resulta útil en otra fuente.
+
+Tras las aclaraciones familiares, se añaden Villaseco del Pan y Las Hormazas con fuentes de AEMET, y Sever, de Viana do Bolo, con el punto de población de IGN/CNIG CartoCiudad. Las Hormazas se representa mediante el punto oficial de su capital, La Parte; ese punto no atribuye a Marcos Ibáñez una aldea concreta dentro del municipio. También se conserva el punto de Chaguazoso, de A Mezquita, verificado en IGN/CNIG: no aparece en el índice mientras la identidad del padre mencionado siga pendiente.
+
+Se mantienen las identificaciones familiares previas de San Pedro de Trasverea y Corrales del Vino. «S. Miguel de la Rivera» se normaliza como San Miguel de la Ribera; las variantes de Casaseca se indexan como Casaseca de las Chanas. Villaescusa se identifica con el municipio zamorano por el contexto familiar de Fuentesaúco y la proximidad de ambos municipios; la fuente no explicita la provincia. «De Galicia», de Domingo Martínez, se conserva como referencia regional sin coordenadas. El índice contiene sesenta y ocho referencias de lugar, sesenta y siete de ellas con marcador; solo Galicia carece de él por ser una referencia regional sin localidad concreta.
+
+### Verificación del lote
+
+Se reconstruyeron los datos con `node familia/build-data.mjs`: 463 personas, 138 apellidos y 68 referencias de lugar. Las 26 pruebas de `node --test familia/tree-layout.test.mjs` pasaron. El cotejo independiente recorrió las 128 entradas, sus fechas y enlaces incorporados; también comprobó contra el estado anterior que no se habían alterado eventos, relaciones ni observaciones existentes. Las seis fechas discutidas y los veintinueve enlaces parentales inciertos siguen sin incorporarse.
+
+Se revisaron las fichas de Lorenzo y Matías, la navegación, el índice y el mapa en el navegador, además de las vistas de escritorio y móvil, sin errores de consola. Solo se modificaron los registros, las coordenadas, este README y los datos generados; el código y el diseño de la web se mantienen.
