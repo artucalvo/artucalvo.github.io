@@ -472,10 +472,29 @@
         "Calvo",
         "Alonso"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "diego-calvo-salvador",
+      "mother": "luisa-alonso-alonso",
+      "birth": {
+        "date": "1788-10-15",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1788-10-18",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "felipa-martin-hernandez",
+          "date": "1822-03-27",
+          "place": "Casaseca de las Chanas",
+          "note": "Bendiciones nupciales el 27 de abril de 1822."
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1832-01-27",
+        "place": "Casaseca de las Chanas"
+      }
     },
     {
       "id": "felipa-martin-hernandez",
@@ -485,10 +504,34 @@
         "Martín",
         "Hernández"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "manuel-martin-de-prada",
+      "mother": "maria-rosa-hernandez-martin",
+      "birth": {
+        "date": "1798-03-29",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1798-03-31",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "lucas-calvo-alonso",
+          "date": "1822-03-27",
+          "place": "Casaseca de las Chanas",
+          "note": "Bendiciones nupciales el 27 de abril de 1822."
+        },
+        {
+          "spouse": "mariano-hernandez",
+          "note": "Segundas nupcias."
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1834-10-16",
+        "place": "Casaseca de las Chanas",
+        "note": "Sepultura el 17 de octubre de 1834."
+      }
     },
     {
       "id": "manuel-mendez-de-paz",
@@ -498,10 +541,29 @@
         "Méndez",
         "de Paz"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "luis-mendez-de-lera",
+      "mother": "josefa-de-paz-perez",
+      "birth": {
+        "date": "1812-04-09",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1812-04-10",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "feliciana-maillo-morales",
+          "date": "1834-06-23",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1870-12-07",
+        "place": "Casaseca de las Chanas",
+        "note": "A consecuencia de gastrorragia."
+      }
     },
     {
       "id": "feliciana-maillo-morales",
@@ -511,10 +573,29 @@
         "Maíllo",
         "Morales"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "fernando-maillo-rodriguez",
+      "mother": "maria-morales-valladolid",
+      "birth": {
+        "date": "1814-02-21",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1814-02-22",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-mendez-de-paz",
+          "date": "1834-06-23",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1887-09-10",
+        "place": "Casaseca de las Chanas",
+        "note": "A consecuencia de enteritis crónica."
+      }
     },
     {
       "id": "julian-piorno-vega",
@@ -524,10 +605,24 @@
         "Piorno",
         "Vega"
       ],
-      "origins": [
-        "Gáname"
-      ],
-      "source": "BISABUELOS.docx"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "manuel-piorno-piorno",
+      "mother": "angela-vega-fierro",
+      "birth": {
+        "date": "1804-09-03",
+        "place": "Gáname"
+      },
+      "baptism": {
+        "date": "1804-09-05",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "tomasa-tuda-feltrero",
+          "date": "1824-01-12",
+          "place": "Malillos"
+        }
+      ]
     },
     {
       "id": "tomasa-tuda-feltrero",
@@ -537,10 +632,29 @@
         "Tuda",
         "Feltrero"
       ],
-      "origins": [
-        "Malillos"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "francisco-tuda-porras",
+      "mother": "antonia-feltrero-gonzalo",
+      "birth": {
+        "date": "1806-02-03",
+        "place": "Malillos"
+      },
+      "baptism": {
+        "date": "1806-02-04",
+        "place": "Malillos"
+      },
+      "marriages": [
+        {
+          "spouse": "julian-piorno-vega",
+          "date": "1824-01-12",
+          "place": "Malillos"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1855-01-31",
+        "place": "Malillos",
+        "note": "Sepultura el 1 de febrero de 1855."
+      }
     },
     {
       "id": "carlos-santiago-garrote",
@@ -550,10 +664,24 @@
         "Santiago",
         "Garrote"
       ],
-      "origins": [
-        "Abelón"
-      ],
-      "source": "BISABUELOS.docx"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "faustino-santiago-garrote",
+      "mother": "josefa-garrote-anton",
+      "birth": {
+        "date": "1817-11-04",
+        "place": "Abelón"
+      },
+      "baptism": {
+        "date": "1817-11-05",
+        "place": "Abelón"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-sastre-esteban",
+          "date": "1836-01-11",
+          "place": "Fadón"
+        }
+      ]
     },
     {
       "id": "maria-sastre-esteban",
@@ -563,10 +691,24 @@
         "Sastre",
         "Esteban"
       ],
-      "origins": [
-        "Fadón"
-      ],
-      "source": "BISABUELOS.docx"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "jose-sastre-sastre",
+      "mother": "bernarda-esteban-vega",
+      "birth": {
+        "date": "1816-01-06",
+        "place": "Fadón"
+      },
+      "baptism": {
+        "date": "1816-01-07",
+        "place": "Fadón"
+      },
+      "marriages": [
+        {
+          "spouse": "carlos-santiago-garrote",
+          "date": "1836-01-11",
+          "place": "Fadón"
+        }
+      ]
     },
     {
       "id": "florencio-brioso-alonso",
@@ -576,10 +718,25 @@
         "Brioso",
         "Alonso"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "BISABUELOS.docx"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "baltasar-brioso-martin",
+      "mother": "luisa-alonso-delgado",
+      "birth": {
+        "date": "1833-02-23",
+        "place": "Morales del Vino"
+      },
+      "baptism": {
+        "date": "1833-02-26",
+        "place": "Morales del Vino",
+        "note": "Ese día se suplieron las ceremonias; el cirujano Pablo de la Vega lo había bautizado antes de necesidad."
+      },
+      "marriages": [
+        {
+          "spouse": "antonia-de-mena-santamaria",
+          "date": "1853-06-15",
+          "place": "Tardobispo"
+        }
+      ]
     },
     {
       "id": "antonia-de-mena-santamaria",
@@ -589,10 +746,29 @@
         "de Mena",
         "Santamaría"
       ],
-      "origins": [
-        "Tardobispo"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx",
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "birth": {
+        "date": "1835-01-17",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1835-01-19",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "florencio-brioso-alonso",
+          "date": "1853-06-15",
+          "place": "Tardobispo"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1923-06-03",
+        "place": "Tardobispo",
+        "note": "A consecuencia de hemorragia cerebral."
+      }
     },
     {
       "id": "esteban-perez-giron",
@@ -602,10 +778,29 @@
         "Pérez",
         "Girón"
       ],
-      "origins": [
-        "Tardobispo"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "miguel-perez-roncero",
+      "mother": "margarita-giron-fernandez",
+      "birth": {
+        "date": "1808-09-02",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1808-09-04",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "eduviges-sanchez-izquierdo",
+          "date": "1829-02-11",
+          "place": "El Cubo del Vino"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1878-09-20",
+        "place": "Tardobispo",
+        "note": "Sepultura el 21 de septiembre de 1878."
+      }
     },
     {
       "id": "eduviges-sanchez-izquierdo",
@@ -615,10 +810,30 @@
         "Sánchez",
         "Izquierdo"
       ],
-      "origins": [
-        "El Cubo del Vino"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "manuel-sanchez-duran",
+      "mother": "rosa-izquierdo-terron",
+      "birth": {
+        "date": "1808-10-17",
+        "place": "El Cubo del Vino",
+        "note": "Figura como «El Cubo» en el documento original."
+      },
+      "baptism": {
+        "date": "1808-10-18",
+        "place": "El Cubo del Vino"
+      },
+      "marriages": [
+        {
+          "spouse": "esteban-perez-giron",
+          "date": "1829-02-11",
+          "place": "El Cubo del Vino"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1878-02-10",
+        "place": "Tardobispo",
+        "note": "De muerte repentina. Sepultura el 11 de febrero de 1878."
+      }
     },
     {
       "id": "francisco-de-las-heras-pascual",
@@ -628,39 +843,75 @@
         "de las Heras",
         "Pascual"
       ],
-      "origins": [
-        "Abelón"
-      ],
-      "source": "BISABUELOS.docx"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "manuel-de-las-heras-dominguez",
+      "mother": "josefa-pascual-lorenzo",
+      "birth": {
+        "date": "1820-12-24",
+        "place": "Abelón"
+      },
+      "baptism": {
+        "date": "1820-12-25",
+        "place": "Abelón"
+      }
     },
     {
       "id": "josefa-rabanal-ibanez",
-      "name": "Josefa Rabanal Ibáñez",
-      "givenNames": "Josefa",
+      "name": "Josefa Ygenia Rabanal Ibáñez",
+      "givenNames": "Josefa Ygenia",
       "surnames": [
         "Rabanal",
         "Ibáñez"
       ],
-      "origins": [
-        "Zamora"
-      ],
-      "source": "BISABUELOS.docx",
-      "observations": [
-        "El lugar de referencia figura como «Zamora. S. Esteban» en el documento original."
-      ]
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "jose-rabanal-martinez",
+      "mother": "manuela-ibanez-martin",
+      "birth": {
+        "date": "1831-01-11",
+        "place": "Zamora"
+      },
+      "baptism": {
+        "date": "1831-01-13",
+        "place": "Zamora",
+        "note": "Iglesia de S. Esteban."
+      },
+      "death": {
+        "date": "1891-10-17",
+        "place": "Tardobispo",
+        "note": "A consecuencia de neumonía catarral."
+      }
     },
     {
       "id": "angel-prada-giron",
-      "name": "Ángel Prada Girón",
-      "givenNames": "Ángel",
+      "name": "Ángel Celedonio Prada Girón",
+      "givenNames": "Ángel Celedonio",
       "surnames": [
         "Prada",
         "Girón"
       ],
-      "origins": [
-        "Tardobispo"
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "manuel-prada-sebastian",
+      "mother": "manuela-giron-roncero",
+      "birth": {
+        "date": "1827-03-01",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1827-03-03",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "manuela-carretero-bragado",
+          "date": "1852-01-10",
+          "place": "Peleas de Arriba"
+        }
       ],
-      "source": "BISABUELOS.docx"
+      "death": {
+        "date": "1867-05-11",
+        "place": "Tardobispo",
+        "note": "Sepultura el 12 de mayo de 1867."
+      }
     },
     {
       "id": "manuela-carretero-bragado",
@@ -670,10 +921,467 @@
         "Carretero",
         "Bragado"
       ],
+      "source": "BISABUELOS.docx · TATARABUELOS PRIMEROS.docx · Fotografías de partidas",
+      "father": "pascual-carretero-perez",
+      "mother": "micaela-bragado-calabaza",
+      "birth": {
+        "date": "1829-01-01",
+        "place": "Peleas de Arriba"
+      },
+      "baptism": {
+        "date": "1829-01-03",
+        "place": "Peleas de Arriba"
+      },
+      "marriages": [
+        {
+          "spouse": "angel-prada-giron",
+          "date": "1852-01-10",
+          "place": "Peleas de Arriba"
+        },
+        {
+          "spouse": "luciano-crespo",
+          "note": "Segundas nupcias."
+        }
+      ],
+      "death": {
+        "date": "1918-12-10",
+        "place": "Tardobispo",
+        "note": "A consecuencia de senectud."
+      }
+    },
+    {
+      "id": "diego-calvo-salvador",
+      "name": "Diego Calvo",
+      "givenNames": "Diego",
+      "surnames": [
+        "Calvo"
+      ],
+      "origins": [
+        "Villalazán"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "luisa-alonso-alonso",
+      "name": "Luisa Alonso Alonso",
+      "givenNames": "Luisa",
+      "surnames": [
+        "Alonso",
+        "Alonso"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx · TATARABUELOS SEGUNDOS.docx",
+      "observations": [
+        "En TATARABUELOS PRIMEROS.docx figura como Luisa Alonso; TATARABUELOS SEGUNDOS.docx recoge su segundo apellido. No es la misma persona que Luisa Alonso Delgado, también de Moraleja del Vino."
+      ]
+    },
+    {
+      "id": "manuel-martin-de-prada",
+      "name": "Manuel Martín",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "maria-rosa-hernandez-martin",
+      "name": "María Rosa Hernández",
+      "givenNames": "María Rosa",
+      "surnames": [
+        "Hernández"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "luis-mendez-de-lera",
+      "name": "Luis Méndez",
+      "givenNames": "Luis",
+      "surnames": [
+        "Méndez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "josefa-de-paz-perez",
+      "name": "Josefa de Paz",
+      "givenNames": "Josefa",
+      "surnames": [
+        "de Paz"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "fernando-maillo-rodriguez",
+      "name": "Fernando Maíllo",
+      "givenNames": "Fernando",
+      "surnames": [
+        "Maíllo"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "maria-morales-valladolid",
+      "name": "María Morales",
+      "givenNames": "María",
+      "surnames": [
+        "Morales"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "manuel-piorno-piorno",
+      "name": "Manuel Piorno",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Piorno"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "angela-vega-fierro",
+      "name": "Ángela Vega",
+      "givenNames": "Ángela",
+      "surnames": [
+        "Vega"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "francisco-tuda-porras",
+      "name": "Francisco Tuda",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Tuda"
+      ],
+      "origins": [
+        "Malillos"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "antonia-feltrero-gonzalo",
+      "name": "Antonia Feltrero",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Feltrero"
+      ],
+      "origins": [
+        "Malillos"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "faustino-santiago-garrote",
+      "name": "Faustino Santiago",
+      "givenNames": "Faustino",
+      "surnames": [
+        "Santiago"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "josefa-garrote-anton",
+      "name": "Josefa Garrote",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "jose-sastre-sastre",
+      "name": "José Sastre",
+      "givenNames": "José",
+      "surnames": [
+        "Sastre"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "bernarda-esteban-vega",
+      "name": "Bernarda Esteban",
+      "givenNames": "Bernarda",
+      "surnames": [
+        "Esteban"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "baltasar-brioso-martin",
+      "name": "Baltasar Brioso",
+      "givenNames": "Baltasar",
+      "surnames": [
+        "Brioso"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "luisa-alonso-delgado",
+      "name": "Luisa Alonso Delgado",
+      "givenNames": "Luisa",
+      "surnames": [
+        "Alonso",
+        "Delgado"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx · TATARABUELOS SEGUNDOS.docx",
+      "observations": [
+        "En TATARABUELOS PRIMEROS.docx figura como Luisa Alonso; TATARABUELOS SEGUNDOS.docx recoge su segundo apellido. No es la misma persona que Luisa Alonso Alonso, también de Moraleja del Vino."
+      ]
+    },
+    {
+      "id": "tomas-de-mena-martin",
+      "name": "Tomás de Mena Martín",
+      "givenNames": "Tomás",
+      "surnames": [
+        "de Mena",
+        "Martín"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "valeria-santamaria-ramos",
+      "name": "Valeria Santamaría Ramos",
+      "givenNames": "Valeria",
+      "surnames": [
+        "Santamaría",
+        "Ramos"
+      ],
+      "origins": [
+        "San Marcial"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "miguel-perez-roncero",
+      "name": "Miguel Pérez Roncero",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "margarita-giron-fernandez",
+      "name": "Margarita Girón Fernández",
+      "givenNames": "Margarita",
+      "surnames": [
+        "Girón",
+        "Fernández"
+      ],
+      "origins": [
+        "Roales"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "manuel-sanchez-duran",
+      "name": "Manuel Sánchez",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Sánchez"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "rosa-izquierdo-terron",
+      "name": "Rosa Izquierdo",
+      "givenNames": "Rosa",
+      "surnames": [
+        "Izquierdo"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "manuel-de-las-heras-dominguez",
+      "name": "Manuel de las Heras",
+      "givenNames": "Manuel",
+      "surnames": [
+        "de las Heras"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "josefa-pascual-lorenzo",
+      "name": "Josefa Pascual",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Pascual"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "jose-rabanal-martinez",
+      "name": "José Rabanal",
+      "givenNames": "José",
+      "surnames": [
+        "Rabanal"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx",
+      "observations": [
+        "El lugar de referencia figura como «Zamora, S. Esteban» en el documento original."
+      ]
+    },
+    {
+      "id": "manuela-ibanez-martin",
+      "name": "Manuela Ibáñez",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Ibáñez"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx",
+      "observations": [
+        "El lugar de referencia figura como «Zamora, S. Lázaro» en el documento original."
+      ]
+    },
+    {
+      "id": "manuel-prada-sebastian",
+      "name": "Manuel Prada Sebastián",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Prada",
+        "Sebastián"
+      ],
+      "origins": [
+        "Torrefrades"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "manuela-giron-roncero",
+      "name": "Manuela Girón Roncero",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "pascual-carretero-perez",
+      "name": "Pascual Carretero",
+      "givenNames": "Pascual",
+      "surnames": [
+        "Carretero"
+      ],
       "origins": [
         "Peleas de Arriba"
       ],
-      "source": "BISABUELOS.docx"
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "micaela-bragado-calabaza",
+      "name": "Micaela Bragado",
+      "givenNames": "Micaela",
+      "surnames": [
+        "Bragado"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "TATARABUELOS PRIMEROS.docx"
+    },
+    {
+      "id": "mariano-hernandez",
+      "name": "Mariano Hernández",
+      "givenNames": "Mariano",
+      "surnames": [
+        "Hernández"
+      ],
+      "source": "Fotografías de partidas",
+      "marriages": [
+        {
+          "spouse": "felipa-martin-hernandez",
+          "note": "Segundas nupcias de Felipa Martín Hernández."
+        }
+      ]
+    },
+    {
+      "id": "luciano-crespo",
+      "name": "Luciano Crespo",
+      "givenNames": "Luciano",
+      "surnames": [
+        "Crespo"
+      ],
+      "source": "Fotografías de partidas",
+      "marriages": [
+        {
+          "spouse": "manuela-carretero-bragado",
+          "note": "Segundas nupcias de Manuela Carretero Bragado."
+        }
+      ]
     }
   ]
 }

@@ -48,21 +48,24 @@ node --test familia/tree-layout.test.mjs
 
 La pestaña «Lugares» carga el mapa interactivo cuando se abre. Utiliza Leaflet 1.9.4 y las teselas de OpenStreetMap, con su atribución visible. La biblioteca y su licencia se conservan localmente entre los recursos de la página. Los marcadores y sus agrupaciones permiten explorar las localidades; la búsqueda y la lista de lugares también permiten seleccionar una localidad y encontrar sus personas relacionadas. Si las teselas no están disponibles, la lista sigue siendo utilizable.
 
-`familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. Los doce lugares actuales están en España y las posiciones representan el centro de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora, según la confirmación de la familia.
+`familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. Los diecisiete lugares actuales están en España y las posiciones representan el centro de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora y Roales corresponde a Roales del Pan (Zamora), según la confirmación de la familia; también existen un Roales en Valderas (León) y Roales de Campos (Valladolid).
 
 Al añadir un lugar nuevo, la lista sigue funcionando aunque todavía no tenga coordenadas. Comprueba su municipio y provincia antes de incorporarlo al mapa y pregunta a la familia si la localidad no se puede identificar con seguridad. No asignes una posición por aproximación ni conviertas una iglesia citada en las notas en una localidad independiente.
 
 ## Alcance y procedencia de los datos
 
-El archivo contiene treinta y tres personas y seis generaciones conectadas, con Arturo Calvo Devesa como punto de partida. Su ficha incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
+El archivo contiene sesenta y siete personas y siete generaciones conectadas, con Arturo Calvo Devesa como punto de partida. Su ficha incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
 
 Los documentos recibidos pertenecen a la ascendencia de Bernardo Calvo Brioso. No se han atribuido esos antepasados a la rama Devesa Herrero ni se han creado ascendientes maternos de Arturo sin documentación. Los títulos de los documentos se interpretan respecto de Bernardo:
 
 - `PADRES.docx`: sus padres, Nicanor Calvo Piorno y Rosario Brioso de las Heras; abuelos paternos de Arturo.
 - `ABUELOS.docx`: sus cuatro abuelos y los nombres de sus progenitores; bisabuelos de Arturo.
 - `BISABUELOS.docx`: amplía las ocho fichas de esos progenitores y aporta los nombres de sus dieciséis padres.
+- `TATARABUELOS PRIMEROS.docx`: amplía las dieciséis fichas de esos padres y aporta los nombres de sus treinta y dos padres.
 
-Las personas repetidas entre documentos comparten una sola ficha. Se conservan los identificadores anteriores de Enrique y Benito, aunque `BISABUELOS.docx` amplía sus nombres a Enrique Brioso de Mena y Benito José de las Heras Rabanal. El apellido de Mena se conserva como una entrada compuesta. Las personas documentadas incluyen `source`; las tres fichas aportadas directamente por la familia no muestran una atribución documental.
+Las personas repetidas entre documentos comparten una sola ficha. Se conservan los identificadores anteriores de Enrique y Benito, aunque `BISABUELOS.docx` amplía sus nombres a Enrique Brioso de Mena y Benito José de las Heras Rabanal, y el de Ángel, aunque `TATARABUELOS PRIMEROS.docx` amplía su nombre a Ángel Celedonio Prada Girón. El apellido de Mena se conserva como una entrada compuesta. Las personas documentadas incluyen `source`; las tres fichas aportadas directamente por la familia no muestran una atribución documental.
+
+Las fotografías de las partidas de `TATARABUELOS PRIMEROS.docx` se conservan fuera del repositorio. Sirven para comprobar el documento y, por decisión de la familia, también para completarlo: las fichas que toman algún dato de ellas lo indican en `source` como «Fotografías de partidas». Con ellas coinciden los dieciséis nacimientos, los cuatro bautismos, seis de los siete matrimonios y cinco de los once fallecimientos; las demás fechas y los datos añadidos se detallan en los criterios de la transcripción. El nombre de un archivo no basta para identificar a una persona: `Josefa Rabanal Arroyo2.JPG` es la partida de Josefa Rabanal Ibáñez (Arroyo es el cura que firma) y `Muerte de Manuel Martín.JPG` corresponde a un Manuel Martín de Villadepera, marido de Catalina Jorge, enterrado en 1731, y no al padre de Felipa Martín Hernández.
 
 ## Criterios de la transcripción
 
@@ -70,10 +73,26 @@ Las parejas Miguel Calvo Méndez–Lucía Piorno Santiago, Bernardo Brioso Pére
 
 Se conserva el bautismo de Bernardo Brioso Pérez el **02-06-1918**, tal como aparece en `ABUELOS.docx`, con una observación para comprobarlo. También se conserva el bautismo de Enrique Brioso de Mena el **29-01-1885**, frente al nacimiento el **28-01-1855**, tal como aparece en `BISABUELOS.docx`, y se señala la discrepancia. No se corrigen automáticamente los años ni las expresiones de las causas de fallecimiento: entre ellas, «taber dorsal» e «insuficiencia valvular central» se mantienen según la fuente.
 
-Los lugares entre paréntesis tras los nombres de los antepasados se conservan como `origins` cuando no se conoce el tipo de evento. No se interpretan como lugares de nacimiento. Se elimina el lugar de referencia redundante cuando otra fuente aporta expresamente el nacimiento en ese mismo lugar. Para Josefa Rabanal Ibáñez, el índice usa Zamora y una observación conserva «Zamora. S. Esteban».
+Los lugares entre paréntesis tras los nombres de los antepasados se conservan como `origins` cuando no se conoce el tipo de evento. No se interpretan como lugares de nacimiento. Se elimina el lugar de referencia redundante cuando otra fuente aporta expresamente el nacimiento en ese mismo lugar. Para Josefa Rabanal Ibáñez, `BISABUELOS.docx` indica «Zamora. S. Esteban» y `TATARABUELOS PRIMEROS.docx` lo aclara: nació en Zamora y fue bautizada en la iglesia de S. Esteban. Su nacimiento y su bautismo sustituyen el lugar de referencia y la observación anterior. Sus padres conservan «Zamora, S. Esteban» y «Zamora, S. Lázaro» en una observación, con Zamora en el índice.
 
 No se atribuye lugar a los bautismos de Miguel, Lucía, Nicanor Calvo Martín, Marcelina, Salvador o Vicenta, porque no figura expresamente. El bautismo de Rosario conserva la parroquia citada como una nota, sin inventar una fecha o un lugar independiente. Las iglesias citadas junto a matrimonios o fallecimientos se guardan en `note`, sin inferir entierros. La frase duplicada del matrimonio de Benito se registra una sola vez. Se mantiene la grafía **Mª. Antonia**. Las líneas incompletas de las fuentes se omiten, sin crear campos vacíos.
 
 La familia confirmó que San Ildefonso, en las fichas de Nicanor Calvo Piorno y Rosario Brioso de las Heras, es la iglesia de Zamora donde se celebró el funeral. Esa aclaración figura en `death.note`; el lugar de fallecimiento se mantiene como Zamora y no se crea un evento de entierro ni un lugar adicional para el mapa.
+
+En `TATARABUELOS PRIMEROS.docx`, las parejas se deducen del mismo modo, por su agrupación y por la fecha y el lugar de su matrimonio. El documento deja en blanco el matrimonio de Francisco de las Heras Pascual y Josefa Rabanal Ibáñez, que se muestra sin fecha ni lugar. El nacimiento de Eduviges Sánchez Izquierdo figura en «El Cubo»: se indexa como El Cubo del Vino, donde se casó y de donde eran sus padres, y `note` conserva la lectura.
+
+El documento nombra dos veces a «Luisa Alonso (Moraleja del Vino)», como madre de Lucas Calvo Alonso, nacido en 1788, y de Florencio Brioso Alonso, nacido en 1833. Son dos personas: los bautismos de ambos las distinguen por sus padres y `TATARABUELOS SEGUNDOS.docx` las recoge como Luisa Alonso Alonso y Luisa Alonso Delgado. Ese segundo apellido es lo único que se ha incorporado de ese documento. Los identificadores de estas treinta y dos personas ya incluyen los dos apellidos que les da, para que sigan siendo válidos cuando se amplíen sus fichas.
+
+Siete fechas del documento no coincidían con las partidas o estas no permitían confirmarlas. La familia ha decidido lo siguiente:
+
+- Matrimonio de Lucas Calvo Alonso y Felipa Martín Hernández: se registra el 27-03-1822, la fecha de la partida. El 27-04-1822 del documento corresponde a las bendiciones nupciales anotadas al margen, que figuran en `note`.
+- Fallecimiento de Manuel Méndez de Paz: se registra el 07-12-1870, porque la partida indica que falleció el día anterior a la sepultura. El 08-12-1870 del documento es la fecha de la sepultura.
+- Fallecimientos cuya partida solo da la sepultura: se registra el día anterior, porque la tradición en España es que medie exactamente un día, y `note` conserva la sepultura. Es el caso de Tomasa Tuda Feltrero (31-01-1855, aunque el documento da el 01-02-1855, la fecha de la sepultura), Felipa Martín Hernández (16-10-1834), Esteban Pérez Girón (20-09-1878), Eduviges Sánchez Izquierdo (10-02-1878) y Ángel Celedonio Prada Girón (11-05-1867). Si la partida indica la fecha de la muerte, prevalece esa fecha.
+
+También por decisión de la familia, estas fichas incorporan datos de las fotografías que el documento no recoge:
+
+- Doce fechas de bautismo: las de Lucas Calvo Alonso, Felipa Martín Hernández, Manuel Méndez de Paz, Feliciana Maíllo Morales, Julián Piorno Vega, Tomasa Tuda Feltrero, Carlos Santiago Garrote, María Sastre Esteban, Florencio Brioso Alonso, Eduviges Sánchez Izquierdo, Francisco de las Heras Pascual y Manuela Carretero Bragado. La de Florencio es el día en que se suplieron las ceremonias, porque el cirujano lo había bautizado antes de necesidad.
+- Los segundos maridos de Felipa Martín Hernández (Mariano Hernández, en `Muerte de Felipa Martín Hernández.JPG`) y de Manuela Carretero Bragado (Luciano Crespo, en `Manuela Carretero Bragado2.JPG`). Tienen ficha propia y su matrimonio se muestra sin fecha ni lugar.
+- El segundo nombre de Josefa Rabanal Ibáñez, que su partida de bautismo escribe «Ygenia». Se conservan esa grafía y su identificador, y la ficha pasa a llamarse Josefa Ygenia Rabanal Ibáñez.
 
 No se han añadido transcripciones de partidas que no se hayan facilitado.

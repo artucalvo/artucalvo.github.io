@@ -57,6 +57,14 @@
       "source": "https://www.wikidata.org/wiki/Q9027167"
     },
     {
+      "name": "Moraleja del Vino",
+      "province": "Zamora",
+      "municipality": "Moraleja del Vino",
+      "latitude": 41.46385,
+      "longitude": -5.65631,
+      "source": "https://www.wikidata.org/wiki/Q24016654"
+    },
+    {
       "name": "Morales del Vino",
       "province": "Zamora",
       "municipality": "Morales del Vino",
@@ -73,12 +81,44 @@
       "source": "https://www.wikidata.org/wiki/Q9057878"
     },
     {
+      "name": "Roales",
+      "province": "Zamora",
+      "municipality": "Roales del Pan",
+      "latitude": 41.552448,
+      "longitude": -5.773998,
+      "source": "https://www.wikidata.org/wiki/Q120172822"
+    },
+    {
+      "name": "San Marcial",
+      "province": "Zamora",
+      "municipality": "El Perdigón",
+      "latitude": 41.3982,
+      "longitude": -5.78103,
+      "source": "https://www.wikidata.org/wiki/Q5390918"
+    },
+    {
       "name": "Tardobispo",
       "province": "Zamora",
       "municipality": "El Perdigón",
       "latitude": 41.4352,
       "longitude": -5.79683,
       "source": "https://www.wikidata.org/wiki/Q953604"
+    },
+    {
+      "name": "Torrefrades",
+      "province": "Zamora",
+      "municipality": "Bermillo de Sayago",
+      "latitude": 41.346589,
+      "longitude": -6.054603,
+      "source": "https://www.wikidata.org/wiki/Q11704656"
+    },
+    {
+      "name": "Villalazán",
+      "province": "Zamora",
+      "municipality": "Villalazán",
+      "latitude": 41.49414,
+      "longitude": -5.5891,
+      "source": "https://www.wikidata.org/wiki/Q24016551"
     },
     {
       "name": "Villardeciervos",
