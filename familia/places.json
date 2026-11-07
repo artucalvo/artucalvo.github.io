@@ -551,6 +551,102 @@
       "latitude": 41.97494670289011,
       "longitude": -7.045339256983714,
       "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Chaguazoso%2C%20A%20Mezquita"
+    },
+    {
+      "name": "Rábano de Sanabria",
+      "province": "Zamora",
+      "municipality": "San Justo",
+      "latitude": 42.14519380778066,
+      "longitude": -6.6091174632101755,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=R%C3%A1bano%20de%20Sanabria%2C%20R%C3%A1bano%20de%20Sanabria%20%28San%20Justo%29"
+    },
+    {
+      "name": "Casaseca de Campeán",
+      "province": "Zamora",
+      "municipality": "Casaseca de Campeán",
+      "latitude": 41.37345349334857,
+      "longitude": -5.746607053067865,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Casaseca%20de%20Campe%C3%A1n%2C%20Casaseca%20de%20Campe%C3%A1n"
+    },
+    {
+      "name": "La Peña",
+      "province": "Salamanca",
+      "municipality": "La Peña",
+      "latitude": 41.174326619319004,
+      "longitude": -6.51905819749518,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=La%20Pe%C3%B1a%2C%20La%20Pe%C3%B1a"
+    },
+    {
+      "name": "Cernecina",
+      "province": "Zamora",
+      "municipality": "Pereruela",
+      "latitude": 41.370207298575316,
+      "longitude": -5.942926001770346,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Cernecina%2C%20Cernecina%20%28Pereruela%29"
+    },
+    {
+      "name": "Valcabado",
+      "province": "Zamora",
+      "municipality": "Valcabado",
+      "latitude": 41.54077383925407,
+      "longitude": -5.753180765813316,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Valcabado%2C%20Valcabado"
+    },
+    {
+      "name": "San Martín de Tábara",
+      "province": "Zamora",
+      "municipality": "Olmillos de Castro",
+      "latitude": 41.753774178504045,
+      "longitude": -5.993525595087949,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=San%20Mart%C3%ADn%20de%20T%C3%A1bara%2C%20San%20Mart%C3%ADn%20de%20T%C3%A1bara%20%28Olmillos%20de%20Castro%29"
+    },
+    {
+      "name": "Carrascal",
+      "province": "Zamora",
+      "municipality": "Zamora",
+      "latitude": 41.48384648900143,
+      "longitude": -5.813055023409913,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Carrascal%2C%20Carrascal%20%28Zamora%29"
+    },
+    {
+      "name": "Arcenillas",
+      "province": "Zamora",
+      "municipality": "Arcenillas",
+      "latitude": 41.45570713928925,
+      "longitude": -5.687329234199564,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Arcenillas%2C%20Arcenillas"
+    },
+    {
+      "name": "Tamame",
+      "province": "Zamora",
+      "municipality": "Peñausende",
+      "latitude": 41.32293600210618,
+      "longitude": -5.885823440948122,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Tamame%2C%20Tamame%20%28Pe%C3%B1ausende%29"
+    },
+    {
+      "name": "Galende",
+      "province": "Zamora",
+      "municipality": "Galende",
+      "latitude": 42.10468132272679,
+      "longitude": -6.661579927424706,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Galende%2C%20Galende"
+    },
+    {
+      "name": "Salce",
+      "province": "Zamora",
+      "municipality": "Salce",
+      "latitude": 41.27005201270859,
+      "longitude": -6.219233378778561,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Salce%2C%20Salce"
+    },
+    {
+      "name": "La Torre del Salinar",
+      "province": "Zamora",
+      "municipality": "Entrala",
+      "latitude": 41.43256069174788,
+      "longitude": -5.753479605399395,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Entrala%2C%20Entrala"
     }
   ]
 }
