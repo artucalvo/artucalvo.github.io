@@ -308,11 +308,6 @@ function relationLink(person, label) {
   return link;
 }
 
-function safeImagePath(path) {
-  if (typeof path !== 'string' || !/^documents\/[a-zA-Z0-9_./-]+$/.test(path) || path.includes('..')) return null;
-  return new URL(path, import.meta.url).href;
-}
-
 function addTranscription(container, text) {
   if (!text) return;
   const details = element('details', 'transcription');
@@ -320,34 +315,11 @@ function addTranscription(container, text) {
   container.append(details);
 }
 
-function appendDocuments(container, event, title, personName) {
-  for (const document of event.documents || []) {
-    const path = safeImagePath(document.image);
-    if (path) {
-      const image = element('img');
-      image.src = path;
-      image.alt = document.alt || `${title} de ${personName}`;
-      image.loading = 'lazy';
-      image.decoding = 'async';
-      const open = button('Ampliar documento', 'event-document', () => {
-        $('#document-title').textContent = `${title} · ${personName}`;
-        $('#document-image').src = path;
-        $('#document-image').alt = image.alt;
-        openDialog($('#document-dialog'));
-      });
-      open.prepend(image);
-      container.append(open);
-    }
-    addTranscription(container, document.transcription);
-  }
-  addTranscription(container, event.transcription);
-}
-
 function eventHasData(event) {
-  return event && (event.date || event.place || event.note || event.spouse || event.transcription || event.documents?.some(doc => doc.image || doc.transcription));
+  return event && (event.date || event.place || event.note || event.spouse || event.transcription);
 }
 
-function eventBlock(title, event, person, spouse) {
+function eventBlock(title, event, spouse) {
   if (!eventHasData(event)) return null;
   const section = element('section', 'event-item');
   section.append(element('span', 'event-marker'), element('h3', '', title));
@@ -363,7 +335,7 @@ function eventBlock(title, event, person, spouse) {
     section.append(link);
   }
   if (event.note) section.append(element('p', 'event-note', event.note));
-  appendDocuments(section, event, title, person.name);
+  addTranscription(section, event.transcription);
   return section;
 }
 
@@ -405,9 +377,9 @@ async function renderProfile(id, focus = false) {
       panel.append(descendants);
     }
     const events = element('div', 'event-timeline');
-    const entries = [eventBlock('Nacimiento', person.birth, person), eventBlock('Bautismo', person.baptism, person)];
-    (person.marriages || []).forEach((marriage, index) => entries.push(eventBlock('Matrimonio', marriage, person, spouses[index])));
-    entries.push(eventBlock('Fallecimiento', person.death, person));
+    const entries = [eventBlock('Nacimiento', person.birth), eventBlock('Bautismo', person.baptism)];
+    (person.marriages || []).forEach((marriage, index) => entries.push(eventBlock('Matrimonio', marriage, spouses[index])));
+    entries.push(eventBlock('Fallecimiento', person.death));
     events.append(...entries.filter(Boolean));
     if (events.childElementCount) panel.append(events);
     if (person.origins?.length) {

@@ -14,7 +14,7 @@ Edita `familia/records.json` y ejecuta desde la raíz del repositorio:
 node familia/build-data.mjs
 ```
 
-El script no necesita dependencias. Valida los identificadores, las referencias a familiares, las fechas, los ciclos de ascendencia y las rutas de imágenes. Genera `familia/data/catalog.json`, un índice de búsqueda en `familia/data/index.json` y una ficha por persona en `familia/data/people/`. Publica esos archivos junto con el resto de la página. No edites a mano los archivos generados.
+El script no necesita dependencias. Valida los identificadores, las referencias a familiares, las fechas y los ciclos de ascendencia. Genera `familia/data/catalog.json`, un índice de búsqueda en `familia/data/index.json` y una ficha por persona en `familia/data/people/`. Publica esos archivos junto con el resto de la página. No edites a mano los archivos generados.
 
 Cada persona tiene un `id` estable, `name`, `givenNames` y `surnames` como lista explícita. El campo opcional `source` identifica el documento que respalda su ficha; solo se muestra la atribución cuando existe ese campo. Conserva los apellidos compuestos en una sola entrada, por ejemplo `"de las Heras"`. Los identificadores usan letras minúsculas sin tildes, números y guiones. `father` y `mother` hacen referencia a otras personas por su `id`.
 
@@ -24,33 +24,15 @@ La sección «Descendencia» muestra los hijos documentados y enlaza a sus ficha
 
 Cuando se conocen las fechas de nacimiento y fallecimiento, los años de vida incluyen la edad cumplida al fallecer entre paréntesis, por ejemplo `1948 – 2023 (75 años)`. Si solo se conocen los años o fechas parciales, la diferencia de años aparece como aproximada. No se calcula la edad actual cuando no hay fecha de fallecimiento.
 
-Los eventos opcionales son `birth`, `baptism`, `marriages` y `death`. `marriages` es una lista y cada matrimonio puede incluir `spouse`, el identificador del cónyuge, si se conoce. Un evento puede tener `date` en formato `AAAA`, `AAAA-MM` o `AAAA-MM-DD`, `place`, `note`, `transcription` y `documents`. Usa la precisión que aporta la fuente. Omite cualquier campo desconocido; no añadas valores vacíos ni fechas estimadas como si fueran exactas. Registra incertidumbres en `note` o en la lista `observations` de la persona.
+Los eventos opcionales son `birth`, `baptism`, `marriages` y `death`. `marriages` es una lista y cada matrimonio puede incluir `spouse`, el identificador del cónyuge, si se conoce. Un evento puede tener `date` en formato `AAAA`, `AAAA-MM` o `AAAA-MM-DD`, `place`, `note` y `transcription`. Usa la precisión que aporta la fuente. Omite cualquier campo desconocido; no añadas valores vacíos ni fechas estimadas como si fueran exactas. Registra incertidumbres en `note` o en la lista `observations` de la persona.
 
 `origins` recoge lugares asociados a una persona cuando no se conoce el tipo de evento. Se presenta como lugar de referencia, sin atribuirle un nacimiento. Usa el nombre del municipio o localidad en `place` para que el índice de lugares no duplique una población por sus distintas iglesias; guarda el nombre de la iglesia en `note`.
 
-Para añadir una imagen, coloca el archivo en `familia/documents/` y usa una ruta relativa a `/familia/`. Se admiten nombres de archivo y subcarpetas con letras latinas sin tildes, números, guiones y guiones bajos, con extensión JPG, JPEG, PNG, WebP, AVIF o GIF:
-
-```json
-{
-  "birth": {
-    "date": "1872-02-11",
-    "place": "Casaseca de las Chanas",
-    "documents": [
-      {
-        "image": "documents/miguel-nacimiento.jpg",
-        "alt": "Partida de nacimiento de Miguel Calvo Méndez",
-        "transcription": "Texto de la partida…"
-      }
-    ]
-  }
-}
-```
-
-Una transcripción también puede figurar directamente en el evento, sin imagen. Las imágenes y transcripciones del ejemplo son ilustrativas; no forman parte de los datos iniciales.
+Este repositorio no almacena imágenes de las personas: la cuenta de github.io solo dispone de 1 GB de almacenamiento gratuito y las imágenes de la familia ocupan muchos gigabytes. Por eso las fichas no muestran imágenes y `build-data.mjs` rechaza el campo `documents` en cualquier evento. Una transcripción puede figurar directamente en el evento, en el campo `transcription`.
 
 ## Ampliar el árbol
 
-Añade personas y enlaza sus padres mediante identificadores existentes. No hay un límite de generaciones en los datos. La página solicita fichas individuales al navegar y mantiene visible un grupo acotado de familiares, en lugar de cargar y dibujar toda la ascendencia. El catálogo inicial contiene únicamente las ramas y sus personas de partida; el índice de nombres, apellidos y lugares se solicita al abrir el explorador. Los documentos se cargan cuando se muestran sus fichas.
+Añade personas y enlaza sus padres mediante identificadores existentes. No hay un límite de generaciones en los datos. La página solicita fichas individuales al navegar y mantiene visible un grupo acotado de familiares, en lugar de cargar y dibujar toda la ascendencia. El catálogo inicial contiene únicamente las ramas y sus personas de partida; el índice de nombres, apellidos y lugares se solicita al abrir el explorador.
 
 El selector muestra entre dos y cuatro generaciones de fichas completas alrededor de la persona activa. Al pulsar una ficha o un círculo familiar, el árbol se centra en esa persona. Los padres conocidos del límite visible y los hijos de la persona activa aparecen como círculos con iniciales. Los cónyuges documentados y los otros progenitores conocidos pueden mostrarse junto a la persona activa; las conexiones a los hijos se comparten únicamente cuando ambas referencias parentales están documentadas. Puedes volver a la rama anterior, ampliar o reducir la vista y compartir el enlace a una persona. La memoria caché conserva hasta ochenta fichas. El índice muestra cuarenta resultados por tanda y permite seguir cargando; la búsqueda consulta todo el índice.
 
@@ -88,4 +70,4 @@ No se atribuye lugar a los bautismos de Miguel, Lucía, Nicanor Calvo Martín, M
 
 La familia confirmó que San Ildefonso, en las fichas de Nicanor Calvo Piorno y Rosario Brioso de las Heras, es la iglesia de Zamora donde se celebró el funeral. Esa aclaración figura en `death.note`; el lugar de fallecimiento se mantiene como Zamora y no se crea un evento de entierro ni un lugar adicional para el mapa.
 
-No se han añadido imágenes ni transcripciones de partidas que no se hayan facilitado.
+No se han añadido transcripciones de partidas que no se hayan facilitado.
