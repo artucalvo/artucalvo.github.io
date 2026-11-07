@@ -1,19 +1,18 @@
 import { lifespan } from './lifespan.mjs';
+import { collectTree, layoutTree } from './tree-layout.mjs';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
 const ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const PAGE_SIZE = 40;
-const NODE_WIDTH = 224;
-const NODE_HEIGHT = 146;
 const recordCache = new Map();
 let catalog;
 let directoryPromise;
 let directory;
-let rootId;
-let selectedId;
+let activeId;
 let treeWidth = 640;
 let treeHeight = 430;
+let activeCenterY = 0;
 let compactTree = matchMedia('(max-width: 600px)').matches;
 let zoom = 1;
 let treeRequest = 0;
@@ -110,71 +109,80 @@ function getDirectory() {
 }
 
 function updateURL() {
-  const params = new URLSearchParams({ persona: selectedId, raiz: rootId });
-  const hash = `#${params}`;
+  const hash = `#${new URLSearchParams({ persona: activeId })}`;
   if (location.hash !== hash) history.pushState(null, '', hash);
 }
 
-function locationState() {
-  const params = new URLSearchParams(location.hash.slice(1));
-  const person = params.get('persona');
-  const root = params.get('raiz') || person;
-  return {
-    person: ID_PATTERN.test(person || '') ? person : catalog.defaultPerson,
-    root: ID_PATTERN.test(root || '') ? root : catalog.defaultPerson,
-  };
+function locationPerson() {
+  const person = new URLSearchParams(location.hash.slice(1)).get('persona');
+  return ID_PATTERN.test(person || '') ? person : catalog.defaultPerson;
 }
 
 function updateRootTabs() {
   document.querySelectorAll('[data-root-id]').forEach(node => {
-    const active = node.dataset.rootId === rootId;
+    const active = node.dataset.rootId === activeId;
     node.classList.toggle('is-active', active);
     node.setAttribute('aria-pressed', String(active));
   });
   $('#tree-back').hidden = rootHistory.length === 0;
 }
 
-async function navigate(id, { recenter = false, writeURL = true, remember = true, focus = false } = {}) {
+async function navigate(id, { writeURL = true, remember = true, focus = false, scrollToProfile = focus } = {}) {
   if (!ID_PATTERN.test(id || '')) return;
-  selectedId = id;
-  if (recenter || !rootId) {
-    if (remember && rootId && rootId !== id) {
-      rootHistory.push(rootId);
-      if (rootHistory.length > 30) rootHistory.shift();
-    }
-    rootId = id;
-    updateRootTabs();
-    renderTree();
-  } else {
-    updateNodeSelection();
+  if (remember && activeId && activeId !== id) {
+    rootHistory.push(activeId);
+    if (rootHistory.length > 30) rootHistory.shift();
   }
+  activeId = id;
+  updateRootTabs();
   if (writeURL) updateURL();
-  await renderProfile(id, focus);
+  await Promise.all([renderTree(), renderProfile(id, focus)]);
+  // Last, because centering the tree would cancel a smooth page scroll in progress.
+  if (scrollToProfile && id === activeId && matchMedia('(max-width: 850px)').matches) $('#person-panel').scrollIntoView({ block: 'start' });
 }
 
-async function collectAncestors(id, maxDepth) {
-  const result = [];
-  async function visit(personId, level, slot, path) {
-    if (path.has(personId)) return;
-    const person = await getPerson(personId);
-    result.push({ person, level, slot });
-    if (level >= maxDepth) return;
-    const nextPath = new Set(path).add(personId);
-    await Promise.all([
-      person.father ? visit(person.father, level + 1, slot * 2, nextPath) : null,
-      person.mother ? visit(person.mother, level + 1, slot * 2 + 1, nextPath) : null,
-    ]);
+// Pressing someone in the tree keeps the tree in view, so the centering can be seen.
+function centerOnPerson(id) {
+  navigate(id, { focus: true, scrollToProfile: false });
+}
+
+function personCard({ person, relation, isActive, x, y }, width) {
+  const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}`);
+  wrapper.style.left = `${x}px`;
+  wrapper.style.top = `${y}px`;
+  wrapper.style.width = `${width}px`;
+  const card = element('button', 'person-node');
+  card.type = 'button';
+  card.setAttribute('aria-label', `Ver ficha de ${person.name}`);
+  card.setAttribute('aria-pressed', String(isActive));
+  card.addEventListener('click', () => centerOnPerson(person.id));
+  const topline = element('span', 'node-topline');
+  topline.append(element('span', 'node-avatar', initials(person)));
+  if (relation) topline.append(element('span', 'node-relation', relation));
+  card.append(topline, element('strong', 'node-name', person.name));
+  const life = lifespan(person);
+  if (life) card.append(element('span', 'node-dates', life));
+  const place = person.birth?.place || person.origins?.[0];
+  if (place) {
+    const label = element('span', 'node-place');
+    label.append(icon('pin'), document.createTextNode(place));
+    card.append(label);
   }
-  await visit(id, 0, 0, new Set());
-  return result.sort((a, b) => a.level - b.level || a.slot - b.slot);
+  wrapper.append(card);
+  return wrapper;
 }
 
-function updateNodeSelection() {
-  document.querySelectorAll('.tree-node').forEach(node => {
-    const selected = node.dataset.personId === selectedId;
-    node.classList.toggle('is-selected', selected);
-    $('.person-node', node).setAttribute('aria-pressed', String(selected));
-  });
+function personCircle({ person, x, y }, size) {
+  const circle = element('button', 'tree-circle', initials(person));
+  circle.type = 'button';
+  circle.title = person.name;
+  circle.setAttribute('aria-label', `Ver ficha de ${person.name}`);
+  circle.style.left = `${x}px`;
+  circle.style.top = `${y}px`;
+  circle.style.width = `${size}px`;
+  circle.style.height = `${size}px`;
+  circle.addEventListener('click', () => centerOnPerson(person.id));
+  return circle;
 }
 
 async function renderTree() {
@@ -183,79 +191,29 @@ async function renderTree() {
   const viewport = $('#tree-viewport');
   viewport.setAttribute('aria-busy', 'true');
   try {
-    const nodes = await collectAncestors(rootId, Number($('#generation-depth').value));
+    const depth = Number($('#generation-depth').value);
+    const tree = await collectTree(activeId, depth, getPerson);
     if (request !== treeRequest) return;
-    const maxLevel = Math.max(...nodes.map(node => node.level));
     compactTree = matchMedia('(max-width: 600px)').matches;
-    const nodeWidth = compactTree ? 156 : NODE_WIDTH;
-    const cardHeight = compactTree ? 142 : 124;
-    const sidePadding = compactTree ? 12 : 40;
-    const canShowMore = Number($('#generation-depth').value) < 3 && nodes.some(node => node.level === Number($('#generation-depth').value) && (node.person.father || node.person.mother));
-    treeWidth = compactTree ? Math.max(viewport.clientWidth, 2 ** maxLevel * 172 + 24) : Math.max(640, 2 ** maxLevel * 264 + 80);
-    treeHeight = Math.max(380, (maxLevel + 1) * 218 + 24);
-    for (const node of nodes) {
-      node.x = sidePadding + ((node.slot + 0.5) / 2 ** node.level) * (treeWidth - sidePadding * 2) - nodeWidth / 2;
-      node.y = 38 + (maxLevel - node.level) * 218;
-      node.hasExpand = node.level === 0 ? canShowMore : Boolean(node.person.father || node.person.mother);
-    }
-    canvas.replaceChildren();
+    const layout = layoutTree({ ...tree, depth, compact: compactTree });
+    treeWidth = layout.width;
+    treeHeight = layout.height;
+    activeCenterY = layout.activeCenterY;
     const lines = document.createElementNS(SVG_NS, 'svg');
     lines.classList.add('tree-connections');
     lines.setAttribute('width', String(treeWidth));
     lines.setAttribute('height', String(treeHeight));
     lines.setAttribute('aria-hidden', 'true');
-    const positions = new Map(nodes.map(node => [`${node.level}:${node.slot}`, node]));
-    for (const child of nodes) {
-      for (const slot of [child.slot * 2, child.slot * 2 + 1]) {
-        const parent = positions.get(`${child.level + 1}:${slot}`);
-        if (!parent) continue;
-        const x1 = parent.x + nodeWidth / 2;
-        const y1 = parent.y + cardHeight + (parent.hasExpand ? NODE_HEIGHT - 124 : 0);
-        const x2 = child.x + nodeWidth / 2;
-        const y2 = child.y;
-        const middle = y2 - 40;
-        const path = document.createElementNS(SVG_NS, 'path');
-        path.setAttribute('d', `M ${x1} ${y1} V ${middle} H ${x2} V ${y2}`);
-        lines.append(path);
-      }
+    for (const connection of layout.connections) {
+      const path = document.createElementNS(SVG_NS, 'path');
+      path.setAttribute('d', connection);
+      lines.append(path);
     }
-    canvas.append(lines);
-    for (const { person, level, x, y, slot, hasExpand } of nodes) {
-      const wrapper = element('div', `tree-node${level === 0 ? ' is-root' : ''}`);
-      wrapper.dataset.personId = person.id;
-      wrapper.style.left = `${x}px`;
-      wrapper.style.top = `${y}px`;
-      wrapper.style.width = `${nodeWidth}px`;
-      const card = element('button', 'person-node');
-      card.type = 'button';
-      card.setAttribute('aria-label', `Ver ficha de ${person.name}`);
-      card.addEventListener('click', () => navigate(person.id, { focus: true }));
-      const topline = element('span', 'node-topline');
-      topline.append(element('span', 'node-avatar', initials(person)), element('span', 'node-relation', level === 0 ? 'Persona de referencia' : level === 1 ? slot === 0 ? 'Padre' : 'Madre' : `Ascendiente · generación ${level + 1}`));
-      card.append(topline, element('strong', 'node-name', person.name));
-      const life = lifespan(person);
-      if (life) card.append(element('span', 'node-dates', life));
-      const place = person.birth?.place || person.origins?.[0];
-      if (place) {
-        const label = element('span', 'node-place');
-        label.append(icon('pin'), document.createTextNode(place));
-        card.append(label);
-      }
-      wrapper.append(card);
-      if (hasExpand) {
-        wrapper.append(button(level === 0 ? 'Ver una generación más' : 'Continuar esta rama', 'node-expand', () => {
-          if (level === 0) {
-            $('#generation-depth').value = String(Number($('#generation-depth').value) + 1);
-            renderTree();
-          } else navigate(person.id, { recenter: true });
-        }, 'tree'));
-      }
-      canvas.append(wrapper);
-    }
-    $('#tree-context').textContent = `${nodes[0].person.name} · ${nodes.length} ${nodes.length === 1 ? 'persona' : 'personas'} en esta vista`;
-    updateNodeSelection();
+    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)));
+    const shown = layout.cards.length + layout.circles.length;
+    $('#tree-context').textContent = `${tree.ancestors[0].person.name} · ${shown} ${shown === 1 ? 'persona' : 'personas'} en esta vista`;
     applyZoom();
-    requestAnimationFrame(centerTree);
+    centerTree();
   } catch (error) {
     if (request !== treeRequest) return;
     canvas.replaceChildren(errorMessage('No hemos podido cargar esta rama.', renderTree));
@@ -266,20 +224,24 @@ async function renderTree() {
 }
 
 function applyZoom() {
+  const viewport = $('#tree-viewport');
+  $('#tree-sizer').style.width = `${treeWidth * zoom}px`;
+  $('#tree-sizer').style.height = `${treeHeight * zoom}px`;
   $('#tree-canvas').style.width = `${treeWidth}px`;
   $('#tree-canvas').style.height = `${treeHeight}px`;
   $('#tree-canvas').style.transform = `scale(${zoom})`;
-  $('#tree-canvas').style.left = `${Math.max(0, ($('#tree-viewport').clientWidth - treeWidth * zoom) / 2)}px`;
-  $('#tree-sizer').style.width = `${treeWidth * zoom}px`;
-  $('#tree-sizer').style.height = `${treeHeight * zoom}px`;
+  $('#tree-canvas').style.left = `${Math.max(0, (viewport.clientWidth - treeWidth * zoom) / 2)}px`;
+  $('#tree-canvas').style.top = `${Math.max(0, (viewport.clientHeight - treeHeight * zoom) / 2)}px`;
   $('#zoom-level').textContent = `${Math.round(zoom * 100)} %`;
   $('#zoom-out').disabled = zoom <= 0.6;
   $('#zoom-in').disabled = zoom >= 1.4;
 }
 
+// The canvas is symmetric around the active person. When a tall tree does not
+// fit, the browser stops the vertical scroll at the end of the tree.
 function centerTree() {
   const viewport = $('#tree-viewport');
-  viewport.scrollTo({ left: (treeWidth * zoom - viewport.clientWidth) / 2, top: (treeHeight * zoom - viewport.clientHeight) / 2, behavior: 'instant' });
+  viewport.scrollTo({ left: (treeWidth * zoom - viewport.clientWidth) / 2, top: activeCenterY * zoom - viewport.clientHeight / 2, behavior: 'instant' });
 }
 
 function errorMessage(text, retry) {
@@ -295,7 +257,7 @@ async function relatedPerson(id) {
 
 function relationLink(person, label) {
   const link = element('a', 'family-link');
-  link.href = `#${new URLSearchParams({ persona: person.id, raiz: person.id })}`;
+  link.href = `#${new URLSearchParams({ persona: person.id })}`;
   const text = element('span');
   if (label) text.append(element('span', 'relation-label', label));
   text.append(element('span', 'relation-name', person.name));
@@ -303,7 +265,7 @@ function relationLink(person, label) {
   link.addEventListener('click', event => {
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
-    navigate(person.id, { recenter: true, focus: true });
+    navigate(person.id, { focus: true });
   });
   return link;
 }
@@ -387,7 +349,7 @@ async function renderProfile(id, focus = false) {
     if (lifespan(person)) header.append(element('p', 'profile-years', lifespan(person)));
     const actions = element('div', 'profile-actions');
     actions.append(button('Centrar en el árbol', 'button button-secondary', () => {
-      navigate(id, { recenter: true });
+      centerTree();
       if (matchMedia('(max-width: 850px)').matches) $('#tree-title').scrollIntoView({ block: 'start' });
     }, 'center'));
     panel.replaceChildren(header, actions);
@@ -430,10 +392,7 @@ async function renderProfile(id, focus = false) {
     }
     if (person.source) panel.append(element('p', 'profile-source', `Fuente: ${person.source}`));
     announce(`Ficha de ${person.name}`);
-    if (focus) {
-      heading.focus({ preventScroll: true });
-      if (matchMedia('(max-width: 850px)').matches) panel.scrollIntoView({ block: 'start' });
-    }
+    if (focus) heading.focus({ preventScroll: true });
   } catch (error) {
     if (request !== profileRequest) return;
     panel.replaceChildren(errorMessage('No hemos podido cargar esta ficha.', () => renderProfile(id, focus)));
@@ -538,7 +497,7 @@ function groupEntry(group) {
 function personEntry(person) {
   const row = button('', 'index-entry', () => {
     $('#index-dialog').close();
-    navigate(person.id, { recenter: true, focus: true });
+    navigate(person.id, { focus: true });
   });
   row.replaceChildren();
   const text = element('span', 'entry-content');
@@ -641,7 +600,7 @@ function bindControls() {
   $('#center-tree').addEventListener('click', centerTree);
   $('#tree-back').addEventListener('click', () => {
     const previous = rootHistory.pop();
-    if (previous) navigate(previous, { recenter: true, remember: false });
+    if (previous) navigate(previous, { remember: false });
   });
   document.addEventListener('keydown', event => {
     if (event.key === '/' && !event.ctrlKey && !event.metaKey && !event.altKey && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName) && !document.activeElement.isContentEditable && !document.querySelector('dialog[open]')) {
@@ -652,17 +611,16 @@ function bindControls() {
   window.addEventListener('hashchange', () => {
     if (!catalog) return;
     if (location.hash && !new URLSearchParams(location.hash.slice(1)).has('persona')) return;
-    const state = locationState();
     rootHistory.length = 0;
-    rootId = state.root;
-    updateRootTabs();
-    renderTree();
-    navigate(state.person, { writeURL: false });
+    navigate(locationPerson(), { writeURL: false, remember: false });
   });
   new ResizeObserver(() => {
     const compact = matchMedia('(max-width: 600px)').matches;
     if (catalog && compact !== compactTree) renderTree();
-    else applyZoom();
+    else {
+      applyZoom();
+      centerTree();
+    }
   }).observe($('#tree-viewport'));
 }
 
@@ -675,17 +633,15 @@ async function init() {
     $('#place-count').textContent = catalog.stats.places;
     for (const branch of catalog.branches) {
       for (const person of branch.roots) {
-        const tab = button(person.name, 'root-tab', () => navigate(person.id, { recenter: true }));
+        const tab = button(person.name, 'root-tab', () => navigate(person.id));
         tab.dataset.rootId = person.id;
         tab.title = branch.label;
         $('#root-tabs').append(tab);
       }
     }
-    const state = locationState();
-    rootId = state.root;
-    selectedId = state.person;
+    activeId = locationPerson();
     updateRootTabs();
-    await Promise.all([renderTree(), renderProfile(selectedId)]);
+    await Promise.all([renderTree(), renderProfile(activeId)]);
   } catch (error) {
     const errorBox = $('#app-error');
     errorBox.hidden = false;

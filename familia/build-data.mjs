@@ -211,13 +211,11 @@ async function build() {
   const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames });
   const childrenByParent = new Map();
   const partnersByPerson = new Map();
-  function addPartner(personId, partnerId, relationship, childId) {
+  function addPartner(personId, partnerId, childId) {
     if (!partnersByPerson.has(personId)) partnersByPerson.set(personId, new Map());
     const partners = partnersByPerson.get(personId);
-    if (!partners.has(partnerId)) partners.set(partnerId, { relationship, sharedChildren: new Set() });
-    const partner = partners.get(partnerId);
-    if (relationship === 'spouse') partner.relationship = 'spouse';
-    if (childId) partner.sharedChildren.add(childId);
+    if (!partners.has(partnerId)) partners.set(partnerId, new Set());
+    if (childId) partners.get(partnerId).add(childId);
   }
   for (const person of source.people) {
     for (const parent of new Set([person.father, person.mother].filter(Boolean))) {
@@ -230,12 +228,12 @@ async function build() {
     }
     for (const marriage of person.marriages || []) {
       if (!marriage.spouse) continue;
-      addPartner(person.id, marriage.spouse, 'spouse');
-      addPartner(marriage.spouse, person.id, 'spouse');
+      addPartner(person.id, marriage.spouse);
+      addPartner(marriage.spouse, person.id);
     }
     if (person.father && person.mother && person.father !== person.mother) {
-      addPartner(person.father, person.mother, 'coparent', person.id);
-      addPartner(person.mother, person.father, 'coparent', person.id);
+      addPartner(person.father, person.mother, person.id);
+      addPartner(person.mother, person.father, person.id);
     }
   }
   for (const children of childrenByParent.values()) children.sort((a, b) => collator.compare(a.name, b.name));
@@ -256,13 +254,19 @@ async function build() {
   for (const person of source.people) {
     const children = childrenByParent.get(person.id);
     const parentSummaries = ['father', 'mother'].filter(relation => person[relation]).map(relation => ({ ...relativeSummary(people.get(person[relation])), relation }));
-    const partners = [...(partnersByPerson.get(person.id) || [])].map(([id, relationship]) => ({
+    const partners = [...(partnersByPerson.get(person.id) || [])].map(([id, sharedChildren]) => ({
       ...relativeSummary(people.get(id)),
-      relationship: relationship.relationship,
-      sharedChildren: [...relationship.sharedChildren].sort((a, b) => collator.compare(people.get(a).name, people.get(b).name)),
-    })).sort((a, b) => Number(a.relationship !== 'spouse') - Number(b.relationship !== 'spouse') || collator.compare(a.name, b.name));
+      sharedChildren: [...sharedChildren].sort((a, b) => collator.compare(people.get(a).name, people.get(b).name)),
+    })).sort((a, b) => collator.compare(a.name, b.name));
+    // Two people with a common child are taken to be married, so a couple the
+    // source says nothing about still gets a marriage, without invented details.
+    const assumedMarriages = partners
+      .filter(({ id }) => !person.marriages?.some((marriage) => marriage.spouse === id))
+      .map(({ id }) => ({ spouse: id }));
+    const marriages = [...(person.marriages || []), ...assumedMarriages];
     await writeJson(`people/${person.id}.json`, {
       ...person,
+      ...(marriages.length ? { marriages } : {}),
       ...(parentSummaries.length ? { parentSummaries } : {}),
       ...(children ? { children } : {}),
       ...(partners.length ? { partners } : {}),

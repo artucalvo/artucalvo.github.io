@@ -102,13 +102,13 @@ h1, h2, h3, p { margin-top: 0; }
 .text-button { display: inline-flex; align-items: center; gap: 6px; padding: 4px 0; color: var(--forest); font-size: 10px; text-align: left; }
 .text-button:hover { color: var(--rust); }
 .tree-context { margin-left: auto; color: #969b8a; font-size: 9px; }
-.tree-viewport { position: relative; flex: 1; height: 440px; min-height: 440px; max-height: 590px; overflow: auto; overscroll-behavior: contain; background-image: radial-gradient(#abb49c55 .65px, transparent .65px); background-size: 18px 18px; scrollbar-width: thin; scrollbar-color: #c8cebc transparent; }
+.tree-viewport { position: relative; flex: 1; height: 470px; min-height: 470px; max-height: 590px; overflow: auto; overscroll-behavior: contain; background-image: radial-gradient(#abb49c55 .65px, transparent .65px); background-size: 18px 18px; scrollbar-width: thin; scrollbar-color: #c8cebc transparent; }
 .tree-sizer { position: relative; min-width: 100%; min-height: 100%; }
 .tree-canvas { position: absolute; top: 0; left: 0; transform-origin: 0 0; }
 .tree-connections { position: absolute; inset: 0; overflow: visible; fill: none; stroke: var(--connector, #b3c0a7); stroke-width: 1.4; pointer-events: none; }
 .tree-connections path { vector-effect: non-scaling-stroke; }
 .generation-label { color: #929a86; font-size: 8px; letter-spacing: 1.1px; text-transform: uppercase; }
-.tree-node { position: absolute; width: 224px; height: 146px; }
+.tree-node { position: absolute; width: 224px; }
 .person-node { position: relative; display: flex; flex-direction: column; align-items: stretch; width: 100%; height: 124px; padding: 12px 14px 9px; border: 1px solid #dce0d3; border-radius: 7px; background: var(--surface); box-shadow: 0 3px 9px #2e472306; text-align: left; transition: border-color .18s, box-shadow .18s, transform .18s; }
 .person-node:hover { border-color: #819375; box-shadow: 0 5px 15px #2e472312; transform: translateY(-1px); }
 .node-topline { display: flex; align-items: center; gap: 7px; min-height: 20px; margin-bottom: 7px; }
@@ -118,13 +118,10 @@ h1, h2, h3, p { margin-top: 0; }
 .node-dates { margin-top: 5px; color: #7f8675; font-size: 9px; line-height: 1.5; }
 .node-place { display: flex; align-items: center; gap: 4px; margin-top: 3px; overflow: hidden; color: #8b9282; font-size: 8px; line-height: 1.4; text-overflow: ellipsis; white-space: nowrap; }
 .node-place .icon { width: 11px; height: 11px; }
-.tree-node.is-selected .person-node { border: 1.5px solid var(--forest); background: #fefffa; box-shadow: 0 4px 15px #294c3d10; }
-.tree-node.is-selected .person-node::before { content: ''; position: absolute; top: 11px; bottom: 11px; left: -1px; width: 3px; border-radius: 0 2px 2px 0; background: var(--forest); }
+.tree-node.is-selected .person-node { border-color: var(--forest); background: #fefffa; box-shadow: 0 0 0 1.5px var(--forest), 0 4px 15px #294c3d10; }
 .tree-node.is-selected .node-avatar { color: var(--surface); background: var(--forest); }
-.tree-node.is-root .node-relation { color: var(--rust); }
-.node-expand { display: flex; align-items: center; justify-content: center; gap: 4px; width: 100%; height: 22px; padding: 1px 0; color: #7a886e; font-size: 8px; }
-.node-expand:hover { color: var(--forest); text-decoration: underline; text-underline-offset: 3px; }
-.node-expand .icon { width: 11px; height: 11px; }
+.tree-circle { position: absolute; display: grid; place-items: center; padding: 0; border: 1px solid var(--line-strong); border-radius: 50%; color: #4f6345; background: #edf0e7; font-family: var(--serif); font-size: 11px; line-height: 1; transition: border-color .18s, background .18s, color .18s; }
+.tree-circle:hover { border-color: var(--forest); color: var(--surface); background: var(--forest); }
 .tree-bottom { display: flex; align-items: center; justify-content: space-between; min-height: 64px; padding: 10px 23px; border-top: 1px solid var(--line); background: #f8f9f3; gap: 10px; }
 .tree-hint { display: flex; align-items: center; gap: 7px; color: #858e7a; font-size: 9px; line-height: 1.5; }
 .status-dot { display: inline-block; flex: 0 0 5px; height: 5px; border-radius: 50%; background: #9eae8e; }
@@ -249,7 +246,7 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .event-item:last-child { border-left-color: #dce2d2; }
   .observations { font-size: 12px; }
   .profile-source { font-size: 9px; }
-  .tree-viewport { height: 440px; max-height: 440px; }
+  .tree-viewport { height: 470px; max-height: 470px; }
   .tree-hint { max-width: none; font-size: 9px; }
 }
 @media (max-width: 600px) {
@@ -272,7 +269,7 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .tree-navigation { margin-inline: 17px; min-height: 27px; }
   .text-button { font-size: 8px; }
   .tree-context { font-size: 8px; }
-  .tree-viewport { height: 440px; min-height: 440px; max-height: 440px; }
+  .tree-viewport { height: 484px; min-height: 484px; max-height: 484px; }
   .tree-bottom { min-height: 63px; padding: 10px 12px; gap: 10px; }
   .tree-hint { max-width: 150px; font-size: 8px; gap: 6px; }
   .tree-controls .icon-button { width: 27px; height: 29px; }
@@ -336,7 +333,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .node-relation { color: #64715b; font-size: 10px; }
 .node-avatar { font-size: 10px; }
 .node-dates, .node-place { color: #64715b; font-size: 11px; }
-.node-expand { color: #556d48; font-size: 10px; }
 .tree-hint { color: #65745a; font-size: 11px; }
 .tree-controls .icon-button { width: 34px; height: 34px; }
 #zoom-level { color: #566c49; font-size: 11px; }
@@ -373,13 +369,11 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .tree-heading, .profile-header { scroll-margin-top: 20px; }
 }
 @media (max-width: 600px) {
-  .tree-node { height: 164px; }
   .person-node { height: 142px; padding: 12px 10px 9px; }
   .node-topline { gap: 5px; }
   .node-relation { font-size: 9px; }
   .node-place { white-space: normal; line-height: 1.35; }
   .node-place .icon { flex-shrink: 0; }
-  .node-expand { font-size: 9px; }
 }
 
 /* One compact toolbar keeps the archive indices, starting point and search together. */
