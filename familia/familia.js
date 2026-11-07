@@ -1,0 +1,653 @@
+const $ = (selector, root = document) => root.querySelector(selector);
+const SVG_NS = 'http://www.w3.org/2000/svg';
+const ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const PAGE_SIZE = 40;
+const NODE_WIDTH = 224;
+const NODE_HEIGHT = 146;
+const recordCache = new Map();
+let catalog;
+let directoryPromise;
+let directory;
+let rootId;
+let selectedId;
+let treeWidth = 640;
+let treeHeight = 430;
+let compactTree = matchMedia('(max-width: 600px)').matches;
+let zoom = 1;
+let treeRequest = 0;
+let profileRequest = 0;
+let indexRequest = 0;
+let indexTab = 'people';
+let indexFilter = null;
+let resultLimit = PAGE_SIZE;
+const rootHistory = [];
+
+function element(tag, className, text) {
+  const node = document.createElement(tag);
+  if (className) node.className = className;
+  if (text !== undefined) node.textContent = text;
+  return node;
+}
+
+function icon(name) {
+  const svg = document.createElementNS(SVG_NS, 'svg');
+  svg.setAttribute('class', 'icon');
+  svg.setAttribute('aria-hidden', 'true');
+  const use = document.createElementNS(SVG_NS, 'use');
+  use.setAttribute('href', `#i-${name}`);
+  svg.append(use);
+  return svg;
+}
+
+function button(text, className, action, iconName) {
+  const node = element('button', className);
+  node.type = 'button';
+  if (iconName) node.append(icon(iconName));
+  node.append(element('span', '', text));
+  node.addEventListener('click', action);
+  return node;
+}
+
+function announce(message) {
+  $('#announcer').textContent = message;
+}
+
+function initials(person) {
+  return `${person.givenNames?.[0] || person.name[0]}${person.surnames?.[0]?.[0] || ''}`.toLocaleUpperCase('es');
+}
+
+function years(person) {
+  const birth = person.birth?.date?.slice(0, 4);
+  const death = person.death?.date?.slice(0, 4);
+  return birth && death ? `${birth} – ${death}` : birth ? `n. ${birth}` : death ? `f. ${death}` : '';
+}
+
+function dateLabel(value) {
+  if (!value) return '';
+  if (/^\d{4}$/.test(value)) return value;
+  if (/^\d{4}-\d{2}$/.test(value)) {
+    return new Intl.DateTimeFormat('es', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${value}-01T12:00:00Z`));
+  }
+  const parsed = new Date(`${value}T12:00:00Z`);
+  return Number.isNaN(parsed.getTime()) ? value : new Intl.DateTimeFormat('es', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(parsed);
+}
+
+async function readJSON(path) {
+  const response = await fetch(new URL(path, import.meta.url));
+  if (!response.ok) throw new Error(`No se pudo cargar ${path} (${response.status}).`);
+  return response.json();
+}
+
+function getPerson(id) {
+  if (!ID_PATTERN.test(id || '')) return Promise.reject(new Error('Identificador de persona no válido.'));
+  if (recordCache.has(id)) {
+    const cached = recordCache.get(id);
+    recordCache.delete(id);
+    recordCache.set(id, cached);
+    return cached;
+  }
+  const request = readJSON(`data/people/${id}.json`).then(person => {
+    if (person.id !== id || !person.name) throw new Error('La ficha no es válida.');
+    return person;
+  }).catch(error => {
+    recordCache.delete(id);
+    throw error;
+  });
+  recordCache.set(id, request);
+  if (recordCache.size > 80) recordCache.delete(recordCache.keys().next().value);
+  return request;
+}
+
+function getDirectory() {
+  if (!directoryPromise) {
+    directoryPromise = readJSON('data/index.json').then(value => {
+      directory = value;
+      return value;
+    }).catch(error => {
+      directoryPromise = null;
+      throw error;
+    });
+  }
+  return directoryPromise;
+}
+
+function updateURL() {
+  const params = new URLSearchParams({ persona: selectedId, raiz: rootId });
+  const hash = `#${params}`;
+  if (location.hash !== hash) history.pushState(null, '', hash);
+}
+
+function locationState() {
+  const params = new URLSearchParams(location.hash.slice(1));
+  const person = params.get('persona');
+  const root = params.get('raiz') || person;
+  return {
+    person: ID_PATTERN.test(person || '') ? person : catalog.defaultPerson,
+    root: ID_PATTERN.test(root || '') ? root : catalog.defaultPerson,
+  };
+}
+
+function updateRootTabs() {
+  document.querySelectorAll('[data-root-id]').forEach(node => {
+    const active = node.dataset.rootId === rootId;
+    node.classList.toggle('is-active', active);
+    node.setAttribute('aria-pressed', String(active));
+  });
+  $('#tree-back').hidden = rootHistory.length === 0;
+}
+
+async function navigate(id, { recenter = false, writeURL = true, remember = true, focus = false } = {}) {
+  if (!ID_PATTERN.test(id || '')) return;
+  selectedId = id;
+  if (recenter || !rootId) {
+    if (remember && rootId && rootId !== id) {
+      rootHistory.push(rootId);
+      if (rootHistory.length > 30) rootHistory.shift();
+    }
+    rootId = id;
+    updateRootTabs();
+    renderTree();
+  } else {
+    updateNodeSelection();
+  }
+  if (writeURL) updateURL();
+  await renderProfile(id, focus);
+}
+
+async function collectAncestors(id, maxDepth) {
+  const result = [];
+  async function visit(personId, level, slot, path) {
+    if (path.has(personId)) return;
+    const person = await getPerson(personId);
+    result.push({ person, level, slot });
+    if (level >= maxDepth) return;
+    const nextPath = new Set(path).add(personId);
+    await Promise.all([
+      person.father ? visit(person.father, level + 1, slot * 2, nextPath) : null,
+      person.mother ? visit(person.mother, level + 1, slot * 2 + 1, nextPath) : null,
+    ]);
+  }
+  await visit(id, 0, 0, new Set());
+  return result.sort((a, b) => a.level - b.level || a.slot - b.slot);
+}
+
+function updateNodeSelection() {
+  document.querySelectorAll('.tree-node').forEach(node => {
+    const selected = node.dataset.personId === selectedId;
+    node.classList.toggle('is-selected', selected);
+    $('.person-node', node).setAttribute('aria-pressed', String(selected));
+  });
+}
+
+async function renderTree() {
+  const request = ++treeRequest;
+  const canvas = $('#tree-canvas');
+  const viewport = $('#tree-viewport');
+  viewport.setAttribute('aria-busy', 'true');
+  try {
+    const nodes = await collectAncestors(rootId, Number($('#generation-depth').value));
+    if (request !== treeRequest) return;
+    const maxLevel = Math.max(...nodes.map(node => node.level));
+    compactTree = matchMedia('(max-width: 600px)').matches;
+    const nodeWidth = compactTree ? 156 : NODE_WIDTH;
+    const cardHeight = compactTree ? 142 : 124;
+    const sidePadding = compactTree ? 12 : 40;
+    const canShowMore = Number($('#generation-depth').value) < 3 && nodes.some(node => node.level === Number($('#generation-depth').value) && (node.person.father || node.person.mother));
+    treeWidth = compactTree ? Math.max(viewport.clientWidth, 2 ** maxLevel * 172 + 24) : Math.max(640, 2 ** maxLevel * 264 + 80);
+    treeHeight = Math.max(380, (maxLevel + 1) * 218 + 24);
+    for (const node of nodes) {
+      node.x = sidePadding + ((node.slot + 0.5) / 2 ** node.level) * (treeWidth - sidePadding * 2) - nodeWidth / 2;
+      node.y = 38 + (maxLevel - node.level) * 218;
+      node.hasExpand = node.level === 0 ? canShowMore : Boolean(node.person.father || node.person.mother);
+    }
+    canvas.replaceChildren();
+    const lines = document.createElementNS(SVG_NS, 'svg');
+    lines.classList.add('tree-connections');
+    lines.setAttribute('width', String(treeWidth));
+    lines.setAttribute('height', String(treeHeight));
+    lines.setAttribute('aria-hidden', 'true');
+    const positions = new Map(nodes.map(node => [`${node.level}:${node.slot}`, node]));
+    for (const child of nodes) {
+      for (const slot of [child.slot * 2, child.slot * 2 + 1]) {
+        const parent = positions.get(`${child.level + 1}:${slot}`);
+        if (!parent) continue;
+        const x1 = parent.x + nodeWidth / 2;
+        const y1 = parent.y + cardHeight + (parent.hasExpand ? NODE_HEIGHT - 124 : 0);
+        const x2 = child.x + nodeWidth / 2;
+        const y2 = child.y;
+        const middle = y1 + (y2 - y1) / 2;
+        const path = document.createElementNS(SVG_NS, 'path');
+        path.setAttribute('d', `M ${x1} ${y1} V ${middle} H ${x2} V ${y2}`);
+        lines.append(path);
+      }
+    }
+    canvas.append(lines);
+    for (const { person, level, x, y, slot, hasExpand } of nodes) {
+      const wrapper = element('div', `tree-node${level === 0 ? ' is-root' : ''}`);
+      wrapper.dataset.personId = person.id;
+      wrapper.style.left = `${x}px`;
+      wrapper.style.top = `${y}px`;
+      wrapper.style.width = `${nodeWidth}px`;
+      const card = element('button', 'person-node');
+      card.type = 'button';
+      card.setAttribute('aria-label', `Ver ficha de ${person.name}`);
+      card.addEventListener('click', () => navigate(person.id, { focus: true }));
+      const topline = element('span', 'node-topline');
+      topline.append(element('span', 'node-avatar', initials(person)), element('span', 'node-relation', level === 0 ? 'Persona de referencia' : level === 1 ? slot === 0 ? 'Padre' : 'Madre' : `Ascendiente · generación ${level + 1}`));
+      card.append(topline, element('strong', 'node-name', person.name));
+      const life = years(person);
+      if (life) card.append(element('span', 'node-dates', life));
+      const place = person.birth?.place || person.origins?.[0];
+      if (place) {
+        const label = element('span', 'node-place');
+        label.append(icon('pin'), document.createTextNode(place));
+        card.append(label);
+      }
+      wrapper.append(card);
+      if (hasExpand) {
+        wrapper.append(button(level === 0 ? 'Ver una generación más' : 'Continuar esta rama', 'node-expand', () => {
+          if (level === 0) {
+            $('#generation-depth').value = String(Number($('#generation-depth').value) + 1);
+            renderTree();
+          } else navigate(person.id, { recenter: true });
+        }, 'tree'));
+      }
+      canvas.append(wrapper);
+    }
+    $('#tree-context').textContent = `${nodes[0].person.name} · ${nodes.length} ${nodes.length === 1 ? 'persona' : 'personas'} en esta vista`;
+    updateNodeSelection();
+    applyZoom();
+    requestAnimationFrame(centerTree);
+  } catch (error) {
+    if (request !== treeRequest) return;
+    canvas.replaceChildren(errorMessage('No hemos podido cargar esta rama.', renderTree));
+    announce('No se ha podido cargar la rama. Puedes volver a intentarlo.');
+  } finally {
+    if (request === treeRequest) viewport.setAttribute('aria-busy', 'false');
+  }
+}
+
+function applyZoom() {
+  $('#tree-canvas').style.width = `${treeWidth}px`;
+  $('#tree-canvas').style.height = `${treeHeight}px`;
+  $('#tree-canvas').style.transform = `scale(${zoom})`;
+  $('#tree-canvas').style.left = `${Math.max(0, ($('#tree-viewport').clientWidth - treeWidth * zoom) / 2)}px`;
+  $('#tree-sizer').style.width = `${treeWidth * zoom}px`;
+  $('#tree-sizer').style.height = `${treeHeight * zoom}px`;
+  $('#zoom-level').textContent = `${Math.round(zoom * 100)} %`;
+  $('#zoom-out').disabled = zoom <= 0.6;
+  $('#zoom-in').disabled = zoom >= 1.4;
+}
+
+function centerTree() {
+  const viewport = $('#tree-viewport');
+  viewport.scrollTo({ left: (treeWidth * zoom - viewport.clientWidth) / 2, top: (treeHeight * zoom - viewport.clientHeight) / 2, behavior: 'instant' });
+}
+
+function errorMessage(text, retry) {
+  const box = element('div', 'error-state');
+  box.append(element('p', '', text), button('Volver a intentar', 'button button-secondary retry-button', retry));
+  return box;
+}
+
+async function relatedPerson(id) {
+  if (!id) return null;
+  return getPerson(id);
+}
+
+function relationLink(person, label) {
+  const link = element('a', 'family-link');
+  link.href = `#${new URLSearchParams({ persona: person.id, raiz: person.id })}`;
+  const text = element('span');
+  if (label) text.append(element('span', 'relation-label', label));
+  text.append(element('span', 'relation-name', person.name));
+  link.append(text, icon('arrow-right'));
+  link.addEventListener('click', event => {
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    navigate(person.id, { recenter: true, focus: true });
+  });
+  return link;
+}
+
+function safeImagePath(path) {
+  if (typeof path !== 'string' || !/^documents\/[a-zA-Z0-9_./-]+$/.test(path) || path.includes('..')) return null;
+  return new URL(path, import.meta.url).href;
+}
+
+function addTranscription(container, text) {
+  if (!text) return;
+  const details = element('details', 'transcription');
+  details.append(element('summary', '', 'Leer transcripción'), element('p', '', text));
+  container.append(details);
+}
+
+function appendDocuments(container, event, title, personName) {
+  for (const document of event.documents || []) {
+    const path = safeImagePath(document.image);
+    if (path) {
+      const image = element('img');
+      image.src = path;
+      image.alt = document.alt || `${title} de ${personName}`;
+      image.loading = 'lazy';
+      image.decoding = 'async';
+      const open = button('Ampliar documento', 'event-document', () => {
+        $('#document-title').textContent = `${title} · ${personName}`;
+        $('#document-image').src = path;
+        $('#document-image').alt = image.alt;
+        openDialog($('#document-dialog'));
+      });
+      open.prepend(image);
+      container.append(open);
+    }
+    addTranscription(container, document.transcription);
+  }
+  addTranscription(container, event.transcription);
+}
+
+function eventHasData(event) {
+  return event && (event.date || event.place || event.note || event.spouse || event.transcription || event.documents?.some(doc => doc.image || doc.transcription));
+}
+
+function eventBlock(title, event, person, spouse) {
+  if (!eventHasData(event)) return null;
+  const section = element('section', 'event-item');
+  section.append(element('span', 'event-marker'), element('h3', '', title));
+  if (event.date) {
+    const time = element('time', 'event-date', dateLabel(event.date));
+    time.dateTime = event.date;
+    section.append(time);
+  }
+  if (event.place) section.append(element('p', 'event-place', event.place));
+  if (spouse) {
+    const link = relationLink(spouse, 'Cónyuge');
+    link.classList.add('event-spouse');
+    section.append(link);
+  }
+  if (event.note) section.append(element('p', 'event-note', event.note));
+  appendDocuments(section, event, title, person.name);
+  return section;
+}
+
+async function renderProfile(id, focus = false) {
+  const request = ++profileRequest;
+  const panel = $('#person-panel');
+  panel.setAttribute('aria-busy', 'true');
+  try {
+    const person = await getPerson(id);
+    const [father, mother, ...spouses] = await Promise.all([
+      relatedPerson(person.father), relatedPerson(person.mother),
+      ...(person.marriages || []).map(marriage => relatedPerson(marriage.spouse)),
+    ]);
+    if (request !== profileRequest) return;
+    const header = element('header', 'profile-header');
+    const eyebrow = element('p', 'profile-eyebrow', 'UNA VIDA, NUESTRA HISTORIA');
+    const avatar = element('div', 'profile-avatar', initials(person));
+    avatar.setAttribute('aria-hidden', 'true');
+    const heading = element('h2', 'profile-name', person.name);
+    heading.tabIndex = -1;
+    header.append(eyebrow, avatar, heading);
+    if (years(person)) header.append(element('p', 'profile-years', years(person)));
+    const actions = element('div', 'profile-actions');
+    actions.append(button('Centrar en el árbol', 'button button-secondary', () => {
+      navigate(id, { recenter: true });
+      if (matchMedia('(max-width: 850px)').matches) $('#tree-title').scrollIntoView({ block: 'start' });
+    }, 'center'));
+    panel.replaceChildren(header, actions);
+    if (father || mother) {
+      const family = element('section', 'profile-section');
+      family.append(element('h3', '', 'Sus padres'));
+      if (father) family.append(relationLink(father, 'Padre'));
+      if (mother) family.append(relationLink(mother, 'Madre'));
+      panel.append(family);
+    }
+    const events = element('div', 'event-timeline');
+    const entries = [eventBlock('Nacimiento', person.birth, person), eventBlock('Bautismo', person.baptism, person)];
+    (person.marriages || []).forEach((marriage, index) => entries.push(eventBlock('Matrimonio', marriage, person, spouses[index])));
+    entries.push(eventBlock('Fallecimiento', person.death, person));
+    events.append(...entries.filter(Boolean));
+    if (events.childElementCount) panel.append(events);
+    if (person.origins?.length) {
+      const origins = element('section', 'profile-section');
+      origins.append(element('h3', '', person.origins.length > 1 ? 'Lugares de referencia' : 'Lugar de referencia'));
+      person.origins.forEach(place => {
+        const line = element('p', 'profile-place');
+        line.append(icon('pin'), document.createTextNode(place));
+        origins.append(line);
+      });
+      panel.append(origins);
+    }
+    if (person.observations?.length) {
+      const notes = element('section', 'profile-section observations');
+      notes.append(element('h3', '', 'Observaciones'));
+      const list = element('ul');
+      person.observations.forEach(note => list.append(element('li', '', note)));
+      notes.append(list);
+      panel.append(notes);
+    }
+    panel.append(element('p', 'profile-source', `Fuente: ${catalog.source || 'archivo familiar · ABUELOS.docx'}`));
+    announce(`Ficha de ${person.name}`);
+    if (focus) {
+      heading.focus({ preventScroll: true });
+      if (matchMedia('(max-width: 850px)').matches) panel.scrollIntoView({ block: 'start' });
+    }
+  } catch (error) {
+    if (request !== profileRequest) return;
+    panel.replaceChildren(errorMessage('No hemos podido cargar esta ficha.', () => renderProfile(id, focus)));
+    announce('No se ha podido cargar la ficha. Puedes volver a intentarlo.');
+  } finally {
+    if (request === profileRequest) panel.setAttribute('aria-busy', 'false');
+  }
+}
+
+function normalize(value) {
+  return value.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLocaleLowerCase('es');
+}
+
+function matches(value, query) {
+  const normalized = normalize(value);
+  return normalize(query).split(/\s+/).every(term => normalized.includes(term));
+}
+
+function openDialog(dialog) {
+  dialog.showModal();
+  document.body.classList.add('dialog-open');
+}
+
+async function openIndex(tab = 'people') {
+  if (!$('#index-dialog').open) openDialog($('#index-dialog'));
+  setIndexTab(tab);
+  $('#index-query').focus();
+}
+
+function setIndexTab(tab) {
+  indexTab = tab;
+  indexFilter = null;
+  resultLimit = PAGE_SIZE;
+  $('#index-query').value = '';
+  document.querySelectorAll('[data-index-tab]').forEach(button => {
+    const active = button.dataset.indexTab === tab;
+    button.setAttribute('aria-selected', String(active));
+    button.tabIndex = active ? 0 : -1;
+  });
+  $('#index-results').setAttribute('aria-labelledby', `tab-${tab}`);
+  $('#index-query').placeholder = tab === 'surnames' ? 'Buscar un apellido…' : tab === 'places' ? 'Buscar un lugar…' : 'Buscar una persona…';
+  renderIndex();
+}
+
+function groupEntry(group) {
+  const row = button('', 'index-entry', () => {
+    indexFilter = group;
+    resultLimit = PAGE_SIZE;
+    $('#index-query').value = '';
+    $('#index-query').placeholder = 'Buscar entre estas personas…';
+    renderIndex();
+    $('#index-query').focus();
+  });
+  row.replaceChildren();
+  const avatar = element('span', 'entry-avatar');
+  avatar.append(icon(indexTab === 'places' ? 'pin' : 'leaf'));
+  const text = element('span', 'entry-content');
+  text.append(element('strong', 'entry-name', group.name));
+  row.append(avatar, text, element('span', 'entry-count', String(group.people.length)), icon('arrow-right'));
+  return row;
+}
+
+function personEntry(person) {
+  const row = button('', 'index-entry', () => {
+    $('#index-dialog').close();
+    navigate(person.id, { recenter: true, focus: true });
+  });
+  row.replaceChildren();
+  const text = element('span', 'entry-content');
+  text.append(element('strong', 'entry-name', person.name));
+  const dates = person.birthYear && person.deathYear ? `${person.birthYear} – ${person.deathYear}` : person.birthYear ? `n. ${person.birthYear}` : person.deathYear ? `f. ${person.deathYear}` : '';
+  const meta = [dates, person.places?.[0]].filter(Boolean).join(' · ');
+  if (meta) text.append(element('span', 'entry-meta', meta));
+  row.append(element('span', 'entry-avatar', initials(person)), text, icon('arrow-right'));
+  $('.entry-avatar', row).setAttribute('aria-hidden', 'true');
+  return row;
+}
+
+async function renderIndex() {
+  const request = ++indexRequest;
+  const results = $('#index-results');
+  results.setAttribute('aria-busy', 'true');
+  if (!directory) results.replaceChildren(element('p', 'loading-message', 'Abriendo el archivo…'));
+  try {
+    const data = await getDirectory();
+    if (request !== indexRequest) return;
+    const query = $('#index-query').value.trim();
+    const peopleMode = indexTab === 'people' || indexFilter;
+    let entries;
+    if (peopleMode) {
+      const ids = indexFilter ? new Set(indexFilter.people) : null;
+      entries = data.people.filter(person => (!ids || ids.has(person.id)) && matches([person.name, ...(person.places || [])].join(' '), query));
+    } else {
+      entries = data[indexTab].filter(group => matches(group.name, query));
+    }
+    const filter = $('#index-filter');
+    filter.replaceChildren();
+    filter.hidden = !indexFilter;
+    if (indexFilter) filter.append(button(`Todos los ${indexTab === 'places' ? 'lugares' : 'apellidos'}`, 'text-button', () => setIndexTab(indexTab), 'arrow-left'), element('strong', '', indexFilter.name));
+    const noun = peopleMode ? entries.length === 1 ? 'persona' : 'personas' : indexTab === 'surnames' ? entries.length === 1 ? 'apellido' : 'apellidos' : entries.length === 1 ? 'lugar' : 'lugares';
+    $('#index-count').textContent = query ? `Coincidencias: ${entries.length} ${noun}` : `${entries.length} ${noun} en el archivo`;
+    const fragment = document.createDocumentFragment();
+    let lastLetter = '';
+    for (const entry of entries.slice(0, resultLimit)) {
+      if (!peopleMode) {
+        const letter = entry.name[0].toLocaleUpperCase('es');
+        if (letter !== lastLetter) fragment.append(element('h3', 'index-letter', letter));
+        lastLetter = letter;
+      }
+      fragment.append(peopleMode ? personEntry(entry) : groupEntry(entry));
+    }
+    if (!entries.length) fragment.append(element('p', 'index-empty', 'No hay coincidencias. Prueba con otro nombre, apellido o lugar.'));
+    results.replaceChildren(fragment);
+    $('#index-more').hidden = entries.length <= resultLimit;
+    if (entries.length > resultLimit) $('#index-more').textContent = `Mostrar más (${Math.min(PAGE_SIZE, entries.length - resultLimit)})`;
+  } catch (error) {
+    if (request === indexRequest) results.replaceChildren(errorMessage('No hemos podido abrir el índice.', renderIndex));
+  } finally {
+    if (request === indexRequest) results.setAttribute('aria-busy', 'false');
+  }
+}
+
+function bindControls() {
+  document.querySelectorAll('[data-open-index]').forEach(button => button.addEventListener('click', () => openIndex(button.dataset.openIndex)));
+  document.querySelectorAll('[data-close-dialog]').forEach(button => button.addEventListener('click', () => document.getElementById(button.dataset.closeDialog).close()));
+  document.querySelectorAll('dialog').forEach(dialog => {
+    dialog.addEventListener('close', () => {
+      if (!document.querySelector('dialog[open]')) document.body.classList.remove('dialog-open');
+    });
+    dialog.addEventListener('click', event => { if (event.target === dialog) {
+      const bounds = dialog.getBoundingClientRect();
+      if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
+    } });
+  });
+  document.querySelectorAll('[data-index-tab]').forEach(button => {
+    button.addEventListener('click', () => setIndexTab(button.dataset.indexTab));
+    button.addEventListener('keydown', event => {
+      const tabs = [...document.querySelectorAll('[data-index-tab]')];
+      let next;
+      if (event.key === 'ArrowRight') next = (tabs.indexOf(button) + 1) % tabs.length;
+      if (event.key === 'ArrowLeft') next = (tabs.indexOf(button) + tabs.length - 1) % tabs.length;
+      if (event.key === 'Home') next = 0;
+      if (event.key === 'End') next = tabs.length - 1;
+      if (next !== undefined) {
+        event.preventDefault();
+        setIndexTab(tabs[next].dataset.indexTab);
+        tabs[next].focus();
+      }
+    });
+  });
+  let searchTimer;
+  $('#index-query').addEventListener('input', () => {
+    clearTimeout(searchTimer);
+    resultLimit = PAGE_SIZE;
+    searchTimer = setTimeout(renderIndex, 100);
+  });
+  $('#index-more').addEventListener('click', () => {
+    resultLimit += PAGE_SIZE;
+    renderIndex();
+  });
+  $('#generation-depth').addEventListener('change', renderTree);
+  $('#zoom-in').addEventListener('click', () => { zoom = Math.min(1.4, Math.round((zoom + 0.1) * 10) / 10); applyZoom(); centerTree(); });
+  $('#zoom-out').addEventListener('click', () => { zoom = Math.max(0.6, Math.round((zoom - 0.1) * 10) / 10); applyZoom(); centerTree(); });
+  $('#center-tree').addEventListener('click', centerTree);
+  $('#tree-back').addEventListener('click', () => {
+    const previous = rootHistory.pop();
+    if (previous) navigate(previous, { recenter: true, remember: false });
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === '/' && !event.ctrlKey && !event.metaKey && !event.altKey && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName) && !document.activeElement.isContentEditable && !document.querySelector('dialog[open]')) {
+      event.preventDefault();
+      openIndex();
+    }
+  });
+  window.addEventListener('hashchange', () => {
+    if (!catalog) return;
+    if (location.hash && !new URLSearchParams(location.hash.slice(1)).has('persona')) return;
+    const state = locationState();
+    rootHistory.length = 0;
+    rootId = state.root;
+    updateRootTabs();
+    renderTree();
+    navigate(state.person, { writeURL: false });
+  });
+  new ResizeObserver(() => {
+    const compact = matchMedia('(max-width: 600px)').matches;
+    if (catalog && compact !== compactTree) renderTree();
+    else applyZoom();
+  }).observe($('#tree-viewport'));
+}
+
+async function init() {
+  bindControls();
+  try {
+    catalog = await readJSON('data/catalog.json');
+    $('#people-count').textContent = catalog.stats.people;
+    $('#surname-count').textContent = catalog.stats.surnames;
+    $('#place-count').textContent = catalog.stats.places;
+    for (const branch of catalog.branches) {
+      for (const person of branch.roots) {
+        const tab = button(person.name, 'root-tab', () => navigate(person.id, { recenter: true }));
+        tab.dataset.rootId = person.id;
+        tab.title = branch.label;
+        $('#root-tabs').append(tab);
+      }
+    }
+    const state = locationState();
+    rootId = state.root;
+    selectedId = state.person;
+    updateRootTabs();
+    await Promise.all([renderTree(), renderProfile(selectedId)]);
+  } catch (error) {
+    const errorBox = $('#app-error');
+    errorBox.hidden = false;
+    errorBox.replaceChildren(errorMessage('No hemos podido abrir el archivo familiar. Comprueba tu conexión y vuelve a intentarlo.', () => location.reload()));
+    $('#person-panel').setAttribute('aria-busy', 'false');
+  }
+}
+
+init();

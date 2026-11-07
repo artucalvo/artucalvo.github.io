@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Un archivo de nuestra historia familiar. Explora las personas, los apellidos y los lugares de nuestro árbol genealógico.">
+  <meta name="theme-color" content="#294c3d">
+  <title>Familia · Nuestro árbol genealógico</title>
+  <link rel="icon" href="../img/favicon.ico">
+  <link rel="stylesheet" href="familia.css">
+  <script type="module" src="familia.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#family-workspace">Saltar al árbol familiar</a>
+  <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-tree" viewBox="0 0 24 24"><path d="M12 21v-9m0 5-5-5m5 2 5-5M12 3c-4-3-9 1-7 5-5 2-2 8 2 7m5-12c4-3 9 1 7 5 5 2 2 8-2 7M8 21h8"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-arrow-left" viewBox="0 0 24 24"><path d="M20 12H4m6-6-6 6 6 6"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M5 12h14M12 5v14"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+    <symbol id="i-center" viewBox="0 0 24 24"><rect x="7" y="7" width="10" height="10" rx="2"/><path d="M4 9V4h5m6 0h5v5m0 6v5h-5M9 20H4v-5"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 5C8 2 3 4 3 4v15s5-2 9 1c4-3 9-1 9-1V4s-5-2-9 1Zm0 0v15"/></symbol>
+    <symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3m1-17a3 3 0 0 1 0 6m2 4a5 5 0 0 1 3 4v3"/></symbol>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M20 3C8 2 2 8 5 15s15 4 15-12ZM4 21 16 8"/></symbol>
+    <symbol id="i-document" viewBox="0 0 24 24"><path d="M14 3H5v18h14V8Zm0 0v5h5M8 12h8m-8 4h6"/></symbol>
+  </svg>
+
+  <header class="site-header page-width">
+    <a class="wordmark" href="./" aria-label="Familia, inicio del árbol"><span class="brand-icon"><svg class="icon"><use href="#i-tree"/></svg></span><span>Familia<span class="wordmark-note">UN ARCHIVO COMPARTIDO</span></span></a>
+    <button class="button button-quiet" data-open-index="people"><svg class="icon"><use href="#i-book"/></svg><span>Explorar el archivo</span><svg class="icon small"><use href="#i-arrow-right"/></svg></button>
+  </header>
+
+  <main class="page-width">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy"><p class="eyebrow"><span class="eyebrow-line"></span>NUESTRO ÁRBOL GENEALÓGICO</p><h1 id="page-title">Una historia de <em>familia.</em></h1><p class="hero-description">Cada nombre nos une a un lugar y a una historia.<br class="desktop-break"> Recorre las ramas y descubre nuestras raíces.</p></div>
+      <div class="archive-summary" aria-label="Contenido del archivo"><span class="summary-decoration" aria-hidden="true"><svg class="icon"><use href="#i-tree"/></svg></span><div class="summary-stats"><div><strong id="people-count">—</strong><span>personas</span></div><div><strong id="surname-count">—</strong><span>apellidos</span></div><div><strong id="place-count">—</strong><span>lugares</span></div></div><p>Un archivo que sigue creciendo</p></div>
+    </section>
+
+    <section class="family-workspace" id="family-workspace" aria-label="Explorador del árbol familiar" tabindex="-1">
+      <div class="workspace-toolbar"><div class="view-tabs" aria-label="Explorar el archivo"><span class="view-tab active"><svg class="icon"><use href="#i-tree"/></svg>Árbol familiar</span><button class="view-tab" data-open-index="surnames">Apellidos</button><button class="view-tab" data-open-index="places">Lugares</button></div><button class="search-trigger" data-open-index="people"><svg class="icon"><use href="#i-search"/></svg><span>Buscar en el archivo</span><kbd>/</kbd></button></div>
+      <div class="branch-bar"><span class="branch-label">PUNTOS DE PARTIDA</span><div id="root-tabs" class="root-tabs" aria-label="Elegir una rama familiar"></div></div>
+      <div id="app-error" class="app-error" role="alert" hidden></div>
+      <div class="explorer-layout">
+        <section class="tree-panel" aria-labelledby="tree-title"><div class="tree-heading"><div><p class="eyebrow">EXPLORA LAS CONEXIONES</p><h2 id="tree-title">El árbol familiar</h2></div><label class="generation-control">Generaciones<select id="generation-depth"><option value="1" selected>2</option><option value="2">3</option><option value="3">4</option></select></label></div><div class="tree-navigation"><button id="tree-back" class="text-button" hidden><svg class="icon small"><use href="#i-arrow-left"/></svg>Volver a la rama anterior</button><span id="tree-context" class="tree-context"></span></div>
+          <div id="tree-viewport" class="tree-viewport" tabindex="0" role="region" aria-label="Árbol genealógico. Desplázate para recorrerlo y pulsa una persona para ver su ficha."><div id="tree-sizer" class="tree-sizer"><div id="tree-canvas" class="tree-canvas"><p class="loading-message">Preparando nuestras raíces…</p></div></div></div>
+          <div class="tree-bottom"><span class="tree-hint"><span class="status-dot"></span>Pulsa una persona para descubrir su historia</span><div class="tree-controls" aria-label="Controles del árbol"><button id="zoom-out" class="icon-button" aria-label="Alejar el árbol"><svg class="icon"><use href="#i-minus"/></svg></button><output id="zoom-level" aria-live="polite">100 %</output><button id="zoom-in" class="icon-button" aria-label="Acercar el árbol"><svg class="icon"><use href="#i-plus"/></svg></button><span class="control-divider"></span><button id="center-tree" class="icon-button" aria-label="Centrar el árbol"><svg class="icon"><use href="#i-center"/></svg></button></div></div>
+        </section>
+        <aside id="person-panel" class="person-panel" aria-label="Ficha de la persona seleccionada" aria-busy="true"><p class="loading-message">Cargando la ficha…</p></aside>
+      </div>
+    </section>
+    <p class="archive-footnote"><svg class="icon small"><use href="#i-leaf"/></svg>La historia continúa. Cada nueva rama nos acerca un poco más a nuestros orígenes.</p>
+  </main>
+  <footer class="site-footer page-width"><span>Familia <span aria-hidden="true">·</span> Memoria de nuestras raíces</span><span>Hecho para recordar y compartir</span></footer>
+  <div id="announcer" class="sr-only" role="status" aria-live="polite"></div>
+
+  <dialog id="index-dialog" class="index-dialog" aria-labelledby="index-title"><div class="drawer-header"><div><p class="eyebrow">NUESTRO ARCHIVO</p><h2 id="index-title">Encuentra una historia</h2></div><button class="icon-button" data-close-dialog="index-dialog" aria-label="Cerrar el archivo"><svg class="icon"><use href="#i-close"/></svg></button></div><div class="index-tabs" role="tablist" aria-label="Índices del archivo"><button role="tab" id="tab-people" aria-controls="index-results" aria-selected="true" data-index-tab="people">Personas</button><button role="tab" id="tab-surnames" aria-controls="index-results" aria-selected="false" tabindex="-1" data-index-tab="surnames">Apellidos</button><button role="tab" id="tab-places" aria-controls="index-results" aria-selected="false" tabindex="-1" data-index-tab="places">Lugares</button></div><div class="index-search"><svg class="icon"><use href="#i-search"/></svg><input id="index-query" type="search" placeholder="Buscar una persona…" aria-label="Buscar en el índice" autocomplete="off"></div><div id="index-filter" class="index-filter" hidden></div><p id="index-count" class="index-count" role="status"></p><div id="index-results" class="index-results" role="tabpanel" aria-labelledby="tab-people"></div><button id="index-more" class="button button-secondary" hidden>Mostrar más resultados</button></dialog>
+  <dialog id="document-dialog" class="document-dialog" aria-labelledby="document-title"><div class="drawer-header"><h2 id="document-title">Documento familiar</h2><button class="icon-button" data-close-dialog="document-dialog" aria-label="Cerrar el documento"><svg class="icon"><use href="#i-close"/></svg></button></div><img id="document-image" alt=""></dialog>
+  <noscript><div class="noscript-notice">Activa JavaScript para explorar el árbol interactivo. También puedes consultar <a href="records.json">los datos del archivo familiar</a>.</div></noscript>
+</body>
+</html>

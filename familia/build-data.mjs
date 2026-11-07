@@ -1,0 +1,207 @@
+import { constants } from 'node:fs';
+import { readFile, writeFile, mkdir, readdir, lstat, unlink } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+
+const directory = path.dirname(fileURLToPath(import.meta.url));
+const output = path.join(directory, 'data');
+const peopleDirectory = path.join(output, 'people');
+const collator = new Intl.Collator('es', { sensitivity: 'base' });
+const idPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const errors = [];
+const fail = (message) => errors.push(message);
+const isText = (value) => typeof value === 'string' && value.trim().length > 0;
+const isObject = (value) => value !== null && typeof value === 'object' && !Array.isArray(value);
+
+function validateStrings(values, context, { required = false } = {}) {
+  if (values === undefined && !required) return;
+  if (!Array.isArray(values) || (required && !values.length) || values.some((value) => !isText(value))) {
+    fail(`${context}: expected an array of nonempty strings.`);
+  }
+}
+
+function validateDate(value, context) {
+  if (value === undefined) return;
+  if (typeof value !== 'string' || !/^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(value)) {
+    fail(`${context}: dates must use YYYY, YYYY-MM or YYYY-MM-DD.`);
+    return;
+  }
+  const fullDate = value.length === 4 ? `${value}-01-01` : value.length === 7 ? `${value}-01` : value;
+  const parsed = new Date(`${fullDate}T12:00:00Z`);
+  if (Number.isNaN(parsed.valueOf()) || parsed.toISOString().slice(0, 10) !== fullDate) {
+    fail(`${context}: invalid calendar date ${value}.`);
+  }
+}
+
+function validateEvent(event, context) {
+  if (event === undefined) return;
+  if (!isObject(event)) {
+    fail(`${context}: expected an event object.`);
+    return;
+  }
+  validateDate(event.date, context);
+  for (const field of ['place', 'note', 'transcription']) {
+    if (event[field] !== undefined && !isText(event[field])) fail(`${context}.${field}: expected nonempty text.`);
+  }
+  if (event.documents !== undefined) {
+    if (!Array.isArray(event.documents)) {
+      fail(`${context}.documents: expected an array.`);
+      return;
+    }
+    event.documents.forEach((document, index) => {
+      const label = `${context}.documents[${index}]`;
+      if (!isObject(document)) {
+        fail(`${label}: expected a document object.`);
+        return;
+      }
+      // Assets are relative to /familia/; never accept remote URLs or traversal.
+      if (!isText(document.image) || !/^documents\/(?:[A-Za-z0-9_-]+\/)*[A-Za-z0-9_-]+\.(?:jpe?g|png|webp|avif|gif)$/i.test(document.image)) {
+        fail(`${label}.image: use a safe local documents/ image path.`);
+      }
+      if (!isText(document.alt)) fail(`${label}.alt: describe the document image.`);
+      if (document.transcription !== undefined && !isText(document.transcription)) fail(`${label}.transcription: expected nonempty text.`);
+    });
+  }
+}
+
+function placesOf(person) {
+  return [...new Set([
+    person.birth?.place,
+    person.baptism?.place,
+    ...(person.marriages ?? []).map((marriage) => marriage.place),
+    person.death?.place,
+    ...(person.origins ?? []),
+  ].filter(Boolean))].sort(collator.compare);
+}
+
+async function rejectSymlink(target) {
+  try {
+    if ((await lstat(target)).isSymbolicLink()) throw new Error(`Refusing to write through symlink: ${target}`);
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
+  }
+}
+
+async function writeJson(filename, value) {
+  const target = path.join(output, filename);
+  if (!target.startsWith(`${output}${path.sep}`)) throw new Error('Output path escaped familia/data.');
+  await rejectSymlink(target);
+  await writeFile(target, `${JSON.stringify(value)}\n`, {
+    flag: constants.O_WRONLY | constants.O_CREAT | constants.O_TRUNC | constants.O_NOFOLLOW,
+  });
+}
+
+async function build() {
+  const source = JSON.parse(await readFile(path.join(directory, 'records.json'), 'utf8'));
+  if (!isText(source.source)) fail('source: expected the source document name.');
+  if (!Array.isArray(source.people) || !source.people.length) throw new Error('people: expected a nonempty array.');
+  if (!Array.isArray(source.branches) || !source.branches.length) throw new Error('branches: expected a nonempty array.');
+  const people = new Map();
+  for (const person of source.people) {
+    if (!isObject(person)) {
+      fail('Each person must be an object.');
+      continue;
+    }
+    if (!isText(person.id) || !idPattern.test(person.id)) fail(`Invalid person ID: ${person.id}`);
+    if (people.has(person.id)) fail(`Duplicate person ID: ${person.id}`);
+    people.set(person.id, person);
+    for (const field of ['name', 'givenNames']) {
+      if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
+    }
+    validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
+    validateStrings(person.origins, `${person.id}.origins`);
+    validateStrings(person.observations, `${person.id}.observations`);
+    for (const event of ['birth', 'baptism', 'death']) validateEvent(person[event], `${person.id}.${event}`);
+    if (person.marriages !== undefined && !Array.isArray(person.marriages)) {
+      fail(`${person.id}.marriages: expected an array.`);
+    } else {
+      person.marriages?.forEach((marriage, index) => validateEvent(marriage, `${person.id}.marriages[${index}]`));
+    }
+  }
+  for (const person of people.values()) {
+    const references = [['father', person.father], ['mother', person.mother]];
+    if (Array.isArray(person.marriages)) person.marriages.forEach((marriage, index) => references.push([`marriages[${index}].spouse`, marriage?.spouse]));
+    for (const [field, id] of references) {
+      if (id === undefined) continue;
+      if (!people.has(id)) fail(`${person.id}.${field}: unknown person ${id}.`);
+      if (id === person.id) fail(`${person.id}.${field}: cannot reference the same person.`);
+    }
+  }
+  const branchIds = new Set();
+  for (const branch of source.branches) {
+    if (!isObject(branch)) { fail('Each branch must be an object.'); continue; }
+    if (!isText(branch.id) || !idPattern.test(branch.id) || branchIds.has(branch.id)) fail(`Invalid or duplicate branch ID: ${branch.id}`);
+    branchIds.add(branch.id);
+    if (!isText(branch.label)) fail(`${branch.id}.label: expected nonempty text.`);
+    validateStrings(branch.roots, `${branch.id}.roots`, { required: true });
+    if (Array.isArray(branch.roots)) {
+      branch.roots.forEach((id) => { if (!people.has(id)) fail(`${branch.id}.roots: unknown person ${id}.`); });
+    }
+  }
+  const visited = new Set();
+  const active = new Set();
+  function visit(id) {
+    if (active.has(id)) { fail(`Ancestry cycle involving ${id}.`); return; }
+    if (visited.has(id) || !people.has(id)) return;
+    active.add(id);
+    const person = people.get(id);
+    for (const parent of [person.father, person.mother].filter(Boolean)) visit(parent);
+    active.delete(id);
+    visited.add(id);
+  }
+  for (const id of people.keys()) visit(id);
+  if (errors.length) throw new Error(`Family data validation failed:\n${errors.map((message) => `- ${message}`).join('\n')}`);
+
+  const summaries = source.people.map((person) => ({
+    id: person.id,
+    name: person.name,
+    givenNames: person.givenNames,
+    surnames: person.surnames,
+    places: placesOf(person),
+    ...(person.birth?.date ? { birthYear: person.birth.date.slice(0, 4) } : {}),
+    ...(person.death?.date ? { deathYear: person.death.date.slice(0, 4) } : {}),
+  })).sort((a, b) => collator.compare(a.name, b.name));
+  function indexBy(field) {
+    const entries = new Map();
+    for (const person of summaries) {
+      for (const name of new Set(person[field])) {
+        const key = name.trim().normalize('NFC').toLocaleLowerCase('es');
+        if (!entries.has(key)) entries.set(key, { name: name.trim().normalize('NFC'), people: new Set() });
+        entries.get(key).people.add(person.id);
+      }
+    }
+    return [...entries.values()].sort((a, b) => collator.compare(a.name, b.name)).map(({ name, people }) => ({ name, people: [...people] }));
+  }
+  const surnames = indexBy('surnames');
+  const places = indexBy('places');
+  const catalog = {
+    version: 1,
+    source: source.source,
+    defaultPerson: source.branches[0].roots[0],
+    branches: source.branches.map((branch) => ({
+      ...branch,
+      roots: branch.roots.map((id) => ({ id, name: people.get(id).name })),
+    })),
+    stats: { people: people.size, surnames: surnames.length, places: places.length },
+  };
+  await rejectSymlink(output);
+  await mkdir(output, { recursive: true });
+  await rejectSymlink(peopleDirectory);
+  await mkdir(peopleDirectory, { recursive: true });
+  for (const person of source.people) await writeJson(`people/${person.id}.json`, person);
+  await writeJson('index.json', { people: summaries, surnames, places });
+  await writeJson('catalog.json', catalog);
+  for (const filename of await readdir(peopleDirectory)) {
+    if (filename.endsWith('.json') && !people.has(filename.slice(0, -5))) {
+      const target = path.join(peopleDirectory, filename);
+      await rejectSymlink(target);
+      await unlink(target);
+    }
+  }
+  console.log(`Family data built: ${people.size} people, ${surnames.length} surnames, ${places.length} places.`);
+}
+
+build().catch((error) => {
+  console.error(error.message);
+  process.exitCode = 1;
+});
