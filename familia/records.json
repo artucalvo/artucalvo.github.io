@@ -1,122 +1,679 @@
 {
-  "source": "ABUELOS.docx",
+  "source": "Archivo familiar",
+  "defaultPerson": "arturo-calvo-devesa",
   "branches": [
     {
-      "id": "calvo-piorno",
-      "label": "Calvo · Piorno",
-      "roots": ["miguel-calvo-mendez", "lucia-piorno-santiago"]
-    },
-    {
-      "id": "brioso-heras",
-      "label": "Brioso · de las Heras",
-      "roots": ["bernardo-brioso-perez", "angela-de-las-heras-prada"]
+      "id": "calvo-devesa",
+      "label": "Familia Calvo Devesa",
+      "roots": [
+        "arturo-calvo-devesa"
+      ]
     }
   ],
   "people": [
     {
+      "id": "arturo-calvo-devesa",
+      "name": "Arturo Calvo Devesa",
+      "givenNames": "Arturo",
+      "surnames": [
+        "Calvo",
+        "Devesa"
+      ],
+      "father": "bernardo-calvo-brioso",
+      "mother": "maria-angeles-devesa-herrero",
+      "birth": {
+        "place": "Zamora"
+      }
+    },
+    {
+      "id": "bernardo-calvo-brioso",
+      "name": "Bernardo Calvo Brioso",
+      "givenNames": "Bernardo",
+      "surnames": [
+        "Calvo",
+        "Brioso"
+      ],
+      "father": "nicanor-calvo-piorno",
+      "mother": "rosario-brioso-de-las-heras",
+      "birth": {
+        "date": "1948-01-05",
+        "place": "Zamora"
+      },
+      "death": {
+        "date": "2023-10-26",
+        "place": "Zamora"
+      }
+    },
+    {
+      "id": "maria-angeles-devesa-herrero",
+      "name": "María Ángeles Devesa Herrero",
+      "givenNames": "María Ángeles",
+      "surnames": [
+        "Devesa",
+        "Herrero"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "nicanor-calvo-piorno",
+      "name": "Nicanor Calvo Piorno",
+      "givenNames": "Nicanor",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1916-08-05",
+        "place": "Badalona"
+      },
+      "marriages": [
+        {
+          "spouse": "rosario-brioso-de-las-heras",
+          "date": "1944-11-11",
+          "place": "Zamora",
+          "note": "San Juan de Puerta Nueva."
+        }
+      ],
+      "death": {
+        "date": "1993-11-24",
+        "place": "Zamora",
+        "note": "San Ildefonso. A consecuencia de un infarto."
+      },
+      "source": "PADRES.docx"
+    },
+    {
+      "id": "rosario-brioso-de-las-heras",
+      "name": "Rosario Brioso de las Heras",
+      "givenNames": "Rosario",
+      "surnames": [
+        "Brioso",
+        "de las Heras"
+      ],
+      "father": "bernardo-brioso-perez",
+      "mother": "angela-de-las-heras-prada",
+      "birth": {
+        "date": "1918-12-17",
+        "place": "Zamora"
+      },
+      "baptism": {
+        "note": "Parroquia de San Juan de Puertanueva."
+      },
+      "marriages": [
+        {
+          "spouse": "nicanor-calvo-piorno",
+          "date": "1944-11-11",
+          "place": "Zamora",
+          "note": "San Juan de Puerta Nueva."
+        }
+      ],
+      "death": {
+        "date": "2017-06-03",
+        "place": "Zamora",
+        "note": "San Ildefonso. Tras deterioro general."
+      },
+      "source": "PADRES.docx"
+    },
+    {
       "id": "miguel-calvo-mendez",
       "name": "Miguel Calvo Méndez",
       "givenNames": "Miguel",
-      "surnames": ["Calvo", "Méndez"],
+      "surnames": [
+        "Calvo",
+        "Méndez"
+      ],
       "father": "nicanor-calvo-martin",
       "mother": "marcelina-mendez-maillo",
-      "birth": {"date": "1872-02-11", "place": "Casaseca de las Chanas"},
-      "baptism": {"date": "1872-02-13"},
-      "marriages": [{"spouse": "lucia-piorno-santiago", "date": "1898-11-09", "place": "Casaseca de las Chanas"}],
-      "death": {"place": "Badalona"}
+      "birth": {
+        "date": "1872-02-11",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1872-02-13"
+      },
+      "marriages": [
+        {
+          "spouse": "lucia-piorno-santiago",
+          "date": "1898-11-09",
+          "place": "Casaseca de las Chanas"
+        }
+      ],
+      "death": {
+        "place": "Badalona"
+      },
+      "source": "ABUELOS.docx"
     },
     {
       "id": "lucia-piorno-santiago",
       "name": "Lucía Piorno Santiago",
       "givenNames": "Lucía",
-      "surnames": ["Piorno", "Santiago"],
+      "surnames": [
+        "Piorno",
+        "Santiago"
+      ],
       "father": "salvador-piorno-tuda",
       "mother": "vicenta-santiago-sastre",
-      "birth": {"date": "1880-03-23", "place": "Casaseca de las Chanas"},
-      "baptism": {"date": "1880-03-24"},
-      "marriages": [{"spouse": "miguel-calvo-mendez", "date": "1898-11-09", "place": "Casaseca de las Chanas"}],
-      "death": {"place": "Casaseca de las Chanas"}
+      "birth": {
+        "date": "1880-03-23",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1880-03-24"
+      },
+      "marriages": [
+        {
+          "spouse": "miguel-calvo-mendez",
+          "date": "1898-11-09",
+          "place": "Casaseca de las Chanas"
+        }
+      ],
+      "death": {
+        "place": "Casaseca de las Chanas"
+      },
+      "source": "ABUELOS.docx"
     },
     {
       "id": "nicanor-calvo-martin",
       "name": "Nicanor Calvo Martín",
       "givenNames": "Nicanor",
-      "surnames": ["Calvo", "Martín"],
-      "origins": ["Casaseca de las Chanas"]
+      "surnames": [
+        "Calvo",
+        "Martín"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "lucas-calvo-alonso",
+      "mother": "felipa-martin-hernandez",
+      "birth": {
+        "date": "1826-01-10",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1826-01-12"
+      },
+      "marriages": [
+        {
+          "spouse": "marcelina-mendez-maillo",
+          "date": "1856-11-08",
+          "place": "Casaseca de las Chanas"
+        }
+      ],
+      "death": {
+        "date": "1893-06-21",
+        "place": "Casaseca de las Chanas",
+        "note": "A consecuencia de taber dorsal, según el documento original."
+      }
     },
     {
       "id": "marcelina-mendez-maillo",
       "name": "Marcelina Méndez Maíllo",
       "givenNames": "Marcelina",
-      "surnames": ["Méndez", "Maíllo"],
-      "origins": ["Casaseca de las Chanas"]
+      "surnames": [
+        "Méndez",
+        "Maíllo"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "manuel-mendez-de-paz",
+      "mother": "feliciana-maillo-morales",
+      "birth": {
+        "date": "1835-05-05",
+        "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1835-05-06"
+      },
+      "marriages": [
+        {
+          "spouse": "nicanor-calvo-martin",
+          "date": "1856-11-08",
+          "place": "Casaseca de las Chanas"
+        }
+      ]
     },
     {
       "id": "salvador-piorno-tuda",
       "name": "Salvador Piorno Tuda",
       "givenNames": "Salvador",
-      "surnames": ["Piorno", "Tuda"],
-      "origins": ["Malillos"]
+      "surnames": [
+        "Piorno",
+        "Tuda"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "julian-piorno-vega",
+      "mother": "tomasa-tuda-feltrero",
+      "birth": {
+        "date": "1843-08-03",
+        "place": "Malillos"
+      },
+      "baptism": {
+        "date": "1843-08-06"
+      }
     },
     {
       "id": "vicenta-santiago-sastre",
       "name": "Vicenta Santiago Sastre",
       "givenNames": "Vicenta",
-      "surnames": ["Santiago", "Sastre"],
-      "origins": ["Fadón"]
+      "surnames": [
+        "Santiago",
+        "Sastre"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "carlos-santiago-garrote",
+      "mother": "maria-sastre-esteban",
+      "birth": {
+        "date": "1841-01-22",
+        "place": "Fadón"
+      },
+      "baptism": {
+        "date": "1841-01-23"
+      }
     },
     {
       "id": "bernardo-brioso-perez",
       "name": "Bernardo Brioso Pérez",
       "givenNames": "Bernardo",
-      "surnames": ["Brioso", "Pérez"],
+      "surnames": [
+        "Brioso",
+        "Pérez"
+      ],
       "father": "enrique-brioso-mena",
       "mother": "balbina-perez-sanchez",
-      "birth": {"date": "1878-06-01", "place": "Tardobispo"},
-      "baptism": {"date": "1918-06-02", "place": "Tardobispo"},
-      "marriages": [{"spouse": "angela-de-las-heras-prada", "date": "1903-06-20", "place": "Tardobispo"}],
-      "death": {"date": "1952-08-19", "place": "Zamora", "note": "Iglesia de San Juan de Puertanueva."},
-      "observations": ["La fecha de bautismo figura como 02-06-1918 en el documento original; pendiente de comprobar."]
+      "birth": {
+        "date": "1878-06-01",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1918-06-02",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "angela-de-las-heras-prada",
+          "date": "1903-06-20",
+          "place": "Tardobispo"
+        }
+      ],
+      "death": {
+        "date": "1952-08-19",
+        "place": "Zamora",
+        "note": "Iglesia de San Juan de Puertanueva."
+      },
+      "observations": [
+        "La fecha de bautismo figura como 02-06-1918 en el documento original; pendiente de comprobar."
+      ],
+      "source": "ABUELOS.docx"
     },
     {
       "id": "angela-de-las-heras-prada",
       "name": "Ángela de las Heras Prada",
       "givenNames": "Ángela",
-      "surnames": ["de las Heras", "Prada"],
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
       "father": "benito-de-las-heras-rabanal",
       "mother": "ma-antonia-prada-carretero",
-      "birth": {"date": "1881-08-23", "place": "Tardobispo"},
-      "baptism": {"date": "1881-08-25", "place": "Tardobispo"},
-      "marriages": [{"spouse": "bernardo-brioso-perez", "date": "1903-06-20", "place": "Tardobispo"}],
-      "death": {"date": "1969-10-26", "place": "Zamora", "note": "Iglesia de San Torcuato."}
+      "birth": {
+        "date": "1881-08-23",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1881-08-25",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "bernardo-brioso-perez",
+          "date": "1903-06-20",
+          "place": "Tardobispo"
+        }
+      ],
+      "death": {
+        "date": "1969-10-26",
+        "place": "Zamora",
+        "note": "Iglesia de San Torcuato."
+      },
+      "source": "ABUELOS.docx"
     },
     {
       "id": "enrique-brioso-mena",
-      "name": "Enrique Brioso Mena",
+      "name": "Enrique Brioso de Mena",
       "givenNames": "Enrique",
-      "surnames": ["Brioso", "Mena"],
-      "origins": ["Tardobispo"]
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "birth": {
+        "date": "1855-01-28",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1885-01-29",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "balbina-perez-sanchez",
+          "date": "1877-08-23",
+          "place": "Tardobispo"
+        }
+      ],
+      "observations": [
+        "La fecha de bautismo figura como 29-01-1885 en el documento original, frente al nacimiento el 28-01-1855; pendiente de comprobar.",
+        "En ABUELOS.docx figura como Enrique Brioso Mena; BISABUELOS.docx recoge el apellido de Mena."
+      ]
     },
     {
       "id": "balbina-perez-sanchez",
       "name": "Balbina Pérez Sánchez",
       "givenNames": "Balbina",
-      "surnames": ["Pérez", "Sánchez"],
-      "origins": ["Tardobispo"]
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "birth": {
+        "date": "1842-03-31",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1842-04-02",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "enrique-brioso-mena",
+          "date": "1877-08-23",
+          "place": "Tardobispo"
+        }
+      ],
+      "death": {
+        "date": "1911-11-18",
+        "place": "Tardobispo",
+        "note": "A consecuencia de insuficiencia valvular central."
+      }
     },
     {
       "id": "benito-de-las-heras-rabanal",
-      "name": "Benito de las Heras Rabanal",
-      "givenNames": "Benito",
-      "surnames": ["de las Heras", "Rabanal"],
-      "origins": ["Tardobispo"]
+      "name": "Benito José de las Heras Rabanal",
+      "givenNames": "Benito José",
+      "surnames": [
+        "de las Heras",
+        "Rabanal"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "francisco-de-las-heras-pascual",
+      "mother": "josefa-rabanal-ibanez",
+      "birth": {
+        "date": "1856-04-13",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1856-04-16",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "ma-antonia-prada-carretero",
+          "date": "1880-10-23",
+          "place": "Tardobispo"
+        }
+      ],
+      "death": {
+        "date": "1924-06-07",
+        "place": "Tardobispo",
+        "note": "A consecuencia de hemorragia cerebral."
+      }
     },
     {
       "id": "ma-antonia-prada-carretero",
       "name": "Mª. Antonia Prada Carretero",
       "givenNames": "Mª. Antonia",
-      "surnames": ["Prada", "Carretero"],
-      "origins": ["Tardobispo"]
+      "surnames": [
+        "Prada",
+        "Carretero"
+      ],
+      "source": "ABUELOS.docx · BISABUELOS.docx",
+      "father": "angel-prada-giron",
+      "mother": "manuela-carretero-bragado",
+      "birth": {
+        "date": "1861-03-27",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1861-03-31",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "spouse": "benito-de-las-heras-rabanal",
+          "date": "1880-10-23",
+          "place": "Tardobispo"
+        }
+      ],
+      "death": {
+        "date": "1935-09-22",
+        "place": "Tardobispo",
+        "note": "A consecuencia de colapso cardíaco."
+      }
+    },
+    {
+      "id": "lucas-calvo-alonso",
+      "name": "Lucas Calvo Alonso",
+      "givenNames": "Lucas",
+      "surnames": [
+        "Calvo",
+        "Alonso"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "felipa-martin-hernandez",
+      "name": "Felipa Martín Hernández",
+      "givenNames": "Felipa",
+      "surnames": [
+        "Martín",
+        "Hernández"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "manuel-mendez-de-paz",
+      "name": "Manuel Méndez de Paz",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "feliciana-maillo-morales",
+      "name": "Feliciana Maíllo Morales",
+      "givenNames": "Feliciana",
+      "surnames": [
+        "Maíllo",
+        "Morales"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "julian-piorno-vega",
+      "name": "Julián Piorno Vega",
+      "givenNames": "Julián",
+      "surnames": [
+        "Piorno",
+        "Vega"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "tomasa-tuda-feltrero",
+      "name": "Tomasa Tuda Feltrero",
+      "givenNames": "Tomasa",
+      "surnames": [
+        "Tuda",
+        "Feltrero"
+      ],
+      "origins": [
+        "Malillos"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "carlos-santiago-garrote",
+      "name": "Carlos Santiago Garrote",
+      "givenNames": "Carlos",
+      "surnames": [
+        "Santiago",
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "maria-sastre-esteban",
+      "name": "María Sastre Esteban",
+      "givenNames": "María",
+      "surnames": [
+        "Sastre",
+        "Esteban"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "florencio-brioso-alonso",
+      "name": "Florencio Brioso Alonso",
+      "givenNames": "Florencio",
+      "surnames": [
+        "Brioso",
+        "Alonso"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "antonia-de-mena-santamaria",
+      "name": "Antonia de Mena Santamaría",
+      "givenNames": "Antonia",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "esteban-perez-giron",
+      "name": "Esteban Pérez Girón",
+      "givenNames": "Esteban",
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "eduviges-sanchez-izquierdo",
+      "name": "Eduviges Sánchez Izquierdo",
+      "givenNames": "Eduviges",
+      "surnames": [
+        "Sánchez",
+        "Izquierdo"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "francisco-de-las-heras-pascual",
+      "name": "Francisco de las Heras Pascual",
+      "givenNames": "Francisco",
+      "surnames": [
+        "de las Heras",
+        "Pascual"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "josefa-rabanal-ibanez",
+      "name": "Josefa Rabanal Ibáñez",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Rabanal",
+        "Ibáñez"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "BISABUELOS.docx",
+      "observations": [
+        "El lugar de referencia figura como «Zamora. S. Esteban» en el documento original."
+      ]
+    },
+    {
+      "id": "angel-prada-giron",
+      "name": "Ángel Prada Girón",
+      "givenNames": "Ángel",
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "BISABUELOS.docx"
+    },
+    {
+      "id": "manuela-carretero-bragado",
+      "name": "Manuela Carretero Bragado",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Carretero",
+        "Bragado"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "BISABUELOS.docx"
     }
   ]
 }

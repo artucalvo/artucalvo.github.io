@@ -108,6 +108,7 @@ async function build() {
     for (const field of ['name', 'givenNames']) {
       if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
     }
+    if (person.source !== undefined && !isText(person.source)) fail(`${person.id}.source: expected nonempty text.`);
     validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
@@ -138,6 +139,7 @@ async function build() {
       branch.roots.forEach((id) => { if (!people.has(id)) fail(`${branch.id}.roots: unknown person ${id}.`); });
     }
   }
+  if (source.defaultPerson !== undefined && !people.has(source.defaultPerson)) fail(`defaultPerson: unknown person ${source.defaultPerson}.`);
   const visited = new Set();
   const active = new Set();
   function visit(id) {
@@ -177,7 +179,7 @@ async function build() {
   const catalog = {
     version: 1,
     source: source.source,
-    defaultPerson: source.branches[0].roots[0],
+    defaultPerson: source.defaultPerson || source.branches[0].roots[0],
     branches: source.branches.map((branch) => ({
       ...branch,
       roots: branch.roots.map((id) => ({ id, name: people.get(id).name })),

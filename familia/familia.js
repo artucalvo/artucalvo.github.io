@@ -215,7 +215,7 @@ async function renderTree() {
         const y1 = parent.y + cardHeight + (parent.hasExpand ? NODE_HEIGHT - 124 : 0);
         const x2 = child.x + nodeWidth / 2;
         const y2 = child.y;
-        const middle = y1 + (y2 - y1) / 2;
+        const middle = y2 - 40;
         const path = document.createElementNS(SVG_NS, 'path');
         path.setAttribute('d', `M ${x1} ${y1} V ${middle} H ${x2} V ${y2}`);
         lines.append(path);
@@ -425,7 +425,7 @@ async function renderProfile(id, focus = false) {
       notes.append(list);
       panel.append(notes);
     }
-    panel.append(element('p', 'profile-source', `Fuente: ${catalog.source || 'archivo familiar · ABUELOS.docx'}`));
+    if (person.source) panel.append(element('p', 'profile-source', `Fuente: ${person.source}`));
     announce(`Ficha de ${person.name}`);
     if (focus) {
       heading.focus({ preventScroll: true });
