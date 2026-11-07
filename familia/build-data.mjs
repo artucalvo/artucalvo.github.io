@@ -68,23 +68,7 @@ function validateEvent(event, context) {
     if (event[field] !== undefined && !isText(event[field])) fail(`${context}.${field}: expected nonempty text.`);
   }
   if (event.documents !== undefined) {
-    if (!Array.isArray(event.documents)) {
-      fail(`${context}.documents: expected an array.`);
-      return;
-    }
-    event.documents.forEach((document, index) => {
-      const label = `${context}.documents[${index}]`;
-      if (!isObject(document)) {
-        fail(`${label}: expected a document object.`);
-        return;
-      }
-      // Assets are relative to /familia/; never accept remote URLs or traversal.
-      if (!isText(document.image) || !/^documents\/(?:[A-Za-z0-9_-]+\/)*[A-Za-z0-9_-]+\.(?:jpe?g|png|webp|avif|gif)$/i.test(document.image)) {
-        fail(`${label}.image: use a safe local documents/ image path.`);
-      }
-      if (!isText(document.alt)) fail(`${label}.alt: describe the document image.`);
-      if (document.transcription !== undefined && !isText(document.transcription)) fail(`${label}.transcription: expected nonempty text.`);
-    });
+    fail(`${context}.documents: this repository does not store images, so events cannot have documents. Remove the field (see familia/README.md).`);
   }
 }
 

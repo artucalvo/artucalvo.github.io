@@ -161,10 +161,6 @@ h1, h2, h3, p { margin-top: 0; }
 .event-spouse { display: inline-flex; align-items: center; gap: 4px; margin-bottom: 4px; padding: 0; color: var(--forest); font-family: var(--serif); font-size: 13px; text-align: left; }
 .event-spouse:hover { color: var(--rust); text-decoration: underline; text-underline-offset: 3px; }
 .event-spouse .icon { width: 12px; height: 12px; }
-.event-document { display: block; width: 100%; margin-top: 11px; padding: 4px; border: 1px solid var(--line); border-radius: 5px; background: #f6f5ef; text-align: left; }
-.event-document:hover { border-color: var(--forest); }
-.event-document img { display: block; width: 100%; max-height: 130px; object-fit: cover; object-position: top; border-radius: 2px; }
-.event-document span, .event-document figcaption { display: block; padding: 5px 2px 2px; color: var(--muted); font-size: 9px; }
 .transcription { margin-top: 9px; border-top: 1px solid var(--line); color: #727d67; font-size: 10px; }
 .transcription summary { padding-top: 8px; color: var(--forest); cursor: pointer; }
 .transcription p { margin: 8px 0 0; white-space: pre-wrap; line-height: 1.8; }
@@ -214,10 +210,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .index-filter button, button.index-filter { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border: 1px solid #bcc9ae; border-radius: 5px; color: var(--forest); background: #eaf0e1; font-size: 10px; }
 .index-filter .icon { width: 12px; height: 12px; }
 #index-more { width: 100%; margin-top: 17px; }
-.document-dialog { width: min(1000px, calc(100% - 30px)); max-height: calc(100dvh - 30px); padding: 20px; border-radius: 8px; background: var(--paper); }
-.document-dialog .drawer-header { padding-bottom: 16px; }
-.document-dialog .drawer-header h2 { font-size: 23px; }
-.document-dialog img { display: block; width: auto; max-width: 100%; max-height: none; height: auto; margin-inline: auto; }
 
 @media (min-width: 1600px) {
   .explorer-layout { grid-template-columns: minmax(0, 1fr) 370px; }
