@@ -319,12 +319,7 @@ async function renderProfile(id, focus = false) {
     heading.tabIndex = -1;
     header.append(avatar, heading);
     if (lifespan(person)) header.append(element('p', 'profile-years', lifespan(person)));
-    const actions = element('div', 'profile-actions');
-    actions.append(button('Centrar en el árbol', 'button button-secondary', () => {
-      centerTree();
-      if (matchMedia('(max-width: 850px)').matches) $('#tree-title').scrollIntoView({ block: 'start' });
-    }, 'center'));
-    panel.replaceChildren(header, actions);
+    panel.replaceChildren(header);
     if (father || mother) {
       const family = element('section', 'profile-section');
       family.append(element('h3', '', 'Sus padres'));
