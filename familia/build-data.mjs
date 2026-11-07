@@ -133,7 +133,9 @@ async function build() {
       if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
     }
     if (person.source !== undefined && !isText(person.source)) fail(`${person.id}.source: expected nonempty text.`);
-    if (person.children !== undefined) fail(`${person.id}.children: children are generated from father and mother references.`);
+    for (const field of ['children', 'parentSummaries', 'partners']) {
+      if (person[field] !== undefined) fail(`${person.id}.${field}: this relationship field is generated from parent and marriage references.`);
+    }
     validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
@@ -206,11 +208,34 @@ async function build() {
     const location = locations.get(placeKey(place.name));
     return { ...place, ...(location ? { location } : {}) };
   });
+  const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames });
   const childrenByParent = new Map();
+  const partnersByPerson = new Map();
+  function addPartner(personId, partnerId, relationship, childId) {
+    if (!partnersByPerson.has(personId)) partnersByPerson.set(personId, new Map());
+    const partners = partnersByPerson.get(personId);
+    if (!partners.has(partnerId)) partners.set(partnerId, { relationship, sharedChildren: new Set() });
+    const partner = partners.get(partnerId);
+    if (relationship === 'spouse') partner.relationship = 'spouse';
+    if (childId) partner.sharedChildren.add(childId);
+  }
   for (const person of source.people) {
     for (const parent of new Set([person.father, person.mother].filter(Boolean))) {
       if (!childrenByParent.has(parent)) childrenByParent.set(parent, []);
-      childrenByParent.get(parent).push({ id: person.id, name: person.name });
+      childrenByParent.get(parent).push({
+        ...relativeSummary(person),
+        ...(person.father ? { father: person.father } : {}),
+        ...(person.mother ? { mother: person.mother } : {}),
+      });
+    }
+    for (const marriage of person.marriages || []) {
+      if (!marriage.spouse) continue;
+      addPartner(person.id, marriage.spouse, 'spouse');
+      addPartner(marriage.spouse, person.id, 'spouse');
+    }
+    if (person.father && person.mother && person.father !== person.mother) {
+      addPartner(person.father, person.mother, 'coparent', person.id);
+      addPartner(person.mother, person.father, 'coparent', person.id);
     }
   }
   for (const children of childrenByParent.values()) children.sort((a, b) => collator.compare(a.name, b.name));
@@ -230,7 +255,18 @@ async function build() {
   await mkdir(peopleDirectory, { recursive: true });
   for (const person of source.people) {
     const children = childrenByParent.get(person.id);
-    await writeJson(`people/${person.id}.json`, { ...person, ...(children ? { children } : {}) });
+    const parentSummaries = ['father', 'mother'].filter(relation => person[relation]).map(relation => ({ ...relativeSummary(people.get(person[relation])), relation }));
+    const partners = [...(partnersByPerson.get(person.id) || [])].map(([id, relationship]) => ({
+      ...relativeSummary(people.get(id)),
+      relationship: relationship.relationship,
+      sharedChildren: [...relationship.sharedChildren].sort((a, b) => collator.compare(people.get(a).name, people.get(b).name)),
+    })).sort((a, b) => Number(a.relationship !== 'spouse') - Number(b.relationship !== 'spouse') || collator.compare(a.name, b.name));
+    await writeJson(`people/${person.id}.json`, {
+      ...person,
+      ...(parentSummaries.length ? { parentSummaries } : {}),
+      ...(children ? { children } : {}),
+      ...(partners.length ? { partners } : {}),
+    });
   }
   await writeJson('index.json', { people: summaries, surnames, places });
   await writeJson('catalog.json', catalog);
