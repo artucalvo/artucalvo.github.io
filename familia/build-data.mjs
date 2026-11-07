@@ -2,6 +2,7 @@ import { constants } from 'node:fs';
 import { readFile, writeFile, mkdir, readdir, lstat, unlink } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { lifespan } from './lifespan.mjs';
 
 const directory = path.dirname(fileURLToPath(import.meta.url));
 const output = path.join(directory, 'data');
@@ -12,6 +13,29 @@ const errors = [];
 const fail = (message) => errors.push(message);
 const isText = (value) => typeof value === 'string' && value.trim().length > 0;
 const isObject = (value) => value !== null && typeof value === 'object' && !Array.isArray(value);
+const placeKey = (name) => name.trim().normalize('NFC').toLocaleLowerCase('es');
+
+async function readPlaceLocations() {
+  let data;
+  try {
+    data = JSON.parse(await readFile(path.join(directory, 'places.json'), 'utf8'));
+  } catch (error) {
+    if (error.code === 'ENOENT') return new Map();
+    throw error;
+  }
+  if (!Array.isArray(data.places)) throw new Error('places.json: expected a places array.');
+  const locations = new Map();
+  for (const place of data.places) {
+    if (!isText(place.name) || !isText(place.province) || !isText(place.source)) throw new Error('places.json: each place needs a name, province and source URL.');
+    if (!Number.isFinite(place.latitude) || !Number.isFinite(place.longitude) || place.latitude < 26 || place.latitude > 44.5 || place.longitude < -19 || place.longitude > 5.5) throw new Error(`places.json: invalid Spanish coordinates for ${place.name}.`);
+    if (new URL(place.source).protocol !== 'https:') throw new Error(`places.json: use an HTTPS source for ${place.name}.`);
+    const key = placeKey(place.name);
+    if (locations.has(key)) throw new Error(`places.json: duplicate place ${place.name}.`);
+    const { name, ...location } = place;
+    locations.set(key, location);
+  }
+  return locations;
+}
 
 function validateStrings(values, context, { required = false } = {}) {
   if (values === undefined && !required) return;
@@ -109,6 +133,7 @@ async function build() {
       if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
     }
     if (person.source !== undefined && !isText(person.source)) fail(`${person.id}.source: expected nonempty text.`);
+    if (person.children !== undefined) fail(`${person.id}.children: children are generated from father and mother references.`);
     validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
@@ -162,6 +187,7 @@ async function build() {
     places: placesOf(person),
     ...(person.birth?.date ? { birthYear: person.birth.date.slice(0, 4) } : {}),
     ...(person.death?.date ? { deathYear: person.death.date.slice(0, 4) } : {}),
+    ...(lifespan(person) ? { lifespan: lifespan(person) } : {}),
   })).sort((a, b) => collator.compare(a.name, b.name));
   function indexBy(field) {
     const entries = new Map();
@@ -175,7 +201,19 @@ async function build() {
     return [...entries.values()].sort((a, b) => collator.compare(a.name, b.name)).map(({ name, people }) => ({ name, people: [...people] }));
   }
   const surnames = indexBy('surnames');
-  const places = indexBy('places');
+  const locations = await readPlaceLocations();
+  const places = indexBy('places').map(place => {
+    const location = locations.get(placeKey(place.name));
+    return { ...place, ...(location ? { location } : {}) };
+  });
+  const childrenByParent = new Map();
+  for (const person of source.people) {
+    for (const parent of new Set([person.father, person.mother].filter(Boolean))) {
+      if (!childrenByParent.has(parent)) childrenByParent.set(parent, []);
+      childrenByParent.get(parent).push({ id: person.id, name: person.name });
+    }
+  }
+  for (const children of childrenByParent.values()) children.sort((a, b) => collator.compare(a.name, b.name));
   const catalog = {
     version: 1,
     source: source.source,
@@ -190,7 +228,10 @@ async function build() {
   await mkdir(output, { recursive: true });
   await rejectSymlink(peopleDirectory);
   await mkdir(peopleDirectory, { recursive: true });
-  for (const person of source.people) await writeJson(`people/${person.id}.json`, person);
+  for (const person of source.people) {
+    const children = childrenByParent.get(person.id);
+    await writeJson(`people/${person.id}.json`, { ...person, ...(children ? { children } : {}) });
+  }
   await writeJson('index.json', { people: summaries, surnames, places });
   await writeJson('catalog.json', catalog);
   for (const filename of await readdir(peopleDirectory)) {

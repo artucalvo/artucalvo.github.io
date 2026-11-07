@@ -1,6 +1,6 @@
 # Árbol familiar
 
-La página está en `/familia/` y no se enlaza desde la portada. Es una página pública accesible mediante su URL; una dirección sin enlaces y las indicaciones para buscadores no constituyen autenticación.
+La página está en `/familia/` y se enlaza desde el menú de la portada como «Family Tree», después de «Blog». Es una página pública accesible mediante su URL; las indicaciones para buscadores no constituyen autenticación.
 
 ## Vista previa local
 
@@ -17,6 +17,10 @@ node familia/build-data.mjs
 El script no necesita dependencias. Valida los identificadores, las referencias a familiares, las fechas, los ciclos de ascendencia y las rutas de imágenes. Genera `familia/data/catalog.json`, un índice de búsqueda en `familia/data/index.json` y una ficha por persona en `familia/data/people/`. Publica esos archivos junto con el resto de la página. No edites a mano los archivos generados.
 
 Cada persona tiene un `id` estable, `name`, `givenNames` y `surnames` como lista explícita. El campo opcional `source` identifica el documento que respalda su ficha; solo se muestra la atribución cuando existe ese campo. Conserva los apellidos compuestos en una sola entrada, por ejemplo `"de las Heras"`. Los identificadores usan letras minúsculas sin tildes, números y guiones. `father` y `mother` hacen referencia a otras personas por su `id`.
+
+La sección «Descendencia» muestra los hijos documentados y enlaza a sus fichas después de «Sus padres». El script genera esas relaciones a partir de `father` y `mother`; no añadas `children` a `records.json`. Las fichas generadas contienen los nombres y los identificadores de los hijos para poder mostrarlos sin descargar sus registros completos.
+
+Cuando se conocen las fechas de nacimiento y fallecimiento, los años de vida incluyen la edad cumplida al fallecer entre paréntesis, por ejemplo `1948 – 2023 (75 años)`. Si solo se conocen los años o fechas parciales, la diferencia de años aparece como aproximada. No se calcula la edad actual cuando no hay fecha de fallecimiento.
 
 Los eventos opcionales son `birth`, `baptism`, `marriages` y `death`. `marriages` es una lista y cada matrimonio puede incluir `spouse`, el identificador del cónyuge, si se conoce. Un evento puede tener `date` en formato `AAAA`, `AAAA-MM` o `AAAA-MM-DD`, `place`, `note`, `transcription` y `documents`. Usa la precisión que aporta la fuente. Omite cualquier campo desconocido; no añadas valores vacíos ni fechas estimadas como si fueran exactas. Registra incertidumbres en `note` o en la lista `observations` de la persona.
 
@@ -50,6 +54,14 @@ El selector muestra entre dos y cuatro generaciones a la vez, con un máximo de 
 
 `defaultPerson` fija la persona seleccionada al abrir la página sin un enlace específico. Actualmente es `arturo-calvo-devesa`. `branches` permite definir puntos de entrada con `id`, `label` y una lista `roots` de identificadores. El único punto de partida actual es Arturo. No es necesario crear una rama por generación. Mantén los identificadores existentes para conservar los enlaces a personas.
 
+## Mapa de lugares
+
+La pestaña «Lugares» carga el mapa interactivo cuando se abre. Utiliza Leaflet 1.9.4 y las teselas de OpenStreetMap, con su atribución visible. La biblioteca y su licencia se conservan localmente entre los recursos de la página. Los marcadores y sus agrupaciones permiten explorar las localidades; la búsqueda y la lista de lugares también permiten seleccionar una localidad y encontrar sus personas relacionadas. Si las teselas no están disponibles, la lista sigue siendo utilizable.
+
+`familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. Los doce lugares actuales están en España y las posiciones representan el centro de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora, según la confirmación de la familia.
+
+Al añadir un lugar nuevo, la lista sigue funcionando aunque todavía no tenga coordenadas. Comprueba su municipio y provincia antes de incorporarlo al mapa y pregunta a la familia si la localidad no se puede identificar con seguridad. No asignes una posición por aproximación ni conviertas una iglesia citada en las notas en una localidad independiente.
+
 ## Alcance y procedencia de los datos
 
 El archivo contiene treinta y tres personas y seis generaciones conectadas, con Arturo Calvo Devesa como punto de partida. Su ficha incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
@@ -71,5 +83,7 @@ Se conserva el bautismo de Bernardo Brioso Pérez el **02-06-1918**, tal como ap
 Los lugares entre paréntesis tras los nombres de los antepasados se conservan como `origins` cuando no se conoce el tipo de evento. No se interpretan como lugares de nacimiento. Se elimina el lugar de referencia redundante cuando otra fuente aporta expresamente el nacimiento en ese mismo lugar. Para Josefa Rabanal Ibáñez, el índice usa Zamora y una observación conserva «Zamora. S. Esteban».
 
 No se atribuye lugar a los bautismos de Miguel, Lucía, Nicanor Calvo Martín, Marcelina, Salvador o Vicenta, porque no figura expresamente. El bautismo de Rosario conserva la parroquia citada como una nota, sin inventar una fecha o un lugar independiente. Las iglesias citadas junto a matrimonios o fallecimientos se guardan en `note`, sin inferir entierros. La frase duplicada del matrimonio de Benito se registra una sola vez. Se mantiene la grafía **Mª. Antonia**. Las líneas incompletas de las fuentes se omiten, sin crear campos vacíos.
+
+La familia confirmó que San Ildefonso, en las fichas de Nicanor Calvo Piorno y Rosario Brioso de las Heras, es la iglesia de Zamora donde se celebró el funeral. Esa aclaración figura en `death.note`; el lugar de fallecimiento se mantiene como Zamora y no se crea un evento de entierro ni un lugar adicional para el mapa.
 
 No se han añadido imágenes ni transcripciones de partidas que no se hayan facilitado.

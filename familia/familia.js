@@ -1,3 +1,5 @@
+import { lifespan } from './lifespan.mjs';
+
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
 const ID_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -20,6 +22,8 @@ let indexRequest = 0;
 let indexTab = 'people';
 let indexFilter = null;
 let resultLimit = PAGE_SIZE;
+let placesMapPromise;
+let placesMapRequest = 0;
 const rootHistory = [];
 
 function element(tag, className, text) {
@@ -54,12 +58,6 @@ function announce(message) {
 
 function initials(person) {
   return `${person.givenNames?.[0] || person.name[0]}${person.surnames?.[0]?.[0] || ''}`.toLocaleUpperCase('es');
-}
-
-function years(person) {
-  const birth = person.birth?.date?.slice(0, 4);
-  const death = person.death?.date?.slice(0, 4);
-  return birth && death ? `${birth} – ${death}` : birth ? `n. ${birth}` : death ? `f. ${death}` : '';
 }
 
 function dateLabel(value) {
@@ -235,7 +233,7 @@ async function renderTree() {
       const topline = element('span', 'node-topline');
       topline.append(element('span', 'node-avatar', initials(person)), element('span', 'node-relation', level === 0 ? 'Persona de referencia' : level === 1 ? slot === 0 ? 'Padre' : 'Madre' : `Ascendiente · generación ${level + 1}`));
       card.append(topline, element('strong', 'node-name', person.name));
-      const life = years(person);
+      const life = lifespan(person);
       if (life) card.append(element('span', 'node-dates', life));
       const place = person.birth?.place || person.origins?.[0];
       if (place) {
@@ -381,13 +379,12 @@ async function renderProfile(id, focus = false) {
     ]);
     if (request !== profileRequest) return;
     const header = element('header', 'profile-header');
-    const eyebrow = element('p', 'profile-eyebrow', 'UNA VIDA, NUESTRA HISTORIA');
     const avatar = element('div', 'profile-avatar', initials(person));
     avatar.setAttribute('aria-hidden', 'true');
     const heading = element('h2', 'profile-name', person.name);
     heading.tabIndex = -1;
-    header.append(eyebrow, avatar, heading);
-    if (years(person)) header.append(element('p', 'profile-years', years(person)));
+    header.append(avatar, heading);
+    if (lifespan(person)) header.append(element('p', 'profile-years', lifespan(person)));
     const actions = element('div', 'profile-actions');
     actions.append(button('Centrar en el árbol', 'button button-secondary', () => {
       navigate(id, { recenter: true });
@@ -400,6 +397,12 @@ async function renderProfile(id, focus = false) {
       if (father) family.append(relationLink(father, 'Padre'));
       if (mother) family.append(relationLink(mother, 'Madre'));
       panel.append(family);
+    }
+    if (person.children?.length) {
+      const descendants = element('section', 'profile-section');
+      descendants.append(element('h3', '', 'Descendencia'));
+      person.children.forEach(child => descendants.append(relationLink(child)));
+      panel.append(descendants);
     }
     const events = element('div', 'event-timeline');
     const entries = [eventBlock('Nacimiento', person.birth, person), eventBlock('Bautismo', person.baptism, person)];
@@ -471,24 +474,63 @@ function setIndexTab(tab) {
     button.tabIndex = active ? 0 : -1;
   });
   $('#index-results').setAttribute('aria-labelledby', `tab-${tab}`);
+  $('#places-map-panel').hidden = tab !== 'places';
   $('#index-query').placeholder = tab === 'surnames' ? 'Buscar un apellido…' : tab === 'places' ? 'Buscar un lugar…' : 'Buscar una persona…';
   renderIndex();
 }
 
+async function selectIndexGroup(group, revealResults = false) {
+  indexFilter = group;
+  resultLimit = PAGE_SIZE;
+  $('#index-query').value = '';
+  $('#index-query').placeholder = 'Buscar entre estas personas…';
+  await renderIndex();
+  if (revealResults) {
+    const firstResult = $('#index-results .index-entry');
+    firstResult?.focus();
+    firstResult?.scrollIntoView({ block: 'nearest' });
+  } else $('#index-query').focus();
+}
+
+async function updatePlacesMap(groups) {
+  const request = ++placesMapRequest;
+  const panel = $('#places-map-panel');
+  panel.hidden = indexTab !== 'places';
+  if (panel.hidden) return;
+  const status = $('#places-map-status');
+  if (!placesMapPromise) {
+    status.textContent = 'Preparando el mapa de nuestros lugares…';
+    placesMapPromise = import('./places-map.js').then(({ createPlacesMap }) => createPlacesMap({
+      container: $('#places-map'),
+      status,
+      fallback: $('#places-map-fallback'),
+      onSelect: group => selectIndexGroup(group, true),
+    })).catch(error => {
+      placesMapPromise = null;
+      throw error;
+    });
+  }
+  try {
+    const map = await placesMapPromise;
+    if (request !== placesMapRequest || indexTab !== 'places' || !$('#index-dialog').open) return;
+    map.update(groups, indexFilter?.name || null);
+  } catch (error) {
+    if (request !== placesMapRequest) return;
+    status.textContent = 'No se ha podido abrir el mapa. La lista de lugares sigue disponible.';
+    const fallback = $('#places-map-fallback');
+    fallback.hidden = false;
+    fallback.replaceChildren(button('Volver a cargar el mapa', 'text-button', () => updatePlacesMap(groups)));
+  }
+}
+
 function groupEntry(group) {
-  const row = button('', 'index-entry', () => {
-    indexFilter = group;
-    resultLimit = PAGE_SIZE;
-    $('#index-query').value = '';
-    $('#index-query').placeholder = 'Buscar entre estas personas…';
-    renderIndex();
-    $('#index-query').focus();
-  });
+  const row = button('', 'index-entry', () => selectIndexGroup(group, indexTab === 'places'));
   row.replaceChildren();
   const avatar = element('span', 'entry-avatar');
   avatar.append(icon(indexTab === 'places' ? 'pin' : 'leaf'));
   const text = element('span', 'entry-content');
   text.append(element('strong', 'entry-name', group.name));
+  if (indexTab === 'places') text.append(element('span', 'entry-meta', group.location ? group.location.province : 'Ubicación pendiente de confirmar'));
   row.append(avatar, text, element('span', 'entry-count', String(group.people.length)), icon('arrow-right'));
   return row;
 }
@@ -501,7 +543,7 @@ function personEntry(person) {
   row.replaceChildren();
   const text = element('span', 'entry-content');
   text.append(element('strong', 'entry-name', person.name));
-  const dates = person.birthYear && person.deathYear ? `${person.birthYear} – ${person.deathYear}` : person.birthYear ? `n. ${person.birthYear}` : person.deathYear ? `f. ${person.deathYear}` : '';
+  const dates = person.lifespan || lifespan(person);
   const meta = [dates, person.places?.[0]].filter(Boolean).join(' · ');
   if (meta) text.append(element('span', 'entry-meta', meta));
   row.append(element('span', 'entry-avatar', initials(person)), text, icon('arrow-right'));
@@ -526,6 +568,7 @@ async function renderIndex() {
     } else {
       entries = data[indexTab].filter(group => matches(group.name, query));
     }
+    updatePlacesMap(indexTab === 'places' ? indexFilter ? [indexFilter] : entries : []);
     const filter = $('#index-filter');
     filter.replaceChildren();
     filter.hidden = !indexFilter;
@@ -591,6 +634,7 @@ function bindControls() {
     resultLimit += PAGE_SIZE;
     renderIndex();
   });
+  $('#map-reset').addEventListener('click', () => setIndexTab('places'));
   $('#generation-depth').addEventListener('change', renderTree);
   $('#zoom-in').addEventListener('click', () => { zoom = Math.min(1.4, Math.round((zoom + 0.1) * 10) / 10); applyZoom(); centerTree(); });
   $('#zoom-out').addEventListener('click', () => { zoom = Math.max(0.6, Math.round((zoom - 0.1) * 10) / 10); applyZoom(); centerTree(); });
