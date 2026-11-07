@@ -41,6 +41,22 @@
       "source": "https://www.wikidata.org/wiki/Q8960756"
     },
     {
+      "name": "Fresnadillo",
+      "province": "Zamora",
+      "municipality": "Bermillo de Sayago",
+      "latitude": 41.4138,
+      "longitude": -6.07483,
+      "source": "https://www.wikidata.org/wiki/Q8962837"
+    },
+    {
+      "name": "Fuentesaúco",
+      "province": "Zamora",
+      "municipality": "Fuentesaúco",
+      "latitude": 41.23043,
+      "longitude": -5.49722,
+      "source": "https://www.wikidata.org/wiki/Q24016699"
+    },
+    {
       "name": "Gáname",
       "province": "Zamora",
       "municipality": "Bermillo de Sayago",
@@ -73,12 +89,28 @@
       "source": "https://www.wikidata.org/wiki/Q1646347"
     },
     {
+      "name": "Muga de Alba",
+      "province": "Zamora",
+      "municipality": "Losacino",
+      "latitude": 41.6733,
+      "longitude": -6.0409,
+      "source": "https://www.wikidata.org/wiki/Q6025902"
+    },
+    {
       "name": "Peleas de Arriba",
       "province": "Zamora",
       "municipality": "Corrales del Vino",
       "latitude": 41.321789,
       "longitude": -5.735158,
       "source": "https://www.wikidata.org/wiki/Q9057878"
+    },
+    {
+      "name": "Pereruela",
+      "province": "Zamora",
+      "municipality": "Pereruela",
+      "latitude": 41.4165,
+      "longitude": -5.87812,
+      "source": "https://www.wikidata.org/wiki/Q24016628"
     },
     {
       "name": "Roales",
@@ -97,12 +129,36 @@
       "source": "https://www.wikidata.org/wiki/Q5390918"
     },
     {
+      "name": "Sanzoles",
+      "province": "Zamora",
+      "municipality": "Sanzoles",
+      "latitude": 41.43235,
+      "longitude": -5.5671,
+      "source": "https://www.wikidata.org/wiki/Q24016582"
+    },
+    {
+      "name": "Sogo",
+      "province": "Zamora",
+      "municipality": "Pereruela",
+      "latitude": 41.3886,
+      "longitude": -5.97145,
+      "source": "https://www.wikidata.org/wiki/Q958086"
+    },
+    {
       "name": "Tardobispo",
       "province": "Zamora",
       "municipality": "El Perdigón",
       "latitude": 41.4352,
       "longitude": -5.79683,
       "source": "https://www.wikidata.org/wiki/Q953604"
+    },
+    {
+      "name": "Toro",
+      "province": "Zamora",
+      "municipality": "Toro",
+      "latitude": 41.52,
+      "longitude": -5.394722,
+      "source": "https://www.wikidata.org/wiki/Q23991190"
     },
     {
       "name": "Torrefrades",
@@ -113,6 +169,14 @@
       "source": "https://www.wikidata.org/wiki/Q11704656"
     },
     {
+      "name": "Villadepera",
+      "province": "Zamora",
+      "municipality": "Villadepera",
+      "latitude": 41.547,
+      "longitude": -6.13305,
+      "source": "https://www.wikidata.org/wiki/Q24016557"
+    },
+    {
       "name": "Villalazán",
       "province": "Zamora",
       "municipality": "Villalazán",
@@ -121,12 +185,36 @@
       "source": "https://www.wikidata.org/wiki/Q24016551"
     },
     {
+      "name": "Villalpando",
+      "province": "Zamora",
+      "municipality": "Villalpando",
+      "latitude": 41.86517,
+      "longitude": -5.41231,
+      "source": "https://www.wikidata.org/wiki/Q24016545"
+    },
+    {
+      "name": "Villamor de la Ladre",
+      "province": "Zamora",
+      "municipality": "Bermillo de Sayago",
+      "latitude": 41.4054,
+      "longitude": -6.158,
+      "source": "https://www.wikidata.org/wiki/Q9094064"
+    },
+    {
       "name": "Villardeciervos",
       "province": "Zamora",
       "municipality": "Villardeciervos",
       "latitude": 41.942318,
       "longitude": -6.289654,
       "source": "https://www.wikidata.org/wiki/Q24016535"
+    },
+    {
+      "name": "Villardiegua de la Ribera",
+      "province": "Zamora",
+      "municipality": "Villardiegua de la Ribera",
+      "latitude": 41.53543,
+      "longitude": -6.18327,
+      "source": "https://www.wikidata.org/wiki/Q24016532"
     },
     {
       "name": "Zamora",
