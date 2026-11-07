@@ -17,12 +17,28 @@
       "source": "https://www.wikidata.org/wiki/Q126540870"
     },
     {
+      "name": "Cabañas de Sayago",
+      "province": "Zamora",
+      "municipality": "Cabañas de Sayago",
+      "latitude": 41.33330409,
+      "longitude": -5.79167692,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/cabanas-de-sayago-id49031"
+    },
+    {
       "name": "Casaseca de las Chanas",
       "province": "Zamora",
       "municipality": "Casaseca de las Chanas",
       "latitude": 41.439444,
       "longitude": -5.675556,
       "source": "https://www.wikidata.org/wiki/Q1765357"
+    },
+    {
+      "name": "Corrales del Vino",
+      "province": "Zamora",
+      "municipality": "Corrales del Vino",
+      "latitude": 41.35782006,
+      "longitude": -5.72518719,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/corrales-del-vino-id49054"
     },
     {
       "name": "El Cubo del Vino",
@@ -65,12 +81,28 @@
       "source": "https://www.wikidata.org/wiki/Q9001649"
     },
     {
+      "name": "La Tuda",
+      "province": "Zamora",
+      "municipality": "Pereruela",
+      "latitude": 41.38240373667361,
+      "longitude": -5.8578516640649045,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=La+Tuda%2C+La+Tuda+%28Pereruela%29"
+    },
+    {
       "name": "Malillos",
       "province": "Zamora",
       "municipality": "Pereruela",
       "latitude": 41.3856,
       "longitude": -5.951,
       "source": "https://www.wikidata.org/wiki/Q9027167"
+    },
+    {
+      "name": "Moral de Sayago",
+      "province": "Zamora",
+      "municipality": "Moral de Sayago",
+      "latitude": 41.47309575,
+      "longitude": -6.10094349,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/moral-de-sayago-id49124"
     },
     {
       "name": "Moraleja del Vino",
@@ -81,6 +113,14 @@
       "source": "https://www.wikidata.org/wiki/Q24016654"
     },
     {
+      "name": "Morales de Toro",
+      "province": "Zamora",
+      "municipality": "Morales de Toro",
+      "latitude": 41.53729,
+      "longitude": -5.3063707,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/72958"
+    },
+    {
       "name": "Morales del Vino",
       "province": "Zamora",
       "municipality": "Morales del Vino",
@@ -89,12 +129,28 @@
       "source": "https://www.wikidata.org/wiki/Q1646347"
     },
     {
+      "name": "Moralina",
+      "province": "Zamora",
+      "municipality": "Moralina",
+      "latitude": 41.4901884,
+      "longitude": -6.1361147,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/moralina-id49131"
+    },
+    {
       "name": "Muga de Alba",
       "province": "Zamora",
       "municipality": "Losacino",
       "latitude": 41.6733,
       "longitude": -6.0409,
       "source": "https://www.wikidata.org/wiki/Q6025902"
+    },
+    {
+      "name": "Olleros de Tera",
+      "province": "Zamora",
+      "municipality": "Calzadilla de Tera",
+      "latitude": 41.9828739416438,
+      "longitude": -6.102093774706347,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Olleros+de+Tera%2C+Olleros+de+Tera+%28Calzadilla+de+Tera%29"
     },
     {
       "name": "Peleas de Arriba",
@@ -113,6 +169,22 @@
       "source": "https://www.wikidata.org/wiki/Q24016628"
     },
     {
+      "name": "Piñuel",
+      "province": "Zamora",
+      "municipality": "Bermillo de Sayago",
+      "latitude": 41.34946252430025,
+      "longitude": -6.01801973485311,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Pi%C3%B1uel%2C+Pi%C3%B1uel+%28Bermillo+de+Sayago%29"
+    },
+    {
+      "name": "Pontejos",
+      "province": "Zamora",
+      "municipality": "Morales del Vino",
+      "latitude": 41.434597521822205,
+      "longitude": -5.704016110137583,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Pontejos%2C+Pontejos+%28Morales+del+Vino%29"
+    },
+    {
       "name": "Roales",
       "province": "Zamora",
       "municipality": "Roales del Pan",
@@ -127,6 +199,14 @@
       "latitude": 41.3982,
       "longitude": -5.78103,
       "source": "https://www.wikidata.org/wiki/Q5390918"
+    },
+    {
+      "name": "San Pedro de Trasverea",
+      "province": "Ourense",
+      "municipality": "Riós",
+      "latitude": 41.9931,
+      "longitude": -7.328798,
+      "source": "https://territorioeurbanismo.xunta.gal/sites/default/files/plan-basico-autonomico/es/07_AnexoVII_PBA_Act2022_12_cast.pdf#page=459"
     },
     {
       "name": "Sanzoles",
@@ -169,6 +249,38 @@
       "source": "https://www.wikidata.org/wiki/Q11704656"
     },
     {
+      "name": "Torregamones",
+      "province": "Zamora",
+      "municipality": "Torregamones",
+      "latitude": 41.48813414,
+      "longitude": -6.18052208,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/torregamones-id49221"
+    },
+    {
+      "name": "Vegalatrave",
+      "province": "Zamora",
+      "municipality": "Vegalatrave",
+      "latitude": 41.70040781,
+      "longitude": -6.10817476,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/vegalatrave-id49233"
+    },
+    {
+      "name": "Venialbo",
+      "province": "Zamora",
+      "municipality": "Venialbo",
+      "latitude": 41.38957,
+      "longitude": -5.53596,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/75910"
+    },
+    {
+      "name": "Viana do Bolo",
+      "province": "Ourense",
+      "municipality": "Viana do Bolo",
+      "latitude": 42.18034277,
+      "longitude": -7.1147755031,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/viana-do-bolo-id32086"
+    },
+    {
       "name": "Villadepera",
       "province": "Zamora",
       "municipality": "Villadepera",
@@ -185,6 +297,14 @@
       "source": "https://www.wikidata.org/wiki/Q24016551"
     },
     {
+      "name": "Villalobos",
+      "province": "Zamora",
+      "municipality": "Villalobos",
+      "latitude": 41.9482333,
+      "longitude": -5.47575565,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/villalobos-id49248"
+    },
+    {
       "name": "Villalpando",
       "province": "Zamora",
       "municipality": "Villalpando",
@@ -193,12 +313,28 @@
       "source": "https://www.wikidata.org/wiki/Q24016545"
     },
     {
+      "name": "Villamor de Cadozos",
+      "province": "Zamora",
+      "municipality": "Bermillo de Sayago",
+      "latitude": 41.31779,
+      "longitude": -6.1100965,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/88154"
+    },
+    {
       "name": "Villamor de la Ladre",
       "province": "Zamora",
       "municipality": "Bermillo de Sayago",
       "latitude": 41.4054,
       "longitude": -6.158,
       "source": "https://www.wikidata.org/wiki/Q9094064"
+    },
+    {
+      "name": "Villanueva de Campeán",
+      "province": "Zamora",
+      "municipality": "Villanueva de Campeán",
+      "latitude": 41.35447,
+      "longitude": -5.7702,
+      "source": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/156571"
     },
     {
       "name": "Villardeciervos",

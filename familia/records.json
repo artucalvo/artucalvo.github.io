@@ -1797,483 +1797,1019 @@
     },
     {
       "id": "pedro-calvo-perez",
-      "name": "Pedro Calvo",
+      "name": "Pedro Calvo Pérez",
       "givenNames": "Pedro",
       "surnames": [
-        "Calvo"
+        "Calvo",
+        "Pérez"
       ],
-      "origins": [
-        "Villalazán"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1716-11-12",
+        "place": "Villalazán"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-salvador-terron",
+          "date": "1738-02-05",
+          "place": "Sanzoles"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1789-01-28",
+        "place": "Villalazán",
+        "note": "A consecuencia de perlería y congojas."
+      },
+      "father": "bernardo-calvo",
+      "mother": "maria-perez"
     },
     {
       "id": "maria-salvador-terron",
-      "name": "María Salvador",
+      "name": "María Salvador Terrón",
       "givenNames": "María",
       "surnames": [
-        "Salvador"
+        "Salvador",
+        "Terrón"
       ],
-      "origins": [
-        "Sanzoles"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1720-05-15",
+        "place": "Sanzoles"
+      },
+      "marriages": [
+        {
+          "spouse": "pedro-calvo-perez",
+          "date": "1738-02-05",
+          "place": "Sanzoles"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "father": "pedro-salvador",
+      "mother": "maria-terron"
     },
     {
       "id": "francisco-alonso-ufano",
-      "name": "Francisco Alonso",
+      "name": "Francisco Alonso Ufano",
       "givenNames": "Francisco",
       "surnames": [
-        "Alonso"
+        "Alonso",
+        "Ufano"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1713-01-18",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "isabel-alonso-zamora",
+          "date": "1733-11-04",
+          "place": "Moraleja del Vino"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1782-02-13",
+        "place": "Moraleja del Vino"
+      },
+      "father": "manuel-alonso",
+      "mother": "antonia-ufano"
     },
     {
       "id": "isabel-alonso-zamora",
-      "name": "Isabel Alonso",
+      "name": "Isabel Alonso Zamora",
       "givenNames": "Isabel",
       "surnames": [
-        "Alonso"
+        "Alonso",
+        "Zamora"
       ],
-      "origins": [
-        "Moraleja del Vino"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1714-01-29",
+        "place": "Moraleja del Vino"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-alonso-ufano",
+          "date": "1733-11-04",
+          "place": "Moraleja del Vino"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1791-09-05",
+        "place": "Moraleja del Vino"
+      },
+      "father": "bernardo-alonso",
+      "mother": "luisa-de-zamora"
     },
     {
       "id": "miguel-martin-avedillo",
-      "name": "Miguel Martín",
+      "name": "Miguel Martín Avedillo",
       "givenNames": "Miguel",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Avedillo"
       ],
-      "origins": [
-        "Moraleja del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1748-02-26",
+        "place": "Moraleja del Vino"
+      },
+      "death": {
+        "date": "1789-11-04",
+        "place": "Morales del Vino"
+      },
+      "father": "diego-martin",
+      "mother": "maria-avedillo"
     },
     {
       "id": "felipa-de-prada-martin",
-      "name": "Felipa Prada",
+      "name": "Felipa de Prada Martín",
       "givenNames": "Felipa",
       "surnames": [
-        "Prada"
+        "de Prada",
+        "Martín"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1750-07-10",
+        "place": "Morales del Vino"
+      },
+      "mother": "luisa-martin"
     },
     {
       "id": "manuel-hernandez-gaitan",
-      "name": "Manuel Hernández",
+      "name": "Manuel Hernández Gaitán",
       "givenNames": "Manuel",
       "surnames": [
-        "Hernández"
+        "Hernández",
+        "Gaitán"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1729-04-03",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "ines-martin-carrascal",
+          "date": "1775-05-10",
+          "note": "Ermita del Cristo de Morales.",
+          "place": "Morales del Vino"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1793-10-02",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "francisco-hernandez",
+      "mother": "teresa-gaitan"
     },
     {
       "id": "ines-martin-carrascal",
-      "name": "Inés Martín",
+      "name": "Inés Martín Carrascal",
       "givenNames": "Inés",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Carrascal"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1741-05-14",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-hernandez-gaitan",
+          "date": "1775-05-10",
+          "note": "Ermita del Cristo de Morales.",
+          "place": "Morales del Vino"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1805-04-11",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "alonso-martin",
+      "mother": "jeronima-carrascal"
     },
     {
       "id": "andres-mendez-martin",
-      "name": "Andrés Méndez",
+      "name": "Andrés Méndez Martín",
       "givenNames": "Andrés",
       "surnames": [
-        "Méndez"
+        "Méndez",
+        "Martín"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1746-02-08",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-de-lera-rodriguez",
+          "date": "1773-02-02",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1802-02-22",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "manuel-mendez",
+      "mother": "ana-ma-martin"
     },
     {
       "id": "maria-de-lera-rodriguez",
-      "name": "María Lera",
-      "givenNames": "María",
+      "name": "María Josefa de Lera Rodríguez",
+      "givenNames": "María Josefa",
       "surnames": [
-        "Lera"
+        "de Lera",
+        "Rodríguez"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1756-11-10",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "andres-mendez-martin",
+          "date": "1773-02-02",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1818-09-01",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "juan-de-lera",
+      "mother": "ana-rodriguez"
     },
     {
       "id": "bonifacio-de-paz-carrasco",
-      "name": "Bonifacio de Paz",
-      "givenNames": "Bonifacio",
+      "name": "Bonifacio Ruperto de Paz Carrasco",
+      "givenNames": "Bonifacio Ruperto",
       "surnames": [
-        "de Paz"
+        "de Paz",
+        "Carrasco"
       ],
-      "origins": [
-        "Toro"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1745-03-27",
+        "place": "Toro",
+        "note": "Santo Tomás Canturiense."
+      },
+      "marriages": [
+        {
+          "spouse": "eduarda-perez-ponce",
+          "date": "1767-01-12",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1799-11-10",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "antonio-de-paz",
+      "mother": "josefa-carrasco"
     },
     {
       "id": "eduarda-perez-ponce",
-      "name": "Eduarda Pérez",
+      "name": "Eduarda Pérez Ponce",
       "givenNames": "Eduarda",
       "surnames": [
-        "Pérez"
+        "Pérez",
+        "Ponce"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1743-10-22",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "bonifacio-de-paz-carrasco",
+          "date": "1767-01-12",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "father": "francisco-perez",
+      "mother": "teresa-ponce"
     },
     {
       "id": "jose-maillo-hernandez",
-      "name": "José Maíllo",
+      "name": "José Maíllo Hernández",
       "givenNames": "José",
       "surnames": [
-        "Maíllo"
+        "Maíllo",
+        "Hernández"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1755-03-20",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "sebastiana-rodriguez-garcia",
+          "date": "1774-07-20",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1806-01-13",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "andres-maillo",
+      "mother": "teodora-hernandez"
     },
     {
       "id": "sebastiana-rodriguez-garcia",
-      "name": "Sebastiana Rodríguez",
+      "name": "Sebastiana Rodríguez García",
       "givenNames": "Sebastiana",
       "surnames": [
-        "Rodríguez"
+        "Rodríguez",
+        "García"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1754-01-20",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "jose-maillo-hernandez",
+          "date": "1774-07-20",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1804-09-30",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "bernardo-rodriguez",
+      "mother": "emerenciana-garcia"
     },
     {
       "id": "bernardo-morales-calvo",
-      "name": "Bernardo Morales",
+      "name": "Bernardo Morales Calvo",
       "givenNames": "Bernardo",
       "surnames": [
-        "Morales"
+        "Morales",
+        "Calvo"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1765-10-20",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "antonia-valladolid-ocampo",
+          "date": "1785-02-05",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1813-03-28",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "jose-morales",
+      "mother": "ignacia-calvo"
     },
     {
       "id": "antonia-valladolid-ocampo",
-      "name": "Antonia Valladolid",
+      "name": "Antonia Valladolid Ocampo",
       "givenNames": "Antonia",
       "surnames": [
-        "Valladolid"
+        "Valladolid",
+        "Ocampo"
       ],
-      "origins": [
-        "Casaseca de las Chanas"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1767-02-18",
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "spouse": "bernardo-morales-calvo",
+          "date": "1785-02-05",
+          "place": "Casaseca de las Chanas"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1824-12-08",
+        "place": "Casaseca de las Chanas"
+      },
+      "father": "francisco-valladolid",
+      "mother": "isabel-ocampo"
     },
     {
       "id": "jose-piorno-zurdo",
-      "name": "José Piorno",
+      "name": "José Piorno Zurdo",
       "givenNames": "José",
       "surnames": [
-        "Piorno"
+        "Piorno",
+        "Zurdo"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1741-06-07",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "teresa-piorno-burrieza",
+          "date": "1769-03-02",
+          "place": "Gáname"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1779-03-02",
+        "place": "Gáname"
+      },
+      "father": "manuel-piorno",
+      "mother": "sebastiana-zurdo"
     },
     {
       "id": "teresa-piorno-burrieza",
-      "name": "Teresa Piorno",
+      "name": "Teresa Piorno Burrieza",
       "givenNames": "Teresa",
       "surnames": [
-        "Piorno"
+        "Piorno",
+        "Burrieza"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1745-04-24",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "jose-piorno-zurdo",
+          "date": "1769-03-02",
+          "place": "Gáname"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1791-02-07",
+        "place": "Gáname"
+      },
+      "father": "domingo-piorno",
+      "mother": "antonia-burrieza"
     },
     {
       "id": "casimiro-vega-vega",
-      "name": "Casimiro Vega",
+      "name": "Casimiro Vega Vega",
       "givenNames": "Casimiro",
       "surnames": [
+        "Vega",
         "Vega"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1744-12-04",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "agueda-fierro-blanco",
+          "date": "1767-02-18",
+          "place": "Gáname"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1808-02-24",
+        "place": "Gáname"
+      },
+      "father": "manuel-vega",
+      "mother": "ana-ma-vega"
     },
     {
       "id": "agueda-fierro-blanco",
-      "name": "Águeda Fierro",
+      "name": "Águeda Fierro Blanco",
       "givenNames": "Águeda",
       "surnames": [
-        "Fierro"
+        "Fierro",
+        "Blanco"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1747-01-29",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "casimiro-vega-vega",
+          "date": "1767-02-18",
+          "place": "Gáname"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1818-01-07",
+        "place": "Gáname"
+      },
+      "father": "jose-fierro",
+      "mother": "micaela-blanco"
     },
     {
       "id": "domingo-tuda-pereruela",
-      "name": "Domingo Tuda",
+      "name": "Domingo Tuda Pereruela",
       "givenNames": "Domingo",
       "surnames": [
-        "Tuda"
+        "Tuda",
+        "Pereruela"
       ],
-      "origins": [
-        "Malillos"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1742-07-13",
+        "place": "Malillos"
+      },
+      "marriages": [
+        {
+          "spouse": "tomasa-porras-gonzalez",
+          "date": "1762-12-08",
+          "place": "Sogo"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1813-01-11",
+        "place": "Malillos"
+      },
+      "father": "juan-tuda",
+      "mother": "margarita-pereruela"
     },
     {
       "id": "tomasa-porras-gonzalez",
-      "name": "Tomasa Porras",
+      "name": "Tomasa Porras González",
       "givenNames": "Tomasa",
       "surnames": [
-        "Porras"
+        "Porras",
+        "González"
       ],
-      "origins": [
-        "Sogo"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1744-11-07",
+        "place": "Sogo"
+      },
+      "marriages": [
+        {
+          "spouse": "domingo-tuda-pereruela",
+          "date": "1762-12-08",
+          "place": "Sogo"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1815-11-23",
+        "place": "Malillos"
+      },
+      "father": "antonio-porras",
+      "mother": "magdalena-gonzalo"
     },
     {
       "id": "bernardo-feltrero-esteban",
-      "name": "Bernardo Feltrero",
+      "name": "Bernardo Feltrero Esteban",
       "givenNames": "Bernardo",
       "surnames": [
-        "Feltrero"
+        "Feltrero",
+        "Esteban"
       ],
-      "origins": [
-        "Fadón"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1731-12-29",
+        "place": "Fadón"
+      },
+      "marriages": [
+        {
+          "spouse": "catalina-gonzalo-barrocal",
+          "date": "1763-12-02",
+          "place": "Fadón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "father": "lorenzo-feltrero",
+      "mother": "maria-esteban"
     },
     {
       "id": "catalina-gonzalo-barrocal",
-      "name": "Catalina Gonzalo",
+      "name": "Catalina Gonzalo Barrocal",
       "givenNames": "Catalina",
       "surnames": [
-        "Gonzalo"
+        "Gonzalo",
+        "Barrocal"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1743-11-19",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "bernardo-feltrero-esteban",
+          "date": "1763-12-02",
+          "place": "Fadón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1821-08-22",
+        "place": "Fadón"
+      },
+      "father": "juan-gonzalo",
+      "mother": "josefa-barrocal"
     },
     {
       "id": "alonso-santiago-garrote",
-      "name": "Alonso Santiago",
+      "name": "Alonso Santiago Garrote",
       "givenNames": "Alonso",
       "surnames": [
-        "Santiago"
+        "Santiago",
+        "Garrote"
       ],
-      "origins": [
-        "Abelón"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1740-10-08",
+        "place": "Abelón"
+      },
+      "marriages": [
+        {
+          "spouse": "agustina-garrote-garrido",
+          "date": "1760-02-06",
+          "place": "Abelón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1791-05-21",
+        "place": "Abelón"
+      },
+      "father": "domingo-santiago",
+      "mother": "teresa-garrote"
     },
     {
       "id": "agustina-garrote-garrido",
-      "name": "Agustina Garrote",
+      "name": "Agustina Garrote Garrido",
       "givenNames": "Agustina",
       "surnames": [
-        "Garrote"
+        "Garrote",
+        "Garrido"
       ],
-      "origins": [
-        "Abelón"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1740-08-28",
+        "place": "Abelón"
+      },
+      "marriages": [
+        {
+          "spouse": "alonso-santiago-garrote",
+          "date": "1760-02-06",
+          "place": "Abelón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1804-12-22",
+        "place": "Abelón"
+      },
+      "father": "pedro-garrote",
+      "mother": "manuela-garrido"
     },
     {
       "id": "angel-garrote-garrote",
-      "name": "Ángel Garrote",
+      "name": "Ángel Garrote Garrote",
       "givenNames": "Ángel",
       "surnames": [
+        "Garrote",
         "Garrote"
       ],
-      "origins": [
-        "Abelón"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1744-02-23",
+        "place": "Abelón"
+      },
+      "death": {
+        "date": "1795-01-30",
+        "place": "Abelón"
+      },
+      "father": "pascual-garrote",
+      "mother": "maria-garrote"
     },
     {
       "id": "micaela-anton-figal",
-      "name": "Micaela Antón",
+      "name": "Micaela Antón Figal",
       "givenNames": "Micaela",
       "surnames": [
-        "Antón"
+        "Antón",
+        "Figal"
       ],
-      "origins": [
-        "Fresnadillo"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1747-03-12",
+        "place": "Fresnadillo"
+      },
+      "death": {
+        "date": "1818-03-12",
+        "place": "Abelón"
+      },
+      "father": "jose-anton",
+      "mother": "manuela-figal"
     },
     {
       "id": "manuel-sastre-gonzalo",
-      "name": "Manuel Sastre",
+      "name": "Manuel Sastre Gonzalo",
       "givenNames": "Manuel",
       "surnames": [
-        "Sastre"
+        "Sastre",
+        "Gonzalo"
       ],
-      "origins": [
-        "Gáname"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1763-10-21",
+        "place": "Gáname"
+      },
+      "marriages": [
+        {
+          "spouse": "antonia-sastre-delgado",
+          "date": "1793-02-11",
+          "place": "Fadón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "death": {
+        "date": "1827-01-23",
+        "place": "Fadón"
+      },
+      "father": "domingo-sastre",
+      "mother": "agueda-gonzalo"
     },
     {
       "id": "antonia-sastre-delgado",
-      "name": "Antonia Sastre",
+      "name": "Antonia Sastre Delgado",
       "givenNames": "Antonia",
       "surnames": [
-        "Sastre"
+        "Sastre",
+        "Delgado"
       ],
-      "origins": [
-        "Fadón"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1772-05-09",
+        "place": "Fadón"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-sastre-gonzalo",
+          "date": "1793-02-11",
+          "place": "Fadón"
+        }
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "father": "francisco-sastre",
+      "mother": "ana-delgado"
     },
     {
       "id": "lucas-esteban-prieto",
-      "name": "Lucas Esteban",
+      "name": "Lucas Esteban Prieto",
       "givenNames": "Lucas",
       "surnames": [
-        "Esteban"
+        "Esteban",
+        "Prieto"
       ],
-      "origins": [
-        "Villamor de la Ladre"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1757-10-19",
+        "place": "Villamor de la Ladre"
+      },
+      "death": {
+        "date": "1819-05-13"
+      },
+      "father": "roque-esteban",
+      "mother": "catalina-prieto"
     },
     {
       "id": "teresa-vega-zurdo",
-      "name": "Teresa Vega",
+      "name": "Teresa Vega Zurdo",
       "givenNames": "Teresa",
       "surnames": [
-        "Vega"
+        "Vega",
+        "Zurdo"
       ],
-      "origins": [
-        "Fadón"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1759-11-05",
+        "place": "Fadón"
+      },
+      "death": {
+        "date": "1833-06-30",
+        "place": "Fadón"
+      },
+      "father": "miguel-vega",
+      "mother": "barbara-zurdo"
     },
     {
       "id": "alonso-brioso-cabrero",
-      "name": "Alonso Brioso",
-      "givenNames": "Alonso",
+      "name": "Alonso Vicente Brioso Cabrero",
+      "givenNames": "Alonso Vicente",
       "surnames": [
-        "Brioso"
+        "Brioso",
+        "Cabrero"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1758-10-15",
+        "place": "Morales del Vino"
+      },
+      "death": {
+        "date": "1843-05-06",
+        "place": "Morales del Vino"
+      },
+      "father": "baltasar-brioso",
+      "marriages": [
+        {
+          "spouse": "ines-martin-marques",
+          "date": "1779-06-21",
+          "place": "Morales del Vino"
+        }
+      ]
     },
     {
       "id": "ines-martin-marques",
-      "name": "Inés Martín",
-      "givenNames": "Inés",
+      "name": "Inés Francisca Martín Marqués",
+      "givenNames": "Inés Francisca",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Marqués"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1762-09-05",
+        "place": "Morales del Vino"
+      },
+      "father": "esteban-martin",
+      "mother": "maria-marques",
+      "marriages": [
+        {
+          "spouse": "alonso-brioso-cabrero",
+          "date": "1779-06-21",
+          "place": "Morales del Vino"
+        }
+      ]
     },
     {
       "id": "bernardo-alonso-cabrero",
-      "name": "Bernardo Alonso",
-      "givenNames": "Bernardo",
+      "name": "Bernardo Mariano Alonso Cabrero",
+      "givenNames": "Bernardo Mariano",
       "surnames": [
-        "Alonso"
+        "Alonso",
+        "Cabrero"
       ],
-      "origins": [
-        "Moraleja del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1761-08-15",
+        "place": "Moraleja del Vino"
+      },
+      "death": {
+        "date": "1822-05-19",
+        "place": "Moraleja del Vino"
+      },
+      "father": "nicolas-alonso",
+      "marriages": [
+        {
+          "spouse": "isabel-delgado-ramos",
+          "date": "1785-10-01",
+          "place": "Moraleja del Vino"
+        }
+      ]
     },
     {
       "id": "isabel-delgado-ramos",
-      "name": "Isabel Delgado",
+      "name": "Isabel Delgado Ramos",
       "givenNames": "Isabel",
       "surnames": [
-        "Delgado"
+        "Delgado",
+        "Ramos"
       ],
-      "origins": [
-        "Moraleja del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1768-06-12",
+        "place": "Moraleja del Vino"
+      },
+      "death": {
+        "date": "1818-09-29",
+        "place": "Moraleja del Vino"
+      },
+      "father": "luis-delgado",
+      "mother": "josefa-ramos",
+      "marriages": [
+        {
+          "spouse": "bernardo-alonso-cabrero",
+          "date": "1785-10-01",
+          "place": "Moraleja del Vino"
+        }
+      ]
     },
     {
       "id": "francisco-de-mena-roman",
-      "name": "Francisco de Mena",
+      "name": "Francisco de Mena Román",
       "givenNames": "Francisco",
       "surnames": [
-        "de Mena"
+        "de Mena",
+        "Román"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1764-11-01",
+        "place": "Morales del Vino"
+      },
+      "death": {
+        "date": "1831-03-28",
+        "place": "Morales del Vino"
+      },
+      "father": "francisco-de-mena",
+      "mother": "ines-roman",
+      "marriages": [
+        {
+          "spouse": "francisca-martin-perez",
+          "date": "1787-12-01",
+          "place": "Morales del Vino"
+        }
+      ]
     },
     {
       "id": "francisca-martin-perez",
-      "name": "Francisca Martín",
+      "name": "Francisca Martín Pérez",
       "givenNames": "Francisca",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Pérez"
       ],
-      "origins": [
-        "Morales del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1769-01-26",
+        "place": "Morales del Vino"
+      },
+      "father": "vicente-martin",
+      "mother": "jeronima-perez",
+      "marriages": [
+        {
+          "spouse": "francisco-de-mena-roman",
+          "date": "1787-12-01",
+          "place": "Morales del Vino"
+        }
+      ]
     },
     {
       "id": "alonso-santamaria-puertas",
-      "name": "Alonso Santamaría",
+      "name": "Alonso Santamaría Puertas",
       "givenNames": "Alonso",
       "surnames": [
-        "Santamaría"
+        "Santamaría",
+        "Puertas"
       ],
       "origins": [
         "San Marcial"
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "note": "No consta la fecha de nacimiento. El documento indica que no hay datos de bautismos anteriores a 1837."
+      },
+      "death": {
+        "place": "San Marcial",
+        "note": "Falleció antes de 1869, fecha del primer libro conservado."
+      },
+      "father": "felix-santamaria",
+      "mother": "isabel-puertas",
+      "marriages": [
+        {
+          "spouse": "juana-ramos-martin",
+          "date": "1800-02-20",
+          "place": "Pereruela"
+        }
+      ]
     },
     {
       "id": "juana-ramos-martin",
-      "name": "Juana Ramos",
+      "name": "Juana Ramos Martín",
       "givenNames": "Juana",
       "surnames": [
-        "Ramos"
+        "Ramos",
+        "Martín"
       ],
-      "origins": [
-        "Pereruela"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "place": "Pereruela",
+        "date": "1783-06-29"
+      },
+      "baptism": {
+        "place": "Pereruela",
+        "date": "1783-06-24"
+      },
+      "death": {
+        "place": "San Marcial",
+        "note": "Falleció antes de 1869, fecha del primer libro conservado."
+      },
+      "father": "felix-ramos",
+      "mother": "maria-martin",
+      "marriages": [
+        {
+          "spouse": "alonso-santamaria-puertas",
+          "date": "1800-02-20",
+          "place": "Pereruela"
+        }
+      ]
     },
     {
       "id": "juan-perez-miguel",
@@ -2283,215 +2819,480 @@
         "Pérez",
         "Miguel"
       ],
-      "origins": [
-        "Tardobispo"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1746-06-15",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1746-06-22",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "date": "1793-05-12",
+        "place": "Tardobispo"
+      },
+      "father": "manuel-perez",
+      "mother": "angela-miguel",
+      "marriages": [
+        {
+          "spouse": "joaquina-roncero-hernandez",
+          "date": "1767-05-16",
+          "place": "Tardobispo"
+        }
+      ]
     },
     {
       "id": "joaquina-roncero-hernandez",
-      "name": "Joaquina Roncero Hernández",
-      "givenNames": "Joaquina",
+      "name": "Joaquina Paula Roncero Hernández",
+      "givenNames": "Joaquina Paula",
       "surnames": [
         "Roncero",
         "Hernández"
       ],
-      "origins": [
-        "Tardobispo"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1748-03-22",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1748-03-22",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "date": "1814-02-08",
+        "place": "Tardobispo"
+      },
+      "mother": "dorotea-hernandez",
+      "marriages": [
+        {
+          "spouse": "juan-perez-miguel",
+          "date": "1767-05-16",
+          "place": "Tardobispo"
+        }
+      ]
     },
     {
       "id": "francisco-giron-martin",
-      "name": "Francisco Girón",
-      "givenNames": "Francisco",
+      "name": "Francisco Santos Girón Martín",
+      "givenNames": "Francisco Santos",
       "surnames": [
-        "Girón"
+        "Girón",
+        "Martín"
       ],
-      "origins": [
-        "Roales"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "place": "Roales",
+        "date": "1745-11-02"
+      },
+      "baptism": {
+        "place": "Roales",
+        "date": "1745-02-10"
+      },
+      "father": "jose-giron",
+      "mother": "ines-martin"
     },
     {
       "id": "josefa-fernandez-de-la-pena",
-      "name": "Josefa Fernández",
+      "name": "Josefa Fernández de la Peña",
       "givenNames": "Josefa",
       "surnames": [
-        "Fernández"
+        "Fernández",
+        "de la Peña"
       ],
-      "origins": [
-        "Muga de Alba"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "place": "Muga de Alba",
+        "note": "Fecha desconocida por faltar ese libro de bautismos."
+      },
+      "death": {
+        "date": "1781-12-02",
+        "place": "Roales"
+      },
+      "father": "jose-fernandez",
+      "mother": "maria-de-la-pena"
     },
     {
       "id": "manuel-sanchez-misol",
-      "name": "Manuel Sánchez",
+      "name": "Manuel Sánchez Misol",
       "givenNames": "Manuel",
       "surnames": [
-        "Sánchez"
+        "Sánchez",
+        "Misol"
       ],
-      "origins": [
-        "El Cubo del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1735-01-17",
+        "place": "El Cubo del Vino"
+      },
+      "baptism": {
+        "date": "1735-01-28",
+        "place": "El Cubo del Vino"
+      },
+      "death": {
+        "date": "1799-06-05",
+        "place": "El Cubo del Vino"
+      },
+      "father": "santiago-sanchez",
+      "mother": "maria-misol",
+      "marriages": [
+        {
+          "spouse": "catalina-duran-hernandez",
+          "date": "1755-11-27",
+          "place": "El Cubo del Vino"
+        }
+      ]
     },
     {
       "id": "catalina-duran-hernandez",
-      "name": "Catalina Durán",
+      "name": "Catalina Durán Hernández",
       "givenNames": "Catalina",
       "surnames": [
-        "Durán"
+        "Durán",
+        "Hernández"
       ],
-      "origins": [
-        "Fuentesaúco"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1734-09-23",
+        "place": "Fuentesaúco"
+      },
+      "baptism": {
+        "note": "Iglesia de S. Juan Bautista. La fecha figura como «01-10», sin año."
+      },
+      "death": {
+        "date": "1804-12-10",
+        "place": "El Cubo del Vino"
+      },
+      "father": "pedro-duran",
+      "mother": "agustina-hernandez",
+      "marriages": [
+        {
+          "spouse": "manuel-sanchez-misol",
+          "date": "1755-11-27",
+          "place": "El Cubo del Vino"
+        }
+      ]
     },
     {
       "id": "juan-izquierdo-alcantara",
-      "name": "Juan Izquierdo",
-      "givenNames": "Juan",
+      "name": "Juan Alonso Izquierdo Alcántara",
+      "givenNames": "Juan Alonso",
       "surnames": [
-        "Izquierdo"
+        "Izquierdo",
+        "Alcántara"
       ],
-      "origins": [
-        "El Cubo del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1738-09-07",
+        "place": "El Cubo del Vino"
+      },
+      "baptism": {
+        "date": "1738-09-16",
+        "place": "El Cubo del Vino"
+      },
+      "death": {
+        "date": "1800-02-24",
+        "place": "El Cubo del Vino"
+      },
+      "father": "miguel-izquierdo",
+      "mother": "antonia-alcantara",
+      "marriages": [
+        {
+          "spouse": "teresa-terron-campo",
+          "date": "1761-09-13",
+          "place": "El Cubo del Vino"
+        }
+      ]
     },
     {
       "id": "teresa-terron-campo",
-      "name": "Teresa Terrón",
+      "name": "Teresa Terrón Campo",
       "givenNames": "Teresa",
       "surnames": [
-        "Terrón"
+        "Terrón",
+        "Campo"
       ],
-      "origins": [
-        "El Cubo del Vino"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1743-06-08",
+        "place": "El Cubo del Vino"
+      },
+      "baptism": {
+        "date": "1743-06-15",
+        "place": "El Cubo del Vino"
+      },
+      "death": {
+        "date": "1801-05-21",
+        "place": "El Cubo del Vino"
+      },
+      "father": "francisco-terron",
+      "mother": "angela-campo",
+      "marriages": [
+        {
+          "spouse": "juan-izquierdo-alcantara",
+          "date": "1761-09-13",
+          "place": "El Cubo del Vino"
+        }
+      ]
     },
     {
       "id": "alonso-de-las-heras-pozo",
-      "name": "Alonso de las Heras",
+      "name": "Alonso de las Heras Pozo",
       "givenNames": "Alonso",
       "surnames": [
-        "de las Heras"
+        "de las Heras",
+        "Pozo"
       ],
-      "origins": [
-        "Fadón"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1769-09-24",
+        "place": "Fadón"
+      },
+      "baptism": {
+        "date": "1769-10-01",
+        "place": "Fadón"
+      },
+      "death": {
+        "date": "1844-11-02",
+        "place": "Abelón"
+      },
+      "father": "miguel-de-las-heras",
+      "mother": "magdalena-pozo",
+      "marriages": [
+        {
+          "spouse": "monica-dominguez-martin",
+          "date": "1792-12-01",
+          "place": "Abelón"
+        }
+      ]
     },
     {
       "id": "monica-dominguez-martin",
-      "name": "Mónica Domínguez",
+      "name": "Mónica Domínguez Martín",
       "givenNames": "Mónica",
       "surnames": [
-        "Domínguez"
+        "Domínguez",
+        "Martín"
       ],
-      "origins": [
-        "Abelón"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1765-10-30",
+        "place": "Abelón"
+      },
+      "baptism": {
+        "date": "1765-11-09",
+        "place": "Abelón"
+      },
+      "death": {
+        "date": "1811-05-02",
+        "place": "Abelón"
+      },
+      "father": "manuel-dominguez",
+      "mother": "emerenciana-martin",
+      "marriages": [
+        {
+          "spouse": "alonso-de-las-heras-pozo",
+          "date": "1792-12-01",
+          "place": "Abelón"
+        }
+      ]
     },
     {
       "id": "atilano-pascual-villar",
-      "name": "Atilano Pascual",
+      "name": "Atilano Pascual Villar",
       "givenNames": "Atilano",
       "surnames": [
-        "Pascual"
+        "Pascual",
+        "Villar"
       ],
-      "origins": [
-        "Abelón"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1773-11-28",
+        "place": "Abelón"
+      },
+      "baptism": {
+        "date": "1773-12-01",
+        "place": "Abelón"
+      },
+      "death": {
+        "date": "1844-09-29",
+        "place": "Abelón"
+      },
+      "father": "manuel-pascual",
+      "mother": "josefa-villar",
+      "marriages": [
+        {
+          "spouse": "teresa-lorenzo-de-la-iglesia",
+          "place": "Abelón",
+          "date": "1793-11-23"
+        }
+      ]
     },
     {
       "id": "teresa-lorenzo-de-la-iglesia",
-      "name": "Teresa Lorenzo",
+      "name": "Teresa Lorenzo de la Iglesia",
       "givenNames": "Teresa",
       "surnames": [
-        "Lorenzo"
+        "Lorenzo",
+        "de la Iglesia"
       ],
-      "origins": [
-        "Villardiegua de la Ribera"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "place": "Villardiegua de la Ribera",
+        "note": "Nació antes de 1773, fecha en que comienza el primer libro conservado."
+      },
+      "death": {
+        "date": "1853-08-30",
+        "place": "Abelón"
+      },
+      "father": "juan-lorenzo",
+      "mother": "catalina-de-la-iglesia",
+      "marriages": [
+        {
+          "spouse": "atilano-pascual-villar",
+          "place": "Abelón",
+          "date": "1793-11-23"
+        }
+      ]
     },
     {
       "id": "bernardo-rabanal-fernandez",
-      "name": "Bernardo Rabanal",
+      "name": "Bernardo Rabanal Fernández",
       "givenNames": "Bernardo",
       "surnames": [
-        "Rabanal"
+        "Rabanal",
+        "Fernández"
       ],
-      "origins": [
-        "Villalpando"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1759-07-28",
+        "place": "Villalpando"
+      },
+      "baptism": {
+        "date": "1759-08-05",
+        "note": "Ntra. Sra. del Templo."
+      },
+      "death": {
+        "date": "1806-12-27",
+        "place": "Zamora",
+        "note": "Iglesia de S. Esteban."
+      },
+      "father": "matias-diez-rabanal",
+      "mother": "manuela-fernandez"
     },
     {
       "id": "vicenta-martinez-juarez",
-      "name": "Vicenta Martínez",
-      "givenNames": "Vicenta",
+      "name": "Manuela Vicenta Martínez Juárez",
+      "givenNames": "Manuela Vicenta",
       "surnames": [
-        "Martínez"
+        "Martínez",
+        "Juárez"
       ],
-      "origins": [
-        "Zamora"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1771-06-09",
+        "place": "Zamora"
+      },
+      "baptism": {
+        "date": "1771-07-13",
+        "note": "San Torcuato."
+      },
+      "death": {
+        "date": "1833-07-04",
+        "place": "Zamora",
+        "note": "Iglesia de San Esteban."
+      },
+      "father": "silvestre-martinez",
+      "mother": "andrea-juarez"
     },
     {
       "id": "gabriel-ibanez-perez",
-      "name": "Gabriel Ibáñez",
+      "name": "Gabriel Ibáñez Pérez",
       "givenNames": "Gabriel",
       "surnames": [
-        "Ibáñez"
+        "Ibáñez",
+        "Pérez"
       ],
-      "origins": [
-        "Zamora"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1758-01-11",
+        "place": "Zamora"
+      },
+      "baptism": {
+        "date": "1758-01-17",
+        "note": "S. Torcuato."
+      },
+      "death": {
+        "date": "1801-12-14",
+        "place": "Zamora",
+        "note": "S. Lázaro."
+      },
+      "father": "matias-ibanez",
+      "mother": "agustina-perez"
     },
     {
       "id": "manuela-martin-ampudia",
-      "name": "Manuela Martín",
+      "name": "Manuela Martín Ampudia",
       "givenNames": "Manuela",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Ampudia"
       ],
-      "origins": [
-        "Zamora"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1759-05-03",
+        "place": "Zamora"
+      },
+      "baptism": {
+        "date": "1759-05-13",
+        "note": "San Lázaro."
+      },
+      "death": {
+        "date": "1812-04-10",
+        "place": "Zamora",
+        "note": "S. Lázaro."
+      },
+      "father": "miguel-martin",
+      "mother": "feliciana-ampudia"
     },
     {
       "id": "diego-de-prada-delgado",
-      "name": "Diego de Prada",
+      "name": "Diego de Prada Delgado",
       "givenNames": "Diego",
       "surnames": [
-        "de Prada"
+        "de Prada",
+        "Delgado"
       ],
-      "origins": [
-        "Torrefrades"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1729-11-08",
+        "place": "Torrefrades"
+      },
+      "baptism": {
+        "date": "1729-11-14",
+        "place": "Torregamones"
+      },
+      "mother": "ines-delgado"
     },
     {
       "id": "isabel-sebastian-martin",
-      "name": "Isabel Sebastián",
+      "name": "Isabel Sebastián Martín",
       "givenNames": "Isabel",
       "surnames": [
-        "Sebastián"
+        "Sebastián",
+        "Martín"
       ],
-      "origins": [
-        "Villadepera"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1746-09-21",
+        "place": "Villadepera"
+      },
+      "baptism": {
+        "date": "1746-10-01",
+        "place": "Villadepera"
+      },
+      "father": "manuel-sebastian",
+      "mother": "teresa-martin"
     },
     {
       "id": "fernando-giron-fernandez",
@@ -2501,10 +3302,28 @@
         "Girón",
         "Fernández"
       ],
-      "origins": [
-        "Roales"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1771-10-05",
+        "place": "Roales"
+      },
+      "baptism": {
+        "date": "1771-10-12",
+        "place": "Roales"
+      },
+      "death": {
+        "date": "1832-03-26",
+        "place": "Tardobispo"
+      },
+      "father": "francisco-giron-martin",
+      "mother": "josefa-fernandez-de-la-pena",
+      "marriages": [
+        {
+          "spouse": "francisca-roncero-perez",
+          "date": "1793-04-10",
+          "place": "Tardobispo"
+        }
+      ]
     },
     {
       "id": "francisca-roncero-perez",
@@ -2514,58 +3333,1562 @@
         "Roncero",
         "Pérez"
       ],
-      "origins": [
-        "Tardobispo"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1771-03-11",
+        "place": "Tardobispo"
+      },
+      "baptism": {
+        "date": "1771-03-17",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "date": "1806-10-31",
+        "place": "Tardobispo"
+      },
+      "mother": "micaela-perez",
+      "marriages": [
+        {
+          "spouse": "fernando-giron-fernandez",
+          "date": "1793-04-10",
+          "place": "Tardobispo"
+        }
+      ]
     },
     {
       "id": "francisco-carretero-galan",
-      "name": "Francisco Carretero",
+      "name": "Francisco Carretero Galán",
       "givenNames": "Francisco",
       "surnames": [
-        "Carretero"
+        "Carretero",
+        "Galán"
       ],
-      "origins": [
-        "Peleas de Arriba"
-      ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1760-01-03",
+        "place": "Peleas de Arriba"
+      },
+      "baptism": {
+        "date": "1760-01-03",
+        "place": "Peleas de Arriba"
+      },
+      "father": "atilano-carretero",
+      "mother": "engracia-galan"
     },
     {
       "id": "maria-perez-matos",
+      "name": "María Pérez Matos",
+      "givenNames": "María",
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1761-12-08",
+        "place": "Peleas de Arriba"
+      },
+      "baptism": {
+        "date": "1761-12-15",
+        "place": "Peleas de Arriba"
+      },
+      "father": "juan-perez",
+      "mother": "catalina-matos"
+    },
+    {
+      "id": "pedro-bragado-macias",
+      "name": "Pedro Bragado Macías",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Bragado",
+        "Macías"
+      ],
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1757-01-10",
+        "place": "Peleas de Arriba"
+      },
+      "baptism": {
+        "date": "1757-01-16",
+        "place": "Peleas de Arriba"
+      },
+      "father": "francisco-bragado",
+      "mother": "angela-macias",
+      "marriages": [
+        {
+          "spouse": "eusebia-calabaza-perez",
+          "date": "1781-10-06",
+          "place": "Peleas de Arriba"
+        }
+      ]
+    },
+    {
+      "id": "eusebia-calabaza-perez",
+      "name": "Eusebia Calabaza Pérez",
+      "givenNames": "Eusebia",
+      "surnames": [
+        "Calabaza",
+        "Pérez"
+      ],
+      "source": "TATARABUELOS SEGUNDOS.docx · TATARABUELOS TERCEROS.docx",
+      "birth": {
+        "date": "1764-10-11",
+        "place": "Peleas de Arriba"
+      },
+      "baptism": {
+        "date": "1764-10-18",
+        "place": "Peleas de Arriba"
+      },
+      "father": "jeronimo-calabaza",
+      "mother": "baltasara-perez",
+      "marriages": [
+        {
+          "spouse": "pedro-bragado-macias",
+          "date": "1781-10-06",
+          "place": "Peleas de Arriba"
+        }
+      ]
+    },
+    {
+      "id": "bernardo-calvo",
+      "name": "Bernardo Calvo",
+      "givenNames": "Bernardo",
+      "surnames": [
+        "Calvo"
+      ],
+      "origins": [
+        "Venialbo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-perez",
       "name": "María Pérez",
       "givenNames": "María",
       "surnames": [
         "Pérez"
       ],
       "origins": [
-        "Peleas de Arriba"
+        "Villalazán"
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS TERCEROS.docx"
     },
     {
-      "id": "pedro-bragado-macias",
-      "name": "Pedro Bragado",
+      "id": "pedro-salvador",
+      "name": "Pedro Salvador",
       "givenNames": "Pedro",
+      "surnames": [
+        "Salvador"
+      ],
+      "origins": [
+        "Sanzoles"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-terron",
+      "name": "María Terrón",
+      "givenNames": "María",
+      "surnames": [
+        "Terrón"
+      ],
+      "origins": [
+        "Sanzoles"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-alonso",
+      "name": "Manuel Alonso",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Alonso"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "antonia-ufano",
+      "name": "Antonia Ufano",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Ufano"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "bernardo-alonso",
+      "name": "Bernardo Alonso",
+      "givenNames": "Bernardo",
+      "surnames": [
+        "Alonso"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "luisa-de-zamora",
+      "name": "Luisa de Zamora",
+      "givenNames": "Luisa",
+      "surnames": [
+        "de Zamora"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "diego-martin",
+      "name": "Diego Martín",
+      "givenNames": "Diego",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-avedillo",
+      "name": "María Avedillo",
+      "givenNames": "María",
+      "surnames": [
+        "Avedillo"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "luisa-martin",
+      "name": "Luisa Martín",
+      "givenNames": "Luisa",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-hernandez",
+      "name": "Francisco Hernández",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Hernández"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "teresa-gaitan",
+      "name": "Teresa Gaitán",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Gaitán"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "alonso-martin",
+      "name": "Alonso Martín",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jeronima-carrascal",
+      "name": "Jerónima Carrascal",
+      "givenNames": "Jerónima",
+      "surnames": [
+        "Carrascal"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-mendez",
+      "name": "Manuel Méndez",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Méndez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ana-ma-martin",
+      "name": "Ana Mª. Martín",
+      "givenNames": "Ana Mª.",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "juan-de-lera",
+      "name": "Juan de Lera",
+      "givenNames": "Juan",
+      "surnames": [
+        "de Lera"
+      ],
+      "origins": [
+        "Olleros de Tera"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ana-rodriguez",
+      "name": "Ana Rodríguez",
+      "givenNames": "Ana",
+      "surnames": [
+        "Rodríguez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "antonio-de-paz",
+      "name": "Antonio de Paz",
+      "givenNames": "Antonio",
+      "surnames": [
+        "de Paz"
+      ],
+      "origins": [
+        "Toro"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "josefa-carrasco",
+      "name": "Josefa Carrasco",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Carrasco"
+      ],
+      "origins": [
+        "Toro"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-perez",
+      "name": "Francisco Pérez",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "teresa-ponce",
+      "name": "Teresa Ponce",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Ponce"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "andres-maillo",
+      "name": "Andrés Maíllo",
+      "givenNames": "Andrés",
+      "surnames": [
+        "Maíllo"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "teodora-hernandez",
+      "name": "Teodora Hernández",
+      "givenNames": "Teodora",
+      "surnames": [
+        "Hernández"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "bernardo-rodriguez",
+      "name": "Bernardo Rodríguez",
+      "givenNames": "Bernardo",
+      "surnames": [
+        "Rodríguez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "emerenciana-garcia",
+      "name": "Emerenciana García",
+      "givenNames": "Emerenciana",
+      "surnames": [
+        "García"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jose-morales",
+      "name": "José Morales",
+      "givenNames": "José",
+      "surnames": [
+        "Morales"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ignacia-calvo",
+      "name": "Ignacia Calvo",
+      "givenNames": "Ignacia",
+      "surnames": [
+        "Calvo"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-valladolid",
+      "name": "Francisco Valladolid",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Valladolid"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "isabel-ocampo",
+      "name": "Isabel Ocampo",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Ocampo"
+      ],
+      "origins": [
+        "Pereruela"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-piorno",
+      "name": "Manuel Piorno",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Piorno"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "sebastiana-zurdo",
+      "name": "Sebastiana Zurdo",
+      "givenNames": "Sebastiana",
+      "surnames": [
+        "Zurdo"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "domingo-piorno",
+      "name": "Domingo Piorno",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Piorno"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "antonia-burrieza",
+      "name": "Antonia Burrieza",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Burrieza"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-vega",
+      "name": "Manuel Vega",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Vega"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ana-ma-vega",
+      "name": "Ana Mª. Vega",
+      "givenNames": "Ana Mª.",
+      "surnames": [
+        "Vega"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jose-fierro",
+      "name": "José Fierro",
+      "givenNames": "José",
+      "surnames": [
+        "Fierro"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "micaela-blanco",
+      "name": "Micaela Blanco",
+      "givenNames": "Micaela",
+      "surnames": [
+        "Blanco"
+      ],
+      "origins": [
+        "Fresnadillo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "juan-tuda",
+      "name": "Juan Tuda",
+      "givenNames": "Juan",
+      "surnames": [
+        "Tuda"
+      ],
+      "origins": [
+        "Malillos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "margarita-pereruela",
+      "name": "Margarita Pereruela",
+      "givenNames": "Margarita",
+      "surnames": [
+        "Pereruela"
+      ],
+      "origins": [
+        "Malillos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "antonio-porras",
+      "name": "Antonio Porras",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Porras"
+      ],
+      "origins": [
+        "Moral de Sayago"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "magdalena-gonzalo",
+      "name": "Magdalena Gonzalo",
+      "givenNames": "Magdalena",
+      "surnames": [
+        "Gonzalo"
+      ],
+      "origins": [
+        "Sogo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "lorenzo-feltrero",
+      "name": "Lorenzo Feltrero",
+      "givenNames": "Lorenzo",
+      "surnames": [
+        "Feltrero"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-esteban",
+      "name": "María Esteban",
+      "givenNames": "María",
+      "surnames": [
+        "Esteban"
+      ],
+      "origins": [
+        "Piñuel"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "juan-gonzalo",
+      "name": "Juan Gonzalo",
+      "givenNames": "Juan",
+      "surnames": [
+        "Gonzalo"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "josefa-barrocal",
+      "name": "Josefa Barrocal",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Barrocal"
+      ],
+      "origins": [
+        "Fresnadillo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "domingo-santiago",
+      "name": "Domingo Santiago",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Santiago"
+      ],
+      "origins": [
+        "Moral de Sayago"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "teresa-garrote",
+      "name": "Teresa Garrote",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "pedro-garrote",
+      "name": "Pedro Garrote",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuela-garrido",
+      "name": "Manuela Garrido",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Garrido"
+      ],
+      "origins": [
+        "Villardiegua de la Ribera"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "pascual-garrote",
+      "name": "Pascual Garrote",
+      "givenNames": "Pascual",
+      "surnames": [
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-garrote",
+      "name": "María Garrote",
+      "givenNames": "María",
+      "surnames": [
+        "Garrote"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jose-anton",
+      "name": "José Antón",
+      "givenNames": "José",
+      "surnames": [
+        "Antón"
+      ],
+      "origins": [
+        "Fresnadillo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuela-figal",
+      "name": "Manuela Figal",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Figal"
+      ],
+      "origins": [
+        "Fresnadillo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "domingo-sastre",
+      "name": "Domingo Sastre",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Sastre"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "agueda-gonzalo",
+      "name": "Águeda Gonzalo",
+      "givenNames": "Águeda",
+      "surnames": [
+        "Gonzalo"
+      ],
+      "origins": [
+        "Gáname"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-sastre",
+      "name": "Francisco Sastre",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Sastre"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ana-delgado",
+      "name": "Ana Delgado",
+      "givenNames": "Ana",
+      "surnames": [
+        "Delgado"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "roque-esteban",
+      "name": "Roque Esteban",
+      "givenNames": "Roque",
+      "surnames": [
+        "Esteban"
+      ],
+      "origins": [
+        "Villamor de la Ladre"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "catalina-prieto",
+      "name": "Catalina Prieto",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Prieto"
+      ],
+      "origins": [
+        "Villamor de la Ladre"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "miguel-vega",
+      "name": "Miguel Vega",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Vega"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "barbara-zurdo",
+      "name": "Bárbara Zurdo",
+      "givenNames": "Bárbara",
+      "surnames": [
+        "Zurdo"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "baltasar-brioso",
+      "name": "Baltasar Brioso",
+      "givenNames": "Baltasar",
+      "surnames": [
+        "Brioso"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "esteban-martin",
+      "name": "Esteban Martín",
+      "givenNames": "Esteban",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-marques",
+      "name": "María Marqués",
+      "givenNames": "María",
+      "surnames": [
+        "Marqués"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "nicolas-alonso",
+      "name": "Nicolás Alonso",
+      "givenNames": "Nicolás",
+      "surnames": [
+        "Alonso"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "luis-delgado",
+      "name": "Luis Delgado",
+      "givenNames": "Luis",
+      "surnames": [
+        "Delgado"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "josefa-ramos",
+      "name": "Josefa Ramos",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Ramos"
+      ],
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-de-mena",
+      "name": "Francisco de Mena",
+      "givenNames": "Francisco",
+      "surnames": [
+        "de Mena"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ines-roman",
+      "name": "Inés Román",
+      "givenNames": "Inés",
+      "surnames": [
+        "Román"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "vicente-martin",
+      "name": "Vicente Martín",
+      "givenNames": "Vicente",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Pontejos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jeronima-perez",
+      "name": "Jerónima Pérez",
+      "givenNames": "Jerónima",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Morales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "felix-santamaria",
+      "name": "Félix Santamaría",
+      "givenNames": "Félix",
+      "surnames": [
+        "Santamaría"
+      ],
+      "origins": [
+        "San Marcial"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "isabel-puertas",
+      "name": "Isabel Puertas",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Puertas"
+      ],
+      "origins": [
+        "San Marcial"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "felix-ramos",
+      "name": "Félix Ramos",
+      "givenNames": "Félix",
+      "surnames": [
+        "Ramos"
+      ],
+      "origins": [
+        "Pereruela"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-martin",
+      "name": "María Martín",
+      "givenNames": "María",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Pontejos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-perez",
+      "name": "Manuel Pérez",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "angela-miguel",
+      "name": "Ángela Miguel",
+      "givenNames": "Ángela",
+      "surnames": [
+        "Miguel"
+      ],
+      "origins": [
+        "La Tuda"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "dorotea-hernandez",
+      "name": "Dorotea Hernández",
+      "givenNames": "Dorotea",
+      "surnames": [
+        "Hernández"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jose-giron",
+      "name": "José Girón",
+      "givenNames": "José",
+      "surnames": [
+        "Girón"
+      ],
+      "origins": [
+        "Roales"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ines-martin",
+      "name": "Inés Martín",
+      "givenNames": "Inés",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Roales"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jose-fernandez",
+      "name": "José Fernández",
+      "givenNames": "José",
+      "surnames": [
+        "Fernández"
+      ],
+      "origins": [
+        "Muga de Alba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-de-la-pena",
+      "name": "María de la Peña",
+      "givenNames": "María",
+      "surnames": [
+        "de la Peña"
+      ],
+      "origins": [
+        "Muga de Alba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "santiago-sanchez",
+      "name": "Santiago Sánchez",
+      "givenNames": "Santiago",
+      "surnames": [
+        "Sánchez"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "maria-misol",
+      "name": "María Misol",
+      "givenNames": "María",
+      "surnames": [
+        "Misol"
+      ],
+      "origins": [
+        "Morales de Toro"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "pedro-duran",
+      "name": "Pedro Durán",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Durán"
+      ],
+      "origins": [
+        "Fuentesaúco"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "agustina-hernandez",
+      "name": "Agustina Hernández",
+      "givenNames": "Agustina",
+      "surnames": [
+        "Hernández"
+      ],
+      "origins": [
+        "Fuentesaúco"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "miguel-izquierdo",
+      "name": "Miguel Izquierdo",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Izquierdo"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "antonia-alcantara",
+      "name": "Antonia Alcántara",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Alcántara"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-terron",
+      "name": "Francisco Terrón",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Terrón"
+      ],
+      "origins": [
+        "El Cubo del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "angela-campo",
+      "name": "Ángela Campo",
+      "givenNames": "Ángela",
+      "surnames": [
+        "Campo"
+      ],
+      "origins": [
+        "Cabañas de Sayago"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "miguel-de-las-heras",
+      "name": "Miguel de las Heras",
+      "givenNames": "Miguel",
+      "surnames": [
+        "de las Heras"
+      ],
+      "origins": [
+        "Sogo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "magdalena-pozo",
+      "name": "Magdalena Pozo",
+      "givenNames": "Magdalena",
+      "surnames": [
+        "Pozo"
+      ],
+      "origins": [
+        "Fadón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-dominguez",
+      "name": "Manuel Domínguez",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Domínguez"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "emerenciana-martin",
+      "name": "Emerenciana Martín",
+      "givenNames": "Emerenciana",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-pascual",
+      "name": "Manuel Pascual",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Pascual"
+      ],
+      "origins": [
+        "Torregamones"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "josefa-villar",
+      "name": "Josefa Villar",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Villar"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "juan-lorenzo",
+      "name": "Juan Lorenzo",
+      "givenNames": "Juan",
+      "surnames": [
+        "Lorenzo"
+      ],
+      "origins": [
+        "Villardiegua de la Ribera"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "catalina-de-la-iglesia",
+      "name": "Catalina de la Iglesia",
+      "givenNames": "Catalina",
+      "surnames": [
+        "de la Iglesia"
+      ],
+      "origins": [
+        "Moralina"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "matias-diez-rabanal",
+      "name": "Matías Díez Rabanal",
+      "givenNames": "Matías",
+      "surnames": [
+        "Díez",
+        "Rabanal"
+      ],
+      "origins": [
+        "Villalobos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuela-fernandez",
+      "name": "Manuela Fernández",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Fernández"
+      ],
+      "origins": [
+        "Villalobos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "silvestre-martinez",
+      "name": "Silvestre Martínez",
+      "givenNames": "Silvestre",
+      "surnames": [
+        "Martínez"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "andrea-juarez",
+      "name": "Andrea Juárez",
+      "givenNames": "Andrea",
+      "surnames": [
+        "Juárez"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "matias-ibanez",
+      "name": "Matías Ibáñez",
+      "givenNames": "Matías",
+      "surnames": [
+        "Ibáñez"
+      ],
+      "origins": [
+        "Viana do Bolo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "agustina-perez",
+      "name": "Agustina Pérez",
+      "givenNames": "Agustina",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "San Pedro de Trasverea"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "miguel-martin",
+      "name": "Miguel Martín",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Zamora"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "feliciana-ampudia",
+      "name": "Feliciana Ampudia",
+      "givenNames": "Feliciana",
+      "surnames": [
+        "Ampudia"
+      ],
+      "origins": [
+        "Vegalatrave"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "ines-delgado",
+      "name": "Inés Delgado",
+      "givenNames": "Inés",
+      "surnames": [
+        "Delgado"
+      ],
+      "origins": [
+        "Villamor de Cadozos"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "manuel-sebastian",
+      "name": "Manuel Sebastián",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Sebastián"
+      ],
+      "origins": [
+        "Villadepera"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "teresa-martin",
+      "name": "Teresa Martín",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Villadepera"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "micaela-perez",
+      "name": "Micaela Pérez",
+      "givenNames": "Micaela",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "atilano-carretero",
+      "name": "Atilano Carretero",
+      "givenNames": "Atilano",
+      "surnames": [
+        "Carretero"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "engracia-galan",
+      "name": "Engracia Galán",
+      "givenNames": "Engracia",
+      "surnames": [
+        "Galán"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "juan-perez",
+      "name": "Juan Pérez",
+      "givenNames": "Juan",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "catalina-matos",
+      "name": "Catalina Matos",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Matos"
+      ],
+      "origins": [
+        "Villanueva de Campeán"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "francisco-bragado",
+      "name": "Francisco Bragado",
+      "givenNames": "Francisco",
       "surnames": [
         "Bragado"
       ],
       "origins": [
         "Peleas de Arriba"
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS TERCEROS.docx"
     },
     {
-      "id": "eusebia-calabaza-perez",
-      "name": "Eusebia Calabaza",
-      "givenNames": "Eusebia",
+      "id": "angela-macias",
+      "name": "Ángela Macías",
+      "givenNames": "Ángela",
+      "surnames": [
+        "Macías"
+      ],
+      "origins": [
+        "Corrales del Vino"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "jeronimo-calabaza",
+      "name": "Jerónimo Calabaza",
+      "givenNames": "Jerónimo",
       "surnames": [
         "Calabaza"
       ],
       "origins": [
         "Peleas de Arriba"
       ],
-      "source": "TATARABUELOS SEGUNDOS.docx"
+      "source": "TATARABUELOS TERCEROS.docx"
+    },
+    {
+      "id": "baltasara-perez",
+      "name": "Baltasara Pérez",
+      "givenNames": "Baltasara",
+      "surnames": [
+        "Pérez"
+      ],
+      "origins": [
+        "Peleas de Arriba"
+      ],
+      "source": "TATARABUELOS TERCEROS.docx"
     }
   ]
 }
