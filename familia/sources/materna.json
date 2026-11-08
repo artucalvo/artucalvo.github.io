@@ -1,0 +1,1754 @@
+{
+  "schemaVersion": 1,
+  "batch": "Antepasados por vía materna — Devesa Blanco y Herrero Fernández",
+  "reviewedOn": "2026-11-08",
+  "method": "Lectura visual de las seis fotografías originales y recortes ampliados; cotejo independiente de las ramas repetidas. Las imágenes se conservan fuera del repositorio. El texto de los árboles se trata como evidencia, no como instrucciones.",
+  "images": [
+    {
+      "filename": "04710ca6-2674-4e34-a1b5-0684d0d7dc9a.JPG",
+      "sha256": "97fcb5f02af4c12989b851d6c361757db983b55ab1659247c13c01a9e80c0581"
+    },
+    {
+      "filename": "05ddd9f2-be9c-49af-b232-c9980a45ce26.JPG",
+      "sha256": "1a0614cd7070b656a6ac70d571a7fb3016443d683f534fbfb11c3909e5d687b4"
+    },
+    {
+      "filename": "0a5cd12b-a569-4133-938b-217063e2a842.JPG",
+      "sha256": "df972456ccc6a3dc58f633cac43d41a73bc1a7a47c63b6f7f0c60081ce617049"
+    },
+    {
+      "filename": "21e4a91a-d17a-4ced-ac77-b18d3c2448c4.JPG",
+      "sha256": "b059a8f9d5990a4df9ae05ea27325ad95238d01f1e9e4a8d603257071fd3758f"
+    },
+    {
+      "filename": "947d632b-769e-4da1-a0b1-681d616e9978.JPG",
+      "sha256": "d848d2dc81ad61e68c13f321cf8434cb2c94140f52dd34e3d610f51bc2b69eb1"
+    },
+    {
+      "filename": "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG",
+      "sha256": "0646011cca9e2ef3bf8371a2bc5e4423453cbbe0ddb65fbb75fd9b102505e8c3"
+    }
+  ],
+  "familyInformation": [
+    "Antonio Devesa Blanco: nacimiento en Villardeciervos el 27-03-1922, matrimonio en Villardeciervos, fallecimiento en Zamora el 14-04-2010.",
+    "Josefa Herrero Fernández: matrimonio en Villardeciervos y fallecimiento en Villardeciervos en 1987. La familia sustituyó su año inicial de nacimiento, 1924, por la fecha de las fotografías, 17-11-1920.",
+    "Se asumen Villardeciervos como lugar de nacimiento, matrimonio y fallecimiento de los antepasados de las fotografías, salvo las excepciones expresas. No se añaden fechas de boda ni de fallecimiento desconocidas.",
+    "La familia confirmó que Cional y Valdemerilla se interpretan como lugares de nacimiento y que se mantiene Villardeciervos como lugar supuesto de matrimonio y fallecimiento.",
+    "La familia confirmó la fecha de nacimiento de Teresa Cuesta Unzueta: 26-05-1858."
+  ],
+  "interpretation": [
+    "Las fechas únicas junto a nombres no tienen encabezado de evento. Se interpretan como nacimientos por su posición y coherencia generacional; no se crean bautismos a partir de ellas.",
+    "Los trazos de pareja y descendencia se transcriben como padre y madre. Por la convención familiar existente se registran matrimonios de esos progenitores, con Villardeciervos como lugar supuesto.",
+    "Tirso Romero y Tirso Romero Santiago comparten la esposa María Romero Rodríguez en las fotografías: se reúnen como una pareja, padres de Josefa y Dominga Romero Romero.",
+    "No se reúnen automáticamente personas homónimas cuyos cónyuges o padres completos no se pueden cotejar. Los posibles duplicados se describen en pending.",
+    "Se conservan las grafías Botillo en María Ramos y Josefa Martínez según la fotografía enfocada 05ddd, y Bobillo en Felipa según 947 y e5. No se fuerza la coincidencia de apellidos de madres e hijos.",
+    "Se usa Francisco Junquera y María Baladrón según 05ddd, más nítida que e5; sus lecturas iniciales Timoteo/Beltrán en e5 no se consideran personas adicionales.",
+    "Se conserva Unzueta en la rama; Manuel aparece con grafía reducida Unzeta en las fotografías. Baldón se conserva para Francisco Fernández; no se iguala al Baladrón de María.",
+    "El Cional agrupado con Domingo de la Cuesta y María Ferreras se aplica a ambos, además de la mención separada de Lorenzo. Valdemerilla se aplica a Juan y Pedro Palmero; no se extiende a Francisca Gallego.",
+    "No se crean bodas sin cónyuge para los antepasados más antiguos sin pareja nombrada."
+  ],
+  "pending": [
+    {
+      "people": [
+        "antonio-devesa-blanco"
+      ],
+      "readings": {
+        "family": "27-03-1922",
+        "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG": "04-05-1922 o lectura próxima"
+      },
+      "decision": "Se conserva la fecha expresa de la familia. La corrección posterior de la familia se refiere únicamente a Josefa."
+    },
+    {
+      "people": [
+        "desiderio-devesa-romero"
+      ],
+      "readings": {
+        "05ddd9f2-be9c-49af-b232-c9980a45ce26.JPG": "19-04-1844",
+        "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG": "13-04-1844"
+      },
+      "decision": "Se incorpora únicamente abril de 1844, común a ambas lecturas; día pendiente."
+    },
+    {
+      "people": [
+        "josefa-junquera-martinez"
+      ],
+      "readings": {
+        "05ddd9f2-be9c-49af-b232-c9980a45ce26.JPG": "20-12-1833",
+        "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG": "20-12-1853"
+      },
+      "decision": "Nacimiento sin fecha hasta aclarar el año. No se corrige 1833 por coherencia con la edad del padre."
+    },
+    {
+      "people": [
+        "maria-roman"
+      ],
+      "readings": [
+        "María Román Corado",
+        "María Román Canedo"
+      ],
+      "decision": "Se incorpora María Román sin segundo apellido dudoso."
+    },
+    {
+      "people": [
+        "manuela-ferreras-santiago"
+      ],
+      "readings": {
+        "947d632b-769e-4da1-a0b1-681d616e9978.JPG": "Manuela Ferreras Santiago",
+        "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG": "María Ferreras Santiago"
+      },
+      "decision": "Se usa la lectura Manuela de la fotografía enfocada; no se crea otra madre ni se fuerza una identidad distinta."
+    },
+    {
+      "people": [
+        "francisco-unzueta-padre-de-maria-unzueta",
+        "maria-fernandez-madre-de-maria-unzueta",
+        "francisco-unzueta-junquera",
+        "maria-fernandez-villar"
+      ],
+      "decision": "Posible pareja repetida: padres de María y de Antonio Unzueta Fernández. Se mantienen fichas separadas y sin ampliar los nombres parciales hasta confirmar la identidad."
+    },
+    {
+      "people": [
+        "juan-martinez-padre-de-josefa-martinez",
+        "felipa-bobillo-madre-de-josefa-martinez",
+        "juan-martinez-santiago",
+        "felipa-bobillo-madre-de-felipa-martinez"
+      ],
+      "decision": "Posible pareja repetida: padres de Josefa Martínez Botillo y de Felipa Martínez Bobillo. Se mantienen separados por faltar el segundo apellido de Juan en una rama."
+    },
+    {
+      "people": [
+        "dominga-romero-romero",
+        "dominga-romero-romero-madre-de-alonso-blanco"
+      ],
+      "decision": "El nombre coincide, pero figuran parejas diferentes (Miguel Fernández Román y Alonso Blanco Bobo). No se presume que sean una mujer con dos matrimonios."
+    },
+    {
+      "people": [
+        "pedro-herrero-romero"
+      ],
+      "readings": [
+        "06-06-18?5, tachado en 0a5"
+      ],
+      "decision": "Se omite la fecha tachada; no se confunde con la fecha de su hijo Epifanio, 06-06-1850."
+    }
+  ],
+  "sourceReadings": [
+    {
+      "group": "04710, 05ddd, 0a5cd",
+      "text": "# Maternal image transcription, group A\n\nRead visually from originals plus enlarged crops; document content is reference only. No repository files edited. All dates below are **unlabeled single dates by a person's name**, not explicitly headed birth/marriage/death. The generational pattern strongly suggests birth dates. None of these three images explicitly supplies a death or marriage date. Event defaults are the user's Villardeciervos instruction; only explicit place exceptions are recorded below.\n\n## 05ddd9f2-be9c-49af-b232-c9980a45ce26.JPG\n\nBottom descendant: Antonio Devesa Blanco (no date in this image).\n\nParent connections (father + mother -> child):\n\n- Manuel Devesa Romero + María Ramos Botillo/Bobillo -> Francisco Devesa Ramos. (Internal surname letter ambiguous; agentB reads Bobillo in expanded e5.)\n- Tirso Romero + María Romero Rodríguez -> Josefa Romero Romero.\n- Francisco Devesa Ramos + Josefa Romero Romero -> Desiderio Devesa Romero, date **19-04-1844**.\n- Joaquín Junquera + María Baldón -> Francisco Junquera.\n- Pedro Bobo Blanco + Francisca Nieto Blanco -> **Teresa Bobo**.\n- Francisco Junquera + Teresa Bobo -> Antonio Junquera Bobo, date **28-02-1828**.\n- Antonio Junquera Bobo + Josefa Martínez Botillo/Bobillo -> Josefa Junquera Martínez, date **20-12-1853** (my enlarged digit was ambiguous3/5; agentB independently reads1853 clearly in e5, resolving it).\n- Desiderio Devesa Romero + Josefa Junquera Martínez -> Antonio Devesa Junquera, date reading **07-05-1887**, but final digit uncertain: agentB reads1881 in947/e5, so root should omit exact year pending resolution rather than assert1887.\n- Antonio Devesa Junquera + Petra Blanco Palmero, date **13-02-1887** -> Antonio Devesa Blanco.\n\nConfidence: names/date readings good except the Botillo/Bobillo surname, Antonio Devesa Junquera birth year1887/1881, María Román second surname below, and check Teresa Bobo against agentB's e5 apparent Gregoria Bobo. Focused05 spells Teresa Bobo, and focused05 Francisca Nieto Blanco is clear. No place exceptions.\n\n## 04710ca6-2674-4e34-a1b5-0684d0d7dc9a.JPG\n\nBottom descendant: Josefa Herrero Fernández (no date in this image).\n\n- Francisco Fernández Baldón + Francisca Román Rodríguez -> Miguel Fernández Román.\n- Tirso Romero Santiago + María Romero Rodríguez -> Dominga Romero Romero. A previous name under Dominga is crossed out; do not add it as another person/alias.\n- Miguel Fernández Román + Dominga Romero Romero -> Francisco Fernández Romero, date **14-02-1826**.\n- Juan Romero Pérez + Manuela Devesa Santiago -> María Romero Devesa.\n- Francisco Fernández Romero + María Romero Devesa -> Antonio Fernández Romero, date **26-02-1861**.\n- Manuel Unzeta / Unzueta + Manuela Junquera -> Francisco Unzueta Junquera.\n- Manuel Fernández + María Villar -> María Fernández Villar.\n- Francisco Unzueta Junquera + María Fernández Villar -> Antonio Unzueta Fernández, date **09-12-1832**.\n- Tirso Fernández Román + Catalina Román Conde -> Dominga Fernández Román, date **03-06-1837**.\n- Antonio Unzueta Fernández + Dominga Fernández Román -> Josefa Unzueta Fernández, date **07-08-1868**.\n- Antonio Fernández Romero + Josefa Unzueta Fernández -> Adelina Fernández Unzueta, date **24-04-1900**.\n- Epifanio Herrero Cuesta, date **23-09-1890** + Adelina Fernández Unzueta -> Josefa Herrero Fernández.\n\nSurname note: handwriting most consistently reads **Unzueta** on descendants, with reduced **Unzeta** for Manuel in both images. Agent B also independently favors Unzueta. Earlier visual interpretations Urzeta/Urzueta/Uzqueta should not be treated as additional identities. Baldón is reasonably clear after comparing María Baldón in05. No place exceptions in047.\n\n## 0a5cd12b-a569-4133-938b-217063e2a842.JPG\n\nExpanded maternal grandmother tree, corroborates047 and adds Herrero/Cuesta side.\n\n- Manuel Herrero + María Romero -> Pedro Herrero Romero. A date **06-06-18?5** beneath Pedro is crossed out; **do not use it**. In particular do not interpret unclear crossed-out last digits as1875 (would make him younger than son1850).\n- Pascual de Vega + María Román Corado [second surname somewhat uncertain; image resembles **Corado**, agentB checking21e] -> Felipa Vega Román.\n- Pedro Herrero Romero + Felipa Vega Román -> Epifanio Herrero Vega, date **06-06-1850**.\n- Domingo de la Cuesta + María Ferreras -> Lorenzo Cuesta Herrero. A **Cional** annotation is between Domingo and María, with short lines/slashes to each. Lorenzo separately has **(Cional)**. Do not silently rewrite María Ferreras to Herrero simply because child's surname differs.\n- Francisco Unzueta + María Fernández -> María Unzueta Fernández.\n- Lorenzo Cuesta Herrero + María Unzueta Fernández -> Teresa Cuesta Unzueta, date **26-05-1858** (1858 clear; agentB confirms21e1858 too).\n- Epifanio Herrero Vega + Teresa Cuesta Unzueta -> Epifanio Herrero Cuesta, date **23-09-1890**.\n- Epifanio Herrero Cuesta + Adelina Fernández Unzueta, date **24-04-1900** -> Josefa Herrero Fernández, date **17-11-1920**. Parent relayed latest user correction: this photo date is correct, replacing initial user1924.\n\nAlso repeats the following from047:\n\n- Francisco Fernández Baldón + Francisca Román Rodríguez -> Miguel Fernández Román.\n- Tirso Romero Santiago + María Romero Rodríguez -> Dominga Romero Romero.\n- Miguel Fernández Román + Dominga Romero Romero -> Francisco Fernández Romero, date14-02-1826. (Last digit less clear in0a5 than047.)\n- Juan Romero Pérez + Manuela Devesa Santiago -> María Romero Devesa.\n- Francisco Fernández Romero + María Romero Devesa -> Antonio Fernández Romero, date26-02-1861.\n- Manuel Unzeta / Unzueta + Manuela Junquera -> Francisco Unzueta Junquera.\n- Manuel Fernández + María Villar -> María Fernández Villar.\n- Francisco Unzueta Junquera + María Fernández Villar -> Antonio Unzueta Fernández, date09-12-1832.\n- Tirso Fernández Román + Catalina Román Conde -> Dominga Fernández Román, date03-06-1837.\n- Antonio Unzueta Fernández + Dominga Fernández Román -> Josefa Unzueta Fernández, date07-08-1868.\n- Antonio Fernández Romero + Josefa Unzueta Fernández -> Adelina Fernández Unzueta, date24-04-1900.\n\n## Overlap / identities to consider\n\n- Tirso Romero (05) and Tirso Romero Santiago (047/0a5) have same wifeMaría Romero Rodríguez, strongly supporting same couple, with daughtersJosefa Romero Romero(Devesa line) and Dominga Romero Romero(Fernández line).\n- Francisco Unzueta + María Fernández, parentsMaría Unzueta Fernández(0a5), have same partial names as Francisco Unzueta Junquera + María Fernández Villar, parentsAntonio Unzueta Fernández(047/0a5). Plausible same couple and therefore sibling relationshipMaria/Antonio, but this identity is an inference rather than explicitly supplied full names. Root should decide/log if merging; avoid fabricating certainty.\n- B's21e duplicates Herrero tree; B'se5 expands Devesa tree and contains most overlapping ancestors.\n- Cional is the only stated alternative place in my assigned images, associated with Domingo de la Cuesta, María Ferreras, and Lorenzo Cuesta Herrero. The labels do not explicitly say born/married/died; preserve them as place associations if uncertain.\n\nTemporary enlarged crops are at /tmp/04710-left.png, /tmp/04710-right.png, /tmp/05ddd-left.png, /tmp/05ddd-right.png, /tmp/0a5cd-left.png, /tmp/0a5cd-right.png, /tmp/0a5cd-upperleft.png, /tmp/0a5cd-upperright.png, /tmp/junquera-dates.png. Originals were not modified.\n\nLatest cross-check with agentB: his21e crop reads María Román Canedo; my0a5 resemblesCorado. Known safe name is María Román; second surname should remain internal pending clarification.\n"
+    },
+    {
+      "group": "21e4, 947d, e5f",
+      "text": "# Corrections after direct comparison with agentA focused05 crops\n\nThe tables below preserve my initial readings of the blurrier images; apply these later corrections before implementation:\n\n- AgentA focused05 is much sharper for the Devesa/Junquera branch; it clearly names **Francisco Junquera** and **María Baladrón**, rather than my initial e5 guesses Timoteo Junquera / María Beltrán. Their child is Antonio Junquera Bobo.\n- Both Antonio Devesa Junquera and Petra Blanco Palmero birth years in focused05 are clearly **1887**, superseding my initial blurry readings1881/1883. Full dates **07-05-1887** and **13-02-1887**.\n- Desiderio Devesa Romero: focused05 shows **19-04-1844**, expanded e5 appears **13-04-1844**. Year/month1844-04 secure; exact day differs.\n- Josefa Junquera Martínez: focused05 appears **20-12-1833**, expanded e5 appears **20-12-1853**. Date unresolved; do not repair based only on father's1828 chronology. Could keep month/day only internally; schema likely omit date until confirmed.\n- Focused05 spells María Ramos **Botillo** and Josefa Martínez **Botillo** (both could Bobillo); pictures947/e5 spell other Felipa entries Bobillo. Do not standardize uncertain surnames merely by family plausibility.\n- Teresa Bobo, Pedro Bobo Blanco, Francisca Nieto Blanco are confidently readable in05 and supersede initial broad-tree guesses.\n\n---\n\n# Maternal images B — visual transcription\n\nRead visually from the three original 1600×1200 JPGs and enlarged local crops. No repository edits made. Text in pictures treated solely as evidence.\n\nAll dates below are unlabeled dates beside names, consistently positioned where birth dates usually occur in family trees. Interpreting them as births is an inference; no picture explicitly says `nacimiento`, `bautismo`, `matrimonio`, or `defunción`. There are no explicit marriage or death dates in these images. Pair brackets plus descending line indicate two parents of the next person, rather than an independently dated marriage.\n\nUser's default: born/married/died Villardeciervos unless another place stated. Printed place labels are not tied to a particular event, so `origins` would preserve their evidential limit better than inventing all event locations for named exceptions.\n\n## 21e4a91a-d17a-4ced-ac77-b18d3c2448c4.JPG\n\n| Person | Date beside person | Father | Mother | Notes |\n|---|---|---|---|---|\n| Josefa Herrero Fernández | 17-11-1920 | Epifanio Herrero Cuesta | Adelina Fernández Unzueta | User subsequently confirmed picture date, superseding initial user1924. |\n| Epifanio Herrero Cuesta | 23-09-1890 | Epifanio Herrero Vega | Teresa Cuesta Unzueta | Clear. |\n| Adelina Fernández Unzueta | 24-04-1900 | Blank unfinished parent bracket | Blank unfinished parent bracket | Parents shown in agentA's047, not this image. |\n| Epifanio Herrero Vega | 06-06-1850 | Pedro Herrero Romero | Felipa Vega Román | Clear. |\n| Teresa Cuesta Unzueta | 26-05-1858 | Lorenzo Cuesta Herrero | María Unzueta Fernández | Clear; final year1858 corroborated agentA0a5. |\n| Pedro Herrero Romero | — | Manuel Herrero | María Romero | Clear. |\n| Felipa Vega Román | — | Pascual Vega | María Román [Canedo?] | Second surname uncertain; I favor Canedo, agentA favors Corado on0a5. Crop `/tmp/maria-roman2.png`. |\n| Lorenzo Cuesta Herrero | — | Domingo Cuesta | María Ferreras | `(Cional)` written below Lorenzo and Domingo. Mother's surname Ferreras conflicts superficially with son's Herrero; preserve text, do not alter names to fit. |\n| María Unzueta Fernández | — | Francisco Unzueta | María Fernández | Clear. |\n| Manuel Herrero | — | — | — | Clear. |\n| María Romero | — | — | — | Clear. |\n| Pascual Vega | — | — | — | AgentA0a5 has Pascual de Vega. |\n| María Román [Canedo?] | — | — | — | Second surname uncertain; keep María Román if not resolved. |\n| Domingo Cuesta | — | — | — | `(Cional)` beneath; agentA0a5 gives Domingo de la Cuesta. |\n| María Ferreras | — | — | — | No place directly below her in21e; agentA0a5 apparently brackets Cional across couple. |\n| Francisco Unzueta | — | — | — | Clear. |\n| María Fernández | — | — | — | Clear. |\n\n## 947d632b-769e-4da1-a0b1-681d616e9978.JPG\n\n| Person | Date beside person | Father | Mother | Notes |\n|---|---|---|---|---|\n| Antonio Devesa Blanco | — | Antonio Devesa Junquera | Petra Blanco Palmero | Clear. |\n| Antonio Devesa Junquera | 07-05-1881 (best reading) | — | — | Parents in e5/agentA05. |\n| Petra Blanco Palmero | 13-02-1883 (best reading) | Antonio Blanco Vega | Petra Palmero Martínez | Clear relation; date corroborated e5. |\n| Antonio Blanco Vega | 16-05-1849 | Alonso Blanco Romero | Catalina Vega Ferreras | Clear. |\n| Petra Palmero Martínez | 19-04-1851 | Pedro Palmero | Felipa Martínez Bobillo | Last1 is narrow adjacent upward arrow; both947 ande5 favor1851, not1855. Crop `/tmp/947d632b-769e-4da1-a0b1-681d616e9978-petra1.png`. |\n| Alonso Blanco Romero | — | Alonso Blanco Bobo | Dominga Romero Romero | Clear. |\n| Catalina Vega Ferreras | — | Pedro Vega Román | Manuela Ferreras Santiago | Focused947 reads Manuela; e5 broad sketch appears María Ferreras Santiago. Preserve detailed focused reading but record variant. |\n| Pedro Palmero | — | Juan Palmero | Francisca Gallego | `(Valdemerilla)` below Pedro. |\n| Felipa Martínez Bobillo | — | Juan Martínez Santiago | Felipa Bobillo | Bobillo more likely than Badillo/Bodillo; repeated e5. |\n| Alonso Blanco Bobo | — | — | — | Clear. |\n| Dominga Romero Romero | — | — | — | Clear; feminine Dominga. |\n| Pedro Vega Román | — | — | — | e5 has Pedro de Vega Román. |\n| Manuela Ferreras Santiago | — | — | — | e5 appears María Ferreras Santiago instead; source variant, not independently distinct person. |\n| Juan Palmero | — | — | — | `(Valdemerilla)` beneath bracket; safest to assign directly to Juan, not automatically Francisca. |\n| Francisca Gallego | — | — | — | No direct place under her name in947. |\n| Juan Martínez Santiago | — | — | — | Clear. |\n| Felipa Bobillo | — | — | — | Clear. Could be same Felipa Bobillo elsewhere but do not merge merely on name. |\n\n## e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG\n\nExpanded Devesa/Blanco tree overlaps947 and agentA05. All relationships below are explicit connecting strokes.\n\n| Child | Father | Mother | Date beside child / comments |\n|---|---|---|---|\n| Antonio Devesa Blanco | Antonio Devesa Junquera | Petra Blanco Palmero | Date appears04-05-1922 or similar; it conflicts with user's explicit27-03-1922. Preserve user27-03-1922, log contrast internally. |\n| Antonio Devesa Junquera | Desiderio Devesa Romero | Josefa Junquera Martínez | Corrected date07-05-1881 under crossed-out prior entry. |\n| Petra Blanco Palmero | Antonio Blanco Vega | Petra Palmero Martínez | 13-02-1883 |\n| Desiderio Devesa Romero | Francisco Devesa Ramos | Josefa Romero Romero | 13-04-1844 |\n| Josefa Junquera Martínez | Antonio Junquera Bobo | Josefa Martínez | 20-12-1853. Magnified crop favors1853 clearly; agentA05 had uncertainty1833 vs1853. |\n| Antonio Blanco Vega | Alonso Blanco Romero | Catalina Vega Ferreras | 16-05-1849 |\n| Petra Palmero Martínez | Pedro Palmero | Felipa Martínez Bobillo | 19-04-1851 |\n| Francisco Devesa Ramos | Manuel Devesa Romero | María Ramos [Bobillo?] | Mother's name uncertain; agentA05 focused view should control. |\n| Josefa Romero Romero | Tirso Romero | María Romero Rodríguez | AgentA confirms Tirso in focused05; other trees give Tirso Romero Santiago. |\n| Antonio Junquera Bobo | Timoteo Junquera | Teresa Bobo | 28-02-1828 per agentA05 clearer view. Broad e5 reads same after comparison. |\n| Josefa Martínez | Juan Martínez | Felipa Bobillo | No second surname shown for either Juan or Josefa here. Do not automatically merge this Juan/Felipa couple with Juan Martínez Santiago/Felipa Bobillo elsewhere. |\n| Alonso Blanco Romero | Alonso Blanco Bobo | Dominga Romero Romero | Clear. |\n| Catalina Vega Ferreras | Pedro de Vega Román | María Ferreras Santiago | Focused947 reads Manuela instead of María. |\n| Pedro Palmero | Juan Palmero | Francisca Gallego | Pedro and parent bracket state Valdemerilla. |\n| Felipa Martínez Bobillo | Juan Martínez Santiago | Felipa Bobillo | Clear. |\n| Timoteo Junquera | Joaquín Junquera | María Beltrán | e5 top only; moderate-confidence names, agentA may confirm. |\n| Teresa Bobo | Pedro Bobo Blanco | Francisca Nieto Blanco | AgentA focused05 clearer; corrected my initial broad-tree misreading Gregoria. |\n\nNo additional places other than Cional and Valdemerilla in my three images.\n\n## Decisions / unresolved reading limits\n\n- Canonical Unzueta favored by both agents across descendants; the spelling of Manuel in agentA's other tree may be abbreviated Unzeta.\n- Keep image-based dates as inferred births only if consistent with tree import conventions; record inference in internal source batch.\n- María Román's second surname unresolved (Canedo versus Corado); omitting only uncertain surname preserves person and links.\n- Manuela/María Ferreras Santiago is a real cross-image given-name variant; focused947 stronger but avoid silently presenting a supposed certainty.\n- No basis to merge the two Juan Martínez/Felipa Bobillo pairings solely by names; parent branch context differs but may ultimately be same couple.\n"
+    }
+  ],
+  "importedPeople": [
+    {
+      "id": "antonio-devesa-blanco",
+      "name": "Antonio Devesa Blanco",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Devesa",
+        "Blanco"
+      ],
+      "father": "antonio-devesa-junquera",
+      "mother": "petra-blanco-palmero",
+      "birth": {
+        "date": "1922-03-27",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "date": "2010-04-14",
+        "place": "Zamora"
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-herrero-fernandez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "josefa-herrero-fernandez",
+      "name": "Josefa Herrero Fernández",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Herrero",
+        "Fernández"
+      ],
+      "father": "epifanio-herrero-cuesta",
+      "mother": "adelina-fernandez-unzueta",
+      "birth": {
+        "date": "1920-11-17",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos",
+        "date": "1987"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-devesa-blanco",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "antonio-devesa-junquera",
+      "name": "Antonio Devesa Junquera",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Devesa",
+        "Junquera"
+      ],
+      "father": "desiderio-devesa-romero",
+      "mother": "josefa-junquera-martinez",
+      "birth": {
+        "date": "1887-05-07",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "petra-blanco-palmero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "petra-blanco-palmero",
+      "name": "Petra Blanco Palmero",
+      "givenNames": "Petra",
+      "surnames": [
+        "Blanco",
+        "Palmero"
+      ],
+      "father": "antonio-blanco-vega",
+      "mother": "petra-palmero-martinez",
+      "birth": {
+        "date": "1887-02-13",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-devesa-junquera",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "epifanio-herrero-cuesta",
+      "name": "Epifanio Herrero Cuesta",
+      "givenNames": "Epifanio",
+      "surnames": [
+        "Herrero",
+        "Cuesta"
+      ],
+      "father": "epifanio-herrero-vega",
+      "mother": "teresa-cuesta-unzueta",
+      "birth": {
+        "date": "1890-09-23",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "adelina-fernandez-unzueta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "adelina-fernandez-unzueta",
+      "name": "Adelina Fernández Unzueta",
+      "givenNames": "Adelina",
+      "surnames": [
+        "Fernández",
+        "Unzueta"
+      ],
+      "father": "antonio-fernandez-romero",
+      "mother": "josefa-unzueta-fernandez",
+      "birth": {
+        "date": "1900-04-24",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "epifanio-herrero-cuesta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "desiderio-devesa-romero",
+      "name": "Desiderio Devesa Romero",
+      "givenNames": "Desiderio",
+      "surnames": [
+        "Devesa",
+        "Romero"
+      ],
+      "father": "francisco-devesa-ramos",
+      "mother": "josefa-romero-romero",
+      "birth": {
+        "date": "1844-04",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-junquera-martinez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "josefa-junquera-martinez",
+      "name": "Josefa Junquera Martínez",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Junquera",
+        "Martínez"
+      ],
+      "father": "antonio-junquera-bobo",
+      "mother": "josefa-martinez-botillo",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "desiderio-devesa-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "antonio-blanco-vega",
+      "name": "Antonio Blanco Vega",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Blanco",
+        "Vega"
+      ],
+      "father": "alonso-blanco-romero",
+      "mother": "catalina-vega-ferreras",
+      "birth": {
+        "date": "1849-05-16",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "petra-palmero-martinez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "petra-palmero-martinez",
+      "name": "Petra Palmero Martínez",
+      "givenNames": "Petra",
+      "surnames": [
+        "Palmero",
+        "Martínez"
+      ],
+      "father": "pedro-palmero",
+      "mother": "felipa-martinez-bobillo",
+      "birth": {
+        "date": "1851-04-19",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-blanco-vega",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "epifanio-herrero-vega",
+      "name": "Epifanio Herrero Vega",
+      "givenNames": "Epifanio",
+      "surnames": [
+        "Herrero",
+        "Vega"
+      ],
+      "father": "pedro-herrero-romero",
+      "mother": "felipa-vega-roman",
+      "birth": {
+        "date": "1850-06-06",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "teresa-cuesta-unzueta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "teresa-cuesta-unzueta",
+      "name": "Teresa Cuesta Unzueta",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "birth": {
+        "date": "1858-05-26",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "epifanio-herrero-vega",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "antonio-fernandez-romero",
+      "name": "Antonio Fernández Romero",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Fernández",
+        "Romero"
+      ],
+      "father": "francisco-fernandez-romero",
+      "mother": "maria-romero-devesa",
+      "birth": {
+        "date": "1861-02-26",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-unzueta-fernandez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "josefa-unzueta-fernandez",
+      "name": "Josefa Unzueta Fernández",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "birth": {
+        "date": "1868-08-07",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-fernandez-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-devesa-ramos",
+      "name": "Francisco Devesa Ramos",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Devesa",
+        "Ramos"
+      ],
+      "father": "manuel-devesa-romero",
+      "mother": "maria-ramos-botillo",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-romero-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "josefa-romero-romero",
+      "name": "Josefa Romero Romero",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Romero",
+        "Romero"
+      ],
+      "father": "tirso-romero-santiago",
+      "mother": "maria-romero-rodriguez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-devesa-ramos",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "antonio-junquera-bobo",
+      "name": "Antonio Junquera Bobo",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Junquera",
+        "Bobo"
+      ],
+      "father": "francisco-junquera",
+      "mother": "teresa-bobo",
+      "birth": {
+        "date": "1828-02-28",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-martinez-botillo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "josefa-martinez-botillo",
+      "name": "Josefa Martínez Botillo",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Martínez",
+        "Botillo"
+      ],
+      "father": "juan-martinez-padre-de-josefa-martinez",
+      "mother": "felipa-bobillo-madre-de-josefa-martinez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-junquera-bobo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "alonso-blanco-romero",
+      "name": "Alonso Blanco Romero",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Blanco",
+        "Romero"
+      ],
+      "father": "alonso-blanco-bobo",
+      "mother": "dominga-romero-romero-madre-de-alonso-blanco",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "catalina-vega-ferreras",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "catalina-vega-ferreras",
+      "name": "Catalina Vega Ferreras",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Vega",
+        "Ferreras"
+      ],
+      "father": "pedro-vega-roman",
+      "mother": "manuela-ferreras-santiago",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "alonso-blanco-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "pedro-palmero",
+      "name": "Pedro Palmero",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Palmero"
+      ],
+      "father": "juan-palmero",
+      "mother": "francisca-gallego-madre-de-pedro-palmero",
+      "birth": {
+        "place": "Valdemerilla"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "felipa-martinez-bobillo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "felipa-martinez-bobillo",
+      "name": "Felipa Martínez Bobillo",
+      "givenNames": "Felipa",
+      "surnames": [
+        "Martínez",
+        "Bobillo"
+      ],
+      "father": "juan-martinez-santiago",
+      "mother": "felipa-bobillo-madre-de-felipa-martinez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "pedro-palmero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "pedro-herrero-romero",
+      "name": "Pedro Herrero Romero",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Herrero",
+        "Romero"
+      ],
+      "father": "manuel-herrero",
+      "mother": "maria-romero",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "felipa-vega-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "felipa-vega-roman",
+      "name": "Felipa Vega Román",
+      "givenNames": "Felipa",
+      "surnames": [
+        "Vega",
+        "Román"
+      ],
+      "father": "pascual-de-vega",
+      "mother": "maria-roman",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "pedro-herrero-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "lorenzo-cuesta-herrero",
+      "name": "Lorenzo Cuesta Herrero",
+      "givenNames": "Lorenzo",
+      "surnames": [
+        "Cuesta",
+        "Herrero"
+      ],
+      "father": "domingo-de-la-cuesta",
+      "mother": "maria-ferreras",
+      "birth": {
+        "place": "Cional"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-unzueta-fernandez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-unzueta-fernandez",
+      "name": "María Unzueta Fernández",
+      "givenNames": "María",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-padre-de-maria-unzueta",
+      "mother": "maria-fernandez-madre-de-maria-unzueta",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "lorenzo-cuesta-herrero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-fernandez-romero",
+      "name": "Francisco Fernández Romero",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Fernández",
+        "Romero"
+      ],
+      "father": "miguel-fernandez-roman",
+      "mother": "dominga-romero-romero",
+      "birth": {
+        "date": "1826-02-14",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-romero-devesa",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-romero-devesa",
+      "name": "María Romero Devesa",
+      "givenNames": "María",
+      "surnames": [
+        "Romero",
+        "Devesa"
+      ],
+      "father": "juan-romero-perez",
+      "mother": "manuela-devesa-santiago",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-fernandez-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "antonio-unzueta-fernandez",
+      "name": "Antonio Unzueta Fernández",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "birth": {
+        "date": "1832-12-09",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "dominga-fernandez-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "dominga-fernandez-roman",
+      "name": "Dominga Fernández Román",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Fernández",
+        "Román"
+      ],
+      "father": "tirso-fernandez-roman",
+      "mother": "catalina-roman-conde",
+      "birth": {
+        "date": "1837-06-03",
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "antonio-unzueta-fernandez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuel-devesa-romero",
+      "name": "Manuel Devesa Romero",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Devesa",
+        "Romero"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-ramos-botillo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-ramos-botillo",
+      "name": "María Ramos Botillo",
+      "givenNames": "María",
+      "surnames": [
+        "Ramos",
+        "Botillo"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-devesa-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "tirso-romero-santiago",
+      "name": "Tirso Romero Santiago",
+      "givenNames": "Tirso",
+      "surnames": [
+        "Romero",
+        "Santiago"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-romero-rodriguez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-romero-rodriguez",
+      "name": "María Romero Rodríguez",
+      "givenNames": "María",
+      "surnames": [
+        "Romero",
+        "Rodríguez"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "tirso-romero-santiago",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-junquera",
+      "name": "Francisco Junquera",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Junquera"
+      ],
+      "father": "joaquin-junquera",
+      "mother": "maria-baladron",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "teresa-bobo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "teresa-bobo",
+      "name": "Teresa Bobo",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Bobo"
+      ],
+      "father": "pedro-bobo-blanco",
+      "mother": "francisca-nieto-blanco",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-junquera",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "juan-martinez-padre-de-josefa-martinez",
+      "name": "Juan Martínez",
+      "givenNames": "Juan",
+      "surnames": [
+        "Martínez"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "felipa-bobillo-madre-de-josefa-martinez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "felipa-bobillo-madre-de-josefa-martinez",
+      "name": "Felipa Bobillo",
+      "givenNames": "Felipa",
+      "surnames": [
+        "Bobillo"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "juan-martinez-padre-de-josefa-martinez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "alonso-blanco-bobo",
+      "name": "Alonso Blanco Bobo",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Blanco",
+        "Bobo"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "dominga-romero-romero-madre-de-alonso-blanco",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "dominga-romero-romero-madre-de-alonso-blanco",
+      "name": "Dominga Romero Romero",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Romero",
+        "Romero"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "alonso-blanco-bobo",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "pedro-vega-roman",
+      "name": "Pedro Vega Román",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Vega",
+        "Román"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuela-ferreras-santiago",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuela-ferreras-santiago",
+      "name": "Manuela Ferreras Santiago",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Ferreras",
+        "Santiago"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "pedro-vega-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "juan-palmero",
+      "name": "Juan Palmero",
+      "givenNames": "Juan",
+      "surnames": [
+        "Palmero"
+      ],
+      "birth": {
+        "place": "Valdemerilla"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisca-gallego-madre-de-pedro-palmero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisca-gallego-madre-de-pedro-palmero",
+      "name": "Francisca Gallego",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Gallego"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "juan-palmero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "juan-martinez-santiago",
+      "name": "Juan Martínez Santiago",
+      "givenNames": "Juan",
+      "surnames": [
+        "Martínez",
+        "Santiago"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "felipa-bobillo-madre-de-felipa-martinez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "felipa-bobillo-madre-de-felipa-martinez",
+      "name": "Felipa Bobillo",
+      "givenNames": "Felipa",
+      "surnames": [
+        "Bobillo"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "juan-martinez-santiago",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuel-herrero",
+      "name": "Manuel Herrero",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Herrero"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-romero",
+      "name": "María Romero",
+      "givenNames": "María",
+      "surnames": [
+        "Romero"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-herrero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "pascual-de-vega",
+      "name": "Pascual de Vega",
+      "givenNames": "Pascual",
+      "surnames": [
+        "de Vega"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-roman",
+      "name": "María Román",
+      "givenNames": "María",
+      "surnames": [
+        "Román"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "pascual-de-vega",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "domingo-de-la-cuesta",
+      "name": "Domingo de la Cuesta",
+      "givenNames": "Domingo",
+      "surnames": [
+        "de la Cuesta"
+      ],
+      "birth": {
+        "place": "Cional"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-ferreras",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-ferreras",
+      "name": "María Ferreras",
+      "givenNames": "María",
+      "surnames": [
+        "Ferreras"
+      ],
+      "birth": {
+        "place": "Cional"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "domingo-de-la-cuesta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-unzueta-padre-de-maria-unzueta",
+      "name": "Francisco Unzueta",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-fernandez-madre-de-maria-unzueta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-fernandez-madre-de-maria-unzueta",
+      "name": "María Fernández",
+      "givenNames": "María",
+      "surnames": [
+        "Fernández"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-unzueta-padre-de-maria-unzueta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "miguel-fernandez-roman",
+      "name": "Miguel Fernández Román",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Fernández",
+        "Román"
+      ],
+      "father": "francisco-fernandez-baldon",
+      "mother": "francisca-roman-rodriguez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "dominga-romero-romero",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "dominga-romero-romero",
+      "name": "Dominga Romero Romero",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Romero",
+        "Romero"
+      ],
+      "father": "tirso-romero-santiago",
+      "mother": "maria-romero-rodriguez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "miguel-fernandez-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "juan-romero-perez",
+      "name": "Juan Romero Pérez",
+      "givenNames": "Juan",
+      "surnames": [
+        "Romero",
+        "Pérez"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuela-devesa-santiago",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuela-devesa-santiago",
+      "name": "Manuela Devesa Santiago",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Devesa",
+        "Santiago"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "juan-romero-perez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-unzueta-junquera",
+      "name": "Francisco Unzueta Junquera",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "manuela-junquera",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-fernandez-villar",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-fernandez-villar",
+      "name": "María Fernández Villar",
+      "givenNames": "María",
+      "surnames": [
+        "Fernández",
+        "Villar"
+      ],
+      "father": "manuel-fernandez",
+      "mother": "maria-villar",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-unzueta-junquera",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "tirso-fernandez-roman",
+      "name": "Tirso Fernández Román",
+      "givenNames": "Tirso",
+      "surnames": [
+        "Fernández",
+        "Román"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "catalina-roman-conde",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "catalina-roman-conde",
+      "name": "Catalina Román Conde",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Román",
+        "Conde"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "tirso-fernandez-roman",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "joaquin-junquera",
+      "name": "Joaquín Junquera",
+      "givenNames": "Joaquín",
+      "surnames": [
+        "Junquera"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-baladron",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-baladron",
+      "name": "María Baladrón",
+      "givenNames": "María",
+      "surnames": [
+        "Baladrón"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "joaquin-junquera",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "pedro-bobo-blanco",
+      "name": "Pedro Bobo Blanco",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Bobo",
+        "Blanco"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisca-nieto-blanco",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisca-nieto-blanco",
+      "name": "Francisca Nieto Blanco",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Nieto",
+        "Blanco"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "pedro-bobo-blanco",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisco-fernandez-baldon",
+      "name": "Francisco Fernández Baldón",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Fernández",
+        "Baldón"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisca-roman-rodriguez",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "francisca-roman-rodriguez",
+      "name": "Francisca Román Rodríguez",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Román",
+        "Rodríguez"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "francisco-fernandez-baldon",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuel-unzueta",
+      "name": "Manuel Unzueta",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Unzueta"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuela-junquera",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuela-junquera",
+      "name": "Manuela Junquera",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Junquera"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-unzueta",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "manuel-fernandez",
+      "name": "Manuel Fernández",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Fernández"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "maria-villar",
+          "place": "Villardeciervos"
+        }
+      ]
+    },
+    {
+      "id": "maria-villar",
+      "name": "María Villar",
+      "givenNames": "María",
+      "surnames": [
+        "Villar"
+      ],
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-fernandez",
+          "place": "Villardeciervos"
+        }
+      ]
+    }
+  ],
+  "updatedPeople": [
+    {
+      "person": "maria-angeles-devesa-herrero",
+      "father": "antonio-devesa-blanco",
+      "mother": "josefa-herrero-fernandez"
+    }
+  ],
+  "geography": {
+    "method": "Coordenadas devueltas por CartoCiudad (IGN), tipo poblacion, verificando localidad, municipio y provincia.",
+    "sources": [
+      "https://transparencia.jcyl.es/concentracionparcelaria/zamora/villardeciervos/etp/Vciervo_ETP_MEM_1_Memoria.pdf",
+      "https://www.diputaciondezamora.es/opencms/provincia/nuestros-ayuntamientos/detalle-municipio/Cernadilla/"
+    ]
+  },
+  "validation": {
+    "people": 1057,
+    "surnames": 235,
+    "places": 87,
+    "newMaternalPeople": 72,
+    "maximumGenerationsFromArturo": 14,
+    "maternalGenerationsIncludingArturo": 8,
+    "existingTestsPassed": 27,
+    "unchangedExistingPeople": 984,
+    "browser": "Antonio y Josefa: fechas, lugares, padres, matrimonio y descendencia verificados visualmente."
+  }
+}

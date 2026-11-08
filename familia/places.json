@@ -687,6 +687,22 @@
       "latitude": 41.435809371714036,
       "longitude": -5.798450030053925,
       "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Tardobispo%2C%20Tardobispo%20%28El%20Perdig%C3%B3n%29"
+    },
+    {
+      "name": "Cional",
+      "province": "Zamora",
+      "municipality": "Villardeciervos",
+      "latitude": 41.95754307103429,
+      "longitude": -6.337452695303734,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Cional%2C%20Cional%20%28Villardeciervos%29"
+    },
+    {
+      "name": "Valdemerilla",
+      "province": "Zamora",
+      "municipality": "Cernadilla",
+      "latitude": 42.014581871927426,
+      "longitude": -6.378000587211365,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Valdemerilla%2C%20Valdemerilla%20%28Cernadilla%29"
     }
   ]
 }

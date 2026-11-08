@@ -93,7 +93,7 @@ const hasPath = (layout, x, y, match) => layout.connections.some(path => match(p
 test('Bernardo shows his parents and his partner as cards, and the next relatives as circles', async () => {
   const layout = await realLayout('bernardo-calvo-brioso');
   assert.deepEqual(ids(layout.cards), ['bernardo-calvo-brioso', 'maria-angeles-devesa-herrero', 'nicanor-calvo-piorno', 'rosario-brioso-de-las-heras']);
-  assert.deepEqual(ids(layout.circles), ['angela-de-las-heras-prada', 'arturo-calvo-devesa', 'bernardo-brioso-perez', 'lucia-piorno-santiago', 'miguel-calvo-mendez']);
+  assert.deepEqual(ids(layout.circles), ['angela-de-las-heras-prada', 'antonio-devesa-blanco', 'arturo-calvo-devesa', 'bernardo-brioso-perez', 'josefa-herrero-fernandez', 'lucia-piorno-santiago', 'miguel-calvo-mendez']);
 });
 
 test('a partner with known parents gets circles for them', async () => {
@@ -102,16 +102,16 @@ test('a partner with known parents gets circles for them', async () => {
   assert.deepEqual(ids(layout.circles), ['angela-de-las-heras-prada', 'bernardo-brioso-perez', 'bernardo-calvo-brioso', 'marcelina-mendez-maillo', 'nicanor-calvo-martin', 'salvador-piorno-tuda', 'vicenta-santiago-sastre']);
 });
 
-test('a person without partner or children shows neither, and a parent without known parents has no circles', async () => {
+test('a person without partner or children shows neither, and both parents show their known parents as circles', async () => {
   const layout = await realLayout('arturo-calvo-devesa');
   assert.deepEqual(ids(layout.cards), ['arturo-calvo-devesa', 'bernardo-calvo-brioso', 'maria-angeles-devesa-herrero']);
-  assert.deepEqual(ids(layout.circles), ['nicanor-calvo-piorno', 'rosario-brioso-de-las-heras']);
+  assert.deepEqual(ids(layout.circles), ['antonio-devesa-blanco', 'josefa-herrero-fernandez', 'nicanor-calvo-piorno', 'rosario-brioso-de-las-heras']);
 });
 
 test('adding a generation turns the circles into cards and moves the circles one level up', async () => {
   const layout = await realLayout('arturo-calvo-devesa', 2);
-  assert.deepEqual(ids(layout.cards), ['arturo-calvo-devesa', 'bernardo-calvo-brioso', 'maria-angeles-devesa-herrero', 'nicanor-calvo-piorno', 'rosario-brioso-de-las-heras']);
-  assert.deepEqual(ids(layout.circles), ['angela-de-las-heras-prada', 'bernardo-brioso-perez', 'lucia-piorno-santiago', 'miguel-calvo-mendez']);
+  assert.deepEqual(ids(layout.cards), ['antonio-devesa-blanco', 'arturo-calvo-devesa', 'bernardo-calvo-brioso', 'josefa-herrero-fernandez', 'maria-angeles-devesa-herrero', 'nicanor-calvo-piorno', 'rosario-brioso-de-las-heras']);
+  assert.deepEqual(ids(layout.circles), ['adelina-fernandez-unzueta', 'angela-de-las-heras-prada', 'antonio-devesa-junquera', 'bernardo-brioso-perez', 'epifanio-herrero-cuesta', 'lucia-piorno-santiago', 'miguel-calvo-mendez', 'petra-blanco-palmero']);
 });
 
 test('a parent\'s circles sit above that parent\'s card', async () => {
