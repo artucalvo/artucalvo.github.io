@@ -1,1 +1,1 @@
-{"id":"pedro-madaleno","name":"Pedro Madaleno","givenNames":"Pedro","surnames":["Madaleno"],"source":"TATARABUELOS SEXTOS.docx","children":[{"id":"maria-madaleno","name":"María Madaleno Rubio","givenNames":"María","surnames":["Madaleno","Rubio"],"father":"pedro-madaleno"}]}
+{"id":"pedro-madaleno","name":"Pedro Madaleno","givenNames":"Pedro","surnames":["Madaleno"],"children":[{"id":"maria-madaleno","name":"María Madaleno Rubio","givenNames":"María","surnames":["Madaleno","Rubio"],"father":"pedro-madaleno"}]}

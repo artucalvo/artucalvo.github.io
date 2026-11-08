@@ -177,6 +177,25 @@ test('a documented marriage keeps its details and is not repeated', async () => 
   }
 });
 
+test('person data and the catalog contain no file attribution or file references', async () => {
+  const canonical = JSON.parse(await readFile(new URL('records.json', import.meta.url), 'utf8'));
+  const catalog = JSON.parse(await readFile(new URL('data/catalog.json', import.meta.url), 'utf8'));
+  const fileReference = /\.(?:docx?|pdf|jpe?g|png|tiff?)\b|\bfotograf[íi]as?\b|\bdocumentos?\b|\bfuente\s*:/iu;
+  function check(value, context) {
+    if (typeof value === 'string') {
+      assert.doesNotMatch(value, fileReference, `${context} contains a file reference`);
+    } else if (Array.isArray(value)) {
+      value.forEach((entry, index) => check(entry, `${context}[${index}]`));
+    } else if (value && typeof value === 'object') {
+      assert.equal(Object.hasOwn(value, 'source'), false, `${context} contains file attribution`);
+      Object.entries(value).forEach(([key, entry]) => check(entry, `${context}.${key}`));
+    }
+  }
+  check(canonical, 'records');
+  check(catalog, 'catalog');
+  for (const person of records.values()) check(person, person.id);
+});
+
 test('someone without a partner has no marriage', () => {
   assert.equal(records.get('arturo-calvo-devesa').marriages, undefined);
 });

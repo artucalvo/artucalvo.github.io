@@ -1,1 +1,1 @@
-{"id":"ana-de-luelmo","name":"Ana de Luelmo","givenNames":"Ana","surnames":["de Luelmo"],"source":"TATARABUELOS SEXTOS.docx","children":[{"id":"jose-perez-luelmo","name":"José Pérez Luelmo","givenNames":"José","surnames":["Pérez","Luelmo"],"mother":"ana-de-luelmo"}]}
+{"id":"ana-de-luelmo","name":"Ana de Luelmo","givenNames":"Ana","surnames":["de Luelmo"],"children":[{"id":"jose-perez-luelmo","name":"José Pérez Luelmo","givenNames":"José","surnames":["Pérez","Luelmo"],"mother":"ana-de-luelmo"}]}

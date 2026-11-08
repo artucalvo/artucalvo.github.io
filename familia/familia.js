@@ -357,7 +357,6 @@ async function renderProfile(id, focus = false) {
       notes.append(list);
       panel.append(notes);
     }
-    if (person.source) panel.append(element('p', 'profile-source', `Fuente: ${person.source}`));
     announce(`Ficha de ${person.name}`);
     if (focus) heading.focus({ preventScroll: true });
   } catch (error) {

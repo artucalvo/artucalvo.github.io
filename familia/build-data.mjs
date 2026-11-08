@@ -101,7 +101,7 @@ async function writeJson(filename, value) {
 
 async function build() {
   const source = JSON.parse(await readFile(path.join(directory, 'records.json'), 'utf8'));
-  if (!isText(source.source)) fail('source: expected the source document name.');
+  if (Object.hasOwn(source, 'source')) fail('source: file attribution is not supported.');
   if (!Array.isArray(source.people) || !source.people.length) throw new Error('people: expected a nonempty array.');
   if (!Array.isArray(source.branches) || !source.branches.length) throw new Error('branches: expected a nonempty array.');
   const people = new Map();
@@ -116,7 +116,7 @@ async function build() {
     for (const field of ['name', 'givenNames']) {
       if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
     }
-    if (person.source !== undefined && !isText(person.source)) fail(`${person.id}.source: expected nonempty text.`);
+    if (Object.hasOwn(person, 'source')) fail(`${person.id}.source: file attribution is not supported.`);
     for (const field of ['children', 'parentSummaries', 'partners']) {
       if (person[field] !== undefined) fail(`${person.id}.${field}: this relationship field is generated from parent and marriage references.`);
     }
@@ -223,7 +223,6 @@ async function build() {
   for (const children of childrenByParent.values()) children.sort((a, b) => collator.compare(a.name, b.name));
   const catalog = {
     version: 1,
-    source: source.source,
     defaultPerson: source.defaultPerson || source.branches[0].roots[0],
     branches: source.branches.map((branch) => ({
       ...branch,

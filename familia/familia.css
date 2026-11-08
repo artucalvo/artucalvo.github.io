@@ -164,7 +164,6 @@ h1, h2, h3, p { margin-top: 0; }
 .observations p { margin-bottom: 8px; }
 .observations ul { padding-left: 15px; margin: 0; }
 .observations li + li { margin-top: 8px; }
-.profile-source { display: block; margin-top: 23px; padding-top: 13px; border-top: 1px solid var(--line); color: #9ba18f; font-size: 8px; line-height: 1.6; }
 .site-footer { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-top: 28px; padding-block: 24px; border-top: 1px solid var(--line); color: #929887; font-size: 9px; }
 .site-footer > span:first-child { color: #707d65; }
 .loading-message { padding: 40px 24px; color: var(--muted); font-family: var(--serif); font-size: 16px; text-align: center; }
@@ -231,7 +230,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .event-item { border-left: 1px solid #dce2d2; padding-bottom: 0; }
   .event-item:last-child { border-left-color: #dce2d2; }
   .observations { font-size: 12px; }
-  .profile-source { font-size: 9px; }
   .tree-viewport { height: 470px; max-height: 470px; }
   .tree-hint { max-width: none; font-size: 9px; }
 }
@@ -331,7 +329,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .event-note { color: #65745a; font-size: 12px; }
 .event-spouse { display: flex; margin-top: 8px; padding: 8px 10px; }
 .observations, .transcription { color: #5f7054; font-size: 13px; }
-.profile-source { color: #6d785f; font-size: 10px; }
 .site-footer { color: #67745b; font-size: 11px; }
 .text-button { min-height: 32px; font-size: 11px; }
 .index-count, .entry-meta { color: #64735a; font-size: 12px; }
