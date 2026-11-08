@@ -168,9 +168,13 @@ test('a marriage assumed from a common child invents no details', () => {
   assert.deepEqual(records.get('maria-angeles-devesa-herrero').marriages, [{ spouse: 'bernardo-calvo-brioso' }]);
 });
 
-test('a documented marriage keeps its details and is not repeated', () => {
-  assert.deepEqual(records.get('miguel-calvo-mendez').marriages, [{ spouse: 'lucia-piorno-santiago', date: '1898-11-09', place: 'Casaseca de las Chanas' }]);
-  assert.deepEqual(records.get('lucia-piorno-santiago').marriages, [{ spouse: 'miguel-calvo-mendez', date: '1898-11-09', place: 'Casaseca de las Chanas' }]);
+test('a documented marriage keeps its details and is not repeated', async () => {
+  const source = JSON.parse(await readFile(new URL('records.json', import.meta.url), 'utf8'));
+  for (const id of ['miguel-calvo-mendez', 'lucia-piorno-santiago']) {
+    const person = source.people.find(person => person.id === id);
+    assert.equal(person.marriages.length, 1);
+    assert.deepEqual(records.get(id).marriages, person.marriages);
+  }
 });
 
 test('someone without a partner has no marriage', () => {

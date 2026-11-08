@@ -1,1 +1,1 @@
-{"id":"juan-miguel","name":"Juan Miguel","givenNames":"Juan","surnames":["Miguel"],"source":"TATARABUELOS QUINTOS.docx","children":[{"id":"juana-miguel","name":"Juana Miguel","givenNames":"Juana","surnames":["Miguel"],"father":"juan-miguel"}]}
+{"id":"juan-miguel","name":"Juan Miguel","givenNames":"Juan","surnames":["Miguel"],"source":"TATARABUELOS QUINTOS.docx · TATARABUELOS SEXTOS.docx","birth":{"place":"Morales del Vino"},"children":[{"id":"juana-miguel","name":"Juana Miguel de Trigo","givenNames":"Juana","surnames":["Miguel","de Trigo"],"father":"juan-miguel"}]}

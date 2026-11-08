@@ -647,6 +647,46 @@
       "latitude": 41.43256069174788,
       "longitude": -5.753479605399395,
       "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Entrala%2C%20Entrala"
+    },
+    {
+      "name": "Lubián",
+      "province": "Zamora",
+      "municipality": "Lubián",
+      "latitude": 42.03537362703968,
+      "longitude": -6.905883081458719,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Lubi%C3%A1n%2C%20Lubi%C3%A1n"
+    },
+    {
+      "name": "Villalcampo",
+      "province": "Zamora",
+      "municipality": "Villalcampo",
+      "latitude": 41.52241544201784,
+      "longitude": -6.046898487522205,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Villalcampo%2C%20Villalcampo"
+    },
+    {
+      "name": "Valer",
+      "province": "Zamora",
+      "municipality": "Gallegos del Río",
+      "latitude": 41.76212700243204,
+      "longitude": -6.178258417034137,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Valer%2C%20Valer%20%28Gallegos%20del%20R%C3%ADo%29"
+    },
+    {
+      "name": "Samir de los Caños",
+      "province": "Zamora",
+      "municipality": "Samir de los Caños",
+      "latitude": 41.67270937230202,
+      "longitude": -6.164704688541139,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Samir%20de%20los%20Ca%C3%B1os%2C%20Samir%20de%20los%20Ca%C3%B1os"
+    },
+    {
+      "name": "Valcamín de Abajo",
+      "province": "Zamora",
+      "municipality": "El Perdigón",
+      "latitude": 41.435809371714036,
+      "longitude": -5.798450030053925,
+      "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Tardobispo%2C%20Tardobispo%20%28El%20Perdig%C3%B3n%29"
     }
   ]
 }

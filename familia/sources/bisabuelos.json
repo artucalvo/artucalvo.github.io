@@ -1,0 +1,1038 @@
+{
+  "schemaVersion": 1,
+  "batch": "BISABUELOS — cotejo de las dos versiones documentales",
+  "reviewedOn": "2026-11-08",
+  "method": "Extracción de los párrafos OOXML de ambos DOCX y comparación literal; cotejo independiente con records.json, las decisiones del README y el registro previo de ABUELOS. No se abrieron fotografías. Los párrafos conservan la grafía, los huecos y las repeticiones de la fuente; los hechos normalizados se mantienen separados.",
+  "derivedDocument": {
+    "id": "bisabuelos-docx",
+    "title": "BISABUELOS.docx",
+    "versions": [
+      {
+        "id": "bisabuelos-2015",
+        "directory": "Árbol genealógico/Bisabuelos",
+        "filename": "BISABUELOS.docx",
+        "modified": "2015-07-18T19:20:00Z",
+        "revision": "14",
+        "sha256": "2ae0ad5831aece13348a5ac2a87d3b7a6897d77bf277922af6ccd7ea5c6c6392"
+      },
+      {
+        "id": "bisabuelos-2018",
+        "directory": "Árbol genealógico2",
+        "filename": "BISABUELOS.docx",
+        "modified": "2018-08-22T09:57:00Z",
+        "revision": "15",
+        "sha256": "6284d302cef690c91e9e7f21afad98debf35484840876dd39b95ec77ca4ecf99"
+      }
+    ],
+    "comparison": "Dos versiones de una sola fuente. La revisión de 2018 conserva todo el contenido de 2015 y añade únicamente cuatro causas de fallecimiento, ya incorporadas al árbol. No se duplica la atribución BISABUELOS.docx.",
+    "differences": [
+      {
+        "person": "nicanor-calvo-martin",
+        "paragraph": 7,
+        "bisabuelos-2015": "- Falleció en Casaseca de las Chanas el 21-06-1893.",
+        "bisabuelos-2018": "- Falleció en Casaseca de las Chanas el 21-06-1893, a consecuencia de taber dorsal.",
+        "status": "La causa añadida en 2018 ya figura en death.note."
+      },
+      {
+        "person": "balbina-perez-sanchez",
+        "paragraph": 39,
+        "bisabuelos-2015": "- Falleció en Tardobispo el 18-11-1911.",
+        "bisabuelos-2018": "- Falleció en Tardobispo el 18-11-1911, a consecuencia de insuficiencia valvular central.",
+        "status": "La causa añadida en 2018 ya figura en death.note."
+      },
+      {
+        "person": "benito-de-las-heras-rabanal",
+        "paragraph": 45,
+        "bisabuelos-2015": "- Falleció en Tardobispo el 07-06-1924.",
+        "bisabuelos-2018": "- Falleció en Tardobispo el 07-06-1924, a consecuencia de hemorragia cerebral.",
+        "status": "La causa añadida en 2018 ya figura en death.note."
+      },
+      {
+        "person": "ma-antonia-prada-carretero",
+        "paragraph": 52,
+        "bisabuelos-2015": "- Falleció en Tardobispo el 22-09-1935. ",
+        "bisabuelos-2018": "- Falleció en Tardobispo el 22-09-1935, a consecuencia de colapso cardíaco. ",
+        "status": "La causa añadida en 2018 ya figura en death.note."
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "bisabuelos-paternos-1",
+      "locator": "PATERNOS 1",
+      "person": "nicanor-calvo-martin",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 4,
+          "text": "1.   Nicanor Calvo Martín"
+        },
+        {
+          "index": 5,
+          "text": "- Nació en Casaseca de las Chanas el 10-01-1826. Fue bautizado el 12-01-1826"
+        },
+        {
+          "index": 6,
+          "text": "- Se casó en Casaseca de las Chanas el 08-11-1856."
+        },
+        {
+          "index": 7,
+          "text": "- Falleció en Casaseca de las Chanas el 21-06-1893, a consecuencia de taber dorsal."
+        },
+        {
+          "index": 8,
+          "text": "- Era hijo de Lucas Calvo Alonso (Casaseca de las Chanas) y Felipa Martín Hernández (Casaseca de las Chanas)."
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1826-01-10",
+          "place": "Casaseca de las Chanas"
+        },
+        "baptism": {
+          "date": "1826-01-12"
+        },
+        "marriage": {
+          "date": "1856-11-08",
+          "place": "Casaseca de las Chanas",
+          "spouse": "marcelina-mendez-maillo"
+        },
+        "death": {
+          "date": "1893-06-21",
+          "place": "Casaseca de las Chanas",
+          "cause": "taber dorsal"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Lucas Calvo Alonso",
+            "placeReading": "Casaseca de las Chanas",
+            "person": "lucas-calvo-alonso"
+          },
+          {
+            "relation": "mother",
+            "name": "Felipa Martín Hernández",
+            "placeReading": "Casaseca de las Chanas",
+            "person": "felipa-martin-hernandez"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "nicanor-calvo-martin",
+          "event": "birth"
+        },
+        {
+          "person": "nicanor-calvo-martin",
+          "event": "baptism"
+        },
+        {
+          "person": "nicanor-calvo-martin",
+          "event": "marriages",
+          "spouse": "marcelina-mendez-maillo"
+        },
+        {
+          "person": "nicanor-calvo-martin",
+          "event": "death"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "lucas-calvo-alonso",
+          "felipa-martin-hernandez"
+        ],
+        "children": [
+          "miguel-calvo-mendez"
+        ],
+        "birth": {
+          "date": "1826-01-10",
+          "place": "Casaseca de las Chanas"
+        },
+        "spouse": "marcelina-mendez-maillo",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "death",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "lucas-calvo-alonso",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "felipa-martin-hernandez",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-paternos-2",
+      "locator": "PATERNOS 2",
+      "person": "marcelina-mendez-maillo",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 10,
+          "text": "2. Marcelina Méndez Maíllo."
+        },
+        {
+          "index": 11,
+          "text": "- Nació en Casaseca de las Chanas el 05-05-1835. Fue bautizado el 06-05-1835."
+        },
+        {
+          "index": 12,
+          "text": "- Se casó en Casaseca de las Chanas el 08-11-1856."
+        },
+        {
+          "index": 13,
+          "text": "- Falleció en"
+        },
+        {
+          "index": 14,
+          "text": "- Era hija de Manuel Méndez de Paz (Casaseca de las Chanas) y Feliciana Maíllo Morales (Casaseca de las Chanas)."
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1835-05-05",
+          "place": "Casaseca de las Chanas"
+        },
+        "baptism": {
+          "date": "1835-05-06"
+        },
+        "marriage": {
+          "date": "1856-11-08",
+          "place": "Casaseca de las Chanas",
+          "spouse": "nicanor-calvo-martin"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Manuel Méndez de Paz",
+            "placeReading": "Casaseca de las Chanas",
+            "person": "manuel-mendez-de-paz"
+          },
+          {
+            "relation": "mother",
+            "name": "Feliciana Maíllo Morales",
+            "placeReading": "Casaseca de las Chanas",
+            "person": "feliciana-maillo-morales"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "marcelina-mendez-maillo",
+          "event": "birth"
+        },
+        {
+          "person": "marcelina-mendez-maillo",
+          "event": "baptism"
+        },
+        {
+          "person": "marcelina-mendez-maillo",
+          "event": "marriages",
+          "spouse": "nicanor-calvo-martin"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "manuel-mendez-de-paz",
+          "feliciana-maillo-morales"
+        ],
+        "children": [
+          "miguel-calvo-mendez"
+        ],
+        "birth": {
+          "date": "1835-05-05",
+          "place": "Casaseca de las Chanas"
+        },
+        "spouse": "nicanor-calvo-martin",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "manuel-mendez-de-paz",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "feliciana-maillo-morales",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-paternos-3",
+      "locator": "PATERNOS 3",
+      "person": "salvador-piorno-tuda",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 16,
+          "text": "3.   Salvador Piorno Tuda."
+        },
+        {
+          "index": 17,
+          "text": "- Nació en Malillos el 03-08-1843. Fue bautizado el 06-08-1843."
+        },
+        {
+          "index": 18,
+          "text": "- Se casó en "
+        },
+        {
+          "index": 19,
+          "text": "- Falleció en "
+        },
+        {
+          "index": 20,
+          "text": "- Era hijo de Julián Piorno Vega (Gáname) y Tomasa Tuda Feltrero (Malillos)"
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1843-08-03",
+          "place": "Malillos"
+        },
+        "baptism": {
+          "date": "1843-08-06"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Julián Piorno Vega",
+            "placeReading": "Gáname",
+            "person": "julian-piorno-vega"
+          },
+          {
+            "relation": "mother",
+            "name": "Tomasa Tuda Feltrero",
+            "placeReading": "Malillos",
+            "person": "tomasa-tuda-feltrero"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "salvador-piorno-tuda",
+          "event": "birth"
+        },
+        {
+          "person": "salvador-piorno-tuda",
+          "event": "baptism"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "julian-piorno-vega",
+          "tomasa-tuda-feltrero"
+        ],
+        "children": [
+          "lucia-piorno-santiago"
+        ],
+        "birth": {
+          "date": "1843-08-03",
+          "place": "Malillos"
+        },
+        "spouse": "vicenta-santiago-sastre",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "julian-piorno-vega",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "tomasa-tuda-feltrero",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-paternos-4",
+      "locator": "PATERNOS 4",
+      "person": "vicenta-santiago-sastre",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 22,
+          "text": "4. Vicenta Santiago Sastre."
+        },
+        {
+          "index": 23,
+          "text": "- Nació en Fadón el 22-01-1841. Fue bautizada el 23-01-1841."
+        },
+        {
+          "index": 24,
+          "text": "- Se casó en "
+        },
+        {
+          "index": 25,
+          "text": "- Falleció en"
+        },
+        {
+          "index": 26,
+          "text": "- Era hija de Carlos Santiago Garrote (Abelón) y María Sastre Esteban (Fadón). "
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1841-01-22",
+          "place": "Fadón"
+        },
+        "baptism": {
+          "date": "1841-01-23"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Carlos Santiago Garrote",
+            "placeReading": "Abelón",
+            "person": "carlos-santiago-garrote"
+          },
+          {
+            "relation": "mother",
+            "name": "María Sastre Esteban",
+            "placeReading": "Fadón",
+            "person": "maria-sastre-esteban"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "vicenta-santiago-sastre",
+          "event": "birth"
+        },
+        {
+          "person": "vicenta-santiago-sastre",
+          "event": "baptism"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "carlos-santiago-garrote",
+          "maria-sastre-esteban"
+        ],
+        "children": [
+          "lucia-piorno-santiago"
+        ],
+        "birth": {
+          "date": "1841-01-22",
+          "place": "Fadón"
+        },
+        "spouse": "salvador-piorno-tuda",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "carlos-santiago-garrote",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "maria-sastre-esteban",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-maternos-1",
+      "locator": "MATERNOS 1",
+      "person": "enrique-brioso-mena",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 30,
+          "text": "1.   Enrique Brioso de Mena."
+        },
+        {
+          "index": 31,
+          "text": "- Nació en Tardobispo el 28-01-1855. Fue bautizado en Tardobispo el 29-01-1885."
+        },
+        {
+          "index": 32,
+          "text": "- Se casó Tardobispo el 23-08-1877."
+        },
+        {
+          "index": 33,
+          "text": "- Falleció en "
+        },
+        {
+          "index": 34,
+          "text": "- Era hijo de Florencio Brioso Alonso (Morales del Vino) y Antonia de Mena Santamaría (Tardobispo)."
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1855-01-28",
+          "place": "Tardobispo"
+        },
+        "baptism": {
+          "date": "1885-01-29",
+          "place": "Tardobispo"
+        },
+        "marriage": {
+          "date": "1877-08-23",
+          "place": "Tardobispo",
+          "spouse": "balbina-perez-sanchez"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Florencio Brioso Alonso",
+            "placeReading": "Morales del Vino",
+            "person": "florencio-brioso-alonso"
+          },
+          {
+            "relation": "mother",
+            "name": "Antonia de Mena Santamaría",
+            "placeReading": "Tardobispo",
+            "person": "antonia-de-mena-santamaria"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "enrique-brioso-mena",
+          "event": "birth"
+        },
+        {
+          "person": "enrique-brioso-mena",
+          "event": "baptism"
+        },
+        {
+          "person": "enrique-brioso-mena",
+          "event": "marriages",
+          "spouse": "balbina-perez-sanchez"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "florencio-brioso-alonso",
+          "antonia-de-mena-santamaria"
+        ],
+        "children": [
+          "bernardo-brioso-perez"
+        ],
+        "birth": {
+          "date": "1855-01-28",
+          "place": "Tardobispo"
+        },
+        "spouse": "balbina-perez-sanchez",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "corrected-by-family",
+          "sourceValue": "1885-01-29",
+          "recordValue": "1855-01-29",
+          "decision": "bisabuelos-correccion-bautismo-enrique"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "florencio-brioso-alonso",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "antonia-de-mena-santamaria",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-maternos-2",
+      "locator": "MATERNOS 2",
+      "person": "balbina-perez-sanchez",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 36,
+          "text": "2. Balbina Pérez Sánchez."
+        },
+        {
+          "index": 37,
+          "text": "- Nació en Tardobispo en 31-03-1842. Fue bautizada en Tardobispo el 02-04-1842."
+        },
+        {
+          "index": 38,
+          "text": "- Se casó en Tardobispo el 23-08-1877."
+        },
+        {
+          "index": 39,
+          "text": "- Falleció en Tardobispo el 18-11-1911, a consecuencia de insuficiencia valvular central."
+        },
+        {
+          "index": 40,
+          "text": "- Era hija de Esteban Pérez Girón (Tardobispo) y Eduviges Sánchez Izquierdo (El Cubo del Vino)."
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1842-03-31",
+          "place": "Tardobispo"
+        },
+        "baptism": {
+          "date": "1842-04-02",
+          "place": "Tardobispo"
+        },
+        "marriage": {
+          "date": "1877-08-23",
+          "place": "Tardobispo",
+          "spouse": "enrique-brioso-mena"
+        },
+        "death": {
+          "date": "1911-11-18",
+          "place": "Tardobispo",
+          "cause": "insuficiencia valvular central"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Esteban Pérez Girón",
+            "placeReading": "Tardobispo",
+            "person": "esteban-perez-giron"
+          },
+          {
+            "relation": "mother",
+            "name": "Eduviges Sánchez Izquierdo",
+            "placeReading": "El Cubo del Vino",
+            "person": "eduviges-sanchez-izquierdo"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "balbina-perez-sanchez",
+          "event": "birth"
+        },
+        {
+          "person": "balbina-perez-sanchez",
+          "event": "baptism"
+        },
+        {
+          "person": "balbina-perez-sanchez",
+          "event": "marriages",
+          "spouse": "enrique-brioso-mena"
+        },
+        {
+          "person": "balbina-perez-sanchez",
+          "event": "death"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "esteban-perez-giron",
+          "eduviges-sanchez-izquierdo"
+        ],
+        "children": [
+          "bernardo-brioso-perez"
+        ],
+        "birth": {
+          "date": "1842-03-31",
+          "place": "Tardobispo"
+        },
+        "spouse": "enrique-brioso-mena",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "death",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "esteban-perez-giron",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "eduviges-sanchez-izquierdo",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-maternos-3",
+      "locator": "MATERNOS 3",
+      "person": "benito-de-las-heras-rabanal",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 42,
+          "text": "3. Benito José de las Heras Rabanal. "
+        },
+        {
+          "index": 43,
+          "text": "- Nació en Tardobispo el 13-04-1856. Fue bautizado en Tardobispo el 16-04-1856."
+        },
+        {
+          "index": 44,
+          "text": "- Se casó en en Tardobispo el 23-10-1880. en Tardobispo el 23-10-1880."
+        },
+        {
+          "index": 45,
+          "text": "- Falleció en Tardobispo el 07-06-1924, a consecuencia de hemorragia cerebral."
+        },
+        {
+          "index": 46,
+          "text": "- Era hijo de Francisco de las Heras Pascual (Abelón) y Josefa Rabanal Ibáñez (Zamora. S. Esteban)"
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1856-04-13",
+          "place": "Tardobispo"
+        },
+        "baptism": {
+          "date": "1856-04-16",
+          "place": "Tardobispo"
+        },
+        "marriage": {
+          "date": "1880-10-23",
+          "place": "Tardobispo",
+          "spouse": "ma-antonia-prada-carretero"
+        },
+        "death": {
+          "date": "1924-06-07",
+          "place": "Tardobispo",
+          "cause": "hemorragia cerebral"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Francisco de las Heras Pascual",
+            "placeReading": "Abelón",
+            "person": "francisco-de-las-heras-pascual"
+          },
+          {
+            "relation": "mother",
+            "name": "Josefa Rabanal Ibáñez",
+            "placeReading": "Zamora. S. Esteban",
+            "person": "josefa-rabanal-ibanez"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "benito-de-las-heras-rabanal",
+          "event": "birth"
+        },
+        {
+          "person": "benito-de-las-heras-rabanal",
+          "event": "baptism"
+        },
+        {
+          "person": "benito-de-las-heras-rabanal",
+          "event": "marriages",
+          "spouse": "ma-antonia-prada-carretero"
+        },
+        {
+          "person": "benito-de-las-heras-rabanal",
+          "event": "death"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "francisco-de-las-heras-pascual",
+          "josefa-rabanal-ibanez"
+        ],
+        "children": [
+          "angela-de-las-heras-prada"
+        ],
+        "birth": {
+          "date": "1856-04-13",
+          "place": "Tardobispo"
+        },
+        "spouse": "ma-antonia-prada-carretero",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "death",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "francisco-de-las-heras-pascual",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "josefa-rabanal-ibanez",
+          "status": "already-linked"
+        }
+      ]
+    },
+    {
+      "id": "bisabuelos-maternos-4",
+      "locator": "MATERNOS 4",
+      "person": "ma-antonia-prada-carretero",
+      "sourceVersion": "bisabuelos-2018",
+      "paragraphs": [
+        {
+          "index": 49,
+          "text": "4. Mª. Antonia Prada Carretero."
+        },
+        {
+          "index": 50,
+          "text": "- Nació en Tardobispo el 27-03-1861. Fue bautizada en Tardobispo el 31-03-1861."
+        },
+        {
+          "index": 51,
+          "text": "- Se casó en Tardobispo el 23-10-1880."
+        },
+        {
+          "index": 52,
+          "text": "- Falleció en Tardobispo el 22-09-1935, a consecuencia de colapso cardíaco. "
+        },
+        {
+          "index": 53,
+          "text": "- Era hija de Ángel Prada Girón (Tardobispo) y Manuela Carretero Bragado (Peleas de Arriba)."
+        }
+      ],
+      "facts": {
+        "birth": {
+          "date": "1861-03-27",
+          "place": "Tardobispo"
+        },
+        "baptism": {
+          "date": "1861-03-31",
+          "place": "Tardobispo"
+        },
+        "marriage": {
+          "date": "1880-10-23",
+          "place": "Tardobispo",
+          "spouse": "benito-de-las-heras-rabanal"
+        },
+        "death": {
+          "date": "1935-09-22",
+          "place": "Tardobispo",
+          "cause": "colapso cardíaco"
+        },
+        "parents": [
+          {
+            "relation": "father",
+            "name": "Ángel Prada Girón",
+            "placeReading": "Tardobispo",
+            "person": "angel-prada-giron"
+          },
+          {
+            "relation": "mother",
+            "name": "Manuela Carretero Bragado",
+            "placeReading": "Peleas de Arriba",
+            "person": "manuela-carretero-bragado"
+          }
+        ]
+      },
+      "links": [
+        {
+          "person": "ma-antonia-prada-carretero",
+          "event": "birth"
+        },
+        {
+          "person": "ma-antonia-prada-carretero",
+          "event": "baptism"
+        },
+        {
+          "person": "ma-antonia-prada-carretero",
+          "event": "marriages",
+          "spouse": "benito-de-las-heras-rabanal"
+        },
+        {
+          "person": "ma-antonia-prada-carretero",
+          "event": "death"
+        }
+      ],
+      "identification": {
+        "parents": [
+          "angel-prada-giron",
+          "manuela-carretero-bragado"
+        ],
+        "children": [
+          "angela-de-las-heras-prada"
+        ],
+        "birth": {
+          "date": "1861-03-27",
+          "place": "Tardobispo"
+        },
+        "spouse": "benito-de-las-heras-rabanal",
+        "basis": "Coinciden ambos progenitores, el nacimiento y su localidad, y la pareja documentada o la filiación del hijo existente; no se identifica por el nombre del archivo."
+      },
+      "comparison": [
+        {
+          "field": "birth",
+          "status": "already-recorded"
+        },
+        {
+          "field": "baptism",
+          "status": "already-recorded"
+        },
+        {
+          "field": "marriages",
+          "status": "already-recorded"
+        },
+        {
+          "field": "death",
+          "status": "already-recorded"
+        },
+        {
+          "field": "father",
+          "person": "angel-prada-giron",
+          "status": "already-linked"
+        },
+        {
+          "field": "mother",
+          "person": "manuela-carretero-bragado",
+          "status": "already-linked"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "id": "bisabuelos-correccion-bautismo-enrique",
+      "person": "enrique-brioso-mena",
+      "event": "baptism",
+      "oldValue": "1885-01-29",
+      "sourceValue": "1885-01-29",
+      "sourceVersions": [
+        "bisabuelos-2015",
+        "bisabuelos-2018"
+      ],
+      "excerpt": "Nació en Tardobispo el 28-01-1855. Fue bautizado en Tardobispo el 29-01-1885.",
+      "confirmedValue": "1855-01-29",
+      "familyStatement": "Baptism should be 29-01-1855, day after birth",
+      "decision": "La familia confirma el bautismo el 29-01-1855, al día siguiente del nacimiento. Se corrige baptism.date y se retira únicamente la observación de discrepancia ya resuelta. Se conserva la lectura literal 1885 en los párrafos y hechos de la fuente.",
+      "decidedOn": "2026-11-08"
+    }
+  ],
+  "limits": [
+    "No se crean personas: las ocho personas principales y sus dieciséis progenitores ya existen. Solo se corrige el bautismo de Enrique y se retira su observación de discrepancia, por confirmación familiar del 8 de noviembre de 2026.",
+    "Se mantienen los identificadores y los nombres ampliados por fuentes posteriores, incluidos Josefa Ygenia Rabanal Ibáñez y Ángel Celedonio Prada Girón.",
+    "Las ocho fechas de nacimiento son explícitas; no se calcula ninguna a partir de una edad. Nacimiento y bautismo permanecen separados.",
+    "Las cuatro líneas Falleció expresan fallecimiento; no hay fechas independientes de funeral, entierro ni inscripción. No se deducen esas fechas ni se aplica la regla de otro lote sobre el día anterior a una sepultura.",
+    "No se atribuye lugar a los bautismos de Nicanor, Marcelina, Salvador o Vicenta: no se expresa en el texto. Los lugares entre paréntesis de los padres son referencias, no nuevos nacimientos.",
+    "Las líneas incompletas de matrimonio o fallecimiento no aportan hechos. La frase de matrimonio repetida de Benito se coteja como un solo matrimonio.",
+    "No se restauran lugares de referencia redundantes ni se deshacen las precisiones de fuentes posteriores sobre iglesias, nombres o fechas de muerte y sepultura.",
+    "Las fotografías se revisarán en una etapa posterior; este cotejo documental no verifica sus partidas."
+  ],
+  "pending": [],
+  "summary": {
+    "principalPeopleReviewed": 8,
+    "existingParentsReviewed": 16,
+    "birthsReviewed": 8,
+    "baptismsReviewed": 8,
+    "datedMarriagePairsReviewed": 3,
+    "deathsReviewed": 4,
+    "existingDeathCausesReviewed": 4,
+    "peopleAdded": 0,
+    "personRecordsChanged": 1,
+    "sourceIdentities": 1,
+    "sourceVersions": 2
+  },
+  "verification": {
+    "buildCommand": "node familia/build-data.mjs",
+    "buildResult": {
+      "people": 985,
+      "surnames": 221,
+      "places": 85
+    },
+    "testCommand": "node --test familia/tree-layout.test.mjs",
+    "testsPassed": 26,
+    "testsFailed": 0,
+    "generatedPeopleChecked": [
+      "nicanor-calvo-martin",
+      "marcelina-mendez-maillo",
+      "salvador-piorno-tuda",
+      "vicenta-santiago-sastre",
+      "enrique-brioso-mena",
+      "balbina-perez-sanchez",
+      "benito-de-las-heras-rabanal",
+      "ma-antonia-prada-carretero"
+    ],
+    "parentLinksChecked": 16,
+    "comparisonWithPreviousRecords": "Solo cambia baptism.date de Enrique de 1885-01-29 a 1855-01-29 y se retira su observación de discrepancia resuelta. Los otros 984 registros permanecen idénticos.",
+    "websiteCodeAndDesignChanged": false
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "batch": "ABUELOS — fotografías de partidas",
+  "reviewedOn": "2026-11-08",
+  "originalsDirectory": "Árbol genealógico/Abuelos (fuera del repositorio)",
+  "method": "Cada partida se transcribió antes de cotejarla con el árbol. Se inspeccionaron los originales y recortes a resolución nativa. Los huecos se marcan [ilegible]; la transcripción conserva grafía y abreviaturas, sin comentarios editoriales.",
+  "derivedDocument": {
+    "id": "abuelos-docx",
+    "title": "ABUELOS.docx",
+    "versions": [
+      {
+        "directory": "Árbol genealógico/Abuelos",
+        "modified": "2015-07-18",
+        "sha256": "f1fb3314628b0eb36f3e00e0166581dfbbb39f32edd9cfca7a678fac445d2399"
+      },
+      {
+        "directory": "Árbol genealógico2",
+        "modified": "2017-09-28",
+        "sha256": "156e2006e9af7f2dc4eb2b0bb3a2608c8c884d7ea0912e063d7711296b1523a9"
+      }
+    ],
+    "comparison": "La versión de 2017 añade las fechas de fallecimiento de Bernardo y Ángela y la iglesia de San Torcuato para Ángela; esos datos ya estaban en el árbol. Ambas son versiones de una misma fuente y ambas dan 02-06-1918 para el bautismo de Bernardo."
+  },
+  "entries": [
+    {
+      "id": "abuelos-bautismo-miguel-1872",
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Miguel Calvo Méndez.JPG",
+          "sha256": "95e649b788f7ec5f945429d8e4752ad2010500a7ab391f2d96daf6bcf3a21913",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página derecha; partida inferior, margen «Miguel, hijo de Nicanor Calvo y Marcelina Mendez»."
+        }
+      ],
+      "transcription": "Miguel, hijo de Nicanor\nCalvo y Marcelina Mendez\n\nEn Casaseca de las Chanas, Diocesis de Zamora á trece de\nFebrero de mil ochocientos setenta y dos, yo el Presbitero D.\nMariano Calvo, residente en este pueblo, con licencia de D.\nTeodoro Sanchez, parroco de la Iglesia de San Juan Bautista, unica en es-\nte, á peticion de sus padres, bauticé solemnemente, puse los Santos Oleos y\npor nombre Miguel á un niño que habia nacido el dia once del mismo\ncomo á las once de la noche, hijo legitimo y de legitimo Matrimonio de\nNicanor Calvo y Marcelina Mendez, naturales y vecinos de este de Ca-\nsaseca; abuelos paternos, Lucas y Felipa Martin; maternos, Manuel y Fe-\nliciana Mayllo, todos naturales de este; fue su padrino Lorenzo Gago, soltero,\nnatural de Madridanos, á quien advertí el parentesco espiritual y demas o-\nbligaciones cristianas. Y por ser verdad lo firmo fecha ut supra =\nMariano Calvo\nTeodoro Sanchez",
+      "facts": {
+        "person": "Miguel",
+        "birth": {
+          "date": "1872-02-11",
+          "time": "aproximadamente 23:00",
+          "excerpt": "habia nacido el dia once del mismo como á las once de la noche"
+        },
+        "baptism": {
+          "date": "1872-02-13",
+          "place": "Casaseca de las Chanas",
+          "church": "San Juan Bautista",
+          "officiant": "Mariano Calvo",
+          "excerpt": "En Casaseca de las Chanas ... á trece de Febrero de mil ochocientos setenta y dos ... bauticé"
+        },
+        "parents": [
+          "Nicanor Calvo",
+          "Marcelina Mendez"
+        ],
+        "parents_origin_and_residence": "Casaseca de las Chanas",
+        "paternal_grandparents": [
+          "Lucas",
+          "Felipa Martin"
+        ],
+        "maternal_grandparents": [
+          "Manuel",
+          "Feliciana Mayllo"
+        ],
+        "grandparents_origin": "Casaseca de las Chanas",
+        "godfather": {
+          "name": "Lorenzo Gago",
+          "status": "soltero",
+          "origin": "Madridanos"
+        },
+        "other_dates": []
+      },
+      "links": [
+        {
+          "person": "miguel-calvo-mendez",
+          "event": "birth"
+        },
+        {
+          "person": "miguel-calvo-mendez",
+          "event": "baptism"
+        }
+      ],
+      "identification": "Coinciden Nicanor Calvo y Marcelina Méndez, sus cuatro abuelos, la fecha de nacimiento y Casaseca de las Chanas.",
+      "readingUncertainties": [
+        {
+          "excerpt": "Feliciana Mayllo",
+          "issue": "La grafía del apellido parece Mayllo (con y); no se normaliza a Maíllo en la transcripción."
+        },
+        {
+          "excerpt": "Lorenzo Gago",
+          "issue": "Lectura del apellido del padrino: Gago; conviene cotejo adicional si se pretende identificarlo."
+        }
+      ]
+    },
+    {
+      "id": "abuelos-bautismo-lucia-1880",
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Lucía Piorno Santiago.JPG",
+          "sha256": "206546ea947e0c91ab58d8a66fbcfc92f0a46924e846eff21ab3cb56616fcc25",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página derecha, partida central completa con margen «Lucia hija de Salvador Piorno y Vicenta Santiago»."
+        }
+      ],
+      "transcription": "Lucia\nhija de Salvador\nPiorno y Vicen-\nta Santiago.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora á veinte y cua-\ntro de Marzo de mil ochocientos ochenta Yo el Parroco de su unica Iglesia\nbauticé solemnemente y puse por nombre Lucia á una niña que nació\nel dia anterior á las diez y media de la mañana hija legitima de Salvador\nPiorno natural de Malillos de Sayago y de Vicenta Santiago de Fadon de Sayago y mis\nfeligreses. Abuelos paternos Julian natural de [ilegible] y Tomasa Tuda de Ma-\n[ilegible]; maternos Carlos y Maria Sastre naturales de dho Fadon. Padrino Anto-\nnio Anton natural de este de Casaseca y Lucia Alonso Piorno de San Lazaro\nextra muros de Zamora á quienes les advertí lo que previene el Ritual.\nY para que conste lo firmo fecha ut supra\nSeveriano Merino Calvo",
+      "facts": {
+        "person": "Lucia",
+        "birth": {
+          "date": "1880-03-23",
+          "time": "10:30",
+          "excerpt": "el dia anterior á las diez y media de la mañana"
+        },
+        "baptism": {
+          "date": "1880-03-24",
+          "place": "Casaseca de las Chanas",
+          "church": "su unica Iglesia",
+          "excerpt": "á veinte y cuatro de Marzo de mil ochocientos ochenta ... bauticé"
+        },
+        "parents": [
+          {
+            "name": "Salvador Piorno",
+            "origin_reading": "Malillos de Sayago"
+          },
+          {
+            "name": "Vicenta Santiago",
+            "origin_reading": "Fadon de Sayago"
+          }
+        ],
+        "paternal_grandparents": [
+          {
+            "name": "Julian",
+            "origin_reading": "[ilegible]"
+          },
+          {
+            "name": "Tomasa Tuda",
+            "origin_reading": "Ma- / [ilegible]"
+          }
+        ],
+        "maternal_grandparents": [
+          {
+            "name": "Carlos",
+            "origin_reading": "dho Fadon"
+          },
+          {
+            "name": "Maria Sastre",
+            "origin_reading": "dho Fadon"
+          }
+        ],
+        "godparents": [
+          {
+            "name": "Antonio Anton",
+            "origin": "Casaseca"
+          },
+          {
+            "name": "Lucia Alonso Piorno",
+            "origin": "San Lazaro extra muros de Zamora"
+          }
+        ],
+        "other_dates": []
+      },
+      "links": [
+        {
+          "person": "lucia-piorno-santiago",
+          "event": "birth"
+        },
+        {
+          "person": "lucia-piorno-santiago",
+          "event": "baptism"
+        }
+      ],
+      "identification": "Coinciden Salvador Piorno y Vicenta Santiago, sus cuatro abuelos, la fecha de nacimiento y Casaseca de las Chanas; no se usa la localidad ilegible de Julián para identificarlo.",
+      "readingUncertainties": [
+        {
+          "excerpt": "Julian natural de [ilegible]",
+          "issue": "Localidad del abuelo paterno no leída con seguridad; los trazos podrían parecer «Gandue» o «Gandune». No se identifica ni normaliza."
+        },
+        {
+          "excerpt": "Tomasa Tuda de Ma-\n[ilegible]",
+          "issue": "El final del topónimo, partido entre líneas, no se resuelve con seguridad."
+        }
+      ]
+    },
+    {
+      "id": "abuelos-matrimonio-miguel-lucia-1898",
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Miguel Calvo y Lucía Piorno.JPG",
+          "sha256": "2e3606f8232ea5925c61129991f1eb370cd679e049550142c747ac9d3b3be307",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página derecha, partida completa central/inferior, margen «Calvo / Piorno»."
+        }
+      ],
+      "transcription": "Calvo\nPiorno\n\nEn la Iglesia Parroquial de San Juan Bautista unica en este Pueblo de Casa-\nseca de las Chanas, Diocesis y Provincia de Zamora á nueve de Noviembre de\nmil ochocientos noventa y ocho Yo Dn. Manuel Santos, Presbitero, Capellan de la\nmisma con licencia del Parroco Dn. Severiano Merino asisti al Matrimo-\nnio que por palabras de presente contrajeron in facie Ecclesiae Miguel Calvo\nMendez de estado soltero natural y residente en este de oficio labrador de\nveintitres años de edad hijo legitimo de Nicanor Calvo ya difunto en este\ny Marcelina Mendez naturales y vecina del mismo con Lucia Piorno\ndel mismo estado, naturaleza y residencia de dieziocho años de edad,\ndedicada á las ocupaciones propias de su sexo hija legitima de Sal-\nvador Piorno natural de Malillos de Sayago y Vicenta Santiago de Fa-\ndon de Sayago y vecinos de este de Casaseca. Precedieron las tres canoni-\ncas amonestaciones que se publicaron los dias treinta del mes proxi-\nmo pasado, primero y seis del corriente de las que no resultó impe-\ndimento alguno. Obtuvieron los contrayentes respectivamente el con-\nsejo y consentimiento paterno y materno. Fueron examinados y aproba-\ndos en doctrina cristiana, recibieron las bendiciones nupciales y comul-\ngaron dentro de la misa siendo testigos Tomas Calvo Morales, Manuel\nMartin y Marcelino [ilegible] domiciliados en este y naturales. Y para que cons-\nte lo firmamos fecha ut supra.\nSeveriano Merino\nManuel Santos",
+      "facts": {
+        "marriage": {
+          "date": "1898-11-09",
+          "place": "Casaseca de las Chanas",
+          "church": "San Juan Bautista",
+          "officiant": "Manuel Santos",
+          "permission_by": "Severiano Merino"
+        },
+        "groom": {
+          "name": "Miguel Calvo Mendez",
+          "status": "soltero",
+          "occupation": "labrador",
+          "origin_and_residence": "Casaseca de las Chanas",
+          "parents": [
+            "Nicanor Calvo",
+            "Marcelina Mendez"
+          ],
+          "father_status": "ya difunto en este",
+          "mother_status": "vecina del mismo"
+        },
+        "bride": {
+          "name": "Lucia Piorno",
+          "status": "soltera",
+          "origin_and_residence": "Casaseca de las Chanas",
+          "occupation": "ocupaciones propias de su sexo",
+          "parents": [
+            {
+              "name": "Salvador Piorno",
+              "origin_reading": "Malillos de Sayago"
+            },
+            {
+              "name": "Vicenta Santiago",
+              "origin_reading": "Fadon de Sayago"
+            }
+          ],
+          "parents_residence": "Casaseca"
+        },
+        "banns_dates": [
+          "1898-10-30",
+          "1898-11-01",
+          "1898-11-06"
+        ],
+        "nuptial_blessing": "1898-11-09",
+        "witnesses": [
+          "Tomas Calvo Morales",
+          "Manuel Martin",
+          "Marcelino [ilegible]"
+        ],
+        "precision_note": "No convertir las edades declaradas en fechas exactas de nacimiento. La mención de Nicanor difunto solo fija un fallecimiento anterior al matrimonio; no da fecha exacta."
+      },
+      "links": [
+        {
+          "person": "miguel-calvo-mendez",
+          "event": "marriages[0]"
+        },
+        {
+          "person": "lucia-piorno-santiago",
+          "event": "marriages[0]"
+        }
+      ],
+      "identification": "Coinciden ambos cónyuges, los cuatro padres, Casaseca de las Chanas y el 09-11-1898. La edad de Miguel se coteja por separado.",
+      "readingUncertainties": [
+        {
+          "excerpt": "dieziocho",
+          "issue": "Se conserva la grafía aparente del número escrito; valor leído 18."
+        },
+        {
+          "excerpt": "Marcelino [ilegible]",
+          "issue": "El apellido del tercer testigo no se lee con seguridad; se conserva un hueco en la transcripción."
+        },
+        {
+          "excerpt": "Dn.",
+          "issue": "Se representa la abreviatura de Don, con n de menor tamaño, como Dn.; no se expande."
+        },
+        {
+          "excerpt": "veintitres años",
+          "issue": "Relectura en recorte nativo: veintitres, no veintiseis. Se registra la edad declarada y se cotejará por separado con el nacimiento."
+        }
+      ]
+    },
+    {
+      "id": "abuelos-bautismo-bernardo-1878",
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Bernardo Brioso Pérez.JPG",
+          "sha256": "e2da3b5bc52a0d7fbc668567642d8f3f448ab9221acbcffd2af4756f89e04261",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Entrada inferior de la página, nota marginal «Bernardo Brioso de Enrique y de Balbina Perez»."
+        },
+        {
+          "filename": "Bernardo Brioso Pérezb.JPG",
+          "sha256": "555ec6cc249a4c2a8d08b331e726f93464dd580b1665ea9dd77f6f26cd42d152",
+          "width": 2848,
+          "height": 4288,
+          "entryLocator": "Entrada inferior de la página, nota marginal «Bernardo Brioso de Enrique y de Balbina Perez»."
+        }
+      ],
+      "transcription": "Bernardo Brioso\nde Enrique y de\nBalbina Perez.\n\nEn el dia dos de Junio del año mil ochocientos setenta y ocho Yo\nel infrascripto Cura parroco de Tardobispo y sus anejos bautice\nsolemnemente y puse los Stos Oleos a un niño que nació el dia\nanterior al de la fecha, aquien puse por nombre Bernardo hijo\nlegitimo de Enrique Brioso y Balbina Perez naturales de este\npueblo: Abuelos paternos Dn Florencio Brioso natural de Morales\ndel Vino y Antonia Mena de Tardobispo: Maternos Esteban\nPerez de Tardobispo y Eduviges Sanchez del Cubo del Vino: fue\nsu padrino Agustin Mena mayor tio del bautizado aquien ad-\nverti sus obligaciones: fueron testigos Valeriano Perez y Mariano\n[ilegible] de esta vecindad. Y para que conste, lo firmo fecha ut supra.\nManuel [ilegible]",
+      "facts": {
+        "baptismDate": "1878-06-02",
+        "birthDate": "1878-06-01",
+        "birthDateBasis": "«nació el dia anterior al de la fecha»",
+        "name": "Bernardo",
+        "father": "Enrique Brioso",
+        "mother": "Balbina Perez",
+        "parentsOrigins": "naturales de este pueblo",
+        "paternalGrandfather": "Florencio Brioso",
+        "paternalGrandfatherOrigin": "Morales del Vino",
+        "paternalGrandmother": "Antonia Mena",
+        "paternalGrandmotherOrigin": "Tardobispo",
+        "maternalGrandfather": "Esteban Perez",
+        "maternalGrandfatherOrigin": "Tardobispo",
+        "maternalGrandmother": "Eduviges Sanchez",
+        "maternalGrandmotherOrigin": "Cubo del Vino",
+        "godfather": "Agustin Mena, mayor, tio del bautizado",
+        "ministerParish": "Tardobispo y sus anejos",
+        "explicitBirthPlace": null,
+        "explicitBaptismPlace": null
+      },
+      "links": [
+        {
+          "person": "bernardo-brioso-perez",
+          "event": "birth"
+        },
+        {
+          "person": "bernardo-brioso-perez",
+          "event": "baptism"
+        }
+      ],
+      "identification": "Coinciden Enrique Brioso y Balbina Pérez, los cuatro abuelos y el nacimiento del 01-06-1878. Son dos fotografías de una sola partida.",
+      "readingUncertainties": [
+        "No se resuelve con seguridad el apellido del testigo Mariano; podría leerse Cazon/Caxon. Se conserva [ilegible].",
+        "El nombre de pila de la abuela materna se lee «Eduviges», sin insertar una segunda i.",
+        "Firma: se lee Manuel, pero no resuelvo con seguridad el apellido; se conserva [ilegible]. La propuesta Campano requiere cotejo por otro lector."
+      ]
+    },
+    {
+      "id": "abuelos-bautismo-angela-1881",
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ángela de las Heras Prada.JPG",
+          "sha256": "f0da3d9172e0a1237a8660201425f8d1ee780f2dfca78fb40c0f7ccab7d1aa01",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Ángela de las Heras, lower entry; folio 125 visible in portrait photo"
+        },
+        {
+          "filename": "Ángela de las Heras Pradab.JPG",
+          "sha256": "3c60ffaf06da37ee55c1286861647d105a9e216df368b68eaa4c7f9ffbd0f9d2",
+          "width": 2848,
+          "height": 4288,
+          "entryLocator": "Ángela de las Heras, lower entry; folio 125 visible in portrait photo"
+        }
+      ],
+      "transcription": "Angela de las Heras\nde Benito y Maria\nAntonia Prada.\n\nEn el dia veinte y cinco de Agosto del año mil ochocientos\nochenta y uno Yo el infrascripto Cura parroco de Tardobispo y\nsus anejos bauticé solemnemente y puse los Stos. Oleos a una\nniña que nació el dia veinte y tres de dicho mes, a quien puse\npor nombre Angela hija legitima de Benito de las Heras\ny Maria Antonia Pradas naturales de Tardobispo: abuelos\npaternos Francisco de las Heras natural de [ilegible] y Josefa\nRabanal natural de Zamora de la parroquia de San Esteban:\nmaternos Angel Pradas de este pueblo y Manuela Carretero de\nPeleas de Arriba: fue su padrino Manuel Prada tio de la\nbautizada a quien advertí sus obligaciones: testigos Valeriano Perez\ny Ramona [ilegible] de esta vecindad. Y para que conste lo firmo\nfecha ut supra. =\nManuel [ilegible]",
+      "facts": {
+        "person_given_name": "Angela",
+        "birth_date": "1881-08-23",
+        "birth_place_explicit": false,
+        "baptism_date": "1881-08-25",
+        "parish_context": "Tardobispo y sus anejos",
+        "father": "Benito de las Heras",
+        "mother": "Maria Antonia Pradas",
+        "parents_natural_place": "Tardobispo",
+        "paternal_grandfather": "Francisco de las Heras",
+        "paternal_grandmother": "Josefa Rabanal",
+        "paternal_grandmother_natural_place": "Zamora, parroquia de San Esteban",
+        "maternal_grandfather": "Angel Pradas",
+        "maternal_grandmother": "Manuela Carretero",
+        "maternal_grandmother_natural_place": "Peleas de Arriba",
+        "godfather": "Manuel Prada",
+        "godfather_relationship": "tio de la bautizada"
+      },
+      "links": [
+        {
+          "person": "angela-de-las-heras-prada",
+          "event": "birth"
+        },
+        {
+          "person": "angela-de-las-heras-prada",
+          "event": "baptism"
+        }
+      ],
+      "identification": "Coinciden Benito de las Heras y María Antonia Prada, los cuatro abuelos y las fechas 23 y 25 de agosto de 1881. Son dos fotografías de la misma partida, folio 125.",
+      "readingUncertainties": [
+        {
+          "excerpt": "Francisco de las Heras natural de [ilegible]",
+          "issue": "La localidad no se lee con seguridad; no se completa a partir del árbol."
+        },
+        {
+          "excerpt": "Ramona [ilegible]",
+          "issue": "Apellido de la testigo sin lectura segura."
+        },
+        {
+          "excerpt": "Manuel [ilegible]",
+          "issue": "El apellido de la firma no se resuelve con seguridad."
+        },
+        {
+          "excerpt": "Prada / Pradas",
+          "issue": "Se conservan las grafías distintas del margen y del cuerpo; no se modifica ningún nombre del árbol."
+        }
+      ]
+    },
+    {
+      "id": "abuelos-matrimonio-bernardo-angela-1903",
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Bernardo Brioso y Ángela de las Heras.JPG",
+          "sha256": "c2791fef14146e0a679f85a11b16b4394034cf2bd9f90ae0ded9a52020bd2893",
+          "width": 2848,
+          "height": 4288,
+          "entryLocator": "Top continuation of marriage entry; beginning/day/month not photographed"
+        }
+      ],
+      "transcription": "del mil novecientos tres, yo D. Secundino Gómez cura\npropio del mismo pueblo asistí al matrimonio que por\npalabras de presente contrajeron in facie ecclesiæ Ber-\nnardo Brioso de veinti cuatro años de edad de oficio jor-\nnalero natural y residente en este pueblo de Tardobis-\npo hijo legitimo de Enrique y de Balbina Perez de\nla misma vecindad, con Dª Angela de las Heras, del\nmismo pueblo y soltera de veinti tres años de\nedad dedicada á las ocupaciones propias de su sexo\nhija legitima de Benito y de Maria Antonia\nPradas vecinos de este pueblo. Precedieron las tres\ncanonicas moniciones al ofertorio de las tres mi-\nsas festivas, que lo fueron siete once y catorce de\nJunio del presente año sin que resultara\nimpedimento alguno despues de trascurridas las\nveinti cuatro horas de la ultima monicion.\nObtuvieron los contrayentes los consejos favora-\nconsentimiento\nbles paternos, fueron examinados y aprobados en\ndoctrina cristiana y comulgaron dentro de la\nmisa recibiendo las bendiciones nupciales, sien-\ndo testigos Valeriano Perez y Manuel de\nMena de esta vecindad. Y para que conste\nlo firmo.\nSecundino Gómez",
+      "facts": {
+        "marriage_year": "1903",
+        "marriage_day_month_visible": false,
+        "groom": "Bernardo Brioso",
+        "groom_occupation": "jornalero",
+        "groom_natural_and_resident_place": "Tardobispo",
+        "groom_father": "Enrique",
+        "groom_mother": "Balbina Perez",
+        "bride": "Angela de las Heras",
+        "bride_status": "soltera",
+        "bride_place": "del mismo pueblo",
+        "bride_father": "Benito",
+        "bride_mother": "Maria Antonia Pradas",
+        "banns_dates": [
+          "1903-06-07",
+          "1903-06-11",
+          "1903-06-14"
+        ],
+        "witnesses": [
+          "Valeriano Perez",
+          "Manuel de Mena"
+        ],
+        "nuptial_blessings": true
+      },
+      "links": [
+        {
+          "person": "bernardo-brioso-perez",
+          "event": "marriages[0]"
+        },
+        {
+          "person": "angela-de-las-heras-prada",
+          "event": "marriages[0]"
+        }
+      ],
+      "identification": "Coinciden los dos cónyuges, sus cuatro padres, Tardobispo y el año 1903. El 20-06 procede de ABUELOS.docx; no queda verificado por esta continuación.",
+      "readingUncertainties": [
+        {
+          "excerpt": "del mil novecientos tres",
+          "issue": "Es una continuación; el día y el mes del matrimonio no están fotografiados. El año sí se lee."
+        },
+        {
+          "excerpt": "los consejos favora- / consentimiento / bles paternos",
+          "issue": "Hay palabras tachadas y una inserción entre líneas. La transcripción conserva las palabras legibles sin reconstruir la redacción final."
+        }
+      ]
+    },
+    {
+      "id": "abuelos-bautismo-bernardo-1861",
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Bernardo Brioso Pérez (2).JPG",
+          "sha256": "9b769740676cf7210dc5dd91d26a8bfa9d2f912e54ce1be97c9628a6b2bd563e",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Entrada inferior de la página, con nota marginal de Bernardo Brioso; el inicio del margen queda cortado en la fotografía."
+        }
+      ],
+      "transcription": "[ilegible] Brioso\n[ilegible] Florencio y\n[ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos se-\nsenta y uno Yo el infrascripto Cura Parro. de Tar-\ndobispo y sus anejos bautice solemnemente y puse los\nStos Oleos a un niño que nació el dia doce de dicho mes\naquien puse por nombre Bernardo hijo legitimo de Dn\nFlorencio Brioso natural de Morales del Vino y de An-\ntonia Mena de Tardobispo: Abuelos paternos Baltasar\nBrioso de [ilegible] de dicho Morales y Luisa Alonso\nde Moraleja del Vino: Maternos Tomas Mena de Mora-\nles y Valeria Santamaria de San Marcial: fue su pa-\ndrino Jose Alonso tio del bautizado aquien adverti sus\nobligaciones testigos Manuel Perez y Mariano Alonso. Y\npara que conste lo firmo fecha ut supra =\nManuel [ilegible]",
+      "facts": {
+        "baptismDate": "1861-03-15",
+        "birthDate": "1861-03-12",
+        "name": "Bernardo",
+        "father": "Florencio Brioso",
+        "mother": "Antonia Mena",
+        "fatherOrigin": "Morales del Vino",
+        "motherOrigin": "Tardobispo",
+        "paternalGrandfather": "Baltasar Brioso",
+        "paternalGrandmother": "Luisa Alonso",
+        "paternalGrandmotherOrigin": "Moraleja del Vino",
+        "maternalGrandfather": "Tomas Mena",
+        "maternalGrandfatherOrigin": "Morales",
+        "maternalGrandmother": "Valeria Santamaria",
+        "maternalGrandmotherOrigin": "San Marcial",
+        "godfather": "Jose Alonso, tio del bautizado",
+        "ministerParish": "Tardobispo y sus anejos",
+        "explicitBirthPlace": null,
+        "explicitBaptismPlace": null
+      },
+      "links": [
+        {
+          "person": "bernardo-brioso-1861",
+          "event": "birth"
+        },
+        {
+          "person": "bernardo-brioso-1861",
+          "event": "baptism"
+        }
+      ],
+      "identification": "Persona distinta de Bernardo Brioso Pérez: sus padres son Florencio Brioso Alonso y Antonia de Mena Santamaría. Coinciden los cuatro abuelos: Baltasar Brioso, Luisa Alonso, Tomás Mena y Valeria Santamaría, además de sus localidades. Es hermano de Enrique Brioso de Mena. No se añade un segundo apellido al nombre del niño.",
+      "readingUncertainties": [
+        "El nombre del niño al margen está cortado por el borde izquierdo; el cuerpo sí escribe Bernardo.",
+        "La palabra entre «Brioso de» y «de dicho Morales» no se resuelve; se conserva [ilegible].",
+        "La abreviatura de párroco parece «Parro.»; no se expande.",
+        "Firma: se lee Manuel, pero no resuelvo con seguridad el apellido; se conserva [ilegible]. La propuesta Campano requiere cotejo por otro lector."
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "person": "bernardo-brioso-perez",
+      "event": "baptism",
+      "oldValue": "1918-06-02",
+      "sourceValue": "1878-06-02",
+      "sourceId": "abuelos-bautismo-bernardo-1878",
+      "excerpt": "En el dia dos de Junio del año mil ochocientos setenta y ocho",
+      "decision": "La familia autorizó registrar 02-06-1878 y retirar la observación anterior de comprobación pendiente.",
+      "decidedOn": "2026-11-07"
+    },
+    {
+      "person": "miguel-calvo-mendez",
+      "existingValue": "Nacimiento 11-02-1872; matrimonio 09-11-1898: 26 años cumplidos.",
+      "sourceId": "abuelos-matrimonio-miguel-lucia-1898",
+      "sourceReading": "23 años",
+      "excerpt": "veintitres años de edad",
+      "decision": "La familia confirmó mantener el nacimiento documentado y conservar la edad declarada solamente en la transcripción, sin añadir observaciones.",
+      "decidedOn": "2026-11-08"
+    },
+    {
+      "person": "bernardo-brioso-perez",
+      "existingValue": "Nacimiento 01-06-1878; matrimonio 20-06-1903: 25 años cumplidos.",
+      "sourceId": "abuelos-matrimonio-bernardo-angela-1903",
+      "sourceReading": "24 años",
+      "excerpt": "Bernardo Brioso de veinti cuatro años de edad",
+      "decision": "La familia confirmó mantener el nacimiento documentado y conservar la edad declarada solamente en la transcripción, sin añadir observaciones.",
+      "decidedOn": "2026-11-08"
+    },
+    {
+      "person": "angela-de-las-heras-prada",
+      "existingValue": "Nacimiento 23-08-1881; matrimonio 20-06-1903: 21 años cumplidos.",
+      "sourceId": "abuelos-matrimonio-bernardo-angela-1903",
+      "sourceReading": "23 años",
+      "excerpt": "soltera de veinti tres años de edad",
+      "decision": "La familia confirmó mantener el nacimiento documentado y conservar la edad declarada solamente en la transcripción, sin añadir observaciones.",
+      "decidedOn": "2026-11-08"
+    }
+  ],
+  "limits": [
+    "Nueve imágenes documentan siete partidas: cinco bautismos y dos matrimonios. Las parejas de fotografías de los bautismos de 1878 y 1881 cuentan como una sola fuente cada una.",
+    "Ninguna imagen de este lote es una partida de fallecimiento, funeral, entierro o inscripción civil. No se alteran esos datos ni se deducen nuevas fechas de muerte.",
+    "Las fechas de amonestaciones y bendiciones no sustituyen las fechas de matrimonio. No se calcula ninguna fecha de nacimiento a partir de las edades declaradas.",
+    "El nuevo Bernardo de 1861 no recibe lugar de nacimiento ni bautismo: la partida identifica al cura de Tardobispo y sus anejos, sin expresar el lugar de esos eventos.",
+    "Las menciones de padrinos y testigos se conservan en la transcripción y los hechos de la fuente; no crean personas ni enlaces basados solo en nombres."
+  ],
+  "pending": []
+}
