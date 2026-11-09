@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos séptimos — fotografías de partidas (revisión parcial)",
+  "reviewedOn": "2026-11-08",
+  "originalsDirectory": "Árbol genealógico/Tatarabuelos séptimos (fuera del repositorio)",
+  "method": "Transcripción independiente anterior al cotejo del árbol; originales inspeccionados a resolución nativa. Los huecos se marcan [ilegible]. Este registro no afirma la revisión completa de la carpeta.",
+  "entries": [
+    {
+      "id": "septimos-matrimonio-turiel-gago-1669",
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Domingo Turiel e Inés Gago.JPG",
+          "sha256": "c1a8a3c2239eff709d685d3749bbf36d0aac22c63939d41547e88a96fde4e240",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Partida central e inferior, bajo la firma de la partida anterior."
+        }
+      ],
+      "transcription": "en ocho de febrero de mil y seisçientos y sesenta y nuebe yo el liçençiado [ilegible] de carrion cura propio del lugar de [ilegible] y sus anejos despose por palabras de presente q hiçieron berdadero matrimonio [ilegible] abiendo precedido las tres amonestaciones q manda el santo concilio de trento a ines gago biuda de andres [ilegible] y a domingo turiel moço soltero con licencia del [ilegible] bicario vezinos deste lugar siendo testigos [ilegible] y geronimo [ilegible] y pedro gago todos vezinos deste lugar y en fe dello lo firme",
+      "facts": {
+        "marriage": {
+          "date": "1669-02-08",
+          "excerpt": "en ocho de febrero de mil y seisçientos y sesenta y nuebe ... despose por palabras de presente"
+        },
+        "spouses": [
+          "ines gago",
+          "domingo turiel"
+        ],
+        "priorMarriage": "Inés era viuda de Andrés; su apellido no se lee con seguridad.",
+        "residence": "Ambos vecinos del lugar; el cura identifica su parroquia como Vegalatrave, pero la ubicación exacta de la ceremonia no se expresa de forma inequívoca."
+      },
+      "links": [
+        {
+          "person": "domingo-turiel",
+          "event": "marriages",
+          "spouse": "ines-gago"
+        },
+        {
+          "person": "ines-gago",
+          "event": "marriages",
+          "spouse": "domingo-turiel"
+        }
+      ],
+      "matching": "La pareja coincide con los padres de María Turiel Gago, nacida en Vegalatrave en 1672; concuerdan ambos nombres, el lugar y la cronología.",
+      "uncertainties": [
+        "El apellido de Andrés parece «pasapo», sin lectura segura.",
+        "La grafía del topónimo, la fórmula latina y algunos nombres y títulos no se leen con seguridad y se marcan [ilegible]."
+      ]
+    },
+    {
+      "id": "septimos-matrimonio-arroyo-madrid-1690",
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Diego de Arroyo y María Madrid.JPG",
+          "sha256": "454035a8f8e162e8a7ee706d61b66a6dc5a24f0b16f92a2f3ea2ce5922ab719b",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página izquierda, partida superior."
+        }
+      ],
+      "transcription": "Diego de Arroyo y Maria de Madrid\n\nEn quinze dias del mes de Nobiembre de mill seiscientos y nobenta años [ilegible] el Lcdo Geronimo de luelmo cura propio deste lugº de morales, auiendo [ilegible]dido las tres Admonestaciones y no auiendo resultado impedimento alguno [ilegible] por palabras de presente que hazen legitimo matrimonio a Diego [ilegible] Arroyo natural del lugº de la muga de Sayago deste obispado y a Maria M[ilegible]drid natural deste lugº de que fueron testigos los [ilegible] Diego de mena [ilegible] Franº Martin Cordero presbiteros y Matheo Brioso Sacristan todos [ilegible] deste lugº y para q conste lo firme",
+      "facts": {
+        "marriage": {
+          "date": "1690-11-15",
+          "excerpt": "En quinze dias del mes de Nobiembre de mill seiscientos y nobenta años"
+        },
+        "spouses": [
+          "Diego de Arroyo",
+          "Maria de Madrid"
+        ],
+        "origins": [
+          "Diego natural de la Muga de Sayago",
+          "María natural de Morales"
+        ],
+        "residence": "El sacerdote se identifica como cura propio de Morales; no se ha supuesto el lugar de celebración."
+      },
+      "links": [
+        {
+          "person": "diego-de-arroyo",
+          "event": "marriages",
+          "spouse": "maria-madrid"
+        },
+        {
+          "person": "maria-madrid",
+          "event": "marriages",
+          "spouse": "diego-de-arroyo"
+        }
+      ],
+      "matching": "El árbol identifica como padres de Teresa Arroyo a Diego de Arroyo y María Madrid; Teresa nació en Morales del Vino y allí se casó en 1714. Coinciden los nombres de la pareja, la localidad y la cronología.",
+      "uncertainties": [
+        "El margen interior oculta varios finales de línea y partes de los apellidos en el cuerpo del asiento; la cabecera los identifica."
+      ]
+    },
+    {
+      "id": "septimos-fallecimiento-catalina-garrote-1711",
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Garrote.JPG",
+          "sha256": "d8830834d15a1ac4dd172425e303b17f401846b85b6b2ae065c0725b941723ab",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Partida central bajo el asiento anterior de Francisco Benito."
+        }
+      ],
+      "transcription": "En diez y seis de Junio deste presente año de mil setecientos y onze murio Cathalina garrote aviendo Recivido los Sanctos sacramentos enterrose en esta Yglesia parrochial del [ilegible] S. Martin deste Lugar de Abelon hizo testamento ante [ilegible] fernandez Vº del Lugar de fresnadillo tomo por su alma ciento y diez Rs y dellos mando salir onze Rs del entierro, y treinta y seis Rs del nobenario y diez Rs de arder la zera de las Cofradias y ocho Rs de las misas y ocho Rs de la misa de nobena y Cabo de año y las ofrendas que pertenecen a las misas rezadas y dos Rs para una misa a las benditas animas = y mando una misa a santa Cathalina cantada demas desto y que se pague aparte nombro por sus herederos a Joseph Juana y teresa Benito testamentarios Joseph Benito y Alonso Benito y para que conste lo firme como Cura [ilegible] en dicho dia mes y año dichos",
+      "facts": {
+        "death": {
+          "date": "1711-06-16",
+          "excerpt": "En diez y seis de Junio deste presente año de mil setecientos y onze murio Cathalina garrote"
+        },
+        "burial": "Iglesia parroquial de San Martín de Abelón; sin fecha expresada.",
+        "heirs": [
+          "Joseph",
+          "Juana",
+          "teresa Benito"
+        ],
+        "executors": [
+          "Joseph Benito",
+          "Alonso Benito"
+        ]
+      },
+      "links": [
+        {
+          "person": "catalina-garrote-madre-de-juana-benito",
+          "event": "death"
+        }
+      ],
+      "matching": "El árbol identifica a Catalina Garrote y Francisco Benito como padres de Juana Benito Garrote, nacida en Abelón en 1677. La partida nombra a la heredera Juana Benito y se refiere a la iglesia de Abelón. En la partida precedente Francisco Benito nombra los mismos tres herederos. La homónima de Gáname tiene otro fallecimiento documentado.",
+      "uncertainties": [
+        "El nombre antes de Fernández, algunas abreviaturas y tramos no se leen con seguridad; se marcan [ilegible]. No se infiere parentesco solo por la condición de heredero."
+      ]
+    },
+    {
+      "id": "septimos-fallecimiento-isabel-crespo-1723",
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Crespo1.JPG",
+          "sha256": "e9bb8b7a198e84b11bd532c1ca77a2babfdb16799d7f56f5fb7520795b333a6f",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Partida inferior de página derecha."
+        },
+        {
+          "filename": "Muerte de Isabel Crespo2.JPG",
+          "sha256": "f3d8e9c2cc85690e9ea0bd2c09a0e19d39144e324bc52592a155abffc22bf81d",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Continuación superior de página izquierda."
+        }
+      ],
+      "transcription": "El dia Veinte y dos del mes de febrero del año de mil Setecientos, y Veinte y tres Murio Ysabel Crespo muger de Alonso Sesma Vecina deste lugar de Abelon Recivio todos los Santos Sachramentos Con el de la Sª Extrema Unzion. Diosele Sepultura Eclesiastica en la yglª Parrochl. de San Martin de dicho lugar, Junto a la pared que esta al lado de la pila de agua bendita hizo Testamento ante su hijo Manuel Sesma en que tomo Doscientos R. Con esta Calidad, y Condizion abian de ser distribuidos en sufragios por su Anima es a Saber Veinte y dos R. al Conu.to de los Padres descalzos de Zamora; Otros Veinte y dos R. al Conu.to de la [ilegible] de Zamora; luego los derechos Parroquiales, que son Zinquenta y nuebe R. mas dos belas y una misa a [ilegible] del Rosario; [ilegible] Media libra de Zera; al [ilegible] Christo una misa [ilegible] y dos belas de Zera; a [ilegible] una misa, y dos belas de Zera, mas una misa a [ilegible] del Prado; mas mando que la alumbrasen un año Con dos luces, y dos [ilegible] y dos responsos, y las dos misas de las dos Cofradias; y que todo lo dicho, y referido Salga de los dichos Doscientos reales; Conque parece no queda que embiar a la Colecturia dexo por herederos a su marido Alonso Sesma, y a sus hijos Manuel Sesma, Agustin Sesma Maria Sesma, y Ysabel Sesma; y un bestido nuebo a la [ilegible] dicha Ysabel Sesma su hija; y a las obras pias lo acostumbrado; y lo firme Como [ilegible] de Cura Abelon febrero 22 de 1723",
+      "facts": {
+        "death": {
+          "date": "1723-02-22",
+          "excerpt": "El dia Veinte y dos del mes de febrero del año de mil Setecientos, y Veinte y tres Murio Ysabel Crespo"
+        },
+        "residence": "Abelón",
+        "burial": "Iglesia parroquial de San Martín de Abelón, junto a la pared al lado de la pila de agua bendita; sin fecha expresa.",
+        "husband": "Alonso Sesma",
+        "children": [
+          "Manuel Sesma",
+          "Agustin Sesma",
+          "Maria Sesma",
+          "Ysabel Sesma"
+        ]
+      },
+      "links": [
+        {
+          "person": "isabel-crespo",
+          "event": "death"
+        }
+      ],
+      "matching": "La ficha ya identifica a Isabel Crespo y Alonso Sesma como padres de María Sesma Crespo, nacida en Abelón en 1690. Coinciden los nombres del marido y la hija y la localidad.",
+      "uncertainties": [
+        "Las partes de fórmulas, abreviaturas y disposiciones no leídas con seguridad se señalan [ilegible].",
+        "Se añaden tres hijos nombrados y se conserva a María, ya enlazada a Isabel; la partida no dice expresamente que Alonso fuera padre de los otros tres."
+      ]
+    },
+    {
+      "id": "septimos-fallecimiento-catalina-luengo-1707",
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Ortijo2.JPG",
+          "sha256": "b4d6bccb97b0b164a0f273a0c0d1ac3494f937daf866a8b4c6acc94855f725df",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Catalina Luengo: partida central; Juan Ortijo: comienzo inferior."
+        }
+      ],
+      "transcription": "en seis de junio deste presente año de mil setecientos y siete murio Cathalina Luengo muger de Juan ortijo auiendo Recibido los santos Sacramentos hizo testamento berbal ante mi el infra [ilegible] cura tte y dio poder a su marido estando presentes la mayor parte del lugar y dixo tomaba por su alma [ilegible] ducados y que dellos [ilegible] los derechos [ilegible] y unas mandas de [ilegible] de quatro belas a diferentes Santuarios [ilegible] en la yglesia parroquial deste lugar de Abelon en la capilla ultima junto a la tribuna al lado de la epistola y para que conste lo firme como cura tte en dicho dia mes y año dichos",
+      "facts": {
+        "death": {
+          "date": "1707-06-06"
+        },
+        "burial": "Iglesia parroquial de Abelón; sin fecha expresa.",
+        "spouse": "Juan ortijo"
+      },
+      "links": [
+        {
+          "person": "catalina-luengo-madre-de-martin-ortizo",
+          "event": "death"
+        }
+      ],
+      "matching": "Identidad de los padres de Martín Ortizo Luengo confirmada por la familia el 8 de noviembre de 2026.",
+      "uncertainties": [
+        "Tramos de las disposiciones y las abreviaturas no leídos con seguridad se marcan [ilegible]."
+      ]
+    },
+    {
+      "id": "septimos-fallecimiento-juan-ortijo-1707",
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Ortijo2.JPG",
+          "sha256": "b4d6bccb97b0b164a0f273a0c0d1ac3494f937daf866a8b4c6acc94855f725df",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Catalina Luengo: partida central; Juan Ortijo: comienzo inferior."
+        },
+        {
+          "filename": "Muerte de Juan Ortijo1.JPG",
+          "sha256": "eb3954189e7a73f02fcb9c1357639871ec2262dfc31cae53c4e55f01dd85abef",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Continuación de la partida de Juan Ortijo en la parte superior."
+        }
+      ],
+      "transcription": "en diez y siete de Junio deste presente año de mil setecientos y siete murio Juan ortijo auiendo Recibido los santos Sacramentos hizo testamento ante mi el cura tte [ilegible] por su alma diez y siete ducados y que dellos saliesen los derechos Parrochiales y tres belas de a medio quarteron para diversos Santos y dexo por sus unicos herederos a quatro hijos dejo por testamentarios a franº Benito martin ortijo y domingo Crespo [ilegible] en esta yglesia parroquial en la capilla ultima acia la tribuna al lado del Evangelio y para que conste lo firme como cura tte en dicho dia mes y año dichos",
+      "facts": {
+        "death": {
+          "date": "1707-06-17"
+        },
+        "burial": "Iglesia parroquial de Abelón; sin fecha expresa.",
+        "heirs": "cuatro hijos; no nombra a los cuatro en el asiento"
+      },
+      "links": [
+        {
+          "person": "juan-ortizo",
+          "event": "death"
+        }
+      ],
+      "matching": "Identidad de los padres de Martín Ortizo Luengo confirmada por la familia el 8 de noviembre de 2026.",
+      "uncertainties": [
+        "Tramos de las disposiciones y las abreviaturas no leídos con seguridad se marcan [ilegible]."
+      ]
+    },
+    {
+      "id": "septimos-matrimonio-luelmo-pinto-1664",
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Juan Luelmo y María Pinto.JPG",
+          "sha256": "bd32b2b28f9bbb960c335b8791edd04227f6c70de1f2d94141c7497dbb9dcd5c",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página derecha, asiento central y anotación inmediatamente inferior."
+        }
+      ],
+      "transcription": "En 2 de febrero de 1664 [ilegible] abiendo dado las tres amonestaciones que manda el Sto Concilio de Trento, en tres dias festibos al ofertorio de la missa mayor despose por palabras de presente a Juº de Luelmo hijo de Bartolome de luelmo y de Ynes Martin, y a Maria pinto hija de Juan pinto y de Catalina de la calle. fueron testigos Lorenzo simon y [ilegible] y alonso marquez y lo firme.\n\nen 29 de setiembre de 1664 [ilegible] Juº de luelmo y [ilegible] pinto. fueron padrinos Juº de luelmo y Maria [ilegible] y lo firme",
+      "facts": {
+        "marriage": {
+          "date": "1664-02-02",
+          "excerpt": "En 2 de febrero de 1664 ... despose por palabras de presente"
+        },
+        "spouses": [
+          "Juan de Luelmo",
+          "María Pinto"
+        ],
+        "groomParents": [
+          "Bartolome de luelmo",
+          "Ynes Martin"
+        ],
+        "brideParents": [
+          "Juan pinto",
+          "Catalina de la calle"
+        ],
+        "laterEntry": "El asiento inferior tiene fecha de 29 de septiembre de 1664; no se ha registrado como una segunda fecha de matrimonio."
+      },
+      "links": [
+        {
+          "person": "juan-de-luelmo-padre-de-jeronimo",
+          "event": "marriages",
+          "spouse": "maria-pinto"
+        },
+        {
+          "person": "maria-pinto",
+          "event": "marriages",
+          "spouse": "juan-de-luelmo-padre-de-jeronimo"
+        }
+      ],
+      "matching": "La familia confirmó que Juan y María son los padres de Jerónimo de Luelmo Pinto y que este Juan es distinto del padre de María Luelmo Martín. Bartolomé de Luelmo e Inés Martín coinciden con los padres ya registrados de María de Luelmo Martín, de Morales del Vino.",
+      "uncertainties": [
+        "El verbo y partes de la anotación de septiembre no se leen con seguridad."
+      ]
+    },
+    {
+      "id": "septimos-sepultura-alonso-sesma-1726",
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Sesma1.JPG",
+          "sha256": "9547a129de87046ba57459ec18f46c5e57b337be4d44325ce8cc6062d51845a1",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Página derecha, partida inferior."
+        },
+        {
+          "filename": "Muerte de Alonso Sesma2.JPG",
+          "sha256": "57507994bdc1554504e3ec3ba9472ad88fe2b381dbff6686002ed2cfaf38a2eb",
+          "width": 4288,
+          "height": 2848,
+          "entryLocator": "Parte superior de página izquierda; continuación de la partida."
+        }
+      ],
+      "transcription": "El dia Veinte y cinco de nobiembre del año de mil Setecientos y Veinte y seis, Se dio Sepultura en la yglesia parroquial de San Martin del lugar de abelon, abajo de la pila del agua bendita, a Alonso Sesma Viudo Vecino de dicho lugar, Recibio los Santos Sacramentos con el de la Santa estremauncion, y hizo testamento, y tomo para acer bien por su anima Cien Reales [ilegible] y bino, Mas mando Cien Reales al Combento de la Santisima Trinidad de Zamora [ilegible] Mas dos Misas [ilegible] otra al Angel de la guarda [ilegible] Manuel Sesma [ilegible] y Joseph blanco [ilegible] Maria, Manuel, Agustin y Isabel [ilegible] lo firmo en dicho lugar dicho dia mes y año",
+      "facts": {
+        "burial": {
+          "date": "1726-11-25",
+          "place": "Abelón",
+          "church": "San Martín",
+          "excerpt": "El dia Veinte y cinco de nobiembre ... Se dio Sepultura ... a Alonso Sesma Viudo"
+        },
+        "death": "La partida no declara fecha de fallecimiento."
+      },
+      "links": [
+        {
+          "person": "alonso-sesma",
+          "event": "burial"
+        }
+      ],
+      "matching": "La familia confirmó que el viudo Alonso Sesma es la persona ya registrada, marido de Isabel Crespo y padre de María Sesma Crespo.",
+      "uncertainties": [
+        "La continuación parece nombrar María, Manuel, Agustín e Isabel, pero las palabras circundantes están borrosas y no permiten atribuirles con seguridad una relación concreta a partir de este asiento."
+      ]
+    }
+  ],
+  "pending": "Las demás fotografías de la carpeta todavía no están incorporadas ni plenamente transcritas.",
+  "pendingIdentities": [
+    {
+      "candidate": "lorenzo-hernandez",
+      "image": "Lorenzo Hernández Tamame.JPG",
+      "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4",
+      "sourceExcerpt": "Baptize a Lorenço Hijo de Lorenço [ilegible] y de Ynes Tamame",
+      "sourceReading": "Bautismo en El Perdigón el 6 de febrero de 1628; el apellido del padre puede leerse Hernández o Fernández y requiere comprobación. La transcripción completa queda pendiente.",
+      "existing": "Lorenzo Hernández, padre de Francisco Hernández de Segovia, nacido en El Perdigón en 1656, con María de Segovia; sin padres ni bautismo en la ficha.",
+      "familyResponse": "El 8 de noviembre de 2026 la familia indicó que no sabe si son la misma persona. El extracto presentado entonces leyó Hernández con demasiada seguridad; una revisión posterior también admite Fernández. No se vinculan."
+    },
+    {
+      "candidate": "luis-de-valladolid",
+      "image": "Luis Valladolid Gaitán.JPG",
+      "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04",
+      "sourceExcerpt": "en dos de febº bautize a luis hijo de Domingo valladolid y Maria gaitana",
+      "sourceReading": "Bautismo el 2 de febrero bajo el encabezamiento del año 1657; lectura y transcripción completa pendientes de comprobación adicional.",
+      "existing": "Luis de Valladolid, padre de Agustín Valladolid San Juan, nacido en Casaseca de las Chanas en 1684; sin padres ni bautismo en la ficha.",
+      "familyResponse": "El 8 de noviembre de 2026, la familia indicó que no sabe si son la misma persona. No se vinculan."
+    }
+  ],
+  "imageInventory": [
+    {
+      "filename": "Alonso Delgado Galán.JPG",
+      "sha256": "0042eba6eba7d3064cebc3afc97d60ec119e535914ce9d004225875f89470338",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Day, priest and remaining text; abbreviations and exact spelling require review."
+      ]
+    },
+    {
+      "filename": "Alonso García Blanco.JPG",
+      "sha256": "f4d1edb6f0dc5f12066bafa3480b5bcb9b21ce7dfa36e007ae5f34de9a0cc71c",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Mother's given name, priest, godparents, exact abbreviations and rest."
+      ]
+    },
+    {
+      "filename": "Alonso Rodríguez Martín.JPG",
+      "sha256": "52b83cb20554abf50cb5a011bca0ec011cdd9997d3b9f8bd2cc780e23df52a35",
+      "status": "transcripción interna; identidad pendiente",
+      "researchNotes": [
+        "Year appears 1611 but requires verification; transcribe and preserve source abbreviations carefully."
+      ]
+    },
+    {
+      "filename": "Ana Hernández de la Iglesia.JPG",
+      "sha256": "c24a6658bd75b6e4cc25be5f5fa9ef90a1d15da97398432e31b650f8d2189bec",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Father's given name, mother's abbreviation and other text."
+      ]
+    },
+    {
+      "filename": "Ana Luelmo Martín.JPG",
+      "sha256": "c40c5027f2dac93313b268d69fc243430eeee68fe899fa61ef16c7f5e2da9bcd",
+      "status": "transcripción interna; identidad pendiente",
+      "researchNotes": [
+        "Exact spelling, capitalization and remaining text require review."
+      ]
+    },
+    {
+      "filename": "Ana Morales Simón.JPG",
+      "sha256": "916ffb298fe59889297c7ac8c0aba27e992c195c93a2bfcb30a83ca1c00db2bf",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Year is not stated in entry; a later entry gives 1678 but contextual year requires verification. Exact text requires review."
+      ]
+    },
+    {
+      "filename": "Andrés Pascual Salvador.JPG",
+      "sha256": "35c9abafba53880977bf4cf6613531fc8339c1a786feca0d2f4ae9c419b9a3e8",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Exact lettering, spelling and godfather's surname require review."
+      ]
+    },
+    {
+      "filename": "Blas Morales Mateo.JPG",
+      "sha256": "a600441f38189ef14b3338f76a14e9c8f94a12b0330b515515f2eede17a45985",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Date and parents not safely read."
+      ]
+    },
+    {
+      "filename": "Catalina Alonso García.JPG",
+      "sha256": "f659fd80c8fba08298cd9b38784b474c75f42f0d50cfca6b64875a318158fcef",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Unable to establish date or parents safely."
+      ]
+    },
+    {
+      "filename": "Catalina Colástica Carnero.JPG",
+      "sha256": "0b61dfb3f04caec0e1c6c19148935f8a42bf07c2ac7d32d00123ec4fb36a77d4",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Father's surname may read Eslastica; godfather's surname may read Vera, but both are uncertain. Verify exact abbreviations and entire text."
+      ]
+    },
+    {
+      "filename": "Catalina Jurado Delgado.JPG",
+      "sha256": "cc50b695436d373e071ae6e5ffd6e85885d835f819fc0bb72c0b189f4b68c355",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "El número del día parece 21 o 24 y requiere revisión; no se atribuye uno de ellos. Lugar y firma de celebrante y algunos testigos requieren nueva lectura. La Catalina de esta partida es hija de Alonso Jurado y Catalina Delgado. Esos padres están registrados para María Jurado Delgado, nacida en Casaseca en 1622; se documentaría una hermana de María. Catalina Jurado existente es madre de Catalina Delgado Jurado, nacida en Casaseca en 1656; no está demostrada la identidad entre ambas Catalina.",
+        "La familia indicó el 9 de noviembre de 2026 que no sabe si esta Catalina es la existente; no se vincula."
+      ]
+    },
+    {
+      "filename": "Cristóbal Conde Hernández.JPG",
+      "sha256": "6cdb3f925097d8f273eae622842153d3ce47c4e6deb4cdeca793de1eb0b81572",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "La anotación superior parece 1619; el texto del año parece decir diez i nuebe; comprobar la lectura a resolución nativa. La madre y los nombres de padrinos y testigos quedan parcialmente ocultos en el pliegue. No hay una ficha inequívoca de Cristóbal Conde identificada en los datos existentes."
+      ]
+    },
+    {
+      "filename": "Diego de Arroyo y María Madrid.JPG",
+      "sha256": "454035a8f8e162e8a7ee706d61b66a6dc5a24f0b16f92a2f3ea2ce5922ab719b",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Domingo Calvo Álvarez.JPG",
+      "sha256": "53b826829b0cc05161bd42ad1d124c28fecaa51723511cd825b0ebb1f424cba0",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "La fecha expresa la aplicación de los santos óleos; no se indica de forma segura la fecha de nacimiento ni que sea la fecha exacta de bautismo. Las palabras tachadas y los nombres de padrinos requieren nueva lectura. El Domingo Calvo existente es padre de Francisco Calvo García, nacido en Arcenillas en 1640; no figuran padres ni fecha de nacimiento de Domingo, de modo que nombre y época no identifican a la persona con seguridad."
+      ]
+    },
+    {
+      "filename": "Domingo Calvo Álvarez2.JPG",
+      "sha256": "c812c943fb37025f933a5d44cd3a892471aab6e0b500f945323f4ed7494359cf",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "El nombre queda parcialmente oculto junto al pliegue; no se identifica ningún familiar. Este fallecimiento es una partida distinta de la aplicación de óleos de la otra imagen. No se puede demostrar que ambas correspondan al mismo Domingo a partir del nombre de archivo. No consta información suficiente para identificar inequívocamente al Domingo Calvo ya registrado."
+      ]
+    },
+    {
+      "filename": "Domingo Gil Triguero.JPG",
+      "sha256": "78097a2b3a27e673012957df40c06d17c1e0fd171573eec36cf0e9faf88ef602",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "El año termina en un área próxima al pliegue, parcialmente oculta; no se deduce por la secuencia de partidas. El nombre de la madre queda cortado; parece María, pero no se completa desde el nombre del archivo. El bautizado es Felipe, hijo de Domingo Gil: no es una partida de bautismo de Domingo. Existe un Felipe Gil, padre de Juana Gil Sariñana, nacida en Toro en 1668, pero no se ha demostrado que sea el bautizado."
+      ]
+    },
+    {
+      "filename": "Domingo Turiel e Inés Gago.JPG",
+      "sha256": "c1a8a3c2239eff709d685d3749bbf36d0aac22c63939d41547e88a96fde4e240",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Gabriel de Andrés y Magdalena Carazo.JPG",
+      "sha256": "462509ec763be81385a5779208a68edf9ade8f3a86d1133372bfc68b17f709cd",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Matrimonio; identificación en el árbol pendiente."
+      ]
+    },
+    {
+      "filename": "Isabel Hernández Hista.JPG",
+      "sha256": "376e3f673b3650b806c3e9cd5f09580998f2722c8aee924c631a67de9223baae",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Escritura de progenitores y vinculación pendientes."
+      ]
+    },
+    {
+      "filename": "Isabel Martín Alonso.JPG",
+      "sha256": "304578a0d7e1695d8cd61e1cdf081a63dba7e2fcd0b3f5d7eedcf7ca818bfe4a",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Lectura e identificación insuficientes."
+      ]
+    },
+    {
+      "filename": "Isabel Martín Rubio.JPG",
+      "sha256": "0941b2abd1709be8968e595382a1f1abdd510b90ccce858329bde6c07a19eeef",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Lectura e identificación insuficientes."
+      ]
+    },
+    {
+      "filename": "José Pérez y Ana Luelmo1.JPG",
+      "sha256": "e6967abba52870604ebde9b3e39a76b74bb61a0f2b67783a7db3e39230816f4f",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Primera página del matrimonio. No se ven los padres de la novia. 4 abril 1676."
+      ]
+    },
+    {
+      "filename": "José Pérez y Ana Luelmo2.JPG",
+      "sha256": "41531efe01123c405ab2c5d7e074dc3425304fac044eac13ae0584f1457d9697",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Continuación de la primera imagen; no identifico los padres. La coincidencia del nombre no permite vincularla sin más a Ana de Luelmo ni a bautismo 1648."
+      ]
+    },
+    {
+      "filename": "Juan Carbajal Galán.JPG",
+      "sha256": "016be4e353e5cef176e60fc4161ec545e44bdbfdfc264cebde3a91a91b27ca1d",
+      "status": "transcripción interna; identidad pendiente",
+      "researchNotes": [
+        "Day may be five, father’s surname and text require verification.",
+        "La lectura del primer apellido del padre y relación con juan-carbajal requieren verificación; nombre de pila y fecha no son suficientes.",
+        "Lecturas preliminares discrepantes del día del bautismo: uno o cinco de octubre de 1624. Se necesita cotejo antes de registrar la fecha.",
+        "La familia indicó el 9 de noviembre de 2026 que no sabe si el bautizado es Juan Carbajal, padre de Francisco; no se vincula."
+      ]
+    },
+    {
+      "filename": "Juan Hernández Gago.JPG",
+      "sha256": "7dc9a159a4f3a641e4829f426c451ef7b2c5375f766ce7012f909e779737823b",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Day possibly diez; year obscured; father’s given name and mother’s surname uncertain.",
+        "Identificación y texto pendientes."
+      ]
+    },
+    {
+      "filename": "Juan Hernández Teruelo.JPG",
+      "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Preceding entry date context, father’s given name, godparents and exact abbreviations.",
+        "Identificación y texto pendientes."
+      ]
+    },
+    {
+      "filename": "Juan Luelmo y María Pinto.JPG",
+      "sha256": "bd32b2b28f9bbb960c335b8791edd04227f6c70de1f2d94141c7497dbb9dcd5c",
+      "status": "asiento incorporado",
+      "researchNotes": [
+        "Bride’s mother may be Catalina de la Calle; verify precise event classification and remaining text.",
+        "Se menciona Juan de Luelmo como hijo de Bartolomé e Inés; la actual María Pinto es madre de Jerónimo, pero esto no establece por sí solo que el novio sea su padre."
+      ]
+    },
+    {
+      "filename": "Juan Pérez e Isabel de Luelmo.JPG",
+      "sha256": "bfa3037f3f4e658e1c8c4151974d35f1c68f1280dcb5c5c2415a093aea01f0fb",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "First wife’s full name, witnesses, exact spelling, jurisdiction and text.",
+        "La familia indicó el 9 de noviembre de 2026 que no sabe si esta pareja es la pareja existente; no se vincula."
+      ]
+    },
+    {
+      "filename": "Juana Tobal Rodríguez.JPG",
+      "sha256": "82a305468aa42fd57e24a94b812205141d42d27123c892a1acc51c0f03c85b45",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "La partida siguiente a otra fechada en septiembre de 1647 bautiza a Juana; la lectura de sus padres requiere más comprobación. La coincidencia de nombre, lugar y época con Juana Tobal no identifica por sí sola a la madre de Antonio Morales Tobal."
+      ]
+    },
+    {
+      "filename": "Lorenzo Hernández Tamame.JPG",
+      "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "Cleric, witnesses, godfather and exact abbreviations require verification."
+      ]
+    },
+    {
+      "filename": "Luis Valladolid Gaitán.JPG",
+      "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "Abbreviations and witness names require verification."
+      ]
+    },
+    {
+      "filename": "Luisa de Valencia Navarro.JPG",
+      "sha256": "1fff745e0a0b2f903644b909c58654441b11371b5e0860452df2355a12f608f8",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Spellings and witness details require verification."
+      ]
+    },
+    {
+      "filename": "Manuel Moreno Esteban.JPG",
+      "sha256": "c1d6bcafcef9406ba761ce55be77e0c773e2a9c9109988dbe40a575d74219b56",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Year unstated; later entry gives 1678. Verify year and remaining text."
+      ]
+    },
+    {
+      "filename": "María Alfonso Cayado.JPG",
+      "sha256": "4cdfe7e3357fc6a376d4789c2aad4202502ed36f243d1dd7a715648050cc767a",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Year possibly 1655; godfather's surname and other spellings need review."
+      ]
+    },
+    {
+      "filename": "María Corralino Domínguez.JPG",
+      "sha256": "4a94079a85a61668b015614c39effaeb089013f11dea75d79996dd6a184dfd33",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Month appears abbreviated September and mother's given name may be abbreviated Ysabel; verify."
+      ]
+    },
+    {
+      "filename": "María Delgado Delgado.JPG",
+      "sha256": "46274d39f6b4cce70b7776bd920a47054ac7e8d803480872b584c3ee590f7426",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Child's name and other text require review."
+      ]
+    },
+    {
+      "filename": "María Delgado Nieto.JPG",
+      "sha256": "7f731da91bd8f36476afe4c350e00ce1b38ba7e5dfa0f5301c7c87ccb68e03a6",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Date and transcription need verification."
+      ]
+    },
+    {
+      "filename": "María García Cabrero.JPG",
+      "sha256": "23d5d58c2d650e7cefa88a94276732454cf897ecda8435df852e616fc81ded9a",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Year partially obscured, possibly 1666; do not expand without verification. Godmother and witness names need verification."
+      ]
+    },
+    {
+      "filename": "María Herrero Herrero.JPG",
+      "sha256": "6e53b7d11dc2b998ab5bb9982434872d6635f1ac8405db28d098edd1a4b90114",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Month may be April; complete year and godmother's surname not confidently legible. Baptism is not birth.",
+        "Tree has separate María Herrero individuals, mother of Ana de Chaves Herrero born 1665 at Pereruela, and mother of José Zurdo Herrero born 1699 associated with Fadón. No spouse or independently explicit event place discerned here: identity unresolved."
+      ]
+    },
+    {
+      "filename": "María Herrero Lastra.JPG",
+      "sha256": "92c9fc3090e2af72a02dbde1bf9d1d97e25910236be22fc5d37d97ca683d2eff",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Godfather's surname requires closer inspection; date and names should be verified at native resolution before reuse.",
+        "Tree contains two distinct María Herrero, with children baptized in 1665 at Pereruela and 1699 connected to Fadón. Birth range is plausible for the latter, but image does not establish her spouse, child or place; identity unresolved."
+      ]
+    },
+    {
+      "filename": "María Lorenzo Rubiano.JPG",
+      "sha256": "ba5457649410e58946627f1762934360be0e2716e7e271d366a1a84f1f02c617",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Faint ink; year, parents, place and other particulars not sufficiently clear.",
+        "There are three María Lorenzo records with different spouses and descendants; no safe match is established."
+      ]
+    },
+    {
+      "filename": "María Rubio Sacedo.JPG",
+      "sha256": "3f9b49a029185223486ebfd817d64883455bf846e77955b0d5d7eb2ccda0d8bf",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Year and date, parents and place are not safely read; no confident identity or date should be imported.",
+        "No matching full-name record found; identity cannot be established from the current provisional reading."
+      ]
+    },
+    {
+      "filename": "María de Segovia Cabo.JPG",
+      "sha256": "4a54ba8c29de7a3f00a26fd0b8e804d5cc9c7e58ddd9e827ca3f6b6aa222e959",
+      "status": "transcripción interna provisional; identidad pendiente",
+      "researchNotes": [
+        "First witness's abbreviated name and concluding words require review; native spelling and abbreviations need close verification.",
+        "Tree María de Segovia is mother of Francisco Hernández de Segovia (1656, El Perdigón), with Lorenzo Hernández. Date is compatible but image names no spouse or descendants and does not explicitly identify the place: match unproven.",
+        "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la María de Segovia existente; no se vincula."
+      ]
+    },
+    {
+      "filename": "Miguel Delgado Rodríguez.JPG",
+      "sha256": "1c4e2118ab30901b5512df525f068e57d711d3d21307d3fa9e7f68ae4c3b853c",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Mother's given name appears like Marquela but not securely read; witness names require independent confirmation.",
+        "Miguel Delgado father of Josefa Delgado Martín (1663) and Isabel Delgado Martín (1674), both Casaseca de las Chanas; chronology and place compatible, but no spouse or children named in baptism. Identity remains unproven."
+      ]
+    },
+    {
+      "filename": "Muerte de Alonso Sesma1.JPG",
+      "sha256": "9547a129de87046ba57459ec18f46c5e57b337be4d44325ce8cc6062d51845a1",
+      "status": "asiento incorporado",
+      "researchNotes": [
+        "Borrador aún no verificado palabra por palabra; incluye continuación de la segunda imagen, donde los cuatro nombres son lectura probable pero contexto borroso. Manuel Sesma y Joseph Blanco aparecen en el primer folio, pero no leo con seguridad su relación. Hay coincidencia con María Sesma Crespo, su marido José Blanco y los nombres de hijos de Isabel Crespo; consulta familiar pendiente. 25-11-1726 es entierro, no fecha de muerte."
+      ]
+    },
+    {
+      "filename": "Muerte de Alonso Sesma2.JPG",
+      "sha256": "57507994bdc1554504e3ec3ba9472ad88fe2b381dbff6686002ed2cfaf38a2eb",
+      "status": "asiento incorporado",
+      "researchNotes": [
+        "Imagen con continuación y otra entrada; lectura pendiente."
+      ]
+    },
+    {
+      "filename": "Muerte de Ana Blanco.JPG",
+      "sha256": "a755953c51026388914720ed50721490d1f44dda61bff23cb192200572e85cf8",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Escritura tenue. Fecha, cónyuge y relación con ana-blanco requieren comprobación."
+      ]
+    },
+    {
+      "filename": "Muerte de Catalina Gabriel.JPG",
+      "sha256": "9375883254030b4f0fc7f6e343b28d04eca34ebaba80b8aa6c5ccce2fe701f8c",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Dudosos día y año; se menciona al menos un Garrote. No se ha encontrado relación explícita suficientemente segura con los hijos Pedro y Bartolomé o su esposo Juan."
+      ]
+    },
+    {
+      "filename": "Muerte de Catalina Garrote.JPG",
+      "sha256": "d8830834d15a1ac4dd172425e303b17f401846b85b6b2ae065c0725b941723ab",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Muerte de Domingo Diego.JPG",
+      "sha256": "9ca0e52e5f8ae6635914d53746da3a07d65789216d6c065539a6789e7a8e0b13",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "La partida dice entierro y no establece por sí misma muerte exacta; posible discrepancia con domingo-diego (muerte 21-09-1712), pero identidad entre hijo y padre homónimos pendiente. No adjudicar."
+      ]
+    },
+    {
+      "filename": "Muerte de Domingo Hernández.JPG",
+      "sha256": "06f29453df5f56e21b7be4a3bafb4d7e4389270926ea071a8f855d5d6faa9b13",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "La fecha de arriba y relación familiar no son legibles con suficiente seguridad."
+      ]
+    },
+    {
+      "filename": "Muerte de Domingo Ortijo.JPG",
+      "sha256": "bbe00f9ea382fbd4ec90bd2cae31ca599f8199fcb78651ec1e4c0ec4c9aaf175",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Posible lectura de la fecha y año previo aún sin verificar; no identificar por nombre solo."
+      ]
+    },
+    {
+      "filename": "Muerte de Francisco Martín.JPG",
+      "sha256": "73c3f003f6747661fb04f3674321a414a96863f0ef510d46fd7c025e98593fd7",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "El mes aparece en la partida anterior como octubre; el año de esa partida está parcialmente oculto. El día se refiere a la sepultura, no necesariamente al fallecimiento. La partida no identifica cónyuge ni hijos; hay varios Francisco Martín en el árbol."
+      ]
+    },
+    {
+      "filename": "Muerte de Isabel Crespo1.JPG",
+      "sha256": "e9bb8b7a198e84b11bd532c1ca77a2babfdb16799d7f56f5fb7520795b333a6f",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Muerte de Isabel Crespo2.JPG",
+      "sha256": "f3d8e9c2cc85690e9ea0bd2c09a0e19d39144e324bc52592a155abffc22bf81d",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Muerte de Juan Ortijo1.JPG",
+      "sha256": "eb3954189e7a73f02fcb9c1357639871ec2262dfc31cae53c4e55f01dd85abef",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Muerte de Juan Ortijo2.JPG",
+      "sha256": "b4d6bccb97b0b164a0f273a0c0d1ac3494f937daf866a8b4c6acc94855f725df",
+      "status": "asiento incorporado"
+    },
+    {
+      "filename": "Muerte de Juana Pascual.JPG",
+      "sha256": "0a637e81d5e896ba639a9b38c1c7a6e3ac4968fc69af8d6b6c43f7c3d04c09eb",
+      "status": "transcripción interna provisional; evento e identidad pendientes",
+      "researchNotes": [
+        "Parece decir «En 28 de septiembre», pero la fecha y el tipo de evento requieren nueva lectura. No se ha establecido año. La pareja coincide con los padres de María Blanco Pascual en Abelón."
+      ]
+    },
+    {
+      "filename": "Muerte de Magdalena Vaquero.JPG",
+      "sha256": "1e6d71ecc2815099aeb34b1bb11d88ec117c28acc2640980b6f7913a52966012",
+      "status": "transcripción interna; identidad pendiente",
+      "researchNotes": [
+        "La fecha indicada es la de sepultura y no consta fecha explícita de fallecimiento. La partida no identifica familiares; Magdalena Vaquero es madre de Micaela Hernández Vaquero, de Sanzoles, y esposa de Domingo Hernández. La coincidencia de nombre y localidad no basta para confirmar identidad.",
+        "La familia indicó el 9 de noviembre de 2026 que no sabe si la persona enterrada es Magdalena Vaquero, madre de Micaela; no se vincula."
+      ]
+    },
+    {
+      "filename": "Susana Pérez Delgado.JPG",
+      "sha256": "dc443f6b14d04437771c907ef580f5601951c26e1fb0fdeca549d2369fb86824",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Day, year, father’s given name, godfather and remaining text."
+      ]
+    },
+    {
+      "filename": "Victoria Jambrina Hernández.JPG",
+      "sha256": "24d9f9c4865139124ad432535b401aaea70cfd8d78dad778f3573da18a841b1a",
+      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
+      "researchNotes": [
+        "Godmother surname and second witness name."
+      ]
+    }
+  ],
+  "familyDecisions": [
+    {
+      "date": "2026-11-08",
+      "decision": "La familia confirmó que Juan Ortijo y Catalina Luengo de las partidas de 1707 son los padres de Martín Ortizo Luengo. Se mantiene el nombre previo Juan Ortizo; no se cambió su apellido por la grafía Ortijo de las partidas.",
+      "tree": "Martín Ortizo Luengo, nacido en Abelón en 1670, ya tenía padre Juan Ortizo y no tenía madre registrada.",
+      "sourceExcerpts": [
+        "Cathalina Luengo muger de Juan ortijo",
+        "dexo por sus unicos herederos a quatro hijos"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "decision": "La familia confirmó que Juan de Luelmo y María Pinto de la partida de 1664 son los padres de Jerónimo de Luelmo Pinto y que Juan es una persona diferente del Juan de Luelmo padre de María Luelmo Martín nacida en 1656."
+    },
+    {
+      "date": "2026-11-08",
+      "decision": "La familia confirmó que Catalina de la Calle, madre de María Pinto, es una persona distinta de la Catalina de la Calle ya registrada como madre de Juan Cabrero de la Calle."
+    },
+    {
+      "date": "2026-11-08",
+      "decision": "La familia confirmó que el Alonso Sesma viudo sepultado el 25 de noviembre de 1726 es el Alonso registrado, marido de Isabel Crespo."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si Ana bautizada en 1648, hija de Bartolomé de Luelmo e Inés Martín, es la Ana de Luelmo ya registrada como madre de José Pérez Luelmo; no se vincula."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia confirmó que el Alonso bautizado en 1611, hijo de Alonso Rodríguez e Isabel Martín, es distinto de Alonso Rodríguez, padre de Juan Rodríguez Corralino; no se vincula a esa ficha."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si los contrayentes Juan Pérez e Isabel de Luelmo de 1688 son los progenitores ya registrados de Juan Pérez de Luelmo; no se vincula la partida."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si Catalina, bautizada en 1630 e hija de Alonso Jurado y Catalina Delgado, es Catalina Jurado, madre de Catalina Delgado Jurado; no se vincula la partida."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si Juana bautizada el 15 de septiembre sin año expreso es la Juana Tobal ya registrada; no se vincula."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si María bautizada en 1623, hija de Alonso de Segobia y María de Cabo, es la María de Segovia ya registrada; no se vincula."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si Madalena baquera sepultada en Sanzoles en 1671 es Magdalena Vaquero, madre de Micaela Hernández Vaquero; no se vincula."
+    },
+    {
+      "date": "2026-11-09",
+      "decision": "La familia indicó que no sabe si el Juan bautizado en octubre de 1624, hijo de Antón Carbajal e Isabel Galana, es Juan Carbajal, padre de Francisco Carbajal Alonso; no se vincula."
+    }
+  ],
+  "unlinkedEntries": [
+    {
+      "id": "septimos-bautismo-alonso-rodriguez-1611",
+      "type": "baptism",
+      "image": {
+        "filename": "Alonso Rodríguez Martín.JPG",
+        "sha256": "52b83cb20554abf50cb5a011bca0ec011cdd9997d3b9f8bd2cc780e23df52a35"
+      },
+      "transcription": "en los treze de abril de mil y seisçientos y once años bautize yo el licenciado [ilegible] cura de la casa seca de las Chanas alº hijo de alº rodriguez y de isabel [ilegible] martin vºs del dicho lugar fue su padrino juº martin testigos [ilegible] del dicho lugar y por verdad lo firme",
+      "readingUncertainties": "Officiant and witnesses need review; a blot touches mother’s name.",
+      "identityUnresolved": "La familia confirmó el 9 de noviembre de 2026 que el bautizado es distinto de Alonso Rodríguez, padre de Juan Rodríguez Corralino. Su otra identificación permanece pendiente.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-bautismo-ana-luelmo-1648",
+      "type": "baptism",
+      "image": {
+        "filename": "Ana Luelmo Martín.JPG",
+        "sha256": "c40c5027f2dac93313b268d69fc243430eeee68fe899fa61ef16c7f5e2da9bcd"
+      },
+      "transcription": "en 14 de noviembre de 1648 años [ilegible] baptice a ana hija de Bartolome de luelmo y de ynes martin fueron padrinos pedro de luelmo y felipa martin testigos [ilegible] y lo firme",
+      "readingUncertainties": "Officiant, witness names and some words affected by ink and focus; remaining writing represented by gaps.",
+      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es Ana de Luelmo, madre de José Pérez Luelmo. No se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional",
+      "relatedPeople": [
+        {
+          "person": "maria-de-luelmo-madre-de-juan-brioso",
+          "relationship": "hermana, por coincidencia de los dos progenitores y cronología"
+        },
+        {
+          "person": "juan-de-luelmo-padre-de-jeronimo",
+          "relationship": "hermano, por coincidencia de los dos progenitores y cronología"
+        }
+      ]
+    },
+    {
+      "id": "septimos-bautismo-lorenzo-1628",
+      "type": "baptism",
+      "image": {
+        "filename": "Lorenzo Hernández Tamame.JPG",
+        "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4"
+      },
+      "transcription": "En Seis dias del Mes de febrero de mill y [ilegible] y veynte y ocho años Yo Melchior [ilegible] Cura deste lugar del Perdigon. Baptize a Lorenço Hijo de Lorenço [ilegible] y de Ynes Tamame su muger vºs deste dicho lugar fue su Padrino [ilegible] y testigos [ilegible] Miguel y [ilegible] vºs del dicho lugar y yo que En fee de Verdad lo firme",
+      "readingUncertainties": "El apellido paterno puede ser Hernández o Fernández. El año figura en el margen como 1628. Los nombres del padrino y testigos y diversas abreviaturas requieren más revisión.",
+      "identityUnresolved": "Tree lorenzo-hernandez father of Francisco Hernández de Segovia born 1656 El Perdigón with María de Segovia. Place and timing compatible but no spouse or descendant named in this baptism; identity unproven.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-bautismo-luis-1657",
+      "type": "baptism",
+      "image": {
+        "filename": "Luis Valladolid Gaitán.JPG",
+        "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04"
+      },
+      "transcription": "Año de 1657. en dos de febº bautize a luis hijo de Domingo valladolid y Maria gaitana [ilegible] deste lugr fue su padrino Luis gaitan [ilegible] luis alonso [ilegible] Sacristan, y andres diego de la laguna y por verdad lo firme",
+      "readingUncertainties": "Year is in page heading rather than the individual entry; abbreviated descriptors and connection to witnesses need another reading.",
+      "identityUnresolved": "Tree luis-de-valladolid, origin Casaseca de las Chanas and father of Agustín born 1684, is plausible by time but the source names no spouse or children; identity not established.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-bautismo-catalina-jurado-1630",
+      "type": "baptism",
+      "image": {
+        "filename": "Catalina Jurado Delgado.JPG",
+        "sha256": "cc50b695436d373e071ae6e5ffd6e85885d835f819fc0bb72c0b189f4b68c355"
+      },
+      "transcription": "En [ilegible] de abril de 1630 años baptizo en [ilegible] yglesia de casa seca de las chanas [ilegible] prior de peleas de abaxo a catalina [ilegible] alº jurado y de catalina delgada su [ilegible] fue su padrino el licenciado alº de llamas cura propio de casa seca de las chanas siendo testigos juº garcia de la yglesia y luys de [ilegible] y lo firmo [ilegible] dicho dia mes y año",
+      "readingUncertainties": "El día parece 21 o 24; no se ha escogido. Las palabras y abreviaturas dudosas se señalan [ilegible].",
+      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la Catalina Jurado ya registrada como madre de Catalina Delgado Jurado. No se vincula con esa persona; la coincidencia de ambos progenitores y la localidad permite reconocerla como hermana de María Jurado Delgado.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional",
+      "relatedPeople": [
+        {
+          "person": "maria-jurado",
+          "relationship": "hermana, por coincidencia de los dos progenitores y localidad"
+        }
+      ]
+    },
+    {
+      "id": "septimos-matrimonio-juan-perez-isabel-luelmo-1688",
+      "type": "marriage",
+      "image": {
+        "filename": "Juan Pérez e Isabel de Luelmo.JPG",
+        "sha256": "bfa3037f3f4e658e1c8c4151974d35f1c68f1280dcb5c5c2415a093aea01f0fb"
+      },
+      "transcription": "En diez y siete dias del mes de setiembre de este presente año de mil seis cientos y ochenta y ocho desposé por palabras de presente [ilegible] matrimonio con orden de [ilegible] Provisor de este obispado [ilegible] a Juan Perez Vº de Sanfrontes viudo de franᶜᵃ [ilegible] y a Ysabel de luelmo auiendo precedido las tres amonestaciones [ilegible] concilio de Trento [ilegible] fueron testigos [ilegible] Geronimo de luelmo y en fee dello lo firme [ilegible] ut supra",
+      "readingUncertainties": "El apellido de la esposa anterior, varios testigos, la anotación marginal y algunas abreviaturas requieren revisión.",
+      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si esta pareja es la registrada como padres de Juan Pérez de Luelmo. No se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-bautismo-juana-tobar-sin-ano",
+      "type": "baptism",
+      "image": {
+        "filename": "Juana Tobal Rodríguez.JPG",
+        "sha256": "82a305468aa42fd57e24a94b812205141d42d27123c892a1acc51c0f03c85b45"
+      },
+      "transcription": "En 15 de setiembre se bautizo Juana hija de tobar y maria [ilegible] su muger padrino pº calvo moço testigos [ilegible] hernandez y [ilegible] alonso",
+      "readingUncertainties": "El apellido de la madre y las palabras alrededor de los testigos y la firma son dudosos. La partida no expresa su propio año.",
+      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la Juana Tobal registrada como madre de Antonio Morales Tobal; no se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-bautismo-maria-segovia-1623",
+      "type": "baptism",
+      "image": {
+        "filename": "María de Segovia Cabo.JPG",
+        "sha256": "4a54ba8c29de7a3f00a26fd0b8e804d5cc9c7e58ddd9e827ca3f6b6aa222e959"
+      },
+      "transcription": "En Tres dias del Mes de Agosto de mill y seiscientos y Veynte y tres años. Yo el dicho Cura Bapt[ilegible] a Maria Hija de Alonso de Segobia Y de Maria de Cabo Su muger. vºs deste dicho lugar y fue Su Padrino Alonso de Cabo Su abuelo Y testigos [ilegible] Maria Y Miguel Matheos Clerigos Y Roque hernandez con otros muchos vºs del dho Lugar E yo q en fee de verdad firme",
+      "readingUncertainties": "El nombre del primer testigo y algunas abreviaturas requieren revisión. El abuelo Alonso de Cabo es expresamente el padrino. La grafía exacta del verbo de bautismo no se resuelve con seguridad.",
+      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si esta María es la madre ya registrada de Francisco Hernández de Segovia; no se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-entierro-magdalena-vaquero-1671",
+      "type": "burial",
+      "image": {
+        "filename": "Muerte de Magdalena Vaquero.JPG",
+        "sha256": "1e6d71ecc2815099aeb34b1bb11d88ec117c28acc2640980b6f7913a52966012"
+      },
+      "transcription": "En siete de Sepᵉ de mil y seis cientos y setenta y un años yo el Lcdo Manuel Marban Cura teniente desta villa de [ilegible] enterre a Madalena baquera Vª desta villa lleuo los Sacramentos esta enterrada en el cuerpo de la yglesia [ilegible] y cabo de año y novenario Cantados No [ilegible] testamento",
+      "readingUncertainties": [
+        "El nombre de la villa parece Sancoles o Sançoles; no se normaliza en la transcripción mientras la grafía no esté clara.",
+        "En el texto desvaído tras yglesia se distinguen trazos, pero la frase no se ha leído con seguridad.",
+        "El borrador anterior transcribía No hizo testamento; hizo está desvaído y no es suficientemente seguro para este lector. La negación y testamento se leen; no se extrae ninguna conclusión sobre el testamento sin confirmar la palabra intermedia.",
+        "No hay fecha explícita de fallecimiento; la fecha encabezada corresponde al entierro."
+      ],
+      "identityUnresolved": "La familia ha indicado que no sabe si esta persona corresponde a Magdalena Vaquero, madre de Micaela Hernández Vaquero. No se asigna identidad ni se enlaza.",
+      "links": [],
+      "status": "lectura conservadora; identidad sin resolver"
+    },
+    {
+      "id": "septimos-bautismo-juan-carbajal-1624",
+      "type": "baptism",
+      "image": {
+        "filename": "Juan Carbajal Galán.JPG",
+        "sha256": "016be4e353e5cef176e60fc4161ec545e44bdbfdfc264cebde3a91a91b27ca1d"
+      },
+      "transcription": "en [ilegible] de otubre de mil y seys cientos y [ilegible] años baptize yo el licenciado [ilegible] cura deste lugar a Juan hijo de [ilegible] carba[ilegible] y de ysabel galana su muger fue su padrino pedro [ilegible] deste lugar testigos luis [ilegible] juan Alonso [ilegible] del dicho lugar y [ilegible]",
+      "readingUncertainties": [
+        "El día se ha interpretado como uno o cinco; no se escoge una lectura. La cabecera sitúa el asiento en octubre de 1624.",
+        "El nombre del padre y parte del apellido se leen en el margen, pero están afectados por tinta y trazos superpuestos. El nombre del padrino, testigos y cierre requieren revisión."
+      ],
+      "identityUnresolved": "La familia indicó que no sabe si el bautizado es el Juan Carbajal padre de Francisco Carbajal Alonso; no se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-asiento-juana-pascual-sin-fecha",
+      "type": "unclassified",
+      "image": {
+        "filename": "Muerte de Juana Pascual.JPG",
+        "sha256": "0a637e81d5e896ba639a9b38c1c7a6e3ac4968fc69af8d6b6c43f7c3d04c09eb"
+      },
+      "transcription": "En [ilegible] de [ilegible] se dio [ilegible] a Juana Pascual mugᵉʳ de martin blanco [ilegible] y lo firme [ilegible]",
+      "readingUncertainties": [
+        "El mes parece diciembre y el día 28, pero no se han leído con seguridad. No se ha leído el año.",
+        "La fórmula inicial podría referirse a una sepultura, pero su lectura no se ha confirmado. No se atribuye fecha ni tipo de evento."
+      ],
+      "identityUnresolved": "El árbol registra a Juana Pascual y Martín Blanco como padres de María Blanco Pascual, nacida en Abelón en 1666. Coinciden ambos nombres, pero no se ha leído con seguridad la localidad ni el año de este asiento. Se conserva para reconciliación.",
+      "links": [],
+      "status": "lectura conservadora provisional; evento e identidad pendientes"
+    },
+    {
+      "id": "septimos-bautismo-phelipe-hijo-domingo-gil",
+      "type": "baptism",
+      "image": {
+        "filename": "Domingo Gil Triguero.JPG",
+        "sha256": "78097a2b3a27e673012957df40c06d17c1e0fd171573eec36cf0e9faf88ef602"
+      },
+      "transcription": "En hocho dias del mes de Mayo de mill y seyscientos y treynta y [ilegible] años bauptiçe A Phelipe hijo de Domingo gil y de su muger ma[ilegible] martin fueron Padrinos manuel de Sierra y maria gago y por [ilegible]dad firme Aqui mi nombre [ilegible]",
+      "readingUncertainties": [
+        "La cifra final del año está junto al pliegue; puede ser dos, pero se conserva el hueco.",
+        "El nombre de la madre queda cortado. El bautizado es Phelipe; Domingo es su padre."
+      ],
+      "identityUnresolved": "Existe Felipe Gil, padre de Juana Gil Sariñana nacida en Toro en 1668; el asiento no identifica a su cónyuge ni a su hija. No se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; requiere revisión adicional"
+    },
+    {
+      "id": "septimos-oleos-domingo-calvo-1610",
+      "type": "holyOils",
+      "image": {
+        "filename": "Domingo Calvo Álvarez.JPG",
+        "sha256": "53b826829b0cc05161bd42ad1d124c28fecaa51723511cd825b0ebb1f424cba0"
+      },
+      "transcription": "En Veinte y dos de Septiembre de mil y seiscientos y diez años Puse los santos oleos a Domingo calbo hijo de domingo calbo y de maria alvarez su muger fueron sus padrinos [ilegible] testigos [ilegible] y por ser asi verdad lo firme fecha ut supra [ilegible]",
+      "readingUncertainties": [
+        "Partes de padrinos y testigos se encuentran tachadas o difíciles de leer.",
+        "La fecha corresponde a los santos óleos; no se interpreta como fecha explícita de bautismo o nacimiento."
+      ],
+      "identityUnresolved": "El árbol registra a Domingo Calvo, padre de Francisco Calvo García nacido en Arcenillas en 1640. El asiento no nombra a Francisco ni a María García y tampoco prueba que sea el Domingo de la otra partida de 1659. No se vincula.",
+      "links": [],
+      "status": "lectura conservadora provisional; identidad pendiente"
+    }
+  ]
+}

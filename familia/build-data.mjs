@@ -78,6 +78,7 @@ function placesOf(person) {
     person.baptism?.place,
     ...(person.marriages ?? []).map((marriage) => marriage.place),
     person.death?.place,
+    person.burial?.place,
     ...(person.origins ?? []),
   ].filter(Boolean))].sort(collator.compare);
 }
@@ -123,7 +124,7 @@ async function build() {
     validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
-    for (const event of ['birth', 'baptism', 'death']) validateEvent(person[event], `${person.id}.${event}`);
+    for (const event of ['birth', 'baptism', 'death', 'burial']) validateEvent(person[event], `${person.id}.${event}`);
     if (person.marriages !== undefined && !Array.isArray(person.marriages)) {
       fail(`${person.id}.marriages: expected an array.`);
     } else {

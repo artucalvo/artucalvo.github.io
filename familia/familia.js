@@ -337,6 +337,7 @@ async function renderProfile(id, focus = false) {
     const entries = [eventBlock('Nacimiento', person.birth), eventBlock('Bautismo', person.baptism)];
     (person.marriages || []).forEach((marriage, index) => entries.push(eventBlock('Matrimonio', marriage, spouses[index])));
     entries.push(eventBlock('Fallecimiento', person.death));
+    entries.push(eventBlock('Entierro', person.burial));
     events.append(...entries.filter(Boolean));
     if (events.childElementCount) panel.append(events);
     if (person.origins?.length) {

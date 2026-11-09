@@ -10461,6 +10461,10 @@
           "date": "1671-02-04",
           "place": "Morales del Vino"
         }
+      ],
+      "observations": [
+        "Su hermano Juan de Luelmo se casó con María Pinto.",
+        "Su hermana Ana fue bautizada el 14 de noviembre de 1648."
       ]
     },
     {
@@ -13329,7 +13333,10 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "alonso-jurado",
-      "mother": "catalina-delgado-madre-de-maria-jurado"
+      "mother": "catalina-delgado-madre-de-maria-jurado",
+      "observations": [
+        "Tuvo una hermana llamada Catalina, bautizada en abril de 1630 en Casaseca de las Chanas."
+      ]
     },
     {
       "id": "alonso-jurado",
@@ -15869,7 +15876,8 @@
           "place": "Morales del Vino"
         }
       ],
-      "mother": "maria-pinto"
+      "mother": "maria-pinto",
+      "father": "juan-de-luelmo-padre-de-jeronimo"
     },
     {
       "id": "maria-pinto",
@@ -15877,7 +15885,16 @@
       "givenNames": "María",
       "surnames": [
         "Pinto"
-      ]
+      ],
+      "father": "juan-pinto-padre-de-maria-pinto",
+      "marriages": [
+        {
+          "spouse": "juan-de-luelmo-padre-de-jeronimo",
+          "date": "1664-02-02",
+          "transcription": "En 2 de febrero de 1664 [ilegible] abiendo dado las tres amonestaciones que manda el Sto Concilio de Trento, en tres dias festibos al ofertorio de la missa mayor despose por palabras de presente a Juº de Luelmo hijo de Bartolome de luelmo y de Ynes Martin, y a Maria pinto hija de Juan pinto y de Catalina de la calle. fueron testigos Lorenzo simon y [ilegible] y alonso marquez y lo firme.\n\nen 29 de setiembre de 1664 [ilegible] Juº de luelmo y [ilegible] pinto. fueron padrinos Juº de luelmo y Maria [ilegible] y lo firme"
+        }
+      ],
+      "mother": "catalina-de-la-calle-madre-de-maria-pinto"
     },
     {
       "id": "teresa-arroyo",
@@ -15905,6 +15922,16 @@
       "givenNames": "Diego",
       "surnames": [
         "de Arroyo"
+      ],
+      "marriages": [
+        {
+          "spouse": "maria-madrid",
+          "date": "1690-11-15",
+          "transcription": "Diego de Arroyo y Maria de Madrid\n\nEn quinze dias del mes de Nobiembre de mill seiscientos y nobenta años [ilegible] el Lcdo Geronimo de luelmo cura propio deste lugº de morales, auiendo [ilegible]dido las tres Admonestaciones y no auiendo resultado impedimento alguno [ilegible] por palabras de presente que hazen legitimo matrimonio a Diego [ilegible] Arroyo natural del lugº de la muga de Sayago deste obispado y a Maria M[ilegible]drid natural deste lugº de que fueron testigos los [ilegible] Diego de mena [ilegible] Franº Martin Cordero presbiteros y Matheo Brioso Sacristan todos [ilegible] deste lugº y para q conste lo firme"
+        }
+      ],
+      "observations": [
+        "La partida de matrimonio lo identifica como natural de la Muga de Sayago."
       ]
     },
     {
@@ -15913,6 +15940,16 @@
       "givenNames": "María",
       "surnames": [
         "Madrid"
+      ],
+      "marriages": [
+        {
+          "spouse": "diego-de-arroyo",
+          "date": "1690-11-15",
+          "transcription": "Diego de Arroyo y Maria de Madrid\n\nEn quinze dias del mes de Nobiembre de mill seiscientos y nobenta años [ilegible] el Lcdo Geronimo de luelmo cura propio deste lugº de morales, auiendo [ilegible]dido las tres Admonestaciones y no auiendo resultado impedimento alguno [ilegible] por palabras de presente que hazen legitimo matrimonio a Diego [ilegible] Arroyo natural del lugº de la muga de Sayago deste obispado y a Maria M[ilegible]drid natural deste lugº de que fueron testigos los [ilegible] Diego de mena [ilegible] Franº Martin Cordero presbiteros y Matheo Brioso Sacristan todos [ilegible] deste lugº y para q conste lo firme"
+        }
+      ],
+      "observations": [
+        "La partida de matrimonio la identifica como natural de Morales."
       ]
     },
     {
@@ -16652,7 +16689,10 @@
         "place": "Abelón"
       },
       "father": "alonso-sesma",
-      "mother": "isabel-crespo"
+      "mother": "isabel-crespo",
+      "observations": [
+        "La partida de fallecimiento de su madre nombra también como hijos de Isabel Crespo a Manuel, Agustín e Isabel Sesma."
+      ]
     },
     {
       "id": "alonso-sesma",
@@ -16660,7 +16700,13 @@
       "givenNames": "Alonso",
       "surnames": [
         "Sesma"
-      ]
+      ],
+      "burial": {
+        "date": "1726-11-25",
+        "place": "Abelón",
+        "note": "Iglesia parroquial de San Martín, junto a la pila de agua bendita.",
+        "transcription": "El dia Veinte y cinco de nobiembre del año de mil Setecientos y Veinte y seis, Se dio Sepultura en la yglesia parroquial de San Martin del lugar de abelon, abajo de la pila del agua bendita, a Alonso Sesma Viudo Vecino de dicho lugar, Recibio los Santos Sacramentos con el de la Santa estremauncion, y hizo testamento, y tomo para acer bien por su anima Cien Reales [ilegible] y bino, Mas mando Cien Reales al Combento de la Santisima Trinidad de Zamora [ilegible] Mas dos Misas [ilegible] otra al Angel de la guarda [ilegible] Manuel Sesma [ilegible] y Joseph blanco [ilegible] Maria, Manuel, Agustin y Isabel [ilegible] lo firmo en dicho lugar dicho dia mes y año"
+      }
     },
     {
       "id": "isabel-crespo",
@@ -16668,6 +16714,14 @@
       "givenNames": "Isabel",
       "surnames": [
         "Crespo"
+      ],
+      "death": {
+        "date": "1723-02-22",
+        "note": "Fue enterrada en la iglesia parroquial de San Martín de Abelón, junto a la pared al lado de la pila de agua bendita; no se indica la fecha del entierro.",
+        "transcription": "El dia Veinte y dos del mes de febrero del año de mil Setecientos, y Veinte y tres Murio Ysabel Crespo muger de Alonso Sesma Vecina deste lugar de Abelon Recivio todos los Santos Sachramentos Con el de la Sª Extrema Unzion. Diosele Sepultura Eclesiastica en la yglª Parrochl. de San Martin de dicho lugar, Junto a la pared que esta al lado de la pila de agua bendita hizo Testamento ante su hijo Manuel Sesma en que tomo Doscientos R. Con esta Calidad, y Condizion abian de ser distribuidos en sufragios por su Anima es a Saber Veinte y dos R. al Conu.to de los Padres descalzos de Zamora; Otros Veinte y dos R. al Conu.to de la [ilegible] de Zamora; luego los derechos Parroquiales, que son Zinquenta y nuebe R. mas dos belas y una misa a [ilegible] del Rosario; [ilegible] Media libra de Zera; al [ilegible] Christo una misa [ilegible] y dos belas de Zera; a [ilegible] una misa, y dos belas de Zera, mas una misa a [ilegible] del Prado; mas mando que la alumbrasen un año Con dos luces, y dos [ilegible] y dos responsos, y las dos misas de las dos Cofradias; y que todo lo dicho, y referido Salga de los dichos Doscientos reales; Conque parece no queda que embiar a la Colecturia dexo por herederos a su marido Alonso Sesma, y a sus hijos Manuel Sesma, Agustin Sesma Maria Sesma, y Ysabel Sesma; y un bestido nuebo a la [ilegible] dicha Ysabel Sesma su hija; y a las obras pias lo acostumbrado; y lo firme Como [ilegible] de Cura Abelon febrero 22 de 1723"
+      },
+      "observations": [
+        "La partida de fallecimiento nombra a sus hijos Manuel, Agustín, María e Isabel Sesma."
       ]
     },
     {
@@ -16809,7 +16863,8 @@
         "date": "1743-03-17",
         "place": "Abelón"
       },
-      "father": "juan-ortizo"
+      "father": "juan-ortizo",
+      "mother": "catalina-luengo-madre-de-martin-ortizo"
     },
     {
       "id": "juan-ortizo",
@@ -16817,6 +16872,14 @@
       "givenNames": "Juan",
       "surnames": [
         "Ortizo"
+      ],
+      "death": {
+        "date": "1707-06-17",
+        "note": "Fue enterrado en la iglesia parroquial de Abelón; no se indica la fecha del entierro.",
+        "transcription": "en diez y siete de Junio deste presente año de mil setecientos y siete murio Juan ortijo auiendo Recibido los santos Sacramentos hizo testamento ante mi el cura tte [ilegible] por su alma diez y siete ducados y que dellos saliesen los derechos Parrochiales y tres belas de a medio quarteron para diversos Santos y dexo por sus unicos herederos a quatro hijos dejo por testamentarios a franº Benito martin ortijo y domingo Crespo [ilegible] en esta yglesia parroquial en la capilla ultima acia la tribuna al lado del Evangelio y para que conste lo firme como cura tte en dicho dia mes y año dichos"
+      },
+      "observations": [
+        "Nombró como únicos herederos a cuatro hijos."
       ]
     },
     {
@@ -16852,6 +16915,14 @@
       "givenNames": "Catalina",
       "surnames": [
         "Garrote"
+      ],
+      "death": {
+        "date": "1711-06-16",
+        "note": "Fue enterrada en la iglesia parroquial de San Martín de Abelón; no se indica la fecha del entierro.",
+        "transcription": "En diez y seis de Junio deste presente año de mil setecientos y onze murio Cathalina garrote aviendo Recivido los Sanctos sacramentos enterrose en esta Yglesia parrochial del [ilegible] S. Martin deste Lugar de Abelon hizo testamento ante [ilegible] fernandez Vº del Lugar de fresnadillo tomo por su alma ciento y diez Rs y dellos mando salir onze Rs del entierro, y treinta y seis Rs del nobenario y diez Rs de arder la zera de las Cofradias y ocho Rs de las misas y ocho Rs de la misa de nobena y Cabo de año y las ofrendas que pertenecen a las misas rezadas y dos Rs para una misa a las benditas animas = y mando una misa a santa Cathalina cantada demas desto y que se pague aparte nombro por sus herederos a Joseph Juana y teresa Benito testamentarios Joseph Benito y Alonso Benito y para que conste lo firme como Cura [ilegible] en dicho dia mes y año dichos"
+      },
+      "observations": [
+        "Nombró herederos a José, Juana y Teresa Benito."
       ]
     },
     {
@@ -17031,6 +17102,13 @@
       "givenNames": "Domingo",
       "surnames": [
         "Turiel"
+      ],
+      "marriages": [
+        {
+          "spouse": "ines-gago",
+          "date": "1669-02-08",
+          "transcription": "en ocho de febrero de mil y seisçientos y sesenta y nuebe yo el liçençiado [ilegible] de carrion cura propio del lugar de [ilegible] y sus anejos despose por palabras de presente q hiçieron berdadero matrimonio [ilegible] abiendo precedido las tres amonestaciones q manda el santo concilio de trento a ines gago biuda de andres [ilegible] y a domingo turiel moço soltero con licencia del [ilegible] bicario vezinos deste lugar siendo testigos [ilegible] y geronimo [ilegible] y pedro gago todos vezinos deste lugar y en fe dello lo firme"
+        }
       ]
     },
     {
@@ -17039,6 +17117,16 @@
       "givenNames": "Inés",
       "surnames": [
         "Gago"
+      ],
+      "marriages": [
+        {
+          "spouse": "domingo-turiel",
+          "date": "1669-02-08",
+          "transcription": "en ocho de febrero de mil y seisçientos y sesenta y nuebe yo el liçençiado [ilegible] de carrion cura propio del lugar de [ilegible] y sus anejos despose por palabras de presente q hiçieron berdadero matrimonio [ilegible] abiendo precedido las tres amonestaciones q manda el santo concilio de trento a ines gago biuda de andres [ilegible] y a domingo turiel moço soltero con licencia del [ilegible] bicario vezinos deste lugar siendo testigos [ilegible] y geronimo [ilegible] y pedro gago todos vezinos deste lugar y en fe dello lo firme"
+        }
+      ],
+      "observations": [
+        "La partida de matrimonio indica que era viuda de Andrés."
       ]
     },
     {
@@ -18778,6 +18866,82 @@
         "date": "1861-03-15",
         "transcription": "[ilegible] Brioso\n[ilegible] Florencio y\n[ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos se-\nsenta y uno Yo el infrascripto Cura Parro. de Tar-\ndobispo y sus anejos bautice solemnemente y puse los\nStos Oleos a un niño que nació el dia doce de dicho mes\naquien puse por nombre Bernardo hijo legitimo de Dn\nFlorencio Brioso natural de Morales del Vino y de An-\ntonia Mena de Tardobispo: Abuelos paternos Baltasar\nBrioso de [ilegible] de dicho Morales y Luisa Alonso\nde Moraleja del Vino: Maternos Tomas Mena de Mora-\nles y Valeria Santamaria de San Marcial: fue su pa-\ndrino Jose Alonso tio del bautizado aquien adverti sus\nobligaciones testigos Manuel Perez y Mariano Alonso. Y\npara que conste lo firmo fecha ut supra =\nManuel [ilegible]"
       }
+    },
+    {
+      "id": "manuel-sesma-hijo-de-isabel-crespo",
+      "name": "Manuel Sesma",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Sesma"
+      ],
+      "mother": "isabel-crespo"
+    },
+    {
+      "id": "agustin-sesma-hijo-de-isabel-crespo",
+      "name": "Agustín Sesma",
+      "givenNames": "Agustín",
+      "surnames": [
+        "Sesma"
+      ],
+      "mother": "isabel-crespo"
+    },
+    {
+      "id": "isabel-sesma-hija-de-isabel-crespo",
+      "name": "Isabel Sesma",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Sesma"
+      ],
+      "mother": "isabel-crespo"
+    },
+    {
+      "id": "catalina-luengo-madre-de-martin-ortizo",
+      "name": "Catalina Luengo",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Luengo"
+      ],
+      "death": {
+        "date": "1707-06-06",
+        "note": "Fue enterrada en la iglesia parroquial de Abelón; no se indica la fecha del entierro.",
+        "transcription": "en seis de junio deste presente año de mil setecientos y siete murio Cathalina Luengo muger de Juan ortijo auiendo Recibido los santos Sacramentos hizo testamento berbal ante mi el infra [ilegible] cura tte y dio poder a su marido estando presentes la mayor parte del lugar y dixo tomaba por su alma [ilegible] ducados y que dellos [ilegible] los derechos [ilegible] y unas mandas de [ilegible] de quatro belas a diferentes Santuarios [ilegible] en la yglesia parroquial deste lugar de Abelon en la capilla ultima junto a la tribuna al lado de la epistola y para que conste lo firme como cura tte en dicho dia mes y año dichos"
+      }
+    },
+    {
+      "id": "juan-de-luelmo-padre-de-jeronimo",
+      "name": "Juan de Luelmo",
+      "givenNames": "Juan",
+      "surnames": [
+        "de Luelmo"
+      ],
+      "father": "bartolome-de-luelmo",
+      "mother": "ines-martin-madre-de-maria-de-luelmo",
+      "marriages": [
+        {
+          "spouse": "maria-pinto",
+          "date": "1664-02-02",
+          "transcription": "En 2 de febrero de 1664 [ilegible] abiendo dado las tres amonestaciones que manda el Sto Concilio de Trento, en tres dias festibos al ofertorio de la missa mayor despose por palabras de presente a Juº de Luelmo hijo de Bartolome de luelmo y de Ynes Martin, y a Maria pinto hija de Juan pinto y de Catalina de la calle. fueron testigos Lorenzo simon y [ilegible] y alonso marquez y lo firme.\n\nen 29 de setiembre de 1664 [ilegible] Juº de luelmo y [ilegible] pinto. fueron padrinos Juº de luelmo y Maria [ilegible] y lo firme"
+        }
+      ],
+      "observations": [
+        "Su hermana Ana fue bautizada el 14 de noviembre de 1648."
+      ]
+    },
+    {
+      "id": "juan-pinto-padre-de-maria-pinto",
+      "name": "Juan Pinto",
+      "givenNames": "Juan",
+      "surnames": [
+        "Pinto"
+      ]
+    },
+    {
+      "id": "catalina-de-la-calle-madre-de-maria-pinto",
+      "name": "Catalina de la Calle",
+      "givenNames": "Catalina",
+      "surnames": [
+        "de la Calle"
+      ]
     }
   ]
 }
