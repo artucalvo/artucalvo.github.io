@@ -20669,13 +20669,16 @@
       "father": "christobal-unzueta-zabarte",
       "mother": "ysabela-ormacho-rodriguez",
       "origins": [
-        "Arrasate",
         "Villardeciervos"
       ],
       "observations": [
-        "Se consigna la fecha 20 de enero de 1721 en Arrasate sin especificar el tipo de acontecimiento. Pasó de Arrasate a Villardeciervos.",
+        "Pasó de Arrasate a Villardeciervos.",
         "Su hermana Pascuala nació el 7 de abril de 1723."
-      ]
+      ],
+      "birth": {
+        "date": "1721-01-20",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "isabel-romero",
@@ -20695,12 +20698,10 @@
       ],
       "father": "joan-bauptista-uncueta-fuldain",
       "mother": "maria-cabarte-landaburu",
-      "origins": [
-        "Arrasate"
-      ],
-      "observations": [
-        "Se consigna la fecha 2 de febrero de 1688 en Arrasate sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1688-02-02",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "ysabela-ormacho-rodriguez",
@@ -20724,12 +20725,10 @@
       ],
       "father": "juan-baptista-unceta-cirarruista",
       "mother": "maria-fuldain-egurbide",
-      "origins": [
-        "Arrasate"
-      ],
-      "observations": [
-        "Se consigna la fecha 13 de abril de 1646 en Arrasate sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1646-04-13",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "maria-cabarte-landaburu",
@@ -20741,12 +20740,10 @@
       ],
       "father": "domingo-cabarte-ybieta-arteaga",
       "mother": "mari-miguel-landaburu-guinea",
-      "origins": [
-        "Arrasate"
-      ],
-      "observations": [
-        "Se consigna la fecha 2 de junio de 1651 en Arrasate sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1651-06-02",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "juan-baptista-unceta-cirarruista",
@@ -20758,12 +20755,10 @@
       ],
       "father": "martin-unceta-aguinaga",
       "mother": "gracia-cirarrusta-gaztelueta",
-      "origins": [
-        "Eibar"
-      ],
-      "observations": [
-        "Se consigna la fecha 26 de junio de 1623 en Eibar sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1623-06-26",
+        "place": "Eibar"
+      }
     },
     {
       "id": "maria-fuldain-egurbide",
@@ -20775,12 +20770,10 @@
       ],
       "father": "juan-fuldain-amezqueta",
       "mother": "antonia-egurbide-zigorondo",
-      "origins": [
-        "Arrasate"
-      ],
-      "observations": [
-        "Se consigna la fecha 8 de diciembre de 1612 en Arrasate sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1612-12-08",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "domingo-cabarte-ybieta-arteaga",
@@ -20803,12 +20796,10 @@
       ],
       "father": "joan-landaburu-guridi",
       "mother": "anna-guinea",
-      "origins": [
-        "Arrasate"
-      ],
-      "observations": [
-        "Se consigna la fecha 20 de enero de 1619 en Arrasate sin especificar el tipo de acontecimiento."
-      ]
+      "birth": {
+        "date": "1619-01-20",
+        "place": "Arrasate"
+      }
     },
     {
       "id": "martin-unceta-aguinaga",

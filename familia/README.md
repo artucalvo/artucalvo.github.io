@@ -734,7 +734,7 @@ Quedan por leer unas 125 imágenes de la carpeta inicial, a partir de «Muerte d
 
 ## Rama Unzueta de Arrasate
 
-La familia identifica a Cristóbal, nacido en Villardeciervos el 1 de junio de 1746, como padre de Manuel Unzueta e hijo de Francisco Antonio Unzueta Ormacho e Isabel Romero. El documento `Unzueta vascos.docx` amplía la ascendencia de Francisco Antonio; sus nombres, fechas, sangrías y dudas se conservan en [`sources/unzueta-vascos.json`](sources/unzueta-vascos.json). Las fechas junto a los nombres del documento no especifican el tipo de evento.
+La familia identifica a Cristóbal, nacido en Villardeciervos el 1 de junio de 1746, como padre de Manuel Unzueta e hijo de Francisco Antonio Unzueta Ormacho e Isabel Romero. El documento `Unzueta vascos.docx` amplía la ascendencia de Francisco Antonio; sus nombres, fechas, sangrías y dudas se conservan en [`sources/unzueta-vascos.json`](sources/unzueta-vascos.json). La familia confirma que las fechas junto a los nombres del documento son fechas de nacimiento.
 
 La familia aclara que Pascuala, nacida el 7 de abril de 1723, era hermana de Francisco Antonio y tía de Cristóbal. Su nacimiento se conserva como observación en la ficha de Francisco Antonio.
 
