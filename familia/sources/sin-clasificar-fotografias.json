@@ -5937,6 +5937,375 @@
         "Transcripción en el fallecimiento; entierro el 01-08-1718 en Moraleja del Vino; observaciones sobre el apellido Gallego y su hermana."
       ],
       "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Prieto.JPG",
+          "sha256": "b90d1e517b73be68e74fc990e6515566006efcc6915268ebd1cabddbdab33eac",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "A veinte y siete de Nob.re de mil sett.os y diez y nueve murió Luisa Prieto muger de Manuel Martín. Enterróse en la capilla mayor, recibió los sacram.tos de la penitencia y extremaunción y no el viático por impedim.to. Hizo testam.to a veinte y seis en que ordenó asistencia de seis sacerdotes, novenario y otras disposiciones y seiscientos R.s por su alma; [ilegible]. D.r Calleja.",
+      "uncertainties": [
+        "Coinciden marido Manuel Martín y fecha de fallecimiento. Se nombra la sepultura sin fecha ni localidad expresas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-prieto"
+      ],
+      "applied": [
+        "Transcripción en fallecimiento y entierro sin fecha separada."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Cabrero Luelmo.JPG",
+          "sha256": "311644ac1c5e941dfd93f14f07dcc320769ed30c194452a919ba9a66f0e8fe9c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En catorze de Agosto de mil setecientos y quarenta y nueve años se enterró en esta Yglesia Manuel Cabrero Luelmo marido y conjunta persona de Cathalina Marques. Murió el día treze de dicho mes de su muerte natural. Recivió todos los Stos Sacramentos de penitencia, eucharistía y extremaunción. Dio poder para hacer su testamento a D.n Alonso Marques, D.n Antt.o [ilegible], D.n Juan Cabrero y su muger Cathalina Marques para que gastasen y distribuyesen por su Alma a su arbitrio. Dejó ocho hijos y para que conste lo firmé. D.n Antt.o Cabrera.",
+      "uncertainties": [
+        "Coinciden el nombre completo, su esposa Catalina Marqués y la fecha de muerte. El entierro es el día siguiente; no se nombra localidad en la partida."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-cabrero"
+      ],
+      "applied": [
+        "Transcripción en fallecimiento y entierro 14-08-1749."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Burrieza Melado.JPG",
+          "sha256": "deffcbb97b00400d2683742605a3bf72292015df1a4db080cc13469cd5fce90c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lug.r de Ganame a veinte y nueve días del mes de Maio de mil setecientos y veinte y quatro años yo Fran.co Baquero cura de él enterré en su Ygla de medio abajo a Manuel Burrieza vecino de él, aviendo recibido los S.tos Sacram.tos todos con el de la extrema unción [ilegible]. [ilegible] a su hija Antonia Burrieza, que tuvo de Fran.ca Salvador su madre y lex.ma mujer del susodicho [ilegible] y para que conste lo firmé. Fran.co Baquero.",
+      "uncertainties": [
+        "La esposa Francisca Salvador y la hija Antonia identifican a Manuel. El asiento fecha el entierro el día siguiente a la muerte del árbol; no expresa fecha de muerte. Lectura parcial del testamento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-burrieza"
+      ],
+      "applied": [
+        "Entierro 29-05-1724 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Girón.JPG",
+          "sha256": "d17db7a845ab3b070612d4a8ff6afc2655065f3c4edfc17ce6b5a15a85fc55fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En doce días del mes de Marzo deste pres.te año de mill setecientos y quarenta y quatro murió en este lugar de Roales Manuel Girón viudo Vº de él. Recibió los Stos Sacramentos, otorgó testamento ante mí el infrascripto Cura en diez días de dho mes y año en el q tomó para su alma doscientos y cinquenta rs [ilegible] y se enterró en esta Yglesia Parrochial de grada abajo, y para que conste lo firmé dho día mes y año. Joseph Villamor.",
+      "uncertainties": [
+        "Coinciden el nombre, la fecha y Roales; el asiento lo llama viudo pero no nombra a la esposa ni familiares, de modo que la identificación queda provisional."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "manuel-giron"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luis Martín Cordero.JPG",
+          "sha256": "5af6d7a0c2848791125710016fd08d516bd005321d1de67575a014cbb68e7c6d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y seis de Noviembre de mil setecientos y cinquenta y dos años se enterró en esta Yglesia Luis Martín, marido y conjunta persona que fue de Inés Brioso. Murió de su muerte [ilegible], recibió todos los S.tos Sacramentos, hizo testamento y [ilegible] dijo que se le hiciese el entierro, honras y cabo de año y novenario [ilegible]. Dejó [ilegible] hijos D.n [ilegible] Martín cura de [ilegible], D.n Esteban magistral de Ávila y Alonso [ilegible]. D.n Antº Cabrera.",
+      "uncertainties": [
+        "El margen dice Luis Martín Cordero, distinto del segundo apellido Nieto conservado en el árbol. Coinciden la esposa Inés Brioso y los dos hijos eclesiásticos nombrados en la partida de ella. No se expresa la fecha de muerte ni localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-martin"
+      ],
+      "applied": [
+        "Transcripción y entierro 26-11-1752; discrepancia de apellido conservada."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luis Ramos Bambón.JPG",
+          "sha256": "3a59be77c18d12c0c41447b4f6d98a70923e073b579a21f18233d01b98af7819",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el Lugar de la Moraleja a once días del mes de octubre de mil setecientos y treinta y ocho años, yo el infrascripto Cura propio de él di sepultura eclesiástica, aviendo recibido los S.tos Sacramentos de penitencia, eucharistía y extrema unción, a Luis Ramos Bambón vecino de este lugar; se enterró gradas arriba. Hizo testamento ante el fiel de fechos deste Lugar, en el que dispone le entierren con el hábito de S.n Fran.co, asistan a su entierro doce sacerdotes y doce achas; se le digan los tres oficios y novenario cantado y las tres misas de indulgencia, para lo qual tomó por su alma mil quinientos reales y lo restante se distribuya en beneficio de su alma a la disposición de Fran.co Rodríguez y Alonso Martín y Luisa Montalvo su mujer testamentarios; y cedió a beneficio de la obra de la Yglesia [ilegible] y para que conste lo firmé. [ilegible].",
+      "uncertainties": [
+        "Coinciden nombre completo y esposa Luisa Montalvo. El asiento fecha el entierro, no el fallecimiento. Algunas disposiciones finales no se leen con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-ramos"
+      ],
+      "applied": [
+        "Transcripción y entierro en Moraleja el 11-10-1738."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Martín Izquierdo.JPG",
+          "sha256": "0dd5a21fccfd923c1fb28c957f41e10ebcb4fd4f8dcf4d90107ad9cdd3f20738",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En quatro de Abril de mil setecientos y sesenta y quatro años se enterró en esta Yglesia Luisa Martín muger de Pedro Prada. Murió de su muerte natural, recibió todos los S.tos Sacramentos; hizo testamento ante Diego Cabrero y lo dejó todo a la disposición de su marido y el S.r Cura de [ilegible]. Hízosele entierro [ilegible] y novenario, dejó un hijo y lo firmé. Cabrero.",
+      "uncertainties": [
+        "Coinciden nombre, marido y fecha conservada. El día expresado es de entierro; no se expresa día de fallecimiento ni localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-martin"
+      ],
+      "applied": [
+        "Transcripción y entierro el 04-04-1764."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Montalvo Rodríguez.JPG",
+          "sha256": "c9916a352ed1d6c7ad0f9fa553875eafe5fb2ddc1b0962b9d904494b0bb16d75",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lugar de Moraleja en diez de Marzo de mil setecientos sesenta i uno yo el infra escripto teniente cura di sepultura eclesiástica gradas arriba abiendo recibido los santos sacramentos de penitencia comunión i extrema unción a Luisa Montalvo mujer q fue de Luis Ramos, quien dispuso q su cuerpo fuese enterrado en la Yglesia parochial de este lugar con el hábito de N.P.S. Fran.co; q ardiesen sobre su sepultura doze achas i la cera menuda acostumbrada; q se distribuyesen por su ánima quatro mil rs i q de estos saliesen las misas señaladas en su testamento, i q lo demás lo distribuyan sus testamentarios a su voluntad; q se le ofrendase en dos años como es costumbre, media carga de trigo de ofrenda, las tres misas [ilegible], a las obras pías lo acostumbrado. Dejó por herederos a sus hijos Dn Luis Ramos, Bernardo, Feliciano i Josefa Ramos, i por testamentarios a Bernardo Ramos su hijo, i a Luis Morales, i a Luis Delgado sus yernos; i para q conste lo firmo dho día mes i año. Joseph Montalvo.",
+      "uncertainties": [
+        "Coinciden su marido Luis Ramos y la localidad. El asiento fecha el entierro, no el fallecimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-montalvo"
+      ],
+      "applied": [
+        "Transcripción y entierro en Moraleja el 10-03-1761."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Perdigón.JPG",
+          "sha256": "16fa07e2c8dd544b034bb9fc6e46a8fa205e1e29455b347e18ff06d061fefe34",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En [ilegible] días del mes de marzo de mill setecientos y veinte y siete se enterró en esta Ygla Luisa Perdigón, aviendo recibido los santos sacramentos de Penitencia, Eucaristía y extrema unción, hizo testamento ante Lázaro López fiel de fechos, dejó por su alma ochocientos rs. Y lo firmé. Testamentario su marido Alonso Román. [firma].",
+      "uncertainties": [
+        "Coincide su marido Alonso Román; día de entierro de marzo de 1727 de lectura incierta y localidad no expresada."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-perdigon"
+      ],
+      "applied": [
+        "Transcripción y entierro sin día asignado."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Montalvo.JPG",
+          "sha256": "b8cfe986039e7ffd68ce5f04b6877449d08cb6d1d51cfe7685f903b69f0a4b20",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En seis días del mes de abril del año de mil setecientos y siete, aviendo recibido los sacramentos [ilegible] se enterró en la capilla mayor Manuel Montalbo. [ilegible].",
+      "uncertainties": [
+        "El asiento está muy desvanecido y no nombra localidad, esposa ni parentesco; el candidato no queda identificado. La fecha corresponde al entierro."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "manuel-montalvo"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Sebastián Lorenzo.JPG",
+          "sha256": "0ea8f644202ffc8e231c53e9a240188dd9069e24dd307223a257d79003cf3fa2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En treinta y uno de Agosto del Año de mil setecientos y sesenta y uno se enterró en esta Yglesia Parroq.l de Villadepera de gradas abajo Man.l Sebastián vecino que fue de dho Lugar; murió el día antecedente, aviendo recibido los S.tos Sac.tos de la Penitencia, Eucharistía, y Extrema Unción. Hizo Testamento ante Andrés [Huesos?] fiel de fechos de este lugar, en que tomó para bien de su Ánima catorce ducados, de que ande salir los derechos Parroquiales, de la Misa de Entierro, ofrenda de las Misas, y un Novenario de Misas Cantadas con Vigilias. Dejó por testamentarios a Man.l Blanco, y Man.l Velasco, y a mí el Arcipreste; Para que conste lo firmé. D.n Domingo Pasqual.",
+      "uncertainties": [
+        "El difunto murió el 30-08-1761 y fue enterrado al día siguiente en Villadepera. El asiento no identifica esposa, padres ni edad; padre e hijo del árbol comparten nombre."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "manuel-sebastian"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Pérez Carrascal.JPG",
+          "sha256": "e424f02cf4c0a2aac4adaaf267a5570d9170eaf7255d216a926acba180821d7d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En primero de Julio de mil s.tos y sesenta a.s se enterró en esta Yglesia Manuel Perez marido que fue de Athilana de Luelmo. Murió de su muerte natural. Recivió todos los S.tos Sacramentos de Penitencia, eucharistía y extrema unción. Dio poder para hazer su testamento a su muger. [Hizo?] el entierro, onrras y cabo de año y novenario cantado. Dexó una hija y para q conste lo firmé. Cabrero.",
+      "uncertainties": [
+        "Coinciden el nombre y su esposa Atilana de Luelmo. El día de entierro es explícito; no se precisa el del fallecimiento ni localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-perez-carrascal"
+      ],
+      "applied": [
+        "Transcripción y entierro 01-07-1760."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Alonso Pérez1.JPG",
+          "sha256": "ee09e33982c415002eaec480e1e8cee7701a44a9d101c83f601569ce802fa282",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Manuel Alonso Pérez2.JPG",
+          "sha256": "4006e698b6364703ae8e5650fde482c2d980aafc89fd837c1341aa294496d676",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Manuel Alonso Pérez3.JPG",
+          "sha256": "492618d900be78decd45f01261f857154a4ebaca978c03f2c673d5b2cfa44b2b",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Manuel Alonso Pérez 4.JPG",
+          "sha256": "ba14a1fd323cb456fab4cb2f09c406c3be29b32f94ff56aeffe25095b54d2fd3",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Manuel Alonso Pérez 5.JPG",
+          "sha256": "669cdf003b2e910789559c21be2d67baa965647723f57952d1097bf18a711763",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Manuel Alonso Pérez 6.JPG",
+          "sha256": "756987381c068a427b97072cf5d0e2e1301a6dc088e9a60872b4905a44859283",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Manuel Alonso. Cláusula.\n\nEn veintiocho de abril de este presente año de mil setecientos treinta se enterró en esta de Santa María Magdalena del Lugar de la Moraleja Manuel Alonso Pérez vecino de él, aviendo recibido antes los santos sacramentos de penitencia, eucharistía y extremaunción. Hizo testamento, debajo de cuya disposición murió, ante Miguel Gallego, maestro de primeras letras, en el que ordenó lo siguiente: mandó se le enterrase en esta iglesia en la sepultura que eligiese el Sr Cura y que se le trajese el hábito de Nro Pe San Francisco. Asimismo dispuso se le hiciesen los tres oficios mayores según la costumbre, y que a ellos asistiesen seis sacerdotes seculares, tres religiosos del orden de San Francisco de la Observancia y tres de la de San Jerónimo de los conventos de Zamora. Asimismo mandó ardiesen seis achas y la cera menuda necesaria en las referidas funciones; mandó se le ofrendase con una carga de trigo y que se le dixesen las tres misas de indulgencia. Asimismo ordenó se le ofrendase año y día con pan y vino, cera menuda y dos cirios blancos; mandó se le cantase un novenario de misas; ordenó se le dixesen por su alma trescientas misas. A la imagen de Nuestra Señora del Carmen que se venera en la parroquia de este lugar mandó se le diesen y dio in perpetuum para su culto y veneración quatro tierras que tiene propias: la primera que está en los comunes [ilegible], a do dicen San Torpe, que hará [ilegible] en sembradura, linda con camino de Moraleja a Zamora [ilegible] y tierra del marqués de [ilegible] hacia Zamora; la segunda que está a la rodera de San [ilegible], que hace [ilegible] poco más o menos, y linda con la misma rodera que va al prado de San [ilegible] y camino de Villar a Arcenillas [ilegible] tierra de herederos de Baltasar Gutiérrez; la tercera a do dicen el prado de la [ilegible], que hará [ilegible] y linda con tierra del marqués de [ilegible] y tierra de don Bernardino de Ledesma y la rodean estas dos tierras; la quarta junto a la tercera que hará [ilegible] poco más o menos, linda con tierra de dicho marqués y tierra del [ilegible] de Sancti Spíritus, con condición que se diga por su intención el día diez y seis de julio, que es el día de Nuestra Señora del Carmen, con sus vísperas el día antes, y esto se entiende en cada un año, una misa cantada. Mandó a su mujer Ana María Salvador el quinto de sus bienes, y que se distribuyese carga y media de trigo entre los pobres de este lugar a disposición de sus testamentarios, los que nombró: el primero al Sr Don Francisco Colmenero, cura párroco de este lugar, y el segundo a su hijo Bernardo Alonso y a su mujer Ana María Salvador, y para que conste lo firmé. Don Francisco Colmenero.",
+      "uncertainties": [
+        "Son tres páginas fotografiadas dos veces: 1 y 4, 2 y 5, 3 y 6. Coinciden la esposa Ana María Salvador y el hijo Bernardo Alonso. El asiento fecha el entierro, no el fallecimiento. Las medidas y algunos linderos tienen lectura incierta."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-alonso-padre-de-bernardo-alonso"
+      ],
+      "applied": [
+        "Transcripción y entierro en Moraleja el 28-04-1730."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Portales1.JPG",
+          "sha256": "b6535b825962390d7dc393660381f4f6da03b2fb49d2d2ccfbad18d00c98fb55",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Luisa Portales2.JPG",
+          "sha256": "6255c1ab05e7aefaf6f8d92b28c3a01572e3c0a011fec87d1da234cef3d851c0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y nueve de Mayo de mil setecientos y quarenta y un años se enterró en esta Yglesia Luisa Portales viuda de Juan Marqués. Murió de su muerte natural, recibió todos los santos sacramentos de penitencia, eucaristía y extremaunción. Hizo testamento ante Gerónimo Gutiérrez escribano del número de Zamora en veinte y nueve de octubre del año de mil setecientos y quarenta. Tomó por su alma mil y quinientos rs vellón. Hizosele entierro, honras y cabo de año y novenario cantado con asistencia [ilegible]. Dejó diferentes mandas y misas [ilegible] como constan de testamento. Fueron sus testamentarios Dn Alonso Marqués su hijo, canónigo de la Santa Iglesia Cathedral de la ciudad de Zamora, y su nieto Dn Joseph Marqués cura de Villaseco y para que conste lo firmé. Dn Anttº Cabrera.\n\nDejó la dicha un aniversario de dos misas rezadas q se han de decir la una el día de S.n Juan de Navidad y la otra el día de S.n Ildefonso de enero con su responso en su sepultura, sobre una viña al camino de [ilegible] ... [ilegible] ... las dos misas han de [ilegible] ... [ilegible] ... y para que conste lo firmé. Dn Anttº Cabrera.",
+      "uncertainties": [
+        "Coinciden el nombre, su marido Juan Marqués, nombrado en la relación familiar conservada, y la fecha próxima a la muerte que figura en el árbol. La fecha expresa es la del entierro, sin localidad nombrada. La nota añadida sobre la propiedad está borrosa."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-portales"
+      ],
+      "applied": [
+        "Transcripción del asiento y parte de la nota, entierro 29-05-1741."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuela de las Infantas García.JPG",
+          "sha256": "55a0f6da0cd1ddc15c5f587f957bf847d2f45b6f69686927bff60adbf39f5d65",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el Lug.r de Ganame a los veinte y seis días del mes de Abril de mil setecientos y veinte y nueve años, yo Fran.co Baquero cura propio del enterré en su Ygl.a arriba a Manuela de las Infantas vez.a del y muger de Domingo Fierro, aviendo Recivido los S.tos Sacram.tos con ella Extrema Unción. Declaró ante mí el Cura, Pedro Pascual y Alonso Isidro y otros, que dexaba a la voluntad del dho su marido el que hiziese bien por su alma lo que fuese su voluntad, y el dho su marido dixo se le hiziese en esta Ygl.a el funeral acostumbrado y que le mandaría dezir cinquenta misas rezadas y ofrendaría su sepultura dos años seg.n costumbre. Dexó por sus herederos y hijos legítimos y del matrimonio con el dho a Joseph, María, Ángela, [Michela?], Domingo y Theresa Fierro, y p.a que conste lo firmé. Fran.co Baquero.",
+      "uncertainties": [
+        "Coinciden nombre y marido Domingo Fierro. La fecha es de entierro; el día de la muerte no se precisa. Grafía de Michela dudosa."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuela-de-las-infantas"
+      ],
+      "applied": [
+        "Transcripción y entierro en Gáname el 26-04-1729."
+      ],
+      "destination": "Tatarabuelos quintos"
     }
   ]
 }

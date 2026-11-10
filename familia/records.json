@@ -1576,7 +1576,8 @@
           "spouse": "manuela-junquera",
           "place": "Villardeciervos"
         }
-      ]
+      ],
+      "father": "cristobal-unzueta-padre-de-manuel"
     },
     {
       "id": "manuela-junquera",
@@ -5346,7 +5347,8 @@
       },
       "death": {
         "date": "1764-04-04",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En quatro de Abril de mil setecientos y sesenta y quatro años se enterró en esta Yglesia Luisa Martín muger de Pedro Prada. Murió de su muerte natural, recibió todos los S.tos Sacramentos; hizo testamento ante Diego Cabrero y lo dejó todo a la disposición de su marido y el S.r Cura de [ilegible]. Hízosele entierro [ilegible] y novenario, dejó un hijo y lo firmé. Cabrero."
       },
       "mother": "isabel-izquierdo",
       "father": "francisco-martin-cabrero",
@@ -5358,7 +5360,11 @@
           "note": "Con dispensa de tercer grado de consanguinidad.",
           "transcription": "Pedro con Luisa.\n\nEn ocho de Otubre de mil setecientos y treinta y uno io el Ldo Dn Luis González cura theniente deste lugar de Morales, con licencia del Sr Provisor deste obispado, desposé i belé in facie eclesie, siendo dispensados en tercero grado de consanguinidad, y dando las tres admoniciones que dispone el Sto Concilio de Trento y nuestra madre la yglesia manda y de ellas no resultó inpedimento alguno, a Pedro de Prada hijo de Franco de Prada y de María Martín con Luisa Martín hija de Franco Martín difunto y de Isavel Yzquierdo vecinos deste lugar. Fueron padrinos Pedro Martín y Luisa de Amor. Testigos Dn Manuel Martín y Luis Martín y Alonso Martín y así lo firmé. Luis González, cura theniente."
         }
-      ]
+      ],
+      "burial": {
+        "date": "1764-04-04",
+        "transcription": "En quatro de Abril de mil setecientos y sesenta y quatro años se enterró en esta Yglesia Luisa Martín muger de Pedro Prada. Murió de su muerte natural, recibió todos los S.tos Sacramentos; hizo testamento ante Diego Cabrero y lo dejó todo a la disposición de su marido y el S.r Cura de [ilegible]. Hízosele entierro [ilegible] y novenario, dejó un hijo y lo firmé. Cabrero."
+      }
     },
     {
       "id": "francisco-hernandez",
@@ -8573,7 +8579,8 @@
       ],
       "death": {
         "date": "1730-04-27",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "transcription": "Manuel Alonso. Cláusula.\n\nEn veintiocho de abril de este presente año de mil setecientos treinta se enterró en esta de Santa María Magdalena del Lugar de la Moraleja Manuel Alonso Pérez vecino de él, aviendo recibido antes los santos sacramentos de penitencia, eucharistía y extremaunción. Hizo testamento, debajo de cuya disposición murió, ante Miguel Gallego, maestro de primeras letras, en el que ordenó lo siguiente: mandó se le enterrase en esta iglesia en la sepultura que eligiese el Sr Cura y que se le trajese el hábito de Nro Pe San Francisco. Asimismo dispuso se le hiciesen los tres oficios mayores según la costumbre, y que a ellos asistiesen seis sacerdotes seculares, tres religiosos del orden de San Francisco de la Observancia y tres de la de San Jerónimo de los conventos de Zamora. Asimismo mandó ardiesen seis achas y la cera menuda necesaria en las referidas funciones; mandó se le ofrendase con una carga de trigo y que se le dixesen las tres misas de indulgencia. Asimismo ordenó se le ofrendase año y día con pan y vino, cera menuda y dos cirios blancos; mandó se le cantase un novenario de misas; ordenó se le dixesen por su alma trescientas misas. A la imagen de Nuestra Señora del Carmen que se venera en la parroquia de este lugar mandó se le diesen y dio in perpetuum para su culto y veneración quatro tierras que tiene propias: la primera que está en los comunes [ilegible], a do dicen San Torpe, que hará [ilegible] en sembradura, linda con camino de Moraleja a Zamora [ilegible] y tierra del marqués de [ilegible] hacia Zamora; la segunda que está a la rodera de San [ilegible], que hace [ilegible] poco más o menos, y linda con la misma rodera que va al prado de San [ilegible] y camino de Villar a Arcenillas [ilegible] tierra de herederos de Baltasar Gutiérrez; la tercera a do dicen el prado de la [ilegible], que hará [ilegible] y linda con tierra del marqués de [ilegible] y tierra de don Bernardino de Ledesma y la rodean estas dos tierras; la quarta junto a la tercera que hará [ilegible] poco más o menos, linda con tierra de dicho marqués y tierra del [ilegible] de Sancti Spíritus, con condición que se diga por su intención el día diez y seis de julio, que es el día de Nuestra Señora del Carmen, con sus vísperas el día antes, y esto se entiende en cada un año, una misa cantada. Mandó a su mujer Ana María Salvador el quinto de sus bienes, y que se distribuyese carga y media de trigo entre los pobres de este lugar a disposición de sus testamentarios, los que nombró: el primero al Sr Don Francisco Colmenero, cura párroco de este lugar, y el segundo a su hijo Bernardo Alonso y a su mujer Ana María Salvador, y para que conste lo firmé. Don Francisco Colmenero."
       },
       "marriages": [
         {
@@ -8589,7 +8596,12 @@
       },
       "observations": [
         "La partida de matrimonio de 1686 indica que era viudo."
-      ]
+      ],
+      "burial": {
+        "date": "1730-04-28",
+        "place": "Moraleja del Vino",
+        "transcription": "Manuel Alonso. Cláusula.\n\nEn veintiocho de abril de este presente año de mil setecientos treinta se enterró en esta de Santa María Magdalena del Lugar de la Moraleja Manuel Alonso Pérez vecino de él, aviendo recibido antes los santos sacramentos de penitencia, eucharistía y extremaunción. Hizo testamento, debajo de cuya disposición murió, ante Miguel Gallego, maestro de primeras letras, en el que ordenó lo siguiente: mandó se le enterrase en esta iglesia en la sepultura que eligiese el Sr Cura y que se le trajese el hábito de Nro Pe San Francisco. Asimismo dispuso se le hiciesen los tres oficios mayores según la costumbre, y que a ellos asistiesen seis sacerdotes seculares, tres religiosos del orden de San Francisco de la Observancia y tres de la de San Jerónimo de los conventos de Zamora. Asimismo mandó ardiesen seis achas y la cera menuda necesaria en las referidas funciones; mandó se le ofrendase con una carga de trigo y que se le dixesen las tres misas de indulgencia. Asimismo ordenó se le ofrendase año y día con pan y vino, cera menuda y dos cirios blancos; mandó se le cantase un novenario de misas; ordenó se le dixesen por su alma trescientas misas. A la imagen de Nuestra Señora del Carmen que se venera en la parroquia de este lugar mandó se le diesen y dio in perpetuum para su culto y veneración quatro tierras que tiene propias: la primera que está en los comunes [ilegible], a do dicen San Torpe, que hará [ilegible] en sembradura, linda con camino de Moraleja a Zamora [ilegible] y tierra del marqués de [ilegible] hacia Zamora; la segunda que está a la rodera de San [ilegible], que hace [ilegible] poco más o menos, y linda con la misma rodera que va al prado de San [ilegible] y camino de Villar a Arcenillas [ilegible] tierra de herederos de Baltasar Gutiérrez; la tercera a do dicen el prado de la [ilegible], que hará [ilegible] y linda con tierra del marqués de [ilegible] y tierra de don Bernardino de Ledesma y la rodean estas dos tierras; la quarta junto a la tercera que hará [ilegible] poco más o menos, linda con tierra de dicho marqués y tierra del [ilegible] de Sancti Spíritus, con condición que se diga por su intención el día diez y seis de julio, que es el día de Nuestra Señora del Carmen, con sus vísperas el día antes, y esto se entiende en cada un año, una misa cantada. Mandó a su mujer Ana María Salvador el quinto de sus bienes, y que se distribuyese carga y media de trigo entre los pobres de este lugar a disposición de sus testamentarios, los que nombró: el primero al Sr Don Francisco Colmenero, cura párroco de este lugar, y el segundo a su hijo Bernardo Alonso y a su mujer Ana María Salvador, y para que conste lo firmé. Don Francisco Colmenero."
+      }
     },
     {
       "id": "ana-maria-salvador",
@@ -8701,7 +8713,8 @@
         "place": "Pereruela"
       },
       "death": {
-        "date": "1719-11-27"
+        "date": "1719-11-27",
+        "transcription": "A veinte y siete de Nob.re de mil sett.os y diez y nueve murió Luisa Prieto muger de Manuel Martín. Enterróse en la capilla mayor, recibió los sacram.tos de la penitencia y extremaunción y no el viático por impedim.to. Hizo testam.to a veinte y seis en que ordenó asistencia de seis sacerdotes, novenario y otras disposiciones y seiscientos R.s por su alma; [ilegible]. D.r Calleja."
       },
       "marriages": [
         {
@@ -8714,7 +8727,10 @@
       ],
       "observations": [
         "La partida de matrimonio de 1713 indica que era viuda de Luis García."
-      ]
+      ],
+      "burial": {
+        "transcription": "A veinte y siete de Nob.re de mil sett.os y diez y nueve murió Luisa Prieto muger de Manuel Martín. Enterróse en la capilla mayor, recibió los sacram.tos de la penitencia y extremaunción y no el viático por impedim.to. Hizo testam.to a veinte y seis en que ordenó asistencia de seis sacerdotes, novenario y otras disposiciones y seiscientos R.s por su alma; [ilegible]. D.r Calleja."
+      }
     },
     {
       "id": "miguel-avedillo",
@@ -9949,7 +9965,12 @@
         }
       ],
       "father": "santiago-burrieza",
-      "mother": "ana-melado-madre-de-manuel-burrieza"
+      "mother": "ana-melado-madre-de-manuel-burrieza",
+      "burial": {
+        "date": "1724-05-29",
+        "place": "Gáname",
+        "transcription": "En el lug.r de Ganame a veinte y nueve días del mes de Maio de mil setecientos y veinte y quatro años yo Fran.co Baquero cura de él enterré en su Ygla de medio abajo a Manuel Burrieza vecino de él, aviendo recibido los S.tos Sacram.tos todos con el de la extrema unción [ilegible]. [ilegible] a su hija Antonia Burrieza, que tuvo de Fran.ca Salvador su madre y lex.ma mujer del susodicho [ilegible] y para que conste lo firmé. Fran.co Baquero."
+      }
     },
     {
       "id": "francisca-salvador",
@@ -10078,10 +10099,16 @@
       },
       "death": {
         "date": "1729-04-25",
-        "place": "Gáname"
+        "place": "Gáname",
+        "transcription": "En el Lug.r de Ganame a los veinte y seis días del mes de Abril de mil setecientos y veinte y nueve años, yo Fran.co Baquero cura propio del enterré en su Ygl.a arriba a Manuela de las Infantas vez.a del y muger de Domingo Fierro, aviendo Recivido los S.tos Sacram.tos con ella Extrema Unción. Declaró ante mí el Cura, Pedro Pascual y Alonso Isidro y otros, que dexaba a la voluntad del dho su marido el que hiziese bien por su alma lo que fuese su voluntad, y el dho su marido dixo se le hiziese en esta Ygl.a el funeral acostumbrado y que le mandaría dezir cinquenta misas rezadas y ofrendaría su sepultura dos años seg.n costumbre. Dexó por sus herederos y hijos legítimos y del matrimonio con el dho a Joseph, María, Ángela, [Michela?], Domingo y Theresa Fierro, y p.a que conste lo firmé. Fran.co Baquero."
       },
       "father": "antonio-de-las-infantas",
-      "mother": "maria-garcia"
+      "mother": "maria-garcia",
+      "burial": {
+        "date": "1729-04-26",
+        "place": "Gáname",
+        "transcription": "En el Lug.r de Ganame a los veinte y seis días del mes de Abril de mil setecientos y veinte y nueve años, yo Fran.co Baquero cura propio del enterré en su Ygl.a arriba a Manuela de las Infantas vez.a del y muger de Domingo Fierro, aviendo Recivido los S.tos Sacram.tos con ella Extrema Unción. Declaró ante mí el Cura, Pedro Pascual y Alonso Isidro y otros, que dexaba a la voluntad del dho su marido el que hiziese bien por su alma lo que fuese su voluntad, y el dho su marido dixo se le hiziese en esta Ygl.a el funeral acostumbrado y que le mandaría dezir cinquenta misas rezadas y ofrendaría su sepultura dos años seg.n costumbre. Dexó por sus herederos y hijos legítimos y del matrimonio con el dho a Joseph, María, Ángela, [Michela?], Domingo y Theresa Fierro, y p.a que conste lo firmé. Fran.co Baquero."
+      }
     },
     {
       "id": "jose-blanco",
@@ -11241,7 +11268,8 @@
       },
       "death": {
         "date": "1749-08-13",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En catorze de Agosto de mil setecientos y quarenta y nueve años se enterró en esta Yglesia Manuel Cabrero Luelmo marido y conjunta persona de Cathalina Marques. Murió el día treze de dicho mes de su muerte natural. Recivió todos los Stos Sacramentos de penitencia, eucharistía y extremaunción. Dio poder para hacer su testamento a D.n Alonso Marques, D.n Antt.o [ilegible], D.n Juan Cabrero y su muger Cathalina Marques para que gastasen y distribuyesen por su Alma a su arbitrio. Dejó ocho hijos y para que conste lo firmé. D.n Antt.o Cabrera."
       },
       "marriages": [
         {
@@ -11256,6 +11284,10 @@
         "date": "1693-10-02",
         "place": "Morales del Vino",
         "transcription": "Manuel.\n\nEn dos días del mes de octubre de mill ss y nobenta y tres años yo el Ldo Germo de Luelmo cura proprio deste lugr de Morales baptizé solemnemente a un niño que se llamó Manuel hixo legítimo de Juº Cabrero y María de Luelmo. Fueron padrinos Pedro Cabrero e Ysabel Pérez. Testigos [ilegible] Marqués, Juan Martín y Matheo Brioso todos vºs deste lugr y para que conste lo firmé. Ldo Germo de Luelmo."
+      },
+      "burial": {
+        "date": "1749-08-14",
+        "transcription": "En catorze de Agosto de mil setecientos y quarenta y nueve años se enterró en esta Yglesia Manuel Cabrero Luelmo marido y conjunta persona de Cathalina Marques. Murió el día treze de dicho mes de su muerte natural. Recivió todos los Stos Sacramentos de penitencia, eucharistía y extremaunción. Dio poder para hacer su testamento a D.n Alonso Marques, D.n Antt.o [ilegible], D.n Juan Cabrero y su muger Cathalina Marques para que gastasen y distribuyesen por su Alma a su arbitrio. Dejó ocho hijos y para que conste lo firmé. D.n Antt.o Cabrera."
       }
     },
     {
@@ -11402,7 +11434,8 @@
       },
       "death": {
         "date": "1738-10-10",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "transcription": "En el Lugar de la Moraleja a once días del mes de octubre de mil setecientos y treinta y ocho años, yo el infrascripto Cura propio de él di sepultura eclesiástica, aviendo recibido los S.tos Sacramentos de penitencia, eucharistía y extrema unción, a Luis Ramos Bambón vecino de este lugar; se enterró gradas arriba. Hizo testamento ante el fiel de fechos deste Lugar, en el que dispone le entierren con el hábito de S.n Fran.co, asistan a su entierro doce sacerdotes y doce achas; se le digan los tres oficios y novenario cantado y las tres misas de indulgencia, para lo qual tomó por su alma mil quinientos reales y lo restante se distribuya en beneficio de su alma a la disposición de Fran.co Rodríguez y Alonso Martín y Luisa Montalvo su mujer testamentarios; y cedió a beneficio de la obra de la Yglesia [ilegible] y para que conste lo firmé. [ilegible]."
       },
       "marriages": [
         {
@@ -11412,7 +11445,12 @@
         }
       ],
       "father": "francisco-ramos",
-      "mother": "josefa-bambon"
+      "mother": "josefa-bambon",
+      "burial": {
+        "date": "1738-10-11",
+        "place": "Moraleja del Vino",
+        "transcription": "En el Lugar de la Moraleja a once días del mes de octubre de mil setecientos y treinta y ocho años, yo el infrascripto Cura propio de él di sepultura eclesiástica, aviendo recibido los S.tos Sacramentos de penitencia, eucharistía y extrema unción, a Luis Ramos Bambón vecino de este lugar; se enterró gradas arriba. Hizo testamento ante el fiel de fechos deste Lugar, en el que dispone le entierren con el hábito de S.n Fran.co, asistan a su entierro doce sacerdotes y doce achas; se le digan los tres oficios y novenario cantado y las tres misas de indulgencia, para lo qual tomó por su alma mil quinientos reales y lo restante se distribuya en beneficio de su alma a la disposición de Fran.co Rodríguez y Alonso Martín y Luisa Montalvo su mujer testamentarios; y cedió a beneficio de la obra de la Yglesia [ilegible] y para que conste lo firmé. [ilegible]."
+      }
     },
     {
       "id": "luisa-montalvo",
@@ -11435,10 +11473,16 @@
       },
       "death": {
         "date": "1761-03-09",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "transcription": "En el lugar de Moraleja en diez de Marzo de mil setecientos sesenta i uno yo el infra escripto teniente cura di sepultura eclesiástica gradas arriba abiendo recibido los santos sacramentos de penitencia comunión i extrema unción a Luisa Montalvo mujer q fue de Luis Ramos, quien dispuso q su cuerpo fuese enterrado en la Yglesia parochial de este lugar con el hábito de N.P.S. Fran.co; q ardiesen sobre su sepultura doze achas i la cera menuda acostumbrada; q se distribuyesen por su ánima quatro mil rs i q de estos saliesen las misas señaladas en su testamento, i q lo demás lo distribuyan sus testamentarios a su voluntad; q se le ofrendase en dos años como es costumbre, media carga de trigo de ofrenda, las tres misas [ilegible], a las obras pías lo acostumbrado. Dejó por herederos a sus hijos Dn Luis Ramos, Bernardo, Feliciano i Josefa Ramos, i por testamentarios a Bernardo Ramos su hijo, i a Luis Morales, i a Luis Delgado sus yernos; i para q conste lo firmo dho día mes i año. Joseph Montalvo."
       },
       "father": "manuel-montalvo",
-      "mother": "josefa-rodriguez"
+      "mother": "josefa-rodriguez",
+      "burial": {
+        "date": "1761-03-10",
+        "place": "Moraleja del Vino",
+        "transcription": "En el lugar de Moraleja en diez de Marzo de mil setecientos sesenta i uno yo el infra escripto teniente cura di sepultura eclesiástica gradas arriba abiendo recibido los santos sacramentos de penitencia comunión i extrema unción a Luisa Montalvo mujer q fue de Luis Ramos, quien dispuso q su cuerpo fuese enterrado en la Yglesia parochial de este lugar con el hábito de N.P.S. Fran.co; q ardiesen sobre su sepultura doze achas i la cera menuda acostumbrada; q se distribuyesen por su ánima quatro mil rs i q de estos saliesen las misas señaladas en su testamento, i q lo demás lo distribuyan sus testamentarios a su voluntad; q se le ofrendase en dos años como es costumbre, media carga de trigo de ofrenda, las tres misas [ilegible], a las obras pías lo acostumbrado. Dejó por herederos a sus hijos Dn Luis Ramos, Bernardo, Feliciano i Josefa Ramos, i por testamentarios a Bernardo Ramos su hijo, i a Luis Morales, i a Luis Delgado sus yernos; i para q conste lo firmo dho día mes i año. Joseph Montalvo."
+      }
     },
     {
       "id": "alonso-de-mena",
@@ -16452,7 +16496,12 @@
       },
       "death": {
         "date": "1741-05-28",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En veinte y nueve de Mayo de mil setecientos y quarenta y un años se enterró en esta Yglesia Luisa Portales viuda de Juan Marqués. Murió de su muerte natural, recibió todos los santos sacramentos de penitencia, eucaristía y extremaunción. Hizo testamento ante Gerónimo Gutiérrez escribano del número de Zamora en veinte y nueve de octubre del año de mil setecientos y quarenta. Tomó por su alma mil y quinientos rs vellón. Hizosele entierro, honras y cabo de año y novenario cantado con asistencia [ilegible]. Dejó diferentes mandas y misas [ilegible] como constan de testamento. Fueron sus testamentarios Dn Alonso Marqués su hijo, canónigo de la Santa Iglesia Cathedral de la ciudad de Zamora, y su nieto Dn Joseph Marqués cura de Villaseco y para que conste lo firmé. Dn Anttº Cabrera.\n\nDejó la dicha un aniversario de dos misas rezadas q se han de decir la una el día de S.n Juan de Navidad y la otra el día de S.n Ildefonso de enero con su responso en su sepultura, sobre una viña al camino de [ilegible] ... [ilegible] ... las dos misas han de [ilegible] ... [ilegible] ... y para que conste lo firmé. Dn Anttº Cabrera."
+      },
+      "burial": {
+        "date": "1741-05-29",
+        "transcription": "En veinte y nueve de Mayo de mil setecientos y quarenta y un años se enterró en esta Yglesia Luisa Portales viuda de Juan Marqués. Murió de su muerte natural, recibió todos los santos sacramentos de penitencia, eucaristía y extremaunción. Hizo testamento ante Gerónimo Gutiérrez escribano del número de Zamora en veinte y nueve de octubre del año de mil setecientos y quarenta. Tomó por su alma mil y quinientos rs vellón. Hizosele entierro, honras y cabo de año y novenario cantado con asistencia [ilegible]. Dejó diferentes mandas y misas [ilegible] como constan de testamento. Fueron sus testamentarios Dn Alonso Marqués su hijo, canónigo de la Santa Iglesia Cathedral de la ciudad de Zamora, y su nieto Dn Joseph Marqués cura de Villaseco y para que conste lo firmé. Dn Anttº Cabrera.\n\nDejó la dicha un aniversario de dos misas rezadas q se han de decir la una el día de S.n Juan de Navidad y la otra el día de S.n Ildefonso de enero con su responso en su sepultura, sobre una viña al camino de [ilegible] ... [ilegible] ... las dos misas han de [ilegible] ... [ilegible] ... y para que conste lo firmé. Dn Anttº Cabrera."
       }
     },
     {
@@ -16900,7 +16949,11 @@
       },
       "death": {
         "date": "1727-03-02",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En [ilegible] días del mes de marzo de mill setecientos y veinte y siete se enterró en esta Ygla Luisa Perdigón, aviendo recibido los santos sacramentos de Penitencia, Eucaristía y extrema unción, hizo testamento ante Lázaro López fiel de fechos, dejó por su alma ochocientos rs. Y lo firmé. Testamentario su marido Alonso Román. [firma]."
+      },
+      "burial": {
+        "transcription": "En [ilegible] días del mes de marzo de mill setecientos y veinte y siete se enterró en esta Ygla Luisa Perdigón, aviendo recibido los santos sacramentos de Penitencia, Eucaristía y extrema unción, hizo testamento ante Lázaro López fiel de fechos, dejó por su alma ochocientos rs. Y lo firmé. Testamentario su marido Alonso Román. [firma]."
       }
     },
     {
@@ -19457,7 +19510,8 @@
       },
       "death": {
         "date": "1752-11-25",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En veinte y seis de Noviembre de mil setecientos y cinquenta y dos años se enterró en esta Yglesia Luis Martín, marido y conjunta persona que fue de Inés Brioso. Murió de su muerte [ilegible], recibió todos los S.tos Sacramentos, hizo testamento y [ilegible] dijo que se le hiciese el entierro, honras y cabo de año y novenario [ilegible]. Dejó [ilegible] hijos D.n [ilegible] Martín cura de [ilegible], D.n Esteban magistral de Ávila y Alonso [ilegible]. D.n Antº Cabrera."
       },
       "marriages": [
         {
@@ -19467,7 +19521,14 @@
         }
       ],
       "father": "pedro-martin-padre-de-maria-martin-nieto",
-      "mother": "maria-nieto"
+      "mother": "maria-nieto",
+      "burial": {
+        "date": "1752-11-26",
+        "transcription": "En veinte y seis de Noviembre de mil setecientos y cinquenta y dos años se enterró en esta Yglesia Luis Martín, marido y conjunta persona que fue de Inés Brioso. Murió de su muerte [ilegible], recibió todos los S.tos Sacramentos, hizo testamento y [ilegible] dijo que se le hiciese el entierro, honras y cabo de año y novenario [ilegible]. Dejó [ilegible] hijos D.n [ilegible] Martín cura de [ilegible], D.n Esteban magistral de Ávila y Alonso [ilegible]. D.n Antº Cabrera."
+      },
+      "observations": [
+        "El margen de la partida de entierro lo llama Luis Martín Cordero, mientras los datos anteriores lo nombran Luis Martín Nieto; la esposa y los hijos eclesiásticos apoyan la identificación, pero el segundo apellido requiere revisión."
+      ]
     },
     {
       "id": "ines-brioso",
@@ -19707,7 +19768,8 @@
       },
       "death": {
         "date": "1760-06-30",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En primero de Julio de mil s.tos y sesenta a.s se enterró en esta Yglesia Manuel Perez marido que fue de Athilana de Luelmo. Murió de su muerte natural. Recivió todos los S.tos Sacramentos de Penitencia, eucharistía y extrema unción. Dio poder para hazer su testamento a su muger. [Hizo?] el entierro, onrras y cabo de año y novenario cantado. Dexó una hija y para q conste lo firmé. Cabrero."
       },
       "father": "juan-perez-padre-de-manuel-perez-carrascal",
       "mother": "maria-carrascal",
@@ -19717,7 +19779,11 @@
           "date": "1745-01-25",
           "place": "Morales del Vino"
         }
-      ]
+      ],
+      "burial": {
+        "date": "1760-07-01",
+        "transcription": "En primero de Julio de mil s.tos y sesenta a.s se enterró en esta Yglesia Manuel Perez marido que fue de Athilana de Luelmo. Murió de su muerte natural. Recivió todos los S.tos Sacramentos de Penitencia, eucharistía y extrema unción. Dio poder para hazer su testamento a su muger. [Hizo?] el entierro, onrras y cabo de año y novenario cantado. Dexó una hija y para q conste lo firmé. Cabrero."
+      }
     },
     {
       "id": "isabel-martin-madre-de-juan-perez-martin",
@@ -20577,6 +20643,241 @@
         "note": "Antes del 8 de septiembre de 1665; el comienzo del asiento no se conserva.",
         "transcription": "[...] bapticé y puse los santos olios a María hija de Luis Delgado mozo y de Lucía González su ligítima mujer. Fueron sus padrinos D. Luis González de Silva y María García. Fueron testigos Francisco Gutiérrez familiar del Santo Oficio de la Ynquisición y Pedro de Luelmo y otros muchos y para que conste lo firmé ut supra. Pedro González."
       }
+    },
+    {
+      "id": "cristobal-unzueta-padre-de-manuel",
+      "name": "Cristóbal Unzueta",
+      "givenNames": "Cristóbal",
+      "surnames": [
+        "Unzueta"
+      ],
+      "father": "francisco-antonio-unzueta-ormacho",
+      "mother": "isabel-romero",
+      "birth": {
+        "date": "1746-06-01",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-antonio-unzueta-ormacho",
+      "name": "Francisco Antonio Unzueta Ormacho",
+      "givenNames": "Francisco Antonio",
+      "surnames": [
+        "Unzueta",
+        "Ormacho"
+      ],
+      "father": "christobal-unzueta-zabarte",
+      "mother": "ysabela-ormacho-rodriguez",
+      "origins": [
+        "Arrasate",
+        "Villardeciervos"
+      ],
+      "observations": [
+        "Se consigna la fecha 20 de enero de 1721 en Arrasate sin especificar el tipo de acontecimiento. Pasó de Arrasate a Villardeciervos.",
+        "Su hermana Pascuala nació el 7 de abril de 1723."
+      ]
+    },
+    {
+      "id": "isabel-romero",
+      "name": "Isabel Romero",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Romero"
+      ]
+    },
+    {
+      "id": "christobal-unzueta-zabarte",
+      "name": "Christobal Unzueta Zabarte",
+      "givenNames": "Christobal",
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
+      "father": "joan-bauptista-uncueta-fuldain",
+      "mother": "maria-cabarte-landaburu",
+      "origins": [
+        "Arrasate"
+      ],
+      "observations": [
+        "Se consigna la fecha 2 de febrero de 1688 en Arrasate sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "ysabela-ormacho-rodriguez",
+      "name": "Ysabela Ormacho Rodríguez",
+      "givenNames": "Ysabela",
+      "surnames": [
+        "Ormacho",
+        "Rodríguez"
+      ],
+      "observations": [
+        "El primer apellido también podría ser Ormaeche u Hormaechea."
+      ]
+    },
+    {
+      "id": "joan-bauptista-uncueta-fuldain",
+      "name": "Joan Bauptista Uncueta Fuldain",
+      "givenNames": "Joan Bauptista",
+      "surnames": [
+        "Uncueta",
+        "Fuldain"
+      ],
+      "father": "juan-baptista-unceta-cirarruista",
+      "mother": "maria-fuldain-egurbide",
+      "origins": [
+        "Arrasate"
+      ],
+      "observations": [
+        "Se consigna la fecha 13 de abril de 1646 en Arrasate sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "maria-cabarte-landaburu",
+      "name": "Maria Cabarte Landaburu",
+      "givenNames": "Maria",
+      "surnames": [
+        "Cabarte",
+        "Landaburu"
+      ],
+      "father": "domingo-cabarte-ybieta-arteaga",
+      "mother": "mari-miguel-landaburu-guinea",
+      "origins": [
+        "Arrasate"
+      ],
+      "observations": [
+        "Se consigna la fecha 2 de junio de 1651 en Arrasate sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "juan-baptista-unceta-cirarruista",
+      "name": "Juan Baptista Unceta Çirarruista",
+      "givenNames": "Juan Baptista",
+      "surnames": [
+        "Unceta",
+        "Çirarruista"
+      ],
+      "father": "martin-unceta-aguinaga",
+      "mother": "gracia-cirarrusta-gaztelueta",
+      "origins": [
+        "Eibar"
+      ],
+      "observations": [
+        "Se consigna la fecha 26 de junio de 1623 en Eibar sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "maria-fuldain-egurbide",
+      "name": "Maria Fuldain Egurbide",
+      "givenNames": "Maria",
+      "surnames": [
+        "Fuldain",
+        "Egurbide"
+      ],
+      "father": "juan-fuldain-amezqueta",
+      "mother": "antonia-egurbide-zigorondo",
+      "origins": [
+        "Arrasate"
+      ],
+      "observations": [
+        "Se consigna la fecha 8 de diciembre de 1612 en Arrasate sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "domingo-cabarte-ybieta-arteaga",
+      "name": "Domingo Cabarte Ybieta-Arteaga",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Cabarte",
+        "Ybieta-Arteaga"
+      ],
+      "father": "juan-cabarte",
+      "mother": "maria-perez-ybieta-arteaga"
+    },
+    {
+      "id": "mari-miguel-landaburu-guinea",
+      "name": "Mari Miguel Landaburu Guinea",
+      "givenNames": "Mari Miguel",
+      "surnames": [
+        "Landaburu",
+        "Guinea"
+      ],
+      "father": "joan-landaburu-guridi",
+      "mother": "anna-guinea",
+      "origins": [
+        "Arrasate"
+      ],
+      "observations": [
+        "Se consigna la fecha 20 de enero de 1619 en Arrasate sin especificar el tipo de acontecimiento."
+      ]
+    },
+    {
+      "id": "martin-unceta-aguinaga",
+      "name": "Martin Unceta Aguinaga",
+      "givenNames": "Martin",
+      "surnames": [
+        "Unceta",
+        "Aguinaga"
+      ]
+    },
+    {
+      "id": "gracia-cirarrusta-gaztelueta",
+      "name": "Gracia Çirarrusta Gaztelueta",
+      "givenNames": "Gracia",
+      "surnames": [
+        "Çirarrusta",
+        "Gaztelueta"
+      ]
+    },
+    {
+      "id": "juan-fuldain-amezqueta",
+      "name": "Juan Fuldain-Amezqueta",
+      "givenNames": "Juan",
+      "surnames": [
+        "Fuldain-Amezqueta"
+      ]
+    },
+    {
+      "id": "antonia-egurbide-zigorondo",
+      "name": "Antonia Egurbide Zigorondo",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Egurbide",
+        "Zigorondo"
+      ]
+    },
+    {
+      "id": "juan-cabarte",
+      "name": "Juan Cabarte",
+      "givenNames": "Juan",
+      "surnames": [
+        "Cabarte"
+      ]
+    },
+    {
+      "id": "maria-perez-ybieta-arteaga",
+      "name": "Maria Perez Ybieta-Arteaga",
+      "givenNames": "Maria",
+      "surnames": [
+        "Perez",
+        "Ybieta-Arteaga"
+      ]
+    },
+    {
+      "id": "joan-landaburu-guridi",
+      "name": "Joan Landaburu Guridi",
+      "givenNames": "Joan",
+      "surnames": [
+        "Landaburu",
+        "Guridi"
+      ]
+    },
+    {
+      "id": "anna-guinea",
+      "name": "Anna Guinea",
+      "givenNames": "Anna",
+      "surnames": [
+        "Guinea"
+      ]
     }
   ]
 }

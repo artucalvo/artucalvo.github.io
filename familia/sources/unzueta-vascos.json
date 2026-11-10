@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "batch": "Rama Unzueta de Arrasate y Villardeciervos",
+  "reviewedOn": "2026-11-10",
+  "document": {
+    "filename": "Unzueta vascos.docx",
+    "sha256": "71cd4859cf9ac37ef3a5bd1860352321b400a9265a89d825dc92eda07780a8d3"
+  },
+  "method": "Lectura de los párrafos y la sangría del documento; sus contenidos se tratan como datos de investigación, no como instrucciones. El documento se conserva fuera del repositorio.",
+  "familyInformation": [
+    "Manuel Unzueta es hijo de Cristóbal, nacido en Villardeciervos el 01-06-1746, hijo de Francisco Antonio Unzueta Ormacho e Isabel Romero.",
+    "La familia indica que Pascuala, hermana de Francisco Antonio y tía de Cristóbal, nació el 07-04-1723 y pide conservar el dato en observaciones."
+  ],
+  "documentText": [
+    "Francisco Antonio Unzueta Ormacho. Arrasate. 20/01/1721 -> Villardeciervos (Zamora)",
+    "  Christobal Unzueta Zabarte. Arrasate. 02/02/1688.",
+    "    Joan Bauptista Uncueta Fuldain. Arrasate. 13/04/1646",
+    "      Juan Baptista Unceta Çirarruista. Eibar. 26/06/1623",
+    "        Martin Unceta Aguinaga.",
+    "        Gracia Çirarrusta Gaztelueta",
+    "      Maria Fuldain Egurbide. Arrasate. 08/12/1612",
+    "        Juan Fuldain-Amezqueta",
+    "        Antonia Egurbide Zigorondo",
+    "    Maria Cabarte Landaburu. Arrasate. 02/06/1651",
+    "      Domingo Cabarte Ybieta-Arteaga.",
+    "        Juan Cabarte.",
+    "        Maria Perez Ybieta-Arteaga.",
+    "      Mari Miguel Landaburu Guinea. Arrasate. 20/01/1619",
+    "        Joan Landaburu Guridi",
+    "        Anna Guinea",
+    "  Ysabela Ormacho (Ormaeche, Hormaechea?) Rodríguez.",
+    "https://dokuklik.euskadi.eus/sacramentales/",
+    "https://sites.google.com/site/leinztarra/unzueta"
+  ],
+  "interpretation": [
+    "La sangría presenta a las personas como progenitores de la persona inmediatamente anterior del nivel superior.",
+    "Las fechas aparecen junto al nombre y la localidad, sin indicar expresamente el tipo de evento. Las variantes propuestas del apellido de Ysabela se conservan como duda de lectura.",
+    "La flecha entre Arrasate y Villardeciervos para Francisco Antonio expresa un traslado; no precisa su fecha."
+  ]
+}

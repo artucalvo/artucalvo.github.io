@@ -703,6 +703,22 @@
       "latitude": 42.014581871927426,
       "longitude": -6.378000587211365,
       "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=Valdemerilla%2C%20Valdemerilla%20%28Cernadilla%29"
+    },
+    {
+      "name": "Arrasate",
+      "province": "Gipuzkoa",
+      "municipality": "Arrasate/Mondragón",
+      "latitude": 43.0652967,
+      "longitude": -2.49099614,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/arrasate-mondragon-id20055"
+    },
+    {
+      "name": "Eibar",
+      "province": "Gipuzkoa",
+      "municipality": "Eibar",
+      "latitude": 43.18542077,
+      "longitude": -2.47092183,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/eibar-id20030"
     }
   ]
 }
