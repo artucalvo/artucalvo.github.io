@@ -16,7 +16,8 @@
       ],
       "transcriptionDraft": "En domingo de Junio veinte y quatro del año de ochenta y dos se bautizo ana hija de andres hernandez y de su mujer maria prieta fueron sus padrinos [ilegible] e engracia martin mujer de pablo prieto en cuya fe lo firme. El bachiller martinez",
       "uncertainties": [
-        "No se ve el siglo; el domingo 24 de junio concuerda con el calendario juliano de 1582. La identidad no está documentada por una pareja o descendencia."
+        "No se ve el siglo; el domingo 24 de junio concuerda con el calendario juliano de 1582. La identidad no está documentada por una pareja o descendencia.",
+        "El apellido del primer padrino parece Rubio, sin lectura suficientemente segura; se mantiene el hueco."
       ],
       "status": "provisional; sin enlace al árbol"
     },
@@ -30,9 +31,10 @@
           "height": 2848
         }
       ],
-      "transcriptionDraft": "[ilegible] ultimo de noviembre [ilegible] se bautizo antonio hijo de juan garcia y de catalina mella su mujer fue su padrino francisco garcia [ilegible] en cuya fe lo firme",
+      "transcriptionDraft": "[ilegible] ultimo de noviembre [ilegible] se bautizo antonio hijo de juan garcia y de catalina mella su mujer fue su padrino francisco garcia [ilegible] de este lugar en cuya fe lo firme",
       "uncertainties": [
-        "El año y la lectura de Mella son tenues; no hay candidato acreditado en el árbol."
+        "El año y la lectura de Mella son tenues; no hay candidato acreditado en el árbol.",
+        "La fecha podría ser sábado último de noviembre de un año terminado en 85; 30 de noviembre de 1585 fue sábado, pero el siglo no se fija por esa coincidencia."
       ],
       "status": "provisional; sin enlace al árbol"
     },
@@ -50,7 +52,8 @@
       "uncertainties": [
         "No se ve el siglo ni el apellido de la madre. El lunes 30 de julio concuerda con el calendario juliano de 1582. El nombre por sí solo no acredita que sea el padre de Francisco Calvo García."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "En un asiento independiente de 1610 se aplicaron santos óleos a un Domingo, hijo de Domingo Calvo y María Álvarez; el apellido de la madre en este bautismo no se lee y no se acredita la identidad con ninguna persona del árbol."
     },
     {
       "type": "baptism",
@@ -62,7 +65,7 @@
           "height": 2848
         }
       ],
-      "transcriptionDraft": "A nuebe dias del Mes de Enero de mil y seis cientos y trece años baptice a un niño que se llamo Domingo hijo de Domingo Hernandez y de su mujer Maria de la Calle fueron Padrinos Pedro [ilegible] y Maria Hernandez [ilegible] deste lugar [ilegible]",
+      "transcriptionDraft": "A nuebe dias del Mes de Enero de mil y seis cientos y trece años baptice a un niño que se llamo Domingo hijo de Domingo Hernandez y de su mujer Maria de la Calle fueron Padrinos Pedro [ilegible] y Maria Hernandez Vºs deste lugar [ilegible]",
       "uncertainties": [
         "Posible homónimo del padre de Micaela Hernández Vaquero; no se conoce su filiación ni se identifica su esposa en el asiento."
       ],
@@ -78,11 +81,12 @@
           "height": 2848
         }
       ],
-      "transcriptionDraft": "En 2 de otubre de 1627 baptise a [ilegible] hijo de antonio de [ilegible] y de mª cordero sus padres fue padrino de [ilegible] el Jurado [ilegible]",
+      "transcriptionDraft": "En 2 de otubre de 1627 baptise a domingo hijo de antonio de [ilegible] y de mª cordero sus padres fue padrino [ilegible] el Jurado [ilegible]",
       "uncertainties": [
-        "El nombre del bautizado y el apellido del padre requieren revisión; no se atribuye por el nombre de la imagen."
+        "El apellido del padre parece valled, pero no se lee completo con seguridad; el padrino y la firma requieren revisión. No se atribuye identidad por el nombre de la imagen."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "María Cordero figura en el árbol como madre de Martín García Cordero, nacido en 1657, con Alonso García. No se ha acreditado que sea la madre de este Domingo."
     },
     {
       "type": "baptism",
@@ -94,9 +98,9 @@
           "height": 2848
         }
       ],
-      "transcriptionDraft": "postrero dia de julio del año de mill e quinientos e ochenta baptize a ines hija de pedro Rodriguez y de isabel garcia su muger fue padrino antº [ilegible] y madrina ynes garcia muger de [ilegible] en fe lo firme de mi nombre",
+      "transcriptionDraft": "postrero dia de julio del año de mill e quinientos e ochenta baptize a ines hija de pedro Rodriguez y de isabel garcia su muger fue padrino antº Roman y madrina ynes garcia muger de [ilegible] en fe lo firme de mi nombre",
       "uncertainties": [
-        "Los apellidos del padrino y del marido de la madrina no se leen con seguridad; no hay candidato acreditado."
+        "El nombre del marido de la madrina no se lee con seguridad; no hay candidato acreditado con ambos padres en el árbol."
       ],
       "status": "provisional; sin enlace al árbol"
     },
@@ -114,7 +118,8 @@
       "uncertainties": [
         "No se ve el año; la lectura del nombre abreviado y la parroquia del padrino requiere revisión. No se acredita la identidad de la madre de Miguel Delgado."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "Un asiento independiente nombra como padres de Miguel Delgado a Pedro Delgado y Marcela Rodríguez; no aporta la filiación de Marcela, por lo que no prueba que sea la bautizada de este asiento."
     },
     {
       "type": "death",
@@ -128,7 +133,8 @@
       ],
       "transcriptionDraft": "En once del dicho mes y año de 1660 murio Maria albarez vezina deste lugar de Arcenillas confesose y reçivio los Sacramentos enterrose en la capilla mayor de la yglesia hizo testamento dejo por su alma veinte ducados fueron sus testamentarios Miguel maderal y Maria garcia hizose su entierro honrras y cabo de año y lo firme ut supra.",
       "uncertainties": [
-        "El mes referido no se lee con seguridad; no se acredita identidad con la madre de Domingo Calvo."
+        "El mes referido no se lee con seguridad; no se acredita identidad con la madre de Domingo Calvo.",
+        "El asiento de 1610 de Domingo, hijo de Domingo Calvo y María Álvarez, no identifica a esta difunta. El mes de la partida anterior parece junio pero está recortado."
       ],
       "status": "provisional; sin enlace al árbol"
     },
@@ -146,7 +152,8 @@
       "uncertainties": [
         "El siglo, el verbo y el apellido de la madrina no se leen con seguridad; sin correspondencia demostrada."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "Juan Cabrero de la Calle es hijo de Francisco Cabrero y Catalina de la Calle; la madre de la bautizada de este asiento se lee Catalina de Urueña, sin filiación común acreditada."
     },
     {
       "type": "death",
@@ -160,7 +167,7 @@
       ],
       "transcriptionDraft": "En diez y nuebe de septiembre de 1648 años murio maria cabrera vª deste lugar confesose y reçivio todos los sacramentos como fiel christiana enterrose en la capilla mayor desta yglesia dejo por su alma veynte y quatro ducados hizose su entierro y honrras y en fe dello lo firme ut supra.",
       "uncertainties": [
-        "El asiento no nombra familiares ni lugar; no prueba la identidad de la madre de Antonia Pérez Cabrero."
+        "El asiento no nombra familiares ni lugar. La María Cabrero ya existente es madre de Antonia Pérez Cabrero, casada en 1731; una fallecida en 1648 no es una identificación cronológicamente plausible."
       ],
       "status": "provisional; sin enlace al árbol"
     },
@@ -178,7 +185,8 @@
       "uncertainties": [
         "El año, el lugar y el nombre de la bautizada requieren revisión; sin correspondencia demostrada."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "El árbol incluye a una María Rodríguez, madre de Ana María Salvador, casada en 1655 con Pedro Salvador; no se han documentado sus padres. Otra María Rodríguez nació en 1680 en Pereruela y era hija de José Rodríguez y Ana Hernández."
     },
     {
       "type": "baptism",
@@ -194,7 +202,11 @@
       "uncertainties": [
         "El margen parece decir María; el año y el apellido de la madre no son seguros. No están documentados los padres de la María Simón que es madre de Josefa Esteban Simón."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "familyDecision": {
+        "date": "2026-11-10",
+        "decision": "La familia indicó: «Leave as unresolved for now. We will reconciliate these later.» No se vincula ni se cambia la ficha existente."
+      }
     },
     {
       "type": "baptism",
@@ -206,11 +218,12 @@
           "height": 2848
         }
       ],
-      "transcriptionDraft": "En diez dias del Mes de Agosto de Mill y seis y veynte y ocho años Yo Melchior [ilegible] Cura del lugar del Perdigon Baptice a Miguel Hijo de Miguel Ufano y de Cathalina de las mulas su muger [ilegible] de el dicho lugar fue su Padrino Juan de las Mulas y testigos [ilegible]",
+      "transcriptionDraft": "En diez dias del Mes de Agosto de Mill y seis y veynte y ocho años Yo Melchior [ilegible] Cura del lugar del Perdigon Baptice a Miguel Hijo de Miguel Ufano y de Cathalina de las mulas su muger vs. de el dicho lugar fue su Padrino Juan de las Mulas y testigos [ilegible]",
       "uncertainties": [
         "El asiento identifica padre y madre pero no aporta vínculo acreditado al Bartolomé Ufano existente."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "comparison": "El árbol incluye a Bartolomé Ufano, padre de Antonio Ufano de Almancaya nacido en El Perdigón en 1649. No consta una relación de parentesco o padres compartidos con Miguel."
     },
     {
       "type": "death",
@@ -226,7 +239,11 @@
       "uncertainties": [
         "El asiento no identifica familiares. Domingo Ortiz es padre de Inés Ortijo, nacida en Abelón en 1657; no se sabe si se trata de la misma persona. La fecha de entierro no es expresa."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "familyDecision": {
+        "date": "2026-11-10",
+        "decision": "La familia indicó: «Leave as unresolved for now. We will reconciliate these later.» No se vincula ni se cambia la ficha existente."
+      }
     },
     {
       "type": "death",
@@ -242,7 +259,11 @@
       "uncertainties": [
         "El asiento no identifica familiares. Pascual Martín es padre de Ana Mª Martín Jambrina, nacida en Arcenillas en 1640; no se sabe si es el mismo. La fecha de entierro no es expresa."
       ],
-      "status": "provisional; sin enlace al árbol"
+      "status": "provisional; sin enlace al árbol",
+      "familyDecision": {
+        "date": "2026-11-10",
+        "decision": "La familia indicó: «Leave as unresolved for now. We will reconciliate these later.» No se vincula ni se cambia la ficha existente."
+      }
     },
     {
       "type": "marriage",
@@ -300,5 +321,6 @@
         "El mes parece Otubre, pero no se fija sin lectura segura. El año se lee seis cientos y vte y ocho; no se atribuye lugar por la imagen."
       ]
     }
-  ]
+  ],
+  "originalsDirectory": "familia/Register Data/Tatarabuelos octavos (copias locales; excluidas del repositorio)"
 }
