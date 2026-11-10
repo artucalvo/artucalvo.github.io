@@ -3000,11 +3000,17 @@
       ],
       "death": {
         "date": "1835-04-23",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y quatro de Abril de mil ochocientos treinta y cinco se enterró en el cementerio de este lugar de Morales el cadáver de Luisa Alonso que murió el día anterior sin sacramentos por no haber avisado, de edad de treinta y cinco años, mujer de Baltasar Brioso, dejó ocho hijos, [ilegible] se le hizo entierro con misa y oficio y en fe de ello lo firmo ut supra. Agustín de la Calle."
       },
       "observations": [
         "No es la misma persona que Luisa Alonso Alonso, también de Moraleja del Vino."
-      ]
+      ],
+      "burial": {
+        "date": "1835-04-24",
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y quatro de Abril de mil ochocientos treinta y cinco se enterró en el cementerio de este lugar de Morales el cadáver de Luisa Alonso que murió el día anterior sin sacramentos por no haber avisado, de edad de treinta y cinco años, mujer de Baltasar Brioso, dejó ocho hijos, [ilegible] se le hizo entierro con misa y oficio y en fe de ello lo firmo ut supra. Agustín de la Calle."
+      }
     },
     {
       "id": "tomas-de-mena-martin",
@@ -3485,10 +3491,16 @@
       },
       "death": {
         "date": "1789-11-04",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En cinco de Noviembre del año del Señor de mil setecientos y ochenta y nueve Yo el infrascripto Teniente Economo de la Yglesia Parroquial de Morales de Zamora di sepultura eclesiástica en medio de la Yglesia al cuerpo de Miguel Martín vecino de este pueblo y natural del lugar de Moraleja, murió el día quatro de dho mes a las tres y media de la tarde. Fue socorrido con los santos sacramentos de penitencia, eucharistía y la extrema unción, hizo testamento ante Alonso de Luelmo escribano de este pueblo dejando a la disposición de su muger Felipa de Prada, que haga por su Alma lo que fuere de su agrado, la que mandó se le enterrase con hábito de S.n Francisco, y se le hiciese novenario cantado y oficios acostumbrados, y para que conste lo firmé. D.n Josef Barba."
       },
       "father": "diego-martin",
-      "mother": "maria-avedillo"
+      "mother": "maria-avedillo",
+      "burial": {
+        "date": "1789-11-05",
+        "place": "Morales del Vino",
+        "transcription": "En cinco de Noviembre del año del Señor de mil setecientos y ochenta y nueve Yo el infrascripto Teniente Economo de la Yglesia Parroquial de Morales de Zamora di sepultura eclesiástica en medio de la Yglesia al cuerpo de Miguel Martín vecino de este pueblo y natural del lugar de Moraleja, murió el día quatro de dho mes a las tres y media de la tarde. Fue socorrido con los santos sacramentos de penitencia, eucharistía y la extrema unción, hizo testamento ante Alonso de Luelmo escribano de este pueblo dejando a la disposición de su muger Felipa de Prada, que haga por su Alma lo que fuere de su agrado, la que mandó se le enterrase con hábito de S.n Francisco, y se le hiciese novenario cantado y oficios acostumbrados, y para que conste lo firmé. D.n Josef Barba."
+      }
     },
     {
       "id": "felipa-de-prada-martin",
@@ -4273,7 +4285,8 @@
       },
       "death": {
         "date": "1831-03-28",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y nueve de Marzo del año de mil ochocientos treinta y uno se enterró en la Parroquial de este lugar de Morales el cadáver de Fran.co Mena que murió el día anterior habiendo recibido los sacramentos de penitencia, viático y extremaunción, de edad de sesenta y ocho años poco más o menos, marido de Fran.ca Martín, se le aplicaron las indulgencias pro articulo mortis, testó, dejó los hijos siguientes Vicente, Andrés, María, José, Tomás y Alonso, se le hizo entierro con misa y oficio, y en fe de ello lo firmo ut supra. Agustín de la Calle Marqués."
       },
       "father": "francisco-de-mena",
       "mother": "ines-roman",
@@ -4283,7 +4296,12 @@
           "date": "1787-12-01",
           "place": "Morales del Vino"
         }
-      ]
+      ],
+      "burial": {
+        "date": "1831-03-29",
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y nueve de Marzo del año de mil ochocientos treinta y uno se enterró en la Parroquial de este lugar de Morales el cadáver de Fran.co Mena que murió el día anterior habiendo recibido los sacramentos de penitencia, viático y extremaunción, de edad de sesenta y ocho años poco más o menos, marido de Fran.ca Martín, se le aplicaron las indulgencias pro articulo mortis, testó, dejó los hijos siguientes Vicente, Andrés, María, José, Tomás y Alonso, se le hizo entierro con misa y oficio, y en fe de ello lo firmo ut supra. Agustín de la Calle Marqués."
+      }
     },
     {
       "id": "francisca-martin-perez",
@@ -4719,10 +4737,17 @@
       "death": {
         "date": "1806-12-27",
         "place": "Zamora",
-        "note": "Iglesia de S. Esteban."
+        "note": "Iglesia de S. Esteban.",
+        "transcription": "En la ciudad de Zamora día veinte y siete de Diciembre año de mill ochocientos y seis murió de accidente repentino, y socorrido con el Santo sacramento de Extrema-Unción, Bernardo Rabanal de edad quarenta y ocho poco más o menos, esto es años, natural de Villalpando, y conjunta persona que fue de Vicenta Martínez natural del Arrabal de Sn Lázaro desta misma ciudad, y en el día veinte y ocho de dho mes y año fue sepultado su cadáver en esta Yglesia de Sn Esteban [ilegible], de la que era feligrés; no hizo testamento; certifico, y lo firmé en este día. Lázaro Hospedal."
       },
       "father": "matias-diez-rabanal",
-      "mother": "manuela-fernandez"
+      "mother": "manuela-fernandez",
+      "burial": {
+        "date": "1806-12-28",
+        "place": "Zamora",
+        "note": "Iglesia de San Esteban.",
+        "transcription": "En la ciudad de Zamora día veinte y siete de Diciembre año de mill ochocientos y seis murió de accidente repentino, y socorrido con el Santo sacramento de Extrema-Unción, Bernardo Rabanal de edad quarenta y ocho poco más o menos, esto es años, natural de Villalpando, y conjunta persona que fue de Vicenta Martínez natural del Arrabal de Sn Lázaro desta misma ciudad, y en el día veinte y ocho de dho mes y año fue sepultado su cadáver en esta Yglesia de Sn Esteban [ilegible], de la que era feligrés; no hizo testamento; certifico, y lo firmé en este día. Lázaro Hospedal."
+      }
     },
     {
       "id": "vicenta-martinez-juarez",
@@ -4920,7 +4945,17 @@
           "note": "Con dispensa de cuarto grado de consanguinidad. Velados el mismo día.",
           "transcription": "Franco Carretero con María Pérez.\n\nEn el día diez y ocho de Julio del año de mil setecientos ochenta y uno, yo el infrascripto Cura Theniente de este lugar de Peleas de Arriva, solennicé asistiendo al Matrimonio que in facie Ecclesiæ contragerón Francisco Carretero mozo soltero, e hijo legítimo de Atilano Carretero, y de Engracia Galán vecinos de este dho lugar de Peleas, con María Pérez del mismo estado hija lexítima de Juan Pérez, y de Cathalina de Mathos, también vezinos de este dho lugar, precediendo a todo el haver echado dispensa (por hallarse parientes en quarto grado de consanguinidad) con los despachos, y licencias requisitas, ni haver resultado impedimento alguno en las moniciones, que previene el Sto Concilio de Trento, ni en el examen de Doctrina Christiana que también precedieron. Se velaron en el mismo día, comulgando a la misa, de que fueron testigos Gregorio Baylón, y Dionisio Fernández vecinos deste referido lugar. Y para que conste lo firmo. Tirso Frayle."
         }
-      ]
+      ],
+      "death": {
+        "date": "1836-05-18",
+        "place": "Peleas de Arriba",
+        "transcription": "En diez y nueve de Mayo de mil ochocientos treinta y seis yo el infrascrito cura Párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Fran.co Carretero, marido que era de María Pérez, naturales y vecinos de este lugar, el que murió en el día anterior de edad de setenta y siete años de un síncope que le privó de sus sentidos, por cuyo motivo no recibió más sacramentos que el de la Extrema-Unción, habiéndosele aplicado antes la absolución bajo de condición; dejó hecho testamento habiendo dispuesto que se celebrasen tres misas votivas, una a nuestra S.ra del Consuelo, otra a nuestra S.ra de la Cuesta, otra al S.to Ángel de la Guarda, y además que se dijesen otras diez por bien de su alma; dejó cuatro hijos que son Andrés, Atilano, Pascual y Beatriz Carretero, y para que conste lo firmo en dho lugar dho día, mes y año. [ilegible]."
+      },
+      "burial": {
+        "date": "1836-05-19",
+        "place": "Peleas de Arriba",
+        "transcription": "En diez y nueve de Mayo de mil ochocientos treinta y seis yo el infrascrito cura Párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Fran.co Carretero, marido que era de María Pérez, naturales y vecinos de este lugar, el que murió en el día anterior de edad de setenta y siete años de un síncope que le privó de sus sentidos, por cuyo motivo no recibió más sacramentos que el de la Extrema-Unción, habiéndosele aplicado antes la absolución bajo de condición; dejó hecho testamento habiendo dispuesto que se celebrasen tres misas votivas, una a nuestra S.ra del Consuelo, otra a nuestra S.ra de la Cuesta, otra al S.to Ángel de la Guarda, y además que se dijesen otras diez por bien de su alma; dejó cuatro hijos que son Andrés, Atilano, Pascual y Beatriz Carretero, y para que conste lo firmo en dho lugar dho día, mes y año. [ilegible]."
+      }
     },
     {
       "id": "maria-perez-matos",
@@ -5306,7 +5341,12 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "manuel-hernandez-crespo",
-      "mother": "catalina-nieto"
+      "mother": "catalina-nieto",
+      "burial": {
+        "date": "1747-04-05",
+        "place": "Casaseca de las Chanas",
+        "transcription": "En cinco de abril de mil setecientos quarenta y siete años fue sepultado con el hábito de n.P.S. Fran.co en la Yglesia parroquial deste lugar de Casaseca de las Chanas Fran.co Hernandez Vº que fue de él y viudo de Theresa Gaytán. Recibió los S.tos Sacram.tos, otorgó su testamento ante Fran.co Esteban de la misma vecindad y en él dispuso se le dijesen las tres misas de indulgencia, otra a S.n Antonio de Padua y otra a Ntra S.ra del Viso, mandó se le ofrendase un año según costumbre, se le hicieron los tres oficios de entierro y honrras [ilegible] con las dos achas que mandó; nombró por su albacea a Fran.co Alonso Esteban y [ilegible] y para que conste lo firmo yo el infrascripto cura propio deste lugar de las Chanas, dho día mes y año. D.n Thomas [ilegible]."
+      }
     },
     {
       "id": "teresa-gaitan",
@@ -6673,10 +6713,16 @@
       ],
       "death": {
         "date": "1802-04-25",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y seis de Abril del año de mil ochocientos y dos se enterró en la Parroquial de este lugar de Morales el cadáver de Baltasar Brioso que murió el día antecedente: natural y vecino de este mismo lugar y viudo de Catalina Cabrero: hizo testamento: recibió los Sacramentos de Penitencia, viático, y Unción, y se le hizo entierro, oficios, y Novenario: y en fe de ello como Párrocho que soy lo certifico y firmo ut supra. Jose Mariano Barba."
       },
       "father": "juan-brioso",
-      "mother": "maria-marques-madre-de-baltasar-brioso"
+      "mother": "maria-marques-madre-de-baltasar-brioso",
+      "burial": {
+        "date": "1802-04-26",
+        "place": "Morales del Vino",
+        "transcription": "En el día veinte y seis de Abril del año de mil ochocientos y dos se enterró en la Parroquial de este lugar de Morales el cadáver de Baltasar Brioso que murió el día antecedente: natural y vecino de este mismo lugar y viudo de Catalina Cabrero: hizo testamento: recibió los Sacramentos de Penitencia, viático, y Unción, y se le hizo entierro, oficios, y Novenario: y en fe de ello como Párrocho que soy lo certifico y firmo ut supra. Jose Mariano Barba."
+      }
     },
     {
       "id": "esteban-martin",
@@ -6698,10 +6744,16 @@
       ],
       "death": {
         "date": "1803-05-05",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En el día seis del mes de Mayo del año de mil ochocientos y tres se enterró en la Parrochial de este lugar de Morales el cadáver de Esteban Martín que murió en el día antecedente marido de María Marqués naturales y vecinos de este mismo lugar: hizo ante testimonio digo testamento: recibió los sacramentos de la Penitencia, viático y unción: se le hizo entierro, oficios y novenario y en fe de ello como Parrocho lo certifico y firmo ut supra. Jose Maria Barba."
       },
       "mother": "isabel-marques",
-      "father": "alonso-martin-brioso"
+      "father": "alonso-martin-brioso",
+      "burial": {
+        "date": "1803-05-06",
+        "place": "Morales del Vino",
+        "transcription": "En el día seis del mes de Mayo del año de mil ochocientos y tres se enterró en la Parrochial de este lugar de Morales el cadáver de Esteban Martín que murió en el día antecedente marido de María Marqués naturales y vecinos de este mismo lugar: hizo ante testimonio digo testamento: recibió los sacramentos de la Penitencia, viático y unción: se le hizo entierro, oficios y novenario y en fe de ello como Parrocho lo certifico y firmo ut supra. Jose Maria Barba."
+      }
     },
     {
       "id": "maria-marques",
@@ -7839,7 +7891,16 @@
         }
       ],
       "father": "esteban-carretero",
-      "mother": "teresa-ramirez"
+      "mother": "teresa-ramirez",
+      "burial": {
+        "note": "Entierro el 14 de septiembre, año sin precisar.",
+        "place": "Peleas de Arriba",
+        "transcription": "En la Yglesia Parroquial de Nuestra S.ra de la Asumpción, única de este lugar de Peleas de Arriba en catorce de setiembre del año de mil [ilegible]cientos y uno, fue sepultado el cadáver de Atilano Carretero marido de Engracia Galán el que falleció el día próximo anterior, y otorgó testamento por el que mandaba se le hiciesen por su Alma los oficios acostumbrados y que asistiesen a su entierro dos Religiosos, cura y sacristán y dejaba para su alma treinta misas y quatro a varios santuarios, y por herederos de sus bienes a sus hijos Theresa Carretero, Matheo Carretero y Fran.co Carretero, y para que se cumpliesen las mandas dichas dejó por albacea a su hijo Matheo Carretero; y para que conste lo firmo yo el cura Ecónomo de esta Parroquial. Fr. Anselmo Díaz."
+      },
+      "death": {
+        "note": "Falleció el 13 de septiembre, año sin precisar.",
+        "transcription": "En la Yglesia Parroquial de Nuestra S.ra de la Asumpción, única de este lugar de Peleas de Arriba en catorce de setiembre del año de mil [ilegible]cientos y uno, fue sepultado el cadáver de Atilano Carretero marido de Engracia Galán el que falleció el día próximo anterior, y otorgó testamento por el que mandaba se le hiciesen por su Alma los oficios acostumbrados y que asistiesen a su entierro dos Religiosos, cura y sacristán y dejaba para su alma treinta misas y quatro a varios santuarios, y por herederos de sus bienes a sus hijos Theresa Carretero, Matheo Carretero y Fran.co Carretero, y para que se cumpliesen las mandas dichas dejó por albacea a su hijo Matheo Carretero; y para que conste lo firmo yo el cura Ecónomo de esta Parroquial. Fr. Anselmo Díaz."
+      }
     },
     {
       "id": "engracia-galan",
@@ -7868,7 +7929,17 @@
         }
       ],
       "father": "fernando-galan",
-      "mother": "francisca-perez"
+      "mother": "francisca-perez",
+      "death": {
+        "date": "1802-01-31",
+        "place": "Peleas de Arriba",
+        "transcription": "En la Yglesia Parroquial de ntra. Señora de la Asunción, única del lugar de Peleas de arriba, en treinta y uno de enero de mil ochocientos y dos fue sepultado el cadáver de Engracia Galán, mujer de Atilano Carretero, vecinos de este pueblo, digo falleció en dicho día y fue sepultado en el siguiente primero de febrero, después de recibidos los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción, y otorgado testamento por el qual dexó mandado se le hiciese entierro con dos asistentes y los oficios de costumbre, y que se celebrasen por su alma y las de sus obligaciones diez y nueve misas [ilegible] y que se pusiesen luces y ofrendas sobre su sepultura por el tiempo de dos años. Instituyó por sus herederos a sus tres hijos Matheo Carretero, Fran.co Carretero y Theresa Carretero, y después de varias mandas a algunos de estos y nietos, nombró por su albacea y testamentario a su hijo Matheo Carretero y para que conste lo firmo yo el párroco de esta Yglesia. Liz.do D.n Fran.co Gonzalez Ramos."
+      },
+      "burial": {
+        "date": "1802-02-01",
+        "place": "Peleas de Arriba",
+        "transcription": "En la Yglesia Parroquial de ntra. Señora de la Asunción, única del lugar de Peleas de arriba, en treinta y uno de enero de mil ochocientos y dos fue sepultado el cadáver de Engracia Galán, mujer de Atilano Carretero, vecinos de este pueblo, digo falleció en dicho día y fue sepultado en el siguiente primero de febrero, después de recibidos los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción, y otorgado testamento por el qual dexó mandado se le hiciese entierro con dos asistentes y los oficios de costumbre, y que se celebrasen por su alma y las de sus obligaciones diez y nueve misas [ilegible] y que se pusiesen luces y ofrendas sobre su sepultura por el tiempo de dos años. Instituyó por sus herederos a sus tres hijos Matheo Carretero, Fran.co Carretero y Theresa Carretero, y después de varias mandas a algunos de estos y nietos, nombró por su albacea y testamentario a su hijo Matheo Carretero y para que conste lo firmo yo el párroco de esta Yglesia. Liz.do D.n Fran.co Gonzalez Ramos."
+      }
     },
     {
       "id": "juan-perez",
@@ -7904,7 +7975,17 @@
         "date": "1741-12-15"
       },
       "father": "juan-matos",
-      "mother": "isabel-ruiz"
+      "mother": "isabel-ruiz",
+      "death": {
+        "date": "1832-02-17",
+        "place": "Peleas de Arriba",
+        "transcription": "En diez y nueve de febrero de mil ochocientos treinta y dos yo el infrascrito párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Catalina Matos, viuda de Juan Pérez, natural de Villanueva de Campeán y vecina de este de Peleas, la que murió en el día diez y siete de dho mes de edad de noventa años poco más o menos. [ilegible] no recibió el Viático por no poder y sí el sacramento de la Extrema Unción [ilegible]. Hizo testamento con anticipación en el que dispuso se dijesen [ilegible] dejó cinco hijos que son María, Teresa, Manuel, Isidro y Andrés Pérez y para que conste firmo en dho lugar dho día, mes y año. [ilegible]."
+      },
+      "burial": {
+        "date": "1832-02-19",
+        "place": "Peleas de Arriba",
+        "transcription": "En diez y nueve de febrero de mil ochocientos treinta y dos yo el infrascrito párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Catalina Matos, viuda de Juan Pérez, natural de Villanueva de Campeán y vecina de este de Peleas, la que murió en el día diez y siete de dho mes de edad de noventa años poco más o menos. [ilegible] no recibió el Viático por no poder y sí el sacramento de la Extrema Unción [ilegible]. Hizo testamento con anticipación en el que dispuso se dijesen [ilegible] dejó cinco hijos que son María, Teresa, Manuel, Isidro y Andrés Pérez y para que conste firmo en dho lugar dho día, mes y año. [ilegible]."
+      }
     },
     {
       "id": "francisco-bragado",
@@ -7922,7 +8003,18 @@
         "date": "1720-10-06"
       },
       "father": "pedro-bragado",
-      "mother": "josefa-rivera"
+      "mother": "josefa-rivera",
+      "death": {
+        "date": "1800",
+        "place": "Peleas de Arriba",
+        "note": "Falleció el día anterior a su entierro en septiembre.",
+        "transcription": "En la Yglesia Parroquial del lugar de Peleas de Arriba en [ilegible] de setiembre de mil y ochocientos fue sepultado el cadáver de Fran.co Bragado viudo de Ángela Macías y vecino del dicho lugar en donde falleció en el día próximo antecedente habiendo recibido los santos sacramentos de Penitencia y Eucharistía [ilegible]. Otorgó testamento por el que ordenaba se enterrase su cadáver en esta dicha parroquial [ilegible]; dejó por sus herederos a sus hijos Pedro, Josefa, Manuel, Rosa, Balthasar, Ysabel y Ángela [ilegible] y para que conste firmé yo el infrascrito Teniente cura de la referida parroquial. Fr. Anselmo Díaz."
+      },
+      "burial": {
+        "date": "1800-09",
+        "place": "Peleas de Arriba",
+        "transcription": "En la Yglesia Parroquial del lugar de Peleas de Arriba en [ilegible] de setiembre de mil y ochocientos fue sepultado el cadáver de Fran.co Bragado viudo de Ángela Macías y vecino del dicho lugar en donde falleció en el día próximo antecedente habiendo recibido los santos sacramentos de Penitencia y Eucharistía [ilegible]. Otorgó testamento por el que ordenaba se enterrase su cadáver en esta dicha parroquial [ilegible]; dejó por sus herederos a sus hijos Pedro, Josefa, Manuel, Rosa, Balthasar, Ysabel y Ángela [ilegible] y para que conste firmé yo el infrascrito Teniente cura de la referida parroquial. Fr. Anselmo Díaz."
+      }
     },
     {
       "id": "angela-macias",
@@ -7993,7 +8085,17 @@
           "note": "Con dispensa de segundo con tercer grado de consanguinidad. Velados el mismo día.",
           "transcription": "Gerónimo Calabaza viudo con Balthasara Pérez soltera. En los dos de Dizre se velaron.\n\nEn dos de Diziembre de mill setecientos y cinquenta y dos años yo el infra escrito Cura proprio de esta parrochial del lugar de Peleas de Arriba anejo de la de Fuente el Carnero asistí al matrimonio, que in facie Ecclesiæ hicieron verdadero por palabras de presente Gerónimo Calabaza viudo de Josepha Gutiérrez, y Balthasara Pérez soltera, los quales por el parentesco de segundo con tercero grado de consanguinidad y del pecado o pecados de incesto obtubieron bulla de su Santidad, siendo Juez el Doctor Tejada y notario Dn Phelipe Allende, y en vista de la licencia a mí dada el día diez y seis de Nobre asistí a dho matrimonio aviendo precedido las tres canónicas moniciones que dispone el Sto Concilio, y no resultó algún impedimento impediente ni dirimente que prohibiese dho matrimonio, siendo testigos Franco Bailón, Manuel Pérez, Alexandro Ribera y otros vezinos, y por ser verdad y para que conste lo firmo en dho día mes y año. Mattheo Cavero."
         }
-      ]
+      ],
+      "death": {
+        "date": "1792-10-16",
+        "place": "Peleas de Arriba",
+        "transcription": "En el lugar de Peleas de arriba en diez y seis de Octubre de mil setecientos noventa y dos falleció Baltasara Pérez, muger de Gerónimo Calabaza, vecinos de este lugar: recibió los Santos Sacramentos de Penitencia, Eucharistía, y Extremaunción: Otorgó testamento con los requisitos necesarios, por el que ordenó se le haga entierro con asistencia de tres sacerdotes y su Cura párroco, y honras, y cabo de año, tres días de oficio con las ofrendas, y cera de costumbre; y que se ofrende su sepultura diariamente por un año entero, que se digan seis misas por las ánimas, una [ilegible] del tránsito, y otra al Christo del amparo. Quedaron por sus herederos sus quatro hijos, y de dho su marido Pascual, [ilegible], Manuela, y Bernardo, y nombró por su testamentario al referido su marido. En el siguiente día inmediato se dio sepultura a su cadaver en esta parroquial de dicho pueblo, y para que así todo conste lo firmé. Dn Mathías Prieto y Cozará."
+      },
+      "burial": {
+        "date": "1792-10-17",
+        "place": "Peleas de Arriba",
+        "transcription": "En el lugar de Peleas de arriba en diez y seis de Octubre de mil setecientos noventa y dos falleció Baltasara Pérez, muger de Gerónimo Calabaza, vecinos de este lugar: recibió los Santos Sacramentos de Penitencia, Eucharistía, y Extremaunción: Otorgó testamento con los requisitos necesarios, por el que ordenó se le haga entierro con asistencia de tres sacerdotes y su Cura párroco, y honras, y cabo de año, tres días de oficio con las ofrendas, y cera de costumbre; y que se ofrende su sepultura diariamente por un año entero, que se digan seis misas por las ánimas, una [ilegible] del tránsito, y otra al Christo del amparo. Quedaron por sus herederos sus quatro hijos, y de dho su marido Pascual, [ilegible], Manuela, y Bernardo, y nombró por su testamentario al referido su marido. En el siguiente día inmediato se dio sepultura a su cadaver en esta parroquial de dicho pueblo, y para que así todo conste lo firmé. Dn Mathías Prieto y Cozará."
+      }
     },
     {
       "id": "pedro-de-prada-martin",
@@ -8046,7 +8148,11 @@
         "place": "Morales del Vino"
       },
       "father": "francisco-cabrero",
-      "mother": "ines-marques"
+      "mother": "ines-marques",
+      "burial": {
+        "date": "1789-01-06",
+        "transcription": "En seis de henero del año del S.or de mil setecientos ochenta y nueve, se dio sepultura en esta Yglesia de grada abajo al cuerpo de Cathalina Cabrero muger de Balthasar Brioso. Murió de dolor de costado a los sesenta y ocho años de su edad habiendo recibido los S.tos Sacram.tos de confesión, comunión y extrema unción; [ilegible] testamento ante Alonso de Luelmo fiel de fechos y escribano de millones de este Pueblo dexando el cargo del funeral a su marido que cumplió exactam.te de que certifico y firmo. D.n Manuel de Luelmo."
+      }
     },
     {
       "id": "catalina-cabrero-marques-alonso",
@@ -8444,7 +8550,8 @@
       },
       "death": {
         "date": "1723-12-02",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "transcription": "En tres días del Mes de Diz.re de Mill Setec.s y veinte y tres D.n Fran.co de Zamora, Marido de D.ª Margarita de Luelmo, Vecino deste Lugar, y Parrochiano desta Yglesia; haviendo Confesado y Recivido el S.mo Sacram.to de la Eucharistía por mí el infra escripto Cura, y el de la S.da Extremaunción por mi Then.te, falleció. Hizo Testam.to ante Gerónimo de Torres Es.no de Zamora en tres de Ag.to de Mill Setec.s y diez y siete, en el qual dispone se entierre en la sepultura que tiene en esta Parrochial en la Capilla Mayor; lo que executé en quatro de dho mes. [ilegible] Dejó por testamentarios a [ilegible] D.ª Margarita de Luelmo su muger y a D.n Luis de Mançana [ilegible], su entenado; y por herederos a D.ª Luisa y D.ª Isabel de Zamora sus hijas y lo firmé. D.n Diego de la Calle.\n\nCláusula de su testamento. Que sea sepultado con ataúd y hábito [ilegible]; que se le hagan los tres oficios mayores por su alma con asistencia de doce sacerdotes. Ardan en ellos doce hachas. Novenario de misas cantado, diez y ocho misas [ilegible], dos misas en el altar de N.ª S.ª del Viso [ilegible]. Ofrenda a los tres oficios media carga de trigo. [ilegible] Tres cargas de trigo a los pobres de este lug.r. [ilegible]."
       },
       "marriages": [
         {
@@ -8454,7 +8561,14 @@
         }
       ],
       "father": "francisco-zamora-padre-de-francisco-zamora",
-      "mother": "ines-garcia"
+      "mother": "ines-garcia",
+      "burial": {
+        "date": "1723-12-04",
+        "transcription": "En tres días del Mes de Diz.re de Mill Setec.s y veinte y tres D.n Fran.co de Zamora, Marido de D.ª Margarita de Luelmo, Vecino deste Lugar, y Parrochiano desta Yglesia; haviendo Confesado y Recivido el S.mo Sacram.to de la Eucharistía por mí el infra escripto Cura, y el de la S.da Extremaunción por mi Then.te, falleció. Hizo Testam.to ante Gerónimo de Torres Es.no de Zamora en tres de Ag.to de Mill Setec.s y diez y siete, en el qual dispone se entierre en la sepultura que tiene en esta Parrochial en la Capilla Mayor; lo que executé en quatro de dho mes. [ilegible] Dejó por testamentarios a [ilegible] D.ª Margarita de Luelmo su muger y a D.n Luis de Mançana [ilegible], su entenado; y por herederos a D.ª Luisa y D.ª Isabel de Zamora sus hijas y lo firmé. D.n Diego de la Calle.\n\nCláusula de su testamento. Que sea sepultado con ataúd y hábito [ilegible]; que se le hagan los tres oficios mayores por su alma con asistencia de doce sacerdotes. Ardan en ellos doce hachas. Novenario de misas cantado, diez y ocho misas [ilegible], dos misas en el altar de N.ª S.ª del Viso [ilegible]. Ofrenda a los tres oficios media carga de trigo. [ilegible] Tres cargas de trigo a los pobres de este lug.r. [ilegible]."
+      },
+      "observations": [
+        "El fallecimiento figura el 2 o el 3 de diciembre de 1723 en los datos conservados."
+      ]
     },
     {
       "id": "margarita-de-luelmo",
@@ -8625,7 +8739,11 @@
       },
       "observations": [
         "La partida de matrimonio la firma su hermano Antonio Hernández Crespo, cura de Pontejos, que ofició la boda."
-      ]
+      ],
+      "burial": {
+        "date": "1713-09-06",
+        "transcription": "El día seis de Septiembre deste presente año de mil setecientos y trece se enterró en esta Yglesia Manuel Hernandez Crespo, marido que fue de Cathalina Nieto, Vº que fueron deste lugar, y en la sepultura [ilegible] fue sepultado [ilegible] a la columna de la puerta del sol por la parte de adentro. Recibió los santos Sacramentos. Hizo testamento ante Ignacio Ponce Vº deste lugar y en él mandó que se le hiciesen los tres oficios de entierro honras y cabo de año [ilegible]. Item mandó decir siete misas rezadas [ilegible] y por su heredero a sus quatro hijos [ilegible] y para que conste lo firmé. Manuel Basilio Barba Santos."
+      }
     },
     {
       "id": "lucas-hernandez",
@@ -8725,10 +8843,21 @@
           "place": "Casaseca de las Chanas",
           "note": "Con dispensa de tercer grado de consanguinidad.",
           "transcription": "Luis Gaytán y Ysabel Rodríguez.\n\nEn seis de nobiembre de dicho año yo Dn Joseph de Miranda cura propio deste dicho lugar, después de aber precedido las tres admonestaciones que manda el Santo Concilio de Tridento y nuestra Santa Madre Yglesia tiene determinado, y siendo parientes en tercer grado de consanguinidad y siendo dispensados por nuestro mui santo padre Clemente papa undézimo como consta por tres bulas que pasaron en el oficio de Alonso Gómez notario de número de Zamora, su fecha en el mes de septiembre a diez y seis del dicho mes, y con licencia que para ello tube del señor Dn Joseph Núñez de Castro provisor deste obispado, desposé y belé por palabras de presente que acen berdadero matrimonio a Luis Gaytán hijo lejítimo de Domingo Gaytán y Theresa Delgado y a Ysabel Rodríguez hija lejítima de Juº Rodríguez Pérez y de Theodora Alonso Delgado, no abiendo resultado otro alguno ympedimento más del referido en que ban dispensados, y para que conste lo firmé en Casaseca de las Chanas, siendo testigos Alonso Delgado, Pedro Alonso Pérez y Antonio Moreno vecinos de este dicho lugar. Dn Joseph de Miranda."
+        },
+        {
+          "spouse": "teresa-calvo-mujer-de-luis-gaitan"
         }
       ],
       "father": "domingo-gaitan",
-      "mother": "teresa-delgado"
+      "mother": "teresa-delgado",
+      "baptism": {
+        "date": "1681-03-13",
+        "transcription": "En treze de Marzo de dicho año yo Dn Joseph de Miranda cura propio deste lugar baptizé un niño que se llamó Luis, hijo legítimo de Domingo Gaitán y de Teresa Delgado [ilegible] sus legítimos padres. Fue su padrino Luis García y testigos [ilegible] y Marcos Alonso y en fe de ello lo firmé ut supra. Joseph de Miranda."
+      },
+      "burial": {
+        "date": "1729-02-11",
+        "transcription": "En onze de febrero año de mill setecientos y veinte y nueve se enterró en esta yglesia Luis Gaytan en la capilla mayor della en la primera fila [ilegible]. [ilegible] dejó por herederos a los hijos legítimos que hubo de Ysabel Rodríguez su primera muger que son Theresa y Lucas Gaytan y a los hijos que hubo de Theresa Calvo su última muger que son Agustina, Antonio y Fran.co Gaitán Calvo y mandó a la dicha Theresa Calvo [ilegible]. Recibió todos los sacramentos y lo firmo. Andrés Sánchez."
+      }
     },
     {
       "id": "isabel-rodriguez",
@@ -9533,7 +9662,13 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "francisco-carbajal",
-      "mother": "josefa-delgado"
+      "mother": "josefa-delgado",
+      "burial": {
+        "date": "1751",
+        "place": "Casaseca de las Chanas",
+        "note": "Entierro el día 1, mes sin precisar.",
+        "transcription": "En uno de [ilegible] de mil setecientos cinquenta y uno fue sepultada en la parroquial de este lugar de Casaseca las Chanas Fran.ca Carbajal muger de Santiago Valladolid Vº de él, recibió los Santos Sacram.tos, otorgó su testamento ante Fran.co Esteban, en el dispuso [ilegible], se la enterrase con el hábito de N.P.S. Fran.co [ilegible], que se le dixesen las tres misas [ilegible] y cabo de año, asimismo mandó al Cura de este lugar [ilegible] mandó se le dijesen dos misas a [ilegible], una a S.n Roque, dos a S.n Antonio de Padua [ilegible]. Dejó por sus albaceas a su marido Santiago Valladolid y a [ilegible] y para que conste lo firmo en este lugar dho día mes y año. D.n Bart.me Diez."
+      }
     },
     {
       "id": "tomas-ocampo",
@@ -9695,10 +9830,14 @@
       },
       "death": {
         "date": "1714-01-27",
-        "place": "Gáname"
+        "place": "Gáname",
+        "transcription": "El día veinte y siete de Enero del año de mill setecientos y catorze murió sin poder recibir más sacramento que el de la Extrema Unción Francisca Salvador lex.ma mujer de Manuel Burrieça, a quien le dejó una niña llamada Francisca hija lex.ma de este matrimonio. No pudo hacer testamento y su marido [ilegible] por su Alma diez ducados de los quales salió el funeral acostumbrado. Enterrose junto a la Puerta del Sol en la sepultura de sus padres en la Ygla de este lugar y por verdad lo firmé. [ilegible]."
       },
       "father": "blas-salvador",
-      "mother": "margarita-sastre"
+      "mother": "margarita-sastre",
+      "burial": {
+        "transcription": "El día veinte y siete de Enero del año de mill setecientos y catorze murió sin poder recibir más sacramento que el de la Extrema Unción Francisca Salvador lex.ma mujer de Manuel Burrieça, a quien le dejó una niña llamada Francisca hija lex.ma de este matrimonio. No pudo hacer testamento y su marido [ilegible] por su Alma diez ducados de los quales salió el funeral acostumbrado. Enterrose junto a la Puerta del Sol en la sepultura de sus padres en la Ygla de este lugar y por verdad lo firmé. [ilegible]."
+      }
     },
     {
       "id": "maria-anton",
@@ -10045,6 +10184,11 @@
       "death": {
         "date": "1721-11-14",
         "place": "Gáname"
+      },
+      "burial": {
+        "date": "1721-11-15",
+        "place": "Gáname",
+        "transcription": "En el Lug.r de Ganame a quinze días del mes de Noviembre de mil setecientos y veinte i un años yo Fran.co Baquero cura propio del enterré en su Yg.la parroquial de medio abajo a Emerenciana Diego vecina del, viuda de Blas Gonzalo, vecino que fue del, aviendo recibido los S.tos Sacram.tos con el de la Extrema unción. Avía hecho su testam.to ante Santiago Vega y testigos vecinos de este en uno de Sep.e de mil setecientos y quinze, en que tomó por su alma veinte ducados de que saliese el funeral, y una misa cantada a nra S.ra del Raio, otra cantada al S.to Xpto, otra rezada a nra S.ra del Rosario, y otra a S.n Antonio, dos R.s a S.ta Bárbara y dos a S.ta Cruz, y mandó veinte R.s a las ánimas, una misa rezada a S.n Miguel [ilegible]. [ilegible] Dejó por sus herederos a sus hijos legítimos y del matrimonio con el dho Manuel, Miguel, Catharina, Juan, [ilegible] y María Gonzalo, y por testamentarios a Roque Diego y [ilegible], vecinos de este lug.r [ilegible], y para que conste lo firmé. Fran.co Baquero."
       }
     },
     {
@@ -10852,10 +10996,15 @@
       },
       "death": {
         "date": "1750-10-29",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En treinta días del mes de octubre de mil setecientos y cinquenta años se enterró en esta Yglesia Manuel Marques, marido y conjunta persona de Josepha Casaseca. Murió el día veinte y nueve de dicho mes de un accidente cólico. Recibió el Santo Sacramento de la penitencia y el de la extremaunción. Dio poder para hacer su testamento a Dn Alonso Marques, canónigo de Zamora, Dn Joseph Marques, cura de Villaseco, y a su muger Josepha Casaseca. Hízosele entierro, honras y cabo de año y novenario [ilegible] y otras mandas que sus testamentarios hicieron. Dejó doce hijos y para que conste lo firmé. Dn Anttº Cabrera."
       },
       "mother": "maria-esteban-madre-de-manuel-marques",
-      "father": "juan-marques-nieto"
+      "father": "juan-marques-nieto",
+      "burial": {
+        "date": "1750-10-30",
+        "transcription": "En treinta días del mes de octubre de mil setecientos y cinquenta años se enterró en esta Yglesia Manuel Marques, marido y conjunta persona de Josepha Casaseca. Murió el día veinte y nueve de dicho mes de un accidente cólico. Recibió el Santo Sacramento de la penitencia y el de la extremaunción. Dio poder para hacer su testamento a Dn Alonso Marques, canónigo de Zamora, Dn Joseph Marques, cura de Villaseco, y a su muger Josepha Casaseca. Hízosele entierro, honras y cabo de año y novenario [ilegible] y otras mandas que sus testamentarios hicieron. Dejó doce hijos y para que conste lo firmé. Dn Anttº Cabrera."
+      }
     },
     {
       "id": "juan-marques-nieto",
@@ -10972,9 +11121,13 @@
       },
       "death": {
         "date": "1775-04-26",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En veinte siete de Abril de mil setecientos y setenta y cinco murió Cathalina Marques viuda de Manuel Cabrero, se enterró en esta Yglesia de Morales, hizo testamento, dejó a sus hijos herederos y lo firmó. [ilegible]."
       },
-      "mother": "luisa-portales"
+      "mother": "luisa-portales",
+      "observations": [
+        "El fallecimiento figura el 26 o el 27 de abril de 1775 en los datos conservados."
+      ]
     },
     {
       "id": "pedro-delgado",
@@ -11212,7 +11365,8 @@
       },
       "death": {
         "date": "1784-11-07",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "En ocho de noviembre de este año de mil setecientos ochenta i quatro, yo el infrascripto Then.te de esta Parroq.l de Morales, di sepultura ecca de grada abajo a Atilana de Luelmo viuda, vecina de este dho lugar, murió en siete de dho mes, recibió los S.tos Sacram.tos, no hizo testam.to y solo se le hicieron los tres oficios mayores incluso el entierro, con asistencia de dos sacerdotes; sucedió en el derecho de sus bienes su nieta francisca, y lo firmé. D.n Simón de [ilegible]."
       },
       "father": "jeronimo-de-luelmo",
       "mother": "teresa-arroyo",
@@ -11222,7 +11376,12 @@
           "date": "1745-01-25",
           "place": "Morales del Vino"
         }
-      ]
+      ],
+      "burial": {
+        "date": "1784-11-08",
+        "place": "Morales del Vino",
+        "transcription": "En ocho de noviembre de este año de mil setecientos ochenta i quatro, yo el infrascripto Then.te de esta Parroq.l de Morales, di sepultura ecca de grada abajo a Atilana de Luelmo viuda, vecina de este dho lugar, murió en siete de dho mes, recibió los S.tos Sacram.tos, no hizo testam.to y solo se le hicieron los tres oficios mayores incluso el entierro, con asistencia de dos sacerdotes; sucedió en el derecho de sus bienes su nieta francisca, y lo firmé. D.n Simón de [ilegible]."
+      }
     },
     {
       "id": "felix-ramos-padre-de-felix-ramos",
@@ -11480,7 +11639,8 @@
       },
       "death": {
         "date": "1747-06-03",
-        "place": "Roales"
+        "place": "Roales",
+        "transcription": "En tres días de el mes de Junio de este presente año de mill setecientos y quarenta y siete murió en este lugar de Roales Basilisa Sanchez viuda vecina de él; recibió los Santos Sacramentos, y otorgó testamento ante mí el infrascripto cura dho día mes y año en el que mandó se le hiciesen los tres oficios acostumbrados de entierro honras y cabo de año y se le dijesen tres misas rezadas una al S.to Christo de Morales, otra a ntra S.ra de la Yniesta y otra a ntra S.ra de Piedra Santa. Dejó por sus testamentarios a Joseph Giron, Joseph Martin y D.n Joseph Villamor todos V.os de este lugar; y se enterró en la Yglesia Parrochial de dho lugar de grada abajo y para que conste lo firmé yo el infrascripto Cura. Joseph Villamor."
       },
       "father": "miguel-sanchez",
       "mother": "manuela-martin-madre-de-basilisa-sanchez",
@@ -12272,7 +12432,17 @@
           "date": "1707-05-08",
           "place": "Villadepera"
         }
-      ]
+      ],
+      "death": {
+        "date": "1743-11-18",
+        "place": "Villadepera",
+        "transcription": "En diez y nueve de Nov.bre de mil set.s y quarenta y tres Yo D.n Juan Hernández arcipreste y cura propio de este lugar de Villadepera di Sepultura Eclesiástica a Cathalina Jorge viuda de Manuel Martín que murió el día anteced.te aviendo recibido todos los S.tos Sacram.tos con el de la Extrema Unción: hizo su testam.to en seis del mismo Mes ante Manuel Núñez y testigos V.os del referido lugar y mandó por su Alma cinco ducados libres de ofrenda y entierro; y dos misas de devoción una a N.ra S.ra del Rosario y otra a las Ánimas, y a los S.tos [ilegible] y a las obras pías lo acostumbrado, con otros legados a sus hijos que son Joseph, María, Manuel, Theresa y Ana que hubo del dho su marido Manuel Martín a quienes dejó por sus universales herederos, y en fee de ello lo firmé ut supra. Juan Hernández."
+      },
+      "burial": {
+        "date": "1743-11-19",
+        "place": "Villadepera",
+        "transcription": "En diez y nueve de Nov.bre de mil set.s y quarenta y tres Yo D.n Juan Hernández arcipreste y cura propio de este lugar de Villadepera di Sepultura Eclesiástica a Cathalina Jorge viuda de Manuel Martín que murió el día anteced.te aviendo recibido todos los S.tos Sacram.tos con el de la Extrema Unción: hizo su testam.to en seis del mismo Mes ante Manuel Núñez y testigos V.os del referido lugar y mandó por su Alma cinco ducados libres de ofrenda y entierro; y dos misas de devoción una a N.ra S.ra del Rosario y otra a las Ánimas, y a los S.tos [ilegible] y a las obras pías lo acostumbrado, con otros legados a sus hijos que son Joseph, María, Manuel, Theresa y Ana que hubo del dho su marido Manuel Martín a quienes dejó por sus universales herederos, y en fee de ello lo firmé ut supra. Juan Hernández."
+      }
     },
     {
       "id": "esteban-carretero",
@@ -12332,7 +12502,12 @@
       ],
       "observations": [
         "La partida de matrimonio de 1722 llama a la contrayente Isabel Pérez, hija de Santiago Pérez y Ana Bailón; la partida de bautismo de su hija Engracia y las de entierro de ambos llaman a su mujer Francisca Pérez."
-      ]
+      ],
+      "burial": {
+        "date": "1749-04-22",
+        "place": "Peleas de Arriba",
+        "transcription": "En veinte y dos de Abril de mil setecientos y quarenta y nuebe yo el infra escrito cura propio de esta parroquial del lugar de Peleas de Arriba anejo de Fuente el Carnero di sepultura eclesiástica en ella a Fernando Galán viudo de Fran.ca Pérez mis feligreses y vecinos del referido de Peleas; fue socorrido con los S.tos Sacram.tos de confesión, viático y extremaunción, dio poder para testar a Juan Matos y manda para bien de su alma los derechos parroquiales y para que conste lo firmo en dho día mes y año. Mattheo Cavero."
+      }
     },
     {
       "id": "francisca-perez",
@@ -12352,6 +12527,11 @@
         "date": "1701-04-17",
         "place": "Peleas de Arriba",
         "transcription": "Francisca.\n\nEn diez y siete de abril de setecientos y uno yo el Ldo Franco Rz cura theniente deste lugr bauticé y puse los santos olios a Franca yja de Santiago Pérez y de su muger Ysabel Bailona. Fueron padrinos Franco Bailón su abuelo y madrina Cecilia Bailón su tía. Testigos Pº Gutiérrez y Migel Mata y nació a siete de dicho mes y lo firmé dicho día. Ldo Franco Rodríguez."
+      },
+      "burial": {
+        "date": "1749-03-24",
+        "place": "Peleas de Arriba",
+        "transcription": "En veinte y quatro de Marzo de mill setecientos y quarenta y nuebe yo el infra escrito Cura propio de esta parroquial de Peleas de Arriba di sepultura eclesiástica acia el pilar de la pila del bautismo a Francisca Pérez conjunta persona de Fernando Galán mis feligreses, aviendo recibido el Santo Sacramento de la Extremaunción, no pudo confesarse por lo gravoso de su enfermedad, dio poder a su marido para testar, y manda para bien de su alma los derechos parroquiales, son pobres y para que conste lo firmo en dho día mes y año. Mattheo Cavero."
       }
     },
     {
@@ -12745,6 +12925,10 @@
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
+      },
+      "burial": {
+        "note": "Entierro el 20 de octubre, año sin precisar.",
+        "transcription": "En veinte de Otubre enterré a Emerenciana Garzón muger de Juº Perez, Vºs deste lug.r. [ilegible] los Santos Sacramentos, no hizo testamento y por verdad lo firmé. Manuel Moreno."
       }
     },
     {
@@ -13151,7 +13335,11 @@
       "mother": "micaela-hernandez-madre-de-domingo-gaitan",
       "observations": [
         "Su hermana María Gaitán fue bautizada en 1628."
-      ]
+      ],
+      "burial": {
+        "date": "1712-04-25",
+        "transcription": "El día veinticinco de Abril deste pres.te año de mill setecientos y doze se enterró en esta Yglª en la tercera sepultura del lado de la Epístola de la primera fila como entramos de la Capilla mayor, Domingo Gaitán, marido que fue de Theresa Delgado Vºs que fueron deste lugar. Hizo testamento ante [ilegible] Vº deste lugar y en él mandó se le hiziesen los tres oficios de entierro, honrras y cabo de año con asistencia de dos sacerdotes [ilegible]. [ilegible] Dejó por sus herederos a Luis y [ilegible] y sus nietos [ilegible] y por testamentarios al dicho Luis Gaitán y [ilegible] y lo firmé. Manuel Basilio Barba Santos."
+      }
     },
     {
       "id": "luis-gaitan-padre-de-domingo-gaitan",
@@ -13237,7 +13425,11 @@
           "place": "Casaseca de las Chanas",
           "transcription": "Año de 1683.\n\nJuan Rodríguez Pérez con Theodora Alonso Delgado.\n\nEn onze de enero deste presente año de mil i seiscientos i ochenta i tres io Dn Joseph de Miranda cura propio deste lugar desposé i belé sigún dispone el Sto Concilio de Trento i manda nuestra madre la iglesia a Teodora Alº ixa de Marcos Alº i de Josepha Delgado con Juº Rodrígez biudo de Úrsula Martín bezinos i naturales deste lugar, siendo testigos Franco Pérez y Andrés Delgado Capitán y Antonio Moreno sachristán i para que conste lo firmé ut supra. Dn Joseph de Miranda."
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1668-02-08",
+        "transcription": "En ocho días del mes de febrero de mil seiscientos y sesenta y ocho años bapticé y puse los santos óleos a Theodora hija lexítima de Marcos Alonso y de Josepha Delgado. Fue su padrino [ilegible] vecino de Zamora y madrina D.ª Ana de [ilegible], testigos [ilegible] y por verdad lo firmé [ilegible]."
+      }
     },
     {
       "id": "marcos-alonso",
@@ -13268,7 +13460,17 @@
       "death": {
         "date": "1725-03-25",
         "place": "Casaseca de las Chanas"
-      }
+      },
+      "burial": {
+        "date": "1725-03-26",
+        "place": "Casaseca de las Chanas",
+        "transcription": "El día veinte y seis de Marzo del año de mil setecientos y veinte y cinco se enterró en esta Yglesia de Cas.ca las chan.s, en la sepultura quinta de la primera fila que viene desde el altar de nra señora de Merced, a Fran.co González Vº que fue deste dho lug.r, marido de María Linares difunta su segunda mujer que fue, y haviendolo sido primero de Isabel Bara, no recibió Sacram.to alguno por haver muerto de repente. Tenía hecho testam.to ante Bern.do Alonso Scrivano Vº deste dho lug.r, en el que deja mandado que le enterrasen con el havito de S.n Fran.co, que le hiziesen los tres oficios acostumbrados con asistencia de Diáconos, y que a todos los oficios le pusiesen seis achas y la zera menuda que se acostumbra, y que se le ofrendase año y día su sepultura, y a los días festivos con vela blanca, que le dijesen las tres misas de indulg.a, que le traxesen bula de difuntos, y que a las obras pías se pagase lo acostumbrado, y que para todos dhos gastos señala quinientos y quarenta reales de vellón, y que si de dha cant.d sobrase alguna, manda que el Cura que es o fuere deste lug.r lo distribuya a su arbitrio en hacer bien a su ánima; deja por su universal heredera a Fran.ca González su hija legítima de la referida Isabel Bara su primera mujer Vª deste lug.r, y por testamentario a su yerno Juan Martín Vº deste dho lug.r, y para que conste lo firmé yo el infrascripto Cura propio [ilegible]. Franco de Quintas."
+      },
+      "marriages": [
+        {
+          "spouse": "maria-linares-mujer-de-francisco-gonzalez"
+        }
+      ]
     },
     {
       "id": "isabel-vara-madre-de-francisca-gonzalez",
@@ -13474,7 +13676,8 @@
       },
       "death": {
         "date": "1708-05-11",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "transcription": "El día onze de Mayo deste pres.te año de mill sete.os y ocho murió Antº Moreno Vº deste lugar. Recivió todos los Santos Sacram.tos, hizo testamento ante [ilegible] Vº deste lugar y se enterró el día doce dho mes en la sepultura del medio entre las dos pilas del agua bendita desta Yglª. Mandó se le hiciesen los tres oficios de entierro, honrras y cabo de año con la cera que se acostumbra y se le ofrendase año y día con la ofrenda de pan y vino y que se le digan las tres misas de indulgencia y la limosna acostumbrada a las obras pías, y que se digan por su intención catorce misas rezadas. Nombró por testamentarios a Andrés Moreno su hijo y a Jerónimo Hernández y por herederos a Gregoria, Eugenia, Andrés y Manuel Moreno sus hijos y lo firmé [ilegible]."
       },
       "marriages": [
         {
@@ -13483,7 +13686,11 @@
           "place": "Casaseca de las Chanas",
           "transcription": "En primero de Marzo desposé a Antonio Moreno con Catalina Morales y en veinte [ilegible] de Setiembre [ilegible], siendo padrinos Juº Moreno y [ilegible] María [ilegible]. Testigos Fran.co Ortiz sacristán y [ilegible]."
         }
-      ]
+      ],
+      "burial": {
+        "date": "1708-05-12",
+        "transcription": "El día onze de Mayo deste pres.te año de mill sete.os y ocho murió Antº Moreno Vº deste lugar. Recivió todos los Santos Sacram.tos, hizo testamento ante [ilegible] Vº deste lugar y se enterró el día doce dho mes en la sepultura del medio entre las dos pilas del agua bendita desta Yglª. Mandó se le hiciesen los tres oficios de entierro, honrras y cabo de año con la cera que se acostumbra y se le ofrendase año y día con la ofrenda de pan y vino y que se le digan las tres misas de indulgencia y la limosna acostumbrada a las obras pías, y que se digan por su intención catorce misas rezadas. Nombró por testamentarios a Andrés Moreno su hijo y a Jerónimo Hernández y por herederos a Gregoria, Eugenia, Andrés y Manuel Moreno sus hijos y lo firmé [ilegible]."
+      }
     },
     {
       "id": "catalina-morales-madre-de-gregoria-moreno",
@@ -13824,7 +14031,12 @@
       },
       "death": {
         "date": "1710-01-14",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "transcription": "El día catorze de Enero deste pres.te año de mill setecientos y diez murió Domingo Maíllo Vº deste lugar y marido que fue de Ana Elvira de Herrera, recibió todos los Sanctos Sacramentos y el día quinze de dho mes se enterró en esta Yglª. Hizo testam.to ante Andrés Moreno Vº deste lugar mandó se le hiziesen los tres oficios de entierro honrras y cabo de año y se le ofrendase año y día; dejó por sus herederos a sus hijos [ilegible] María Antª y Theresa Maíllo y por testamentarios a [ilegible] y lo firmé. Manuel Basilio Barba Santos."
+      },
+      "burial": {
+        "date": "1710-01-15",
+        "transcription": "El día catorze de Enero deste pres.te año de mill setecientos y diez murió Domingo Maíllo Vº deste lugar y marido que fue de Ana Elvira de Herrera, recibió todos los Sanctos Sacramentos y el día quinze de dho mes se enterró en esta Yglª. Hizo testam.to ante Andrés Moreno Vº deste lugar mandó se le hiziesen los tres oficios de entierro honrras y cabo de año y se le ofrendase año y día; dejó por sus herederos a sus hijos [ilegible] María Antª y Theresa Maíllo y por testamentarios a [ilegible] y lo firmé. Manuel Basilio Barba Santos."
       }
     },
     {
@@ -13900,7 +14112,8 @@
       },
       "death": {
         "date": "1699-01-25",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "transcription": "En veinte y cinco del corriente murió Cathalina Marques muger de Pedro Díez; recibió los santos sacramentos, [ilegible] entierro, onrras y cabo de año."
       },
       "father": "juan-marques-padre-de-catalina-marques-madre-de-catalina-diez"
     },
@@ -13979,7 +14192,12 @@
       ],
       "observations": [
         "La partida de matrimonio de 1678 indica que era viudo de María Martín."
-      ]
+      ],
+      "burial": {
+        "date": "1723-11-18",
+        "place": "Casaseca de las Chanas",
+        "transcription": "El día diez y ocho de Noviembre del año de mil setecientos y veinte y tres se enterró en esta Yglesia de Casaseca de las Chanas en la tercera sepultura de la primera ilera de arriba de la Capilla mayor al lado de la Epístola a Antonio Jambrina marido que fue de Theresa de Balencia ya difunta, vecinos que fueron deste dho lugar. Recibió los S.tos Sacram.tos y no hizo testam.to por haber hecho cesión de todos sus bienes muchos años ha [ilegible] el haberlos dado a sus hijos, según consta de escritura [ilegible]. Hiciéronsele los tres oficios acostumbrados de entierro, honras y cabo de año con asistencia de Diáconos con la cera acostumbrada y para que conste lo firmé yo el infrascripto cura propio deste dho lugar [ilegible]. [ilegible]"
+      }
     },
     {
       "id": "teresa-de-valencia",
@@ -14098,7 +14316,11 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "alonso-delgado",
-      "mother": "catalina-jurado"
+      "mother": "catalina-jurado",
+      "burial": {
+        "date": "1714-02-06",
+        "transcription": "El día seis de Febrero deste presente año de mil setecientos y catorce se enterró en esta Ygla Cathalina Delgado muger que fue de Martín García, V.os que fueron deste lugar. Recibió los santos Sacram.tos, hizo testam.to ante Pedro Calabaza Vº deste lugar y en él mandó se la hiciesen los tres oficios de entierro honras y cabo de año y el primer oficio con diáconos, y en todos ardiesen quatro achas y se pusiese una ochaba de trigo de ofrenda y cera menuda a la costumbre, mandó se la ofrendase año y día con vela blanca y que la enterrasen con el hábito de S.n Fran.co y que la dijesen las tres misas de indulgencia y la bula de difuntos, y mandó la dijesen veinticinco misas rezadas en el convento de S.n Fran.co de Zamora y otras cantadas en el de nra S.ra del [ilegible]. Dejó por herederos a sus hijos [ilegible] y Luis García, y nombró por sus testamentarios a [ilegible] su marido Martín García y al [ilegible] su hijo y lo firmé. Manuel Basilio Barba Santos."
+      }
     },
     {
       "id": "alonso-delgado",
@@ -14189,7 +14411,12 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "alonso-martin-padre-de-emerenciana-martin-asensio",
-      "mother": "barbola-asensio"
+      "mother": "barbola-asensio",
+      "burial": {
+        "date": "1722-07-11",
+        "place": "Casaseca de las Chanas",
+        "transcription": "El día onze de julio de dho año de mil setecientos y veinte y dos se enterró en esta Ygla de Casaseca las Chanas Merenciana Martín muger que fue de Juan Martínez, V.os que fueron deste dho lug.r. Recivió todos los S.tos Sacram.tos, hizo testam.to (aunque por ausencia según se dijo, del escribano deste lug.r) ante Fran.co, digo ante Andrés Moreno Vº del [ilegible], y en él mandó se le hiciesen los tres oficios de entierro honras y cabo de año con la asistencia de Diáconos a todos tres oficios, que se le ofrendase año y día a la costumbre deste lug.r, que se enterrase con el hábito de Ntro P.e S.n Fran.co, que se le tomase bula de difuntos [ilegible], y se pagasen las limosnas acostumbradas a las obras pías [ilegible], que se le dijesen tres misas de indulgencia [ilegible]. Dejó por herederos a sus hijos, y por testamentarios a dho su marido y a [ilegible] García Vº deste dho lug.r y para que conste lo firmé yo el infrascripto cura propio [ilegible]."
+      }
     },
     {
       "id": "alonso-martin-padre-de-emerenciana-martin-asensio",
@@ -14228,7 +14455,12 @@
         }
       ],
       "father": "blas-morales",
-      "mother": "juana-tobal"
+      "mother": "juana-tobal",
+      "burial": {
+        "date": "1736-09-23",
+        "place": "Casaseca de las Chanas",
+        "transcription": "En veinte y tres de septiembre de mil setecientos y treinta y seis se enterró en esta Iglesia con el hábito de N.º P.e S.n Fran.co Antonio Morales viudo de Isabel de Orueña vecinos que fueron deste lugar de Casaseca de las Chanas. Recivió los S.tos Sacram.tos, otorgó su testam.to ante Fran.co Esteban Vº deste lugar, el que después autorizó ante Alonso de [ilegible] Vº del número de Zamora y en él dispone se le tome Bulla de difuntos, le digan las tres misas de Indulgencia y otra a S.n Ant.o de Padua [ilegible]. Mandó unos ojos de cera a la gloriosa Santa Lucía y a su hijo Manuel le mejoró en el majuelo del camino de [ilegible] y le deja por universal heredero con su hija Agustina de Morales; y por su testamentario [ilegible] Manuel de Morales hermano carnal del difunto, y así para que conste lo firmo [ilegible]."
+      }
     },
     {
       "id": "blas-morales",
@@ -14458,7 +14690,11 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "bartolome-franco",
-      "mother": "ana-palacios"
+      "mother": "ana-palacios",
+      "burial": {
+        "date": "1729-11",
+        "transcription": "En [ilegible] de Noviembre año de mil setecientos y veinte y nueve aviendo recibido los santos sacramentos se enterró en esta Yglesia Francisca Franco muger que fue de Agustín Valladolid difunto. Hizo testamento ante Atilano Alonso Vº deste lugar en el qual mandó [ilegible] enterrarse en esta Yglesia y con el hábito de [ilegible] que a su entierro y oficios ardiesen quatro achas y la cera menuda necesaria y que a ellos asistiese el cura de lugar [ilegible] y que se le tome Bulla de difuntos [ilegible]. [ilegible] y para que conste lo firmo en dicho día mes y año. Andrés Sánchez."
+      }
     },
     {
       "id": "bartolome-franco",
@@ -14507,7 +14743,11 @@
         }
       ],
       "father": "juan-carbajal",
-      "mother": "catalina-alonso"
+      "mother": "catalina-alonso",
+      "burial": {
+        "date": "1714-05-07",
+        "transcription": "El día siete de Maio deste pres.te año de mil sete.s y catorce se enterró en esta Ygl.ª en su sepultura dotada que es la quarta sepultura comenzando desde el lado del evangelio de la fila arrimada al presbiterio Fran.co Carvajal marido q.e fue de Josefa Delgado, Vºs q.e fueron deste lugar. Hizo testam.to ante Andrés Moreno Vº deste lugar y mandó se le hiciesen los tres oficios de entierro, honrras y cabo de año con asistencia de dos sacerdotes y una fanega de trigo en cada oficio de ofrenda, y ardiesen quatro achas y la cera menuda la que se acostumbra, item un novenario cantado con vigilias y se ofrendase su sepultura año y día a la costumbre [ilegible]. [ilegible] en el monasterio de Valparaiso, y las tres misas de indulgencia, y la bula de difuntos, y nombró por sus testamentarios a sus yernos [ilegible] y a Jeronimo [ilegible], y por sus herederos a sus hijos Inés, Cathª, Paula, Fran.ca y Fran.co Carbajal y lo firmé. Manuel Basilio Barba Santos."
+      }
     },
     {
       "id": "juan-carbajal",
@@ -15561,7 +15801,17 @@
         "place": "Gáname"
       },
       "father": "alonso-gaspar",
-      "mother": "josefa-de-olmedo"
+      "mother": "josefa-de-olmedo",
+      "burial": {
+        "date": "1729-02-01",
+        "place": "Gáname",
+        "transcription": "En el lugar de Ganame a primer día del mes de febrero de mil setecientos y veinte y nueve años yo Fran.co Baquero cura propio de él enterré en su iglesia parroquial [ilegible] a Bernardo Gaspar vecino de Fadón marido de Ana Piorno vecina de él, aviendo recibido todos los santos sacramentos con el de la santa extrema unción. Hizo testamento ante Joseph Alvarez Moran y otros testigos [ilegible] en veinte y ocho de enero de dho año [ilegible] y por ofrendaderas a la dha su mujer y Theresa Olmedo su madre [ilegible]; por herederas a sus hijas legítimas y del matrimonio con la susodicha Sebastiana, Manuela, Theresa y Josepha Gaspar; por testamentarios a Juan Formariz y Bernardo Antón, vecinos de él, y para que conste lo firmé. Fran.co Baquero."
+      },
+      "marriages": [
+        {
+          "spouse": "ana-piorno"
+        }
+      ]
     },
     {
       "id": "alonso-gaspar",
@@ -15588,7 +15838,12 @@
       ],
       "birth": {
         "place": "Fadón"
-      }
+      },
+      "marriages": [
+        {
+          "spouse": "bernardo-gaspar"
+        }
+      ]
     },
     {
       "id": "agustin-sastre",
@@ -16114,7 +16369,16 @@
         "place": "Moraleja del Vino"
       },
       "father": "antonio-bambon",
-      "mother": "josefa-de-luelmo"
+      "mother": "josefa-de-luelmo",
+      "baptism": {
+        "date": "1666-10-30",
+        "transcription": "En treinta de octubre de mil y seiscientos y sesenta y seis yo dicho cura teniente baptizé a Josepha hija de Antonio Bambón y de Josepha de Luelmo su legítima mujer. Fueron sus padrinos [ilegible] y lo firmé [ilegible]."
+      },
+      "burial": {
+        "date": "1703-01-27",
+        "place": "Moraleja del Vino",
+        "transcription": "En veinte y siete días del mes de henero del año de mil setecientos y tres, aviendo recibido los santos sacramentos se enterró en la capilla mayor de la iglesia deste lugar de Moraleja Josepha Bambon, muger de F.co Ramos. Hizo testamento y en él mandó enterrarse con el hábito de S. F.co [ilegible] y lo firmé."
+      }
     },
     {
       "id": "antonio-bambon",
@@ -18508,7 +18772,12 @@
           "date": "1722-01-21",
           "place": "Morales del Vino"
         }
-      ]
+      ],
+      "burial": {
+        "date": "1742-09-29",
+        "place": "Casaseca de las Chanas",
+        "transcription": "En veinte y nuebe de septiembre de mil setecientos y quarenta y dos se enterró en la parroquial de este lugar de las Chanas con el hábito de [ilegible] Bernardo Calvo marido de Manuela Portales Vº deste lugar; recibió los S.tos Sacram.tos, otorgó testam.to ante Fran.co Esteban Vº deste lugar, y en él dispuso se le hiciesen [ilegible]. Y para que conste lo firmo dho día, mes y año referido. [ilegible]."
+      }
     },
     {
       "id": "atilano-zurdo",
@@ -18532,7 +18801,12 @@
           "place": "Gáname",
           "transcription": "En veinte y un días del mes de nobiembre de mill seiscientos y nobenta y quatro años, aviendo precedido tres publicaciones en tres días festibos al offertorio de la missa según lo dispuesto por el Sto Concilio Tridentino, casé y velé in facie eclesiæ a Atilano Zurdo con Sebastiana Mayordoma. Fueron testigos el Ldo Joseph Díez, Gregorio de Olmedo y Domingo Blanco y lo firmé. Ldo Joseph Rodríguez."
         }
-      ]
+      ],
+      "burial": {
+        "date": "1732-03-17",
+        "place": "Gáname",
+        "transcription": "En el lug.r de Ganame a diez y siete días del mes de Marzo de mil setecientos y treinta y dos años, yo Fran.co Vaquero cura de él enterré en la Yglª [ilegible] a Atilano Zurdo Vecº del, marido de Sebastiana [ilegible], falleció en el Convento de Religiosos descalzos de S. Fran.co de Zamora y por certificación de D.n Pedro [ilegible] cura de S. Salvador de dha ciudad me consta haber recibido los S.tos Sacramentos con el de la extremaunción. Hizo su testamento ante Fran.co Prieto y otros testigos Vec.os de este en veinte y uno de febrero de dho año, en que se mandaba enterrar en esta Yglesia con hábito de S. Fran.co y que se gastasen en hacer bien por su Alma doscientos R.s de que saliesen entierro, honrras y dos novenarios Cantados [ilegible] y que se le ofrendase dos años según costumbre, por [ilegible] a su mujer, y por herederos a sus hijos lexítimos y de Sebastiana Maiordomo su primera mujer Joseph, Manuel, Thomás y Michaela; y Domingo Zurdo hijo de la otra Sebastiana su última mujer; por testamentarios a los dhos Joseph y Manuel sus hijos, y para que conste lo firmé. Fran.co Vaquero."
+      }
     },
     {
       "id": "sebastiana-mayordomo",
@@ -19798,6 +20072,105 @@
       },
       "observations": [
         "La partida de fallecimiento nombra herederas a sus hijas María, Sebastiana, Teresa y Antonia Mayordomo, y testamentarios a sus yernos Atilano Zurdo, Alonso Antón y Gabriel Pedruelo."
+      ]
+    },
+    {
+      "id": "teresa-calvo-mujer-de-luis-gaitan",
+      "name": "Teresa Calvo",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Calvo"
+      ],
+      "marriages": [
+        {
+          "spouse": "luis-gaitan"
+        }
+      ]
+    },
+    {
+      "id": "lucas-gaitan-hijo-de-luis-gaitan",
+      "name": "Lucas Gaitán",
+      "givenNames": "Lucas",
+      "surnames": [
+        "Gaitán"
+      ],
+      "father": "luis-gaitan",
+      "mother": "isabel-rodriguez"
+    },
+    {
+      "id": "agustina-gaitan-calvo",
+      "name": "Agustina Gaitán Calvo",
+      "givenNames": "Agustina",
+      "surnames": [
+        "Gaitán",
+        "Calvo"
+      ],
+      "father": "luis-gaitan",
+      "mother": "teresa-calvo-mujer-de-luis-gaitan"
+    },
+    {
+      "id": "antonio-gaitan-calvo",
+      "name": "Antonio Gaitán Calvo",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Gaitán",
+        "Calvo"
+      ],
+      "father": "luis-gaitan",
+      "mother": "teresa-calvo-mujer-de-luis-gaitan"
+    },
+    {
+      "id": "francisco-gaitan-calvo",
+      "name": "Francisco Gaitán Calvo",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Gaitán",
+        "Calvo"
+      ],
+      "father": "luis-gaitan",
+      "mother": "teresa-calvo-mujer-de-luis-gaitan"
+    },
+    {
+      "id": "manuela-gaspar-hija-de-bernardo",
+      "name": "Manuela Gaspar",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Gaspar"
+      ],
+      "father": "bernardo-gaspar",
+      "mother": "ana-piorno"
+    },
+    {
+      "id": "teresa-gaspar-hija-de-bernardo",
+      "name": "Teresa Gaspar",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Gaspar"
+      ],
+      "father": "bernardo-gaspar",
+      "mother": "ana-piorno"
+    },
+    {
+      "id": "josefa-gaspar-hija-de-bernardo",
+      "name": "Josefa Gaspar",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Gaspar"
+      ],
+      "father": "bernardo-gaspar",
+      "mother": "ana-piorno"
+    },
+    {
+      "id": "maria-linares-mujer-de-francisco-gonzalez",
+      "name": "María Linares",
+      "givenNames": "María",
+      "surnames": [
+        "Linares"
+      ],
+      "marriages": [
+        {
+          "spouse": "francisco-gonzalez"
+        }
       ]
     }
   ]

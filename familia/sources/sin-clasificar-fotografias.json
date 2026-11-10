@@ -106,12 +106,19 @@
           "sha256": "133b972d8917f973a64a1d6d77fea0a783161bf5cea041f7adfdc8929b2775af",
           "width": 4288,
           "height": 2848
+        },
+        {
+          "filename": "Muerte de Catalina Nieto.JPG",
+          "sha256": "1d1f9dea101b4ac5287698292af1c9d8ad3acf9263938475a931a48b792b971d",
+          "width": 4288,
+          "height": 2848
         }
       ],
       "transcription": "En seis de Otubre enterré a Cathalina Nieto, muger de Manuel Hernandez Crespo. Recibió los santos sacramentos y díle entierro honrras y cabo de año.",
       "uncertainties": [
         "El marido coincide con Manuel Hernández Crespo. Se registra el día y mes del entierro; el año no se ve. La fecha de fallecimiento existente no fija el año de este asiento.",
-        "Ya existe otra fotografía del mismo asiento con el mismo nombre en el destino; se conservan ambas tomas."
+        "Ya existe otra fotografía del mismo asiento con el mismo nombre en el destino; se conservan ambas tomas.",
+        "Una tercera toma de la misma partida se hallaba en la carpeta inicial como «Muerte de Catalina Nieto.JPG»."
       ],
       "status": "incorporada",
       "destinationFilename": "Muerte de Catalina Nieto Galán (otra toma).JPG",
@@ -3045,6 +3052,1393 @@
         "Entierro nuevo el 06-10-1762 en Peleas de Arriba con transcripción; observación con sus hijos herederos."
       ],
       "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Miguel Martín Avedillo.JPG",
+          "sha256": "afa2dfc3e9b1c395880564561605c34278f5078c8a51db945a1e685dbe387e07",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En cinco de Noviembre del año del Señor de mil setecientos y ochenta y nueve Yo el infrascripto Teniente Economo de la Yglesia Parroquial de Morales de Zamora di sepultura eclesiástica en medio de la Yglesia al cuerpo de Miguel Martín vecino de este pueblo y natural del lugar de Moraleja, murió el día quatro de dho mes a las tres y media de la tarde. Fue socorrido con los santos sacramentos de penitencia, eucharistía y la extrema unción, hizo testamento ante Alonso de Luelmo escribano de este pueblo dejando a la disposición de su muger Felipa de Prada, que haga por su Alma lo que fuere de su agrado, la que mandó se le enterrase con hábito de S.n Francisco, y se le hiciese novenario cantado y oficios acostumbrados, y para que conste lo firmé. D.n Josef Barba.",
+      "uncertainties": [
+        "El nombre de su mujer Felipa de Prada, la naturaleza de Moraleja y la fecha de fallecimiento coinciden con el árbol. El asiento distingue la muerte el día 4 y el entierro el 5."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "miguel-martin-avedillo"
+      ],
+      "applied": [
+        "Transcripción en fallecimiento y entierro; entierro el 05-11-1789 en Morales del Vino."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luisa Alonso Delgado.JPG",
+          "sha256": "0816e13e8345c1d96bf7d20b68fd12bfd3faea7ab938b9317000aacc8a5829ac",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el día veinte y quatro de Abril de mil ochocientos treinta y cinco se enterró en el cementerio de este lugar de Morales el cadáver de Luisa Alonso que murió el día anterior sin sacramentos por no haber avisado, de edad de treinta y cinco años, mujer de Baltasar Brioso, dejó ocho hijos, [ilegible] se le hizo entierro con misa y oficio y en fe de ello lo firmo ut supra. Agustín de la Calle.",
+      "uncertainties": [
+        "La partida nombra a Baltasar Brioso y la muerte el día anterior al entierro. La edad de 35 años no coincide con los 36 cumplidos calculados a partir del nacimiento de 1798 ya registrado; no se altera la fecha."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-alonso-delgado"
+      ],
+      "applied": [
+        "Transcripción en fallecimiento y entierro; entierro el 24-04-1835."
+      ],
+      "destination": "Tatarabuelos segundos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Teodora Alonso.JPG",
+          "sha256": "6ac9207782f0277f26e2b5dcf8afe7507d0e9fd063905aefe758c6701c126ccc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En ocho días del mes de febrero de mil seiscientos y sesenta y ocho años bapticé y puse los santos óleos a Theodora hija lexítima de Marcos Alonso y de Josepha Delgado. Fue su padrino [ilegible] vecino de Zamora y madrina D.ª Ana de [ilegible], testigos [ilegible] y por verdad lo firmé [ilegible].",
+      "uncertainties": [
+        "Los nombres de los dos padres coinciden con el árbol. La fecha es de bautismo; el nacimiento permanece como dato previo, no se deduce de la partida. La imagen no expresa localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "teodora-alonso"
+      ],
+      "applied": [
+        "Bautismo el 08-02-1668 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Teodora Alonso Delgado.JPG",
+          "sha256": "a42a7902096e1c946ee1032918baf3afb6d7924b61608897061968a6ab735cf0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y ocho de septiembre de mil setecientos y quatro murió Dorotea Alonso muger de Juan Rodríguez. Recibió los santos sacramentos, no hizo testamento, enterróse [ilegible]. Hízose los tres oficios de entierro, honras y cabo de año con toda solemnidad [ilegible] y con música necesaria; también se le hizo un novenario de misas cantadas con vigilias de difuntos y ofrenda y un treintanario de misas rezadas, todo lo qual me consta y para que conste lo firmo como cura teniente. Domingo Bernabé.",
+      "uncertainties": [
+        "El asiento dice Dorotea Alonso, tanto en el margen como en el cuerpo; fecha y marido coinciden con Teodora Alonso Delgado. La diferencia de nombre requiere conciliación; no se modifica ni se enlaza la ficha."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "teodora-alonso"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Josefa Bambón Luelmo.JPG",
+          "sha256": "264c64764aea4c336f9f38a5a162b0c1e3fc9a63d2edea4caee526d1f6751413",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En treinta de octubre de mil y seiscientos y sesenta y seis yo dicho cura teniente baptizé a Josepha hija de Antonio Bambón y de Josepha de Luelmo su legítima mujer. Fueron sus padrinos [ilegible] y lo firmé [ilegible].",
+      "uncertainties": [
+        "Los dos padres coinciden con la ficha. La fecha corresponde a bautismo; la imagen no indica por sí sola la fecha de nacimiento ni la localidad. Lectura pálida con padrinos pendientes."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-bambon"
+      ],
+      "applied": [
+        "Bautismo el 30-10-1666 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Bambón.JPG",
+          "sha256": "d9d3627ca5b6ab130e14d28159f40798a590b320d09ba607c2c9352464d3060b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y siete días del mes de henero del año de mil setecientos y tres, aviendo recibido los santos sacramentos se enterró en la capilla mayor de la iglesia deste lugar de Moraleja Josepha Bambon, muger de F.co Ramos. Hizo testamento y en él mandó enterrarse con el hábito de S. F.co [ilegible] y lo firmé.",
+      "uncertainties": [
+        "El cónyuge Francisco Ramos coincide con el árbol. La fecha es de entierro, un día después del fallecimiento existente. Pasajes del testamento pendientes de lectura adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-bambon"
+      ],
+      "applied": [
+        "Entierro el 27-01-1703 en Moraleja del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisca Corralino.JPG",
+          "sha256": "6e2cda5ce980f7c9324df662ce35e256f1e9f9bf207ac70b92c6e82ea06ee557",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "El día veinte y quatro de Nov.bre deste pres.te año de mil sete[cientos] y nueve se enterró en esta yglesia Fran.ca Corralina viuda de Andrés [ilegible], Vª deste lugar [ilegible] la Santa Unción. No testó por ser pobre, enterróse de las columnas abajo y lo firmé [ilegible].",
+      "uncertainties": [
+        "El apellido del marido y parte del texto no se leen con seguridad; no hay identificación suficiente en el árbol. La lectura del año requiere revisión."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisca Corralino Delgado.JPG",
+          "sha256": "dbb5a02b5125e02dc00abb5afbb3c10f87b7e543adf20cf75aedcfb36a55651d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "[ilegible] bauticé a Francisca hija de Andrés Corralino y de Pascuala Delgado [ilegible]. Fue su padrino [ilegible].",
+      "uncertainties": [
+        "Fotografía pálida; fecha, filiación y texto requieren una segunda lectura. No se ha encontrado una identidad suficientemente acreditada. No se identifica automáticamente con la otra Francisca Corralina."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Jambrina.JPG",
+          "sha256": "9466291cfc08284925ab12dde2d037c5ef9a8c5aa956fe6e0ce3f4471fed864d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día diez y ocho de Noviembre del año de mil setecientos y veinte y tres se enterró en esta Yglesia de Casaseca de las Chanas en la tercera sepultura de la primera ilera de arriba de la Capilla mayor al lado de la Epístola a Antonio Jambrina marido que fue de Theresa de Balencia ya difunta, vecinos que fueron deste dho lugar. Recibió los S.tos Sacram.tos y no hizo testam.to por haber hecho cesión de todos sus bienes muchos años ha [ilegible] el haberlos dado a sus hijos, según consta de escritura [ilegible]. Hiciéronsele los tres oficios acostumbrados de entierro, honras y cabo de año con asistencia de Diáconos con la cera acostumbrada y para que conste lo firmé yo el infrascripto cura propio deste dho lugar [ilegible]. [ilegible]",
+      "uncertainties": [
+        "El nombre de la esposa fallecida, Teresa de Valencia, y el lugar coinciden; entierro al día siguiente del fallecimiento existente. La adición sobre los hijos es difícil de leer."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-jambrina"
+      ],
+      "applied": [
+        "Entierro el 18-11-1723 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Morales.JPG",
+          "sha256": "fa06fe580f45865f9dcfb2a973a0e0745a34fe3251b24e94141bea9f2237b97e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y tres de septiembre de mil setecientos y treinta y seis se enterró en esta Iglesia con el hábito de N.º P.e S.n Fran.co Antonio Morales viudo de Isabel de Orueña vecinos que fueron deste lugar de Casaseca de las Chanas. Recivió los S.tos Sacram.tos, otorgó su testam.to ante Fran.co Esteban Vº deste lugar, el que después autorizó ante Alonso de [ilegible] Vº del número de Zamora y en él dispone se le tome Bulla de difuntos, le digan las tres misas de Indulgencia y otra a S.n Ant.o de Padua [ilegible]. Mandó unos ojos de cera a la gloriosa Santa Lucía y a su hijo Manuel le mejoró en el majuelo del camino de [ilegible] y le deja por universal heredero con su hija Agustina de Morales; y por su testamentario [ilegible] Manuel de Morales hermano carnal del difunto, y así para que conste lo firmo [ilegible].",
+      "uncertainties": [
+        "Coinciden el nombre, la esposa Isabel de Urueña y la localidad. La fecha es de entierro; no se infiere fallecimiento. Las disposiciones necesitan revisión adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-morales"
+      ],
+      "applied": [
+        "Entierro el 23-09-1736 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Hernández Crespo1.JPG",
+          "sha256": "3dfbc2b610dbeaaf38b700227d447bc812b285ef0b003a2c493d4160284aed43",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Muerte de Manuel Hernández Crespo1 (otra toma).JPG"
+        },
+        {
+          "filename": "Muerte de Manuel Hernández Crespo2.JPG",
+          "sha256": "f7e855e1f55e05c81eae6dcfc0011e6896a2f73c131f56a65888d4ee04b7908c",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Muerte de Manuel Hernández Crespo2 (otra toma).JPG"
+        }
+      ],
+      "transcription": "El día seis de Septiembre deste presente año de mil setecientos y trece se enterró en esta Yglesia Manuel Hernandez Crespo, marido que fue de Cathalina Nieto, Vº que fueron deste lugar, y en la sepultura [ilegible] fue sepultado [ilegible] a la columna de la puerta del sol por la parte de adentro. Recibió los santos Sacramentos. Hizo testamento ante Ignacio Ponce Vº deste lugar y en él mandó que se le hiciesen los tres oficios de entierro honras y cabo de año [ilegible]. Item mandó decir siete misas rezadas [ilegible] y por su heredero a sus quatro hijos [ilegible] y para que conste lo firmé. Manuel Basilio Barba Santos.",
+      "uncertainties": [
+        "Las dos imágenes muestran un asiento, que nombra a Catalina Nieto y registra el entierro al día siguiente de la muerte ya registrada. No indica el lugar expresamente.",
+        "Había otras fotografías con los mismos nombres en el destino; se preservan ambas tomas. Los nombres de hijos y varias cláusulas requieren revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-hernandez-crespo"
+      ],
+      "applied": [
+        "Entierro el 06-09-1713 con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Marqués Esteban.JPG",
+          "sha256": "0c1df86652db0b59be19c6603e990c63ce894dd8b539ccafdf28237267675b7b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En treinta días del mes de octubre de mil setecientos y cinquenta años se enterró en esta Yglesia Manuel Marques, marido y conjunta persona de Josepha Casaseca. Murió el día veinte y nueve de dicho mes de un accidente cólico. Recibió el Santo Sacramento de la penitencia y el de la extremaunción. Dio poder para hacer su testamento a Dn Alonso Marques, canónigo de Zamora, Dn Joseph Marques, cura de Villaseco, y a su muger Josepha Casaseca. Hízosele entierro, honras y cabo de año y novenario [ilegible] y otras mandas que sus testamentarios hicieron. Dejó doce hijos y para que conste lo firmé. Dn Anttº Cabrera.",
+      "uncertainties": [
+        "Coinciden el cónyuge y el día de la muerte, expresado separadamente del entierro. La imagen no nombra localidad. No se atribuye filiación a los testamentarios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-marques"
+      ],
+      "applied": [
+        "Transcripción de muerte y entierro; entierro el 30-10-1750."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Luis Gaitán.JPG",
+          "sha256": "147ab7ebfca5a99a560023687762ebc2a0ae582783f07ace304b7b24ac86ab94",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En treze de Marzo de dicho año yo Dn Joseph de Miranda cura propio deste lugar baptizé un niño que se llamó Luis, hijo legítimo de Domingo Gaitán y de Teresa Delgado [ilegible] sus legítimos padres. Fue su padrino Luis García y testigos [ilegible] y Marcos Alonso y en fe de ello lo firmé ut supra. Joseph de Miranda.",
+      "uncertainties": [
+        "Coinciden ambos padres; el encabezamiento indica 1681. La fecha es de bautismo y el asiento no expresa fecha de nacimiento o localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-gaitan"
+      ],
+      "applied": [
+        "Bautismo el 13-03-1681 con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luis Gaitán1.JPG",
+          "sha256": "bab6f31702edb209b927efb69ecd218dae6173df04bcc9f971d695d10387faaf",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Luis Gaitán2.JPG",
+          "sha256": "67f38bf575815c2ea86cc5abda0d36269abac94ccf20b9b3004745ede2d98d8d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En onze de febrero año de mill setecientos y veinte y nueve se enterró en esta yglesia Luis Gaytan en la capilla mayor della en la primera fila [ilegible]. [ilegible] dejó por herederos a los hijos legítimos que hubo de Ysabel Rodríguez su primera muger que son Theresa y Lucas Gaytan y a los hijos que hubo de Theresa Calvo su última muger que son Agustina, Antonio y Fran.co Gaitán Calvo y mandó a la dicha Theresa Calvo [ilegible]. Recibió todos los sacramentos y lo firmo. Andrés Sánchez.",
+      "uncertainties": [
+        "Los dos archivos contienen el mismo asiento. Nombra a Isabel Rodríguez como primera mujer y a Teresa Calvo como última; Teresa y Lucas son hijos de la primera, y Agustina, Antonio y Francisco de la segunda. La localidad no se expresa en las fotografías.",
+        "El testamento contiene partes legibles adicionales y el borrador conserva huecos para una revisión posterior."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-gaitan"
+      ],
+      "applied": [
+        "Entierro el 11-02-1729; segunda esposa Teresa Calvo y cuatro hijos nombrados en el asiento añadidos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Bernardo Calvo Martín1.JPG",
+          "sha256": "81164f8e92a1755f501c349cd373b0e7ec9ebd18be76ff6637b433fcb42a3202",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Bernardo Calvo Martín2.JPG",
+          "sha256": "913337410f6f789de2513ebd567765d6db908773e172cd4e1ba20d3fc1b891bc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y nuebe de septiembre de mil setecientos y quarenta y dos se enterró en la parroquial de este lugar de las Chanas con el hábito de [ilegible] Bernardo Calvo marido de Manuela Portales Vº deste lugar; recibió los S.tos Sacram.tos, otorgó testam.to ante Fran.co Esteban Vº deste lugar, y en él dispuso se le hiciesen [ilegible]. Y para que conste lo firmo dho día, mes y año referido. [ilegible].",
+      "uncertainties": [
+        "Las dos fotos muestran partes de un mismo asiento. Coinciden su esposa Manuela Portales, la localidad y la fecha de entierro posterior al fallecimiento registrado. El testamento necesita lectura adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bernardo-calvo-martin"
+      ],
+      "applied": [
+        "Entierro el 29-09-1742."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Bernardo Gaspar.JPG",
+          "sha256": "1f58c28443df466e8eed87db4cd66433dd395eb11b343305434134974747d7e4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lugar de Ganame a primer día del mes de febrero de mil setecientos y veinte y nueve años yo Fran.co Baquero cura propio de él enterré en su iglesia parroquial [ilegible] a Bernardo Gaspar vecino de Fadón marido de Ana Piorno vecina de él, aviendo recibido todos los santos sacramentos con el de la santa extrema unción. Hizo testamento ante Joseph Alvarez Moran y otros testigos [ilegible] en veinte y ocho de enero de dho año [ilegible] y por ofrendaderas a la dha su mujer y Theresa Olmedo su madre [ilegible]; por herederas a sus hijas legítimas y del matrimonio con la susodicha Sebastiana, Manuela, Theresa y Josepha Gaspar; por testamentarios a Juan Formariz y Bernardo Antón, vecinos de él, y para que conste lo firmé. Fran.co Baquero.",
+      "uncertainties": [
+        "Coinciden esposa Ana Piorno y su hija Sebastiana Gaspar; el asiento especifica entierro sin fecha de muerte. Las otras tres hijas se añaden con nombres de la partida; Manuela es distinta de la homónima fallecida en 1715.",
+        "El texto nombra como ofrendadera a «Theresa Olmedo su madre», pero el posesivo puede referirse a Ana Piorno; no se modifica la madre registrada de Bernardo sin resolver a quién corresponde."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bernardo-gaspar"
+      ],
+      "applied": [
+        "Entierro el 01-02-1729 en Gáname; relación de cónyuges y tres hijas."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Moreno.JPG",
+          "sha256": "7fa9defa947e7fc5e90bf4ab3ac59089571c67bbf96fac014f8f0b3258c4818d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día onze de Mayo deste pres.te año de mill sete.os y ocho murió Antº Moreno Vº deste lugar. Recivió todos los Santos Sacram.tos, hizo testamento ante [ilegible] Vº deste lugar y se enterró el día doce dho mes en la sepultura del medio entre las dos pilas del agua bendita desta Yglª. Mandó se le hiciesen los tres oficios de entierro, honrras y cabo de año con la cera que se acostumbra y se le ofrendase año y día con la ofrenda de pan y vino y que se le digan las tres misas de indulgencia y la limosna acostumbrada a las obras pías, y que se digan por su intención catorce misas rezadas. Nombró por testamentarios a Andrés Moreno su hijo y a Jerónimo Hernández y por herederos a Gregoria, Eugenia, Andrés y Manuel Moreno sus hijos y lo firmé [ilegible].",
+      "uncertainties": [
+        "El nombre, el fallecimiento y su hija Gregoria coinciden con la ficha; la localidad no se expresa en el asiento. La anotación marginal parece nombrar a otra esposa, pero precisa lectura y cotejo antes de crear una relación."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-moreno"
+      ],
+      "applied": [
+        "Transcripción en muerte y entierro; entierro 12-05-1708."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Atilana de Luelmo Arroyo.JPG",
+          "sha256": "055c1eaffcc80eb38a115a9582922ded2fe10c09dd91f44d65cdd308327dcc71",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En ocho de noviembre de este año de mil setecientos ochenta i quatro, yo el infrascripto Then.te de esta Parroq.l de Morales, di sepultura ecca de grada abajo a Atilana de Luelmo viuda, vecina de este dho lugar, murió en siete de dho mes, recibió los S.tos Sacram.tos, no hizo testam.to y solo se le hicieron los tres oficios mayores incluso el entierro, con asistencia de dos sacerdotes; sucedió en el derecho de sus bienes su nieta francisca, y lo firmé. D.n Simón de [ilegible].",
+      "uncertainties": [
+        "Coinciden nombre, lugar y fecha de fallecimiento; se indica viuda sin nombre de marido. La nieta Francisca no se identifica automáticamente con ninguna persona."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "atilana-de-luelmo"
+      ],
+      "applied": [
+        "Transcripción en muerte y entierro; entierro 08-11-1784."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Atilano Carretero Ramírez.JPG",
+          "sha256": "6d9fd18b2bec2f20cb96923c74bc3ddb52c922f5f6d39fb77826b05f8d735d1a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En la Yglesia Parroquial de Nuestra S.ra de la Asumpción, única de este lugar de Peleas de Arriba en catorce de setiembre del año de mil [ilegible]cientos y uno, fue sepultado el cadáver de Atilano Carretero marido de Engracia Galán el que falleció el día próximo anterior, y otorgó testamento por el que mandaba se le hiciesen por su Alma los oficios acostumbrados y que asistiesen a su entierro dos Religiosos, cura y sacristán y dejaba para su alma treinta misas y quatro a varios santuarios, y por herederos de sus bienes a sus hijos Theresa Carretero, Matheo Carretero y Fran.co Carretero, y para que se cumpliesen las mandas dichas dejó por albacea a su hijo Matheo Carretero; y para que conste lo firmo yo el cura Ecónomo de esta Parroquial. Fr. Anselmo Díaz.",
+      "uncertainties": [
+        "Coinciden la esposa Engracia Galán, el hijo Francisco y Peleas de Arriba. El año queda parcialmente oculto en el pliegue; el asiento siguiente indica 1801, pero no se atribuye automáticamente a este. La muerte fue el día anterior al entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "atilano-carretero"
+      ],
+      "applied": [
+        "Entierro el 14 de septiembre sin fijar año."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Baltasar Brioso Marqués.JPG",
+          "sha256": "6cf9b0971200508b6eaaacf9129f6180abac2c090f38e3eafd4f94bf1385b9d2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el día veinte y seis de Abril del año de mil ochocientos y dos se enterró en la Parroquial de este lugar de Morales el cadáver de Baltasar Brioso que murió el día antecedente: natural y vecino de este mismo lugar y viudo de Catalina Cabrero: hizo testamento: recibió los Sacramentos de Penitencia, viático, y Unción, y se le hizo entierro, oficios, y Novenario: y en fe de ello como Párrocho que soy lo certifico y firmo ut supra. Jose Mariano Barba.",
+      "uncertainties": [
+        "Coinciden cónyuge difunta, lugar y fecha de muerte; se indica además la fecha del entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "baltasar-brioso"
+      ],
+      "applied": [
+        "Transcripción en muerte y entierro; entierro 26-04-1802."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Atilano Zurdo.JPG",
+          "sha256": "d85e2c6ba57e79d259657052dd477062298cf0a772b0a8f496d786c5eb7586d2",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Atilano Zurdo 2.JPG",
+          "sha256": "c5e857665f7743101d8924bfb10a9166f123e6bbf46d3390075963f4b0a4aa67",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lug.r de Ganame a diez y siete días del mes de Marzo de mil setecientos y treinta y dos años, yo Fran.co Vaquero cura de él enterré en la Yglª [ilegible] a Atilano Zurdo Vecº del, marido de Sebastiana [ilegible], falleció en el Convento de Religiosos descalzos de S. Fran.co de Zamora y por certificación de D.n Pedro [ilegible] cura de S. Salvador de dha ciudad me consta haber recibido los S.tos Sacramentos con el de la extremaunción. Hizo su testamento ante Fran.co Prieto y otros testigos Vec.os de este en veinte y uno de febrero de dho año, en que se mandaba enterrar en esta Yglesia con hábito de S. Fran.co y que se gastasen en hacer bien por su Alma doscientos R.s de que saliesen entierro, honrras y dos novenarios Cantados [ilegible] y que se le ofrendase dos años según costumbre, por [ilegible] a su mujer, y por herederos a sus hijos lexítimos y de Sebastiana Maiordomo su primera mujer Joseph, Manuel, Thomás y Michaela; y Domingo Zurdo hijo de la otra Sebastiana su última mujer; por testamentarios a los dhos Joseph y Manuel sus hijos, y para que conste lo firmé. Fran.co Vaquero.",
+      "uncertainties": [
+        "Son dos fotografías del mismo asiento. El nombre de la primera mujer Sebastiana Mayordomo, sus cuatro hijos, y el fallecimiento en Zamora identifican al Atilano del árbol; el entierro es el 17 de marzo.",
+        "Su última mujer también se llamaba Sebastiana, pero su apellido no se lee con seguridad. El entierro no fija el día de la muerte."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "atilano-zurdo"
+      ],
+      "applied": [
+        "Entierro el 17-03-1732 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Baltasara Pérez Bartolomé1.JPG",
+          "sha256": "40cf787e3cf198e7c26744d55b76657757c0ee614932f858effbc5422963ca1d",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Baltasara Pérez Bartolomé2.JPG",
+          "sha256": "1847107b37b70124170367d72a477622719f55ddc5cc8e31141163c213d9eaba",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lugar de Peleas de arriba en diez y seis de Octubre de mil setecientos noventa y dos falleció Baltasara Pérez, muger de Gerónimo Calabaza, vecinos de este lugar: recibió los Santos Sacramentos de Penitencia, Eucharistía, y Extremaunción: Otorgó testamento con los requisitos necesarios, por el que ordenó se le haga entierro con asistencia de tres sacerdotes y su Cura párroco, y honras, y cabo de año, tres días de oficio con las ofrendas, y cera de costumbre; y que se ofrende su sepultura diariamente por un año entero, que se digan seis misas por las ánimas, una [ilegible] del tránsito, y otra al Christo del amparo. Quedaron por sus herederos sus quatro hijos, y de dho su marido Pascual, [ilegible], Manuela, y Bernardo, y nombró por su testamentario al referido su marido. En el siguiente día inmediato se dio sepultura a su cadaver en esta parroquial de dicho pueblo, y para que así todo conste lo firmé. Dn Mathías Prieto y Cozará.",
+      "uncertainties": [
+        "Las dos imágenes son la misma partida y nombran a su marido Jerónimo Calabaza, en Peleas. Se expresa muerte el 16 de octubre y entierro al día siguiente. El nombre de un heredero es poco seguro.",
+        "Eusebia, hija ya registrada, no figura entre los cuatro herederos; no se deduce de ello su fallecimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "baltasara-perez"
+      ],
+      "applied": [
+        "Fallecimiento 16-10-1792 y entierro 17-10-1792 en Peleas de Arriba con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Basilisa Sánchez Martín.JPG",
+          "sha256": "a0761420e336f4f954a4237fdacb1572738de66e0ab129e08021a8eea6faacfb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En tres días de el mes de Junio de este presente año de mill setecientos y quarenta y siete murió en este lugar de Roales Basilisa Sanchez viuda vecina de él; recibió los Santos Sacramentos, y otorgó testamento ante mí el infrascripto cura dho día mes y año en el que mandó se le hiciesen los tres oficios acostumbrados de entierro honras y cabo de año y se le dijesen tres misas rezadas una al S.to Christo de Morales, otra a ntra S.ra de la Yniesta y otra a ntra S.ra de Piedra Santa. Dejó por sus testamentarios a Joseph Giron, Joseph Martin y D.n Joseph Villamor todos V.os de este lugar; y se enterró en la Yglesia Parrochial de dho lugar de grada abajo y para que conste lo firmé yo el infrascripto Cura. Joseph Villamor.",
+      "uncertainties": [
+        "Coinciden nombre, fecha, localidad y condición de viuda; el marido no se nombra. Hay entierro en la parroquia sin fecha expresada separadamente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "basilisa-sanchez"
+      ],
+      "applied": [
+        "Transcripción del fallecimiento existente."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Bernardo Rabanal.JPG",
+          "sha256": "4cecbf89379e56c4c6acb18cbdb646c117398223ecf2ed11167d7296b86072b0",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Bernardo Rabanal 2.JPG",
+          "sha256": "857ad0c52fbcfe211eb52e2f2eb3e854229eb1726cf1b242dc3a4b513d713a0a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En la ciudad de Zamora día veinte y siete de Diciembre año de mill ochocientos y seis murió de accidente repentino, y socorrido con el Santo sacramento de Extrema-Unción, Bernardo Rabanal de edad quarenta y ocho poco más o menos, esto es años, natural de Villalpando, y conjunta persona que fue de Vicenta Martínez natural del Arrabal de Sn Lázaro desta misma ciudad, y en el día veinte y ocho de dho mes y año fue sepultado su cadáver en esta Yglesia de Sn Esteban [ilegible], de la que era feligrés; no hizo testamento; certifico, y lo firmé en este día. Lázaro Hospedal.",
+      "uncertainties": [
+        "Ambas fotografías muestran la misma partida; coinciden Vicenta Martínez, la naturaleza de Villalpando y la fecha de fallecimiento. La edad aproximada de 48 difiere de la calculada desde la fecha de nacimiento existente, que se conserva."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bernardo-rabanal-fernandez"
+      ],
+      "applied": [
+        "Transcripción en fallecimiento y entierro; entierro 28-12-1806 en Zamora."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Blas Gonzalo.JPG",
+          "sha256": "e09fbca7e3bc28ed9ce135a95a9609938ec073e8fcafe31836a7bd2b4f12f696",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "Murió Blas Gonzalo vecino deste lugar de Ganame en veinte y seis días del mes de noviembre de dho año de mill setecientos y tres. Hizo testam.to ante mí el cura deste lug.r, tomó por su alma [ilegible] R.s, como consta de su testamento. Con las cláusulas en él expresadas dejó por sus testamentarios a Pablo Benito vecino deste lugar y a Miguel Benito su hermano vecino del lugar de Fresnadillo y para que conste lo firmé. Joseph Rodríguez.",
+      "uncertainties": [
+        "La partida da nombre y localidad, pero no nombra esposa ni hijos que confirmen la identidad. «Su hermano» puede referirse a Pablo Benito."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "blas-gonzalo"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Blas Salvador.JPG",
+          "sha256": "72fab67271d1cf5a83395aceb858f3ac76dbd7fc3578c5174fd2cfe5d2ac8ace",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Blas Salvador 2.JPG",
+          "sha256": "5618a2bae378f59902d1da1f6d1528008b623d634e2206c7a55e9aa5173d26db",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "Murió Blas Salvador vecino deste lug.r en trece días del mes de sept.e deste año de mill setecientos y dos, enterróse en la Yglesia del dho lug.r, tomó por su alma ocho ducados, dejó por testamentarios a Santiago Vega y Juan Crespo Vºs deste lug.r y lo firmé. [ilegible].",
+      "uncertainties": [
+        "Dos tomas del mismo asiento; coinciden nombre y fecha con el árbol, pero no se nombran localidad ni familiares que corroboren la atribución. No se expresa fecha de entierro."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "blas-salvador"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Casilda Hernández Lachón.JPG",
+          "sha256": "3b4f89b55a9dfb7576f7ae01680857fa02e25d69bc6037500f5be2acc91900e5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y seis de Octubre de mil setecientos y ochenta yo el infraescripto Then.te Cura di sepultura eclesiástica junto al Confesionario del Cancel a Casilda Hernandez viuda que quedó de Lorenzo Gutiérrez; no recibió sacramento alguno por no le haver dado lugar el accidente; murió el día veinte y quatro de dho mes, no hizo testamento, hízosele los oficios de entierro, honrras y cabo de año según costumbre; asistieron a ellos tres sacerdotes y yo el Then.te; se le dijeron seis misas rezadas; se le ofrendó según estilo del Lugar; quedaron por herederos Fernando, Juan y Fran.ca Pérez sus hijos, y por verdad lo firmo. Dn Fran.co [ilegible].",
+      "uncertainties": [
+        "La partida dice viuda de Lorenzo Gutiérrez; la candidata conocida fue esposa de Andrés Pérez, fallecido en 1742. Un segundo matrimonio es posible, pero el nombre del hijo Juan no basta para confirmarlo. No se nombra localidad."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "casilda-hernandez"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Cabrero Marqués.JPG",
+          "sha256": "2dbc6fb139e3d84dae29def77ef0ba28e5851be1e88b6c9214f7305b794e7282",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En seis de henero del año del S.or de mil setecientos ochenta y nueve, se dio sepultura en esta Yglesia de grada abajo al cuerpo de Cathalina Cabrero muger de Balthasar Brioso. Murió de dolor de costado a los sesenta y ocho años de su edad habiendo recibido los S.tos Sacram.tos de confesión, comunión y extrema unción; [ilegible] testamento ante Alonso de Luelmo fiel de fechos y escribano de millones de este Pueblo dexando el cargo del funeral a su marido que cumplió exactam.te de que certifico y firmo. D.n Manuel de Luelmo.",
+      "uncertainties": [
+        "El marido Baltasar Brioso distingue a Catalina de otra homónima. El entierro fue el 6 de enero y no se expresa fecha de fallecimiento o localidad en el texto; se conservan las previamente registradas. La edad figura como 68."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-cabrero-marques-brioso"
+      ],
+      "applied": [
+        "Entierro el 06-01-1789 con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Delgado Jurado.JPG",
+          "sha256": "52204b60f8c5c098d239572eab5ff65db029e0a0d0529edc2a1f31abd5e8dd56",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día seis de Febrero deste presente año de mil setecientos y catorce se enterró en esta Ygla Cathalina Delgado muger que fue de Martín García, V.os que fueron deste lugar. Recibió los santos Sacram.tos, hizo testam.to ante Pedro Calabaza Vº deste lugar y en él mandó se la hiciesen los tres oficios de entierro honras y cabo de año y el primer oficio con diáconos, y en todos ardiesen quatro achas y se pusiese una ochaba de trigo de ofrenda y cera menuda a la costumbre, mandó se la ofrendase año y día con vela blanca y que la enterrasen con el hábito de S.n Fran.co y que la dijesen las tres misas de indulgencia y la bula de difuntos, y mandó la dijesen veinticinco misas rezadas en el convento de S.n Fran.co de Zamora y otras cantadas en el de nra S.ra del [ilegible]. Dejó por herederos a sus hijos [ilegible] y Luis García, y nombró por sus testamentarios a [ilegible] su marido Martín García y al [ilegible] su hijo y lo firmé. Manuel Basilio Barba Santos.",
+      "uncertainties": [
+        "El marido Martín García identifica la pareja; el entierro es el día siguiente al fallecimiento registrado. El asiento no da lugar expresamente. Los nombres abreviados de heredero y testamentario requieren revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-delgado"
+      ],
+      "applied": [
+        "Entierro el 06-02-1714 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Gonzalo.JPG",
+          "sha256": "9de905beaa939b09489e5fb352b96e729570c3791063e8fe298b8231b74284e6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En el lugar de Fadón a veinte y nuebe de Agosto del año de mil setecientos y veinte y [ilegible], yo [ilegible] teniente cura de dicho lugar enterré en la parroquial de este lugar [ilegible] a Catalina Gonzalo muger de Juan Estevan. Hizo testamento delante de cinco testigos, que fueron Bartolomé Calvo y Esteban Puente, Bernardo Gago y Francisco [ilegible] y Joseph Vega todos vecinos de dicho lugar de Fadón. Tomó por su ánima cincuenta y cinco reales y medio [ilegible]. Dejó por heredera a su hija Manuela Delgado, dejó por testamentario a su marido Juan Estevan y [ilegible] hermano Domingo Gonzalo [ilegible], y recibió todos los sacramentos de la Yglesia y por ser verdad [ilegible].",
+      "uncertainties": [
+        "El año está corregido o sobrescrito. La esposa de Juan Esteban no coincide con Catalina Gonzalo Barrocal, casada con Bernardo Feltrero y fallecida en 1821."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Jorge Santos.JPG",
+          "sha256": "c4625e01f70140e4cafbc371fcf5578db78b17f3825382bdc7b4a59d1fee9ab2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y nueve de Nov.bre de mil set.s y quarenta y tres Yo D.n Juan Hernández arcipreste y cura propio de este lugar de Villadepera di Sepultura Eclesiástica a Cathalina Jorge viuda de Manuel Martín que murió el día anteced.te aviendo recibido todos los S.tos Sacram.tos con el de la Extrema Unción: hizo su testam.to en seis del mismo Mes ante Manuel Núñez y testigos V.os del referido lugar y mandó por su Alma cinco ducados libres de ofrenda y entierro; y dos misas de devoción una a N.ra S.ra del Rosario y otra a las Ánimas, y a los S.tos [ilegible] y a las obras pías lo acostumbrado, con otros legados a sus hijos que son Joseph, María, Manuel, Theresa y Ana que hubo del dho su marido Manuel Martín a quienes dejó por sus universales herederos, y en fee de ello lo firmé ut supra. Juan Hernández.",
+      "uncertainties": [
+        "Coinciden marido Manuel Martín, hija Theresa y lugar. El asiento fecha entierro el 19 de noviembre y muerte el día anterior; la corrección marginal indica «nuebe»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-jorge"
+      ],
+      "applied": [
+        "Muerte 18-11-1743 y entierro 19-11-1743 en Villadepera."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Marqués Portales.JPG",
+          "sha256": "ea91822ebdce4b5e2725be43686513778be4d5378c145a4b67982052a5c32105",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte siete de Abril de mil setecientos y setenta y cinco murió Cathalina Marques viuda de Manuel Cabrero, se enterró en esta Yglesia de Morales, hizo testamento, dejó a sus hijos herederos y lo firmó. [ilegible].",
+      "uncertainties": [
+        "Coinciden el marido Manuel Cabrero y Morales. El asiento dice 27 de abril de 1775, pero el resumen familiar indica 26 de abril; se mantiene la fecha previa y se registra la discrepancia. No se precisa fecha separada de entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-marques"
+      ],
+      "applied": [
+        "Transcripción del fallecimiento; observación por discrepancia de un día."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Marqués.JPG",
+          "sha256": "b0918a0b4c45b30568f08a57d5a1c801662e7dcc2890d2a4107d89926a86adf8",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Catalina Marqués copy.JPG",
+          "sha256": "6aef51df0809671aa97bcc45b4bb3158d53cee24ac65ac95fa2fe7ea711cac89",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y cinco del corriente murió Cathalina Marques muger de Pedro Díez; recibió los santos sacramentos, [ilegible] entierro, onrras y cabo de año.",
+      "uncertainties": [
+        "Ambos archivos muestran el mismo asiento; la esposa de Pedro Díez coincide con el árbol. El día es 25 del mes corriente; mes y año no aparecen completos en el asiento. Se conserva la fecha registrada anteriormente sin atribuirla íntegramente a la fotografía."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-marques-madre-de-catalina-diez"
+      ],
+      "applied": [
+        "Transcripción del fallecimiento existente."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Matos Ruiz.JPG",
+          "sha256": "760baddbfd50944ff4511838ea3ec69ac11e236c1245154603822eb714e4976d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y nueve de febrero de mil ochocientos treinta y dos yo el infrascrito párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Catalina Matos, viuda de Juan Pérez, natural de Villanueva de Campeán y vecina de este de Peleas, la que murió en el día diez y siete de dho mes de edad de noventa años poco más o menos. [ilegible] no recibió el Viático por no poder y sí el sacramento de la Extrema Unción [ilegible]. Hizo testamento con anticipación en el que dispuso se dijesen [ilegible] dejó cinco hijos que son María, Teresa, Manuel, Isidro y Andrés Pérez y para que conste firmo en dho lugar dho día, mes y año. [ilegible].",
+      "uncertainties": [
+        "Concuerdan marido Juan Pérez, hija María y naturaleza de Villanueva de Campeán; falleció el 17 y fue enterrada el 19 de febrero. Algunas cláusulas del testamento quedan por revisar."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-matos"
+      ],
+      "applied": [
+        "Fallecimiento 17-02-1832 y entierro 19-02-1832 en Peleas de Arriba."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Maíllo.JPG",
+          "sha256": "65a0a5d4bfc0a1ed8201c80d5a06674b69087f4b02eb6fc92168c3a54fdf6703",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día catorze de Enero deste pres.te año de mill setecientos y diez murió Domingo Maíllo Vº deste lugar y marido que fue de Ana Elvira de Herrera, recibió todos los Sanctos Sacramentos y el día quinze de dho mes se enterró en esta Yglª. Hizo testam.to ante Andrés Moreno Vº deste lugar mandó se le hiziesen los tres oficios de entierro honrras y cabo de año y se le ofrendase año y día; dejó por sus herederos a sus hijos [ilegible] María Antª y Theresa Maíllo y por testamentarios a [ilegible] y lo firmé. Manuel Basilio Barba Santos.",
+      "uncertainties": [
+        "Coinciden su esposa Ana Elvira de Herrera y la fecha de muerte ya registrada; el asiento da el entierro del día siguiente sin nombrar localidad. La lista de herederos necesita revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-maillo"
+      ],
+      "applied": [
+        "Transcripción de muerte y entierro; entierro 15-01-1710."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Gaitán Hernández1.JPG",
+          "sha256": "b8d93480da50bfa5fbf906eb0f58d5b72f063ac7b544ad7c28e188f8f85b1e31",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Domingo Gaitán Hernández2.JPG",
+          "sha256": "35db78b3cfc796136048aef86107466cfe64707fb9ce8cf93fe70a60653bcff7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día veinticinco de Abril deste pres.te año de mill setecientos y doze se enterró en esta Yglª en la tercera sepultura del lado de la Epístola de la primera fila como entramos de la Capilla mayor, Domingo Gaitán, marido que fue de Theresa Delgado Vºs que fueron deste lugar. Hizo testamento ante [ilegible] Vº deste lugar y en él mandó se le hiziesen los tres oficios de entierro, honrras y cabo de año con asistencia de dos sacerdotes [ilegible]. [ilegible] Dejó por sus herederos a Luis y [ilegible] y sus nietos [ilegible] y por testamentarios al dicho Luis Gaitán y [ilegible] y lo firmé. Manuel Basilio Barba Santos.",
+      "uncertainties": [
+        "Dos fotografías de un asiento. Coincide su mujer Teresa Delgado, y el entierro fue al día siguiente de la muerte registrada. No se nombra localidad. Las cláusulas sobre herederos necesitan revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-gaitan"
+      ],
+      "applied": [
+        "Entierro 25-04-1712 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Emerenciana Garzón.JPG",
+          "sha256": "7159f1e025f983073c2006f4e50830801d883245666bb64e64e095ae0f579f14",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte de Otubre enterré a Emerenciana Garzón muger de Juº Perez, Vºs deste lug.r. [ilegible] los Santos Sacramentos, no hizo testamento y por verdad lo firmé. Manuel Moreno.",
+      "uncertainties": [
+        "Coincide el nombre de la pareja Juan Pérez y Emerenciana Garzón; no se muestra el año ni se nombra la localidad. La anotación marginal requiere lectura adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "emerenciana-garzon"
+      ],
+      "applied": [
+        "Entierro el 20 de octubre sin año con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Emerenciana Martín Asensio.JPG",
+          "sha256": "ea1ac678a78a896290510f71dd8df2ff52d99059707fd142ff371e857f18e315",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Emerenciana Martín Asensio2.JPG",
+          "sha256": "42add939b4ec198cec96e062c6e1927783f58cffb411548ea0c4cd5fb3e70283",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día onze de julio de dho año de mil setecientos y veinte y dos se enterró en esta Ygla de Casaseca las Chanas Merenciana Martín muger que fue de Juan Martínez, V.os que fueron deste dho lug.r. Recivió todos los S.tos Sacram.tos, hizo testam.to (aunque por ausencia según se dijo, del escribano deste lug.r) ante Fran.co, digo ante Andrés Moreno Vº del [ilegible], y en él mandó se le hiciesen los tres oficios de entierro honras y cabo de año con la asistencia de Diáconos a todos tres oficios, que se le ofrendase año y día a la costumbre deste lug.r, que se enterrase con el hábito de Ntro P.e S.n Fran.co, que se le tomase bula de difuntos [ilegible], y se pagasen las limosnas acostumbradas a las obras pías [ilegible], que se le dijesen tres misas de indulgencia [ilegible]. Dejó por herederos a sus hijos, y por testamentarios a dho su marido y a [ilegible] García Vº deste dho lug.r y para que conste lo firmé yo el infrascripto cura propio [ilegible].",
+      "uncertainties": [
+        "Dos fotos de un asiento; coinciden marido Juan Martínez, localidad y entierro posterior al fallecimiento registrado. Se mantiene el lapsus «ante Fran.co, digo ante Andrés»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "emerenciana-martin-madre-de-maria-martinez"
+      ],
+      "applied": [
+        "Entierro 11-07-1722 en Casaseca de las Chanas."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Diego Arroyo.JPG",
+          "sha256": "dcfe2893d8d64a7139521351e2c1eaded3c9c9abb44d652a70afecc7992e06d1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y siete días del mes de Agosto de mil setecientos y quarenta y dos años se enterró en esta Yglesia Diego de Arroyo. Murió el día veinte y seis de dicho mes. Recivió todos los Santos Sacramentos de penitencia, eucharistía y extremaunción. Hizo testamento ante Joseph [ilegible] en seis de Agosto de mil setecientos y treinta y seis. Tomó por su alma ochocientos rs. Hiciéronsele entierro, onrras y cabo de año y novenario rezado, y para que conste lo firmé. Dn Anttº Cabrera.",
+      "uncertainties": [
+        "Nombre compatible con el marido de María Madrid, pero la partida no nombra familiares, naturaleza ni localidad que acrediten la identidad."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "diego-de-arroyo"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Fierro1.JPG",
+          "sha256": "036a7eef56744d21fdc6f176ab18207ea2290283f334d5db8a0fcda46233efa1",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Domingo Fierro2.JPG",
+          "sha256": "372c232bc8967bb65af21cde0cc2b453d0c50d20778705e3454d10961d07be10",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En el Lugar de Gáname a veinte [ilegible] de [ilegible] de mil setecientos cinquenta y quatro, yo el infrascripto cura propio de él enterré (arriba) a Domingo Fierro, viudo de [ilegible], vecino de este. Recibió los S.tos Sacramentos [ilegible]. [ilegible] Joseph Fierro [ilegible] como tales herederos de los bienes que dejó el dho Domingo Fierro [ilegible] y para que conste lo firmo [ilegible].",
+      "uncertainties": [
+        "Dos partes de un asiento borroso. El nombre de la mujer y las relaciones de los herederos no permiten una identificación segura; el día y mes requieren revisión."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "domingo-fierro"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisca Franco.JPG",
+          "sha256": "21e34f82f711605fec7bb40fc87cb3f26ebec0ed15992dbb2300ff90bc6e5eb0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En [ilegible] de Noviembre año de mil setecientos y veinte y nueve aviendo recibido los santos sacramentos se enterró en esta Yglesia Francisca Franco muger que fue de Agustín Valladolid difunto. Hizo testamento ante Atilano Alonso Vº deste lugar en el qual mandó [ilegible] enterrarse en esta Yglesia y con el hábito de [ilegible] que a su entierro y oficios ardiesen quatro achas y la cera menuda necesaria y que a ellos asistiese el cura de lugar [ilegible] y que se le tome Bulla de difuntos [ilegible]. [ilegible] y para que conste lo firmo en dicho día mes y año. Andrés Sánchez.",
+      "uncertainties": [
+        "Su marido difunto Agustín Valladolid identifica a Francisca. El día del entierro está sobrescrito o borroso; el mes y año son legibles. Se mantiene el fallecimiento previo del 12 de noviembre sin deducir su día de entierro. El testamento largo queda parcialmente transcrito."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-franco"
+      ],
+      "applied": [
+        "Entierro en noviembre de 1729 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisca Salvador Sastre.JPG",
+          "sha256": "8e1d60e658d12689673517f3daa3a5fb22f366a2778940d346e5ab8b490f7aab",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día veinte y siete de Enero del año de mill setecientos y catorze murió sin poder recibir más sacramento que el de la Extrema Unción Francisca Salvador lex.ma mujer de Manuel Burrieça, a quien le dejó una niña llamada Francisca hija lex.ma de este matrimonio. No pudo hacer testamento y su marido [ilegible] por su Alma diez ducados de los quales salió el funeral acostumbrado. Enterrose junto a la Puerta del Sol en la sepultura de sus padres en la Ygla de este lugar y por verdad lo firmé. [ilegible].",
+      "uncertainties": [
+        "Coinciden su esposo Manuel Burrieza y el día de fallecimiento. La partida menciona su entierro sin fecha separada ni localidad expresa. La hija Francisca no se fusiona con otra persona sin cotejo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-salvador"
+      ],
+      "applied": [
+        "Transcripción del fallecimiento y del entierro sin fecha separada."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Emerenciana Diego1.JPG",
+          "sha256": "9e28182b82bafc990a3a451512725d8577ab507ae92ffe62b4a28f69c8c62176",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Emerenciana Diego2.JPG",
+          "sha256": "278d7711d0ab6f4d35517ba3ed6f4ed1778cb90a2d79195f20c31d43f4f27768",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Emerenciana Diego 3.JPG",
+          "sha256": "ff4acf65d70c5252a9c0fe6bda6de3f58d6edada5aadc3dc8997f07db8874094",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Emerenciana Diego 4.JPG",
+          "sha256": "f662b87d9c027d3b61c012eb3b65ebe10012429a65c023ea4ffa4791ff8db352",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el Lug.r de Ganame a quinze días del mes de Noviembre de mil setecientos y veinte i un años yo Fran.co Baquero cura propio del enterré en su Yg.la parroquial de medio abajo a Emerenciana Diego vecina del, viuda de Blas Gonzalo, vecino que fue del, aviendo recibido los S.tos Sacram.tos con el de la Extrema unción. Avía hecho su testam.to ante Santiago Vega y testigos vecinos de este en uno de Sep.e de mil setecientos y quinze, en que tomó por su alma veinte ducados de que saliese el funeral, y una misa cantada a nra S.ra del Raio, otra cantada al S.to Xpto, otra rezada a nra S.ra del Rosario, y otra a S.n Antonio, dos R.s a S.ta Bárbara y dos a S.ta Cruz, y mandó veinte R.s a las ánimas, una misa rezada a S.n Miguel [ilegible]. [ilegible] Dejó por sus herederos a sus hijos legítimos y del matrimonio con el dho Manuel, Miguel, Catharina, Juan, [ilegible] y María Gonzalo, y por testamentarios a Roque Diego y [ilegible], vecinos de este lug.r [ilegible], y para que conste lo firmé. Fran.co Baquero.",
+      "uncertainties": [
+        "Cuatro fotografías en dos pares superpuestos de una sola partida. La viuda de Blas Gonzalo y su hijo Juan identifican a Emerenciana. No se expresa el día de fallecimiento. La lista de herederos y algunas cláusulas requieren revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "emerenciana-diego"
+      ],
+      "applied": [
+        "Entierro 15-11-1721 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Engracia Galán Pérez1.JPG",
+          "sha256": "75ec069ac6ca72d981af873d1f8c0a6830277fae552f6280d3329ddf87b35132",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Engracia Galán Pérez2.JPG",
+          "sha256": "d117023100acb4f6d678aa2573c9e199bcb5467310dbc257d48546dc8ea38b87",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En la Yglesia Parroquial de ntra. Señora de la Asunción, única del lugar de Peleas de arriba, en treinta y uno de enero de mil ochocientos y dos fue sepultado el cadáver de Engracia Galán, mujer de Atilano Carretero, vecinos de este pueblo, digo falleció en dicho día y fue sepultado en el siguiente primero de febrero, después de recibidos los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción, y otorgado testamento por el qual dexó mandado se le hiciese entierro con dos asistentes y los oficios de costumbre, y que se celebrasen por su alma y las de sus obligaciones diez y nueve misas [ilegible] y que se pusiesen luces y ofrendas sobre su sepultura por el tiempo de dos años. Instituyó por sus herederos a sus tres hijos Matheo Carretero, Fran.co Carretero y Theresa Carretero, y después de varias mandas a algunos de estos y nietos, nombró por su albacea y testamentario a su hijo Matheo Carretero y para que conste lo firmo yo el párroco de esta Yglesia. Liz.do D.n Fran.co Gonzalez Ramos.",
+      "uncertainties": [
+        "Dos imágenes de un asiento. Coinciden marido Atilano Carretero, hijos y localidad. El cura corrige «fue sepultado» por «digo falleció» y fecha entierro el primero de febrero."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "engracia-galan"
+      ],
+      "applied": [
+        "Fallecimiento 31-01-1802 y entierro 01-02-1802 con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Esteban Carretero Arias.JPG",
+          "sha256": "b0358bb0342a53cead6ef9da3cc491b8cfaafe1fa2f1d9dde8044e99bb75228e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En diez y ocho de marzo del año de mill setecientos setenta y ocho, yo el infraescripto Religioso de S.n Bernardo del monasterio de Balparaiso, con comisión [ilegible] por enfermedad del S.r Cura de Fuentes el Carnero y su anejo Peleas de Arriba, di sepultura eclesiástica en dho lugar de Peleas a Estevan Carretero pobre de solemnidad y vecino que fue de dho lugar. Recibió los S.tos Sacram.tos de penitencia, viático y extrema unción; no hizo testam.to por ser pobre y no tener de qué, y para que conste lo firmé en dho día mes y año ut supra. [ilegible].",
+      "uncertainties": [
+        "El nombre y localidad son compatibles, pero la partida no nombra cónyuge, descendientes ni origen para distinguirlo; no se infiere fecha de fallecimiento."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "esteban-carretero"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Esteban Martín Marqués.JPG",
+          "sha256": "a3ffa89aea3603cdc90cb93cb71c344ee3d9e8e066db7662c899b1235aa7f260",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el día seis del mes de Mayo del año de mil ochocientos y tres se enterró en la Parrochial de este lugar de Morales el cadáver de Esteban Martín que murió en el día antecedente marido de María Marqués naturales y vecinos de este mismo lugar: hizo ante testimonio digo testamento: recibió los sacramentos de la Penitencia, viático y unción: se le hizo entierro, oficios y novenario y en fe de ello como Parrocho lo certifico y firmo ut supra. Jose Maria Barba.",
+      "uncertainties": [
+        "Coinciden la esposa María Marqués, localidad y fecha de fallecimiento; se explicita entierro al día siguiente. Se conserva la corrección «ante testimonio digo testamento»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "esteban-martin"
+      ],
+      "applied": [
+        "Transcripción de muerte y entierro; entierro 06-05-1803."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Fernando Galán.JPG",
+          "sha256": "1b224db75521ad56753d4bceac2866d531d4f2b0f65f34180aa996a2d97c72f2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y dos de Abril de mil setecientos y quarenta y nuebe yo el infra escrito cura propio de esta parroquial del lugar de Peleas de Arriba anejo de Fuente el Carnero di sepultura eclesiástica en ella a Fernando Galán viudo de Fran.ca Pérez mis feligreses y vecinos del referido de Peleas; fue socorrido con los S.tos Sacram.tos de confesión, viático y extremaunción, dio poder para testar a Juan Matos y manda para bien de su alma los derechos parroquiales y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "Su esposa Francisca Pérez y la localidad coinciden; la partida no da fecha de fallecimiento. Se mantiene la discrepancia previa del nombre de la contrayente del matrimonio de 1722."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "fernando-galan"
+      ],
+      "applied": [
+        "Entierro 22-04-1749 en Peleas de Arriba."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Bragado Rivero.JPG",
+          "sha256": "78d1e0abb9e4d25b758a023aa6637756b4ed3f98b949c4c4bd4db0bb60d3463c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En la Yglesia Parroquial del lugar de Peleas de Arriba en [ilegible] de setiembre de mil y ochocientos fue sepultado el cadáver de Fran.co Bragado viudo de Ángela Macías y vecino del dicho lugar en donde falleció en el día próximo antecedente habiendo recibido los santos sacramentos de Penitencia y Eucharistía [ilegible]. Otorgó testamento por el que ordenaba se enterrase su cadáver en esta dicha parroquial [ilegible]; dejó por sus herederos a sus hijos Pedro, Josefa, Manuel, Rosa, Balthasar, Ysabel y Ángela [ilegible] y para que conste firmé yo el infrascrito Teniente cura de la referida parroquial. Fr. Anselmo Díaz.",
+      "uncertainties": [
+        "Coinciden esposa Ángela Macías, hija Ángela y localidad. El número del día del entierro queda oculto en el pliegue; la muerte ocurrió el día anterior, por lo que no se fija día ni mes de fallecimiento. Las cláusulas del testamento precisan revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-bragado"
+      ],
+      "applied": [
+        "Fallecimiento en 1800 y entierro en septiembre de 1800 con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisca Carbajal.JPG",
+          "sha256": "76b9cdf1cd57ec41df486f05159944f3adfa0cdca199cb6100e898eddb60bde0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En uno de [ilegible] de mil setecientos cinquenta y uno fue sepultada en la parroquial de este lugar de Casaseca las Chanas Fran.ca Carbajal muger de Santiago Valladolid Vº de él, recibió los Santos Sacram.tos, otorgó su testamento ante Fran.co Esteban, en el dispuso [ilegible], se la enterrase con el hábito de N.P.S. Fran.co [ilegible], que se le dixesen las tres misas [ilegible] y cabo de año, asimismo mandó al Cura de este lugar [ilegible] mandó se le dijesen dos misas a [ilegible], una a S.n Roque, dos a S.n Antonio de Padua [ilegible]. Dejó por sus albaceas a su marido Santiago Valladolid y a [ilegible] y para que conste lo firmo en este lugar dho día mes y año. D.n Bart.me Diez.",
+      "uncertainties": [
+        "La partida nombra a su marido Santiago Valladolid y Casaseca; el mes parece «8bre», pero la lectura no es suficientemente segura. La fecha es de entierro y no se infiere fallecimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-carbajal"
+      ],
+      "applied": [
+        "Entierro el día 1 de un mes no precisado de 1751 en Casaseca."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisca Pérez Bailón.JPG",
+          "sha256": "185542c51016e421e4ccdd574bf075f95d2f77422255fa4337073c8a0872b3e7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y quatro de Marzo de mill setecientos y quarenta y nuebe yo el infra escrito Cura propio de esta parroquial de Peleas de Arriba di sepultura eclesiástica acia el pilar de la pila del bautismo a Francisca Pérez conjunta persona de Fernando Galán mis feligreses, aviendo recibido el Santo Sacramento de la Extremaunción, no pudo confesarse por lo gravoso de su enfermedad, dio poder a su marido para testar, y manda para bien de su alma los derechos parroquiales, son pobres y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "La mujer de Fernando Galán en Peleas coincide con Francisca Pérez, madre registrada de Engracia. El asiento expresa entierro, no fecha de fallecimiento. Se mantiene sin resolver el nombre Isabel en el matrimonio de 1722."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-perez"
+      ],
+      "applied": [
+        "Entierro 24-03-1749 en Peleas de Arriba con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Hernásndez Nieto.JPG",
+          "sha256": "ff1c160b1df91768387b94b5361fa4ad16ec0aeece474bb77273e1ae9e3719de",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En cinco de abril de mil setecientos quarenta y siete años fue sepultado con el hábito de n.P.S. Fran.co en la Yglesia parroquial deste lugar de Casaseca de las Chanas Fran.co Hernandez Vº que fue de él y viudo de Theresa Gaytán. Recibió los S.tos Sacram.tos, otorgó su testamento ante Fran.co Esteban de la misma vecindad y en él dispuso se le dijesen las tres misas de indulgencia, otra a S.n Antonio de Padua y otra a Ntra S.ra del Viso, mandó se le ofrendase un año según costumbre, se le hicieron los tres oficios de entierro y honrras [ilegible] con las dos achas que mandó; nombró por su albacea a Fran.co Alonso Esteban y [ilegible] y para que conste lo firmo yo el infrascripto cura propio deste lugar de las Chanas, dho día mes y año. D.n Thomas [ilegible].",
+      "uncertainties": [
+        "La partida nombra a su esposa Teresa Gaitán, la localidad y el entierro el día siguiente al fallecimiento registrado. El nombre del archivo contiene una errata que se conserva."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-hernandez"
+      ],
+      "applied": [
+        "Entierro 05-04-1747 en Casaseca de las Chanas."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Carbajal1.JPG",
+          "sha256": "238611c29b812a26d1d11350a7c0704cab3601f89a76eeb8cfa2522865d4df71",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco Carbajal2.JPG",
+          "sha256": "dc08d3112770bacdbdd841c81173c14eefaaecaae0f9ac67c4989dc156c2356a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día siete de Maio deste pres.te año de mil sete.s y catorce se enterró en esta Ygl.ª en su sepultura dotada que es la quarta sepultura comenzando desde el lado del evangelio de la fila arrimada al presbiterio Fran.co Carvajal marido q.e fue de Josefa Delgado, Vºs q.e fueron deste lugar. Hizo testam.to ante Andrés Moreno Vº deste lugar y mandó se le hiciesen los tres oficios de entierro, honrras y cabo de año con asistencia de dos sacerdotes y una fanega de trigo en cada oficio de ofrenda, y ardiesen quatro achas y la cera menuda la que se acostumbra, item un novenario cantado con vigilias y se ofrendase su sepultura año y día a la costumbre [ilegible]. [ilegible] en el monasterio de Valparaiso, y las tres misas de indulgencia, y la bula de difuntos, y nombró por sus testamentarios a sus yernos [ilegible] y a Jeronimo [ilegible], y por sus herederos a sus hijos Inés, Cathª, Paula, Fran.ca y Fran.co Carbajal y lo firmé. Manuel Basilio Barba Santos.",
+      "uncertainties": [
+        "Dos partes de un asiento. Su mujer Josefa Delgado coincide con la ficha; la fecha es de entierro, al día siguiente de la muerte ya registrada. El lugar no se nombra."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-carbajal"
+      ],
+      "applied": [
+        "Entierro el 07-05-1714 con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Carretero Galán.JPG",
+          "sha256": "0ccc2ce792043d952d075eb17d2fded9bab2274f8ad96cdeb6abf479511cbb13",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y nueve de Mayo de mil ochocientos treinta y seis yo el infrascrito cura Párroco de este lugar de Peleas de Arriba di sepultura eclesiástica al cadáver de Fran.co Carretero, marido que era de María Pérez, naturales y vecinos de este lugar, el que murió en el día anterior de edad de setenta y siete años de un síncope que le privó de sus sentidos, por cuyo motivo no recibió más sacramentos que el de la Extrema-Unción, habiéndosele aplicado antes la absolución bajo de condición; dejó hecho testamento habiendo dispuesto que se celebrasen tres misas votivas, una a nuestra S.ra del Consuelo, otra a nuestra S.ra de la Cuesta, otra al S.to Ángel de la Guarda, y además que se dijesen otras diez por bien de su alma; dejó cuatro hijos que son Andrés, Atilano, Pascual y Beatriz Carretero, y para que conste lo firmo en dho lugar dho día, mes y año. [ilegible].",
+      "uncertainties": [
+        "Coinciden su mujer María Pérez, el hijo Andrés y la localidad. La edad de 77 años difiere de la calculada con el nacimiento de 1760; se conserva el dato previo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-carretero-galan"
+      ],
+      "applied": [
+        "Muerte 18-05-1836 y entierro 19-05-1836 en Peleas de Arriba."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Mena Román.JPG",
+          "sha256": "cfa3ffacd517ac5344f8d41211878eadfd6233cd046d279ee1ccfa67444cd80a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el día veinte y nueve de Marzo del año de mil ochocientos treinta y uno se enterró en la Parroquial de este lugar de Morales el cadáver de Fran.co Mena que murió el día anterior habiendo recibido los sacramentos de penitencia, viático y extremaunción, de edad de sesenta y ocho años poco más o menos, marido de Fran.ca Martín, se le aplicaron las indulgencias pro articulo mortis, testó, dejó los hijos siguientes Vicente, Andrés, María, José, Tomás y Alonso, se le hizo entierro con misa y oficio, y en fe de ello lo firmo ut supra. Agustín de la Calle Marqués.",
+      "uncertainties": [
+        "Coinciden la esposa Francisca Martín, el hijo Tomás y la fecha y lugar del fallecimiento. Los 68 años aproximados difieren de los 66 calculados desde el nacimiento conservado."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-mena-roman"
+      ],
+      "applied": [
+        "Transcripción en muerte y entierro; entierro 29-03-1831."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Mena Miguel.JPG",
+          "sha256": "4f631cd8f34797ed3e6f1f1f45c4bff838eb7b9fc73a40c4782323bc0e5e50bd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En el día veinte y cinco de Junio de mil setecientos noventa y dos Yo el Infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales di sepultura eclesiástica en ella al cadáver de Fran.co de Mena natural que fue de este lugar hijo legítimo de Alonso de Mena y de Ana Miguel también de Morales; recibió los santos sacramentos de la penitencia, viático y extrema unción, hizo testamento, se le hizo entierro oficios y novenario y en fe de ello lo certifico y firmo ut supra. Jose María Barba. Tiene cumplido el testam.to. Barba.",
+      "uncertainties": [
+        "Coinciden padre Alonso, lugar y proximidad al fallecimiento existente; el asiento llama Ana Miguel a la madre, mientras el árbol indica Juana Miguel. Se deja pendiente la atribución sin cambiar la filiación."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "francisco-de-mena"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Prada.JPG",
+          "sha256": "515d1908dd68019eeec67c0bf9b71554e3831675be0e8b4e91e0a4fd15cd4004",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En quatro días del mes Marzo de mil s.tos y treinta y nuebe se enterró en esta Yglesia Fran.co de Prada, haviendo muerto de su muerte natural no recibió más sacramento que el de la Extremaunción. Dio poder para hazer su testamento ante Diego Cabrero fiel de fechos deste lugar de Morales y tomó por su alma setecientos rs de vellón. Hiciéronsele entierro, onras y cabo de año y novenario cantado y para que conste lo firmé. Dn Anttº Cabrero.",
+      "uncertainties": [
+        "El nombre, lugar y entierro un día después de la muerte existente son compatibles, pero el asiento no nombra familiares ni naturaleza para distinguir un homónimo."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "francisco-de-prada"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Zamora Díez1.JPG",
+          "sha256": "6bdb3247e7d2b67867dcbe7c6810580f30fd40b130ff06fe48ee6105e494ee1c",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco de Zamora Díez2.JPG",
+          "sha256": "5cd5ab87b81bef9f1bb95ccc812ba9fa8527ce36fd5e316ab8f1da7443365af2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En tres días del Mes de Diz.re de Mill Setec.s y veinte y tres D.n Fran.co de Zamora, Marido de D.ª Margarita de Luelmo, Vecino deste Lugar, y Parrochiano desta Yglesia; haviendo Confesado y Recivido el S.mo Sacram.to de la Eucharistía por mí el infra escripto Cura, y el de la S.da Extremaunción por mi Then.te, falleció. Hizo Testam.to ante Gerónimo de Torres Es.no de Zamora en tres de Ag.to de Mill Setec.s y diez y siete, en el qual dispone se entierre en la sepultura que tiene en esta Parrochial en la Capilla Mayor; lo que executé en quatro de dho mes. [ilegible] Dejó por testamentarios a [ilegible] D.ª Margarita de Luelmo su muger y a D.n Luis de Mançana [ilegible], su entenado; y por herederos a D.ª Luisa y D.ª Isabel de Zamora sus hijas y lo firmé. D.n Diego de la Calle.\n\nCláusula de su testamento. Que sea sepultado con ataúd y hábito [ilegible]; que se le hagan los tres oficios mayores por su alma con asistencia de doce sacerdotes. Ardan en ellos doce hachas. Novenario de misas cantado, diez y ocho misas [ilegible], dos misas en el altar de N.ª S.ª del Viso [ilegible]. Ofrenda a los tres oficios media carga de trigo. [ilegible] Tres cargas de trigo a los pobres de este lug.r. [ilegible].",
+      "uncertainties": [
+        "Dos fotos de un asiento. Coinciden la esposa Margarita de Luelmo y su hija Luisa. El apellido Díez del archivo no se ve en la partida.",
+        "El texto expresa fallecimiento el 03-12-1723 y entierro el día 4, mientras la fecha de fallecimiento previa es el día 2; se conserva y anota el contraste. La localidad no se nombra expresamente. El testamento requiere una lectura adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-zamora"
+      ],
+      "applied": [
+        "Transcripción de muerte y entierro; entierro 04-12-1723; observación por discrepancia."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco González.JPG",
+          "sha256": "1df299db0ef241dbefa12b7e53f6b22c3828040ab6a2f4569508ea446e814a19",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "El día veinte y seis de Marzo del año de mil setecientos y veinte y cinco se enterró en esta Yglesia de Cas.ca las chan.s, en la sepultura quinta de la primera fila que viene desde el altar de nra señora de Merced, a Fran.co González Vº que fue deste dho lug.r, marido de María Linares difunta su segunda mujer que fue, y haviendolo sido primero de Isabel Bara, no recibió Sacram.to alguno por haver muerto de repente. Tenía hecho testam.to ante Bern.do Alonso Scrivano Vº deste dho lug.r, en el que deja mandado que le enterrasen con el havito de S.n Fran.co, que le hiziesen los tres oficios acostumbrados con asistencia de Diáconos, y que a todos los oficios le pusiesen seis achas y la zera menuda que se acostumbra, y que se le ofrendase año y día su sepultura, y a los días festivos con vela blanca, que le dijesen las tres misas de indulg.a, que le traxesen bula de difuntos, y que a las obras pías se pagase lo acostumbrado, y que para todos dhos gastos señala quinientos y quarenta reales de vellón, y que si de dha cant.d sobrase alguna, manda que el Cura que es o fuere deste lug.r lo distribuya a su arbitrio en hacer bien a su ánima; deja por su universal heredera a Fran.ca González su hija legítima de la referida Isabel Bara su primera mujer Vª deste lug.r, y por testamentario a su yerno Juan Martín Vº deste dho lug.r, y para que conste lo firmé yo el infrascripto Cura propio [ilegible]. Franco de Quintas.",
+      "uncertainties": [
+        "La partida distingue sus dos esposas, Isabel Bara y María Linares, y nombra a su hija Francisca y a su yerno Juan Martín, coincidentes con el árbol. Fecha entierro, no día de muerte."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-gonzalez"
+      ],
+      "applied": [
+        "Entierro 26-03-1725 y segunda esposa María Linares sin fecha de matrimonio."
+      ],
+      "destination": "Tatarabuelos sextos"
     }
   ]
 }
