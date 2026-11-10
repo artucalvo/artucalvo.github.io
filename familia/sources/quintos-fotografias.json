@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos quintos — fotografías de partidas",
+  "reviewedOn": "2026-11-10",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Francisca Pérez Bailón1.JPG",
+          "sha256": "a8c1d1663d814d558441559f64d6393488eed0fbb0c96023791b30200c88b20a",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Francisca Pérez Bailón2.JPG",
+          "sha256": "e8425993e11fdfb04a273f7ec8ebda02e3f731abf5cf00846b254a14d0c834c1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1701-04-17",
+      "place": "Peleas de Arriba",
+      "transcription": "Francisca.\n\nEn diez y siete de abril de setecientos y uno yo el Ldo Franco Rz cura theniente deste lugr bauticé y puse los santos olios a Franca yja de Santiago Pérez y de su muger Ysabel Bailona. Fueron padrinos Franco Bailón su abuelo y madrina Cecilia Bailón su tía. Testigos Pº Gutiérrez y Migel Mata y nació a siete de dicho mes y lo firmé dicho día. Ldo Franco Rodríguez.",
+      "uncertainties": [
+        "El asiento empieza al pie de una imagen y termina en la cabecera de la otra. La partida dice que nació el 7 de abril; el 17-04-1701 que el árbol daba como nacimiento es el bautismo.",
+        "La segunda imagen contiene además el bautismo, el 22 de mayo de 1701, de Francisca, hija de Andrés Galán y María Mateo, nacida el día 11: hermana de Fernando Galán."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-perez"
+      ],
+      "applied": [
+        "Nacimiento corregido de 17-04-1701 a 07-04-1701; bautismo el 17-04-1701 en Peleas de Arriba con transcripción."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Miguel Rodríguez Méndez.JPG",
+          "sha256": "9d509402793cf6e3ed2852608d6cf224dd984a53d9c4e41ae9007ff05abd0b48",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-10-13",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Miguel Rodríguez.\n\nEl día treze de Octubre de dho año de mil setezs y veinte y seis se enterró en la quarta sepoltura de la terzer ilera que está antes de entrar en la Capilla mayr y correspondiente a el lado del Evangelio a Miguel Rodríguez marido que fue de Ana Alonso, vzs que fue, i es, deste lugr de Cassca de las Chans. Rezivió los Stos Sacramtos, hizo testamento ante Juan Mayllo, i en él mandó enterrarse en esta Ygla con el hávito de Ntro P. S. Franco, i que se le hagan los tres ofizios de entierro, honrras y cavo de año i con la ofrda que es costumbre i zera nezesaria, que se le diga una misa en el Xpto de Morales y otra en ntra Sra del Viso, que le traigan Bula de difuntos, que se le digan las tres misas de indulxa, que a las obras pías se les pague lo acostumbrado. Dexa por testamentarios a Alonso Manso y Andrés Manso vzs deste lugr y por heres a tres hijos que al preste tiene y pa que conste lo firmé ut supra. Franco de Quintas.\n\nHiziéronsele los ofizios a Miguel Rodríguez.",
+      "uncertainties": [
+        "Su mujer, Ana Alonso, vivía todavía («vecinos que fue, y es»); fue enterrada dieciséis días después. El fallecimiento del árbol es el día anterior, 12-10-1726."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "miguel-rodriguez"
+      ],
+      "applied": [
+        "Entierro el 13-10-1726 en Casaseca de las Chanas con transcripción."
+      ]
+    }
+  ]
+}

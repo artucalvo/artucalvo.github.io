@@ -262,6 +262,2789 @@
       ],
       "status": "provisional; sin enlace al árbol",
       "candidatePersonId": "felipe-moreno"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Alonso Izquierdo.JPG",
+          "sha256": "bc6ab59db3d73267cb4225788b4f5a2c86fcca244c603c1cea36fc4d46dd2d91",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1715-11-16",
+      "place": "El Cubo del Vino",
+      "transcription": "Alonso. Pobre de solemnidad.\n\nEn diez y seis de Nobiembre de mill setecientos y quince falleció Alonso Izquierdo marido de Ana Cazana vecinos de esta Villa del Cubo. Fue sepultado arrimado a la peana de el altar de Nuestra Señora la Antigua. Fue también socorrido de los Sanctos Sacramentos de la penitencia y eucharistía; para la Sancta Unción no hubo lugar. Era pobre de solemnidad y por ser verdad lo firmé en dha villa dho día mes y año yo el cura. Dn Joan Zid.",
+      "uncertainties": [
+        "Homónimo del antepasado: este Alonso Izquierdo murió en 1715 y estaba casado con Ana Cazana; el padre de Miguel Izquierdo Hernández murió el 6 de febrero de 1694 (imagen «Alonso Izquierdo2»). No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "alonso-izquierdo"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Alonso Izquierdo2.JPG",
+          "sha256": "09972704fb80e0eb8eb61217215d9b7cb669af1de3716877af8d3d722077b095",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1694-02-06",
+      "place": "El Cubo del Vino",
+      "transcription": "Alonsso. Cumpliose el testamento.\n\nEn seis de febrero murió Alonso Izquierdo. Recibió los Santos Sacramentos, hiço testamento y dejó por su alma cien reales y fueron sus testamentarios Alonso García y Mathías de los Reyes vecinos desta villa y se enterró en el cuerpo de la yglesia y se ha cumplido su testamento y lo firmé ut supra. Santiago Martínez.",
+      "uncertainties": [
+        "El asiento no expresa el año; el asiento que sigue dos puestos después es de abril «de 94 años» y la fecha del árbol es 06-02-1694. No nombra a su mujer."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-izquierdo"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Alonso Pérez.JPG",
+          "sha256": "d1b046914f1dcd8f450de28a663125e9efb0ee4d066fe46e6610b994f19fa7a9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1652-04-28",
+      "place": "Malillos",
+      "transcription": "Ana.\n\nEn veinte y ocho días del mes de Abril de mil seiscientos y cinquenta y dos años, de mi licencia el Ldo Juº [ilegible], cura teniente del lugar de Mogatar, bautiçó una yja de Pablo Alº y de su muger Ángela Pérez. Llamose Ana. Fue su padrino Alº García vº de las Cernaçinas y lo firmé ut sª. Don Antonio de Valencia.",
+      "uncertainties": [
+        "El apellido del cura teniente parece «Sesmil». El libro es el de Malillos: el asiento siguiente nombra a don Antonio de Valencia «cura propio desta parroquial de Malillos».",
+        "Identificación por nombre, parroquia y cronología: Ana Alonso, mujer de Alonso Santiago y madre de Casilda Santiago Alonso, nacida en Malillos en 1676. No hay otra Ana Alonso de Malillos en el árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-alonso-madre-de-casilda-santiago"
+      ],
+      "applied": [
+        "Nombre ampliado a Ana Alonso Pérez; bautismo el 28-04-1652 en Malillos; padres nuevos Pablo Alonso y Ángela Pérez."
+      ],
+      "destination": "Tatarabuelos séptimos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Melado Melado.JPG",
+          "sha256": "87c3cdf32faeb9dbaf0a96d1a3122edcc0af39679f79738c8a4d34189ed27de5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1670-03-29",
+      "place": "Villamor de la Ladre",
+      "transcription": "Ana.\n\nEn beinte y nuebe de março de mill y seiscientos y setenta baptiçé el Ldo Joan de [ilegible], cura propio deste lugar de Villamor de la Ladre y sus anexos, a Ana hija lexítima de Joan Melado y su muger María. Fue su padrino Santiago Fuertes y por verdad lo firmé ut supra. El Ldo Joan de [ilegible].",
+      "uncertainties": [
+        "Posible bautismo de Ana Melado, casada en Villamor de la Ladre en 1706 con Alonso Esteban; TATARABUELOS QUINTOS la hace nacida en Bermillo de Sayago y no nombra a sus padres. La diferencia de lugar y la edad (36 años al casarse) impiden asegurarlo; no se enlaza.",
+        "El apellido del cura no se lee con seguridad (¿Paniagua de Ybarguen?)."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "ana-melado"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Santamaría Martín.JPG",
+          "sha256": "8da206b6326cccca73822d4206b0d36c037f84e51b40116a50725e24e5291008",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1670-09-06",
+      "place": "Moraleja del Vino",
+      "transcription": "Ana.\n\nEn seis días del mes de Septiembre de mill y seiscientos y setenta yo dicho cura teniente baptizé y puse los Santos Olios a una niña hija de Miguel de Santa María y de Engracia Martín. Llamose Ana. Fueron sus padrinos Diego [ilegible] y Ángela Montalbo y lo firmé ut supra. Pedro González.",
+      "uncertainties": [
+        "Libro de Moraleja del Vino (Pedro González, cura teniente). No hay ninguna Ana Santamaría en el árbol. Una Engracia Martín figura en la versión de 2019 de TATARABUELOS SEXTOS como madre de Josefa Rodríguez, de Moraleja; no se acredita que sea la misma."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Andrés Prieto y Micaela Manzanal.JPG",
+          "sha256": "e35fde6bd4b1518433bb5b1042c93ce1fe58c2a478c0270fe76265158f6a963c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1685-02-04",
+      "place": "Villamor de la Ladre",
+      "transcription": "Y assí mismo allé dho año en otra oxa medio rota como dho Andrés Prieto cassó con Catalina Melada, hixa de Joan Melado y de María, vezinos deste lugar. Tubieron por hixos a Alonso Prieto, Pedro Prieto, Andrés Prieto y María Prieta, todos hixos lixítimos de dicho Andrés Prieto y Catalina Melada. En el año de mil quinientos y nobenta y seis años.\n\nFray Nicolás de Aranda, religioso francisco. Esta es la firma del religiosso y por verdad lo firmo io el cura del dho lugar. Ldo Joseph Fz de Valdibiesso.\n\nEl año de mil seiscientos y ochenta y cinco se desposó y beló Andrés Prieto, hixo de Andrés Prieto y de Cattalina Melada, vezinos deste lugar, con Micaela Manzanala, vezina del lugar de Mermillo y serbía en este lugar de Billamor, en quatro de febrero de 1685 años. Ldo Joseph Fz de Baldibiesso.",
+      "uncertainties": [
+        "La nota superior dice literalmente «mil quinientos y nobenta y seis»; no es compatible con el bautismo de Andrés Prieto hijo en 1654 y puede ser un error por seiscientos o la fecha de la hoja antigua.",
+        "Familia Prieto–Melado–Manzanal de Villamor de la Ladre sin enlace con el árbol: Catalina Prieto Manzanal, nacida en 1694, no puede ser la madre de Lucas Esteban Prieto (1757), que es Catalina Prieto Santiago, nacida en Tudera en 1720."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Andrés Prieto.JPG",
+          "sha256": "7c574fcf5cf472e54c19c902b1af05808e48e8d7e9aae0e7c2b307bd52747bd0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1654-06-28",
+      "place": "Villamor de la Ladre",
+      "transcription": "Andrés.\n\nEn beinte y ocho de Junio deste año de mill y seiscientos cinqta y quatro baptiçé yo el Ldo Joan de [ilegible], cura propio deste lugar de Villamor de la Ladre, comissº del Sto Offº, a Andrés hijo legítimo de Andrés Prieto [y] de su muger y por verdad lo firmé ut supra. El Ldo Joan de [ilegible].",
+      "uncertainties": [
+        "No nombra a la madre. Es el Andrés Prieto que casó en 1685 con Micaela Manzanal; sin enlace con el árbol."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Andrés Ruiz Gallego.JPG",
+          "sha256": "4a6064a15579f8db1716630ddc729ac9654bbf2d40fe55c20b0903c83c4b2ee2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1650-05-19",
+      "place": "Pereruela",
+      "transcription": "Andrés.\n\nEn diez y nueve de Mayo de mil y seiscientos y cinquenta bautiçé a Andrés hijo de Andrés Ruiz y de Ana Gallega. Fueron sus padrinos Alonso Gallego y [ilegible], en cuya verdad lo firmé. Antonio de Alaua y Monguía.",
+      "uncertainties": [
+        "Libro de Pereruela por el cura firmante. El Andrés Ruiz del árbol es padre de Teresa Ruiz Mateo, nacida en Pereruela el 15-05-1666: el bautizado tendría dieciséis años, de modo que el padre de Teresa pudo ser más bien el Andrés Ruiz padre de este asiento. No se enlaza.",
+        "Una palabra tachada antes de «Ana»."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "andres-ruiz"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Bernardo Matos.JPG",
+          "sha256": "a4f0435479f5fad947f2a8749ff6776a7115c2da3a94f8ffe3eeb197aa27d000",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1716-05-01",
+      "place": "El Cubo del Vino",
+      "transcription": "Bernardo. Cumplido el testamento y lo firmé. Zid.\n\nEn primero de Maio de mill setecientos y diez y seis falleció en esta villa Bernardo Matos marido de Ángela Rz. Hizo testamento y dexó por su alma ciento y diez reales, de los quales han de salir los derechos parrochiales. Fue sepultado en medio del cuerpo de la Iglesia. Fue socorrido de los Sanctos Sacramentos de la penitencia, viático y extremaunción y por ser verdad lo firmé yo el cura dho día mes y año. Son sus testamentarios Manuel Ramos vecino de Fuentespreadas y Miguel Pérez vezino de esta villa del Cubo. Dn Joan Zid.",
+      "status": "incorporada",
+      "personIds": [
+        "bernardo-matos"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; coincide con la fecha y el lugar del árbol y con su mujer, Ángela Rodríguez."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Catalina Prieto Manzanal.JPG",
+          "sha256": "c50a9329b95de4edef061ea362f7320480dd8db08baa1c057e85f80c78428684",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1694-12-02",
+      "place": "Villamor de la Ladre",
+      "transcription": "Catalina.\n\nEn dos de diziembre de mil seiszientos y nobenta y quatro años bautizé io el Ldo Joseph de Valdibiesso una niña que se llamó Catalina, hija de Andrés Prieto y de Michela Manzanala. Fueron padrinos Bartolomé Albarez y Ana Sidra, vecinos deste lugar, y lo firmé. Ldo Joseph Fz.",
+      "uncertainties": [
+        "Sin enlace: nacida en 1694, no puede ser la madre de Lucas Esteban Prieto (1757); la mujer de Roque Esteban Melado es Catalina Prieto Santiago, nacida en Tudera en 1720."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "DSC_0717.JPG",
+          "sha256": "d8060d7985e8e27cd0005ed7ef916a70a5eca497aac49669d2f7cc1fbe251706",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Pedro Avedillo Urueña (DSC_0717).JPG"
+        }
+      ],
+      "date": "1671-04-29",
+      "place": "Moraleja del Vino",
+      "transcription": "[...] y uno yo dicho cura teniente baptizé y puse los Santos Olios a Manuel hijo de Antonio González y de Francisca González. Fueron sus padrinos Joseph González y Francisca Gómez todos vecinos de Moralexa y lo firmé ut supra. Pedro González.\n\nPedro.\n\nEn veinte y nueve días del mes de abril de mill y seiscientos y setenta y uno yo dicho cura teniente baptizé y puse los Santos Olios a Pedro hijo de Antonio Avedillo y de Ana de Urueña su legítima muger. Fueron sus padrinos el Ldo Antonio de Luelmo clérigo presbítero e Inés Avedilla vecina de Casaseca y para que conste lo firmé ut supra. Pedro González.\n\nAño de 1671.\n\nLuis.\n\nEn dos días del mes de Maio del año de mill y seiscientos y setenta y uno yo dicho cura teniente baptizé y puse los Santos Olios a un niño hijo de Alonso de Urueña y de Catalina Martín. Llamose Luis. Fueron sus padrinos Andrés Martín y Michaela Martín su hermana todos vecinos de Moralexa y lo firmé ut supra. Pedro González.\n\nManuel.\n\nEn quince días del mes de Maio de seiscientos y setenta y uno yo dicho cura teniente baptizé y puse los Santos Olios a Manuel hijo de Antonio Bambón y de Josepha de Luelmo. Fueron sus padrinos el Ldo Pedro de [ilegible] clérigo presbítero y Doña Ana de Borxa y para que conste lo firmé en los dichos quince mes y año. Pedro González.",
+      "uncertainties": [
+        "Página con cuatro bautismos de Moraleja del Vino de 1671. El de Pedro coincide con Pedro Avedillo Urueña (árbol: nacido el 29-04-1671). Manuel es hermano de Josefa Bambón de Luelmo; Luis de Urueña Martín es un segundo hijo de ese nombre de Alonso de Urueña (el primero, bautizado en 1665, en DSC_0714)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-avedillo"
+      ],
+      "applied": [
+        "Bautismo de Pedro Avedillo Urueña el 29-04-1671 en Moraleja del Vino, con su asiento."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "DSC_0718.JPG",
+          "sha256": "53de8534638c06be452e4a3867947159e0b0e90b6c67a6d425c5ebadcbd486eb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1675-11-15",
+      "place": "Moraleja del Vino",
+      "transcription": "Thomás Antonio.\n\nEn quince de nobiembre de mil seiscientos y setenta y cinco años yo el Ldo Don Andrés Carrasco cura propio de este lugar de Moralexa baptizé y puse los Santos Óleos en la yglesia parrochial dél a un niño hijo de Pedro Jambrina familiar del Santo Officio y de [ilegible] Bambón sus lexítimos padres. Llamose Thomás Antonio. Fueron sus padrinos el Ldo [ilegible] de Sossada presbítero y Luisa [ilegible] muger de [ilegible], todos vecinos de este dicho lugar, a los quales advertí el parentesco de cognación spiritual que avían contraído y la obligación de enseñar la doctrina christiana al baptizado y para que conste lo firmé ut supra. Dn Andrés Carrasco.",
+      "uncertainties": [
+        "Sin enlace: familia Jambrina de Moraleja del Vino; el Antonio Jambrina del árbol se casó en 1678 y sus padres no constan."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "DSC_0722.JPG",
+          "sha256": "c847541c50ab969afdf759240f53dad47f408111d4af7ecfb49b94daa9fea0b4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1684-10-11",
+      "place": "Moraleja del Vino",
+      "transcription": "Antonio.\n\nEn once días del mes de otubre de mill seiscientos y ochenta y quatro años yo el infra escrito cura propio deste lugar de Moraleja baptizé solenemente y puse los santos olios a Antonio hijo legítimo de Manuel Jambrina y de Engracia Bambón. Fueron sus padrinos el Ldo Antonio de [ilegible] cura teniente deste lugar y Luisa Villaseco, a quienes advertí el parentesco espiritual y la obligación de enseñarle la dotrina christiana. Testigos Juan Jambrina, Andrés Jambrina, Antonio de Espino sacristán y lo firmé ut supra. Antonio Machorso de Cosso.",
+      "uncertainties": [
+        "Homónimo: el Antonio Jambrina del árbol se casó en Casaseca de las Chanas el 28-12-1678, antes de este bautismo. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "antonio-jambrina"
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Domingo González y Catalina García.JPG",
+          "sha256": "7efc635dd0fce03162cc943da2a41dcc9f96ec8b7786186f9de5b67acda5e28e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1694-01-19",
+      "place": "Moraleja del Vino",
+      "transcription": "Domingo González con Cathalina García. Beláronse los contenidos en [ilegible] de Junio de dicho año y lo firmé. Machorso.\n\nEn diez y nuebe días del mes de henero del año de mil seiscientos y nobenta y quatro yo el infra escrito cura deste lugar de Moraleja, abiendo precedido las tres amonestaciones que manda el Santo Concilio y con licencia del señor probisor en sede bacante y certificación del cura de Arcenillas, desposé in facie eclesie por palabras de presente como lo manda nuestra madre yglesia a Domingo González, natural del lugar de Quintana de la diócesis de Astorga, hijo legítimo de Santiago González y de María García difuntos, naturales que fueron del dicho lugar, con Cathalina García, hija legítima de Juan García y Luisa Grande vecinos deste lugar de Moraleja y naturales del lugar de Arcenillas. Testigos Juan de [ilegible] y Francisco Martín y lo firmé ut supra. Antonio Machorso de Cosso.",
+      "uncertainties": [
+        "Ninguno de los contrayentes figura en el árbol ni en los resúmenes familiares."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Domingo de las Heras y Engracia Lozano.JPG",
+          "sha256": "0715aa0f72330e14bec2364355377781503308ef286fc2036a1bc035ba418f99",
+          "width": 2848,
+          "height": 4288
+        }
+      ],
+      "date": "1912-06-03",
+      "place": "Tardobispo",
+      "transcription": "N. 2º. Solteros. Domingo de las Heras Prada y Engracia Lozano Rodríguez.\n\nEn la Iglesia parroquial del Salvador del pueblo de Tardobispo, Obispado y Provincia de Zamora, en el día tres de Junio de mil novecientos doce; Yo Don José Alejandre Moreno, Cura párroco de la misma, asistí al Matrimonio que por palabras de presente contrajeron in facie Ecclesiæ Domingo de las Heras Prada, soltero, natural y residente en esta parroquia, hijo legítimo de Benito de las Heras y de María Antonia Prada naturales del mismo. Y Engracia Lozano Rodríguez, soltera, natural del Perdigón y residente en Tardobispo, hija legítima de Vicente Lozano y de Paula Rodríguez, naturales respectivamente de Tardobispo y el Perdigón. Precedieron las tres canónicas moniciones, que tuvieron lugar en los días festivos de precepto diez y nueve y veintiséis de Mayo y dos de Junio, no resultando impedimento alguno canónico a la celebración de dicho Matrimonio. Fueron examinados y aprobados en doctrina cristiana. Obtuvieron los consentimientos favorables, comulgaron dentro de la Misa y recibieron las bendiciones nupciales. Siendo testigos Bernardino Pérez y Vicente de Pedro de esta vecindad. Y para que conste lo firmo. José Alejandre.",
+      "uncertainties": [
+        "Domingo es hermano de Ángela de las Heras Prada, bisabuela de Arturo: sus padres, Benito de las Heras y María Antonia Prada, son los de ella."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-de-las-heras-prada",
+        "engracia-lozano-rodriguez"
+      ],
+      "applied": [
+        "Personas nuevas: Domingo de las Heras Prada, hijo de Benito José de las Heras Rabanal y Mª. Antonia Prada Carretero, y su mujer Engracia Lozano Rodríguez; matrimonio el 03-06-1912 en Tardobispo."
+      ],
+      "destination": "Otros familiares"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Dudosa Catalina Blanco.JPG",
+          "sha256": "4205a3b0b1fd4d5acaf6d4e1a6b63d81db68cc5d51912fcc9a38d0d8fb47fd57",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1665-12-03",
+      "place": "Fresnadillo",
+      "transcription": "Catharina.\n\nEn Fresnadillo a tres de diziembre de sesenta y cinco años yo el Ldo Alonso Martín Prieto cura propio baptizé a Catalina hija lexª de [ilegible] Blanco y de Catalina Martina su muger. Fue su padrino Pedro de Almaraz y lo firmé. El Ldo Alonso Mr Prieto.\n\n1666.\n\nCatharina.\n\nEn Fresnadillo a veinte y nuebe de henero de mil y seiscientos y sesenta y seis años yo el Ldo Alonso Martín Prieto cura propio baptizé a Catalina hija lexítima de Manuel Blanco y de María Miguela su muger. Fue su padrino Pedro de Almaraz, todos vezinos deste lugar, y lo firmé. El Ldo Alonso Mr Prieto.",
+      "uncertainties": [
+        "Dos Catalinas Blanco bautizadas en Fresnadillo con dos meses de diferencia (03-12-1665, hija de un Blanco y Catalina Martín; 29-01-1666, hija de Manuel Blanco y María Miguel). Cualquiera puede ser la mujer de Francisco Blanco Blanco y madre de José Blanco Blanco (1684); el propio nombre de la imagen la da por dudosa. No se enlaza.",
+        "El nombre del padre del primer asiento parece «Alonso»."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "catalina-blanco"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Francisco Alcántara.JPG",
+          "sha256": "6ced5412cc6915ece6e905be9133cb46e747801f03f8f6150b85039ac1497365",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1729-10-01",
+      "place": "El Cubo del Vino",
+      "transcription": "Franco.\n\nEn la Villa del Cubo en el primero de el mes de octubre del año de mil setecientos y beinte y nuebe falleció Francisco Alcántara vezino de esta villa aviendo rezibido todos los Santos Sacramentos y aviendo echo su testamento como se puede ver en su original. Fue sepultado en la Yglesia parroquial de Sto Domingo de la dha villa en la capilla mayor azia el lado de la epístola y para que conste lo firmé ut supra. Ldo Manuel Esteban.",
+      "uncertainties": [
+        "Homónimo: no nombra mujer ni padres. El marido de María Lucas murió el 17-10-1688 (imagen «Francisco Alcántara3»); el árbol recogía esta fecha de 1729 por TATARABUELOS SEXTOS."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "francisco-de-alcantara"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Francisco Alcántara2.JPG",
+          "sha256": "1feccbe2f4f13d0472eff3fa42e8d21bb5b1360782e232a6a65fab789b799a25",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1717-07-11",
+      "place": "El Cubo del Vino",
+      "transcription": "Francisco. Cumplido el testamento y lo firmé. Zid.\n\nEn once de Julio de mill setecientos y diez y siete falleció en esta Villa del Cubo Francisco Alcántara vecino de ella. Fue socorrido de los Sanctos Sacramentos juntamente con el de la Sancta Unción. Hizo testamento y dejó por su alma docientos reales de los quales han de salir los derechos parrochiales, limosnas de missas votivas y limosnas de sacerdotes. Dexó por sus testamentarios a Santiago Quintana vecino de Casaseca de Campeán y Thomás Sanctos vecino de Valdelosa. Fue sepultado delante el altar de Nuestra Señora del Rosario y por ser verdad lo firmé yo el cura de dha villa dho día mes y año. Dn Joan Zid.",
+      "uncertainties": [
+        "Homónimo: no nombra mujer ni padres. El marido de María Lucas murió el 17-10-1688 (imagen «Francisco Alcántara3»)."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "francisco-de-alcantara"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Francisco Alcántara3.JPG",
+          "sha256": "1a0c3952a344a6832b5c90267296bba2b5f833add22fe6153c216fea93d5eae6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1688-10-17",
+      "place": "El Cubo del Vino",
+      "transcription": "Franco.\n\nEn diez y siete del mes de otubre de mill y seiscientos y ochenta y ocho años murió en esta villa Francisco de Alcántara. Llevó los Stos Sacramentos. Hiço testamento. Dejó por sus testamentarios a su muger María Lucas y a Mathías de los Reyes. Enterrose en el cuerpo de la Yglesia. Mandó [ilegible] santos [ilegible] seis missas [ilegible] de su alma y a el Rosario quarenta [ilegible] como constará de su testamento a que me remito y lo firmé en dho día mes y año. Ldo Juº [ilegible].",
+      "uncertainties": [
+        "Es el único de los tres Francisco Alcántara fotografiados que nombra a su mujer, María Lucas: se toma como el padre de Juan de Alcántara Lucas (1676) y se corrige el fallecimiento del árbol, que era el 01-10-1729 de un homónimo.",
+        "Las mandas del testamento se leen solo en parte."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-alcantara"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 01-10-1729 a 17-10-1688, con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Francisco González Urueña.JPG",
+          "sha256": "b5d3a826d02a089cfdd21da4b6e626ce57c2d031313d37b84adf70d76bbee7ea",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1677-03-18",
+      "place": "Moraleja del Vino",
+      "transcription": "Franco.\n\nEn diez y ocho de Março de mil seiscientos y setenta y siete yo Dn Andrés Carrasco cura propio deste lugar de Moraleja baptizé solemnemente y puse los sanctos óleos a un niño hijo de Manuel González y Josepha de Urueña sus legítimos padres. Púsosele por nombre Francisco, el qual declaró su padre aber nacido en veinte y quatro de febrero deste año. Fueron sus padrinos [ilegible] de la Cuesta y Isabel Carrasco muger de Francisco Gil, estantes en [ilegible]. Testigos Antonio Avedillo, Francisco [ilegible], Luis [ilegible] y lo firmé. Dn Andrés Carrasco.",
+      "uncertainties": [
+        "Sin enlace: el Francisco González del árbol es de Casaseca de las Chanas y ya era padre en 1671."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Francisco Terrón y Ángela Campo1.JPG",
+          "sha256": "e31b64cc5438c53f7a348ef9d7705ff903b26931872032b232427dfed05c8ab7",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Francisco Terrón y Ángela Campo1 (otra toma).JPG"
+        },
+        {
+          "filename": "Francisco Terrón y Ángela Campo2.JPG",
+          "sha256": "0393a2736ad2b32131d7b830b787d9b718576af174662c318d0631e3b6e42b11",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Francisco Terrón y Ángela Campo2 (otra toma).JPG"
+        }
+      ],
+      "date": "1737-08-21",
+      "place": "El Cubo del Vino",
+      "transcription": "Franco con Ángela.\n\nEn la Villa de el Cubo a veinte y un días de el mes de Agosto de mil setecientos y treinta y siete yo el infrascripto cura desposé y velé in facie Ecclesiæ a Francisco Terrón hijo lexítimo de Francisco Terrón difunto y de Isabel Díaz su muger vecinos de esta villa con Ángela Campo hija lexítima de Juan Campo y de Isabel Delgado difuntos vecinos que fueron de el lugar de Cabañas, aviéndose corrido las tres canónicas moniciones, y aviéndome presentado la certificación del Sr Cura de Cabañas, de las quales no resultó impedimento alguno. Fueron testigos Lorenzo Delgado, Antonio Díaz y Pedro Barrios todos vecinos de dha villa y para que conste lo firmo en dha villa dho día mes y año dho. Manuel Alonso.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra (folio 99). El asiento anterior de la primera imagen es el final del matrimonio de una hija de Francisco Terrón e Isabel Díaz, hermana del contrayente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-terron",
+        "angela-campo"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; coinciden fecha, lugar y los cuatro padres."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Joan Melado y María Melado.JPG",
+          "sha256": "b543429db0f0698e91bcc9721a005b93eb52036e3456597d3796bdc5aed7a626",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1666-01-07",
+      "place": "Villamor de la Ladre",
+      "transcription": "A siete de henero de mill y seiscientos y sesenta y seis contrageron matrimonio in facie ecclesie Joan Melado vº deste lugar de Villamor y María Melada [ilegible] hija de Lorenço [ilegible]. Fueron testigos Lorenço [ilegible] y Domingo Garrote y Domingo Santos y por verdad lo firmé a dicho día. El Ldo Joan de [ilegible].",
+      "uncertainties": [
+        "Padres de la Ana bautizada en Villamor de la Ladre en 1670 (imagen «Ana Melado Melado»); sin enlace mientras no se acredite que esa Ana es la mujer de Alonso Esteban.",
+        "Tras «María Melada» parece decir «viuda»; el apellido del padre de ella no se lee."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "José Blanco Crespo.JPG",
+          "sha256": "f7489c6e48a78775e06c55223ea86929db471b32d94ec543126d27d8e32b605a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Abelón",
+      "transcription": "Manuel.\n\nEn veynte días del mes de henero de dicho año baptiçé un niño hijo de Joseph Crespo y de Águeda [ilegible] su mujer. Llamose Manuel. Fue su padrino Domingo Crespo. Franco Feliz.\n\nJoseph.\n\nEn siete de marzo de dicho año baptiçó el Ldo Manuel de Villarreal cura de Moral un niño hijo lexítimo de Alonso Blanco y de su mujer Manuela Crespo. Llamose Joseph. Fue su padrino Domingo Crespo. Firmélo. Franco Feliz.\n\nTheresa.\n\nEn quatro de abril de dicho año baptiçé una niña de [ilegible] Benito y de su mujer Cathalina Garrote. Llamose Theresa. Fue su padrino Domingo Garrote. Franco Feliz.\n\nDomingo.\n\nEn once de dicho mes y año baptiçé un niño de Alonso Diego y de su mujer Margarita [ilegible]. Llamose Domingo. Fue su padrino Domingo [ilegible].",
+      "uncertainties": [
+        "El año no figura en la imagen («dicho año»). Libro de Abelón por el cura Francisco Feliz y por el bautismo de Teresa Benito, hija de Catalina Garrote. Se toma el bautismo de Joseph, hijo de Alonso Blanco y Manuela Crespo, como el de José Blanco, marido de Isabel Esteban y padre de José Blanco Esteban (1689), según el nombre que la familia dio a la imagen; la falta del año impide comprobar la cronología."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-blanco-padre-de-jose-blanco-esteban"
+      ],
+      "applied": [
+        "Nombre ampliado a José Blanco Crespo; bautismo un 7 de marzo en Abelón, sin año; padres nuevos Alonso Blanco y Manuela Crespo."
+      ],
+      "destination": "Tatarabuelos séptimos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "José Blanco Esteban.JPG",
+          "sha256": "a634a9f50d61b3e0a1b174edfcfa76836dba18d0606cd723ab2fab5c8e910030",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1689-02-26",
+      "place": "Abelón",
+      "transcription": "Joseph.\n\nEn veynte y seis de febrero de mill seiscientos y ochenta y nuebe baptiçé un niño hijo lixítimo de Joseph Blanco y de su mujer Ysavel Esteban. Llamose Joseph. Fue su padrino Domingo Garrote. Firmélo dicho día. Franco Feliz.",
+      "uncertainties": [
+        "Libro de Abelón (encabezado «1689»). La fecha del árbol para el nacimiento es la de este bautismo; la partida no da la del nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-blanco-padre-de-emerenciana-blanco"
+      ],
+      "applied": [
+        "Bautismo el 26-02-1689 en Abelón con transcripción; nota en el nacimiento."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "José Pérez.JPG",
+          "sha256": "f593b802f583328817769a6eb38e2b65f0ba7bf703cd6b99439277e2ae162510",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1804-07-25",
+      "place": "Tardobispo",
+      "transcription": "Josef Pérez.\n\nEn el día veinte y cinco del mes de Julio del año de mil ochocientos y quatro yo el infrascripto cura párroco de Tardobispo enterré en su Yglesia a Josef Pérez que murió en el día antecedente. Recibió los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción. No hizo testamento por no tener de que hazerlo. Se hizieron por su alma los tres offizios de entierro, honras y cavo de año y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo.",
+      "uncertainties": [
+        "Murió el 24-07-1804. No nombra mujer ni padres; ningún José Pérez del árbol vivía en 1804. Sin enlace."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Luis Ramos Lorenzo.JPG",
+          "sha256": "af84998894378a04d8eb5f5f6f61bda2c1621a73a4e2b6ab815966067221261b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1687-08-26",
+      "place": "Moraleja del Vino",
+      "transcription": "Luis.\n\nEn beinte y seis del mes de agosto de mill seiscientos y ochenta y siete años yo el infra escrito cura propio deste lugar de Moraleja baptizé solemnemente a un niño hijo legítimo de Alonso Ramos y Ana Lorenzo. Fueron sus padrinos Pedro de Luelmo y Doña María [ilegible]. Llamose Luis. Fueron testigos el Ldo Luis Martín y Francisco de Luelmo y lo firmé. Antonio Machorso de Cosso.",
+      "uncertainties": [
+        "Sin enlace: no es Luis Ramos Bambón (1685, hijo de Francisco Ramos de Urueña) ni su abuelo Luis Ramos. El mes se lee «agosto» abreviado y «siete» lleva una corrección; el asiento siguiente es del 8 de septiembre de 1687."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Carrascal Bragado.JPG",
+          "sha256": "5b8c53706c5e8805a7e4be2b3602778b232accf07c8168d8292321f39c0e7477",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1671-11-04",
+      "place": "Morales del Vino",
+      "transcription": "Manuel.\n\nEn quatro días del mes de nobiembre de mill seiscientos y setenta y [ilegible] años yo el Ldo Alonso Martínez García cura propio deste lugar de Morales baptizé solemnemente a Manuel hijo lexítimo de Pedro Carrascal y de Ynés Bragado su muger. Fueron sus padrinos Luis Nieto e Ynés Gallego su muger. Testigos Juan Nieto, Francisco Marqués y Francisco [ilegible] todos vecinos deste lugar y lo firmé fecho ut supra. El Ldo Alº Martínez García.",
+      "uncertainties": [
+        "La última palabra del año queda oculta en la encuadernación («setenta y…»); el árbol da 1671 y coinciden día, mes, lugar y padres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-de-carrascal"
+      ],
+      "applied": [
+        "Bautismo el 04-11-1671 en Morales del Vino con transcripción; nota en el nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Manuel Carrascal Bragado1.JPG",
+          "sha256": "02eaefe82c204492715d8d733192d5a4c4f2c7c6223c60cba35de6be716d79ec",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Manuel Carrascal Bragado2.JPG",
+          "sha256": "064ab2856013a2f73c47528a5a29ba3ed03c3e51108dea45ce11503a7195bc84",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1739-02-11",
+      "place": "Morales del Vino",
+      "transcription": "Manuel Carrascal. Está cumplido y lo firmé. Cabrero.\n\nEn onze días del mes de febrero de mil setecientos y treinta y nuebe años se enterró en esta Yglessia Manuel Carrascal, haviendo muerto de su muerte natural, vezino [ilegible] los Sanctos Sacramenttos de Penitenzia, Eucharistía y Extremaunzión. Hizo testtamento ante Diego Cabrero fiel de fechos de este lugar de Morales y tomó para su alma zien ducados. Hízosele entierro, honrras y cabo de año y nobenario cantado y para que conste lo firmé. Dn Antº Cabrero.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra (folio 261). Es de entierro; el fallecimiento del árbol es el día anterior, 10-02-1739.",
+        "Una rúbrica tapa el comienzo de una línea (probablemente «de este lugar, recibió»)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-de-carrascal"
+      ],
+      "applied": [
+        "Entierro el 11-02-1739 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Hernández Gutiérrez.JPG",
+          "sha256": "4139e29065f8636448d4a74472d2a82e74e330aa28d74d15db55df85c80fb0fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1668-05-24",
+      "place": "Moraleja del Vino",
+      "transcription": "Manuel.\n\nEn veinte y quatro días del mes de Mayo de 1668 yo dicho cura teniente baptizé y puse los Santos Olios a Manuel hijo de Diego Hernández y de María Gutiérrez. Fueron sus padrinos el Ldo Pedro Chavarría y Elena Fariñas vecinos de Zamora y para que conste lo firmé ut supra. Pedro González.",
+      "uncertainties": [
+        "Sin enlace: ningún Manuel Hernández del árbol es hijo de Diego Hernández y María Gutiérrez."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Hernández Prieto.JPG",
+          "sha256": "c7ecf092fc3d41d55fa51cc9a87325e1df76345b13b0415d9c37463c25d76895",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1655-12-22",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel Hernández, hijo de Lucas Hernández y de Susana Prieta.\n\nEn veynte y dos de diciembre bautizé a Manuel hijo de Lucas Hernández, sus lexítimos padres vecinos deste lugar. Fue su padrino Gerónimo Castaño cura propio de Pontexos. Testigos Felipe Rodríguez y Luis Alonso sacristán y por verdad lo firmé de mi nombre. Moreno.",
+      "uncertainties": [
+        "El cuerpo del asiento omite a la madre; la añade el margen, de otra mano («hijo de Lucas Hernández y de Susana Prieta»). El año no se expresa: el asiento precede inmediatamente al encabezado «Año de 1656», de modo que es 1655.",
+        "Resuelve el pendiente de los lotes QUINTOS y SEXTOS (20-12-1655 frente a 22-12-1655): el 22 de diciembre es el día del bautismo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-hernandez-crespo"
+      ],
+      "applied": [
+        "Bautismo el 22-12-1655 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Manuel Hernández e Inés García.JPG",
+          "sha256": "78b6c1402b10366eafd0c0a1b28fecb0cd58f005635e124a3dbb9f70ae48ae7c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1750-04-01",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel Hernández y Ynés García.\n\nEn primero de Abril de mil setezientos y cinquenta yo el infrascripto cura propio de la Iglesia de San Juan Baptista parroquial deste lugar de Casaseca de las Chanas, haviendo precedido en ella en debida forma las tres proclamas, y no resultado notizia de impedimento alguno del Santo matrimonio, asistí al que por palabras de presente celebraron Manuel Hernández mozo soltero hixo legítimo de Francisco Hernández y Theresa Gaytán ia difuntos vecinos que fueron deste lugar y Ynés García, viuda de Manuel Enr[ilegible], siendo testigos Joseph Rodríguez, Basilio García y otros vecinos deste lugar donde para que conste lo firmo dhos día, mes y año. Br. Thomás Ventura de Martas.",
+      "uncertainties": [
+        "Primer matrimonio de Manuel Hernández Gaitán (nacido en 1729), veinticinco años anterior al que consta con Inés Martín Carrascal (1775). El apellido del primer marido de Inés García queda cortado en el borde.",
+        "El asiento anterior de la página es el matrimonio de una María Calvo, hija de Bernardo Calvo, ya difunto, y Manuela Portales: hermana de Ignacia Calvo Portales; su comienzo no está en la imagen."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-hernandez-gaitan",
+        "ines-garcia-mujer-de-manuel-hernandez-gaitan"
+      ],
+      "applied": [
+        "Persona nueva: Inés García, primera mujer de Manuel Hernández Gaitán; matrimonio el 01-04-1750 en Casaseca de las Chanas."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Manuel Martín y Luisa Prieto.JPG",
+          "sha256": "22de841ffabc53277a5cc6d680d1152b4110bae23c792e1dc2e1bb9da066930a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1713-09-25",
+      "place": "Moraleja del Vino",
+      "transcription": "Manuel Martín y Luisa Prieto.\n\nEn beynte y cinco días del mes de septiembre deste presente año de mil siettecientos y trece, yo el infra escrito cura teniente del lugar de Moraleja, aviendo precedido las tres admonestaciones que manda el Santo Concilio, y no aviendo más impedimento que el estar en segundo con tercer grado de afinidad, el qual fue dispensado por Su Santidad como consta por aprobación y licencia del señor Provisor deste obispado de Çamora que passó ante Dn Alonso López notario mayor de la audiencia episcopal, su fecha en beynte y dos de septiembre deste presente año de mil siettecientos y trece, en virtud de dha licencia desposé por palabras de presente a Luisa Prieto viuda de Luis García, y a Manuel Martín hijo de Francisco Martín y de Manuela Hortiz. Fueron testigos Santiago del Villar y Luis Gonçales y lo firmé. Antº Pérez Joseph.",
+      "uncertainties": [
+        "Padres de Diego Martín Prieto (1717). La partida no nombra a los padres de Luisa Prieto ni su naturaleza."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-martin-padre-de-diego-martin",
+        "luisa-prieto"
+      ],
+      "applied": [
+        "Matrimonio el 25-09-1713 en Moraleja del Vino en ambas fichas; Manuel pasa a llamarse Manuel Martín Ortiz, con padres nuevos Francisco Martín y Manuela Ortiz; observación sobre la viudez de Luisa."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Manuel Sánchez y Catalina Durán1.JPG",
+          "sha256": "d893daaad4403798b70544ea416c1ee76e703f622189fd336b64dbc1dcb7b07c",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Manuel Sánchez y Catalina Durán1 (otra toma).JPG"
+        },
+        {
+          "filename": "Manuel Sánchez y Catalina Durán2.JPG",
+          "sha256": "fa8e13765101ba970ae3e04e0ffc4c3459960d65dbe255b15c74c4d53ef3509f",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Manuel Sánchez y Catalina Durán2 (otra toma).JPG"
+        }
+      ],
+      "date": "1755-11-27",
+      "place": "El Cubo del Vino",
+      "transcription": "Manuel Sánchez con Cathalina Durán.\n\nEn la Villa de el Cubo a veinte y siete de Noviembre de mil setecientos y cinquenta y cinco años, io el infra escrito cura de esta villa, después de publicar en tres días festivos inter missarum solemnia al tiempo de el ofertorio, y no aver resultado impedimento alguno, desposé y velé in facie Ecclesiæ a Manuel Sánchez mozo soltero hijo lexítimo de Santiago Sánchez ia difunto, y de María Misol vecina de esta villa, con Cathalina Durán moza soltera hija lexítima de Pedro Durán y de Agustina Hernández vecinos de Fuente el Sauco, y aora residentes en Palacios de el Arzobispo. Abuelos paternos Juan Sánchez natural de el Cubo y María Gómez vecinos de el Cubo; maternos Francisco Misol y Manuela González naturales de Morales de Toro. Por parte de la muger Francisco Durán natural de Villaescusa y Josepha Vivas natural de Fuente el Sauco; maternos Juan Hernández e Ysabel Abilés naturales de Fuente el Sauco. Fueron testigos Thomás Leal y Domingo Borrego y Antonio Blanco vecinos de esta villa y para que conste lo firmo en dho día mes y año ut supra. Dn Joseph Rz Cuenllas.",
+      "uncertainties": [
+        "El asiento (n.º 38 del libro) empieza en una imagen y termina en la otra. Coinciden fecha, lugar, padres y los ocho abuelos del árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-sanchez-misol",
+        "catalina-duran-hernandez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel de las Heras Alfonso.JPG",
+          "sha256": "c9b662cba6430f6000732b2491edd2fd3870eef2ca8d4b74b199d5d4e3f19a28",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1681-05-30",
+      "place": "Malillos",
+      "transcription": "Manuel.\n\nEn Malillos a treinta días del mes de maio de mil seiscientos y ochenta y un años de mi licencia el Ldo Juº Requexo cura theniente del lugar de Mogatar bautizó un hijo de Gregorio de las Eras y de su muger María Afonsa. Llamose Manuel. Fue su padrino Pedro Lucas vecino deste dho lugar y en fee de ello lo firmé ut supra. Juº Alphonso de las Ynfantas.",
+      "uncertainties": [
+        "Sin enlace: ningún Manuel de las Heras de esa generación figura en el árbol; los de las Heras documentados entonces son de Sogo y Fadón."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Mariano Ramos Luelmo.JPG",
+          "sha256": "31eea3656d0b592c75084ee9e865089ff98067e7e01096b52f1c02be60265d40",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1788-08-17",
+      "place": "Moraleja del Vino",
+      "transcription": "Mariano Ramos Luelmo.\n\nEn el lugar de Moraleja a diez y siete días del mes de Agosto del año de mil setecientos ochenta y ocho, io el infrascripto teniente cura de dho lugar bauticé solemnemente y puse los santos óleos a un niño que nació el día quince de dho mes, al que puse por nombre Mariano, hijo legítimo de Bernardo Ramos y de Isabel Luelmo. Abuelos paternos Francisco Ramos e Isabel Ramos; maternos Diego Luelmo, todos naturales de este lugar, e Isabel Martínez natural de Cazurra. Fue su padrino Francisco Morales de este lugar al que advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmo ut supra. Dn Juan Antonio Fernández.",
+      "uncertainties": [
+        "Nació el 15-08-1788. Sin enlace: ni el bautizado ni sus padres figuran en el árbol."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Marcos Martín.JPG",
+          "sha256": "c91ce305acf0320d9404001a848a94b67be9dd680d2ac0c763fd11c7ca206b7c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1635-02-02",
+      "place": "Malillos",
+      "transcription": "María.\n\nEn dos días del mes de febrero de mill y seiscientos y treinta y cinco años baptizé yo el Ldo Don Francisco de la Torre cura propio dell lugar de Malillos a María hija de Martín Marcos y de Catalina Martina. Fueron padrinos Martín Blanco y Ana Macías vecinos dell dicho lugar en fe de lo qual lo firmé ut supra. Don Francisco de la Torre.",
+      "uncertainties": [
+        "Identificación por nombre, parroquia y cronología: María Marcos, mujer de Domingo Pérez y madre de Miguel Pérez Marcos, nacido en Malillos en 1670. No hay otra María Marcos en el árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-marcos"
+      ],
+      "applied": [
+        "Nombre ampliado a María Marcos Martín; bautismo el 02-02-1635 en Malillos; padres nuevos Martín Marcos y Catalina Martín."
+      ],
+      "destination": "Tatarabuelos séptimos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Marqués Herrero.JPG",
+          "sha256": "901d9df13205359fa200785e6558719cabaadff90eb9fd0cd5c4205d7de1b63e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1701-07-06",
+      "place": "Morales del Vino",
+      "transcriptionDraft": "María.\n\nEn seis días del mes de Julio de mill setezientos y un años de mi lizencia el Ldo Andrés Ruyz clérigo presvítero vezino del lugar de Pereruela puso los Santos óleos a una niña que se llamó María, a quien yo baptizé de socorro. Nació el día veinte y quatro del mes de Junio deste presente año, hixa legítima de Manuel Marqués el mozo y de Francisca Herrero vecinos deste lugar. Fueron padrinos Manuel Marqués vezino deste dho lugar y Lucía Ruyz vecina de dho lugar de Pereruela. Contrajo el parentesco spiritual dho padrino de que fue advertido. Testigos Juan Marqués, Gerónimo Nieto [ilegible] yo Gerónimo de Luelmo cura propio deste dho lugar de Morales [ilegible] conste lo firmé [ilegible]. Gerónimo de Luelmo.",
+      "uncertainties": [
+        "Es la María Marqués Herrero, nacida el 24-06-1701, que la versión de 2015 de TATARABUELOS QUINTOS confundió con la mujer de Juan Brioso Luelmo, casada en 1708. La antepasada es María Marqués Esteban, hija de Juan Marqués Nieto; esta partida no se enlaza.",
+        "Imagen desenfocada; las últimas líneas se leen solo en parte."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "maria-marques-madre-de-baltasar-brioso"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Martín Grano de Oro.JPG",
+          "sha256": "478ec7a9a77f64d1a1528c29a578cb9f9d0b60b6bb615e29743fff55b9f8e643",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1587-09-27",
+      "place": "Toro",
+      "transcription": "1587.\n\nEn veinte y siete días de setiembre del año de ochenta y siete baptizé a Ynés hija de Pedro Martín y de Juana Grano de Oro su muger. Fue padrino Francisco Román y madrina Catalina Romana muger de Miguel Campana. En fe yo Antº Díez cura de S. Thomé lo firmé de mi nombre. Antº Díez.",
+      "uncertainties": [
+        "La bautizada es Inés, no María; el margen dice «P. Martín» y una «M». Parroquia de Santo Tomé de Toro, folio 42. La María Martín del árbol, madre de Ángela González Martín (Toro, 1617), pudo ser hermana de esta Inés, pero la partida no lo acredita. Sin enlace."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-martin-madre-de-angela-gonzalez"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Terrón de la Iglesia.JPG",
+          "sha256": "1ff9cd111a13bb2ae58de678b919c91f360736022a0d4b94e9544bbc0f7c1070",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1652-08-01",
+      "place": "Sanzoles",
+      "transcription": "María.\n\nEn primero de agosto de mil y seiscientos y cinquenta y dos años bautizó [ilegible] cura de la villa de Venialbo en mi presencia con mi licencia y puso los santos olios en esta yglesia de San Zoles a una niña que se llamó María hija de Miguel Terrón y de Ynés de la Yglesia. Fueron padrinos Miguel Hernández y Ynés Terrón vecina de [ilegible]. Testigos [ilegible] y Domingo de la [ilegible] y en fe dello lo firmé fecho ut supra. El Ldo Alonso Calvo.",
+      "uncertainties": [
+        "Tinta muy desvaída: el día («primero»), el nombre del cura de Venialbo y los testigos son lecturas dudosas.",
+        "Hermana de Andrés Terrón de la Iglesia (1662): los padres son la pareja casada en Sanzoles en 1645."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-terron-de-la-iglesia"
+      ],
+      "applied": [
+        "Persona nueva: María Terrón de la Iglesia, hija de Miguel Terrón e Inés de la Iglesia Martín, bautizada el 01-08-1652 en Sanzoles."
+      ],
+      "destination": "Otros familiares"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de Huerta Rodríguez.JPG",
+          "sha256": "7e404249b088fb20cd9d64847f160d07f506633f30b90904a711d65dc0e23fe9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1629-01-16",
+      "place": "Toro",
+      "transcription": "María Huerta.\n\nEn diez y seis de henero de mill y seiscientos y veinte y nuebe yo el Ldo fr. Andrés de Obiedo Prior de Santa Marina y religiosso del Santo Sepulchro baptizé a María hija de Tomé de Huerta y de Ynés Rodríguez. Fueron sus padrinos Bartolomé de la Torre y María de Rojas y por verdad lo firmé fecho ut supra. Fr. Andrés de Obiedo.",
+      "uncertainties": [
+        "Libro del Santo Sepulcro de Toro. Ninguna María de Huerta figura en el árbol ni en los resúmenes familiares; sin enlace."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de Huerta Rojas.JPG",
+          "sha256": "bcfe8328f9847a5684b7360d6a9b2391971f63a101a41d524b9857b77a7e25a6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1625-08-10",
+      "place": "Toro",
+      "transcription": "María Huerta.\n\nEn diez de agosto del dicho año baptizé yo el licenciado fr. Andrés de Obiedo Prior de Santa Marina a María hija de Pablos de Huerta y de María de Rojas. Fueron sus padrinos Juº de Medina de [ilegible] y Ana Pérez y por verdad lo firmé fecho ut supra. Fr. Andrés de Obiedo.",
+      "uncertainties": [
+        "Libro del Santo Sepulcro de Toro; el año, 1625, lo expresa el asiento siguiente (22 de agosto de mil seiscientos veinticinco). Sin enlace."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de Luelmo Martín.JPG",
+          "sha256": "8e9c2e405e5f495be1ee55b3452e8c817593fdbb86c6127426922db80a0d4f4d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1653-08-28",
+      "place": "Morales del Vino",
+      "transcription": "María.\n\nEn 28 de agosto de 1653 años yo el Ldo Miguel de Villalpando cura deste lugar doi fe que baptizé a María hija de Bartolomé de Luelmo y de Ynés Martín. Fueron padrinos Pº de Luelmo vecino de Moraleja y Felipa Martín. Testigos Gº Cordero, Diego Marqués y Manuel Sánchez y lo firmé. El Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "El asiento siguiente nombra el lugar de Morales. Coincide con María de Luelmo Martín, mujer de Francisco Brioso Carrascal; la fecha de nacimiento del árbol es la de este bautismo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-de-luelmo-madre-de-juan-brioso"
+      ],
+      "applied": [
+        "Bautismo el 28-08-1653 en Morales del Vino con transcripción; nota en el nacimiento."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle1.JPG",
+          "sha256": "eebf7995e0568cd7aa90bf0d2f3c2fc32a2ac985373895eb65a6e63398d992b2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1637-01-26",
+      "place": "Tardobispo",
+      "transcriptionDraft": "Año de 1637.\n\nMaría de la Calle.\n\nEn veinte y seis de henero deste año de mill seiscientos y treinta y siete años yo el licenciado Sebastián Malpartida cura propio deste lugar de Tardobispo puse los santos olios a una niña que se llamó María hija de Bartolomé de la Calle y de Cat[ilegible] su muger. Fueron sus padrinos Juº López vecino de La Torre del Salinar y María Miguel vecina deste lugar y en fee dello lo firmé. Ldo Sebastián Malpartida.",
+      "uncertainties": [
+        "Una de siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 (imágenes «María de la Calle1» a «7»). Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida lo acredita. Sin enlace."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle2.JPG",
+          "sha256": "33f760e39797c580ffeaddafa5316dae3d6ca2448531ab459ea4f14dd38139a5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Tardobispo",
+      "transcriptionDraft": "María Calle.\n\nEn beinte y nuebe de septiembre deste año de mil y seiscientos y veinte y [ilegible] yo el licenciado Juº Alonso Malpartida cura propio deste lugar de Tardobispo baptizé una niña que se llamó María hija de Luis de la Calle y de Engracia de Espino su muger. Fueron padrinos Francisco de la Calle y madrina Ysabel Herrera muger de Alonso de la Calle el moço y en fe dello lo firmé, todos deste lugar, fecho ut supra. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "La unidad del año no se lee; la página siguiente lleva el encabezado «Año de 1629». Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle3.JPG",
+          "sha256": "11c446d1be1c9a6ed962d19f031a95c90ad76ed204387dce31b2fe62a41224b8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-10-09",
+      "place": "Tardobispo",
+      "transcriptionDraft": "María de la Calle.\n\nEn nuebe días de otubre de mil y seiscientos y veinte y uno yo el licenciado Juº Alonso Malpartida cura de Tardobispo pusse los santos olios a María hija de Antonio de la Calle y de su muger Ana Pérez vecinos de los Barrios [ilegible]. Fueron padrinos Sebastián Sánchez Malpartida y Catalina de la [ilegible], a la qual por necesidad baptizó la comadre al nacimiento [ilegible] examinándola [ilegible] y dio buena razón de lo que hizo y lo firmé. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Lectura parcial. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle4.JPG",
+          "sha256": "b40de5d787b4f144de43bf110ea9cc8286f826fc3b0b42a008da88301d4b5686",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-04-26",
+      "place": "Tardobispo",
+      "transcriptionDraft": "María de la Calle.\n\nEn veinte y seis de Abril de mil seiscientos y veinte y un años yo el licenciado Juan Alonso Malpartida cura propio deste lugar de Tardobispo baptizé una niña que se llamó María hija de Alonso de la Calle el moço y de Ysabel Herrera su muger vecinos deste lugar. Fueron padrinos el licenciado Antonio Nicolás cura propio de Villamor de la Ladre y la comadre María de la Calle vecina deste lugar y lo firmé. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle5.JPG",
+          "sha256": "4a9c2c8653d4a343d55ddf803d1497624f8effba64fac4e01b3cfcf6e89c93f5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-01-09",
+      "place": "Tardobispo",
+      "transcriptionDraft": "Año de 1621.\n\nMaría de la Calle.\n\nEn nuebe de henero del año de mil y seiscientos y veinte y un años yo el licenciado Joan Alonso Malpartida cura de Tardobispo baptizé a María hija de Francisco de la Calle y de María Ponze su muger. Fueron padrinos Antonio de la Calle y la de Blas y en fee dello lo firmé fecho ut supra. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Folio 46. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle6.JPG",
+          "sha256": "8be0a41855867592f72042b14e21d3abc44e775fff00e3eb6b52f493c624648e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-03-26",
+      "place": "Tardobispo",
+      "transcriptionDraft": "María Calle.\n\nOy sábado beinte y seis de março de mill y seiscientos y diez y seis años bauticé a María hija de Joan de la Calle y de su muger [ilegible]. Fue su padrino [ilegible] de la Calle el biejo y la madrina María Hernández vecinos deste lugar. Fueron testigos Alvar Hernández, [ilegible] de la Calle el moço y Pedro [ilegible] y por ello lo firmé. Francisco del Poço de Olibares.",
+      "uncertainties": [
+        "Varias palabras tachadas y corregidas; el nombre de la madre no se lee. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle7.JPG",
+          "sha256": "aa976b526beac45188ce98e323215a72c61f7fc70f8e04bcdd45b1def69c1be9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-02-18",
+      "place": "Tardobispo",
+      "transcriptionDraft": "María Calle.\n\nEn diez y ocho de febrero de mill y seiscientos y diez y seis años bapticé a María hija de [ilegible] de la Calle y de María de [ilegible] su muger. Fue su padrino Joan de Cabo vecino de Monfarracinos y su madrina Catalina [ilegible] vecina de Pereruela. Fueron testigos Lorenzo Hernández y Joan Martín y por verdad lo firmé. Francisco del Poço de Olibares.",
+      "uncertainties": [
+        "El nombre del padre parece «Pº Miguel» y el apellido de la madre «Coca»; lecturas dudosas. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de  Lucas Hernández y Susana Prieto.JPG",
+          "sha256": "70d7514dbb3b3846b56d721b7169398e4e0ba24be7842d41812bdca642c9ad43",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1642-02-28",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Lucas Hernández, Susana Prieta.\n\nEn últimos de febrero del dicho año yo el dicho cura desposé a Lucas Hernandes y a Susana Prieta vecinos deste lugar. Testigos Juº Bueno y Juº Grande y lo firmé. Belélos a 23 de otubre.",
+      "uncertainties": [
+        "El asiento dice «en últimos de febrero del dicho año», sin día ni año expresos; el árbol registra el 28-02-1642, último día de febrero. La firma no se lee."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lucas-hernandez",
+        "susana-prieto"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota con la velación del 23 de octubre."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Antonio Jambrina y Teresa de Valencia1.JPG",
+          "sha256": "7e16489358b20bd2471b7e85e66b8a22843ad33ca668f44fe735bcb51efa2d72",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Antonio Jambrina y Teresa de Valencia2.JPG",
+          "sha256": "7d2189daf9bf57966f2fb6c392166a0b6048a320b2568c1431c11a76db4cd150",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1678-12-28",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Antº Xambrina. Teresa de Valencia.\n\nEn veinte y ocho de diciembre de mil seiscientos y setenta y ocho, abiendo precedido las tres publicaciones que manda el Santo Concilio de Trento y no aber resultado impedimento alguno y precediendo sus mutuos consentimientos, desposé por palabras de presente que hacen legítimo matrimonio a Antonio Xambrina viudo de María Martín con Teresa de Valencia viuda de Joseph Galán, siendo testigos Andrés Albarez, Antonio Xambrina el viejo y Luis de [ilegible] y en fee de ello lo firmé de mi nombre dicho día mes y año. Manuel Nieto.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra. La firma se lee «Manuel Nieto» con reservas; el apellido del tercer testigo no se lee.",
+        "Ambos contrayentes eran viudos; el testigo Antonio Jambrina «el viejo» puede ser el padre del contrayente, pero la partida no lo dice."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-jambrina",
+        "teresa-de-valencia"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; observaciones sobre sus viudeces."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Luis Gaitán e Isabel Rodríguez.JPG",
+          "sha256": "d9f7e3bcad87da58038faa5251bf4adc1f11406e5949a557d44c6768b7a16078",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1701-11-06",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Luis Gaytán y Ysabel Rodríguez.\n\nEn seis de nobiembre de dicho año yo Dn Joseph de Miranda cura propio deste dicho lugar, después de aber precedido las tres admonestaciones que manda el Santo Concilio de Tridento y nuestra Santa Madre Yglesia tiene determinado, y siendo parientes en tercer grado de consanguinidad y siendo dispensados por nuestro mui santo padre Clemente papa undézimo como consta por tres bulas que pasaron en el oficio de Alonso Gómez notario de número de Zamora, su fecha en el mes de septiembre a diez y seis del dicho mes, y con licencia que para ello tube del señor Dn Joseph Núñez de Castro provisor deste obispado, desposé y belé por palabras de presente que acen berdadero matrimonio a Luis Gaytán hijo lejítimo de Domingo Gaytán y Theresa Delgado y a Ysabel Rodríguez hija lejítima de Juº Rodríguez Pérez y de Theodora Alonso Delgado, no abiendo resultado otro alguno ympedimento más del referido en que ban dispensados, y para que conste lo firmé en Casaseca de las Chanas, siendo testigos Alonso Delgado, Pedro Alonso Pérez y Antonio Moreno vecinos de este dicho lugar. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "El asiento empieza en esta imagen y termina en el folio 86, fotografiado en «Matrimonio de Antonio Morales e Isabel de Urueña».",
+        "El año no se expresa («dicho año»). El asiento siguiente del mismo folio, el matrimonio de Antonio Morales e Isabel de Urueña, es del «nueve del corriente», de modo que ambos son del mismo noviembre; TATARABUELOS SEXTOS da 1701 para los dos y la dispensa es de Clemente XI, elegido en noviembre de 1700. Se corrige el 06-11-1703 que el árbol tomaba de TATARABUELOS QUINTOS."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-gaitan",
+        "isabel-rodriguez"
+      ],
+      "applied": [
+        "Matrimonio corregido de 06-11-1703 a 06-11-1701, con transcripción y nota de la dispensa."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Antonio Morales e Isabel de Urueña.JPG",
+          "sha256": "c48969a5e3c4598ae7462f4259e153db6b04919380321f342f9754fe89ace154",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1701-11-09",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Antonio Morales y Ysabel de Urueña.\n\nEn nuebe del coriente, abiendo precedido las tres admonestaciones que manda el Santo Concilio de Tridento y nuestra Santa Madre Yglesia tiene determinado, desposé y belé por palabras de presente que acen berdadero matrimonio a Antonio Morales hijo lejítimo de Blas Morales y de Joana Tobal con Ysabel de Urueña moza soltera yja lejítima de Luis de Urueña y de María de Arenas vecinos del lugar de Moraleja, siendo testigos Luis Balladolid, Franco Carbajal y Baptista Delgado y en fee dello lo firmé en dicho día mes y año. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "Folio 86. El mes y el año no se expresan («nueve del corriente»): sigue al matrimonio de Luis Gaitán e Isabel Rodríguez, del 6 de noviembre. La parte superior de la imagen contiene el final de ese asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-morales",
+        "isabel-de-uruena"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; coinciden fecha, lugar y los cuatro padres."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Antonio Ufano y Francisca de Luelmo1.JPG",
+          "sha256": "4e04c0de8a1068b28700dc087162acf34b99609166a84779cfb14b8e107ecde0",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Antonio Ufano y Francisca de Luelmo2.JPG",
+          "sha256": "0c534eb78eb32929694f31af54a8d363521f7b084097470ef2ac1a5de99036c6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1688-02-29",
+      "place": "Morales del Vino",
+      "transcription": "Antº Ufano y Franca de Luelmo.\n\nEn veinte y nuebe días de el mes de febº de este año de mil seiscientos y ochenta y ocho, con mi lizenzia desposó el Lizº Gerónimo de Luelmo clérigo presbítero por palabras de presente que hazen verdadero matrimonio a Antº Ufano y a Franca de Luelmo, aviendo prezedido las tres amonestaziones que dispone el Sto Conzilio y no haviendo resultado impedimento alguno en este lugar ni en la villa de Entrala de donde era vezino el dho Antº Ufano. Fueron testigos el Lizº Franco Martín, Pº Martín y Marcos [ilegible] vezinos de este dho lugar de Morales y en fe de ello lo firmé fecho ut supra. Lizº Diego de Mena.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra. La partida no nombra a los padres; la identificación descansa en los nombres, el lugar y el nacimiento de Antonia Ufano Luelmo en 1689.",
+        "La segunda imagen contiene además el comienzo del matrimonio de Juan Pérez, vecino de San Frontis y viudo de Francisca Martín, con Isabel de Luelmo, del 17 de septiembre de 1688."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-ufano",
+        "francisca-de-luelmo"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 29-02-1688 en Morales del Vino, en ambas fichas; observación sobre la vecindad de Antonio en Entrala."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Atilano Zurdo y Sebastiana Mayordomo.JPG",
+          "sha256": "aebb36368159c8908416f86eb62b556e502669e5572ab2bff71200fd87608fa3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1694-11-21",
+      "place": "Gáname",
+      "transcription": "En veinte y un días del mes de nobiembre de mill seiscientos y nobenta y quatro años, aviendo precedido tres publicaciones en tres días festibos al offertorio de la missa según lo dispuesto por el Sto Concilio Tridentino, casé y velé in facie eclesiæ a Atilano Zurdo con Sebastiana Mayordoma. Fueron testigos el Ldo Joseph Díez, Gregorio de Olmedo y Domingo Blanco y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "El asiento no expresa la localidad: se toma Gáname, de donde eran ambos y donde nació su hijo José en mayo de 1695; los apellidos de testigos y vecinos de la página (Olmedo, Gaspar, Mayordomo) son los de Gáname."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "atilano-zurdo",
+        "sebastiana-mayordomo"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 21-11-1694 en Gáname, en ambas fichas."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Baltasar Brioso y Luisa Alonso1.JPG",
+          "sha256": "f3bb905677854790ccb8dad7c032f3a987ec62af7b54612e4fbefd489ba753c3",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Baltasar Brioso y Luisa Alonso2.JPG",
+          "sha256": "a03dfa3580f977a7b2dd922ff9e7558bd28ff3d76154a67b8faf8733480856cf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1817-01-20",
+      "place": "Moraleja del Vino",
+      "transcription": "Baltasar Brioso y Luisa Alonso.\n\nDía veinte de Enero de este año mil ochocientos diez y siete, haviendo precedido los consentimientos paternos, el examen y aprovación en doctrina christiana, las tres canónicas admoniciones, dadas en el Lugar de Morales de Zamora, y dos en este Lugar de Moraleja, por haber dispensado una el Sr Provisor, sin que ni de unas ni de otras resultase impedimento alguno, más que el parentesco de quatro veces quarto grado de consanguinidad, de que se hallan dispensados, como consta del Despacho del Sr Provisor de Zamora dado en catorce de Enero de este presente año, refrendado por el Notario maior Damián Rodríguez, Yo el P. fr. Miguel Macías del Orden de Predicadores, con licencia del Párroco proprio de este Lugar de Moraleja, desposé en la Yglesia Parroquial de dicho Lugar a Baltasar Brioso, natural del Lugar de Morales de Zamora, hijo legítimo de Alonso Brioso y de Ynés Martín naturales y vecinos de dicho Lugar de Morales, con Luisa Alonso del mismo estado, natural de este Lugar de Moraleja, hija legítima de Dn Bernardo Alonso y de Ysavel Delgado de esta naturaleza y vecindad, y en seguida les di las Bendiciones de la Yglesia. Fueron testigos Juan Franco de Luelmo vecino del Lugar de Morales, Bernardino Santa María y Antonio Rubio vecinos de este de Moraleja y lo firmo con el Sr Cura Párroco. Fr. Miguel Macías. Dr. Dn. Manuel Pacheco.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra, que está desenfocada: el nombre del primer testigo se lee con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "baltasar-brioso-martin",
+        "luisa-alonso-delgado"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota de la dispensa."
+      ],
+      "destination": "Tatarabuelos segundos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Domingo Gaitán y Teresa Delgado.JPG",
+          "sha256": "df1dc1f6c3e6cbe88923d269d173a091bd6356301a28c8458b6d683b098e45fc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1665-09-13",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Domingo Gaitán con Teresa.\n\nEn trece de setiembre desposé y belé in facie eclesie, aviendo precedido las tres amonestaciones que manda el Sto C. de T., a Domingo Gaitán hijo de Luis Gaitán con Teresa Delgado hija de Andrés Delgado Capitán y María de Bergara. Fueron sus padrinos Lázaro Rz y Ynés [ilegible]. Testigos Juº Moreno sacristán, Lázaro Alº y los demás y por berdad lo firmé. Ldo Moreno.",
+      "uncertainties": [
+        "El año no se expresa: el asiento precede al encabezado «Año de 1666», de modo que es 1665, como en el árbol.",
+        "La partida llama a la madre de Teresa «María de Bergara»; el árbol la registra como Isabel de Vergara, según TATARABUELOS SEXTOS. Se mantiene el nombre del árbol hasta cotejar el bautismo de Teresa."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-gaitan",
+        "teresa-delgado"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Alcántara y María Lucas.JPG",
+          "sha256": "1250be3bd69aefb64dfec809618595c7e59e2b8e9768feffe63b3ba9560c73d9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1665-09-15",
+      "place": "El Cubo del Vino",
+      "transcription": "Franco y María.\n\nEn quince de setiembre del año de mil e seis[ilegible]ta y cinco desposé yo el cura del Cubo Santiago S[ilegible] palabras de presente a Franco de Alcántara con Mar[ilegible] villa, abiéndose admonestado los tres días festibos y no [ilegible] impedimento por donde no pueda ser bálido [ilegible] lo firmé. Dº Santiago Sánchez.\n\nFranco y María.\n\nEn siete de febrero del año de mil e seiscientos [ilegible] y seis belé a los dichos ut supra Franco de Alcántara [ilegible] María Lucas vecinos desta villa. Fueron testigos Migel Gómez e [ilegible] y Marcos Rodríguez y Sebastián Sánchez vecinos de la dicha villa. Lo firmé yo el cura del Cubo dicho día. Dº Santiago Sánchez.",
+      "uncertainties": [
+        "El borde derecho de la hoja está roto y faltan finales de línea, entre ellos la decena del año y el nombre de la contrayente en el primer asiento; el segundo, de la velación, nombra a María Lucas, y el asiento siguiente de la página es de febrero de mil seiscientos sesenta y seis, de modo que el desposorio es de 1665."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-alcantara",
+        "maria-lucas"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 15-09-1665 en El Cubo del Vino, en ambas fichas; nota con la velación del 07-02-1666."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Carretero y María Pérez.JPG",
+          "sha256": "b8a1d8a1913e22f9dde48af175b27d41eca95b372d4cf1b776f4c0abba683c24",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1781-07-18",
+      "place": "Peleas de Arriba",
+      "transcription": "Franco Carretero con María Pérez.\n\nEn el día diez y ocho de Julio del año de mil setecientos ochenta y uno, yo el infrascripto Cura Theniente de este lugar de Peleas de Arriva, solennicé asistiendo al Matrimonio que in facie Ecclesiæ contragerón Francisco Carretero mozo soltero, e hijo legítimo de Atilano Carretero, y de Engracia Galán vecinos de este dho lugar de Peleas, con María Pérez del mismo estado hija lexítima de Juan Pérez, y de Cathalina de Mathos, también vezinos de este dho lugar, precediendo a todo el haver echado dispensa (por hallarse parientes en quarto grado de consanguinidad) con los despachos, y licencias requisitas, ni haver resultado impedimento alguno en las moniciones, que previene el Sto Concilio de Trento, ni en el examen de Doctrina Christiana que también precedieron. Se velaron en el mismo día, comulgando a la misa, de que fueron testigos Gregorio Baylón, y Dionisio Fernández vecinos deste referido lugar. Y para que conste lo firmo. Tirso Frayle.",
+      "uncertainties": [
+        "Algunos finales de línea quedan ocultos en el lomo del libro; se completan cuando la parte visible determina la palabra. La firma se lee «Tirso Frayle» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-carretero-galan",
+        "maria-perez-matos"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 18-07-1781 en Peleas de Arriba, en ambas fichas; nota de la dispensa."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Galán e Isabel Pérez.JPG",
+          "sha256": "8875a041f63454f65f1a4a31973769132b28c34b9bdc6f93e5156bd8723584e3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1722-12-25",
+      "place": "Peleas de Arriba",
+      "transcription": "En beinti cinco de diciembre de setecientos y veinti dos yo el Ldo Franco Rz Pesquera cura proprio deste lugar esposé y velé solenemente in facie eclesie a Ysabel Pérez yja de Santiago Pérez y de su muger Ana Bailón ya difunta vecinos deste lugar de Peleas de Arriba y a Fernando Galán yjo de Andrés Galán ya difunto y de su muger Mª Mateo vecinos de dicho lugar, abiendo procedido lo dispuesto por el Santo Concilio de Trento, siendo testigos Franco Matos y Juan Galán y Andrés Pérez y lo firmé dicho día. Ldo Franco Rodríguez Pesquera.",
+      "uncertainties": [
+        "El contrayente es Fernando Galán (el nombre de la imagen dice Francisco). La contrayente figura como Isabel Pérez, hija de Santiago Pérez y Ana Bailón; la mujer de Fernando en el bautismo de su hija Engracia (1731) y en los entierros de ambos (1749) es Francisca Pérez, y la Francisca Pérez bautizada en 1701 es hija de Santiago Pérez e Isabel Bailón. Puede ser un trueque de nombres del cura o un primer matrimonio con una hermana; no se decide. El matrimonio se registra en la ficha de Fernando sin enlazar cónyuge.",
+        "Una mano moderna anotó en el margen, con bolígrafo, «Fernando Galán con Isabel Pérez».",
+        "Andrés Galán y María Mateo bautizaron en Peleas de Arriba a otra hija, Francisca, el 22 de mayo de 1701 (imagen «Francisca Pérez Bailón2» de Tatarabuelos quintos)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "fernando-galan"
+      ],
+      "applied": [
+        "Padres nuevos de Fernando Galán: Andrés Galán y María Mateo; matrimonio del 25-12-1722 sin cónyuge enlazado; observación sobre el nombre de la contrayente."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Ponce y María Zamora.JPG",
+          "sha256": "a6bd90824ffbc703e7818ced3b1a49420436cfb9599e17503c296fef7a42318e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1660-01-11",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Año de 1660.\n\nFranco Ponze con Mª Zamª.\n\nEn onze de enº desposé, y saqué a missa en quinze de dicho mes, a Franco Ponze viudo con María de Zamª viuda de Juº Morales. Fueron padrinos Domingo Gª, madrina Isabel Gª muger de Juº Bueno. Testigos Antº Moreno sacristán y Agustín Estevan. Ldo Moreno.",
+      "status": "incorporada",
+      "personIds": [
+        "francisco-ponce",
+        "maria-zamora"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota con la misa del 15 de enero; observaciones sobre sus viudeces."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Terrón y Ángela Campo1.JPG",
+          "sha256": "b72fe3fbc814f9e5fe5e74faf206a140fe92e11e16460cf7949fdafc8e1b1709",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Francisco Terrón y Ángela Campo2.JPG",
+          "sha256": "4e0f023b03fd69532048bb33105ce6b48802df8b554451fbdc7a52e46ae10b11",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1737-08-21",
+      "place": "El Cubo del Vino",
+      "transcription": "Franco con Ángela.\n\nEn la Villa de el Cubo a veinte y un días de el mes de Agosto de mil setecientos y treinta y siete yo el infrascripto cura desposé y velé in facie Ecclesiæ a Francisco Terrón hijo lexítimo de Francisco Terrón difunto y de Isabel Díaz su muger vecinos de esta villa con Ángela Campo hija lexítima de Juan Campo y de Isabel Delgado difuntos vecinos que fueron de el lugar de Cabañas, aviéndose corrido las tres canónicas moniciones, y aviéndome presentado la certificación del Sr Cura de Cabañas, de las quales no resultó impedimento alguno. Fueron testigos Lorenzo Delgado, Antonio Díaz y Pedro Barrios todos vecinos de dha villa y para que conste lo firmo en dha villa dho día mes y año dho. Manuel Alonso.",
+      "uncertainties": [
+        "Otra toma del asiento ya transcrito con las imágenes «Francisco Terrón y Ángela Campo1» y «2»; no añade datos."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-terron",
+        "angela-campo"
+      ],
+      "applied": [
+        "Sin cambios: el matrimonio ya tenía esta transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Francisco Zamora e Inés García.JPG",
+          "sha256": "bf66e70b9539a7a2c1c1140f8fecc6c4769589d37f1f7499d796ea4bcadcdefc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1645-12-24",
+      "place": "Moraleja del Vino",
+      "transcription": "Ynés García y Franco Zamª.\n\nEn veinte y quatro de deziembre de mill y seyscientos y quarenta y çinco, abiendo dado tres moniciones en tres días festivos al ofertorio de la missa mayor y no abiendo impedimento, desposé a Ynés García moça y a Franco Zamª el hidalgo y fueron testigos Franco de [ilegible] y Pedro Salvador y Alonso Rubio sacristán y otros muchos vecinos de Moraleja y lo firmé yo el cura. El Ldo Franco de San Miguel.\n\nVeláronse Franco Zamª y Ynés García en diez y siete de setiembre de mill y seyscientos y quarenta y seys [ilegible] de la missa cantada y firmé. El Ldo Franco de San Miguel.",
+      "uncertainties": [
+        "El desposorio es del 24-12-1645; el 17-09-1646 que daba el árbol es la velación, anotada aparte. Se aplica el criterio de la familia: la fecha del matrimonio es la del desposorio y la velación va en la nota.",
+        "El mes de la velación está abreviado y se lee «setiembre» con el apoyo de la fecha de los resúmenes familiares. La partida llama al contrayente «el hidalgo»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-zamora-padre-de-francisco-zamora",
+        "ines-garcia"
+      ],
+      "applied": [
+        "Matrimonio corregido de 17-09-1646 a 24-12-1645, con la velación en la nota y transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Gabriel Martín y Basilisa Sánchez.JPG",
+          "sha256": "82b6e3b5b579409c75ab6144aff4597fd7518bb6dd81f092eee1470aba7f254a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1707-02-08",
+      "place": "La Hiniesta",
+      "transcription": "En ocho de febrero de mil y setecientos y siete años casé y belé in facie eclesie según lo dispone el Santo Concilio y la Santa Madre Yglesia a Gabriel Martín vecino de el lugar de Roales y Badalisa Sánchez. Fueron sus padrinos Gabriel de Billalba vecino de Zamora y Cecilia [ilegible] vecina de Sn Frontes estramuros de Zamora, siendo testigos Roque de [ilegible], Alonsso Carretero y Juan de Matheos vecinos de el lugar y por ser verdad lo firmé ut supra. Germo Sánchez de Balboa.",
+      "uncertainties": [
+        "El asiento no expresa la localidad. Gabriel figura como vecino de Roales y los testigos como «vecinos de el lugar», de modo que el libro no es el de Roales: se toma La Hiniesta, donde nació Basilisa en 1689.",
+        "La partida no nombra a los padres; la identificación descansa en los nombres, la vecindad de Gabriel y el nacimiento de su hija Inés en Roales en 1723."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "gabriel-martin",
+        "basilisa-sanchez"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 08-02-1707 en La Hiniesta, en ambas fichas."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Jerónimo Calabaza y Baltasara Pérez.JPG",
+          "sha256": "18c3bcb7045470bae2168452dff3159f0d430e1740eb78604d5e35a8e84edd20",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1752-12-02",
+      "place": "Peleas de Arriba",
+      "transcription": "Gerónimo Calabaza viudo con Balthasara Pérez soltera. En los dos de Dizre se velaron.\n\nEn dos de Diziembre de mill setecientos y cinquenta y dos años yo el infra escrito Cura proprio de esta parrochial del lugar de Peleas de Arriba anejo de la de Fuente el Carnero asistí al matrimonio, que in facie Ecclesiæ hicieron verdadero por palabras de presente Gerónimo Calabaza viudo de Josepha Gutiérrez, y Balthasara Pérez soltera, los quales por el parentesco de segundo con tercero grado de consanguinidad y del pecado o pecados de incesto obtubieron bulla de su Santidad, siendo Juez el Doctor Tejada y notario Dn Phelipe Allende, y en vista de la licencia a mí dada el día diez y seis de Nobre asistí a dho matrimonio aviendo precedido las tres canónicas moniciones que dispone el Sto Concilio, y no resultó algún impedimento impediente ni dirimente que prohibiese dho matrimonio, siendo testigos Franco Bailón, Manuel Pérez, Alexandro Ribera y otros vezinos, y por ser verdad y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "Folio 30. La partida no nombra a los padres; coinciden los nombres, la parroquia y la cronología con los padres de Eusebia Calabaza Pérez (1764)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jeronimo-calabaza",
+        "baltasara-perez"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 02-12-1752 en Peleas de Arriba, en ambas fichas; nota de la dispensa; observación sobre la viudez de Jerónimo."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de José Girón e Inés Martín.JPG",
+          "sha256": "1cbfeb045efc0d51a8a92a205d42b5ebbd1bba296224e93d814726dfe8469113",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1744-12-17",
+      "place": "Roales",
+      "transcription": "Joseph Girón con Ynés Martín.\n\nEn diez y siete días del mes de Deciembre del año de mill setecientos y quarenta y quatro yo el infrascripto cura proprio de este Lugar de Roales, aviendo precedido las proclamas que dispone el Sto Concilio de Trento, y no aviendo resultado impedimento alguno, asistí al Matrimonio que se celebró entre Joseph Girón mozo soltero vº y natural de este lugar, hijo de Manuel Girón y de Ysabel Martín vecinos que fueron de dho Lugar, y Ynés Martín moza soltera hixa lexítima de Gabriel Martín ya difunto y de Basilisa Sánchez vecinos asimismo de él. Fueron testigos Martín de la Torre, Manuel Pastor, y Juan de la Parra todos vecinos de este lugar: y se velaron in facie Ecclesiæ el día veinte y quatro de febrero del año siguiente de mill setecientos y quarenta y cinco y para conste lo firmé dicho día mes y año. Joseph Villamor y Monroy.",
+      "status": "incorporada",
+      "personIds": [
+        "jose-giron",
+        "ines-martin"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota con la velación del 24-02-1745."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Martín y Emerenciana Martín.JPG",
+          "sha256": "2ae50a20a51d3d26691366e4ece05731103df7189866f4df14c20c912d064c15",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1684-10-01",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juº Martín. Merenciana Martín.\n\nEn primero de otubre de ochenta i quatro, abiendo prezedido las tres almonestaciones que manda el Santo Conzilio de Trento i la disposizión de nuestra madre la iglesia, desposé i belé por palabras de presente que azen berdadero sacramento a Juº Martín hijo de Luis Martín familiar del Sto Offº i de María Garzía bezinos de Moralexa con Merenciana Martín hija de Alonso Martín i de Bárbola Asensio. Fueron testigos el Ldo [ilegible] Xanbrina i el Ldo Pº Pérez i Antonio Moreno sachristán i en fe dello lo firmé. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "La partida llama al contrayente Juan Martín, hijo de Luis Martín, familiar del Santo Oficio; el árbol lo registra como Juan Martínez García, hijo de Luis Martínez, según los resúmenes familiares. Se mantiene el nombre del árbol y la variante va a las observaciones. El apellido de la madre se lee «Garzía» con reservas.",
+        "La misma página contiene, bajo el encabezado «Año de 1684», el matrimonio de Francisco Carbajal y Josefa Delgado del 2 de abril, que también se incorpora, y otro del 4 de febrero entre un Rodrigo Alonso y una María Méndez, hija de un Méndez y de María Madaleno, que no se ha leído completo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-martinez",
+        "emerenciana-martin-madre-de-maria-martinez",
+        "francisco-carbajal",
+        "josefa-delgado"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de Juan Martínez García y Emerenciana Martín Asensio; observación con la variante del apellido; transcripción en el matrimonio de Francisco Carbajal Alonso y Josefa Delgado Martín."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Nieto y María Galán.JPG",
+          "sha256": "2fe5d62d150c89a3489b8b6726dfe5396f69a14094bcc02ecc5155189942d314",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1660-09-11",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juº Nieto con Mª Galana.\n\nEn onze de setiembre salió a missa Juº Nieto con María Galana viuda de Juº Delgado. Fue su padrino Pº Nieto y María Martín. Testigos Franco Andrés [ilegible] y lo firmé. Ldo Moreno.",
+      "uncertainties": [
+        "Folio 33. El asiento no expresa el año: sigue a los de 1660 del mismo libro y el árbol registra el 11-09-1660. Es la salida a misa (velación); no consta otra fecha de desposorio.",
+        "La partida dice que María Galana era viuda de Juan Delgado; el árbol la identifica con María Galán Méndez, nacida el 17-08-1642, que tendría dieciocho años. La identificación de su bautismo queda por cotejar con su fotografía."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-nieto",
+        "maria-galan"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; observación sobre la viudez de María."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Pérez y Emerenciana Garzón.JPG",
+          "sha256": "e9385c15f2a0927445ae435672efdff6c59f68ca8e1c7c98caaf2760ef1fa3b9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1637-11-23",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juº Pérez y Merenciana Garzón.\n\nEn 23 de nobiembre de 637 años [ilegible] el dicho cura salió a misa Juº Pérez moço y Emerenciana Garçón y lo firmé. Alonso de Llamas.",
+      "uncertainties": [
+        "El año se escribe «637»: el asiento anterior es del 28 de agosto de 637 y debajo figura la nota de la visita del 25 de junio de 1638, que revisa los asientos «desde la visita passada». Se corrige el 23-11-1631 que el árbol tomaba de los resúmenes familiares, donde el 7 se leyó como 1.",
+        "El asiento registra la salida a misa (velación); no nombra padres ni testigos, como reprocha la propia nota de visita."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-perez-padre-de-emerenciana-perez",
+        "emerenciana-garzon"
+      ],
+      "applied": [
+        "Matrimonio corregido de 23-11-1631 a 23-11-1637, con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Rodríguez y Francisca Méndez.JPG",
+          "sha256": "0a6c1e74a8359f6313aa8d6a34ae7362d979af665ce518726a36bb4f5bacdbcd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1673-02-02",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Año de 1673.\n\nJuº Rodríguez y Franca Méndez.\n\nEn dos de febrero del año de mil y seiscientos y setenta y tres desposé por palabras de presente que hacen verdadero matrimonio, aviendo precedido las amonestaciones que manda el Sto Concilio, a Juº Rodríguez y Franca Méndez. Fueron testigos Custodio Martín y Custodio García sacristán y lo firmé. Dn Antº Domínguez.\n\nEn quinze de otubre de dicho año se belaron in facie eclesia los dichos Juan Rodríguez y Franca Méndez. Fueron sus padrinos Alonso Quadrado y Teresa de Valencia [ilegible] testigos y por ser así lo firmé. Dn Pº Falagón de la Cuesta.",
+      "uncertainties": [
+        "El desposorio es del 02-02-1673; el 15-10-1673 que daba el árbol es la velación, anotada al margen. Se aplica el criterio de la familia: la fecha del matrimonio es la del desposorio y la velación va en la nota.",
+        "La partida no nombra padres; coinciden los nombres, el lugar y la fecha de la velación con los resúmenes familiares."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-rodriguez-corralino",
+        "francisca-mendez"
+      ],
+      "applied": [
+        "Matrimonio corregido de 15-10-1673 a 02-02-1673, con la velación en la nota y transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Rodríguez y Teodora Alonso.JPG",
+          "sha256": "7fa1e901c5408d03b98d7903e3ab50e40a27fb0bf0297824575063b4b5479e58",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1683-01-11",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Año de 1683.\n\nJuan Rodríguez Pérez con Theodora Alonso Delgado.\n\nEn onze de enero deste presente año de mil i seiscientos i ochenta i tres io Dn Joseph de Miranda cura propio deste lugar desposé i belé sigún dispone el Sto Concilio de Trento i manda nuestra madre la iglesia a Teodora Alº ixa de Marcos Alº i de Josepha Delgado con Juº Rodrígez biudo de Úrsula Martín bezinos i naturales deste lugar, siendo testigos Franco Pérez y Andrés Delgado Capitán y Antonio Moreno sachristán i para que conste lo firmé ut supra. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "El margen tiene una primera anotación tachada y, debajo, de otra mano, «Juan Rodríguez Pérez con Theodora Alonso Delgado»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-rodriguez-perez",
+        "teodora-alonso"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; coinciden fecha, lugar, los padres de Teodora y la viudez de Juan."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Rodríguez y Úrsula Martín.JPG",
+          "sha256": "b89948da9548abce1dd30c19920537c942d3329c3d85c149bf838380bdfa0c64",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1671-01-22",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juan Rodríguez. Úrsula Martín.\n\nEn veinte y dos de henero deste presente año yo el Ldo Pedro Pérez clérigo presbítero vecino deste lugar de Casaseca de las Chanas de horden del cura deste dho lugar desposé y velé in facie ecclesie, aviendo precedido primero las tres moniciones que dispone el Sto Concilio de Trento, a Juan Rodríguez y Úrsula Martín, siendo testigos Custodio Martín, Miguel Delgado y Bernardo Amigo todos vecinos deste lugar y en fee dello lo firmé. Ldo Pedro Pérez.",
+      "uncertainties": [
+        "El asiento no expresa el año («deste presente año»); el árbol registra 1671. No nombra padres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-rodriguez-perez",
+        "ursula-martin"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan Sánchez y María Gómez.JPG",
+          "sha256": "1c6c58d6aa06d0dcf1198b88f70bded010cb54402d7b101558009226218e4230",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1695-08-28",
+      "place": "El Cubo del Vino",
+      "transcription": "Año de 1695.\n\nJuan y María.\n\nEn veinte y ocho días del mes de Agosto de 1695 yo el cura propio desta villa del Cubo desposé in facie eclesie a Juan Sánchez mozo libre, hijo lexítimo de Domingo Sánchez y de María Pérez difuntos y vecinos que fueron del lugar de Cabañas, y a María Gómez viuda de Alonso Antón, vecino que fue de dha villa, y lo firmé en dho día en dha villa. Santiago Martín.",
+      "uncertainties": [
+        "La partida no nombra a los padres de María Gómez; coinciden los nombres, el lugar y el nacimiento de Santiago Sánchez Gómez en 1696. «Cabañas» se indexa como Cabañas de Sayago, como en la ficha de Ángela Campo Delgado."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-sanchez",
+        "maria-gomez"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 28-08-1695 en El Cubo del Vino, en ambas fichas; padres nuevos de Juan Sánchez: Domingo Sánchez y María Pérez, vecinos de Cabañas; observación sobre la viudez de María."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Juan de Luelmo y Ana Nieto.JPG",
+          "sha256": "6261067359b2f27d1f08fac2e2ecc6527b71d62bf1866ed642626d2e5c22d996",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1657-03-11",
+      "place": "Moraleja del Vino",
+      "transcription": "Juº del Huelmo y Ana Nieto.\n\nEn onze de Março de 1657, haviendo precedido las tres amonestaciones en la forma que dispone el Santo Concilio de Trento y no resultado impedimento alguno ni dirimente ni impediente, desposé y casé por palabras de presente como lo manda la Sta Madre Yglesia a Juan del Huelmo y a Ana Nieto vecinos de Moralexa. Testigos Pº Lorenzo, Antonio Bambón, Franco García, Alonso Rubio y otros y por verdad lo firmé dho día. El Dor Catalán.\n\nVeláronse en 6 de octubre de 1658.",
+      "uncertainties": [
+        "El desposorio es del 11-03-1657; el 06-10-1658 que daba el árbol es la velación, anotada al pie. Se aplica el criterio de la familia: la fecha del matrimonio es la del desposorio y la velación va en la nota."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-de-luelmo-padre-de-margarita-de-luelmo",
+        "ana-nieto"
+      ],
+      "applied": [
+        "Matrimonio corregido de 06-10-1658 a 11-03-1657, con la velación en la nota y transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Manuel Alonso y Ana Salvador1.JPG",
+          "sha256": "f2310ea0bc31e28d1dc7b0bd32fdc618d452f7353edeca89f6e6958c6f35aeae",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Manuel Alonso y Ana Salvador2.JPG",
+          "sha256": "5aa175f488b63d6028146858ccf104e22138cf509b8c1db8fe73b604c6a5a79d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1686-07-15",
+      "place": "Moraleja del Vino",
+      "transcription": "Manuel Alonso con Ana María Salbador. Beláronse en 30 de setiembre de dicho año. Machorso.\n\nEn quinze días del mes de Julio de mil seiscientos y ochenta y seis años yo el Ldo Luis Martín cura teniente deste lugar de Moraleja desposé a Manuel Alonso biudo de [ilegible] Agustina [ilegible] con Ana María Salbador hija legítima de Pedro Salbador y de María Rodrígez, abiendo corrido las tres amonestaciones que manda el Santo Concilio y siendo requerido por los susodichos con dispensa de Su Santidad para el parentesco que [ilegible], pasada por el Sr [ilegible]. Testigos Miguel Rubio, Antonio Espino y lo firmé. Luis Martín.",
+      "uncertainties": [
+        "El asiento empieza al pie de una imagen y termina en la cabecera de la otra. El nombre de pila de la primera mujer de Manuel Alonso no se lee (abreviatura «Gª» o «Jª»); la frase sobre el parentesco dispensado tiene una palabra tachada."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-alonso-padre-de-bernardo-alonso",
+        "ana-maria-salvador"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota con la velación y la dispensa; observación sobre la viudez de Manuel."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Manuel Hernández y Catalina Nieto.JPG",
+          "sha256": "aa6651df25d242dd4e5bced0bd9cd5f4df5dded4411bc6cbde742755e0b03ca5",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Matrimonio de Manuel Hernández y Catalina Nieto2.JPG",
+          "sha256": "8b5e37ce8f9fc3a001624bd6fcd5f31cb813f275f27f1d02b7f22489eb79bd97",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1681-01-27",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Año de 1681.\n\nManuel Crespo con Cathª Nieto.\n\nEn veinte y siete de henº de mill y seisº y ochenta y un años yo Dn Antonio Hernández Crespo cura propio del lugar de Pontejos, de licencia del Sr Dn Joseph de Miranda desposé y velé in facie Ecclesiæ, haviendo precedido las tres amonestaciones que dispone el Sto Concilio de Trento, a Manuel Hernández Crespo mi hermº con Cathalina Nieto moza soltera y por que conste lo firmé ut supra, siendo testigos el Ldo Pedro Pérez, Germo Gómez Cortijo cura de [ilegible] lugar deste partido de tierra del Pan y Dn [ilegible] cura de [ilegible] del Perdigón ut supra. Dn Antonio Hernández Crespo.",
+      "uncertainties": [
+        "El asiento empieza al pie de una imagen y termina en la cabecera de la otra, que está movida: los nombres de dos testigos y sus parroquias no se leen.",
+        "El oficiante, Antonio Hernández Crespo, cura de Pontejos, llama al contrayente «mi hermano»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-hernandez-crespo",
+        "catalina-nieto"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; observación sobre el hermano del contrayente."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Manuel Montalvo y Josefa Rodríguez.JPG",
+          "sha256": "0ef97a219b04adea9f191e8c94106cc0e5f0afc3ade866844eae5db39b19d74b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1676-05-25",
+      "place": "Moraleja del Vino",
+      "transcription": "Manuel Montalbo. Josepha Rodríguez. Veláronse en 10 de Maio de 1677. Franco de Losada.\n\nEn veinte y cinco de Maio de mil seiscientos setenta y seis años yo el Ldo Franco de Losada cura teniente deste lugar de Moraleja, después de aver precedido las tres publicaciones que dispone el Santo Concilio de Trento en las misas maiores de tres días festibos al tiempo del ofertorio, y no resultado de ellas ympedimento alguno, desposé por palabras de presente a Manuel Montalbo hijo lexítimo de Miguel Montalbo y Catalina Martín ya difunta y a Josepha Rodríguez hija lexítima de Joseph Rodríguez ya difunto y Engracia Martín. Fueron testigos Diego Molinero, Joseph Montalbo y Joseph González menor en días y otras muchas personas vecinos deste lugar y lo firmé. Franco de Losada.",
+      "uncertainties": [
+        "Resuelve el pendiente del lote SEXTOS sobre los padres de Josefa Rodríguez: la partida da la razón a la versión de 2019 («Josefa Rodríguez Martín, hija de José Rodríguez y de Engracia Martín») frente a la de 2018 («Rodríguez Urueña, hija de Domingo Rodríguez y de Catalina Urueña»).",
+        "El día de la velación se lee «10» con reservas. Una Engracia Martín, mujer de Miguel de Santa María, bautizó una hija en Moraleja en 1670 (imagen «Ana Santamaría Martín»): puede ser la misma, casada en segundas nupcias, pero no se acredita."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-montalvo",
+        "josefa-rodriguez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos, con la velación en la nota; Josefa pasa a llamarse Josefa Rodríguez Martín, con padres nuevos José Rodríguez y Engracia Martín."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Martín García y Catalina Delgado.JPG",
+          "sha256": "b077a732896a06c5b4abb878765ec27dc1e78cfec03e50674486c1ef0d5928e5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1681-11-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Martín Garzía. Catalina Delgado.\n\nEn ocho del mes de nobienbre de mil y seiszientos y ochenta y un años yo Dn Joseph de Miranda cura propio deste lugar de Casaseca de las Chanas, abiendo prezedido las tres almonestaziones que dispone nuestra madre la iglesia, desposé i belé in fazie eclesie a Martín Garzía higo de Alonso Garzía y de María Zamora con Catalina Delgado higa de Alonso Delgado y de Catalina Jurado, siendo testigos Custodio Garzía i el Ldo Pedro Pérez y Antonio Moreno sachristán i en fe dello lo firmé dicho día mes i año. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "La partida llama a la madre del contrayente María Zamora; el árbol la registra como María Cordero, según TATARABUELOS SEXTOS («Martín García Cordero»). Se mantiene el árbol y la variante va a las observaciones, a la espera de cotejar el bautismo de Martín."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "martin-garcia",
+        "catalina-delgado"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; observación sobre el nombre de la madre de Martín."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Miguel Pérez y Margarita Girón.JPG",
+          "sha256": "0e14242d55a6071d2cd3d595926fb58e81268e836f82882214f7b1ec3888f128",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1798-10-06",
+      "place": "Roales",
+      "transcription": "Miguel Pérez con Margarita Girón.\n\nEn seis días del mes de Octubre de este año de mil setecientos noventa y ocho, yo el infra escripto Capellán mayor del Hospital Real de la Ciudad de Zamora, de comisión del Sr Dr Dn Thomás de Berra cura párroquo de este lugar de Roales, casé y velé in facie Eclesiæ por palabras de presente que hicieron verdadero matrimonio a Miguel Pérez mozo soltero natural del lugar de Tardobispo, hijo legítimo de Juan Pérez y de Joaquina Roncero vecinos de dho lugar de Tardobispo, y a Margarita Jirón, también soltera, natural de este lugar de Roales, hija legítima de Francisco Jirón y de Josefa Fernández vecinos de este dho lugar, haviendo precedido las tres canónicas admonestaciones según previene el Ritual Romano, tanto en este lugar como en el de Tardobispo, y no haviendo resultado impedimento, según le constaba a dho Dr Dn Thomás, y se me hizo ver por un certificado de Dn Bernardo Roncero párroquo de Tardobispo, como también el examen de doctrina christiana, y los consentimientos paternos de dhos contraientes. Fueron testigos Juan Martín, Francisco Crespo, Josef Julián, y otros vecinos de este pueblo, y para que conste lo firmo a diez y seis de dho mes y año. Dr Josef Requejo. Dr Dn Thomás de Berra.",
+      "status": "incorporada",
+      "personIds": [
+        "miguel-perez-roncero",
+        "margarita-giron-fernandez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; coinciden fecha, lugar y los cuatro padres."
+      ],
+      "destination": "Tatarabuelos segundos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Miguel Sánchez y Manuela Martín.JPG",
+          "sha256": "614a029281bc417afa4282abe8793a67a3dc5fb6631dd6769edf95d6d6a6be57",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1684-11-26",
+      "place": "La Hiniesta",
+      "transcription": "En veinte y seis de nobiembre de 1684 desposé y velé in fazie eclesie, aviendo precedido las tres admonestaziones que ordena el Sto C. de T., a Miguel Sánchez con Manuela Martín. Fueron sus padrinos Manuel Rodríguez y María Sánchez. Testigos Pedro González, Manuel [ilegible] Billasante, Juan Calvo, que se allaron presentes; en fe de ello lo firmé. Germo Sánchez de Balvoa.",
+      "uncertainties": [
+        "El asiento no expresa la localidad: lo firma Gerónimo Sánchez de Balboa, el mismo cura que casó en 1707 a Gabriel Martín, vecino de Roales, con Basilisa Sánchez; se toma La Hiniesta, donde nacieron Miguel (1662) y su hija Basilisa (1689).",
+        "El último dígito del año se confunde entre 1 y 4; la página anterior contiene asientos de 1683, de modo que es 1684. Una palabra tachada tras «seis de». No nombra a los padres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "miguel-sanchez",
+        "manuela-martin-madre-de-basilisa-sanchez"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 26-11-1684 en La Hiniesta, en ambas fichas."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Pedro Díez y Catalina Marqués.JPG",
+          "sha256": "d0e4093dfe683094e42310b02fd6e4d8cca720471aa113cd056c2e63b2685d8a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1683-01-13",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Pº Díez con Catalina Marqués.\n\nAbiendo prezedido las tres admonestaciones que manda el Sto Concilio de Trento i dispone nuestra madre la iglessia desposé i belé por palabras de presente que azen berdadero matrimonio yo Dn Joseph de Miranda propio cura deste lugr a Pº Díez biudo de Josepha Cuesta con Catalina Marqués moza soltera ija de Juº Marqués, siendo testigos Antº Hernández y Juº Cabrero i Antonio Moreno sachistán i para que conste lo firmé ut supra. Casaseca de las Chanas y enero a treze de 1683 años. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "Folio 62. El cura añadió entre líneas su nombre y el del contrayente; el apellido de la primera mujer de Pedro Díez se lee «Cuesta» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-diez",
+        "catalina-marques-madre-de-catalina-diez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; observación sobre la viudez de Pedro."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Pedro Salvador y María Rodríguez.JPG",
+          "sha256": "f1bb0c4851f54e06f646418d5b2cb2f0902348beb3e69371c45a93ac24c1343b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1655-04-19",
+      "place": "Moraleja del Vino",
+      "transcription": "Pedro Salvador.\n\nEn diez i nuebe días del mes de abril de mil seiscientos i cinquenta i cinco años, yo Alonso Montijos cura propio de la iglesia parrochial de Santa María de Roncesvalles i Santa Cathalina de la ciudad de Toro, con licencia del señor Dr Don Sebastián Catalán cura propio de la iglesia parrochial del lugar de la Moraleja, belé a Pedro Salvador i a María Rodríguez su legítima muger, sus feligreses, en el santo templo de Nuestra Señora del Biso, a lo qual se allaron presentes Pedro del Pozo vecino de Villalba de la Lampreana, Jerónimo Barba [ilegible] vecino de la ciudad de Toro y Alonso Rubio sacristán vecino de este lugar de la Moraleja i por verdad lo firmé. Alonso Montijos.",
+      "uncertainties": [
+        "El asiento es de la velación de un matrimonio ya contraído («su legítima muger»); no consta la fecha del desposorio y se mantiene el 19-04-1655 del árbol. Bajo el nombre del margen hay una anotación breve con rúbrica que no se lee.",
+        "El apellido del oficiante se lee «Montijos» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-salvador-padre-de-ana-maria-salvador",
+        "maria-rodriguez-madre-de-ana-maria-salvador"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota de que la partida registra la velación."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Pedro de Prada y Luisa Martín.JPG",
+          "sha256": "1d07acb789b446c956fa44ef9c5d55067b49c864eef2c09d2d359c2094ae1f12",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1731-10-08",
+      "place": "Morales del Vino",
+      "transcription": "Pedro con Luisa.\n\nEn ocho de Otubre de mil setecientos y treinta y uno io el Ldo Dn Luis González cura theniente deste lugar de Morales, con licencia del Sr Provisor deste obispado, desposé i belé in facie eclesie, siendo dispensados en tercero grado de consanguinidad, y dando las tres admoniciones que dispone el Sto Concilio de Trento y nuestra madre la yglesia manda y de ellas no resultó inpedimento alguno, a Pedro de Prada hijo de Franco de Prada y de María Martín con Luisa Martín hija de Franco Martín difunto y de Isavel Yzquierdo vecinos deste lugar. Fueron padrinos Pedro Martín y Luisa de Amor. Testigos Dn Manuel Martín y Luis Martín y Alonso Martín y así lo firmé. Luis González, cura theniente.",
+      "uncertainties": [
+        "Coinciden los cuatro padres; Francisco Martín Cabrero había muerto el 20-09-1731, dieciocho días antes."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-de-prada-martin",
+        "luisa-martin"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 08-10-1731 en Morales del Vino, en ambas fichas; nota de la dispensa."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Salvador Piorno y Vicenta Santiago.JPG",
+          "sha256": "82a315351348e44311703bdad22bb273d47bc4391176bd37ae7eda007a0db269",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1879-10-20",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Salvador Piorno, soltero, con Vicenta Santiago, viuda.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora, a las doce y media del día veinte de Octubre de mil ochocientos setenta y nueve, yo el Párroco de su única Yglesia, ante el altar mayor de la misma, asistí al Matrimonio que por palabras de presente contrajo Salvador Piorno, de estado soltero, residente en este pueblo, de treinta y cuatro años de edad, natural de Malillos de Sayago, licenciado del Ejército con licencia absoluta e hijo legítimo de Julián natural de Gáname y Tomasa Tuda, de dicho Malillos, de donde fueron vecinos, pues ya son difuntos; con Vicenta Santiago, natural de Fadón de Sayago, residente en dicho Casaseca, de treinta y siete años de edad, viuda de Yldefonso Maíllo, que falleció en este referido Casaseca el día diez y ocho de Diciembre de mil ochocientos setenta y ocho, a las ocho de la mañana, hija legítima de Carlos ya difunto y María Sastre del referido Fadón. Precedió la licencia necesaria del Señor Provisor de la diócesis, fueron dispensados por nuestro Excmo. e Yllmo. Prelado de dos moniciones canónicas, y leída la otra al ofertorio de la misa Parroquial de este pueblo, el día diez y nueve de dicho mes y pasadas más de veinticuatro horas de su lectura no resultó impedimento ninguno. Están instruidos lo necesario en doctrina cristiana. El contrayente carece de ascendientes. El día dicho diez y nueve confesaron y comulgaron. Testigos mis feligreses Segundo Maíllo, Bernardo Margallo y Matías Abrantes naturales y vecinos de este. Y para que conste lo firmo fecha ut supra. Severiano Merino Calvo.",
+      "uncertainties": [
+        "Las edades de la partida (34 y 37 años) no coinciden con los nacimientos documentados (03-08-1843 y 22-01-1841: 36 y 38 años); como en el lote de ABUELOS, se conservan los nacimientos y la edad queda solo en la transcripción."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "salvador-piorno-tuda",
+        "vicenta-santiago-sastre"
+      ],
+      "applied": [
+        "Matrimonio nuevo el 20-10-1879 en Casaseca de las Chanas, en ambas fichas; observaciones sobre la viudez de Vicenta y la licencia militar de Salvador."
+      ],
+      "destination": "Bisabuelos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Matías Carrasco Torrado.JPG",
+          "sha256": "f750a3b6d6111f84703d9006cfb2b83b6143362903fdebc2e734f790dab6d35d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Toro",
+      "transcriptionDraft": "En [ilegible] de marzo deste presente año de mil i seiscientos i [ilegible] años, como cura theniente que soi de la parroquial de San Salbador de los Caballeros desta ciudad, con comisión del Sr Dor Andrés Fernández de [ilegible], bautizé i puse los santos olios a Mathías ijo lixítimo de Agustín Carrasco i de Manuela Torrado su muger, feligreses de dicha parroquia. Fueron sus padrinos Bartolomé Torrado i Catarina de Rueda. Testigos el Bdo Sebastián [ilegible], Diego Hernández i Don [ilegible], vecinos desta ciudad, i por berdad lo firmé ut supra. Manuel Crespo.",
+      "uncertainties": [
+        "Imagen desenfocada y con manchas: el día y las decenas del año no se leen (parece «sesenta»; el asiento siguiente de la página es de un 8 de marzo de mil seiscientos sesenta y tantos).",
+        "Homónimo: el Matías Carrasco del árbol es hijo de Pedro Carrasco y Ana Sariñana, de la parroquia de Santo Domingo de Silos (1666); este es hijo de Agustín Carrasco y Manuela Torrado, de San Salvador de los Caballeros. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "matias-carrasco"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Miguel Alonso López.JPG",
+          "sha256": "c1a25546a7e584297188432d05b0b916e5e0773a9bbe5bcd9e0776ff41238f2a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1713-10-07",
+      "place": "Moraleja del Vino",
+      "transcription": "Miguel.\n\nEn siette días del mes de otubre deste presente año de mil siettecientos y trese yo el infra escrito cura theniente deste lugar de Moraleja hice los exorcismos y puse los santos óleos a un niño hijo de legítimo matrimonio de Miguel Alonso y Luisa López; baptisóle por necesidad Dn Antº Machargo cura propio deste dho lugar. Llamósse Miguel. Fueron sus padrinos Luis Gonçales y María López y lo firmé. Antº Pérez Joseph.",
+      "uncertainties": [
+        "Sin enlace: ni el bautizado ni sus padres figuran en el árbol o en los resúmenes familiares. Casó en 1734 con María Ramos (imagen «Miguel Alonso y María Ramos»). Puede pertenecer a la familia Alonso de Moraleja (hay una imagen «Miguel Alonso Salvador» en Tatarabuelos quintos); queda por cotejar."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Miguel Alonso y María Ramos.JPG",
+          "sha256": "022562c315ae253432a42d235f11178a0b9db6a71b80223ab1900a57d3409d9e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1734-03-03",
+      "place": "Moraleja del Vino",
+      "transcription": "Miguel Alonso con María Ramos. Casados y velados.\n\nA día tres de Marzo año de mil settos y treinta y quatro, aviéndose dado las tres admonestaciones en nuestra Yglesia Parroquial deste lugar según lo ordena el Concilio de Trento y no aviendo resultado inpedimento alguno, yo fray Domingo Álvarez cura theniente en este lugar de Moraleja casé y velé a Miguel Alonso hijo legítimo de Miguel Alonso y de Luisa López vecinos deste pueblo con María Ramos hija legítima de Luis Ramos y de Cecilia Martín ansimismo vecinos de él. Fueron testigos Dn Diego Monroy, Manuel Rubio y Francisco Mella todos vecinos del referido lugar y para que conste lo firmé. Fr. Domingo Álvarez. Br. Dn Franco Colmenero.",
+      "uncertainties": [
+        "Folio 268. Sin enlace: el Luis Ramos de este asiento está casado con Cecilia Martín y no es Luis Ramos Bambón, marido de Luisa Montalvo Rodríguez desde 1710."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Miguel Salvador y Ana Hernández.JPG",
+          "sha256": "250f423532cb8b164e9d1b83c4f6493f948dd12f66dc4e5d6aaccd17418be76d",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Miguel Salvador y Ana Hernández (otra toma).JPG"
+        }
+      ],
+      "date": "1664-09-20",
+      "place": "Sanzoles",
+      "transcription": "Miguel Salbador. Ana Hernandes.\n\nEn beinte de setiembre de mil seiscientos y sesenta y quatro yo Germo Núñez cura proprio desta villa, abiendo precedido las tres moniciones que manda el Sto Concilio, desposé y belé in facie eclesie a Miguel Salbador y Ana Hernandes vecinos desta villa y por cierto lo firmé en dicho mes y año. Testigos Baltasar Delgado y Juan Salbador. El Ldo Germo Núñez de Salamanca.",
+      "uncertainties": [
+        "El asiento no nombra la villa ni a los padres; coincide con la fecha y el lugar del árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "miguel-salvador",
+        "ana-hernandez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Miguel de la Iglesia y María Godina.JPG",
+          "sha256": "3f65c4e5cdc366c9b78a5899b3129f107902447df3772a3625fae4491e2c6c13",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1604-10",
+      "place": "Sanzoles",
+      "transcriptionDraft": "Miguel de la Yglesia y Mª Godina.\n\nA diez y [ilegible] de otubre del año de mil y seyscientos y quatro años desposé públicamente según lo manda el santo concilio a Mª Godina con Miguel de la Yglesia vecinos de la villa de Sançoles, siendo testigos Juan Hidalgo y Andrés [ilegible] y Julián de Prada y otros más testigos vecinos de la villa de Sançoles y porque es verdad lo firmé de mi nombre. Antonio Domínguez.",
+      "uncertainties": [
+        "La unidad del día no se lee con seguridad (¿ocho?). Posibles padres de Juan de la Iglesia, padre de Inés de la Iglesia Martín (Sanzoles, 1627); ningún asiento lo acredita todavía y no se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "juan-de-la-iglesia-padre-de-ines-de-la-iglesia"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Marcos Vega1.JPG",
+          "sha256": "44ee73bee481d05e37d4ff4c889a43733b082eaea94a0a4e36ba9a0b1685e886",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte  de Marcos Vega1.JPG",
+          "sha256": "bb97bacec67620e5899c6278b0126e0ebaaf9362f6111aea50bdeaade22554d6",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Marcos Vega2.JPG",
+          "sha256": "9363376c685ce546ca65a739b2a6cd1a42e9b3b81efa53892bb0dcc46de23c2a",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Marcos Vega 3.JPG",
+          "sha256": "019da53cf164e336e5d9a68041d2db54737032958dbb9a495805a06a582c85a9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1715-01-07",
+      "place": "Gáname",
+      "transcription": "Marcos.\n\nA día siete de Enero del año de setezs y quinze murió, aviendo rezivido los Stos Sacramtos, Marcos Vega vezº deste lugar, marido de Ysavel Salvadora; y otorgó su testamto ante Santiago Vega vezº dél, en que mandó se gastasen por vien de su alma treinta ducs y de ellos saliese el funeral acostunbrado, y cinquenta rs para los Padres descalzos de Zamora. Mandó quatro misas cantadas, una a el SSmo Christo, otra a Sn Miguel, otra a ntra Sra del Raio, y otra a ntra Sra de el Rosario, cuia limosna a de salir del cuerpo de vienes, con una charidad el día de su entierro. Dejó por sus testams a Santiago Vega y a su hijo Joseph Vega; mandose ofrendar dos as y enterrarse en esta Yglª, y por herederos a sus hijos Joseph, Juan, Alonso, María, Cathalina y Bernardo Vega. Enterrose junto a el altar de Sta Cathalina y para que conste lo firmé yo el cura. Pedro Rodríguez Armenteros.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio (dos tomas) y termina en la cabecera del folio 22, encabezado «Aº 1715» (otras dos tomas), con la nota marginal «en la Capilla Maior».",
+        "La advocación de la tercera misa se lee «del Raio»; no se ha identificado.",
+        "Los herederos José, Juan y María coinciden con los tres hijos documentados; la partida añade a Alonso, Catalina y Bernardo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "marcos-vega"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; observación con los seis hijos herederos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte De Sebastiana Mayordomo 3.JPG",
+          "sha256": "16f741bfe61ab2eeb9c82f6567e683402b07473f6646548486f1ddbb2008c42b",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Sebastiana Mayordomo1.JPG",
+          "sha256": "ed62c5e7b82699d3779dc99faed0e535d13e13d209bf63bb45cec899b5797176",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Sebastiana Mayordomo2.JPG",
+          "sha256": "d4149fc534d44a6b8940510832eec92138b0f2b4bd3a5c37ec0cb576ded739c8",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Sebastiana Mayordomo 4.JPG",
+          "sha256": "f4a8ce7d9afbb2937375381098d29ab2449f0ba4e0de1169da33a576c3ec652c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1715-01-29",
+      "place": "Gáname",
+      "transcription": "Sebastiana.\n\nA día veinte y nueve de Enero de el año de setezs y quinze murió, aviendo recivido todos los Stos Sacramtos, Sebastiana Maiordomo, muger de Atilano Zurdo, vezs deste lugar de Ganame; quien otorgó su testamto ante Manuel Matheos, en el qual mandó se gastasen por su alma ciento y cinqta y quatro rs, de los quales saliese el funeral acostunbrado de entierro, onrras y novenario, y la limosna de doze misas que fue su voluntad dijese el Pe fr. Bartolomé Albarrán relijioso de Valparaíso; y mandó saliese del cuerpo de vienes quatro misas rezadas en esta Yglª, otra a ntra Sra del Raio, y limosna para la lámpara del SSmo Christo dos rs y una misa de indulgencias. Mandose ofrendar dos as según la costumbre; nombró por testams a el dho su marido y Manuel Matheos; dejó por sus herederos a sus hijos Joseph, Manuel, Michaela y Thomás Zurdo. Enterrose en la sepultura de sus padres según su boluntad en esta Yglª y para que conste lo firmé yo el cura. Pedro Rodríguez Armenteros.",
+      "uncertainties": [
+        "El asiento empieza al pie del folio 22 (dos tomas) y termina en su vuelta (otras dos tomas, una de ellas desenfocada), con la nota marginal «asta aquí cumplidos».",
+        "Las mismas páginas contienen el asiento anterior, del 15 de enero de 1715: la muerte de Manuela Gaspar, viuda de Juan Mayordomo, que nombra herederas a sus hijas María, Sebastiana, Teresa y Antonia Mayordomo y testamentarios a sus yernos Atilano Zurdo, Alonso Antón y Gabriel Pedruelo. Sebastiana, mujer de Atilano Zurdo, es por tanto hija de Juan Mayordomo y Manuela Gaspar; madre e hija murieron con catorce días de diferencia.",
+        "En el asiento de Manuela Gaspar no se lee la palabra anterior a «sepultura» (¿«su», «una»?)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "sebastiana-mayordomo",
+        "manuela-gaspar",
+        "juan-mayordomo"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento de Sebastiana y observación con sus hijos herederos; padres nuevos Juan Mayordomo y Manuela Gaspar, esta con su fallecimiento del 15-01-1715 en Gáname y su transcripción."
+      ],
+      "otherEntries": [
+        {
+          "type": "death",
+          "date": "1715-01-15",
+          "place": "Gáname",
+          "personId": "manuela-gaspar",
+          "note": "Asiento de Manuela Gaspar; su transcripción figura en su ficha."
+        }
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Agustín Valladolid.JPG",
+          "sha256": "bc4b41813e8c666ace60a2c2e8ea244f61a89649e8927975e4bd3eadf65b2370",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-06-13",
+      "place": "Lubián",
+      "transcription": "Notizia de Agustín Valladolid.\n\nA día treze deste mes de Junio (según se dize) se enterró en la Parroql del lugr de Lubián, tierra de Galizia y obpdo de Orense, a Agustín Valladolid, vº que al preste era deste lugr de Cassca de las Chans y marido que fue de Francisca Franco vª al preste dél, y se dize haver hecho testamento ante el cura de dho lugr de Lubián, y en él deja por testamentario a Alonso García vº deste dho lugr de Cassca, y pª que conste lo firmé en dho lugr de Cassca en quinze de Junio de dho año de setezs y veinte y seis. Franco de Quintas.\n\nHiziéronsele los dos oficios de honrras y cavo de año en esta Yglª de Cassca por el ánima de dho Agustín Valladolid.",
+      "uncertainties": [
+        "Es una noticia anotada en el libro de Casaseca de las Chanas: el entierro fue en Lubián el 13-06-1726 «según se dice». El fallecimiento del árbol es el día anterior, 12-06-1726."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "agustin-valladolid"
+      ],
+      "applied": [
+        "Entierro el 13-06-1726 en Lubián con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Alonso.JPG",
+          "sha256": "a191d7e03d9a20c267fd00d74a39d66b23d300cf558b2d72bdf4a4e9f11d81e4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1679-06-18",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alonso Alonso. Entierro, honrras.\n\nEn diez y ocho de Junio de mil y seiscientos y setenta y nuebe murió Alonso Alonso marido de María Pérez. No testó ni rrecivió sacramento alguno por aver sido de rrepente, allándole zerrado por la parte de adentro en una casa solo. Era pobre y no tubo de que testar. Dexó dos yjas donzellas. Enterrose en esta yglesia y lo firmé.",
+      "uncertainties": [
+        "El difunto figura como marido de María Pérez; el Alonso Alonso Simón del árbol (nacido en 1626) es el marido de María Jurado Delgado y padre de Juana Alonso Jurado (1664). Puede ser el mismo hombre casado en segundas nupcias, pero la partida no lo acredita y los resúmenes familiares dejan su fallecimiento en blanco. No se enlaza.",
+        "La firma no se lee."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "alonso-alonso"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Brioso Cabrero.JPG",
+          "sha256": "80b909287ffccf31c7168298a3e9710de91a919b87716b536d900f2fca58101a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1843-05-06",
+      "place": "Morales del Vino",
+      "transcription": "Alonso Brioso Cabrero.\n\nEn el día seis de Maio del año de mil y ochocientos cuarenta y tres se enterró en el Cementerio de este lugar de Morales el cadáver de Alonso Brioso, viudo de Ynés Martín, de edad de ochenta y seis años, que murió el día anterior de hidropesía. Recivió los Sacramentos de Penitencia, Viático y Extremaunción. Dejó tres hijos, Bernardo, Baltasar y María; testó, y se le aplicaron las Yndulgencias pro arto. mortis. Se le hizo entierro con misa y oficios con asistencia y en fee de ello lo firmo ut supra. Agustín de la Calle.",
+      "uncertainties": [
+        "La partida dice que murió el día anterior al entierro: el 06-05-1843 que daba el árbol como fallecimiento es el entierro. La edad de la partida (86 años) no coincide con el nacimiento documentado (15-10-1758: 84 años); se conserva el nacimiento.",
+        "El segundo apellido de la firma no se lee con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-brioso-cabrero"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 06-05-1843 a 05-05-1843; entierro el 06-05-1843 en Morales del Vino con transcripción; observación con sus hijos."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso García Delgado1.JPG",
+          "sha256": "93de506d61a0ddc05c498ba158ab76c85cbb4dd2251615ae50d7bf1e5bd83250",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Alonso García Delgado2.JPG",
+          "sha256": "d2c89d0dd3593c9e97a5ed381715ea0921f85355894f9a5efe2eb53afe6b92ac",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1733-07-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alonso García. Está cumplido. León.\n\nEn el Lugar de Casaseca de las Chanas en ocho días del mes de Jullio de mil setezos y treinta y tres años se enterró en la Yglesia Parroquial deste Lugar a Alonso García, marido de María Martínez, vezºs deste Lugar. Recivió los Santos Sacramentos y hizo testamento ante Bernardo Alonso, escribano de millones de este Lugar, en siete días del referido mes y año, y en él dispuso que su cuerpo fuese sepultado en la Yglesia Parrochial deste Lugar de Casaseca y que fuese con el ábito de Nro Pe San Franco, y que asistiesen a su entierro, honrras y cabo de año dos sacerdotes con el Sr Cura deste Lugar y quatro religiosos del Convto de Nro Pe Sn Franco de la observancia de la Ciudad de Zamora, y que se le haga un nobenario cantado según uso y costumbre deste Lugar, que se le digan las tres misas de indulgencia, que se le diga una misa en el Sto Xpto de Morales y otra en Ntra Sra del Viso, y que se le digan ducientas misas rezadas y que las ciento y cinqta se digan en el Convto de Sn Franco de Calzados de la Ciudad de Zamora, y que se le ofrende dos años en cestilla al uso y costumbre y con bela blanca, y que se le traiga seis achas para el día de su entierro y el de honrras y cabo de año. Dejó por sus testamentarios a Franco Esteban, y a María Martínez muger del referido Alonso Garª, y a Luis García su hermano vezno de Sn Frontes, y por su universal heredera a Emerenciana García su hija, y para que conste lo firmé en este Lugar de Casaseca de las Chanas en diez y seis días del mes de Junio de mil setezos y treinta y quatro. Dn Juan Hernández de León.",
+      "uncertainties": [
+        "El asiento empieza en una imagen y termina en la otra. El oficio de Bernardo Alonso está abreviado («sno de millones») y se lee «escribano» con reservas.",
+        "Es partida de entierro (08-07-1733); el testamento es del día 7 y el fallecimiento del árbol, el 07-07-1733."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-garcia"
+      ],
+      "applied": [
+        "Entierro el 08-07-1733 en Casaseca de las Chanas con transcripción; observación con su hermano."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Martín Brioso.JPG",
+          "sha256": "2f2dd70476c12d276082d382ef304858060afca1a96cc310dab3cd86834c8415",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1777-12-24",
+      "place": "Morales del Vino",
+      "transcription": "Alonso Martín. Vto y cumpdo.\n\nEn veinte y cuatro de Diziembre de mil setezs setenta y siete enterré en esta Yglª a Alonso Martín marido de Ysavel Marqués. Murió de muerte natural, no recivió más que la Extrema Unción, no hizo testamento. Dejó cinco hijos, y lo firmé. Dn Franco Luelmo, thente de cura.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 23-12-1777. La localidad no se expresa en el asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-martin-brioso"
+      ],
+      "applied": [
+        "Entierro el 24-12-1777 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Rodríguez Martín.JPG",
+          "sha256": "2671722c383b1cdaf9fd7d6e808337f6308177dda4887b92b20265d29055660d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1746-11-26",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alonso Rs.\n\nEn veinte y seis de Novbre de mil setezos quarenta y seis se enterró en la parroql deste lugar de Casaseca de las Chans, con el hávito de mi Pe Sn Franco, Alonso Rodríguez, marido que fue de Manuela Jambrina, vezº deste lugr. Recivió los Stos Sacramtos, otorgó su testamto ante Franco Esteban y en él dispuso se le dijesen las tres missas de indulgª, se trajesen seis achas para su entierro y oficios, a los que asistiesen tres sacerdtes, y se le ofrendase año y día con vela blanca. Mandó a N. Sra del Rosario dos tierras y cinqta rs para que, vendidas, todo lo distribuiesen sus alvaceas, que es su muger y yo el infrascripto, en lo que les dexa comunicado, como así mismo otros doszos rs que mandó se nos entregasen. Hízosele un novenario de missas cantadas, y así para que conste lo firmo dhos día, mes y año. Br. Thomás Ventura de Martas.",
+      "uncertainties": [
+        "Folio 342. Es partida de entierro; el fallecimiento del árbol es el día anterior, 25-11-1746. El año está abreviado («setezos qta y seis»)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-rodriguez"
+      ],
+      "applied": [
+        "Entierro el 26-11-1746 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso Román1.JPG",
+          "sha256": "90a1b8e09eba35b10e978d8749aded18ac794d1cfde3cd8a678ed1162c74ea4c",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Alonso Román2.JPG",
+          "sha256": "85c915fb7783cbe1035f426d26ed969bf8d187565eb1d0ca53cb50fd3b8e8f70",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1739-09-14",
+      "place": "Morales del Vino",
+      "transcription": "Alonsso Román. Está cumplido. Cabrero.\n\nEn cattorze de Setiembre de mil settezos y treinta y nuebe as se entterró en estta Yglesia Alonsso Román, el qual murió de su muertte nattural, rezivió los Sanctos Sacramentos de Penitenzia, Eucaristía y Extremaunzión. Hizo testtamentto antte Diego Cabrero fiel de fechos de estte lugr y tomó por su alma trezienttos rs vellón y para que constte lo firmo. Dn Antto Cabrero.",
+      "uncertainties": [
+        "El asiento empieza al pie de una imagen y termina en la cabecera del folio 266. No nombra a su mujer; coincide con Alonso Román, cuyo fallecimiento consta el día anterior, 13-09-1739, en Morales del Vino. Una anotación marginal de la segunda imagen no se lee."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-roman"
+      ],
+      "applied": [
+        "Entierro el 14-09-1739 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Alonso de Mena Sampedro.JPG",
+          "sha256": "391ad70630bdc8bab3d38746472a3ab9fa486852b8ecf9a55bf1149737709411",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1752-01-16",
+      "place": "Morales del Vino",
+      "transcription": "Alonsso de Mena. Cumplido. Cabrero.\n\nEn diez y seis de enero de mil settos y zinquenta y dos as se enterró en esta Yglesia Alonsso de Mena viudo de Juana Migel. Murió el día quinze de dicho mes de su muerte natural, rezivió todos los Sanctos Sacramentos, hizo testamento ante Diego Cabrero fiel de fechos de este lugar, tomó por su alma quatrozientos rs. Dexó quatro hijos y para que conste lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 15, como el árbol, y el entierro el 16."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-de-mena"
+      ],
+      "applied": [
+        "Entierro el 16-01-1752 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Alonso Pérez.JPG",
+          "sha256": "dd5c099e8e4d8de9b269a113116d058ac5607b5627f2f86707bf1763782348cd",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Ana Alonso.JPG",
+          "sha256": "73209ceb466a526164d6ecd3f30a0c14f169c69d1ca11f49d73d05fd076bd8c4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-10-29",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ana Alº.\n\nEl día veinte y nueve de Octubre de dho año de mil setezs y veinte y s[ilegible] se interró en la terzera sepoltura de la terzera fila que está antes de entrar en la Capilla mayr a Ana Alonso muger que fue de Miguel Rodríguez difunto, vzos que fueron deste lugr de Cassca de las Chanas. Rezivió los Stos Sacramtos e hizo testamto ante Juan Mayllo, i en él mandó enterrarse en esta dha Ygla con el hávito de Ntro P. S. Franco, i que se le hagan los tres ofizios acostumbrados de entierro, honrras y cavo de año con la zera i ofrda que en este lugr es costumbre, que se le paguen a las obras pías lo acostumbrado, que se le traiga Bula de difuntos, que se le digan las tres misas de indulxa, que a ntra Sra del Rosario desta Ygla le traigan una pierna de zera, que le digan por su intenzión doze misas rezadas, i que se le ofrende año i día su sepultura según el estilo i costumbre deste lugr. I deja por testamentarios a Berndo Alonso i a Alonso Manso vzos dél, y por herederos a sus tres hijos que al preste tiene, i pa que conste lo firmé yo el infrascripto cura propo que e sido deste lugr i al preste thente que soi dél y cura propo de la Abadía de Sta María la Nueba de la Ziud de Zamora. Franco de Quintas.\n\nOjo. Ítem deja mandado se le diga una misa en el Sto Xpto de Morales y otra en ntra Sra del Viso.\n\nEstán hechos los ofizios de Ana Alonso.",
+      "uncertainties": [
+        "Dos tomas del mismo asiento; el borde derecho de la hoja corta algunos finales de línea, que se completan cuando la parte visible determina la palabra. La unidad del año queda cortada («veinte y s…»).",
+        "El asiento es de 1726: sigue a los entierros de su marido, Miguel Rodríguez (13 de octubre de 1726), y de Catalina Marqués (14 de octubre), llama a Miguel «difunto» y precede al encabezado «Año de 1727». El 28-10-1720 de TATARABUELOS QUINTOS es una errata por 1726: se corrige el fallecimiento al 28-10-1726, la víspera del entierro, como en el resto del documento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-alonso"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 28-10-1720 a 28-10-1726; entierro el 29-10-1726 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Chico.JPG",
+          "sha256": "c4e7397f135c3a1b2dbd46730fc6b364f0fea6ee041512a37af8c9836b5edda2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1737-03-09",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ana Chico.\n\nEn nueve de Marzo de mil setezos y treinta y siete yo el infrascripto cura ppio de la parroql deste lugar de Casaseca de las Chanas enterré vaxo del primer arco y con el hábito de N. P. Sn Franco a Ana Chico muger de Pedro Ponze vzº deste lugar. No recivió sacramto alguno por haver muerto repentinamte sin que nadie la viese. Tenía otorgdo su testamto ante Franco Esteban vzº deste lugar, y en él ordenó se le hiziesen los tres oficios con diáconos, se le tomase la Bulla de difuntos, se le dixese una missa a el Sto Xpto de la hermita de la Cruz, y se le ofrende año y día según se acostumbra, y para su cumplimto nombró por sus alvazeas a su marido y su hixo Esteban Ponze, y a este con sus hermanos Franco, Juan, Theresa, Manuela y Franca sus hixos legítimos por sus universales herederos y así para que conste lo firmo en el referido lugar de Casasca dhos día, mes y año. Br. Thomás Ventura de Martas.",
+      "uncertainties": [
+        "Es partida de entierro; murió de repente y el fallecimiento del árbol es el día anterior, 08-03-1737."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-chico"
+      ],
+      "applied": [
+        "Entierro el 09-03-1737 en Casaseca de las Chanas con transcripción; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Elvira de Herrera.JPG",
+          "sha256": "259bea2a75ecf608ffde93081d2f8f5e1582e69402c824fa224048628bab4296",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1713-04-15",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ana Elvira de Herrera.\n\nEl día quinze de Abril deste preste año de mill settezs y treze se enterró en esta Ygla Ana Elvira de Herrera muger que fue de Domingo Maíllo difunto, vzos que fueron deste lugar. Rezivió los Sanctos Sacramtos. No testó por no tener de qué y lo firmé. Dn Manl Basilio Barba Santos.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 14-04-1713."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-elvira-de-herrera"
+      ],
+      "applied": [
+        "Entierro el 15-04-1713 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana González.JPG",
+          "sha256": "7f2b6527fb7a5ac35f13fb1018d482a56244af526307f77aba11d2f691de8b1a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1733-08-21",
+      "place": "Moraleja del Vino",
+      "transcription": "Ana González. Cláusula.\n\nEl día veinte y uno de Agosto, año de mil setecientos y treinta y tres, abiendo recivido los Stos sacramentos, penitencia, Eucharistía y extrema unción, se enterró en esta Parroquial de Moraleja Ana González viuda vecina de él. Hizo testamento ante Pedro de Luelmo fiel de fechos, en el qual ordenó lo siguiente: que su cuerpo fuese sepultado en esta Iglesia en sepultura que tiene en ella propia, con el ávito de Nro P. Sn Francisco; que se le hagan los tres oficios mayores con asistencia de quatro sazerdotes, y que ardan en ellos ocho achas, y que en todos tres se ofrende media carga de trigo y que se la ofrende año y día según costumbre, con pan, vino y zera; que se le digan tres misas en altar de indulugencia y un novenario de misas cantadas, y dos misas rezadas, al Sto Christo de Morales y Nª Srª de el Viso, y trecientas misas en los Combtos de Sto Domingo, Sn Francisco y la SSma Trinidad de la Ziudad de Zamora y en el de Nª Sª de el Carmen de la Ziudad de Toro. Nombró por sus testamentarios a Alonso Delgado y Pedro Delgado vecinos de este Pueblo. Mandó también a esta Iglesia, para la obra de la Capilla mayor, quarenta Rs y para que conste lo firmé. Br. Dn Franco Colmenero.",
+      "uncertainties": [
+        "La partida la llama viuda sin nombrar al marido; coincide con Ana González Hernández, viuda de Luis Delgado González desde 1718, cuyo fallecimiento consta el día anterior, 20-08-1733; el testamentario Pedro Delgado es su hijo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-gonzalez"
+      ],
+      "applied": [
+        "Entierro el 21-08-1733 en Moraleja del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana María Salvador Rodríguez1.JPG",
+          "sha256": "0ad805315eb4585f4662a5de007f35971d6965788eeb21f0130739d7aa2fc8ab",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Ana María Salvador Rodríguez2.JPG",
+          "sha256": "eb3b18c4b3168a0245858a63ffe7d2a3ea9c9f4eb386428adf12abc7e69c6434",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Ana Mª. Salvador1.JPG",
+          "sha256": "6c7186e682165cddcb9625fa3162362cb4d9d3d40c102c51e66e3d182864267a",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Ana Mª. Salvador2.JPG",
+          "sha256": "7cfc6b42f8a0166c28e23b95ca3201a8fdedb1a5ec2257788d81e5a9aa65355f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-01-26",
+      "place": "Moraleja del Vino",
+      "transcription": "Ana María Salbador. Cláusula. Cumplido.\n\nEn el Lugar de Moraleja a veinte y seis días del mes de Enero de mill settezos y quarenta y dos años yo el infra escripto Cura deste Lugr di sepultura eclesiástica gradas arriba en la Iglesia deste Lugr, abiendo recivido los Stos sacramentos de Penitencia, Comunión y extrema unción, a Ana María Salbador, la qual hizo testtamento ante el fiel de fhos y en él dispone enterrarse en la sepultura de sus Padres, con el ábito de Sto Domingo, y en el entierro, honrras y cabo de año asistan seis sazerdotes y ardan a los tres ofizios ocho achas, y en ellos se ofrende con media carga de trigo y se digan las tres misas de indulgenzia y se ofrende año y día sobre mi sepultura, y que se diga por mi alma un nobenario cantado con misas, responso y vigilia, y que por mi alma mando se digan quinientas misas, las docientas en Sto Domingo, las ciento en Sn Benito y otras ciento en Sn Gerónimo y ciento en la Iglesia deste Lugr, y mandó otras cien misas rezadas con responso cantado por el ánima de Manuel Alonso y Dn Custodio Alonso, las que en caso de no dezirse en esta Iglesia las dejó a la disposizión de sus testamentarios, que lo fueron Bernardo Alonso y Antonio García, y por herederos al dho Bernardo Alonso y Gerónima Alonso y para que conste lo firmé ut supra. Dn Victoriano Zamora.",
+      "uncertainties": [
+        "Cuatro imágenes: dos tomas del comienzo del asiento, al pie de un folio, y dos de su continuación en el folio 121.",
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 25-01-1742. Sus herederos, Bernardo y Jerónima Alonso; Bernardo Alonso Salvador ya figura en el árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-maria-salvador"
+      ],
+      "applied": [
+        "Entierro el 26-01-1742 en Moraleja del Vino con transcripción; observación con sus herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Mateo.JPG",
+          "sha256": "6bd44d0d7b7014a8eff78349f4d8500f8bb3c3e1690119fb10d0b4c267a2ccb3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1748-11-12",
+      "place": "Peleas de Arriba",
+      "transcription": "Adulta. Cumplido.\n\nEn doze de Nobiembre de mill setecientos y quarenta y ocho yo el infra escrito Cura propio de esta Parrochial de Peleas de Arriba anexo de Fuente el Carnero di sepultura ecclesiástica a Ana Mattheo conjunta persona de Joseph Zurdo mis feligreses. Fue socorrida con los Santos Sacramentos de confesión, viático y extremaunción, hizo testamento, y dexó por sus testamentarios a Diego Pérez y Fernando Galán y para bien de su alma los dros parrochiales y una missa votiva a nuestra Señora de la Cuesta y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "Dos candidatas en el árbol y ninguna acreditada. Ana Mateo Hernández, de Fadón, casó en 1726 con José Zurdo Herrero, que murió en Fadón el 13-12-1748: coinciden los nombres de ambos cónyuges, pero el asiento es de Peleas de Arriba y los llama feligreses de allí. Ana Mateo, de Peleas de Arriba, es la mujer de Melchor Pérez y madre de Andrés Pérez Mateos (1707): coinciden la parroquia y los testamentarios (un Pérez y Fernando Galán), pero exigiría un segundo matrimonio con un José Zurdo. No se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "ana-mateo",
+        "ana-mateo-madre-de-andres-perez"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Nieto.JPG",
+          "sha256": "363800def5c45ae347c131b3cc16dd8d49b4434eac99427b9bd6aad9801a8c7a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1695-05-12",
+      "place": "Moraleja del Vino",
+      "transcription": "Ana Nieto.\n\nEn doce de maio del año de mil seiscientos y nobenta y cinco se enterró en la yglesia deste lugar Ana Nieto, muger de Juan de Luelmo. Recibió el santo sacramento de la unción y no más por aber muerto de un acidente. No hiço testamento. Asistieron a su entierro y honrras doce sacerdotes. Ajustose Juan de Luelmo su marido con el señor probisor en nobecientos Rs para missas por su ánima después de cumplido todo su funeral según costumbre; y de dichos nobecientos Rs a de dar al señor probisor seiscientos y ducientos al combento de la SSma Trinidad y ciento al cura y lo firmé. Antº Machorso de Cosso.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 11-05-1695."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-nieto"
+      ],
+      "applied": [
+        "Entierro el 12-05-1695 en Moraleja del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Andrés Pérez Mateo.JPG",
+          "sha256": "4ebcdb6518d04a80002f407f476e15111497719c9d19f8b7613f6ecffcb4bf98",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-09-10",
+      "place": "Peleas de Arriba",
+      "transcription": "Andrés Pérez.\n\nMurió en diez de septe de este preste año de mil setes y quarta y dos en este lugr de Peleas de Arriba Andrés Pérez conjunta persona de Casilda Hernández mis feligreses. Rezivió los santos sacramtos e haviendo hecho testamto, que rebocó, dio poder a su muger para que hiziese a su voluntad. Fue sepultado su cuerpo en esta Igla y firmo dho día. Mathías Pinto.",
+      "uncertainties": [
+        "El margen conserva solo el final del nombre. El asiento anterior de la página registra la muerte, el 7 de septiembre de 1742, de un párvulo hijo de Fernando Galán y de su mujer Francisca Pérez."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "andres-perez"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 10-09-1742 en Peleas de Arriba con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Andrés Rodríguez.JPG",
+          "sha256": "c49c0ac836f509a9e275e75768476f7926854cf1fd9229f680601916381291ce",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1697-10-12",
+      "place": "Casaseca de las Chanas",
+      "transcription": "1697.\n\nAndrés Rs. Pobre.\n\nEn doce de otubre murió Andrés Rs. Pobre. Recivió los Stos sacramentos y enterrose en esta iglesia i lo firmé. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "El asiento no nombra mujer ni padres. Puede ser Andrés Rodríguez, marido de Francisca Lozano y padre de Apolonia Rodríguez Lozano (1683), pero el apellido es muy común en Casaseca de las Chanas y los resúmenes familiares dejan su fallecimiento en blanco. No se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "andres-rodriguez"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Andrés Román Perdigón.JPG",
+          "sha256": "781e39335813af9ddd77602e1ec6ca498decda3a256577df4cd971eea2665697",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1761-05-18",
+      "place": "Morales del Vino",
+      "transcription": "Andrés Román.\n\nEn diez y ocho de Mayo de mil settos y sesenta y un as se enterró en esta Yglessia Andrés Román viudo de Ynés Herz. Murió de su muerte natural, rezivió todos los Stos Sacramentos, hizo testamento ante Franco Luelmo escrivano de este Lugar, tomó por su alma ochozientos rs. Testamentarios Pedro Martín y Juan Marqués. Dejó quatro hijos y para que conste lo firmé. Cabrero.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 17-05-1761."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "andres-roman"
+      ],
+      "applied": [
+        "Entierro el 18-05-1761 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Antonia Pérez Cabrero.JPG",
+          "sha256": "e10bce3b0fa169203ea5165ba5698dc3976171ec35f96477b51bc7694f5e99b7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1789-03-08",
+      "place": "Abelón",
+      "transcription": "Antonia Pérez. Adulta. Pobre.\n\nEn ocho de Marzo de mil setecientos y ochenta y nuebe yo Dn Agustín Enríquez cura párroco de este Lugar de Abelón di sepultura ecca en la prima del tercer tramo al lado de el evango de la Ygla de dho Lugar al cadáber de Antonia Pérez natural del Lugar de Torregamons y veca que fue de este Lugar, muger de Franco Domínguez, que socorrida de todos los Stos Sacramtos había fallecido el día anterior. No hizo testamto por no tener de qué y solo se le hizo su intierro con misa y en fe de ello lo firmo. Dn Agustín Enríquez.",
+      "uncertainties": [
+        "La partida la llama mujer de Francisco Domínguez y natural de Torregamones. Se mantiene la identificación de la versión de 2015 de TATARABUELOS QUINTOS con Antonia Pérez Cabrero: coinciden el nombre, la parroquia y la naturaleza de sus padres, ambos de Torregamones; su marido Santiago Martín Bartolo había muerto en 1749, de modo que Francisco Domínguez sería un segundo marido. La versión de 2018 dejó en blanco este fallecimiento, quizá por la misma duda.",
+        "Una palabra tachada antes de «Domínguez». El lugar de nacimiento del árbol, Abelón, procedía del resumen familiar, sin fecha; se sustituye por Torregamones, que es lo que expresa la partida."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonia-perez"
+      ],
+      "applied": [
+        "Entierro el 08-03-1789 en Abelón con transcripción; lugar de nacimiento corregido de Abelón a Torregamones; observación sobre el marido que nombra la partida."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Calabaza López.JPG",
+          "sha256": "0fac5f441e4e05ba933c101b9e8878accb6b4c4421b995cc70bb241e715369d1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1762-10-06",
+      "place": "Peleas de Arriba",
+      "transcription": "Antonio Calabaza.\n\nEn seys de octubre de mil setecientos y sesenta y dos yo el infrascripto Cura de Peleas de Arriba di sepoltura eclesiástica junto a el púlpito de la Yglesia de dicho lugar a Antonio Calabaza viudo de Ynés Gutiérrez. Recibió los Santos Sacramentos, hizo testamento ante Gerónimo Rodríguez fiel de fechos de dicho lugar, dejó por su testamentario a Gerónimo Calabaza su hijo, y por herederos a sus hijos Miguel, Benito y Gerónimo Calabaza. Dejó por su alma los derechos parrochiales, y que asistiesen a su entierro, onrras y cabo de año dos religiosos con el Sr Cura, y se le ofrendase todo el año como es costumbre. Mandó se le dijese una missa a Nª Sª de Tiedra Vieja, otra a Nª Sª de el Consuelo, otra a Nª Sª de la Cuesta, otra en el altar de las perdonanzas en Valparayso. Fueron testigos Gregorio Baylón, Miguel Alonso, Joseph Rodríguez y Joseph Esteban, y para que conste lo firmo dicho día, mes y año. Dn Joseph Pardo.",
+      "uncertainties": [
+        "Folio 71. Es partida de entierro y no expresa la fecha de la muerte; no se deduce un fallecimiento.",
+        "La advocación de la primera misa se lee «Tiedra Vieja» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-calabaza"
+      ],
+      "applied": [
+        "Entierro nuevo el 06-10-1762 en Peleas de Arriba con transcripción; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
     }
   ]
 }

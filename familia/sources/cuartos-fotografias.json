@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos cuartos — fotografías de partidas",
+  "reviewedOn": "2026-11-10",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Engracia Galán Pérez.JPG",
+          "sha256": "6125fe67931f45d77fe820f23523e0f90c6004d2992304d89e59f0782f4ba911",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1731-06-11",
+      "place": "Peleas de Arriba",
+      "transcription": "Engracia.\n\nEn once de Junio deste año de setecientos y treinta y uno, yo el Lizdo Franco Rz Pesquera, cura proprio deste lugar de Peleas de Arriba, bauticé solemnemente y puse los Stos óleos a una hija lexítima de Fernando Galán y de su muger Franca Pérez. Púsele nombre Engracia. Nació el día veinte y seis de Mayo de dicho año. Fueron sus padrinos Franco Baylón y su muger Engracia Pérez, quien no contrajo parentesco alguno. Advertíles las obligaciones que manda nuestra Madre la Yglesia y lo firmé dicho día mes y año ut supra. Ldo Franco Rodríguez Pesquera.",
+      "uncertainties": [
+        "Folio 53. Coinciden el nacimiento (26-05-1731), el bautismo (11-06-1731) y los padres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "engracia-galan"
+      ],
+      "applied": [
+        "Lugar y transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Atilano Carretero y Engracia Galán.JPG",
+          "sha256": "fe1d7f6bf8e3dd8e1163552082f5fd95a5bfd29b51951541ae4daea295db0457",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1753-10-22",
+      "place": "Peleas de Arriba",
+      "transcription": "Atilano Carretero soltero con Engracia Galán soltera. En los 22 de Octe se velaron.\n\nEn veinte y dos de Octubre de mill setecientos y cinquenta y tres años yo el infra escrito Cura proprio de esta parrochial de Peleas de Arriba anejo de la de Fuente el Carnero asistí al matrimonio, que in facie Ecclesiæ hicieron verdadero por palabras de presente Atilano Carretero mozo soltero hijo legítimo de Esteban Carretero y de Theresa Ramírez ya difunta, y Engracia Galán moza soltera hija legítima de Fernando Galán y de Franca Pérez ya difuntos todos naturales de este referido de Peleas, aviendo precedido las tres canónicas moniciones que manda nuestra madre la Yglesia, y dispone el Sto Concilio de Trento en tres días festivos continuos en la missa del pueblo et ofertorii tempore; y no aviendo resultado impedimento alguno, que obstasse dho matrimonio asistí a él siendo testigos Miguel Herrero alcalde ordinario, Pedro Fernández, Franco Baylón, y otros vezinos del pueblo y por verdad y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "status": "incorporada",
+      "personIds": [
+        "atilano-carretero",
+        "engracia-galan"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota de la velación."
+      ]
+    }
+  ]
+}
