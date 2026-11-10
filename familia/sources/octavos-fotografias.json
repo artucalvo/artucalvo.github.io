@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos octavos — fotografías de partidas (revisión parcial)",
+  "reviewedOn": "2026-11-10",
+  "method": "Lecturas independientes anteriores al cotejo; imágenes originales a resolución nativa. [ilegible] marca huecos. Los borradores no se consideran definitivos ni acreditan identidades.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Hernández Prieto.JPG",
+          "sha256": "7cc34d61f857fae3e7b172129aa18969486d52bd3801513d064b559a088d8cf8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En domingo de Junio veinte y quatro del año de ochenta y dos se bautizo ana hija de andres hernandez y de su mujer maria prieta fueron sus padrinos [ilegible] e engracia martin mujer de pablo prieto en cuya fe lo firme. El bachiller martinez",
+      "uncertainties": [
+        "No se ve el siglo; el domingo 24 de junio concuerda con el calendario juliano de 1582. La identidad no está documentada por una pareja o descendencia."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Antonio García Mella.JPG",
+          "sha256": "300de50a867919c94b6cdc2ef756a90869d39a2995fb8a4028a9b5959248c1a1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "[ilegible] ultimo de noviembre [ilegible] se bautizo antonio hijo de juan garcia y de catalina mella su mujer fue su padrino francisco garcia [ilegible] en cuya fe lo firme",
+      "uncertainties": [
+        "El año y la lectura de Mella son tenues; no hay candidato acreditado en el árbol."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Domingo Calvo Martínez.JPG",
+          "sha256": "3df9e129159ededeb3ce60fd54d6dddb617c402fdff4e3063e6b6239b2a3edd3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En lunes de julio treinta del dicho año de ochenta y dos se bautizo a domingo hijo de domingo calbo y de su mujer maria [ilegible] sus padrinos [ilegible] balladolid de las heras y la dicha catalina [ilegible] en cuya fe lo firme. El bachiller martinez",
+      "uncertainties": [
+        "No se ve el siglo ni el apellido de la madre. El lunes 30 de julio concuerda con el calendario juliano de 1582. El nombre por sí solo no acredita que sea el padre de Francisco Calvo García."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Domingo Hernández de la Calle.JPG",
+          "sha256": "1ccfbfdb3b96f6789f3fe2c3f68aae7c7b6aa89ca37cec210dca6b73b44858a3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "A nuebe dias del Mes de Enero de mil y seis cientos y trece años baptice a un niño que se llamo Domingo hijo de Domingo Hernandez y de su mujer Maria de la Calle fueron Padrinos Pedro [ilegible] y Maria Hernandez [ilegible] deste lugar [ilegible]",
+      "uncertainties": [
+        "Posible homónimo del padre de Micaela Hernández Vaquero; no se conoce su filiación ni se identifica su esposa en el asiento."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Domingo Valladolid Cordero.JPG",
+          "sha256": "369cae269408d44b95a478871c650013f5c6b19a4925b33d7ffd74ae05afb38d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En 2 de otubre de 1627 baptise a [ilegible] hijo de antonio de [ilegible] y de mª cordero sus padres fue padrino de [ilegible] el Jurado [ilegible]",
+      "uncertainties": [
+        "El nombre del bautizado y el apellido del padre requieren revisión; no se atribuye por el nombre de la imagen."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Inés Rodríguez García.JPG",
+          "sha256": "3584427f4d200b57b3ca998bedbb1630300c34a3ca45a34c6d8732e00c59af25",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "postrero dia de julio del año de mill e quinientos e ochenta baptize a ines hija de pedro Rodriguez y de isabel garcia su muger fue padrino antº [ilegible] y madrina ynes garcia muger de [ilegible] en fe lo firme de mi nombre",
+      "uncertainties": [
+        "Los apellidos del padrino y del marido de la madrina no se leen con seguridad; no hay candidato acreditado."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Marcela Rodríguez Domínguez.JPG",
+          "sha256": "1df59ba8d0d306289c0c9e3bc2761d0581682683ce28a1f2c58880b055937a25",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En nuebe de março deste dicho año yo el dicho cura bapticé a Marcela hija de Pº Rodriguez sacristan deste lugar y su muger Mª Dominguez, fue su padrino Pº Perez Barahona cura de [ilegible], testigos Andres Dominguez y el dicho cura y lo firme.",
+      "uncertainties": [
+        "No se ve el año; la lectura del nombre abreviado y la parroquia del padrino requiere revisión. No se acredita la identidad de la madre de Miguel Delgado."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "María Álvarez2.JPG",
+          "sha256": "4b0d9d8b4e05956fba17b4949040346f306d28c2f8a404b6c5f2239f8be72160",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En once del dicho mes y año de 1660 murio Maria albarez vezina deste lugar de Arcenillas confesose y reçivio los Sacramentos enterrose en la capilla mayor de la yglesia hizo testamento dejo por su alma veinte ducados fueron sus testamentarios Miguel maderal y Maria garcia hizose su entierro honrras y cabo de año y lo firme ut supra.",
+      "uncertainties": [
+        "El mes referido no se lee con seguridad; no se acredita identidad con la madre de Domingo Calvo."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Cabrero Urueña.JPG",
+          "sha256": "e6e0788f8e34c6706b924f3c9e31848b9be95d0b3af9a05e89f6c857d002ea20",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En 8 de junio deste año de 94 [ilegible] Mª hija Franº cabrero i su madre catalina de Urueña fueron sus padrinos miguel dominguez y Catalina [ilegible].",
+      "uncertainties": [
+        "El siglo, el verbo y el apellido de la madrina no se leen con seguridad; sin correspondencia demostrada."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "María Cabrero.JPG",
+          "sha256": "b345293ebb10d57fba07544a6be3df2bc67337b8d2edd665bc02d558a9c6dad1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En diez y nuebe de septiembre de 1648 años murio maria cabrera vª deste lugar confesose y reçivio todos los sacramentos como fiel christiana enterrose en la capilla mayor desta yglesia dejo por su alma veynte y quatro ducados hizose su entierro y honrras y en fe dello lo firme ut supra.",
+      "uncertainties": [
+        "El asiento no nombra familiares ni lugar; no prueba la identidad de la madre de Antonia Pérez Cabrero."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Rodríguez Delgado.JPG",
+          "sha256": "2a732ccca4e5a2253e3a84f0511b49dda95af5aca15760cce12f6f19d0582be4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "en diez y seis dias del mes de junio del año de [ilegible] años bautice yo el licenciado [ilegible] cura desta yglesia a [ilegible] hija de luis rodriguez y de ysabel delgado [ilegible] de dicho lugar fue su padrino [ilegible] testigos [ilegible]",
+      "uncertainties": [
+        "El año, el lugar y el nombre de la bautizada requieren revisión; sin correspondencia demostrada."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Simón Marqués.JPG",
+          "sha256": "e1e0e43a0e1979acdc8eb88f5210de5c146e84b72a8973c6291576d0e6e5532f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "en cinco dias del mes de junio de [ilegible] años bautice yo el licenciado [ilegible] cura propio desta yglesia a [ilegible] hija de anton simon y de catalina [ilegible]quesa fue su padrino [ilegible] testigos gregorio palomino y [ilegible]",
+      "uncertainties": [
+        "El margen parece decir María; el año y el apellido de la madre no son seguros. No están documentados los padres de la María Simón que es madre de Josefa Esteban Simón."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Miguel Ufano de las Mulas.JPG",
+          "sha256": "b6d317bf91205ffc1cc2b3225743d3380aa345f97214c32487198c791c96fede",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En diez dias del Mes de Agosto de Mill y seis y veynte y ocho años Yo Melchior [ilegible] Cura del lugar del Perdigon Baptice a Miguel Hijo de Miguel Ufano y de Cathalina de las mulas su muger [ilegible] de el dicho lugar fue su Padrino Juan de las Mulas y testigos [ilegible]",
+      "uncertainties": [
+        "El asiento identifica padre y madre pero no aporta vínculo acreditado al Bartolomé Ufano existente."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Ortijo 8º.JPG",
+          "sha256": "bbc04f6d98fc4270f62b74b6a67b67f53c19f11b8c63b18c95785dfbae37bdcf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En siete de Junio de mill y seis [ilegible] setenta y dos fallecio Domingo ortijo abintestato por que no recibio mas que la extrema uncion y esta enterrado en esta Yglesia de señor S. Martin [ilegible] para que Conste lo firme ut supra [ilegible]",
+      "uncertainties": [
+        "El asiento no identifica familiares. Domingo Ortiz es padre de Inés Ortijo, nacida en Abelón en 1657; no se sabe si se trata de la misma persona. La fecha de entierro no es expresa."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Pascual Martín2.JPG",
+          "sha256": "77ae9aa25ce14f2438d5957f14e6790c3829b75e7fe748cc8a0d929a533b7e73",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En Catorze de henero de mil seis cientos y sesenta y siete años murio Pascual martin abintestato [ilegible] no hizo testamento enterrose [ilegible]",
+      "uncertainties": [
+        "El asiento no identifica familiares. Pascual Martín es padre de Ana Mª Martín Jambrina, nacida en Arcenillas en 1640; no se sabe si es el mismo. La fecha de entierro no es expresa."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Manuel de las Heras y Josefa Pascual1.JPG",
+          "sha256": "ab9612f7ce663c7fa55a1d445962b8dbaaad547fa2c3dc7c8d848e9099f6f636",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Manuel de las Heras y Josefa Pascual2.JPG",
+          "sha256": "6856477a8d34c651d93191075a0add8c2959f049e53eef1fdce3c626c93a05b0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lugar de Abelon, á diez y nueve dias del mes de Febrero del año de mil ochocientos y [ilegible]: Yo el [ilegible] Cura propio Rector de su Iglesia Parroquial, despues de haber hecho saber al Pueblo en tres dias festivos al ofertorio de la Misa mayor, el matrimonio q.e intentaban contraer con el consentimiento de sus Padres, Manuel de las Heras, de estado soltero, hijo legitimo de [ilegible] de las Heras natural de Fadon, y vecino en este de Abelon, y de Monica Dominguez natural del dicho Abelon, ya Difunta; con Josefa Pascual del mismo estado, hija legitima de [ilegible] Pascual, de este pueblo, y de Teresa Lorenzo, del de [ilegible]; no habiendo resultado impedimento alguno q.e obstase á la celebracion de dicho matrimonio, y pasados mas de veinte y quatro horas de la ultima proclama, precedido el examen de Doctrina Cristiana, y Confesados; los casé, velé, y desposé, in facie Eclesie, por palabras de presente, q.e hacen verdadero matrimonio, como ordena nuestra Santa Madre Yglesia. Recibieron la Comunion. Fueron testigos Felipe Silva, Domingo Blanco, y Pedro [ilegible], de esta vecindad. Y para q.e conste, lo firmo, en dicho dia, mes, y año.",
+      "links": [
+        {
+          "person": "manuel-de-las-heras-dominguez",
+          "event": "marriages",
+          "spouse": "josefa-pascual-lorenzo"
+        },
+        {
+          "person": "josefa-pascual-lorenzo",
+          "event": "marriages",
+          "spouse": "manuel-de-las-heras-dominguez"
+        }
+      ],
+      "matching": "Coinciden ambos contrayentes, sus madres y el apellido y naturaleza del padre de Manuel; la pareja ya tiene un hijo en Abelón. Los nombres de los padres de ambos son dudosos en la imagen.",
+      "uncertainties": [
+        "El año del asiento parece catorce pero está borroso; el asiento siguiente expresa 1814. Se conserva el hueco y no se fija una fecha. El apellido del último testigo es dudoso."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Gaitán Hernández.JPG",
+          "sha256": "e680fca31b812ad93a486b86dcaa66cba16942d8d6865165cb049070ef0efe78",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En vte y dos de [ilegible] de seis cientos y vte y ocho años Baptice yo [ilegible] cura teniente deste lugar a mª hija de luis gaitan y de micaela hernandez su legitima mujer. fue su padrino [ilegible] gaitan testigos luis [ilegible] vs deste lugar. y lo firme [ilegible].",
+      "links": [
+        {
+          "person": "maria-gaitan-hija-de-luis-gaitan",
+          "event": "baptism"
+        }
+      ],
+      "matching": "Los dos progenitores coinciden con los de Domingo Gaitán Hernández, nacido en 1642. El margen identifica María Gaitán.",
+      "uncertainties": [
+        "El mes parece Otubre, pero no se fija sin lectura segura. El año se lee seis cientos y vte y ocho; no se atribuye lugar por la imagen."
+      ]
+    }
+  ]
+}

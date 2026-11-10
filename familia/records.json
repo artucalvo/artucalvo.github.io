@@ -3134,7 +3134,14 @@
       "birth": {
         "date": "1796-01-04",
         "place": "Fadón"
-      }
+      },
+      "marriages": [
+        {
+          "spouse": "josefa-pascual-lorenzo",
+          "place": "Abelón",
+          "transcription": "En el lugar de Abelon, á diez y nueve dias del mes de Febrero del año de mil ochocientos y [ilegible]: Yo el [ilegible] Cura propio Rector de su Iglesia Parroquial, despues de haber hecho saber al Pueblo en tres dias festivos al ofertorio de la Misa mayor, el matrimonio q.e intentaban contraer con el consentimiento de sus Padres, Manuel de las Heras, de estado soltero, hijo legitimo de [ilegible] de las Heras natural de Fadon, y vecino en este de Abelon, y de Monica Dominguez natural del dicho Abelon, ya Difunta; con Josefa Pascual del mismo estado, hija legitima de [ilegible] Pascual, de este pueblo, y de Teresa Lorenzo, del de [ilegible]; no habiendo resultado impedimento alguno q.e obstase á la celebracion de dicho matrimonio, y pasados mas de veinte y quatro horas de la ultima proclama, precedido el examen de Doctrina Cristiana, y Confesados; los casé, velé, y desposé, in facie Eclesie, por palabras de presente, q.e hacen verdadero matrimonio, como ordena nuestra Santa Madre Yglesia. Recibieron la Comunion. Fueron testigos Felipe Silva, Domingo Blanco, y Pedro [ilegible], de esta vecindad. Y para q.e conste, lo firmo, en dicho dia, mes, y año."
+        }
+      ]
     },
     {
       "id": "josefa-pascual-lorenzo",
@@ -3153,7 +3160,14 @@
       "death": {
         "date": "1863-08-07",
         "place": "Abelón"
-      }
+      },
+      "marriages": [
+        {
+          "spouse": "manuel-de-las-heras-dominguez",
+          "place": "Abelón",
+          "transcription": "En el lugar de Abelon, á diez y nueve dias del mes de Febrero del año de mil ochocientos y [ilegible]: Yo el [ilegible] Cura propio Rector de su Iglesia Parroquial, despues de haber hecho saber al Pueblo en tres dias festivos al ofertorio de la Misa mayor, el matrimonio q.e intentaban contraer con el consentimiento de sus Padres, Manuel de las Heras, de estado soltero, hijo legitimo de [ilegible] de las Heras natural de Fadon, y vecino en este de Abelon, y de Monica Dominguez natural del dicho Abelon, ya Difunta; con Josefa Pascual del mismo estado, hija legitima de [ilegible] Pascual, de este pueblo, y de Teresa Lorenzo, del de [ilegible]; no habiendo resultado impedimento alguno q.e obstase á la celebracion de dicho matrimonio, y pasados mas de veinte y quatro horas de la ultima proclama, precedido el examen de Doctrina Cristiana, y Confesados; los casé, velé, y desposé, in facie Eclesie, por palabras de presente, q.e hacen verdadero matrimonio, como ordena nuestra Santa Madre Yglesia. Recibieron la Comunion. Fueron testigos Felipe Silva, Domingo Blanco, y Pedro [ilegible], de esta vecindad. Y para q.e conste, lo firmo, en dicho dia, mes, y año."
+        }
+      ]
     },
     {
       "id": "jose-rabanal-martinez",
@@ -12753,7 +12767,10 @@
         }
       ],
       "father": "luis-gaitan-padre-de-domingo-gaitan",
-      "mother": "micaela-hernandez-madre-de-domingo-gaitan"
+      "mother": "micaela-hernandez-madre-de-domingo-gaitan",
+      "observations": [
+        "Su hermana María Gaitán fue bautizada en 1628."
+      ]
     },
     {
       "id": "luis-gaitan-padre-de-domingo-gaitan",
@@ -18967,6 +18984,20 @@
           "transcription": "Joseph Perez y Ana de Luelmo\n\nEn el lugar de Morales a quatro dias del mes de Marzo digo de abril de mil y seiscientos y sesenta y seis años de licencia del [ilegible] Miguel de Villalpando Cura propio del dicho lugar de morales [ilegible] en tres dias festibos al ofertorio de la misa mayor en el dicho lugar de Morales [ilegible] entre Joseph perez [ilegible] y ana de Luelmo [ilegible] del lugar de Morales [ilegible] por palabras de presente [ilegible] matrimonio siendo testigos [ilegible] Miguel de Villalpando Cura del dicho lugar de Morales y Alonso [ilegible] y Pedro Garcia [ilegible] y lo firme"
         }
       ]
+    },
+    {
+      "id": "maria-gaitan-hija-de-luis-gaitan",
+      "name": "María Gaitán",
+      "givenNames": "María",
+      "surnames": [
+        "Gaitán"
+      ],
+      "father": "luis-gaitan-padre-de-domingo-gaitan",
+      "mother": "micaela-hernandez-madre-de-domingo-gaitan",
+      "baptism": {
+        "date": "1628",
+        "transcription": "En vte y dos de [ilegible] de seis cientos y vte y ocho años Baptice yo [ilegible] cura teniente deste lugar a mª hija de luis gaitan y de micaela hernandez su legitima mujer. fue su padrino [ilegible] gaitan testigos luis [ilegible] vs deste lugar. y lo firme [ilegible]."
+      }
     }
   ]
 }
