@@ -54,6 +54,31 @@
       "applied": [
         "Bautismo el 28-02-1656 en Morales del Vino con transcripción; nota en el nacimiento."
       ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Luis Alonso y Susana Pérez.JPG",
+          "sha256": "8f61ffd72f6136d68ce4e6a66de5be6857080be1206dfc73b7a74b0d8e1f5fba",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1653-03-01",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Año de 1653. Luis Alº con Susana Pérez.\n\nEn primº de marzo de mill y seiscientos y cinqta y tres años desposé y belé in facie eclesie a Luis Alº con Susana Pérez, aviendo precedido las amonestaciones a la forma del Sto C. Fueron testigos Bautista Juan y Juº Pérez y lo firmé de mi nombre. Ldo Moreno.",
+      "uncertainties": [
+        "La partida no expresa padres ni estado de los contrayentes."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-alonso",
+        "susana-perez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
     }
   ]
 }
