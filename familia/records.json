@@ -8512,7 +8512,15 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "juan-nieto",
-      "mother": "maria-galan"
+      "mother": "maria-galan",
+      "baptism": {
+        "note": "Bautismo el 26 de octubre, año sin precisar.",
+        "transcription": "En veinte y seis de Octubre bautizé a Catalina hija de Juº Nieto y de María Galana sus legítimos padres vecinos deste lugar. Fue su padrino Sebastián [ilegible] de [ilegible]. Testigos Marcos Ortiz sacristán y Benito Martín y por verdad lo firmé."
+      },
+      "burial": {
+        "note": "Entierro el 6 de octubre, año sin precisar.",
+        "transcription": "En seis de Otubre enterré a Cathalina Nieto, muger de Manuel Hernandez Crespo. Recibió los santos sacramentos y díle entierro honrras y cabo de año."
+      }
     },
     {
       "id": "luis-gaitan",
@@ -10644,6 +10652,10 @@
       "death": {
         "date": "1753-01-20",
         "place": "Morales del Vino"
+      },
+      "burial": {
+        "date": "1753-01-21",
+        "transcription": "En veinte y uno de enero de mil setecientos y cinquenta y tres años se enterró en esta Yglesia Josepha Casaseca viuda de Manuel Marques Esteban. Murió de su muerte natural no pudo recibir más sacramento que el de la extremaunción. Dio poder para hacer su testamento a sus hijos Dn Joseph Marques, Dn Fran.co y Alonso Marques para que gastasen lo que les pareciere por su alma. Se le hizo entierro honras cabo de año y novenario. Dejó diez hijos Alonso, Fran.co, Ant.o, Diego, Agustín, Manuel, María, Alfonsa, Josepha y Fran.ca y para que conste lo firmé. Dn Ant.o Cabrera."
       }
     },
     {
@@ -10743,7 +10755,8 @@
         {
           "spouse": "isabel-montalvo",
           "date": "1726-02-16",
-          "place": "Moraleja del Vino"
+          "place": "Moraleja del Vino",
+          "transcription": "En diez y seis días del mes de febrero año de mill setecientos y veinte y seis yo el D.or D.n Diego [ilegible] de la Calle Cap.n de honor de su Mag.d y cura propio de este lugar de la Moraleja, aviendo en tres días festivos leydo las tres admonestaciones que el S.to concilio dispone y no aviendo resultado mas impedimento que el de afinidad en quarto grado, que ya su santidad tiene dispensado, y con despacho del S.r Liz.do D. Pedro Martín Villamediana Provisor y Vicario General deste obispado de Zamora; desposé y velé yn facie eclesie a Pedro Delgado hijo de Luis Delgado ya difunto y de Ana González, con Isabel Montalvo hija de Thomas Montalvo y de María Grande; siendo testigos Alonso Delgado y Thomas Montalvo y otros todos vecinos deste lugar y lo firmé. El D.or Diego de la Calle."
         }
       ],
       "father": "luis-delgado-padre-de-pedro-delgado",
@@ -10761,7 +10774,8 @@
         {
           "spouse": "pedro-delgado",
           "date": "1726-02-16",
-          "place": "Moraleja del Vino"
+          "place": "Moraleja del Vino",
+          "transcription": "En diez y seis días del mes de febrero año de mill setecientos y veinte y seis yo el D.or D.n Diego [ilegible] de la Calle Cap.n de honor de su Mag.d y cura propio de este lugar de la Moraleja, aviendo en tres días festivos leydo las tres admonestaciones que el S.to concilio dispone y no aviendo resultado mas impedimento que el de afinidad en quarto grado, que ya su santidad tiene dispensado, y con despacho del S.r Liz.do D. Pedro Martín Villamediana Provisor y Vicario General deste obispado de Zamora; desposé y velé yn facie eclesie a Pedro Delgado hijo de Luis Delgado ya difunto y de Ana González, con Isabel Montalvo hija de Thomas Montalvo y de María Grande; siendo testigos Alonso Delgado y Thomas Montalvo y otros todos vecinos deste lugar y lo firmé. El D.or Diego de la Calle."
         }
       ],
       "birth": {
@@ -10773,7 +10787,12 @@
         "place": "Moraleja del Vino"
       },
       "father": "tomas-montalvo",
-      "mother": "maria-grande"
+      "mother": "maria-grande",
+      "burial": {
+        "date": "1769-11-28",
+        "place": "Moraleja del Vino",
+        "transcription": "En el lugar de Moraleja a veinte y ocho de Noviembre de mil setecientos sesenta y nueve, yo el infrascripto [ilegible] cura propio de él, di sepultura eclesiástica en la capilla mayor de esta Parroquia a Isabel Montalvo viuda que fue de Pedro Delgado; recibió [ilegible] la extremaunción y no el de penitencia y [ilegible] viático a causa de haver quedado privada de sus sentidos. Hizo testamento, en el que dispuso enterrarse con el hábito de S.n Fran.co y después de los gastos de entierro se le hiciesen tres oficios, [ilegible] y un novenario cantado con su oficio; y lo restante [ilegible] su hijo Luis Delgado Montalvo, a quien dejó por su único y universal heredero. Y para que así conste lo firmo [ilegible]."
+      }
     },
     {
       "id": "luis-ramos",
@@ -13097,7 +13116,8 @@
         {
           "spouse": "catalina-morales-madre-de-gregoria-moreno",
           "date": "1664-03-01",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En primero de Marzo desposé a Antonio Moreno con Catalina Morales y en veinte [ilegible] de Setiembre [ilegible], siendo padrinos Juº Moreno y [ilegible] María [ilegible]. Testigos Fran.co Ortiz sacristán y [ilegible]."
         }
       ]
     },
@@ -13112,11 +13132,16 @@
         {
           "spouse": "antonio-moreno",
           "date": "1664-03-01",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En primero de Marzo desposé a Antonio Moreno con Catalina Morales y en veinte [ilegible] de Setiembre [ilegible], siendo padrinos Juº Moreno y [ilegible] María [ilegible]. Testigos Fran.co Ortiz sacristán y [ilegible]."
         }
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
+      },
+      "death": {
+        "date": "1677-12-20",
+        "transcription": "En veinte de diciembre de mil seis cientos y setenta y siete murió Catalina Morales mujer de Antonio Moreno. Recibió los Santos Sacramentos y ante D. Joseph [ilegible] en veinte y siete de Octubre [ilegible] por su alma [ilegible] reales [ilegible] dejó por testamentarios [ilegible] su marido y por herederos a los hijos [ilegible] enterróse en esta Yglesia."
       }
     },
     {
@@ -13884,7 +13909,8 @@
         {
           "spouse": "isabel-delgado-madre-de-maria-antonia-moreno",
           "date": "1696-05-07",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En siete de maio de dicho año [ilegible] por palabras de presente aviendo precedido las tres amonestaciones que manda el Santo Concilio [ilegible] de la Santa Madre Yglesia [ilegible] a Phelipe Moreno soltero hijo de Manuel Moreno y de Ana Morales con Isabel Delgado soltera hija de Miguel Delgado y de Isabel Martín. Fueron testigos de dicho matrimonio [ilegible] y para que conste lo firmé. Joseph [ilegible]."
         }
       ],
       "father": "manuel-moreno",
@@ -13918,7 +13944,8 @@
         {
           "spouse": "felipe-moreno",
           "date": "1696-05-07",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En siete de maio de dicho año [ilegible] por palabras de presente aviendo precedido las tres amonestaciones que manda el Santo Concilio [ilegible] de la Santa Madre Yglesia [ilegible] a Phelipe Moreno soltero hijo de Manuel Moreno y de Ana Morales con Isabel Delgado soltera hija de Miguel Delgado y de Isabel Martín. Fueron testigos de dicho matrimonio [ilegible] y para que conste lo firmé. Joseph [ilegible]."
         }
       ],
       "birth": {
@@ -13930,7 +13957,11 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "miguel-delgado",
-      "mother": "isabel-martin-madre-de-isabel-delgado-martin"
+      "mother": "isabel-martin-madre-de-isabel-delgado-martin",
+      "burial": {
+        "date": "1729-10-23",
+        "transcription": "En veinte y tres de octubre año de mill setecientos y veinte y nuebe años se enterró en esta yglesia Isabel Delgado, mujer de Phelipe Moreno. Recibió los santos sacramentos. Hizo su testamento ante Andrés Moreno en ausencia del escribano en nuebe de julio de este presente año en el qual mandó se hagan los tres oficios de entierro, honras y cabo de año con sus vigilias y que a ellos se ponga la cera necesaria y [ilegible] y que sea enterrado su cuerpo con el hábito de N.º P.e San Francisco; que se ofrende su sepultura durante el año de su fallecimiento con dos libras de pan y su cerilla y la ofrenda de [ilegible]. [ilegible] por su alma [ilegible]. Se diga una misa a San Antonio de Padua [ilegible]. Por testamentarios a Phelipe Moreno su marido y a Bernardo Moreno su hijo y por herederos [ilegible] María Moreno su hija y [ilegible] Manuel González su nieto; para que conste lo firmo en dicho día mes y año. Andrés Sánchez."
+      }
     },
     {
       "id": "miguel-delgado",
@@ -18566,7 +18597,8 @@
       },
       "death": {
         "date": "1726-01-19",
-        "place": "Roales"
+        "place": "Roales",
+        "transcription": "En diez y nueve de Enero de este presente año de mil setecientos y veinte y seis murió Isabel Martín, muger de Manuel Giron, Vº de este lugar de Roales. Recibió los S.tos Sacram.tos menos el de la extrema unción. No hizo testam.to. Enterrose en una sepultura que está próxima al Altar del S.to Christo, y para que conste lo firmé yo el infrascripto Cura deste lugar de Roales, dho día mes y año."
       },
       "father": "francisco-martin-padre-de-isabel-martin-diez",
       "mother": "maria-diez"

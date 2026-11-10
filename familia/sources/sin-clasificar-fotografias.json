@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "batch": "Fotografías sin clasificar de Register Data — revisión inicial",
+  "reviewedOn": "2026-11-10",
+  "method": "Lectura de originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; los borradores sin enlace requieren revisión y no acreditan la identidad.",
+  "entries": [
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Martín Díez.JPG",
+          "sha256": "03544599dde2f0c3688f708f15cc01c0ee6fadf2905278c9923d0fc86d5c6e96",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y nueve de Enero de este presente año de mil setecientos y veinte y seis murió Isabel Martín, muger de Manuel Giron, Vº de este lugar de Roales. Recibió los S.tos Sacram.tos menos el de la extrema unción. No hizo testam.to. Enterrose en una sepultura que está próxima al Altar del S.to Christo, y para que conste lo firmé yo el infrascripto Cura deste lugar de Roales, dho día mes y año.",
+      "uncertainties": [
+        "La partida nombra a Isabel Martín, esposa de Manuel Girón, y coincide con la fecha y el lugar del árbol; el segundo apellido procede de la ficha existente."
+      ],
+      "status": "incorporada",
+      "personId": "isabel-martin-diez",
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Casaseca.JPG",
+          "sha256": "4212b72dbb33112487965840774c4d65c07be9b26b4a2046b837c498ecde8d3d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y uno de enero de mil setecientos y cinquenta y tres años se enterró en esta Yglesia Josepha Casaseca viuda de Manuel Marques Esteban. Murió de su muerte natural no pudo recibir más sacramento que el de la extremaunción. Dio poder para hacer su testamento a sus hijos Dn Joseph Marques, Dn Fran.co y Alonso Marques para que gastasen lo que les pareciere por su alma. Se le hizo entierro honras cabo de año y novenario. Dejó diez hijos Alonso, Fran.co, Ant.o, Diego, Agustín, Manuel, María, Alfonsa, Josepha y Fran.ca y para que conste lo firmé. Dn Ant.o Cabrera.",
+      "uncertainties": [
+        "La viuda de Manuel Marqués Esteban coincide con la madre de Josefa Marqués Casaseca; la fecha es de entierro, no de fallecimiento. La partida no indica localidad expresamente.",
+        "Joseph figura entre los apoderados, pero no en la lista final de diez hijos; no se crean filiaciones a partir de esta lectura."
+      ],
+      "status": "incorporada",
+      "personId": "josefa-casaseca",
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Miguel de Trigo.JPG",
+          "sha256": "1c79008184d4fd12cfaac86f1ba45d56b6d68f612c20ce53e759992ebcc9e196",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y quatro días del mes de abril de mill [ilegible]cientos y veinte y seis se enterró en esta Yglesia Miguel de Trigo, aviendo recibido los santos sacramentos de penitencia, Eucharistía y extrema unción. No hizo testamento por [ilegible]. Y lo firmé.",
+      "uncertainties": [
+        "La centuria parece setecientos, pero necesita comprobación; el asiento anterior parece del mismo año.",
+        "No se nombran familiares ni localidad; el nombre no basta para identificarlo con el padre de Alonso de Trigo. La frase tras «por» requiere revisión."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonId": "miguel-de-trigo"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Piorno.JPG",
+          "sha256": "d6520fb5769349a79b19769c0226aaa1587c1c74585b01015ca9de533aaa2abc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "Murió Antº Piorno en once de mayo de mill setecientos y quatro años. Era pobre, hízosele un novenario [ilegible] para más. Enterróse en la Yglesia de este lugar y lo firmé.",
+      "uncertainties": [
+        "El nombre y la fecha coinciden con la ficha; la partida no nombra familiares ni localidad y la atribución requiere corroboración independiente.",
+        "La frase después de novenario podría decir «que no hubo para más», pero no es segura."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonId": "antonio-piorno"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Catalina Nieto.JPG",
+          "sha256": "48765c3ceac9c410c357658dabbae7583a3a5e504c77d24bf47a89d972b199d9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y seis de Octubre bautizé a Catalina hija de Juº Nieto y de María Galana sus legítimos padres vecinos deste lugar. Fue su padrino Sebastián [ilegible] de [ilegible]. Testigos Marcos Ortiz sacristán y Benito Martín y por verdad lo firmé.",
+      "uncertainties": [
+        "Coinciden ambos padres. El año no se ve; el árbol conserva 1664 para el nacimiento, mientras TATARABUELOS SEXTOS indica 1661. El asiento dice bautismo y no documenta la fecha de nacimiento.",
+        "El apellido del padrino no se lee con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-nieto"
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Nieto Galán.JPG",
+          "sha256": "133b972d8917f973a64a1d6d77fea0a783161bf5cea041f7adfdc8929b2775af",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En seis de Otubre enterré a Cathalina Nieto, muger de Manuel Hernandez Crespo. Recibió los santos sacramentos y díle entierro honrras y cabo de año.",
+      "uncertainties": [
+        "El marido coincide con Manuel Hernández Crespo. Se registra el día y mes del entierro; el año no se ve. La fecha de fallecimiento existente no fija el año de este asiento.",
+        "Ya existe otra fotografía del mismo asiento con el mismo nombre en el destino; se conservan ambas tomas."
+      ],
+      "status": "incorporada",
+      "destinationFilename": "Muerte de Catalina Nieto Galán (otra toma).JPG",
+      "personIds": [
+        "catalina-nieto"
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Pedro Delgado e Isabel Montalvo.JPG",
+          "sha256": "88d6412eb8252f5330e8ef22f7cd24530b5e6821328378a8d2ab51c4819ff642",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y seis días del mes de febrero año de mill setecientos y veinte y seis yo el D.or D.n Diego [ilegible] de la Calle Cap.n de honor de su Mag.d y cura propio de este lugar de la Moraleja, aviendo en tres días festivos leydo las tres admonestaciones que el S.to concilio dispone y no aviendo resultado mas impedimento que el de afinidad en quarto grado, que ya su santidad tiene dispensado, y con despacho del S.r Liz.do D. Pedro Martín Villamediana Provisor y Vicario General deste obispado de Zamora; desposé y velé yn facie eclesie a Pedro Delgado hijo de Luis Delgado ya difunto y de Ana González, con Isabel Montalvo hija de Thomas Montalvo y de María Grande; siendo testigos Alonso Delgado y Thomas Montalvo y otros todos vecinos deste lugar y lo firmé. El D.or Diego de la Calle.",
+      "uncertainties": [
+        "Coinciden ambos cónyuges, los cuatro padres, fecha y localidad; el primer apellido del cura no se lee con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-delgado",
+        "isabel-montalvo"
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Montalvo Grande.JPG",
+          "sha256": "3ef5b6dd949552de84b9ebc7a368b08c12c52ddb37852e2a9fb12c0a2e1a4d10",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En el lugar de Moraleja a veinte y ocho de Noviembre de mil setecientos sesenta y nueve, yo el infrascripto [ilegible] cura propio de él, di sepultura eclesiástica en la capilla mayor de esta Parroquia a Isabel Montalvo viuda que fue de Pedro Delgado; recibió [ilegible] la extremaunción y no el de penitencia y [ilegible] viático a causa de haver quedado privada de sus sentidos. Hizo testamento, en el que dispuso enterrarse con el hábito de S.n Fran.co y después de los gastos de entierro se le hiciesen tres oficios, [ilegible] y un novenario cantado con su oficio; y lo restante [ilegible] su hijo Luis Delgado Montalvo, a quien dejó por su único y universal heredero. Y para que así conste lo firmo [ilegible].",
+      "uncertainties": [
+        "Coinciden el marido Pedro Delgado, el hijo Luis y Moraleja; el entierro se expresa el día posterior al fallecimiento ya registrado. Imagen borrosa, huecos pendientes de revisión."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-montalvo"
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Antonio Moreno y Catalina Morales.JPG",
+          "sha256": "05862898a154774af447e9b4e8f6782a2b817f0b4d8f5202fd85ef632411a0f0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En primero de Marzo desposé a Antonio Moreno con Catalina Morales y en veinte [ilegible] de Setiembre [ilegible], siendo padrinos Juº Moreno y [ilegible] María [ilegible]. Testigos Fran.co Ortiz sacristán y [ilegible].",
+      "uncertainties": [
+        "Coinciden los cónyuges y el día y mes con el árbol; el año y la localidad no se ven en el asiento. La fecha y localidad ya registradas se conservan.",
+        "El texto posterior relativo a septiembre y los nombres de padrinos necesitan una lectura adicional."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-moreno",
+        "catalina-morales-madre-de-gregoria-moreno"
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Morales.JPG",
+          "sha256": "546afa965fe1cd4355a9e9f809b03f1d35754f84962f19102ed7f416825cfa78",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte de diciembre de mil seis cientos y setenta y siete murió Catalina Morales mujer de Antonio Moreno. Recibió los Santos Sacramentos y ante D. Joseph [ilegible] en veinte y siete de Octubre [ilegible] por su alma [ilegible] reales [ilegible] dejó por testamentarios [ilegible] su marido y por herederos a los hijos [ilegible] enterróse en esta Yglesia.",
+      "uncertainties": [
+        "El nombre de su marido coincide con la pareja del árbol y permite distinguirla de Catalina Morales Bernabé. No se expresa la localidad en la imagen. Hay pasajes del testamento sin lectura segura."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-morales-madre-de-gregoria-moreno"
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Matrimonio de Felipe Moreno e Isabel Delgado.JPG",
+          "sha256": "0ad4ccadc13c230424754415225135d268c2c75c872f26cf782020d3760d2efc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En siete de maio de dicho año [ilegible] por palabras de presente aviendo precedido las tres amonestaciones que manda el Santo Concilio [ilegible] de la Santa Madre Yglesia [ilegible] a Phelipe Moreno soltero hijo de Manuel Moreno y de Ana Morales con Isabel Delgado soltera hija de Miguel Delgado y de Isabel Martín. Fueron testigos de dicho matrimonio [ilegible] y para que conste lo firmé. Joseph [ilegible].",
+      "uncertainties": [
+        "Coinciden ambos cónyuges, los cuatro progenitores y el día y mes; el año se remite a otro asiento fuera de la fotografía. Se conserva la fecha existente sin atribuir su año a esta imagen."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "felipe-moreno",
+        "isabel-delgado-madre-de-maria-antonia-moreno"
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel González.JPG",
+          "sha256": "79a2b7de8af4d036eca74d02b51b02a4dbe1f96e12afb1041f7f94460f8d570e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veinte y tres de octubre año de mill setecientos y veinte y nuebe años se enterró en esta yglesia Isabel Delgado, mujer de Phelipe Moreno. Recibió los santos sacramentos. Hizo su testamento ante Andrés Moreno en ausencia del escribano en nuebe de julio de este presente año en el qual mandó se hagan los tres oficios de entierro, honras y cabo de año con sus vigilias y que a ellos se ponga la cera necesaria y [ilegible] y que sea enterrado su cuerpo con el hábito de N.º P.e San Francisco; que se ofrende su sepultura durante el año de su fallecimiento con dos libras de pan y su cerilla y la ofrenda de [ilegible]. [ilegible] por su alma [ilegible]. Se diga una misa a San Antonio de Padua [ilegible]. Por testamentarios a Phelipe Moreno su marido y a Bernardo Moreno su hijo y por herederos [ilegible] María Moreno su hija y [ilegible] Manuel González su nieto; para que conste lo firmo en dicho día mes y año. Andrés Sánchez.",
+      "uncertainties": [
+        "El nombre del archivo es engañoso: el asiento dice Isabel Delgado, mujer de Felipe Moreno. La fecha es de entierro, no de fallecimiento. No se expresa localidad.",
+        "Las cláusulas del testamento requieren revisión adicional; no se crean nuevas filiaciones con la lectura provisional de los herederos."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-delgado-madre-de-maria-antonia-moreno"
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Felipe Moreno.JPG",
+          "sha256": "2e16a12881085273d6f4cf7b661d46726abdf1218fff2ba9cffecc5fe1a98daf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y tres de septiembre de mil setecientos y cinquenta fue sepultado en la [ilegible] de Casaseca de las Chanas Phelipe Moreno, Vº del, murió de repente y así no [ilegible] ni hizo testam.to. No se le ha celebrado más sufragio que el del entierro y [ilegible], para que conste lo firmo dho día, mes y año.",
+      "uncertainties": [
+        "Coinciden el nombre y la localidad con Felipe Moreno Morales y el entierro es el día después de su muerte registrada; la partida no nombra familiares, de modo que la atribución queda pendiente.",
+        "El final de varias líneas está borroso."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonId": "felipe-moreno"
+    }
+  ]
+}
