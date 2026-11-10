@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos sextos — fotografías de partidas",
+  "reviewedOn": "2026-11-10",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Juan Cabrero y María de Luelmo.JPG",
+          "sha256": "389af5a02cc7f55bf007ef412c3f9a6d391fddc30898cd0e5485cf22a3f89156",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1690-04",
+      "place": "Morales del Vino",
+      "transcription": "Juan Cabrero y María de Luelmo.\n\nEn [ilegible] días del mes de Abrill deste año de mill seiscientos y nobenta años, aviendo precedido las tres admonestaciones que dispone el Sto Conzilio de Trento, por el Sr Ldo Diego de Mena siendo cura theniente en esta Iglesia, y no aviendo havido impedimento alguno, yo el Ldo Germo de Luelmo cura proprio deste lugr de Morales desposé a Juan Cabrero y María de Luelmo vºs deste dho lugr por palabras de presente como lo dispone dho conzilio, de que fueron testigos el Ldo Diego de Mena y Franco Martín Cordero vºs deste lugr y Luis Martín también vº deste lugr y para que conste lo firmé ut supra. Ldo Germo de Luelmo.\n\nEn diez y siete días del mes de [ilegible] de mill seiscientos y nobenta años belé a los contenidos y por berdad lo firmé. Ldo Germo de Luelmo.",
+      "uncertainties": [
+        "El desposorio es de abril de 1690; una mancha tapa el día (parece «ocho»). La nota del margen registra la velación un día 17 de un mes abreviado que no se lee con seguridad; el 17-08-1690 que daba el árbol es esa velación. Se aplica el criterio de la familia: la fecha del matrimonio es la del desposorio, aquí con precisión de mes, y la velación va en la nota.",
+        "La partida no nombra a los padres de los contrayentes."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-cabrero",
+        "maria-luelmo-madre-de-manuel-cabrero"
+      ],
+      "applied": [
+        "Matrimonio corregido de 17-08-1690 a abril de 1690, con la velación en la nota y transcripción."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Luelmo Martín.JPG",
+          "sha256": "9b4b8e18439cbe536d8c8891168ae2abc1aa2553091ef0976d6d80e2fa2191d6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1656-02-28",
+      "place": "Morales del Vino",
+      "transcription": "María.\n\nEn 28 de febrero de 1656 años baptizé a María hija de Juº de Luelmo y de Felipa Martín. Fueron padrinos Pedro de Luelmo y Catalina Yzquierda. Testigos Antº de Morales y Miguel [ilegible] y Pº Bragado y lo firmé. El Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "La fecha de nacimiento del árbol es la de este bautismo. El libro es el de Morales del Vino por el cura firmante.",
+        "La identificación de esta María con la mujer de Juan Cabrero procede de TATARABUELOS SEXTOS; las partidas de fallecimiento del matrimonio la llaman María de Luelmo Pérez."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-luelmo-madre-de-manuel-cabrero"
+      ],
+      "applied": [
+        "Bautismo el 28-02-1656 en Morales del Vino con transcripción; nota en el nacimiento."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos terceros — fotografías de partidas",
+  "reviewedOn": "2026-11-10",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Eduarda Pérez Ponce.JPG",
+          "sha256": "61ec3b72d878a34a2923d410ef8d7da983e28a7160173d714960784e48105d6b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1743-10-31",
+      "place": "Casaseca de las Chanas",
+      "transcription": "En treinta y uno de Octubre de mil setezs y qta y tres, yo el Infrascripto Cura ppio de la Yglesia de Sn Juan Bapta parroql deste lugar de Casaseca de las Chans baptizé y puse los Stos óleos a una Niña, que nació el día veinte y dos, hixa legítima de Franco Pérez, y Theresa Ponze vzos y naturales deste lugar; nieta por las dos líneas según refiere la cláusula qta del fol. tresztos y [ilegible], púsela por nombre Eduarda. Fueron sus padrinos Manuel [ilegible], y Franca Ponze, vzos deste lugar a quienes previne sus obligs y así para que conste, lo firmo dhos día, mes, y año. Br. Thomás Ventura de Martas.",
+      "uncertainties": [
+        "El comienzo de cada línea queda fuera de la imagen; se completan las palabras que la parte visible determina («En», «Yglesia», «óleos», «vzos»). No se leen las decenas del folio citado ni el apellido del padrino.",
+        "Coincide el nacimiento del árbol, 22-10-1743."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "eduarda-perez-ponce"
+      ],
+      "applied": [
+        "Bautismo el 31-10-1743 en Casaseca de las Chanas con transcripción."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Bonifacio de Paz y Eduarda Pérez.JPG",
+          "sha256": "a0cc5e00498905009e123242e057d7f90b4adb98b434b81d188ed23412597f73",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1767-01-12",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Bonifazio de Paz y Eduarda Pérez. Nota: se llama Eduarda, véase el bautismo.\n\nEn doze de Henero de mill setezs sesenta y siete yo el Infrascripto Cura ppio de la Iglesia de Sn Juan Baptista parrochial de este lugr de Casaseca de las Chans, habiendo precedido en ella en la debida forma las tres canónicas moniciones y de ellas no haber resultado notizia de impedimto alguno del Sto Matrimonio, asistí a el que por palabras de presente que le hazen verdadero celebraron in facie eclesie (donde recivieron las vendiciones nupciales) Bonifazio de Paz mozo soltero residente en este y natural de la Ciud de Toro, hijo lexmo de Antonio de Paz y Jopha Carrasco ya difuntos y vzs que fueron de dha Ciud, y después deste lugr, y Eduarda Pérez del mismo, natural deste dho lugr, hija también lexma de Franco Pérez y Theresa Ponze todos difuntos y vzs que fueron de él, de que fueron testigos Ramón Fernz, Franco Delgado y otros vzs deste lugr donde para que conste lo firmo dho día, mes y año. Barme Díez.",
+      "uncertainties": [
+        "El nombre de la contrayente está escrito, en el margen y en el cuerpo, encima de otro que parece Leonarda; la nota marginal remite al bautismo. Tras «del mismo» falta la palabra «estado»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bonifacio-de-paz-carrasco",
+        "eduarda-perez-ponce"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos; nota con la iglesia y las bendiciones."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Bonifacio de Paz Carrasco.JPG",
+          "sha256": "a5ae2ef39fce63fbb558f1a44b3be6878bc54e6188af2f20601dff9fbec89aa9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1799-11-11",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Bonifacio Paz. Testó. Cumplido.\n\nEn onze de Novre de mil setezs novta y nuebe, yo Dn Franco de Valdecañas, Presvro vezº de este Lugar de Casaseca las Chanas, con la lizª necesaria, di sepultura eclesiástica en el cuerpo de la Ygª Parroquial de Sn Juan Bautista de él, al cadáver de Bonifacio Paz, vezº que fue de este Lugar. Falleció en diez de dhos mes, y año, haviendo recivido los Santos Sacramtos y hecho testamto en diez de dhos mes, y año, ante Manl Mulas fiel de fhos de este lugar; en él mandó todos sus vienes a sus dos hijas Teresa, y Josefa Paz, haviendo nombrado por sus testamentarios, a su Yerno Juan Martín, y a Bernº Sevillano, vezos de este. Hera el dho Bonifacio viudo de Leonarda Pérez, y para que conste lo firmo. Dn Franco de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "El margen queda en parte oculto en el lomo. La partida expresa la muerte el día 10, como el árbol, y el entierro el 11."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bonifacio-de-paz-carrasco"
+      ],
+      "applied": [
+        "Entierro el 11-11-1799 en Casaseca de las Chanas con transcripción; observación con sus hijas."
+      ]
+    }
+  ]
+}

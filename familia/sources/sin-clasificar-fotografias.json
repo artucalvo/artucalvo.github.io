@@ -4388,36 +4388,6 @@
       ]
     },
     {
-      "type": "death",
-      "images": [
-        {
-          "filename": "Muerte de Francisco de Zamora Díez1.JPG",
-          "sha256": "6bdb3247e7d2b67867dcbe7c6810580f30fd40b130ff06fe48ee6105e494ee1c",
-          "width": 4288,
-          "height": 2848
-        },
-        {
-          "filename": "Muerte de Francisco de Zamora Díez2.JPG",
-          "sha256": "5cd5ab87b81bef9f1bb95ccc812ba9fa8527ce36fd5e316ab8f1da7443365af2",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcription": "En tres días del Mes de Diz.re de Mill Setec.s y veinte y tres D.n Fran.co de Zamora, Marido de D.ª Margarita de Luelmo, Vecino deste Lugar, y Parrochiano desta Yglesia; haviendo Confesado y Recivido el S.mo Sacram.to de la Eucharistía por mí el infra escripto Cura, y el de la S.da Extremaunción por mi Then.te, falleció. Hizo Testam.to ante Gerónimo de Torres Es.no de Zamora en tres de Ag.to de Mill Setec.s y diez y siete, en el qual dispone se entierre en la sepultura que tiene en esta Parrochial en la Capilla Mayor; lo que executé en quatro de dho mes. [ilegible] Dejó por testamentarios a [ilegible] D.ª Margarita de Luelmo su muger y a D.n Luis de Mançana [ilegible], su entenado; y por herederos a D.ª Luisa y D.ª Isabel de Zamora sus hijas y lo firmé. D.n Diego de la Calle.\n\nCláusula de su testamento. Que sea sepultado con ataúd y hábito [ilegible]; que se le hagan los tres oficios mayores por su alma con asistencia de doce sacerdotes. Ardan en ellos doce hachas. Novenario de misas cantado, diez y ocho misas [ilegible], dos misas en el altar de N.ª S.ª del Viso [ilegible]. Ofrenda a los tres oficios media carga de trigo. [ilegible] Tres cargas de trigo a los pobres de este lug.r. [ilegible].",
-      "uncertainties": [
-        "Dos fotos de un asiento. Coinciden la esposa Margarita de Luelmo y su hija Luisa. El apellido Díez del archivo no se ve en la partida.",
-        "El texto expresa fallecimiento el 03-12-1723 y entierro el día 4, mientras la fecha de fallecimiento previa es el día 2; se conserva y anota el contraste. La localidad no se nombra expresamente. El testamento requiere una lectura adicional."
-      ],
-      "status": "incorporada",
-      "personIds": [
-        "francisco-zamora"
-      ],
-      "applied": [
-        "Transcripción de muerte y entierro; entierro 04-12-1723; observación por discrepancia."
-      ],
-      "destination": "Tatarabuelos quintos"
-    },
-    {
       "type": "burial",
       "images": [
         {
@@ -4437,6 +4407,1534 @@
       ],
       "applied": [
         "Entierro 26-03-1725 y segunda esposa María Linares sin fecha de matrimonio."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "DSC_0714.JPG",
+          "sha256": "3fbd8e40a87a94cf60653301a7e1ed6737c6158557a00e928b185aa7f84cb890",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "María Delgado González (DSC_0714).JPG"
+        }
+      ],
+      "date": "1665",
+      "place": "Moraleja del Vino",
+      "transcription": "[...] bapticé y puse los santos olios a María hija de Luis Delgado mozo y de Lucía González su ligítima mujer. Fueron sus padrinos D. Luis González de Silva y María García. Fueron testigos Francisco Gutiérrez familiar del Santo Oficio de la Ynquisición y Pedro de Luelmo y otros muchos y para que conste lo firmé ut supra. Pedro González.\n\nLuis.\n\nEn ocho de setiembre de 1665 años yo Manuel González de Segobia cura propio del lugar de la Moralexa bapticé y puse los santos olios a Luis hijo de Alonso de Urueña yerno de la de Alonso Martín y su muger Catalina Martín. Fueron sus padrinos Luis de Urueña y Ynés Delgada [ilegible] y lo firmé ut supra. Manuel González de Segovia.\n\nCatalina.\n\nEn doze días del mes de septiembre de mill y seiscientos y sesenta y zinco yo Pedro González cura teniente de dicho lugar bapticé y puse los santos olios a Chatalina hija de Alonso [...]",
+      "uncertainties": [
+        "Página de bautismos de Moraleja del Vino de 1665; el primer asiento empieza en la página anterior y no muestra su fecha (es anterior al 8 de septiembre de 1665), y el tercero continúa en la siguiente.",
+        "El primer asiento es el bautismo de María, hija de Luis Delgado «mozo» y Lucía González: la pareja ya registrada como padres de Luis Delgado González (1667). El Luis de Urueña bautizado el 8 de septiembre de 1665 no es el padre de Isabel de Urueña Arenas, casada en 1701; este pudo ser el padrino del asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-delgado-gonzalez"
+      ],
+      "applied": [
+        "Persona nueva: María Delgado González, hija de Luis Delgado y Lucía González, bautizada en Moraleja del Vino en 1665."
+      ],
+      "destination": "Otros familiares"
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Francisco Martín y María Hernández.JPG",
+          "sha256": "fe9fc70b460d96192ecb79aba379b94759dca6ad3ad2ab3779151ec11c442d23",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1697-09-28",
+      "place": "Moraleja del Vino",
+      "transcription": "Franco Martín y Mª Hernán[dez].\n\nEn beinte y ocho de setiembre de 1697 años yo el infra escrito cura deste lugar de Moraleja, abiendo echo las tres amonestaciones que manda el Santo Concilio, desposé in facie eclesie por palabras de presente a Franco Martín hijo de Antº Martín y de Ana Mª Berdugo ya difuntos, con María Hernandes hija de Atilano Hernandes y de Mª Burgos, y en dicho día se belaron. Testigos Antº Espino, Franco Gonzales y lo firmé. Antº Machorso de Cosso.",
+      "uncertainties": [
+        "Sin enlace: ningún matrimonio Martín–Hernández de Moraleja figura en el árbol ni en los resúmenes familiares. El Francisco Martín padre de Manuel Martín Ortiz estaba casado con Manuela Ortiz y su hijo se casó en 1713, de modo que no puede ser este contrayente, soltero en 1697."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Martín Cabrero.JPG",
+          "sha256": "5b7e62a8ff0d9bbe0fca5abb656ab1981b6baff20fdbdbceb1f7441880a4d5f0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1731-09-21",
+      "place": "Morales del Vino",
+      "transcription": "Franco Martín.\n\nEn veinte i uno de septiembre de el año de mil setecientos i treinta i uno se enterró en esta iglesia Franco Martín, aviendo recivido los Stos sacramentos de penitencia i comunión i extremaunción, y dio poder para el testamento a Luis Martín vecino de este lugar de Morales. Enterrose grada avajo. Hiziéronsele los oficios honrras y cavo de año y assí lo firmo. Tomó por su alma trecientos rs, de que está cumplido su testamento. Luis González, cura tte.",
+      "uncertainties": [
+        "El asiento no nombra mujer ni padres; coincide con Francisco Martín Cabrero, cuyo fallecimiento consta el día anterior, 20-09-1731, en Morales del Vino. La palabra «setecientos» está sobrescrita sobre otra tachada y el margen conserva solo parte del nombre."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-martin-cabrero"
+      ],
+      "applied": [
+        "Entierro el 21-09-1731 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Ponce.JPG",
+          "sha256": "d611c346ded8aa881f06118b37df85c2a3ad3f36aa6dc3ce796dd6daecaebac9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1679-01-26",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Franco Ponze. Entierro, honrras, cabo de año.\n\nEn veinte y seis de henero de mil seis cientos y setenta y nuebe murió Franco Ponze marido de María de Zamora. Recibió la santa Unción porque el acidente de la enfermedad no dio lugar a más. Testó en dos de abril de setenta y siete ante Manuel [ilegible] de Zamora. Tomó por su alma treinta ducados y los tres oficios y un nobenario rezado. Dexa por testamentarios a la dha su muger y a Pº [ilegible] y a Pº Ponze. Enterrose en esta yglesia y lo firmé. Nieto.",
+      "uncertainties": [
+        "El asiento nombra a su mujer, María de Zamora, y a Pedro Ponce entre los testamentarios. El escribano ante quien testó y el segundo testamentario no se leen con seguridad; la firma se lee «Nieto» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-ponce"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 26-01-1679 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Ramos.JPG",
+          "sha256": "22c5443651097edf4f43c808290fcf23e26b4356920d8ab051bd77ef63fc7c59",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1722-11-03",
+      "place": "Moraleja del Vino",
+      "transcription": "Franco Ramos.\n\nEn tres días del mes de Noviembre del año de mill setezs y veinte y dos, Franco Ramos, natural deste lugar, y parrochiano desta Yglesia, aviendo confesado y recivido los Santos Sacramtos de Eucharistía y extrema unzión, fallezió. Enterrose en quatro de dho mes en sepultura propria en la Capilla Maior. No hizo testamto por no tener de que testar, y a expensas de su hijo Luis se le hizieron los tres ofizios maiores con asistenzia al entierro de tres sazerdotes, y novenario cantado. Dio de ofrenda dos ochavas de trigo. Dejó hijos al referido Luis, Manuel, Franco y Zezilia y lo firmé. Dn Diego de la Calle.",
+      "uncertainties": [
+        "Folio 31. La partida expresa el fallecimiento el 3 de noviembre, como el árbol, y el entierro el 4. No nombra a su mujer; coincide el hijo Luis (Luis Ramos Bambón)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-ramos"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; entierro el 04-11-1722 en Moraleja del Vino; observación con sus hijos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Terrón.JPG",
+          "sha256": "aad05d4e6343355ac962fa514e9539050589c5626ac7258b4103d8033fc02b67",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Muerte de Francisco Terrón (otra toma).JPG"
+        }
+      ],
+      "date": "1735-08-15",
+      "place": "El Cubo del Vino",
+      "transcription": "Francisco. Está cumplido el testamento.\n\nEn quince de Agosto de mil settos y treinta y cinco yo el infrascripto cura de esta Vª del Cubo di sepultura eclesiástica a Franco Terrón vº de ella en la Parrochial de esta Vª en la Capilla Mayor acia el lado del Evangelio. Recibió todos los Smtos, hizo testamento, dejó los derechos parrochiales y una misa a N. S. de los [ilegible], otra a N. S. del Consuelo, otra al Sto Ángel de su guarda y Sto de su nombre, y mandó que a su entierro y honrras asistiesen dos sacerdotes. Dexó por testamentarios a su muger Ysabel Díaz, y a Luis Martín vº de dha Vª y por herederos a sus hijos Michaela, Franco, María, Alonso, Domingo, Ana y Luis, y para que conste lo firmo en dha Vª dho día, mes y año. Manuel Alonso.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 14-08-1735. Las palabras «del Cubo» están añadidas entre líneas. La advocación de la primera misa no se lee con seguridad (¿Remedios?).",
+        "Existe otra toma del mismo asiento en Tatarabuelos quintos."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-terron-padre-de-francisco-terron"
+      ],
+      "applied": [
+        "Entierro el 15-08-1735 en El Cubo del Vino con transcripción; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Zamora García1.JPG",
+          "sha256": "0d6f67db795895f55e2a10622cd8d319bb930ceb087eefbf6f9c1d57ba7b386c",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco Zamora García2.JPG",
+          "sha256": "7f3c9b1fda9a3c4cb15e1e720ac77b654aef1d9a514519853139f714efcf0e40",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco de Zamora Díez1.JPG",
+          "sha256": "6bdb3247e7d2b67867dcbe7c6810580f30fd40b130ff06fe48ee6105e494ee1c",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco de Zamora Díez2.JPG",
+          "sha256": "5cd5ab87b81bef9f1bb95ccc812ba9fa8527ce36fd5e316ab8f1da7443365af2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1723-12-03",
+      "place": "Moraleja del Vino",
+      "transcription": "Franco Zamora.\n\nEn tres días del mes de Dizre de mill setezs y veinte y tres, Dn Franco de Zamora, marido de Dª Margarita de Luelmo, bezino deste lugar, y parrochiano desta Yglesia, haviendo confesado, y rezivido el SSmo Sacramto de la Eucharistía por mí el infra escripto cura, y el de la Sda Extremaunción por mi thente, fallezió. Hizo testamto ante Gerónimo de Torres ssno de Zamora en tres de Agto de mill setezs y diez y siete, en el qual dispone se entierre en la sepultura que tiene en dha Parrochial en la Capilla Mayor, lo que executé en quatro de dho mes. Dejó por testamtos al Yllmo Sor Dn Ju. Calleja, cura que era deste lugar, y oy actual obpo de Cartagena de Indias, a Dª Margarita de Luelmo su muger, y a Dn Luis de Almancaya familiar del Sto Ofizio, su entenado. Y por herederos a Dª Luisa, y Dª Isabel de Zamora sus hijas y lo firmé. Dn Diego de la Calle.\n\nCláusula de su testamto.\n\nQue sea sepultado con attaúd y ávito de la SSma Trinidad. Que se le agan los tres ofizios mayores por su alma con asista de doze sacerdotes. Ardan en ellos doze hachas. Novenario de misas cantado, diez y ocho misas en los colatterales de nra Yglesia, doze misas en el altar de Nra Sra del Viso, las tres [ilegible], todas ellas a razón de tres rs. Ofrenda a los tres ofizios media carga de trigo. Ofrda su sepoltura año y [ilegible]. Tres cargas de trigo a los pobres deste lugr. Y para todo tres mill rs vellón.",
+      "uncertainties": [
+        "Cuatro imágenes: dos tomas de cada una de las dos páginas del asiento (número 34 del libro). Sustituye la lectura anterior de las tomas «Francisco de Zamora Díez», que dejaba huecos en los testamentarios y en la cláusula.",
+        "La partida expresa el fallecimiento el 3 de diciembre de 1723 y el entierro el 4. El árbol tenía el día 2, de TATARABUELOS QUINTOS; la versión de 2019 de TATARABUELOS SEXTOS ya decía 03-12-1723. Se corrige el fallecimiento y se retira la observación que conservaba las dos fechas.",
+        "El apellido Díez que le da la versión de 2019 no figura en la partida; se mantiene el nombre del árbol. Dos expresiones abreviadas de la cláusula no se leen con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-zamora"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 02-12-1723 a 03-12-1723; transcripción completa en fallecimiento y entierro; lugar del entierro; observaciones sobre sus hijas herederas y sobre el entenado."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Gabriel Martín Villasante1.JPG",
+          "sha256": "a65e7b128fac97c403b677df3857a227e4e2e7417cd04a7c957ab1cf2c18e1ac",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Gabriel Martín Villasante2.JPG",
+          "sha256": "ccde17cfd4e10efd1806505a65cabd0359526a2e9b76781de5ecc79494351e8c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-08-30",
+      "place": "Valcabado",
+      "transcription": "Gabriel Martín. 1742. Está a cargo de su mugr este testamto.\n\nEn el día treinta de Agosto de mill settezs y quarenta y dos murió en el lugar de Valcabado Gabriel Martín vezº de este de Roales, marido y conjunta persona de Basilisa Sánchez. Rezivió los Stos Sacramtos, ottorgó su testamto ante el fiel de fechos de dho lugr de Valcavado, y se enterró en esta Ygla de Roales en sepoltura de grada abajo y para que conste lo firmé el ynfrascripto cura de dho lugar a [ilegible] de septiembre de dho año. Ygnacio Vizte [ilegible].",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del siguiente, cuya imagen está movida: el día de septiembre en que se firmó y el apellido del cura no se leen.",
+        "El asiento es del libro de Roales: murió en Valcabado y fue enterrado en la iglesia de Roales; no expresa la fecha del entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "gabriel-martin"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; nota sobre el entierro en Roales."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Brioso Luelmo.JPG",
+          "sha256": "ec518ba04630febfc5fe745f32a0ce25510c3857f2e60b4960dd23804c8fc264",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1752-12-15",
+      "place": "Morales del Vino",
+      "transcription": "Ynés Brioso. Cumplido y lo firmé. Cabrero.\n\nEn quinze de Diziembre de mil settos y zinquenta y dos as se entterró en esta Yglesia Ynés Brioso muger que fue de Luis Martín. Murió de su muerte nattural, rezivió todos los Stos Sacramentos, hizo testamento y no tomó por su alma más que lo que quisieran gastar sus hijos Dn Estevan Martín Majistral de Ábila, Dn [ilegible] Martín cura de Arzenillas y para que conste lo firmé en dicho día mes y año. Dn Antto Cabrero.",
+      "uncertainties": [
+        "El asiento es de 1752: lo sigue el encabezado «Año de 1753» y llama a Inés «mujer que fue» de Luis Martín, que murió el 25-11-1752. El 14-12-1742 de TATARABUELOS SEXTOS tiene la década equivocada: se corrige el fallecimiento al 14-12-1752, la víspera del entierro, como en el resto del documento.",
+        "El nombre de pila del segundo hijo está abreviado y no se lee con seguridad (¿Manuel?)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-brioso"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 14-12-1742 a 14-12-1752; entierro el 15-12-1752 en Morales del Vino con transcripción; observación con sus hijos eclesiásticos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Gutiérrez Mateo.JPG",
+          "sha256": "ab0e29067529dd996cf13999a6c09c3338eb6c9b6a0b76a010d25d039fbdb6f7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1748-09-24",
+      "place": "Peleas de Arriba",
+      "transcription": "Adulta. Cumplido.\n\nEn veinte y quatro de Setiembre de mill setecientos y quarenta y ocho yo el infra escrito Cura propio de esta Parrochial de Peleas de Arriba anexo de Fuente el Carnero di sepultura eclesiástica junto al púlpito de dha Yglesia a Ynés Gutiérrez conjunta persona de Antonio Calabaza. Recivió los Stos Sacramentos de confesión, viático y extremaunción, dio poder para testar a Antº Calabaza, quien mandó por bien del alma de la referida Ynés los dros parrochiales y algunas misas votivas y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "Es partida de entierro y no expresa la fecha de la muerte; no se deduce un fallecimiento.",
+        "La misma página contiene el comienzo del entierro, el 17 de octubre de 1748, de Josefa Rivera, viuda de Pedro Bragado, que también se incorpora; su final queda fuera de la imagen."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-gutierrez",
+        "josefa-rivera"
+      ],
+      "applied": [
+        "Entierro nuevo de Inés Gutiérrez Mateo el 24-09-1748 en Peleas de Arriba con transcripción; entierro nuevo de Josefa Rivera el 17-10-1748 en Peleas de Arriba con la parte visible de su asiento."
+      ],
+      "otherEntries": [
+        {
+          "type": "burial",
+          "date": "1748-10-17",
+          "place": "Peleas de Arriba",
+          "personId": "josefa-rivera",
+          "note": "Asiento de Josefa Rivera, incompleto en la imagen; su transcripción figura en su ficha."
+        }
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Hernández.JPG",
+          "sha256": "3b92036b8af705a46c075277fa7fa2382695de18d59f8e97f520a4f40bbbdba9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1745-04-04",
+      "place": "Morales del Vino",
+      "transcription": "Ynés Herz. Está cumplido y lo firmé. Cabrero.\n\nEn quatro de Abril de mil settos y quarenta y zinco as se enterró en esta Yglesia Ynés Herz mugr de Andrés Román. Murió el día tres de dicho mes de su muerte natl, rezivió todos los Stos Sacramentos de Penitenzia, Eucaristía y Extremaunzión. Dio poder para hazer su testamento a su marido ante Diego Cabrero vº de este lugar. Hiziéronse onrras y cabo de año y nobenario rezdo y para que conste lo firmé. Dn Antto Cabrero.\n\nSolo tomó por su alma lo que se gastó en el funeral.",
+      "uncertainties": [
+        "La partida dice que murió el día 3 y fue enterrada el 4: el 04-04-1745 que daba el árbol como fallecimiento es el entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-hernandez"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 04-04-1745 a 03-04-1745; entierro el 04-04-1745 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Marqués.JPG",
+          "sha256": "64fec15e00450bbae2cbb158935d518e185c6883da18572ccc26bedf77f9a707",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1769-09-05",
+      "place": "Morales del Vino",
+      "transcription": "Ynés Marqués. Cumplido. Visto y cumpdo.\n\nEn cinco de Septre de mil settos y sesenta y nueve se enterró en esta Yglessia Ynés Marqués viuda de Franco Cabrero, vzos que fueron de este lugar. Murió de su muerte natural, rezivió todos los Stos Sacramentos. El día antezedente murió a las seis de la mañana. Dio poder a sus hijos para que le hiziesen bien por su alma. Gastaron doscientos ducados en el funeral y en limosnas a los combentos. Dejó quatro hijos. Murió de ochenta y quatro as y lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "La partida dice que murió el día anterior al entierro, a las seis de la mañana: el 05-09-1769 que daba el árbol como fallecimiento es el entierro. Dice que murió de ochenta y cuatro años; no se calcula un nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-marques"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 05-09-1769 a 04-09-1769, con la hora en la nota; entierro el 05-09-1769 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Martín Sánchez.JPG",
+          "sha256": "249a4521dbebaba680142af0033e30162dbeff0774459519cd743044d98789e2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1791-12-06",
+      "place": "Roales",
+      "transcription": "Ynés Martín. Adulta. Se cumplió su testamento, y para que conste lo firmo. Dn Thomás de Berra.\n\nEn seis días del mes de Diciembre del año de mil septs noventa y uno, yo el infrascto Cura propio de esta Parroquial de Roales di sepultura eclesiástica en el cuerpo de dha Yglesia al cadáver de Ynés Martín viuda de Josef Jirón, vecinos que fueron de este lugar. Recivió los Stos Sacrametos de Penitencia, Viático y Extrema Unción. Hizo testamto, bajo el qual mandó se dijesen doscientas misas, su limosna de tres rs, y los derechos acostumbrados de entierro, honrras y cabo de año con asistencia de quatro religiosos descalzos. Dejó por heredero a su hijo Franco Jirón y por testamentarios a Dn Bernº Roncero y a dho su hijo, y para que conste lo firmo a siete de dho mes y año. Dn Thomás de Berra.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 05-12-1791. El margen lleva además una nota de la colecta de la Casa Santa de Jerusalén, ajena al asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-martin"
+      ],
+      "applied": [
+        "Entierro el 06-12-1791 en Roales con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés de Trigo Luelmo.JPG",
+          "sha256": "1e188d8b9371e789256f1e9e1b3679a750a0061f6f0b0033352f91808f776118",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1749-11-03",
+      "place": "Morales del Vino",
+      "transcription": "Ynés de Trigo. Está cumplido y lo firmé. Cabrero.\n\nEn tres de Noviembre de mil settos y quarenta y nueve as se enterró en esta Yglesia Ynés de Trigo viuda de Manl Carrascal. Murió de su muerte natural, rezivió todos los Stos Sacramentos de Penitenzia, Eucharistía y Extremaunzión. Hízosele entierro, onrras y cabo de año y novenario. Hizo testamento ante Antº de Luelmo fiel de fechos de este lugar y tomó por su alma mil rs y para que conste lo firmé. Dexó zinco hijos. Dn Antto Cabrero.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 02-11-1749. Una mancha tapa una palabra breve tras «novenario»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-de-trigo"
+      ],
+      "applied": [
+        "Entierro el 03-11-1749 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Izquierdo Carrascal.JPG",
+          "sha256": "a7f552a57dedef2cf81a628c0cf85ba634f7da68ca7c53c7c5c5cdc856f48673",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1749-10-22",
+      "place": "Morales del Vino",
+      "transcription": "Ysavel Yzquierdo. Cumplido. Cabrero.\n\nEn veinte y dos de octubre de mil settos y quarenta y nueve as se enterró en esta Yglesia Ysavel Yzquierdo viuda de Franco Martín. Murió el día veinte y uno de dicho mes, rezivió todos los Stos Sacramentos de Penitenzia, Eucharistía y Extremaunzión. Hizo testamento ante Diego Cabrero fiel de fechos de este lugar de Morales. Solo tomó por su alma lo que se gastase en el funeral a elezión de sus testamentarios. Dexó fundado un aniversario de misa cantada sobre las casas de su morada. Dexó dos hijas y un hijo relixioso gerónimo y maestro de su relixión y para que conste lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 21, como el árbol, y el entierro el 22. Algunas palabras quedan bajo manchas de tinta traspasada y se leen por el contexto («elezión», «aniversario»)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-izquierdo"
+      ],
+      "applied": [
+        "Entierro el 22-10-1749 en Morales del Vino con transcripción; observación con sus hijos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Marqués Herrero.JPG",
+          "sha256": "c5dcd5809811128ddcf74f8a63d1eaf937964045a1b21cfb665bf5bcaa52e2ac",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1783-01-04",
+      "place": "Morales del Vino",
+      "transcription": "Ysabel Marqs.\n\nEn quatro henero del año de mil setezientos ochenta y tres yo el infrascripto Thente Ecónomo de este lugar de Morales de Zamª di sepultura ecclesiástica en el cuerpo de la Yglesia Parroquial de dho lugar a el cuerpo de Ysabel Marqs, muger que fue de Alonso Martín, ambos vezs que fueron del expresado lugar y difuntos. Murió la referida Ysabel el día tres de dho mes. Recivió los santos sacramtos de penitencia, Eucaristía por modo de viático, y el de la Sta extremaunción. Hizo testamento, en el qual dexó a la disposición de su hijo Dn Luis Martín, Dignd de Prior de la Sta Yglesia de Zamª, la distribución de los mrs que fueren de su agrado por vien de su alma sin determinar otra cosa como consta de su testamto que para en el oficio de Dn Miguel Tomillo ssno de Zamora, y para que conste lo firmo. Dn Silvestre Baz.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 3, como el árbol, y el entierro el 4."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-marques"
+      ],
+      "applied": [
+        "Entierro el 04-01-1783 en Morales del Vino con transcripción; observación con su hijo."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Martín Jorge.JPG",
+          "sha256": "f0ae57294413993bc1b45e201e029bbeadfda1c67299cbd7061611908cabb8b6",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Muerte de Teresa Martín Jorge.JPG"
+        }
+      ],
+      "date": "1746-10-22",
+      "place": "Villadepera",
+      "transcription": "Theresa Mrn.\n\nEn veinte y dos de octue de mil setts y quarenta y seis di sepultura ecclesiástica en esta mi Iglesia Parroquial de Villadepera gradas avaxo a Theresa Martín muger de Manuel Sebastián vºs de él, que murió el día antes aviendo recibido los Stos Sacramtos y echo testamto ante Manuel Núñez en que tomó por su alma treinta y dos missas además de los sufragios ordinarios. Dejó por su única heredera a una niña recién nacida que se llamó Ysabel hija de esta dha y de dho su marido Manuel Sebastián, a quien también dejó por testamentario. En cuia fee lo firmé ut supra. Juan Hernz.",
+      "uncertainties": [
+        "La imagen se llamaba «Muerte de Isabel Martín Jorge», pero el asiento es el entierro de Teresa Martín, mujer de Manuel Sebastián, que deja por heredera a su hija recién nacida Isabel (Isabel Sebastián Martín, nacida el 21-09-1746). Se renombra al trasladarla."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "teresa-martin"
+      ],
+      "applied": [
+        "Fallecimiento nuevo de Teresa Martín Jorge el 21-10-1746 en Villadepera y entierro el 22-10-1746 con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel Salvador.JPG",
+          "sha256": "9c7cd6896cfb512f69f20dad0bf97a36caef186470f98841615370d8239a0982",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Isabel Salvador 2.JPG",
+          "sha256": "85491610455f2af1c5cc1ebfc591327d35bdb006d4fa5a1f5658cbce47aee650",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1738-07-26",
+      "place": "Gáname",
+      "transcription": "Ysabel.\n\nEn el Lugr de Ganame a veinte i seis días del mes de Julio de mil setecientos y treinta y ocho años yo Franco Baquero cura dél enterré en su Yglesia (arriba) a Ysabel Salvador vezª dél, viuda de Marcos Vega, aviendo rezivido el Sto Sacramento de la extremaunción, y no otro por no averlo permitido su accidente. Avía hecho su testamto ante Joseph Mazón y otros vezs de este en veinte i uno de Dizre de mil setecientos y treinta i cinco, en que mandó se gastassen por su alma quatrocientos Rs, de que saliesse los derechos del funl y dos nobenarios cantados y la asistencia de dos sacerdotes y una misa a nra Sª del Raio, otra al Rosº, otra a Sta Barbª, otra al Sto Xpto, otra a Sn Joseph, otra a Sn Migl, otra al Sto Xpto de Morales, otra a nª Sª de Gracia, otra a nª Sª de Francia, y de dicha cantidad cinqta Rs de limª a los PP. descalzos de Zamora, cinquenta pª misas al convto de S. Franco y cinqta al convto de Sto [ilegible], a las obras pías lo acostumbrado, y que se le ofrendasse dos años segn costumbre, por ofrendadera de ella a su hixa María Vega, y que se diesse una caridad de pan y vino. Por testamentarios nombró a Joseph Zurdo, Juan y Joseph Vega, y por herederos a sus hixos lexítimos y del matrimonio con el dho, Joseph, Juan, Alonso, María y Catalina Vega, y para que conste lo firmé. Franco Baquero.",
+      "uncertainties": [
+        "Dos tomas de la misma página. Es partida de entierro; el fallecimiento del árbol es el día anterior, 25-07-1738. El apellido del escribano se lee «Mazón» con reservas y el final de una línea queda oculto en el lomo.",
+        "La página izquierda contiene el entierro, el 19 de noviembre de 1737, de Catalina Garrote, viuda de Alonso Piorno, que también se incorpora. El 19-11-1737 que el árbol daba como su fallecimiento es la fecha del entierro: por la regla de la familia para las fechas de los resúmenes que en realidad son de sepultura, el fallecimiento pasa al día anterior.",
+        "La misma imagen muestra el final de otro asiento, de una mujer que deja por herederos a sus hijos Miguel y Domingo Piorno y a su marido Pedro Pascual, y el entierro de una párvula llamada Teresa, hija de Juan Gonzalo y de Sebastiana Gaspar, difunta, un 12 de agosto; no se han incorporado."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-salvador",
+        "catalina-garrote"
+      ],
+      "applied": [
+        "Entierro de Isabel Salvador el 26-07-1738 en Gáname con transcripción; observación con sus hijos herederos. Entierro de Catalina Garrote el 19-11-1737 en Gáname con transcripción; su fallecimiento pasa de 19-11-1737 a 18-11-1737; observación con sus hijos."
+      ],
+      "otherEntries": [
+        {
+          "type": "burial",
+          "date": "1737-11-19",
+          "place": "Gáname",
+          "personId": "catalina-garrote",
+          "note": "Asiento de Catalina Garrote, en la página izquierda; su transcripción figura en su ficha."
+        }
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Isabel de Urueña1.JPG",
+          "sha256": "f035161be5a92f3d977fe884acf8e393cff34159c4e09c88011fb2f07d9e996f",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Isabel de Urueña2.JPG",
+          "sha256": "39aa0c5c50cbb415dda43cf66bb54174534beb8d344a220c755d11485631714f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1731-06-05",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ysabel Urueña mugr de Antº Morales.\n\nEn cinco días del mes de Junio de mil setezs y treinta y uno, yo el dho Cura Dn Juan de León enterré en esta Ygla a Ysabel de Urueña muger de Antº Morales vzº deste lugr. Rezivió los santos sacramtos, hizo testamento ante Andrés Moreno vzº deste lugr y mandó en él se le hiziesen los tres oficios, entierro, honrras y cavo de año, y se le ofrendase su sepoltura todos los días festivos durante un año con una oblada de dos libras y una zerilla al estilo del lugar. Señaló su sepoltura a boluntad de el Sr Cura, y se pagase su rompimiento a la fábrica. No dejó asistencia de sazerdotes, solo el Sr Cura, resto dejándolo a la boluntad de su marido. Enterrose en la sepoltura primera que está a la coluna del arco de la pila del agua bendita de la puerta principal de esta Ygla. Dejó por herederos a sus hijos y testamentº su marido. Mandó una misa a nra Sra de la Peña de Francia, y por ser berdad lo firmé ut supra. Juan Hernández de León.\n\nHiziéronsele los tres oficios acostumbrados. León.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en el folio 235, cuya fotografía está girada.",
+        "Es partida de entierro y no expresa la fecha de la muerte; el árbol no tenía fallecimiento y no se deduce."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-de-uruena"
+      ],
+      "applied": [
+        "Entierro nuevo el 05-06-1731 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Jerónima Martín.JPG",
+          "sha256": "5c481472452efb755e720cd1f20f6ead23fa3b7bf328dc50633427c36313bce8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1724-12-18",
+      "place": "Morales del Vino",
+      "transcription": "Gerónima Martín. Abintestato. 24.\n\nEn diez y ocho días del mes de Diziembre deste presente año de mill setecientos y veinte y quatro años se enterró en esta Yglesia Gerónima Martín sin aver recivido ningún sacramento. Ajustose el abintestato en mill Rs vellón, los quales se distribuieron en sus oficios, novenario y treintanario cantado, y lo que restó, sacada la quarta funeral, llevó a la Colecturía de que exibió recibos y lo firmé. Dn Diº Phz de la Torre.",
+      "uncertainties": [
+        "Homónima: el asiento no nombra marido ni padres, y la Jerónima Martín Rodríguez del árbol tuvo hijos en 1744 y 1746. Es el origen del «Falleció en Morales del Vino el 17-12-1724» de TATARABUELOS QUINTOS, que quedó sin incorporar; se confirma que no le corresponde.",
+        "Fotografía girada. El libro es el de Morales del Vino por el cura firmante, Diego Phz de la Torre, que firma allí en 1725."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "jeronima-martin-rodriguez"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Jerónima Pérez Luelmo.JPG",
+          "sha256": "2ea60411d150edf5fe4b43f5f06402e07f263bdfd2481083d14244e4b0f098f9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1769-05-20",
+      "place": "Morales del Vino",
+      "transcription": "María Gerónima Pérez.\n\nEn veinte de Mayo de mil settos y sesenta y nueve as se enterró en esta Yglesia María Gerónima Pérez muger que fue de Bizente Martín. Murió el día diez y nueve de dicho mes, rezivió todos los Stos Sacramentos, no hizo testamento. Hízosele entierro, onrras y cabo de año y novenario cantado y su marido hizo por su alma todo lo acostumbrado. Dejó un hijo y para que conste lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "La partida la llama María Gerónima Pérez; expresa la muerte el día 19, como el árbol, y el entierro el 20."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jeronima-perez"
+      ],
+      "applied": [
+        "Entierro el 20-05-1769 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Jerónimo de Luelmo.JPG",
+          "sha256": "e4bb2e314b6e5584e88f99976ceb53ac6b687c0dcde440fcf494e3a1b90d5418",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1725-11-05",
+      "place": "Morales del Vino",
+      "transcription": "Gerónimo de Luelmo. Abintestato. 39.\n\nEn cinco de Nobiembre de mill setecientos i veinte i cinco se enterró en esta Yglesia Gerónimo de Luelmo. No recibió más sacramento que el de la Extremaunción. Hiziéronsele los tres oficios de entierro, honrras i cabo de año y para que conste lo firmé. Dn Diº Phz de la Torre.",
+      "uncertainties": [
+        "El asiento no nombra mujer ni padres; coincide con Jerónimo de Luelmo Pinto, cuyo fallecimiento consta el día anterior, 04-11-1725, en Morales del Vino."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jeronimo-de-luelmo"
+      ],
+      "applied": [
+        "Entierro el 05-11-1725 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Barrocal.JPG",
+          "sha256": "14973e2a528a77afb78843d06ae232c22c5d77af03d2918752a1f5e70eeead96",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1781-05-27",
+      "place": "Gáname",
+      "transcription": "Josefa Barrocal.\n\nEn el lugar de Ganame a veinte y siete días de el mes de mayo de mil setezs ochenta y uno, yo el infrascripto Párrocho enterré de grada abajo a Josefa Barrocal muger de Domingo Herrero, la que murió el día antes, haviendo recivido los santos sacramtos de Penitencia, Eucharistía y Extrema Unción. Hizo testamto, tomó por su alma misa de entierro, honras y dos novenarios cantados, y un año de ofrenda, y en fe de ello lo firmo. Dn Antonio Carrascal.",
+      "uncertainties": [
+        "La partida la llama mujer de Domingo Herrero. Se identifica con Josefa Barrocal Melado: el apellido Barrocal procede de Fresnadillo y llegó a Gáname con ella, casada en 1735 con Juan Gonzalo Diego, que murió en Gáname en 1753; Domingo Herrero sería un segundo marido. Los resúmenes familiares dejan su fallecimiento en blanco.",
+        "Una nota marginal sobre el cobro de la Redención de Zamora es ajena al asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-barrocal"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 26-05-1781 en Gáname y entierro el 27-05-1781 con transcripción; observación sobre el marido que nombra la partida."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Carrasco Gil.JPG",
+          "sha256": "8b71bcfd4759a201d84e747976eacb1a5aebb681abd90f17603423bd32126027",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Casaseca de las Chanas",
+      "transcriptionDraft": "Jopha Carrasco.\n\nEn nueve de Sepe de dho año fue sepultada en la Parrochial de este lugr de Casasca de las Chans con el hávito de mi P. Sn Franco Josepha Carrasco mugr que fue de Agustín de Llamas. Recivió los santos sacramentos, otorgó su testamto ante Bernº Alonso ssno y en él dispuso se la hiziesen los tres oficios acostumbrados, se la ofrende año y día según costumbre y se la digan las tres missas de indulgencia. Dejó por testamentario ha Agustín de Llamas su marido y por herederos a sus hijos y así para que conste lo firmo dho día, mes y año. El Barme Díez.",
+      "uncertainties": [
+        "El asiento no expresa el año («dicho año») y llama a la difunta mujer de Agustín de Llamas. La Josefa Carrasco Gil del árbol, nacida en Toro en 1704, es la mujer de Antonio de Paz Andrés, que murió en Casaseca en 1760; podría haberse casado después con Agustín de Llamas, pero nada lo acredita. No se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "josefa-carrasco"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Delgado.JPG",
+          "sha256": "2673109517c7d681baa0c2c86abe731d382c16a17d447e702df4f93b7cb756d7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1709-03-26",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Josepha Delgado.\n\nEl día ventiséis de Marzo deste preste año de mill settezs y nueve (aviendo rezivido todos los Stos Sacramtos) murió Josepha Delgado muger que fue de Franco Carvajal vzºs que es y fue deste lugar y se enterró el día ventisiete de dho mes y año en esta Ygla en la Cappª maior en la sepultura quinta (contando desde la sacristía) junto al altar maior, la qual está dotada por los antepasados de su marido. Hizo testamto ante Andrés Moreno vzº deste lugar debajo de cuya disposizión murió. Mandó en él se la hiziessen los tres offºs de entierro, honrras y cabo de año con asistenzia de tres sazerdotes y el cura demás de los relixiosos y seis achas en cada offº y una ochaba de trigo, y se pagasse la zera menuda que se acostumbra y se la ofrendase año y día con pan, vino y zera a la costumbre. Mandose la dijessen seis misas rezadas en nra Sra del Viso y seis en el Sto Xpto de Morales. Dejó por herederos a sus hijos Ynés, Cathª, Paula, Franca, Franco y Juº Carbajal y por testamtrio a su marido y para que conste lo firmé. Manl Basilio Barba Santos.",
+      "uncertainties": [
+        "Folio 11. La partida expresa la muerte el 26 de marzo, como el árbol, y el entierro el 27."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-delgado"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; entierro el 27-03-1709 en Casaseca de las Chanas; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Esteban Simón1.JPG",
+          "sha256": "ed257b6c4f6af756d2907d91da3c1637a296b78eb14a54b59a243d0d6ae0a6ba",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Josefa Esteban Simón2.JPG",
+          "sha256": "cfd80665228ec32e95de28a14e213e28d3f1046b9da9bc84306ea7a8506713cc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1753-01-27",
+      "place": "Gáname",
+      "transcription": "Josepha Esteban.\n\nEn el Lugar de Ganame a veinte y siete días del mes de Henero de mill settezs y cinqta y tres, yo el infrascripto Cura propio de él enterré, abajo, a Josepha Esteban, viuda de Joseph Sastre, vezº de él. Recivió los Stos Sacramtos y hizo testamento ante Franco Ysidro, fiel de fechos, y testigos, que en él se expresan, vezs de este dho lugar, su fecha 4 de Agto de 1751, por el que dispone, que se distribuian por su alma veinte ducads y que de ellos se paguen los dros parroqs y las limosnas de quatro misas rezadas: una, a nra Sra del Rayo; otra, a la Virgen de Gracia; otra, a Sn Joseph; y otra, a Sta Bárbara; como también, veinte rs que manda en dho su testamto para sufragios por las benditas ánimas; asimismo dispone, que se ofrende su sepultura, por dos años, según estilo; el primero, a ofrenda doble, de dos obladas de quatro libras, entre ambas, dos candelas y dos mrs de vino; y el segdo por mitad. Nombra por ofrendaderas a sus dos hijas Manuela, y Cathalina Sastre, y quiere se les paguen lo acostumbrado por su trabajo; a las quales, y también a sus dos hijos Santiago, y Domingo nombra, y dexa por heredos en el remanente de sus bienes, pagadas deudas, y legados, que en dho testamto hace; y por testamentarios, a dho Jph, su marido, y a Juan Gonzalo, vezº que aquel era, y este lo es de este dho lugar. Y para que conste, firmo, ut supra. Thomás [ilegible] de Carredo.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio, bajo el encabezado «Año de 1753», y termina en la cabecera del siguiente. Es partida de entierro; el fallecimiento del árbol es el día anterior, 26-01-1753.",
+        "El día del testamento se lee «4» con reservas; el segundo apellido abreviado del cura no se lee (¿Rz?, ¿Fz?) y «Carredo» puede ser «Carriedo». Varias palabras quedan bajo tinta traspasada y se leen por el contexto."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-esteban"
+      ],
+      "applied": [
+        "Entierro el 27-01-1753 en Gáname con transcripción; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Fernández de la Peña.JPG",
+          "sha256": "82a40e0b6d7eeae64dbd014ec6e4f4e0d67b07c9336d318334580daa7cc83f14",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1781-12-03",
+      "place": "Roales",
+      "transcription": "Josepha Fernz.\n\nEn tres días del mes de diciembre del año de mil setecientos y ochenta y uno, yo el infraescripto cura propio de este lugar de Roales, di sepultura eclesiástica de grada abajo, a Josepha Fernz, conjunta de Franco Girón. Falleció el día dos del dho mes, recivió los sacramentos de penitencia, Eucharistía, y extrema unción, no hizo testamento, sino que dio poder a su marido, y suegro, para que le hicieren, y dejó a su arbitrio el bien por su alma, quienes le hicieron los oficios acostumbrados, y para que conste lo firmo en este de Roales, dho día, mes, y año. Juan Franco Merchán.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 2, como el árbol, y el entierro el 3. Una palabra tachada antes de «tres»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-fernandez-de-la-pena"
+      ],
+      "applied": [
+        "Entierro el 03-12-1781 en Roales con transcripción."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Rodríguez1.JPG",
+          "sha256": "e6c4576902c05463302b64dd64dcf795d8c24552f41e112700c5a26e97314bd1",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Josefa Rodríguez2.JPG",
+          "sha256": "6c8c73163f7c93120a45804a18053cfa1e3d4bfdf5b6b55eeab5c2c2d78fc40b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1710-10-27",
+      "place": "Moraleja del Vino",
+      "transcription": "Josepha Rz.\n\nEn veynte y siete de Octue del año de mill setecientos y diez, habiendo recivido los Stos Sacramentos, se enterró en la Capilla mr de la Yglª deste lugr de la Moraleja Josepha Rz viuda de Manuel Montalbo. Otorgó su testamto ante Juº Muñoz de Losada ssno del númº de Zamª en veynte y cinco de dho mes y año, y en él mandó asistieran a su entierro y honrras quatro sacerdotes, enterrarse con ábito de S. Franco, fanega y mª de trigo para ofrenda, y arder ocho achas en sus offºs, y decirla las tres misas de indulgª, novenº cantado, y ofrenda de su ánima, y quatro religºs que se hallaron presentes, misas por su ánima, y pª cumplimto de todo mandó distribuir mill Rs por su ánima, los que [ilegible] lo referido, y lo que sobrare se digan de misas en la Yglª de este lugr y convtos de Sto Domingo y Santísima Trinidad de Zamª; a demás de esto mdo media carga de trigo de limosna a la Virgen del Viso, y otra media al Christo de Morales y lo firmé. Antº Machargo.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del siguiente; ambas imágenes están algo movidas y las cláusulas de las mandas se leen con reservas, con una palabra tachada.",
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 26-10-1710.",
+        "La segunda imagen contiene además el comienzo del entierro, un día 6 de 1711, de Catalina Fernández, viuda de Joseph González: puede ser Catalina Hernández, madre de Ana González Hernández, pero en Moraleja había entonces dos vecinos llamados José González («menor en días» en 1676) y no se incorpora."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-rodriguez"
+      ],
+      "applied": [
+        "Entierro el 27-10-1710 en Moraleja del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Josefa Zurdo Diego.JPG",
+          "sha256": "ca9578091fb9b429e68344aee6c3de8269ed1979174713884c6711f5c22cc6a5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1766-09-30",
+      "place": "Gáname",
+      "transcription": "Josepha Zurdo.\n\nEn treinta días del mes de septiembre año de mil setecientos y sesenta y seis yo el infrascrito [ilegible] y párroco en la yglesia del lugar de Ganame, di sepultura eclesiástica en dicha yglesia abajo a Josepha Zurdo viuda de Juan Bega vzº de este lugar. Recibió los Stos sacramentos, hizo testamto por ante el fiel de fechos y testigos y señaló por bien de su alma cien rs de que ande salir los derechos parroquiales, como es intierro, onrras y nobenario cantados, como también beinte y quatro rs limosna de seis misas botibas, una a nra señora del rosario, otra al Sto Cristo de la [ilegible], otra a san Joseph, otra a Sta Catharina, otra a Sta Bárbara, otra a Sn Miguel y que se le ofrende dos años según estilo. Dexó por erederos a sus hijos y por testamentarios a Marcos Bega y a Franco Morales, y para que conste lo firmo. Dn Domingo de la Higera.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 29-09-1766. El día se lee «treinta» con el apoyo de esa fecha.",
+        "La advocación del Santo Cristo (¿de la Cabaña?) y el apellido de la firma (¿Higuera?) no se leen con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-zurdo"
+      ],
+      "applied": [
+        "Entierro el 30-09-1766 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de José Girón Martín.JPG",
+          "sha256": "87ea4e22601d5078266220388a3e9566a21660751f52625adec3cbb949370a2d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1785-09-19",
+      "place": "Roales",
+      "transcription": "Josef Girón. Está cumplido el testamto. Dueñas.\n\nEn el día diez y nuebe del mes de septiembre de mill setecientos ochenta y cinco, yo el infrascripto cura proprio de este lugar de Roales di sepultura ecclesiástica de grada abajo a Josef Girón conjunto de Ynés Martín. Falleció el día diez y ocho de dho mes, recivió los Stos Sacramentos de penitencia, eucharistía y extremaunción, hizo testamento, y se le hizieron los oficios acostumbrados, y para que conste lo firmo, dho día mes y año. Dn Cayetano Dueñas.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 18, como el árbol, y el entierro el 19. Una palabra tachada antes de «diez y ocho». Una nota marginal sobre el cobro de derechos de 1785 es ajena al asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-giron"
+      ],
+      "applied": [
+        "Entierro el 19-09-1785 en Roales con transcripción."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de José Ranal Martínez1.JPG",
+          "sha256": "d98a5e369d7583df771d52903f4a6b25246b55ec16820c78a6edb1b2f7da020d",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de José Rabanal Martínez2.JPG",
+          "sha256": "207aab9cae79b8ef28d8bbbb0cd0223413f6787e0a9c977dc95bfe82d08c9fd8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1833-09-19",
+      "place": "Zamora",
+      "transcription": "Josef Ravanal.\n\nEn la Ciudad de Zamora a diez y nueve de Septiembre año de mil ochocientos treinta y tres, yo el infrascripto Párroco de las Yglesias de San Antolín y San Esteban, di sepultura eclesiástica en la de San Esteban del cadáver de Josef Ravanal, el que falleció el día anterior, marido de Manuela Yvañez. Recivió los Santos Sacramentos de Penitencia, Sagrado Viático y Extremaunción, hizo testamento en el día trece de Septiembre de dho mes y año por ante Dn Leonardo Catalán escrivano del númº de esta ciudad y por testamentarios a Juan Pérez y a Felipe Carvajal, y a disposición de estos los sufragios, y solo [ilegible] la Misa de Entierro, y [ilegible], y en fe de ello lo firmo. Dn Manuel Pérez.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del siguiente. La partida dice que murió el día anterior al entierro, 18-09-1833, como el árbol.",
+        "El nombre de pila del escribano se lee «Leonardo» con reservas; la frase sobre los sufragios que dejó dispuestos no se lee completa."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-rabanal-martinez"
+      ],
+      "applied": [
+        "Entierro el 19-09-1833 en Zamora, iglesia de San Esteban, con transcripción."
+      ],
+      "destination": "Tatarabuelos segundos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de José Sastre1.JPG",
+          "sha256": "0f647240ba468f3febc1fb451d570d967a9b11d28efb2b841b7527a951f2ef6f",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de José Sastre2.JPG",
+          "sha256": "c1bfe49b50810f49edae16adc411f266637ccc1a70a7763869f8473c5f2cf3d2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1751-10-11",
+      "place": "Gáname",
+      "transcription": "Joseph Sastre.\n\nEn el Lugar de Ganame a onze días del mes de Octe de mill settos y cinqta y uno, yo el infrascripto Cura propio de él, enterré, abajo, a Joseph Sastre, marido de Josepha Esteban, vezº de él. Recivió todos los Stos Sacramtos e hizo testamto ante Franco Ysidro, fiel de fhos, y testigos, que en él se expresan, vezs de este lugar; dispuso, que se distribuiessen en bien de su alma veinte ducados, que de ellos se pagassen los dros parroqs de entierro, honrras y novenº cantado, y que la restante cantidad se combirtiesse en misas rezs, de la qual se llevó la correspondte a la Colecturía. Yttn mandó, que se dixessen por su alma cinco misas votivas rezs: una, a la Virgen de Francia; otra, a nra Sra de Gracia; otra, a la del Rayo; otra, a Sn Joseph; y otra, a Sta Bárbara; y que se ofrendase su sepultura dos años, según estilo, con expresión, de que se llevasen dos obladas, y dos zerillas en cada uno, y el vino correspondte. Nombró por testamentarios a dho Franco Ysidro, y a Blas Zurdo, su yerno; y por herederos a sus hijos, e hijas: la fecha del testamento, ocho de dho mes, y año; y para que conste, firmo, ut supra. Thomás [ilegible] de Carredo.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio, cuya imagen está desenfocada, y termina en la cabecera del siguiente. Es partida de entierro; el fallecimiento del árbol es el día anterior, 10-10-1751."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-sastre"
+      ],
+      "applied": [
+        "Entierro el 11-10-1751 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de José Zurdo Mayordomo1.JPG",
+          "sha256": "4c46bbd22513eb19e04d331b58e2cab60c24975c00eba87a67bfc5efd26cfc5a",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de José Zurdo Mayordomo2.JPG",
+          "sha256": "aea2ee46b2a3209e06cb76a914a6304d8338874718d61df313019d4da3bdbb51",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1748-04-28",
+      "place": "Gáname",
+      "transcription": "Joseph Zurdo. Se llevaron cinqta rs vn a la Colecturía gral de este Obpdo, de que tiene recivo María Vega.\n\nEn el Lugar de Ganame a veinte y ocho días del mes de Abril de mill settos y quarenta y ocho, yo el infrascripto Cura propio, enterré, coro arriba, a Joseph Zurdo, Alcalde actual, marido de María Vega, vezº de él, con misa de asistencia. Recivió los Stos Sacramentos de la Eucharistía, y Extremaunción, y ordenó su testamto por ante Franco Ysidro, y testigos necesarios, vezs de este dho lugar, su fha 27 del referido mes, y año, y mandó que se distribuian en hacer bien por su alma ciento y treinta y dos rs vn de los quales ayan de salir los dros parroqs de entierro, honrras, y novº cantº y la restante cantidad, se combierta en misas rezs por su alma; y en otra cláusula, dispone se digan por ella, cinco misas votivas rezs: una, a Nª Sª del Rosario; otra, a la del Rayo; otra, a la Virgen de la Peña de Francia; otra, a Sn Joseph; y otra, al Sto Xpto de Morales; y que se ofrende su sepultura dos años, según estilo; y nombra por ofrendadera a dha María Vega, su muger; por testamentarios, a Thomás Zurdo, su hermº vezº de Fadón, y a Franco Ysidro, vezº de este lugar de Ganame, y por herederas, a todas sus hijas, que parece son ocho; y para que conste, firmo, ut supra. Thomás [ilegible] de Carredo.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio, cuya imagen está desenfocada, y termina en la cabecera del folio 31. Es partida de entierro; el testamento es del día 27 y el fallecimiento del árbol, el 27-04-1748.",
+        "Un recuadro marginal de la segunda imagen, sobre el cobro de derechos «hasta la de Joseph Zurdo inclusive», es ajeno al asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-zurdo-mayordomo"
+      ],
+      "applied": [
+        "Entierro el 28-04-1748 en Gáname con transcripción; observaciones sobre su cargo de alcalde, su hermano y sus hijas."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Brioso Luelmo.JPG",
+          "sha256": "cb3d16e47d9ac1b9173ebd93250d88be318237822b639762edda38636daaff07",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1782-01-12",
+      "place": "Morales del Vino",
+      "transcription": "Juan Brioso.\n\nEn el lugar de Morales a doze días del mes de Enero de mil setecientos ochenta y dos se enterró en esta Yglesia Juan Brioso que murió en onze de dicho mes, marido que fue de María Marqués. Recibió los santos sacramentos de penitencia, Eucharistía y extremaunción; no hizo testamento, pero dio poder a su muger, y su cuñado Juan de Luelmo. Hiziéronsele entierro, honrras, cabo de año con asistencia de todos los sacerdotes del pueblo, y nobenario cantado; dejó tres hijos, y lo firmé. Fr. Casimiro Flores.",
+      "uncertainties": [
+        "Homónimo: este Juan Brioso murió el 11-01-1782 dejando viuda a una María Marqués. Juan Brioso Luelmo, marido de María Marqués Esteban, fue enterrado el 7 de abril de 1759, ya viudo (imagen «Muerte de Juan Brioso Luelmo2»). Puede ser un hijo o un nieto suyo; no figura en el árbol."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "juan-brioso"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Brioso Luelmo2.JPG",
+          "sha256": "3cadf46122a123d5b1f48824975496cd7486570633df1a8e91bacd33eb611b26",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1759-04-07",
+      "place": "Morales del Vino",
+      "transcription": "Juan Briosso. Está cumplido y lo firmé. Cabrero.\n\nEn siete de Abril de mil settos y zinqta y nueve as se enterró en esta Yglessia Juan Briosso viudo de María Marqués. Murió de su muerte natural, rezivió todos los Stos Sacramentos, hizo testamento ante Diego Cabrero fiel de fechos de este lugar, tomó por su alma mil rs. Hízosele entierro, honrras y cabo de año y novenario cantado. Dexó dos hijos y lo firmé. Cabrero.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 06-04-1759."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-brioso"
+      ],
+      "applied": [
+        "Entierro el 07-04-1759 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Cabrero1.JPG",
+          "sha256": "81e7ab6acff2bb0798fdd7101b5a5b3a8f0782b4505a639fb0f1b9b55310a7e8",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Juan Cabrero2.JPG",
+          "sha256": "831a45bc0ac2fd6f76a31147466bc0daf0171fa28cfe07b04ce25160c7cb8088",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1743-01-28",
+      "place": "Morales del Vino",
+      "transcription": "Juan Cabrero. Está cumplido y lo firmé. Cabrero.\n\nEn veinte, y ocho de Henero de mil setecientos, y quarenta y tres murió Juan Cabrero, y se enterró el día veinte, y nueve de dho mes en la Iglesia Parroquial de Morales; haviendo recivido los Santos Sacramentos de Penitª y Eucharistía, y Extremaºn. Dio poder para hazer su testamto a mí el infra scripto Cura, sus testamentarios Dn Juan, y Dn Antonio Cabrero sus hijos; hízosele entierro, honrras, y cabo de año, y novenario cantado. El qual dho difunto fue viudo de María de Luelmo Pérez, vecinos, y naturales de este Lugar, y para que conste lo firmé. Dn Antto Cabrero Luelmo.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del folio 284; la última palabra del año queda cortada en el borde («quarenta y tr…»).",
+        "La partida expresa la muerte el 28 de enero, como el árbol, y el entierro el 29. La firma el cura de Morales, Antonio Cabrero Luelmo, cuyos apellidos son los del difunto y su mujer; uno de los testamentarios es su hijo don Antonio Cabrero.",
+        "La partida llama a su mujer María de Luelmo Pérez, igual que el margen del entierro de ella; el árbol la registra como María Luelmo Martín, hija de Juan de Luelmo y Felipa Martín, según TATARABUELOS SEXTOS. Ninguna de las partidas del matrimonio nombra a los padres de ella, de modo que se mantiene la filiación y la variante va a las observaciones."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-cabrero"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; entierro el 29-01-1743 en Morales del Vino; observación con sus hijos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de María de Luelmo.JPG",
+          "sha256": "c9e67b90d897e3fff3ebe7a98c9ba36f7e15fa3316dd7dfa920ef8a74dfb1af2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1724-12-14",
+      "place": "Morales del Vino",
+      "transcription": "Mª de Luelmo Pérez.\n\nEn catorze de Dizre de mill setezs y veinte y quatro se enterró en esta Ygª María de Luelmo aviendo recivido los santos sacramentos de penitencia, Eucharistía y extrema unción. Hizo testamento ante Lázaro López fiel de fechos vº de este lugr, la qual dicha Mª de Luelmo fue muger de Juan Cabrero vºs y naturales de dho Lugr y lo firmé. Fr. Franco Fonseca, thente cura.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 13-12-1724. El asiento está escrito con letra distinta de los demás de la página, la misma del asiento de Juan Cabrero de 1743; una palabra tachada antes de «enterró».",
+        "El margen la llama «Mª de Luelmo Pérez»; el árbol la registra como María Luelmo Martín."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-luelmo-madre-de-manuel-cabrero"
+      ],
+      "applied": [
+        "Entierro el 14-12-1724 en Morales del Vino con transcripción; observación sobre el apellido Pérez."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Martín.JPG",
+          "sha256": "37a876eb8dc71a036c0419785cd223f92b2b9e8a48e6183866b1954fd189c714",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1725-10-15",
+      "place": "Morales del Vino",
+      "transcription": "Juº Martín.\n\nEn quince de octubre de mill setecientos i veinte i cinco se enterró en esta yglesia Juº Martín haviendo recibido los santos sacramentos de Penitencia, Eucharistía y Extremaunción. Hizo testamento ante Manuel de Luelmo, dexó por su alma quatrocientos reales, testamentarios Pedro Martín su hermano y Franco Martín su hijo y para que conste lo firmé. Dn Diº Phz de la Torre.",
+      "uncertainties": [
+        "Folio 211 del libro de Morales del Vino. El asiento no nombra a su mujer. Se identifica con Juan Martín Esteban, marido de Lorenza Cabrero, por el hijo Francisco (Francisco Martín Cabrero, que vivió hasta 1731) y por la cronología; su padre se llamaba Pedro Martín, lo que hace verosímil un hermano Pedro. El otro Juan Martín de Morales conocido, marido de Luisa Cordero, tuvo hijos en 1653 y 1654 y no podía vivir en 1725. Los resúmenes familiares dejan en blanco el fallecimiento.",
+        "Es partida de entierro y no expresa la fecha de la muerte; no se deduce un fallecimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-martin-padre-de-francisco-martin-cabrero"
+      ],
+      "applied": [
+        "Entierro nuevo el 15-10-1725 en Morales del Vino con transcripción; observación con su hermano."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Martínez.JPG",
+          "sha256": "7ec29299eda436058ebb6db6183e6e60218f6ac86e059ff521d0cd4727373433",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-12-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juan Martínez. Cumplido.\n\nEn ocho de Diziembre del año de mil setecientos y veynte y seys, se enterró en la primera fila de sepulturas, que está después de la Capilla mayor, a Juan Martínez, marido que fue de Merenziana Martín, vzos que fueron de este lugr de Casaseca de las Chanas. Recivió los Stos Sacramtos, menos el de la extremaunción; hizo testamto ante Pedro Cavallero, y en él mandó enterrarse en la Yglesia de este dho lugr con el hávito de Nº P. Sn Franco, y que le hiziessen los tres offizios acostumbrados de entierro, honrras, y cabo de año con la zera, y ofrenda, que en este lugr se acostumbra; que se le paguen a las obras pías lo acostumbrado; que se le tome bula de difuntos; que además de esta, se le tomen cinco bulas de composición; que se le digan las tres Missas de Indulgencia; que se le diga otra a Nra Señora del Rosario de esta Yglesia; que se le digan por su intención veynte y cinco Missas rezadas; y que se le ofrende año, y día, según el estilo de este lugr, su sepultura. Deja por testamentarios a Alonso García su hierno, y a Manuel Martínez su hijo; y por herederos a María, a Franco, a Catharina, y a Manuel Martínez sus hijos y de su dha mugr Merenciana Martín; y a María, a Franco, y Alonso Martínez sus Nietos. Y para que conste lo firmé yo el infra escrito teniente cura ut supra. Todo está cumplido. Fray Domingo Alonso.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 07-12-1726. Una palabra tachada antes del nombre del escribano."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-martinez"
+      ],
+      "applied": [
+        "Entierro el 08-12-1726 en Casaseca de las Chanas con transcripción; observación con sus herederos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Méndez.JPG",
+          "sha256": "244dd45e2824204cebf749d5d1475b10486fa26b5a2f448c63011f14b2836424",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1676-12-14",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juan Méndez.\n\nEn catorze de diziembre de mill y seis zientos y setenta y seis años murió Juan Méndez marido de María Madaleno. Rezibió todos los Santos Sacramentos. Hizo testamento ante Joseph Galán vº de este dicho lugar de Casª de las Chanas en doze días de dicho mes y año. Tomó por su alma trezientos Rs sigún consta de el dicho testamto para que se agan los tres ofizios mayores y un nobenario rezado y si algo sobrare se diga de misas, y dejó por sus testamentarios a su mujer y a su yerno Juan Rz Manso y por sus herederos a ocho hijos suyos y de la dicha su mujer. Enterrose en esta Yglesia y lo firmé. Dn Pedro Falagón.",
+      "uncertainties": [
+        "La decena del año se lee «setenta» con reservas (la tinta del reverso se transparenta); la firma, que se lee «Pedro Falagón», corresponde al cura que firma en Casaseca en 1673, lo que apoya 1676 frente a 1686. Las notas marginales sobre los oficios no se leen.",
+        "El yerno, «Juan Rodríguez Manso», es Juan Rodríguez Corralino, casado en 1673 con Francisca Méndez Madaleno; en 1726 dos Manso, Alonso y Andrés, son testamentarios del hijo de ambos, Miguel Rodríguez Méndez."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-mendez"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 14-12-1676 en Casaseca de las Chanas con transcripción; observación sobre sus herederos y su yerno."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Nieto.JPG",
+          "sha256": "d7f1c4e56365271ac748a26a9975d89c71f9802c408cc0cbfce51ba2a37e7a44",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1680-05-16",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juan Nieto.\n\nEn 16 de mayo deste presente año murió Juan Nieto marido de María Galana. Rezibió los Stos Sacramentos. Yzo testamento ante Atilano Martín en beinte i cinco de [ilegible] por su alma quinientos i sesenta reales para entierro, honrras i cabo de año i ofrenda i cura i ábito de San Francisco, y yo Dn Joseph de Miranda por ausenzia del Sr cura lo enterré 16 de maio de 1680 años. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "Folio 160. El cura tachó la palabra con que empezaba la fecha de la muerte y escribió encima «digo 16»; al final dice que lo enterró el 16 de mayo de 1680. El árbol tenía el 15-05-1680, de los resúmenes familiares: se corrige al 16, que es lo que expresa la partida después de la enmienda, y el entierro queda en el mismo día.",
+        "No se leen el mes del testamento ni el verbo que sigue (¿«dexó»?); la cantidad lleva una enmienda y coincide con el «560» anotado en el margen, junto a «un treintanario cantado». El margen izquierdo tiene además notas sobre los oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-nieto"
+      ],
+      "applied": [
+        "Fallecimiento corregido de 15-05-1680 a 16-05-1680, con transcripción; entierro el 16-05-1680 en Casaseca de las Chanas."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Pérez Hernández1.JPG",
+          "sha256": "ea4fb1f098b4930ee0d302ccf207ca26ff42b42f1b140964b5bfb34ed0a25cb5",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Juan Pérez Hernández2.JPG",
+          "sha256": "88564fb9fdc6d70892bc39add08a3228473470baa8a737f9f5a5a2949970c447",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1790-02-06",
+      "place": "Peleas de Arriba",
+      "transcription": "Juan Pérez, marido de Chatalina Matos. Está cumplido. Pretel.\n\nEn el lugar de Peleas de Arriba en seis de Febrero de mil setecientos, y noventa fallezió Juan Pérez vezino, y natural de este lugar, marido de Chatalina Matos, de la misma naturaleza, y vezindad. Rezibió los Santos Sacramentos de Penitencia, Eucharistía, y Extrema Unción. Otorgó testamento con fha de quatro del mismo ante Franco Bailón maior por el que ordena se le haga entierro con asistencia de dos Religiosos Bernardos, y en la misma forma oficio de honrras, y cabo de año, y asimismo que se le hagan otros tres oficios según la costumbre de esta Yglesia con ofrendas, y cera según estilo, y que se le ofrende año entero sobre su sepultura. Mas que se digan por su alma diez misas, y otras diez por las almas del purgatº en general; una Misa a Nª Sra de la Guía, y otra al Señor S. Josef. A las mandas forzosas dexó lo acostumbrado, y por herederos de sus vienes a sus seis hijos María, Teresa, Ysabel, Andrea, Manuel, y Josef Pérez. Fue sepultado su cadáber en esta Yglesia Parroquial en el immediato día siguiente al de su fallezimiento. Dn Mathías Pretel y Cozar.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del folio 30. Los finales de línea de la primera imagen quedan ocultos en el lomo y se completan cuando la parte visible determina la palabra.",
+        "La partida llama a su mujer natural de Peleas de Arriba; el árbol la registra nacida en Villanueva de Campeán. Su hija María es María Pérez Matos."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-perez"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 06-02-1790 en Peleas de Arriba con transcripción; entierro el 07-02-1790; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Pérez Luelmo.JPG",
+          "sha256": "94a9ee88927c0d4d0cd343a510347962d6d582f7d380179a0aa711bd17af5bdb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1749-05-28",
+      "place": "Morales del Vino",
+      "transcription": "Juan Pérez Luelmo. Cumplido. Cabrero.\n\nEn veinte y ocho días del mes de Mayo de mil settos y quarenta y nueve as se enterró en esta Yglessia Juan Pérez Luelmo marido y conjunta persona de María Carrascal vzº de este lugar de Morales. Murió el día veinte y siete de dicho mes de su mte natural, rezivió los Stos Sacramentos de Penitenzia y Extremaunzión. Dio poder para hazer su testamento a su muger y tomó por su alma quatrozientos rs vellón. Testamentarios Manl Cabrero Luelmo y Joseph Carrascal. Dexó tres hijos, dos hijas y un hijo. Hízosele entierro, onrras y cabo de año y nobenario y para que conste lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "La partida expresa la muerte el día 27, como el árbol, y el entierro el 28."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-perez-padre-de-manuel-perez-carrascal"
+      ],
+      "applied": [
+        "Entierro el 28-05-1749 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Pérez.JPG",
+          "sha256": "4c588f87b32b7c49b5e46e8f7d7940cf2b2241f982c53a9ba9dca76ce07919bc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1661-04-08",
+      "place": "Casaseca de las Chanas",
+      "transcriptionDraft": "Juº Pérez.\n\nEn ocho de abril enterré a Juº Pérez vzº de la villa de Xema. Recibió los Santos Sacramentos según no hizo testamento, i por verdad lo firmé. Ldo Moreno.",
+      "uncertainties": [
+        "El asiento no expresa el año: la página anterior termina con el encabezado «1661» y le siguen asientos de marzo a mayo, de modo que es 1661. El libro es el de Casaseca de las Chanas por el cura firmante.",
+        "Lo llama vecino de la villa de Gema y no nombra familiares. El Juan Pérez del árbol casado en Casaseca en 1637 con Emerenciana Garzón no tiene fallecimiento conocido, pero nada lo vincula con este asiento. No se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "juan-perez-padre-de-emerenciana-perez"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Rodríguez Pérez1.JPG",
+          "sha256": "8aac139b18959fdaee3fa4337caa2790068cb0270673af16fea077ca77d0689c",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Juan Rodríguez Pérez2.JPG",
+          "sha256": "ef287044194650a64955315b21a371f648f28e3cc4d0ab2a459942e9c7a0dc40",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1712-02-04",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juº Rodríguez Pérez. Cumplido.\n\nEl día quatro de febrero deste presente año de mill setezs y doze murió Juº Rodríguez Pérez vzº deste lugar, marido que fue de primero matrimonio de Úrsula Martín y de segundo de Theodora Alº, y se enterró en esta Ygla el día zinco de dho mes en la Cappª maior junto a las gradas del altar maior en la terzera sepultura del lado de la Epístola contando desde la sacristía. Rezivió todos los sanctos sacramtos que en semejante ocassión se deben rezivir. Hizo testamto ante Alº Marqués vzº deste lugar, y en él mandó que se le hiziesen los tres offºs de entierro, honrras y cabo de año con asistenzia de seis sazerdotes y seis achas en cada offº con la zera que se acostumbra, y pusiesen en dhos offºs tres ochabas de trigo de ofrenda, y que se le ofrendase año y día sobre su sepultura según se acostumbra. Ítem mandó que le enterrasen con el ávito de N. P. S. Franco y le dijesen las tres misas de indulgenzia, se le tome la Bulla de difunctos. Dejó lo acostumbrado a las obras pías y por herederos a sus hijos María y Alº Rodríguez de su primer matrimonio y a Isabel, Cathª, Manl, Juº, Gregorio y Susana Rodríguez del segundo matrimonio. Nombró por sus testamentarios a su hijo Alº Rodríguez y Andrés Pérez su hyerno y lo firmé. Manl Basilio Barba Sanctos.\n\nAutorizose el testamento ante Dn Franco Manl de Villa secretario de ayuntamiento.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del siguiente, cuya fotografía está girada. Expresa la muerte el 4 de febrero, como el árbol, y el entierro el 5. La nota sobre la autorización del testamento está en el margen.",
+        "La segunda imagen contiene además dos asientos que se incorporan: el entierro, el 1 de marzo de 1712, de Juana Alonso, mujer de Mateo Pérez, muerta de repente, y el comienzo del entierro, el 11 de abril de 1712, de Isabel Rodríguez, mujer de Luis Gaitán, que continúa en la página siguiente.",
+        "Fallecimiento de Juana Alonso Jurado: el árbol tenía el 28-02-1712, de TATARABUELOS QUINTOS. La partida solo da el entierro, el 1 de marzo; 1712 fue bisiesto, de modo que el día anterior es el 29 de febrero. Se corrige por la regla de la familia para las partidas que solo dan la sepultura."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-rodriguez-perez",
+        "juana-alonso",
+        "isabel-rodriguez"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento de Juan Rodríguez Pérez; entierro el 05-02-1712; observación con sus ocho hijos herederos. Entierro de Juana Alonso Jurado el 01-03-1712 con transcripción; fallecimiento corregido de 28-02-1712 a 29-02-1712. Entierro de Isabel Rodríguez Alonso el 11-04-1712 con la parte visible de su asiento."
+      ],
+      "otherEntries": [
+        {
+          "type": "burial",
+          "date": "1712-03-01",
+          "place": "Casaseca de las Chanas",
+          "personId": "juana-alonso",
+          "note": "Asiento de Juana Alonso; su transcripción figura en su ficha."
+        },
+        {
+          "type": "burial",
+          "date": "1712-04-11",
+          "place": "Casaseca de las Chanas",
+          "personId": "isabel-rodriguez",
+          "note": "Asiento de Isabel Rodríguez, incompleto en la imagen; su transcripción figura en su ficha."
+        }
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Vega Rodrigo.JPG",
+          "sha256": "fc11f7b94b08dc057ace7ab67fcc7c4dacdf1d34fb94101390f3308425b6b72e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-11-26",
+      "place": "Gáname",
+      "transcription": "Juan Bega. Cumplido.\n\nEn el Lugr de Ganame a veinte i seis días del mes de Nobe de mil setecientos y quarenta i dos años Dn Andrés Baquero cura de Roelos enterró en su Yglesia (abaxo) a Juan Vega vezº dél, aviendo recivido los Stos Sacramentos con el de la extremaunción. Avía declarado verbalmte ante María Antón su muxer, Ynés Vega, Manuel Vega vezs de este, era su voluntad se distribuiessen en hazer bien por su alma diez i siete ducados, de que saliesse el funeral, y misa una cantada a nra Sª del Rosº, otra cantada a N. Sª del Raio, otra cantada al Sto Xpto, otra a Sta Barbª, otra a S. Joseph, otra a S. Migl, otra a Sta Cathª, otra a nra Sª de la Soledad, otra a S. Juan, y las dhas misas saliessen de allí. Dexó por testamentarios a Migl Gonzalo, y la dha su muxer, y herederos a sus hixos lexítimos y del matrimonio con la dha, Manuel, Miguel, Franco y Juan, Atilana, Ángela, y Sebastiana Vega, y para que conste lo firmé. Franco Baquero.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 25-11-1742. La palabra «cantada» está añadida sobre la línea, abreviada, en tres o cuatro de las misas, sin que se distinga siempre a cuál corresponde."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-vega-rodrigo"
+      ],
+      "applied": [
+        "Entierro el 26-11-1742 en Gáname con transcripción; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Vega1.JPG",
+          "sha256": "5b97cfe54bb0aa2e57a707489053a46c4fb6be094edb38dcfb57a0a57b0b95b4",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Juan Vega2.JPG",
+          "sha256": "dfc60371bec70b4931bcef1d8f39a5f8bc8d776c27321a80e2328da67d1ebce7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1749",
+      "place": "Gáname",
+      "transcription": "Juan Vega.\n\nEn el Lugar de Ganame, a veinte días del dicho mes, y año, el referido Dn Miguel, con licencia de mí, el infrascripto Cura propio de él, enterró, arriba, a Juan Vega, marido de Josepha Zurdo, vezº de él. Recivió los Stos Sacramtos e hizo testamto ante Franco Ysidro, fiel de fhos, y testigos, que en él se expresan, en bastante forma; tomó ciento, y treinta, y dos rs vn y mandó que se pagasen de ellos los dros Parroqs y las limosnas de tres Misas votivas rezs: una, al Sto Xpto; otra, a Nra Sra del Rosº; y otra, a la del Rayo; y aunque dexó otra, a Nra Sra de [ilegible], mandó, que su limosna saliese de sus bienes; y que se ofrendase su sepultura, según estilo: nombró por ofrendadera, a dha su muger, y por usufructuaria de sus bienes; y por heredero, a su hijo, Marcos Vega, a quien también nombró por testamentario. Y para que conste, firmó, y firmé. Thomás [ilegible] de Carredo. Miguel de Valderrábano.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del folio 100. Dice «a veinte días del dicho mes y año»: el mes figura en un asiento anterior que no está en las imágenes; el asiento siguiente es del 15 de noviembre de 1749, de modo que es un día 20 anterior de ese año, probablemente de octubre. Se registra el año.",
+        "La advocación de la cuarta misa no se lee. El único heredero nombrado es su hijo Marcos Vega; su hija Ana María Vega Zurdo, que vivió hasta 1772, no figura en el asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-vega-salvador"
+      ],
+      "applied": [
+        "Entierro nuevo en 1749 en Gáname con transcripción; observación con su heredero."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan de Luelmo.JPG",
+          "sha256": "31c52cac88a651d2b4b0b95d4c65e3ececd3302dd31a26ddba350c1e63684d42",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1702-12-24",
+      "place": "Moraleja del Vino",
+      "transcription": "Juan de Luelmo. Cumplido.\n\nEn beinte y quatro días del mes de diciembre del año de mil setecientos y dos, abiendo recibido los santos sacramentos, se enterró en la yglesia deste lugar de Moraleja Juan de Luelmo. Asistieron a su entierro y onrras diez sacerdotes y se le pusieron quatro que cumplen el número de los diez. Hiço testamento ante Luis de Oña escribano de Zamora y en él mandó gastar en bien de su alma mil y cien Rs; más mandó [ilegible] Rs al conbento de la SSma Trinidad de Zamora por ábito y asistencia, y de los mil y cien Rs salgo el funeral y ofrenda y lo demás se diga de misas a la disposición de sus testamentarios, que son Franco Zamora, Franco de Luelmo y Pº Luelmo y lo firmé. Antº Machargo.",
+      "uncertainties": [
+        "Es partida de entierro; el fallecimiento del árbol es el día anterior, 23-12-1702. No nombra a su mujer, Ana Nieto, muerta en 1695; el primer testamentario, Francisco Zamora, es su yerno, marido de Margarita de Luelmo Nieto.",
+        "La cantidad de la manda al convento de la Trinidad no se lee con seguridad (¿doscientos?), ni el apellido del escribano («Oña»). El margen lleva además unas cifras que no se interpretan."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-de-luelmo-padre-de-margarita-de-luelmo"
+      ],
+      "applied": [
+        "Entierro el 24-12-1702 en Moraleja del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juana Miguel de Trigo1.JPG",
+          "sha256": "83e433c184491cb1df361002f0d72cac193c4f5a9fd6f7ef7469c0539f3d6a04",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Juana Miguel de Trigo2.JPG",
+          "sha256": "1ea9aa46ee81bc27f52bb05dd8c53615bbcdccca4fa7cb7abc87fb0b79367fd8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-08-16",
+      "place": "Morales del Vino",
+      "transcription": "Juana Miguel. Cumplido.\n\nEn diez y seis de Agosto de mil settos y quarenta y dos as se enterró en esta Yglesia Juana Miguel muger de Alonso de Mena. Murió de su muerte natural, rezivió los Stos Sacramentos de Penitenzia y Comunión, dio poder para hazer su testamento a su marido. Hiziéronsele entierro, onrras y cabo de año y nobenario rezado. Tomó por su alma trezientos y zinquenta rs y para que conste lo firmé. Dn Antto Cabrero.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio, cuya imagen está desenfocada, y termina en la cabecera del folio 281. Es partida de entierro; el fallecimiento del árbol es el día anterior, 15-08-1742."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juana-miguel"
+      ],
+      "applied": [
+        "Entierro el 16-08-1742 en Morales del Vino con transcripción."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Leonarda Pérez Ponce.JPG",
+          "sha256": "a4bcc12446137438d8caf43443c9c8e4d15a822c8308facb0629a2f7c994bb59",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1799-09-14",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Leonarda Pérez. No testó.\n\nEn catorze de Septre de mil setezos novta y nuebe, yo Dn Franco de Valdecañas, Presvro vezº de este Lugar de Casca las Chanas con la lizª necesaria, di sepultura eclesiástica en el cuerpo de la Ygª Parroquial de Sn Juan Bautista de él, al cadáver de Leonarda Pérez, muger que fue de Bonifacio Paz vezº de este. Falleció en treze de dho mes, y año haviendo recivido los Stos Sacramtos. No hizo testamto y para que conste lo firmo. Dn Franco de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "La difunta figura como Leonarda Pérez, mujer de Bonifacio Paz. Es Eduarda Pérez Ponce: la partida de su matrimonio con Bonifacio de Paz (1767) lleva la nota «se llama Eduarda, véase el bautismo», con el nombre escrito encima de otro que parece Leonarda, y la del entierro de Bonifacio, dos meses después, lo llama «viudo de Leonarda Pérez»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "eduarda-perez-ponce"
+      ],
+      "applied": [
+        "Fallecimiento nuevo de Eduarda Pérez Ponce el 13-09-1799 en Casaseca de las Chanas y entierro el 14-09-1799 con transcripción; observación sobre el nombre Leonarda."
+      ],
+      "destination": "Tatarabuelos terceros"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Lucas Hernández.JPG",
+          "sha256": "1d4bbd973ccf2e307a3e708575b3de2fb757280d79449c8c82684678bda382c4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1700-06-03",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Lucas Hernández.\n\nEn tres de Junio murió Lucas Hernández vecino deste lugr. Recivió los santos sacramentos, enterrose en esta iglessia, hiciéronse los tres oficios. Su cumplidor Juº de Llamas i lo firmé. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "El asiento no expresa el año: la cabecera de la página dice «1700» y lo sigue el encabezado «San Juº de 1700», de modo que es junio de 1700.",
+        "No nombra mujer ni padres. Se identifica con Lucas Hernández, casado en 1642 con Susana Prieto, por el nombre, poco común, el lugar y la cronología, y porque la familia rotuló así la imagen; los resúmenes dejan su fallecimiento en blanco."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lucas-hernandez"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 03-06-1700 en Casaseca de las Chanas con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Luis Alonso.JPG",
+          "sha256": "b4111fde1929dbf9e5854f2805b3f589852b40a927f2ebcca70b49688b2e4cfc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1666-08-17",
+      "place": "Casaseca de las Chanas",
+      "transcriptionDraft": "Luis Alº. Hecho entierro, honrras, cabo de año y nobenario.\n\nEn diez y siete de agosto de mill y seiscientos y sesenta y seis años enterré a Luis Alº. Murió abintestato y por verdad lo firmé. Ldo Moreno.",
+      "uncertainties": [
+        "El asiento no nombra mujer ni padres. Puede ser Luis Alonso, casado en 1653 con Susana Pérez y padre de Manuel Alonso Pérez (1656), pero el nombre es común en Casaseca de las Chanas y no se enlaza."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "luis-alonso"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Magdalena Rodrigo.JPG",
+          "sha256": "eea70d0c6f1deb1af2fff1e5b4c2341e0e3b04c39d499ca6bddca83106994805",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Magdalena Rodrigo 2.JPG",
+          "sha256": "e6ec8e8097ebcb7120267a2882909e80b62c1cdf4554c0a32ebe2d62fa80edaf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1710-10-09",
+      "place": "Gáname",
+      "transcription": "Magdalena.\n\nEn nuebe de octe de 1710 murió Magdalena Rodrigo viuda de Juº Vega. Recivió todos los Stos Sacramtos y tomó por su alma diez ducs y de ellos mandó dos a los religiosos descalzos de Zamª; mandó se dijesen las misas rezadas que se siguen, cuia limosna a de salir de sus vienes: una a nra Sª del Rosario, otra a nra Sª del Raio, y otra al Sto Christo, otra a Sn Roque, dos a las venditas ánimas, otra a nra Sª de las Angustias; al SSmo Christo mandó una sobremesa, y una ochava de centeno para el [ilegible]. Mandose ofrendar lo acostumbrado de oblada y candela por dos as; a las obras pías lo acostumbrado. Dejó por herederos a sus hijos María, Manuela, Juan y Cathalina Vega, por testams a Juº Gallego y Santiago Vega; fueron testigs Juº Gallego, Gregorio Zurdo, Migl Martín, Lorenzo Diego, Miguel del Pozo y Migl Rodrigo. Enterrose a la puerta principal de la Yglª; io el cura doi fee. Armenteros.",
+      "uncertainties": [
+        "Dos tomas de la misma página. El nombre de la cuarta heredera se lee «Cathalina» con reservas, partido entre dos líneas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "magdalena-rodrigo"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; observación con sus hijos herederos."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Juan Vega.JPG",
+          "sha256": "7e1cc8771015dfa9d0e9f4f32dfa943525e12151473fc4ae6273e275289a70aa",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1706-12-02",
+      "place": "Gáname",
+      "transcription": "Juan Vega.\n\nMurió Juan Vega en dos días del mes de deciembre de mill setecientos y seis años. Gastose en hacer bien por su alma seis ducados como consta de su testamto que lo hizo ante mí y enterrose en la Yglesia deste lugr y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "El asiento no nombra a su mujer. Es el marido de Magdalena Rodrigo, viuda de Juan Vega en octubre de 1710, y padre de Juan Vega Rodrigo: resuelve el pendiente del lote SEXTOS (PATERNOS 145), que daba este fallecimiento bajo el encabezado equivocado de Juan Vega Salvador, nacido en 1691 y enterrado en 1749."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-vega-padre-de-juan-vega-rodrigo"
+      ],
+      "applied": [
+        "Fallecimiento nuevo el 02-12-1706 en Gáname con transcripción."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Luis Delgado Gallego1.JPG",
+          "sha256": "23fbb943e604d1fecd8023688f50b1c4843025bccad9d3908eb17d14b67275ed",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Luis Delgado Gallego2.JPG",
+          "sha256": "e113eeded4f459933d7f3752b929cb792233e087945d9059a4f74729c176275f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1718-07-30",
+      "place": "Moraleja del Vino",
+      "transcription": "Luis Delgado.\n\nEn treinta de Julio de mill setecs y diez y ocho murió Luis Delgado Gallego. Solo recivió el sacramto de la penitencia, por tener vómitos, y no hubo lugar a la Sta Unción. Enterrose el primer día de Agosto en la capilla mayor. Hizo testamto ante Pedro de el Huelmo escriviente de fhos en el mismo día treinta y uno de Julio; mandó asistiesen a su entierro tres sacerdotes, y dos religiosos [ilegible] por ser hermº de la religión; se enterrase en la capilla mayor; media carga de trigo de ofrenda; novenario cantado; cien misas por su ánima; y otras diez por las ánimas, que ha de decir [ilegible] Pérez, thente cura de este lugar; una misa en el Sto Xpto de Morales y otra en nra Sra de el Viso. Agrega media carga de tierra a do llaman las Eritas de el Viso, a las demás que posee su herna Cathalina Delgado obligadas a la fiesta de el niño perdido. Dejó por testamrios a Ana González su muger, y Antonio López vecinos de este lugar. Dr Calleja.",
+      "uncertainties": [
+        "El asiento empieza al pie de un folio y termina en la cabecera del siguiente; lectura hecha sin ampliar, con huecos. Dice que murió el 30 de julio y que testó «en el mismo día treinta y uno», contradicción que queda tal cual.",
+        "La partida lo llama Luis Delgado Gallego; coincide con Luis Delgado González por la fecha, el lugar y su mujer, Ana González. Las notas marginales no se han leído."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-delgado-padre-de-pedro-delgado"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento; entierro el 01-08-1718 en Moraleja del Vino; observaciones sobre el apellido Gallego y su hermana."
       ],
       "destination": "Tatarabuelos sextos"
     }

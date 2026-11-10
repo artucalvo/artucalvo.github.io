@@ -58,6 +58,30 @@
       "applied": [
         "Entierro el 13-10-1726 en Casaseca de las Chanas con transcripción."
       ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Cabrero Luelmo.JPG",
+          "sha256": "a9572929bff61d7003eb2395ddd2aed860ffc88ba0e5a662de8147b9c8a44a74",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1693-10-02",
+      "place": "Morales del Vino",
+      "transcription": "Manuel.\n\nEn dos días del mes de octubre de mill ss y nobenta y tres años yo el Ldo Germo de Luelmo cura proprio deste lugr de Morales baptizé solemnemente a un niño que se llamó Manuel hixo legítimo de Juº Cabrero y María de Luelmo. Fueron padrinos Pedro Cabrero e Ysabel Pérez. Testigos [ilegible] Marqués, Juan Martín y Matheo Brioso todos vºs deste lugr y para que conste lo firmé. Ldo Germo de Luelmo.",
+      "uncertainties": [
+        "Imagen desenfocada en el borde derecho: el nombre del primer testigo y algunas palabras de enlace no se leen. La fecha de nacimiento del árbol es la de este bautismo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-cabrero"
+      ],
+      "applied": [
+        "Bautismo el 02-10-1693 en Morales del Vino con transcripción; nota en el nacimiento."
+      ]
     }
   ]
 }
