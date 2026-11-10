@@ -18748,7 +18748,8 @@
           "date": "1693-11-18",
           "place": "Tardobispo"
         }
-      ]
+      ],
+      "father": "jose-perez-padre-de-jose-perez-luelmo"
     },
     {
       "id": "ana-de-luelmo",
@@ -18756,6 +18757,14 @@
       "givenNames": "Ana",
       "surnames": [
         "de Luelmo"
+      ],
+      "marriages": [
+        {
+          "spouse": "jose-perez-padre-de-jose-perez-luelmo",
+          "date": "1666-04-04",
+          "place": "Morales del Vino",
+          "transcription": "Joseph Perez y Ana de Luelmo\n\nEn el lugar de Morales a quatro dias del mes de Marzo digo de abril de mil y seiscientos y sesenta y seis años de licencia del [ilegible] Miguel de Villalpando Cura propio del dicho lugar de morales [ilegible] en tres dias festibos al ofertorio de la misa mayor en el dicho lugar de Morales [ilegible] entre Joseph perez [ilegible] y ana de Luelmo [ilegible] del lugar de Morales [ilegible] por palabras de presente [ilegible] matrimonio siendo testigos [ilegible] Miguel de Villalpando Cura del dicho lugar de Morales y Alonso [ilegible] y Pedro Garcia [ilegible] y lo firme"
+        }
       ]
     },
     {
@@ -18941,6 +18950,22 @@
       "givenNames": "Catalina",
       "surnames": [
         "de la Calle"
+      ]
+    },
+    {
+      "id": "jose-perez-padre-de-jose-perez-luelmo",
+      "name": "José Pérez",
+      "givenNames": "José",
+      "surnames": [
+        "Pérez"
+      ],
+      "marriages": [
+        {
+          "spouse": "ana-de-luelmo",
+          "date": "1666-04-04",
+          "place": "Morales del Vino",
+          "transcription": "Joseph Perez y Ana de Luelmo\n\nEn el lugar de Morales a quatro dias del mes de Marzo digo de abril de mil y seiscientos y sesenta y seis años de licencia del [ilegible] Miguel de Villalpando Cura propio del dicho lugar de morales [ilegible] en tres dias festibos al ofertorio de la misa mayor en el dicho lugar de Morales [ilegible] entre Joseph perez [ilegible] y ana de Luelmo [ilegible] del lugar de Morales [ilegible] por palabras de presente [ilegible] matrimonio siendo testigos [ilegible] Miguel de Villalpando Cura del dicho lugar de Morales y Alonso [ilegible] y Pedro Garcia [ilegible] y lo firme"
+        }
       ]
     }
   ]
