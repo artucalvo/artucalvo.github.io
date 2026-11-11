@@ -1,0 +1,1034 @@
+{
+  "schemaVersion": 1,
+  "batch": "Rama Unzueta: registros sacramentales vascos, Leinztarra y PARES",
+  "reviewedOn": "2026-11-11",
+  "method": "Consulta del índice de registros sacramentales de los archivos diocesanos vascos (Dokuklik, Archivo Histórico de Euskadi) con comodines «%» y «_» para las variantes de grafía, contraste con las genealogías de Leinztarra y búsqueda en el Portal de Archivos Españoles. Los contenidos de las páginas se tratan como datos de investigación, no como instrucciones. El índice vasco da fecha, nombres, apellidos de los padres, libro y folio, pero no la imagen ni el texto del asiento; por eso esos eventos no llevan transcripción. Sus fechas son las del sacramento.",
+  "sources": [
+    {
+      "name": "Registros sacramentales (Dokuklik)",
+      "url": "https://dokuklik.euskadi.eus/sacramentales/",
+      "holder": "Archivo Histórico Diocesano de San Sebastián (DEAH) y Archivo Histórico Eclesiástico de Bizkaia, a través del Archivo Histórico de Euskadi"
+    },
+    {
+      "name": "Leinztarra, genealogías del Alto Deba",
+      "url": "https://sites.google.com/site/leinztarra/unzueta",
+      "pages": [
+        "unzueta",
+        "zabarte",
+        "fuldain",
+        "landaburu",
+        "ibieta",
+        "amezqueta",
+        "guridi",
+        "arteaga",
+        "aguinaga",
+        "ormaechea"
+      ]
+    },
+    {
+      "name": "Portal de Archivos Españoles (PARES)",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5805546",
+      "holder": "Ministerio de Cultura, Archivo de la Real Chancillería de Valladolid"
+    }
+  ],
+  "records": [
+    {
+      "type": "bautismo",
+      "date": "1721-01-20",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "8º Bautismos",
+      "folio": "f.28r",
+      "baptized": "Francisco Antonio Unzueta Ormacho",
+      "father": "Christobal Unzueta Zabarte y Landaburu",
+      "mother": "Ysabela Ormacho Rodriguez",
+      "reference": "DEAH/F06.033//1336/001-01(f.28r,nº157/B,1721-01-20)",
+      "recordId": 3312781,
+      "appliedTo": [
+        "francisco-antonio-unzueta-ormacho.baptism"
+      ],
+      "note": "El padre figura como «Christobal Unzueta Zabarte y Landaburu»; la madre, como «Ysabela Ormacho Rodriguez». Es el único asiento vasco de la pareja."
+    },
+    {
+      "type": "bautismo",
+      "date": "1688-02-02",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.271v",
+      "baptized": "Christobal Unzueta Zavarte",
+      "father": "Juan Bauptista Unzueta",
+      "mother": "Maria Zavarte",
+      "indexNote": "No consta la identidad de los abuelos.",
+      "reference": "DEAH/F06.033//1335/001-01(f.271v,nº--/B,1688-02-02)",
+      "recordId": 3311458,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.baptism"
+      ],
+      "note": "El padre figura como «Juan Bauptista»; el índice advierte que no consta la identidad de los abuelos."
+    },
+    {
+      "type": "bautismo",
+      "date": "1646-04-13",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Bautismos",
+      "folio": "f.111v",
+      "baptized": "Joan Bauptista Uncueta Fuldain",
+      "father": "Bauptista Uncueta",
+      "mother": "Maria Fuldain",
+      "reference": "DEAH/F06.033//1334/002-01(f.111v,nº--/B,1646-04-13)",
+      "recordId": 3309868,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.baptism"
+      ],
+      "note": "Fecha que el documento familiar asigna al padre de Christobal. Leinztarra la asigna al marido de Antonia Garay Errarte."
+    },
+    {
+      "type": "bautismo",
+      "date": "1643-11-05",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Bautismos",
+      "folio": "f.92v",
+      "baptized": "Juan Uncueta Fuldain",
+      "father": "Juan Baptista Uncueta Cirravila",
+      "mother": "Maria Fuldain Egurpide",
+      "reference": "DEAH/F06.033//1334/002-01(f.92v,nº--/B,1643-11-05)",
+      "recordId": 3309582,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ],
+      "note": "Hermano mayor, Juan. Leinztarra lo identifica como marido de María Zabarte y padre de Christobal."
+    },
+    {
+      "type": "bautismo",
+      "date": "1654-09-01",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Bautismos",
+      "folio": "f.182r",
+      "baptized": "Antonio Uncueta Fuldain",
+      "father": "Baptista Uncueta Lizarrista",
+      "mother": "Maria Fuldain Egurbide",
+      "reference": "DEAH/F06.033//1334/002-01(f.182r,nº--/B,1654-09-01)",
+      "recordId": 3309826,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1657-03-22",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.8r",
+      "baptized": "Ygnatio Unçueta Fuldain",
+      "father": "Baptista Unçueta Çirarruista",
+      "mother": "Maria Fuldain Egurbide",
+      "reference": "DEAH/F06.033//1335/001-01(f.8r,nº--/B,1657-03-22)",
+      "recordId": 3310972,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ]
+    },
+    {
+      "type": "matrimonio",
+      "date": "1643-02-09",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Matrimonios",
+      "folio": "f.250r",
+      "groom": "Juan Baptista Unçueta Cirrarola",
+      "bride": "Maria Fuldain Egurbide",
+      "reference": "DEAH/F06.033//1341/001-02(f.250r,nº--/M,1643-02-09)",
+      "recordId": 1091735,
+      "appliedTo": [
+        "juan-baptista-unceta-cirarruista.marriages",
+        "maria-fuldain-egurbide.marriages"
+      ]
+    },
+    {
+      "type": "matrimonio",
+      "date": "1672-06-12",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Matrimonios",
+      "folio": "f.1v",
+      "groom": "Juan Baptista Unzueta Fuldayn",
+      "bride": "Maria Çavarte Landaburu",
+      "reference": "DEAH/F06.033//1341/002-01(f.1v,nº--/M,1672-06-12)",
+      "recordId": 1090661,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.marriages",
+        "maria-cabarte-landaburu.marriages"
+      ],
+      "note": "El contrayente figura como «Juan Baptista»."
+    },
+    {
+      "type": "matrimonio",
+      "date": "1697-06-02",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Matrimonios",
+      "folio": "f.101r",
+      "groom": "Juan Unzueta Fuldain",
+      "bride": "Josepha Uribarria Sulaica",
+      "reference": "DEAH/F06.033//1341/002-01(f.101r,nº--/M,1697-06-02)",
+      "recordId": 1092897,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.marriages"
+      ],
+      "note": "El contrayente figura como «Juan». Se atribuye al viudo de María Zabarte, como hace Leinztarra."
+    },
+    {
+      "type": "matrimonio",
+      "date": "1667-07-26",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Matrimonios",
+      "folio": "f.354r",
+      "groom": "Juan Bauptista Unzueta Fuldain",
+      "bride": "Antonia Garai Ararte",
+      "reference": "DEAH/F06.033//1341/001-02(f.354r,nº--/M,1667-07-26)",
+      "recordId": 1091602,
+      "note": "Matrimonio del otro hermano Unzueta Fuldain; el contrayente figura también como «Juan Bauptista»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1673-02-18",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.118r",
+      "baptized": "Maria Bauptista Unzueta Çavarte",
+      "father": "Juan Bauptista Unzueta Fuldain",
+      "mother": "Maria Çavarte Landaburu",
+      "reference": "DEAH/F06.033//1335/001-01(f.118r,nº--/B,1673-02-18)",
+      "recordId": 3310552,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Juan Bauptista»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1675-11-30",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.153v",
+      "baptized": "Andres Unzueta Savarte",
+      "father": "Juan Unzueta",
+      "mother": "maria Savarte",
+      "indexNote": "No consta la identidad de los abuelos.",
+      "reference": "DEAH/F06.033//1335/001-01(f.153v,nº--/B,1675-11-30)",
+      "recordId": 3311168,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1678-10-24",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.186r",
+      "baptized": "Ursola* Unzueta Sabarte",
+      "father": "Juan Bauptista Unzueta",
+      "mother": "Maria Sabarte",
+      "indexNote": "Partida inscrita fuera de su orden cronológico. *Consta literalmente así.",
+      "reference": "DEAH/F06.033//1335/001-01(f.186r,nº--/B,1678-10-24)",
+      "recordId": 3310643,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Juan Bauptista»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1681-07-22",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.217r",
+      "baptized": "Maria Madalena Unzueta Çabarte",
+      "father": "Juan Unzueta Fuldain",
+      "mother": "maria Çabarte Landaburu",
+      "reference": "DEAH/F06.033//1335/001-01(f.217r,nº--/B,1681-07-22)",
+      "recordId": 3311304,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1684-12-01",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.238 (bis)v",
+      "baptized": "Joan Unzueta Çabaarte",
+      "father": "Joan Unzueta",
+      "mother": "Maria Çabaarte",
+      "indexNote": "No consta la identidad de los abuelos.",
+      "reference": "DEAH/F06.033//1335/001-01(f.238 (bis)v,nº--/B,1684-12-01)",
+      "recordId": 3311976,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Joan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1696-10-22",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Bautismos",
+      "folio": "f.43v",
+      "baptized": "Theressa Unzueta Zabarte",
+      "father": "Juan Unzueta Fuldain",
+      "mother": "Maria Zabarte Landaburu",
+      "reference": "DEAH/F06.033//1335/002-01(f.43v,nº--/B,1696-10-22)",
+      "recordId": 3312280,
+      "appliedTo": [
+        "christobal-unzueta-zabarte.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1698-03-05",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Bautismos",
+      "folio": "f.60v",
+      "baptized": "Maria Josepha Unzueta Uribarrin",
+      "father": "Juan Unzueta Fuldain",
+      "mother": "Josepha Uribarrin Zulaica",
+      "reference": "DEAH/F06.033//1335/002-01(f.60v,nº--/B,1698-03-05)",
+      "recordId": 3311488,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1701-05-16",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Bautismos",
+      "folio": "f.100r",
+      "baptized": "Juan Antonio Unsueta Uribarren",
+      "father": "Juan Unsueta Fuldayn",
+      "mother": "Josepha Uribarren Zulaica",
+      "reference": "DEAH/F06.033//1335/002-01(f.100r,nº--/B,1701-05-16)",
+      "recordId": 3313198,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1703-05-05",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Bautismos",
+      "folio": "f.120r",
+      "baptized": "Domingo Unzueta Urribarren",
+      "father": "Juan Baptista Unzueta Fuldain",
+      "mother": "Josepha Urribarren Zulayca",
+      "reference": "DEAH/F06.033//1335/002-01(f.120r,nº--/B,1703-05-05)",
+      "recordId": 3312517,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ],
+      "note": "Padre: «Juan Baptista». No figura en Leinztarra."
+    },
+    {
+      "type": "bautismo",
+      "date": "1705-11-12",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Bautismos",
+      "folio": "f.153v",
+      "baptized": "Martin Baptista Unzueta Urivarren",
+      "father": "Juan Unzueta Fuldayn",
+      "mother": "Josepha Urivarren Zulaiça",
+      "reference": "DEAH/F06.033//1335/002-01(f.153v,nº--/B,1705-11-12)",
+      "recordId": 3313074,
+      "appliedTo": [
+        "joan-bauptista-uncueta-fuldain.observations"
+      ],
+      "note": "Padre: «Juan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1667-09-17",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.70r",
+      "baptized": "Francisco Unçueta Garai",
+      "father": "Juan Bauptista Unçueta Fuldain",
+      "mother": "Antonia Garai Ararte",
+      "reference": "DEAH/F06.033//1335/001-01(f.70r,nº--/B,1667-09-17)",
+      "recordId": 3310229,
+      "note": "Hijo del otro hermano y Antonia Garay; el padre figura como «Juan Bauptista»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1670-03-07",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.89r",
+      "baptized": "Mariana Unçueta Garay",
+      "father": "Juan Bauptista Unçueta Fuldain",
+      "mother": "Antonia Garay Ararte",
+      "reference": "DEAH/F06.033//1335/001-01(f.89r,nº--/B,1670-03-07)",
+      "recordId": 3310740,
+      "note": "Ídem."
+    },
+    {
+      "type": "bautismo",
+      "date": "1672-11-25",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.114r",
+      "baptized": "Catalina Unçueta Garay",
+      "father": "Juan Bauptista Unçueta Fuldain",
+      "mother": "Antonia Garay Ararte",
+      "reference": "DEAH/F06.033//1335/001-01(f.114r,nº--/B,1672-11-25)",
+      "recordId": 3310432,
+      "note": "Ídem. Nace tres meses antes que María Bautista Unzueta Zabarte: son dos padres distintos."
+    },
+    {
+      "type": "bautismo",
+      "date": "1674-10-01",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.139v",
+      "baptized": "Geronimo Unzueta Garay",
+      "father": "Juan Bauptista Unzueta Fuldain",
+      "mother": "Antonia Garay Ararte",
+      "reference": "DEAH/F06.033//1335/001-01(f.139v,nº--/B,1674-10-01)",
+      "recordId": 3310896,
+      "note": "Ídem."
+    },
+    {
+      "type": "bautismo",
+      "date": "1680-01-29",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Bautismos",
+      "folio": "f.199v",
+      "baptized": "Maria Baleria Unzueta Garay",
+      "father": "Bauptista Unzueta",
+      "mother": "Maria Antonia Garay",
+      "indexNote": "No consta la identidad de los abuelos.",
+      "reference": "DEAH/F06.033//1335/001-01(f.199v,nº--/B,1680-01-29)",
+      "recordId": 3312094,
+      "note": "Ídem; el padre figura como «Bauptista»."
+    },
+    {
+      "type": "defunción",
+      "date": "1697-05-22",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.148v",
+      "deceased": "Maria Zabarte",
+      "reference": "DEAH/F06.033//1343/002-01(f.148v,nº--/D,1697-05-22)",
+      "recordId": 2419618,
+      "appliedTo": [
+        "maria-cabarte-landaburu.death"
+      ],
+      "note": "Sin segundo apellido. Atribuida a María Zabarte Landaburu por la fecha del segundo matrimonio del marido (02-06-1697)."
+    },
+    {
+      "type": "defunción",
+      "date": "1696-04-26",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.147r",
+      "deceased": "Antonia Garai",
+      "reference": "DEAH/F06.033//1343/002-01(f.147r,nº--/D,1696-04-26)",
+      "recordId": 2419530,
+      "note": "Probable Antonia Garay Errarte, mujer del otro hermano."
+    },
+    {
+      "type": "defunción",
+      "date": "1680-09-17",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.119v",
+      "deceased": "Joan Baptista Unçueta",
+      "reference": "DEAH/F06.033//1343/002-01(f.119v,nº--/D,1680-09-17)",
+      "recordId": 2419235,
+      "note": "Sin asignar: puede ser Bautista Unzueta Cirarruista (n. 1623) o su hijo casado con Antonia Garay, cuyo último hijo nace en enero de 1680."
+    },
+    {
+      "type": "defunción",
+      "date": "1712-06-20",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.172v",
+      "deceased": "Joan Baptista Unzueta",
+      "reference": "DEAH/F06.033//1343/002-01(f.172v,nº--/D,1712-06-20)",
+      "recordId": 2419635,
+      "note": "Sin asignar: probablemente el marido de Josefa Uribarren (padre de Christobal), pero no se distingue del otro hermano."
+    },
+    {
+      "type": "defunción",
+      "date": "1738-09-07",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "7º Defunciones",
+      "folio": "f.53r",
+      "deceased": "Joan Unzueta Zavarte",
+      "reference": "DEAH/F06.033//1343/004-01(f.53r,nº--/D,1738-09-07)",
+      "recordId": 2422221,
+      "note": "Hermano de Christobal."
+    },
+    {
+      "type": "bautismo",
+      "date": "1651-06-02",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.21v",
+      "baptized": "Maria Cabarte Landaburu",
+      "father": "Domingo Cabarte Arteaga",
+      "mother": "Mari Miguel Landaburu",
+      "indexNote": "Partida omitida.",
+      "reference": "DEAH/F06.082//2293/001-01(f.21v,nº--/B,1651-06-02)",
+      "recordId": 3326753,
+      "appliedTo": [
+        "maria-cabarte-landaburu.baptism"
+      ],
+      "note": "Padre: «Domingo Cabarte Arteaga»; madre: «Mari Miguel Landaburu»."
+    },
+    {
+      "type": "matrimonio",
+      "date": "1680-06-23",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "6º Matrimonios",
+      "folio": "f.29v",
+      "groom": "Bartolo Savarte Landaburu",
+      "bride": "Antonia Uribe Yturrioz Ocaranza",
+      "reference": "DEAH/F06.033//1341/002-01(f.29v,nº--/M,1680-06-23)",
+      "recordId": 1091097,
+      "appliedTo": [
+        "maria-cabarte-landaburu.observations"
+      ]
+    },
+    {
+      "type": "defunción",
+      "date": "1661-02-12",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Defunciones",
+      "folio": "f.158v",
+      "deceased": "Mari Miguel Landaburu",
+      "reference": "DEAH/F06.082//2293/001-02(f.158v,nº--/D,1661-02-12)",
+      "recordId": 2430803,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.death"
+      ]
+    },
+    {
+      "type": "matrimonio",
+      "date": "1612-07-17",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Matrimonios",
+      "folio": "f.195r",
+      "groom": "Juan Landaburu",
+      "bride": "Ana Guinea",
+      "reference": "DEAH/F06.082//2293/001-04(f.195r,nº--/M,1612-07-17)",
+      "recordId": 1096276,
+      "appliedTo": [
+        "joan-landaburu-guridi.marriages",
+        "anna-guinea.marriages"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1613-07-28",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.10v",
+      "baptized": "Ana Landaburu Guinea",
+      "father": "Joan Landaburu",
+      "mother": "Ana Guinea",
+      "indexNote": "En el microfilm también aparece \"f. 13\" a lápiz.",
+      "reference": "DEAH/F06.082//2293/001-01(f.10v,nº--/B,1613-07-28)",
+      "recordId": 3327388,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1619-01-20",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.13v",
+      "baptized": "Maria Landaburu Guinea",
+      "father": "Joan Landaburu",
+      "mother": "Anna Guinea",
+      "reference": "DEAH/F06.082//2293/001-01(f.13v,nº--/B,1619-01-20)",
+      "recordId": 3327453,
+      "note": "Bautismo de «María». El documento familiar lo asigna a Mari Miguel; Leinztarra, a María, mujer de Miguel Ezcurra Arriola. No aplicado."
+    },
+    {
+      "type": "bautismo",
+      "date": "1622-03-05",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.15r",
+      "baptized": "Maria Luissa Landaburu Guinea",
+      "father": "Juan Landaburu",
+      "mother": "Anna Guinea",
+      "indexNote": "En el microfilm también aparece \"f. 18\" a lápiz.",
+      "reference": "DEAH/F06.082//2293/001-01(f.15r,nº--/B,1622-03-05)",
+      "recordId": 3327465,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1627-05-24",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.17v",
+      "baptized": "Joan Asencio Landaburu Guinea",
+      "father": "Joan Landaburu",
+      "mother": "Anna Guinea",
+      "indexNote": "En el microfilm también aparece \"f. 20\" a lápiz.",
+      "reference": "DEAH/F06.082//2293/001-01(f.17v,nº--/B,1627-05-24)",
+      "recordId": 3327587,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ]
+    },
+    {
+      "type": "matrimonio",
+      "date": "1652-06-16",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Matrimonios",
+      "folio": "f.291r",
+      "groom": "Domingo Beraziartu Goia",
+      "bride": "Luçia Landaburu Guinea",
+      "reference": "DEAH/F06.033//1341/001-02(f.291r,nº--/M,1652-06-16)",
+      "recordId": 1090934,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ]
+    },
+    {
+      "type": "matrimonio",
+      "date": "1653-11-16",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Matrimonios",
+      "folio": "f.202r",
+      "groom": "Juan Arteta Arostegui",
+      "bride": "Antonia Landaburu Guinea",
+      "reference": "DEAH/F06.082//2293/001-04(f.202r,nº--/M,1653-11-16)",
+      "recordId": 1096351,
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1644-06-02",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.----------r",
+      "baptized": "Maria Ezcurra Landaburu",
+      "father": "Miguel Ezcurra",
+      "mother": "Landaburu",
+      "indexNote": "Partida incompleta. Nombre de la madre ilegible debido al mal estado del folio. Partida inscrita fuera de su orden cronológico, extendida en folios sin numerar después del f. 218.",
+      "reference": "DEAH/F06.082//2293/001-01(f.----------r,nº--/B,1644-06-02)",
+      "recordId": 3327225,
+      "note": "Hija de Miguel Ezcurra y una Landaburu de nombre ilegible."
+    },
+    {
+      "type": "bautismo",
+      "date": "1652-10-20",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.22 (bis)v",
+      "baptized": "Joana Escurra Landaburu",
+      "father": "Miguel Escurra Arriola",
+      "mother": "Maria Landaburu Guinea",
+      "reference": "DEAH/F06.082//2293/001-01(f.22 (bis)v,nº--/B,1652-10-20)",
+      "recordId": 3326762,
+      "note": "La madre es «Maria Landaburu Guinea», mujer de Miguel Escurra Arriola: distinta de Mari Miguel, que tuvo a María Cabarte en 1651."
+    },
+    {
+      "type": "bautismo",
+      "date": "1657-07-31",
+      "municipality": "Arrasate/Mondragón",
+      "locality": "Garagartza",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "1º Bautismos",
+      "folio": "f.28r",
+      "baptized": "Ynacio Escurra Landaburu",
+      "father": "Miguel Escurra",
+      "mother": "Maria Landaburu Guinea",
+      "reference": "DEAH/F06.082//2293/001-01(f.28r,nº--/B,1657-07-31)",
+      "recordId": 3326896,
+      "note": "Ídem."
+    },
+    {
+      "type": "matrimonio",
+      "date": "1602-05-29",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Matrimonios",
+      "folio": "f.75r",
+      "groom": "Joan Landaburu Arteaga",
+      "bride": "Catalina Ocharcoaga Cubilaga",
+      "reference": "DEAH/F06.033//1341/001-02(f.75r,nº--/M,1602-05-29)",
+      "recordId": 1090892,
+      "note": "Juan Landaburu Arteaga, que Leinztarra identifica con el marido de Ana Guinea."
+    },
+    {
+      "type": "bautismo",
+      "date": "1610-01-20",
+      "municipality": "Oñati",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "4º Bautismos",
+      "folio": "f.20v",
+      "baptized": "Paulo Landaburu Ocharcoaga",
+      "father": "Juan Landaburu",
+      "mother": "Catalina Ocharcoaga",
+      "reference": "DEAH/F06.127//2672/001-01(f.20v,nº--/B,1610-01-20)",
+      "recordId": 4033372,
+      "note": "Hijo de Juan Landaburu y Catalina Ocharcoaga, en Oñati."
+    },
+    {
+      "type": "bautismo",
+      "date": "1612-09-19",
+      "municipality": "Oñati",
+      "parish": "San Mikel Goiaingerua / San Miguel Arcángel",
+      "book": "4º Bautismos",
+      "folio": "f.54r",
+      "baptized": "Ana Landaburu Ocharcoaga",
+      "father": "Juan Landaburu",
+      "mother": "Catalina Ocharcoaga",
+      "reference": "DEAH/F06.127//2672/001-01(f.54r,nº--/B,1612-09-19)",
+      "recordId": 4032811,
+      "note": "Ídem, dos meses después del matrimonio Landaburu–Guinea de Garagartza: los dos Juan Landaburu son personas distintas."
+    },
+    {
+      "type": "bautismo",
+      "date": "1612-12-08",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.243r",
+      "baptized": "Maria Amezqueta Egurbide",
+      "father": "Joan Amezqueta",
+      "mother": "Antona Egurbide",
+      "reference": "DEAH/F06.033//1334/001-02(f.243r,nº--/B,1612-12-08)",
+      "recordId": 3308169,
+      "appliedTo": [
+        "maria-fuldain-egurbide.baptism"
+      ],
+      "note": "Figura como «Maria Amezqueta Egurbide»."
+    },
+    {
+      "type": "matrimonio",
+      "date": "1606-01-23",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Matrimonios",
+      "folio": "f.86v",
+      "groom": "Joan Amezqueta Amezqueta",
+      "bride": "Antona Egurbide Çigorrondo",
+      "reference": "DEAH/F06.033//1341/001-02(f.86v,nº--/M,1606-01-23)",
+      "recordId": 1091108,
+      "appliedTo": [
+        "juan-fuldain-amezqueta.marriages",
+        "antonia-egurbide-zigorondo.marriages"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1606-11-16",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.194v",
+      "baptized": "Magdalena Amezqueta Egurbide",
+      "father": "Joan Amezqueta",
+      "mother": "Antonia Egurbide",
+      "reference": "DEAH/F06.033//1334/001-02(f.194v,nº--/B,1606-11-16)",
+      "recordId": 3306990,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1610-02-04",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.218v",
+      "baptized": "Agueda Amezqueta Egurbide",
+      "father": "Joan Amezqueta",
+      "mother": "Antona Egurbide",
+      "reference": "DEAH/F06.033//1334/001-02(f.218v,nº--/B,1610-02-04)",
+      "recordId": 3307612,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1616-02-24",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.273v",
+      "baptized": "Mari Miguel Amezqueta Olandiano",
+      "father": "Joan Amezqueta",
+      "mother": "Antona Catalina Olandiano",
+      "reference": "DEAH/F06.033//1334/001-02(f.273v,nº--/B,1616-02-24)",
+      "recordId": 3308718,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ],
+      "note": "La madre figura como «Antona Catalina Olandiano»; se incluye porque Leinztarra y los bautismos de sus hijos la llaman Mari Miguel Fuldain Egurbide."
+    },
+    {
+      "type": "bautismo",
+      "date": "1619-02-01",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.295v",
+      "baptized": "Antonio Amezqueta Egurbide",
+      "father": "Juan Amezqueta",
+      "mother": "Mari Antonia Egurbide",
+      "reference": "DEAH/F06.033//1334/001-02(f.295v,nº--/B,1619-02-01)",
+      "recordId": 3308927,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1622-03-24",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "4º Bautismos",
+      "folio": "f.315r",
+      "baptized": "Joan Amezqueta Egurbide",
+      "father": "Joan Amezqueta",
+      "mother": "Mari Antonia Egurbide",
+      "reference": "DEAH/F06.033//1334/001-02(f.315r,nº--/B,1622-03-24)",
+      "recordId": 3308454,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ],
+      "note": "No figura en Leinztarra."
+    },
+    {
+      "type": "bautismo",
+      "date": "1625-01-29",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Bautismos",
+      "folio": "f.(1)r",
+      "baptized": "Andres Amesqueta Egurbide",
+      "father": "Joan Amesqueta Irigoen",
+      "mother": "Antona Egurbide Çigorrondo",
+      "indexNote": "No contiene el número de folio, debido al mal estado de conservación.",
+      "reference": "DEAH/F06.033//1334/002-01(f.(1)r,nº--/B,1625-01-29)",
+      "recordId": 3309023,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ],
+      "note": "El padre figura como «Joan Amesqueta Irigoen»: única mención del apellido materno de Juan Fuldain-Amezqueta."
+    },
+    {
+      "type": "defunción",
+      "date": "1682-10-22",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.121v",
+      "deceased": "Maria Fuldain",
+      "reference": "DEAH/F06.033//1343/002-01(f.121v,nº--/D,1682-10-22)",
+      "recordId": 2419414,
+      "appliedTo": [
+        "maria-fuldain-egurbide.observations"
+      ],
+      "note": "Sin segundo apellido; atribución probable, recogida solo como observación."
+    },
+    {
+      "type": "bautismo",
+      "date": "1623-06-26",
+      "municipality": "Eibar",
+      "parish": "San Andres Apostolua / San Andrés Apóstol",
+      "book": "2º Bautismos",
+      "folio": "p.126",
+      "baptized": "Joan Unceta Çirarrusta",
+      "father": "Martin Unceta Aguinaga",
+      "mother": "Gracia Çirarrusta Gaztelueta",
+      "indexNote": "Libro parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
+      "reference": "DEAH/F06.067//2038/001-01(p.126,nº--/B,1623-06-26)",
+      "recordId": 3660573,
+      "appliedTo": [
+        "juan-baptista-unceta-cirarruista.baptism"
+      ],
+      "note": "Figura como «Joan»."
+    },
+    {
+      "type": "bautismo",
+      "date": "1625-10-25",
+      "municipality": "Eibar",
+      "parish": "San Andres Apostolua / San Andrés Apóstol",
+      "book": "2º Bautismos",
+      "folio": "p.142",
+      "baptized": "Ursula Unceta Çirarrusta",
+      "father": "Martin Unceta Aguinaga",
+      "mother": "Gracia Çirarrusta Gaztelueta",
+      "indexNote": "Libro parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
+      "reference": "DEAH/F06.067//2038/001-01(p.142,nº--/B,1625-10-25)",
+      "recordId": 3665524,
+      "appliedTo": [
+        "juan-baptista-unceta-cirarruista.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1629-06-13",
+      "municipality": "Eibar",
+      "parish": "San Andres Apostolua / San Andrés Apóstol",
+      "book": "2º Bautismos",
+      "folio": "p.170",
+      "baptized": "Ana Unceta Cirarrrusta",
+      "father": "Martin Unceta",
+      "mother": "Gracia Cirarrrusta Gaztelueta",
+      "indexNote": "Libro parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
+      "reference": "DEAH/F06.067//2038/001-01(p.170,nº--/B,1629-06-13)",
+      "recordId": 3664825,
+      "appliedTo": [
+        "juan-baptista-unceta-cirarruista.observations"
+      ]
+    },
+    {
+      "type": "bautismo",
+      "date": "1621-04-05",
+      "municipality": "Eibar",
+      "parish": "San Andres Apostolua / San Andrés Apóstol",
+      "book": "2º Bautismos",
+      "folio": "p.110",
+      "baptized": "Benito Yraegui Cirarrusta",
+      "father": "Joan Yraegui Sumendiaga",
+      "mother": "Gracia Cirarrusta Gastelueta",
+      "indexNote": "Libro parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
+      "reference": "DEAH/F06.067//2038/001-01(p.110,nº--/B,1621-04-05)",
+      "recordId": 3663378,
+      "appliedTo": [
+        "gracia-cirarrusta-gaztelueta.observations"
+      ]
+    },
+    {
+      "type": "defunción",
+      "date": "1656-12-04",
+      "municipality": "Arrasate/Mondragón",
+      "parish": "San Joan Bataiatzailea / San Juan Bautista",
+      "book": "5º Defunciones",
+      "folio": "f.81r",
+      "deceased": "Maria Perez Arteaga",
+      "reference": "DEAH/F06.033//1343/002-01(f.81r,nº--/D,1656-12-04)",
+      "recordId": 2418507,
+      "note": "Sin asignar: posible María Pérez de Ibieta-Arteaga, mujer de Juan Zabarte, pero la familia vivía en Udala."
+    }
+  ],
+  "leinztarra": {
+    "unzueta": [
+      "II. Descendientes de BAUTISTA UNZUETA CIGARROLA: 1. BAUTISTA UNZUETA CIRARRUISTA O CIGARROLA casó con MARIA FULDAIN EGURBIDE (n. 8 Dic 1612-ARRASATE; m. 9 Feb 1643).",
+      "2. JUAN UNZUETA FULDAIN (n. 5 Nov 1643-ARRASATE) casó con MARIA ZABARTE LANDABURU (n. 2 Jun 1651-GARAGARTZA; m. 12 Jun 1672) y con JOSEPHA URIBARREN ZULAICA (m. 2 Jun 1697).",
+      "3. MARIA BAUTISTA (1673), ANDRES (1675), URSULA (1678), MARIA MAGDALENA (1681), JUAN (1684), CRISTOBAL UNZUETA ZABARTE (n. 2 Feb 1688-ARRASATE) casó con ISABELA ORMACHO RODRIGUEZ; 4. FRANCISCO ANTONIO UNZUETA ORMACHO (n. 20 Ene 1721-ARRASATE); TERESA (1696); MARIA JOSEPHA (1698), JUAN ANTONIO (1701) y MARTIN BAUTISTA UNZUETA URIBARREN (1705).",
+      "2. JUAN BAUTISTA UNZUETA FULDAIN (n. 13 Abr 1646-ARRASATE) casó con ANTONIA GARAY ERRARTE (n. 16 Ene 1644-BEDOÑA; m. 26 Jul 1667). 2. ANTONIO (1654). 2. IGNACIO (1657).",
+      "V. Descendientes de FRANCISCO ANTONIO UNZUETA ORMAECHEA, casado en 1774 con MARIA FRANCISCA ECHABARRIA-ITURBE IBARGUEN: es un homónimo de Gantzaga (Aramaio), no el Francisco Antonio de 1721."
+    ],
+    "zabarte": [
+      "II. 1. JUAN ZABARTE casó con MARIA Perez ARTEAGA. 2. MARIANA, JUAN y MARTIN ZABARTE IBIETA-ARTEAGA. 2. DOMINGO ZABARTE ARTEAGA casó con MARIA MIGUEL LANDABURU. 3. BARTOLOME ZABARTE LANDABURU; 3. MARIA ZABARTE LANDABURU (n. 2 Jun 1651-GARAGARTZA) casó con JUAN UNZUETA FULDAIN (n. 5 Nov 1643-ARRASATE; m. 12 Jun 1672)."
+    ],
+    "fuldain": [
+      "II. 1. JUAN FULDAIN-AMEZQUETA casó con ANTONIA EGURBIDE ZIGORONDO (m. 23 Ene 1606). 2. MAGDALENA (1606), AGUEDA (1610), MARIA (n. 8 Dic 1612) casó con BAUTISTA UNZUETA CIRARRUISTA (m. 9 Feb 1643), MARIA MIGUEL (1616), ANTONIO (1619), ANDRES (1625)."
+    ],
+    "landaburu": [
+      "1. JUAN LANDABURU SUSTAETA casó con MARIA GURIDI ARTEAGA. 2. JUAN LANDABURU GURIDI casó con ANA GUINEA (m. 17 Jul 1612) y con CATALINA OCHARCOAGA ZUBILLAGA (m. 29 May 1602). 3. ANA (1613), MARIA LANDABURU GUINEA (n. 20 Ene 1619-GARAGARTZA) casó con MIGUEL EZCURRA ARRIOLA, MARIA LUISA (1622), ANTONIA, JUAN ASENCIO (1627), LUCIA."
+    ]
+  },
+  "pares": {
+    "title": "Ejecutoria del pleito litigado por Pero Pérez Junquera y María Junquera, viuda de Cristóbal de Unzueta, con Jorge de Besa Polanco, vecinos de la villa de Villardeciervos (Zamora), sobre conducción de aguas",
+    "reference": "ES.47186.ARCHV/11.7.1//REGISTRO DE EJECUTORIAS,CAJA 3710,14",
+    "date": "1799-12",
+    "images": 8,
+    "appliedTo": [
+      "cristobal-unzueta-padre-de-manuel.death",
+      "cristobal-unzueta-padre-de-manuel.marriages",
+      "cristobal-unzueta-padre-de-manuel.observations",
+      "maria-junquera-mujer-de-cristobal-unzueta"
+    ],
+    "reading": "Las imágenes solo se sirven a 906 × 1292 píxeles por página, por lo que la lectura es parcial. Se transcriben, con las abreviaturas desarrolladas, el encabezamiento y el comienzo de la primera página (imagen 2). El catálogo lee «Pero»; la imagen parece decir «Pedro». El año de la demanda se lee «noventa y quatro» con confianza razonable. La última página (imagen 8) contiene la tasación de costas a instancia de Pedro Pérez y María Junquera; las páginas intermedias no se han leído."
+  },
+  "pendingDecisions": [
+    "Padre de Christobal Unzueta Zabarte. El árbol conserva, según el documento familiar, a Joan Bauptista (bautizado el 13-04-1646). Leinztarra lo identifica con su hermano Juan (bautizado el 05-11-1643) y da a Juan Bautista por marido de Antonia Garay. El índice confirma que hubo dos hermanos casados a la vez: el marido de Antonia Garay figura siempre como «Juan Bauptista» o «Bauptista»; el de María Zabarte y Josefa Uribarren, cinco veces como «Juan Bauptista» (incluidos su matrimonio de 1672 y el bautismo de Christobal) y ocho como «Juan». Los padres y abuelos son los mismos en ambos casos. No se cambia sin decisión de la familia.",
+    "Mari Miguel Landaburu. El árbol le asigna el bautismo del 20-01-1619, que el índice anota a nombre de «María». Una María Landaburu Guinea, mujer de Miguel Ezcurra Arriola, tuvo hijos en 1652 y 1657, y Mari Miguel tuvo a María Cabarte en 1651: son dos mujeres. Leinztarra asigna el bautismo de 1619 a María y no da fecha ni padres a Mari Miguel. No se cambia sin decisión de la familia; la hermana María no se menciona entre los hermanos.",
+    "Joan Landaburu Guridi. El segundo apellido y los padres que da Leinztarra (Juan Landaburu Sustaeta y María Guridi Arteaga) dependen de identificarlo con el Juan Landaburu Arteaga casado en 1602 con Catalina Ocharcoaga. Esa pareja bautizó una hija en Oñati el 19-09-1612, dos meses después de la boda de Juan Landaburu y Ana Guinea en Garagartza, de modo que son dos hombres. No se añaden esos padres.",
+    "María Junquera. Viuda de Cristóbal Unzueta en 1799; es probable que sea la madre de Manuel Unzueta, pero ningún documento consultado lo dice. Se añade como cónyuge, sin enlazarla como madre.",
+    "Fechas de nacimiento. Las fechas del documento familiar coinciden con las fechas de bautismo del índice. Se añaden los bautismos y se conservan las fechas de nacimiento confirmadas por la familia."
+  ],
+  "notFound": [
+    "Matrimonio y defunción de Christobal Unzueta Zabarte, y cualquier otro asiento de Ysabela Ormacho Rodríguez: el apellido Ormacho no aparece en ningún otro registro vasco. El bautismo de Pascuala (07-04-1723) tampoco consta: la familia salió del País Vasco después de enero de 1721.",
+    "Padres de Martin Unceta Aguinaga y Gracia Çirarrusta Gaztelueta: los libros de Eibar empiezan en 1601 y están parcialmente quemados.",
+    "Padres de Juan Fuldain-Amezqueta (apellido materno Irigoyen según un asiento de 1625) y de Antonia Egurbide Zigorondo: no hay bautismos Egurbide en Arrasate antes de 1604.",
+    "Bautismo y matrimonio de Domingo Zabarte, y padres de Juan Zabarte y María Pérez de Ibieta-Arteaga: los libros de Udala empiezan en 1628.",
+    "Origen de Ana Guinea.",
+    "El índice no recoge los nombres de pila de los abuelos, solo sus apellidos; los asientos originales, que sí pueden nombrarlos, se obtienen en copia del Archivo Histórico Diocesano de San Sebastián."
+  ]
+}

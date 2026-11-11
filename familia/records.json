@@ -4223,7 +4223,9 @@
         {
           "spouse": "ines-martin-marques",
           "date": "1779-06-21",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Con dispensa de tercer y cuarto grado de consanguinidad.",
+          "transcription": "Alonso Brioso e Ynés Martín.\n\nEn el lugar de Morales a veinte y un días del mes de Junio de mil setecientos setenta y nuebe años, yo Dn Casimiro Flórez, cura theniente de este lugar, asistí al matrimonio que in facie eclesie contrageron Alonso Brioso Cabrero, mozo soltero, hijo legítimo de Balthasar Brioso y de Cathalina Cabrero, vecinos y naturales de este lugar, y Ynés Martín, del mismo estado, hija legítima de Esteban Martín y María Marqués, todos de la misma vecindad y naturaleza, precedidas el examen de la doctrina christiana y las tres canónicas moniciones que dispone el Sto Concilio, de las que no resultaron más impedimentos que los dos de tercero y quarto grado de consanguinidad, de los que obtubieron dispensación por bulla de nuestro SSmo Pe y Señor Pío por la divina providencia Papa Sexto, según me consta por despacho del Sr Dn Miguel de Minguela, Provisor y Vicario General de la ciudad de Zamora y su obispado, firmado en diez y nuebe de dho mes y año ante Dn Alonso Sánchez Balboa, notario mayor de la Audiencia Episcopal de Zamora. Fueron testigos Dn Franco Marqués y Félix de Mena y lo firmé. Dn Casimiro Flórez, thente de cura."
         }
       ],
       "mother": "catalina-cabrero-marques-brioso",
@@ -4255,7 +4257,9 @@
         {
           "spouse": "alonso-brioso-cabrero",
           "date": "1779-06-21",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Con dispensa de tercer y cuarto grado de consanguinidad.",
+          "transcription": "Alonso Brioso e Ynés Martín.\n\nEn el lugar de Morales a veinte y un días del mes de Junio de mil setecientos setenta y nuebe años, yo Dn Casimiro Flórez, cura theniente de este lugar, asistí al matrimonio que in facie eclesie contrageron Alonso Brioso Cabrero, mozo soltero, hijo legítimo de Balthasar Brioso y de Cathalina Cabrero, vecinos y naturales de este lugar, y Ynés Martín, del mismo estado, hija legítima de Esteban Martín y María Marqués, todos de la misma vecindad y naturaleza, precedidas el examen de la doctrina christiana y las tres canónicas moniciones que dispone el Sto Concilio, de las que no resultaron más impedimentos que los dos de tercero y quarto grado de consanguinidad, de los que obtubieron dispensación por bulla de nuestro SSmo Pe y Señor Pío por la divina providencia Papa Sexto, según me consta por despacho del Sr Dn Miguel de Minguela, Provisor y Vicario General de la ciudad de Zamora y su obispado, firmado en diez y nuebe de dho mes y año ante Dn Alonso Sánchez Balboa, notario mayor de la Audiencia Episcopal de Zamora. Fueron testigos Dn Franco Marqués y Félix de Mena y lo firmé. Dn Casimiro Flórez, thente de cura."
         }
       ]
     },
@@ -5666,7 +5670,15 @@
         "note": "Iglesia de Santa María la Nueva."
       },
       "father": "matias-carrasco",
-      "mother": "juana-gil"
+      "mother": "juana-gil",
+      "burial": {
+        "place": "Casaseca de las Chanas",
+        "note": "Entierro el 9 de septiembre, año sin precisar (entre 1761 y 1766). Con el hábito de San Francisco.",
+        "transcription": "Jopha Carrasco.\n\nEn nueve de Sepe de dho año fue sepultada en la Parrochial de este lugr de Casasca de las Chans con el hávito de mi P. Sn Franco Josepha Carrasco mugr que fue de Agustín de Llamas. Recivió los santos sacramentos, otorgó su testamto ante Bernº Alonso ssno y en él dispuso se la hiziesen los tres oficios acostumbrados, se la ofrende año y día según costumbre y se la digan las tres missas de indulgencia. Dejó por testamentario ha Agustín de Llamas su marido y por herederos a sus hijos y así para que conste lo firmo dho día, mes y año. El Barme Díez."
+      },
+      "observations": [
+        "La partida de entierro la llama mujer de Agustín de Llamas, su testamentario, y nombra herederos a sus hijos."
+      ]
     },
     {
       "id": "francisco-perez",
@@ -6811,7 +6823,9 @@
         {
           "spouse": "catalina-cabrero-marques-brioso",
           "date": "1748-05-29",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Con dispensa de consanguinidad en cuarto con cuarto y tercero con cuarto grado. Velados el mismo día.",
+          "transcription": "Dn Baltasar Brioso y Dª Cathalina Cabrero.\n\nEn veinte y nueve de Mayo de mil setezs y quarenta y ocho años, yo Dn Alonso Cabrero, presbítero, de lizenzia de Dn Antº Cabrero, cura propio deste lugar de Morales, aviendo prezedido las tres canónicas moniziones que dispone el Sto Conzilio y manda nra Me la Yglesia, y aviendo sido dispensados en quarto con quarto y terzero con quarto de consanguinidad por su Sd Benedicto Catorze, por el ofizio de Dn Alonso de Torres López en veinte y seis días del mes de Abril de dicho año, y no haviendo resultado más impedimento que los dispensados, asistí al matrimonio que por palabras de presente contrageron Dn Baltasar Brioso, mozo soltero, hijo lexítimo de Juan Brioso y María Marqués, y Dª Cathalina Cabrero, hija lexítima y moza soltera de Franco Cabrero, difunto, e Inés Marqués, todos nles y vzºs deste lugar, y en este mismo día los velé según orden de nra Sta Me Yglesia, a que fueron testigos Dn Joseph García, cura de Jambrina, Dn Juan Cabrero y Alonso Brioso, vzºs deste lugar, y para que conste lo firmé. Dn Alonso Cabrero. Dn Antº Cabrero."
         }
       ],
       "death": {
@@ -7934,7 +7948,17 @@
         }
       ],
       "father": "manuel-sebastian-padre-de-manuel-sebastian",
-      "mother": "isabel-lorenzo"
+      "mother": "isabel-lorenzo",
+      "burial": {
+        "date": "1761-08-31",
+        "place": "Villadepera",
+        "note": "De gradas abajo.",
+        "transcription": "Manl Sebastián.\n\nEn treinta y uno de Agosto del año de mil setecientos y sesenta y uno se enterró en esta Yglesia Parrl de Villadepera, de gradas abajo, Manl Sebastián, vecino que fue de dho lugar. Murió el día antecedente, aviendo recivido los Stos Sactos de la Penitencia, Eucharistía y Extrema unción. Hizo testamento ante Andrés Huertos, fiel de fhos de este lugar, en que tomó para bien de su ánima catorze ducados, de que an de salir los derechos parroquiales de la misa de entierro, ofrenda de las misas y un novenario de misas cantadas con vigilias. Dejó por testamentarios a Manl Blanco y Manl Velasco y a mí el Arcipreste; para que conste lo firmé. Dn Domingo Pasqual."
+      },
+      "death": {
+        "date": "1761-08-30",
+        "place": "Villadepera"
+      }
     },
     {
       "id": "teresa-martin",
@@ -8299,7 +8323,9 @@
         {
           "spouse": "baltasar-brioso",
           "date": "1748-05-29",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Con dispensa de consanguinidad en cuarto con cuarto y tercero con cuarto grado. Velados el mismo día.",
+          "transcription": "Dn Baltasar Brioso y Dª Cathalina Cabrero.\n\nEn veinte y nueve de Mayo de mil setezs y quarenta y ocho años, yo Dn Alonso Cabrero, presbítero, de lizenzia de Dn Antº Cabrero, cura propio deste lugar de Morales, aviendo prezedido las tres canónicas moniziones que dispone el Sto Conzilio y manda nra Me la Yglesia, y aviendo sido dispensados en quarto con quarto y terzero con quarto de consanguinidad por su Sd Benedicto Catorze, por el ofizio de Dn Alonso de Torres López en veinte y seis días del mes de Abril de dicho año, y no haviendo resultado más impedimento que los dispensados, asistí al matrimonio que por palabras de presente contrageron Dn Baltasar Brioso, mozo soltero, hijo lexítimo de Juan Brioso y María Marqués, y Dª Cathalina Cabrero, hija lexítima y moza soltera de Franco Cabrero, difunto, e Inés Marqués, todos nles y vzºs deste lugar, y en este mismo día los velé según orden de nra Sta Me Yglesia, a que fueron testigos Dn Joseph García, cura de Jambrina, Dn Juan Cabrero y Alonso Brioso, vzºs deste lugar, y para que conste lo firmé. Dn Alonso Cabrero. Dn Antº Cabrero."
         }
       ],
       "death": {
@@ -8981,10 +9007,11 @@
     },
     {
       "id": "susana-prieto",
-      "name": "Susana Prieto",
+      "name": "Susana Prieto Grande",
       "givenNames": "Susana",
       "surnames": [
-        "Prieto"
+        "Prieto",
+        "Grande"
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
@@ -9002,7 +9029,14 @@
         "place": "Casaseca de las Chanas",
         "note": "Entierro el 12 de julio, año sin precisar.",
         "transcription": "Susana.\n\nEn doce de Julio enterré a Susana mugr de Lucas Hez. Llevó los Santos Sacramentos y hiço testamento de catorce ducados; testamentario su dicho marido y por berdad lo firmé. Ldo Moreno."
-      }
+      },
+      "baptism": {
+        "date": "1627-03-28",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Susana, hija de [ilegible].\n\nEn beynte y ocho de março de mil y seysçientos y beynte y siete años yo Pedro Alonso, cura tiniente deste lugar, bapticé a Susana, hija de Juº Prieto y de Ysabel Grande su muger. Fue padrino de pila Juan Lorenzo; testigos Juan [ilegible], todos vzºs del dicho lugar, y lo firmé. Pedro Alonso."
+      },
+      "father": "juan-prieto",
+      "mother": "isabel-grande"
     },
     {
       "id": "catalina-nieto",
@@ -9720,7 +9754,8 @@
       },
       "observations": [
         "La partida de fallecimiento nombra herederos a sus hijos María y Alonso Rodríguez, del primer matrimonio, y a Isabel, Catalina, Manuel, Juan, Gregorio y Susana Rodríguez, del segundo; testamentarios, su hijo Alonso y su yerno Andrés Pérez."
-      ]
+      ],
+      "mother": "susana-perez-delgado"
     },
     {
       "id": "juan-rodriguez-padre-de-juan-rodriguez-perez",
@@ -10226,6 +10261,14 @@
           "date": "1713-02-27",
           "place": "Malillos"
         }
+      ],
+      "burial": {
+        "date": "1754-09-25",
+        "place": "Gáname",
+        "transcription": "Domingo Fierro.\n\nEn el Lugar de Gáname a veinte y cinco de Sepre de mil setezs cinqta y quatro, yo el infrascripto cura propio de él enterré (arriba) a Domingo Fierro, viudo de Ana Piorno, vezino de él. Recivió los Stos Sacramtos e hizo una Memoria simple de su última voluntad, la que después de su fenecimto sus herederos (que abajo se expresarán) redujeron a scripra pública y se authorizó por la Rl Justª de Zamora [ilegible] ante Juan Crespo, ssno del númº de ella, [ilegible] después de haver sido notificados con un despacho librado por el Sr Provr de este obispdo [ilegible] ante Dn Pedro Moreno Cármenes, notº mor del Tribunal eclesº de dha ciud, en que se daba comon al cura propio de este lugar para liquidar el quinto de los bienes que dejó dho Fierro, mediante los defectos substanciales que tenía la referida Memoria, los que puse en consideron de dho Sr Provisor, y por haverse negado los referidos herederos a presentarla ante mí [ilegible] para el cura actual pª que practicara tal dilixª; en cuia atención, y en la de allarse dho cura con facultad verbal de los Sres Provisores [ilegible], para que escusando pleitos [ilegible] los dhos herederos el modo de transijirlos, se combinieron en pagar los dros parrochiales y novenario de misas cantadas con vigilia [ilegible], según consta de la citada Memoria; y atendiendo a la calidad y caudal del dho Domingo se obligaron igualmte a aprontar quatrocientos y cinqta rs vn para que el cura actual los distribuiera a su arbitrio en misas y oficios pr el alma de dho difunto, tasando sus limosnas según su voluntad. Dcha obligon la hicieron Joseph Fierro, Alonso [ilegible], Andrés Guarido, Alonso Santos y Manuel Piorno, vezos de este lugar, el de Fadón [ilegible], hijo y hiernos respective de dho Domingo Fierro y, como tales, herederos de los bienes que dejó pr su fallecimto, la que firmaron los que supieron. Entregados que sean dhos mrs se hará la distribuzon de ellos en sufragios pr el ánima del susodho, con la justificazon y arreglo prudente, y se pondrá una anotazon a la margen de esta cláusula. Se previene que dho papel de obligazon lo hicieron en este lugr a ocho de Dizre de este preste año de la fecha, y pª que conste lo firmo en él a diez y ocho de dho mes de Dizre y año referido. Thomás [ilegible] de Carredo."
+      },
+      "observations": [
+        "La partida de entierro lo llama viudo de Ana Piorno y nombra herederos a su hijo José Fierro y a cuatro yernos."
       ]
     },
     {
@@ -10491,6 +10534,11 @@
       ],
       "birth": {
         "place": "Gáname"
+      },
+      "death": {
+        "date": "1703-11-26",
+        "place": "Gáname",
+        "transcription": "Blas Gonzalo.\n\nMurió Blas Gonzalo, vecino deste lugar de Ganame, en veinte y seis días del mes de nobiembre de dho año de mill setecientos y tres. Hizo testamto ante mí el cura deste lugr, tomó por su alma trecientos Rs como consta de su testamto con las cláusulas en él expresadas. Dejó por sus testamentarios a Pablo Herrero, vecino deste lugr, y a Miguel Benito su hermano, vecino del lugr de Fresnadillo, y para que conste lo firmé. Ldo Joseph Rodríguez."
       }
     },
     {
@@ -11178,8 +11226,10 @@
       "marriages": [
         {
           "spouse": "maria-marques-madre-de-baltasar-brioso",
-          "date": "1708-10-11",
-          "place": "Morales del Vino"
+          "date": "1708-02-20",
+          "place": "Morales del Vino",
+          "note": "Velados el 11 de octubre de 1708.",
+          "transcription": "Juan Brioso y María Marqués.\n\nA veinte días del mes de febrero de mill setezºs y ocho años, yo el Ldo Germo de Lluelmo, cura proprio deste lugr de Morales, haviendo precedido las tres moniciones que manda el Sto Conzilio Tridentino al ofretorio de la misa del pueblo y no haviendo resultado impedimento alguno, desposé por palabras de presente que hazen verdadero matrimonio a Juan Brioso, mozo soltero, hixo lexmo de Franco Brioso y de María de Lluelmo, difunctos, y a María Marqués, moza soltera, hixa lexma de Juan Marqués y de María Esteba, difuncta, vzºs todos deste lugr de Morales, a que fueron testigos Don Juan Brioso, cura de la Sta Yglª Cathl de Zamora, Luis Martín y Franco [ilegible], vzºs así mismo deste dho lugr, y para que conste lo firmé. Ldo Germo de Lluelmo.\n\nEn 11 de otubre velé a los contenidos en esta cláusula y lo firmé. Germo de Lluelmo."
         }
       ],
       "father": "francisco-brioso",
@@ -11249,8 +11299,10 @@
       "marriages": [
         {
           "spouse": "juan-brioso",
-          "date": "1708-10-11",
-          "place": "Morales del Vino"
+          "date": "1708-02-20",
+          "place": "Morales del Vino",
+          "note": "Velados el 11 de octubre de 1708.",
+          "transcription": "Juan Brioso y María Marqués.\n\nA veinte días del mes de febrero de mill setezºs y ocho años, yo el Ldo Germo de Lluelmo, cura proprio deste lugr de Morales, haviendo precedido las tres moniciones que manda el Sto Conzilio Tridentino al ofretorio de la misa del pueblo y no haviendo resultado impedimento alguno, desposé por palabras de presente que hazen verdadero matrimonio a Juan Brioso, mozo soltero, hixo lexmo de Franco Brioso y de María de Lluelmo, difunctos, y a María Marqués, moza soltera, hixa lexma de Juan Marqués y de María Esteba, difuncta, vzºs todos deste lugr de Morales, a que fueron testigos Don Juan Brioso, cura de la Sta Yglª Cathl de Zamora, Luis Martín y Franco [ilegible], vzºs así mismo deste dho lugr, y para que conste lo firmé. Ldo Germo de Lluelmo.\n\nEn 11 de otubre velé a los contenidos en esta cláusula y lo firmé. Germo de Lluelmo."
         }
       ],
       "birth": {
@@ -11286,8 +11338,12 @@
         {
           "spouse": "ines-marques",
           "date": "1710-02-27",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "transcription": "Franco Cabrero Luelmo y Ynés Marqués. Velados.\n\nEn beyente y siette días del mes de febrero de mil siette cientos y diez, yo el Ldo Juan de Medina, tente cura deste lugar de Morales, abiendo precedido las tres admonestaciones que dispone el Santo Concilio de Trento y no abiendo rezultado impedimento alguno, desposé y velé in facie eclezie a Franco Cabrero y Ines Marqués, mossos solteros, vzºs deste lugar, a que fueron testigos Juan de Luelmo Pérez, Alonso Hernandes y Caetano Carpintero y para que conste lo firmé. Ldo Juan de Medina."
         }
+      ],
+      "observations": [
+        "La partida de matrimonio de su hija Catalina (29-05-1748) lo da por difunto."
       ]
     },
     {
@@ -11301,7 +11357,8 @@
         {
           "spouse": "francisco-cabrero",
           "date": "1710-02-27",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "transcription": "Franco Cabrero Luelmo y Ynés Marqués. Velados.\n\nEn beyente y siette días del mes de febrero de mil siette cientos y diez, yo el Ldo Juan de Medina, tente cura deste lugar de Morales, abiendo precedido las tres admonestaciones que dispone el Santo Concilio de Trento y no abiendo rezultado impedimento alguno, desposé y velé in facie eclezie a Franco Cabrero y Ines Marqués, mossos solteros, vzºs deste lugar, a que fueron testigos Juan de Luelmo Pérez, Alonso Hernandes y Caetano Carpintero y para que conste lo firmé. Ldo Juan de Medina."
         }
       ],
       "birth": {
@@ -12017,8 +12074,13 @@
       ],
       "death": {
         "date": "1744-03-12",
-        "place": "Roales"
-      }
+        "place": "Roales",
+        "note": "Testó el 10 de marzo de 1744. Enterrado de grada abajo.",
+        "transcription": "Manl Girón.\n\nEn doce días del mes de Marzo deste preste año de mill setecientos y quarenta y quatro murió en este lugar de Roales Manuel Girón, viudo, vezº de él. Recibió los Stos Sacramentos, otorgó testamento ante mí el infrascripto cura en diez días de dho mes y año, en el que tomó por su alma docientos y cinquenta rs vllon, y se enterró en esta Yglesia Parrochial de grada abajo, y para que conste lo firmé dho día, mes y año. Joseph Villamor."
+      },
+      "observations": [
+        "La partida de fallecimiento lo llama viudo."
+      ]
     },
     {
       "id": "gabriel-martin",
@@ -12903,7 +12965,13 @@
         "place": "Figueruela de Abajo"
       },
       "father": "santiago-carretero",
-      "mother": "maria-arias"
+      "mother": "maria-arias",
+      "burial": {
+        "date": "1778-03-18",
+        "place": "Peleas de Arriba",
+        "note": "Pobre de solemnidad.",
+        "transcription": "Esteban Carretero. Pobre.\n\nEn diez y ocho de marzo del año de mill setecientos setenta y ocho, yo el infraescripto Religioso de Sn Bernardo del monasterio de Balparaíso, con comisión y por enfermedad del Sr Cura de Fuentes el Carnero y su anejo Peleas de Arriba, di sepultura eclesiástica en dho lugar de Peleas a Esteban Carretero, pobre de solemnidad y vecino que fue de dho lugar. Recibió los Stos Sacramtos de penitencia, viático y extrema unción; no hizo testamto por ser pobre y no tener de qué, y pª que conste lo firmé en dho día, mes y año ut supra. Fr. Jacobo Ferrer."
+      }
     },
     {
       "id": "maria-arias",
@@ -13012,7 +13080,20 @@
         "place": "Villanueva de Campeán"
       },
       "father": "manuel-hernandez-padre-de-casilda-hernandez",
-      "mother": "ana-lachon"
+      "mother": "ana-lachon",
+      "burial": {
+        "date": "1780-10-26",
+        "place": "Peleas de Arriba",
+        "note": "Junto al confesonario del cancel.",
+        "transcription": "Casilda Hernz. Adulta.\n\nEn veinte y seis de Octubre de mil setecientos y ochenta, yo el infraescripto Thente Cura di sepultura eclesiástica junto al confesonario del cancel a Casilda Hernández, viuda que quedó de Lorenzo Gutiérrez; no recibió sacramento alguno por no le haver dado lugar el accidente; murió el día veinte y quatro de dho mes; no hizo testamento, hízosele los oficios de entierro, honrras y cabo de año según costumbre; asistieron a ellos tres sacerdotes y yo el Thente; se le dijeron seis misas votibas; se le ofrendó según estilo del lugar; quedaron por herederos Fernando, Juan y Franca Pérez sus hijos y por verdad lo firmo. Dn Franco Lobato."
+      },
+      "death": {
+        "date": "1780-10-24",
+        "place": "Peleas de Arriba"
+      },
+      "observations": [
+        "La partida de entierro la llama viuda de Lorenzo Gutiérrez y nombra herederos a sus hijos Fernando, Juan y Francisca Pérez."
+      ]
     },
     {
       "id": "juan-matos",
@@ -13322,14 +13403,21 @@
           "place": "Casaseca de las Chanas",
           "transcription": "Año de 1653. Luis Alº con Susana Pérez.\n\nEn primº de marzo de mill y seiscientos y cinqta y tres años desposé y belé in facie eclesie a Luis Alº con Susana Pérez, aviendo precedido las amonestaciones a la forma del Sto C. Fueron testigos Bautista Juan y Juº Pérez y lo firmé de mi nombre. Ldo Moreno."
         }
-      ]
+      ],
+      "burial": {
+        "date": "1666-08-17",
+        "place": "Casaseca de las Chanas",
+        "note": "Murió abintestato.",
+        "transcription": "Luis Alº. Hecho entierro, honrras, cabo de año y nobenario.\n\nEn diez y siete de agosto de mill y seiscientos y sesenta y seis años enterré a Luis Alº. Murió abintestato y por verdad lo firmé. Ldo Moreno."
+      }
     },
     {
       "id": "susana-perez",
-      "name": "Susana Pérez",
+      "name": "Susana Pérez Galán",
       "givenNames": "Susana",
       "surnames": [
-        "Pérez"
+        "Pérez",
+        "Galán"
       ],
       "marriages": [
         {
@@ -13347,7 +13435,14 @@
         "place": "Casaseca de las Chanas",
         "note": "La partida no expresa el año; por su lugar en el libro corresponde a 1700. Enterrada en la capilla mayor, con el hábito de San Francisco.",
         "transcription": "Susana Pérez. Capilla mayor. Testamentario D. Pedro Pérez [ilegible].\n\nEn cinco de agosto murió Susana Pérez. Rezivió los Santos Sacramentos, enterrose en esta iglesia en la capilla mayor. Iço testamento cerado ante Manuel Díez escribano de Çamora. Tomó por su alma mil i ocho cientos reales i que asistan a su entierro, onrras i cabo de año diez sacerdotes i se entiere con el ábito de San Franco, se le ofrezca en cada uno de los ofiçios con una fanega de trigo i ardan a cada ofiçio diez achas con la zera menuda nezesaria, se le ofrenden dos años con la ofrenda acostunbrada i que se le digan dos nobenarios rezados i un treintanario rezado i se entiere con el ábito de San Franco i se den tres caridades de pan cozido a media carga en cada uno de los tres ofizios a los pobres deste lugar i a los que se llegaren en cada uno de dichos ofiçios, que inporta carga i media de pan. Se den de limosna a los relixiosos de nuestra señora del Carmen descalzo beinte i zinco reales porque ruegen a Dios por mi alma, y otros beinte i zinco reales al santo Xpto de Morales y a nuestra señora del Biso beinte reales; i que se digan en santo Domingo de la ziudad de Çamora cinquenta misas, digo en el conbento del Carmen de dicha ziudad otras, y las demás las repartan mis testamentarios entre los sazerdotes que asistieren a mi entierro i entre las comunidades de S. Jerónimo, santo Domingo, san Franco i la Santísima Trinidad de Zamora, reserbando la quarta funeral para el Sr cura y lo firmé. Dn Joseph de Miranda."
-      }
+      },
+      "baptism": {
+        "date": "1627-11-09",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Susana, hija de Antón Pérez.\n\nEn nuebe de nre del dho año de 1627 bapticé a Susana, hija de Antón Pérez y Mª Galana su muger. Fue padrino de pila Alº Jurado y por berdad lo firmé. Phe Sánchez."
+      },
+      "father": "anton-perez",
+      "mother": "maria-galan-madre-de-susana-perez"
     },
     {
       "id": "juan-perez-padre-de-emerenciana-perez",
@@ -13904,7 +13999,9 @@
       },
       "death": {
         "date": "1704-09-28",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "Enterrada de grada arriba.",
+        "transcription": "Dorotea. Teodora. Cumpdo.\n\nEn veinte y ocho de septienbre de mil setecientos y quatro murió Dorotea Alonso, muger de Juan Rodríguez. Recibió los santos sacramentos, no hiço testamento, enterrose de grada arriba. Hiçose los tres oficios de intierro, onrras y cabo de año con toda solenidad, con diáconos, achas y cera menuda necesaria; tanvién se le hiço un nobenario de misas cantadas con bigilia de difuntos y ofrenda y un treintanario de misas reçadas, todo lo qual me consta y para que conste lo firmo como cura teniente. Domingo Bernabé."
       },
       "father": "marcos-alonso",
       "mother": "josefa-delgado-madre-de-teodora-alonso",
@@ -13919,7 +14016,10 @@
       "baptism": {
         "date": "1668-02-08",
         "transcription": "En ocho días del mes de febrero de mil seiscientos y sesenta y ocho años bapticé y puse los santos óleos a Theodora hija lexítima de Marcos Alonso y de Josepha Delgado. Fue su padrino [ilegible] vecino de Zamora y madrina D.ª Ana de [ilegible], testigos [ilegible] y por verdad lo firmé [ilegible]."
-      }
+      },
+      "observations": [
+        "La partida de fallecimiento la llama Dorotea Alonso; una nota al margen corrige el nombre: Teodora."
+      ]
     },
     {
       "id": "marcos-alonso",
@@ -13939,10 +14039,11 @@
     },
     {
       "id": "francisco-gonzalez",
-      "name": "Francisco González",
+      "name": "Francisco González Pérez",
       "givenNames": "Francisco",
       "surnames": [
-        "González"
+        "González",
+        "Pérez"
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
@@ -13960,7 +14061,15 @@
         {
           "spouse": "maria-linares-mujer-de-francisco-gonzalez"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1646-09",
+        "place": "Casaseca de las Chanas",
+        "note": "El día termina en nueve; el comienzo de la partida no se lee.",
+        "transcription": "[ilegible] hijo de Franco González.\n\n[ilegible] 9 de setienbre de 1646 años bauticé yo Manuel Rodrígez Moreno, cura deste lugar de Casaseca de las Chanas, a Francisco Gonzalez y de Catalina Pérez su muger. Fue su padrino Alonso Jurado; testigos Pº Madaleno y Domingo Bueno, sacristán del dicho lugar, y lo firmé. Ldo Manuel Rz [ilegible]."
+      },
+      "father": "francisco-gonzalez-padre-de-francisco-gonzalez",
+      "mother": "catalina-perez"
     },
     {
       "id": "isabel-vara-madre-de-francisca-gonzalez",
@@ -14170,10 +14279,11 @@
     },
     {
       "id": "antonio-moreno",
-      "name": "Antonio Moreno",
+      "name": "Antonio Moreno Isidro",
       "givenNames": "Antonio",
       "surnames": [
-        "Moreno"
+        "Moreno",
+        "Isidro"
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
@@ -14200,7 +14310,14 @@
       },
       "observations": [
         "El margen de su partida de fallecimiento lo llama marido de María Zamora, con quien casó después de enviudar de Catalina Morales."
-      ]
+      ],
+      "baptism": {
+        "date": "1642-02-15",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Antº, hijo de Antº Moreno.\n\nEn quinze días del mes de febº de seysçientos y quarenta y dos años bapticé yo el Ldo Marcos de Vizcaya, cura propio deste lugar de Casaseca de las Chanas, a Antón, hijo de Antº Moreno y de Mª Ysidra. Fue su padrino Juº de [ilegible]; testigos Juº Bueno [ilegible] Juº Bueno, vzºs deste lugar, y lo firmé. El Ldo Marcos de Vizcaya."
+      },
+      "father": "antonio-moreno-padre-de-antonio-moreno",
+      "mother": "maria-isidro"
     },
     {
       "id": "catalina-morales-madre-de-gregoria-moreno",
@@ -14234,6 +14351,11 @@
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
+      },
+      "death": {
+        "date": "1697-10-12",
+        "place": "Casaseca de las Chanas",
+        "transcription": "1697.\n\nAndrés Rs. Pobre.\n\nEn doce de otubre murió Andrés Rs. Pobre. Recivió los Stos sacramentos y enterrose en esta iglesia i lo firmé. Dn Joseph de Miranda."
       }
     },
     {
@@ -14245,6 +14367,23 @@
       ],
       "birth": {
         "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1646",
+        "place": "Casaseca de las Chanas",
+        "note": "Antes del 26 de mayo de 1646; la partida no expresa el día.",
+        "transcription": "Franca, hija de Andrés Corralino y de Pasquala Delgada.\n\n[ilegible] del dho mes y año yo el dho cura bauticé a Franca, hija de Andrés Corralino y de Pasquala Delgada. Fue su padrino Juº García de la Laguna; testigos Juº Bueno mayor y [ilegible] Plaza y lo firmé dho día, mes y año. Ldo Marcos de Vizcaya."
+      },
+      "father": "andres-corralino",
+      "mother": "pascuala-delgado",
+      "observations": [
+        "Las partidas de bautismo y de entierro la llaman Francisca Corralino (Corralina)."
+      ],
+      "burial": {
+        "date": "1709-11-24",
+        "place": "Casaseca de las Chanas",
+        "note": "De las columnas abajo.",
+        "transcription": "Franca Corralina. Pobre.\n\nEl día ventiquatro de Nobe deste preste año de mill setezs y nuebe se enterró en esta Ygla Franca Corralina, biuda de Andrés Rs, vzº deste lugar, y solo pudo rezivir la Santa Unción. No testó por ser pobre; enterrose de las columnas abajo y lo firmé. Manl Basilio Barba Santos."
       }
     },
     {
@@ -14306,8 +14445,16 @@
       ],
       "birth": {
         "date": "1663-09-22",
-        "place": "Casaseca de las Chanas"
-      }
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      },
+      "baptism": {
+        "date": "1663-09-22",
+        "place": "Casaseca de las Chanas",
+        "transcription": "María Pérez.\n\nEn veinte y dos de setiembre de mil y seis y sesenta y tres años yo el Ldo Pedro Pérez, clérigo presbítero vzº deste lugar, de horden de el cura bauticé y puse los Santos olios a María, hija de Mateo Pérez y Manuela Delgado, sus legítimos padres, vzºs deste lugar. Fue su padrino Alexo Rodríguez y madrina María Delgado su muger; tºs Custodio García sacristán y Domº Martín y en fee dello lo firmé. Ldo Pedro Pérez."
+      },
+      "father": "mateo-perez-padre-de-maria-perez-delgado",
+      "mother": "manuela-delgado"
     },
     {
       "id": "lucas-de-paz",
@@ -15067,7 +15214,15 @@
         "place": "Casaseca de las Chanas",
         "note": "En la primera sepultura junto a la columna del arco de la pila del agua bendita de la puerta principal.",
         "transcription": "Ysabel Urueña mugr de Antº Morales.\n\nEn cinco días del mes de Junio de mil setezs y treinta y uno, yo el dho Cura Dn Juan de León enterré en esta Ygla a Ysabel de Urueña muger de Antº Morales vzº deste lugr. Rezivió los santos sacramtos, hizo testamento ante Andrés Moreno vzº deste lugr y mandó en él se le hiziesen los tres oficios, entierro, honrras y cavo de año, y se le ofrendase su sepoltura todos los días festivos durante un año con una oblada de dos libras y una zerilla al estilo del lugar. Señaló su sepoltura a boluntad de el Sr Cura, y se pagase su rompimiento a la fábrica. No dejó asistencia de sazerdotes, solo el Sr Cura, resto dejándolo a la boluntad de su marido. Enterrose en la sepoltura primera que está a la coluna del arco de la pila del agua bendita de la puerta principal de esta Ygla. Dejó por herederos a sus hijos y testamentº su marido. Mandó una misa a nra Sra de la Peña de Francia, y por ser berdad lo firmé ut supra. Juan Hernández de León.\n\nHiziéronsele los tres oficios acostumbrados. León."
-      }
+      },
+      "baptism": {
+        "date": "1680-08-05",
+        "place": "Moraleja del Vino",
+        "transcription": "Ysabel.\n\nEn cinco días del mes de Agosto de mil y seisos y ochenta años yo Marcos de Remesal, cura thente deste lugar de Moraleja, bauticé solemnemte y puse los Stos olios a Ysabel, hija de Luis de Urueña y de María Alexandro, sus padres ligítimos. Fueron sus padrinos Antº Abedillo y Mª Grande, mugr de Thomás Montalvo, y les advertí de la obligon de enseñar la doctrina xptiana al dho baptizado y del spiritual parentesco. Testigos Pedro de Moncayo, Luis Simón y Thomás Montalvo, todos vzºs de dho lugar, y lo firmé ut supra. Marcos de Remesal."
+      },
+      "observations": [
+        "La partida de bautismo llama a su madre María Alexandro; la de matrimonio, María de Arenas."
+      ]
     },
     {
       "id": "luis-de-uruena",
@@ -15105,7 +15260,8 @@
       },
       "death": {
         "date": "1750-09-22",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "Murió de repente."
       },
       "marriages": [
         {
@@ -15116,7 +15272,12 @@
         }
       ],
       "father": "manuel-moreno",
-      "mother": "ana-morales"
+      "mother": "ana-morales",
+      "burial": {
+        "date": "1750-09-23",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Phelipe Moreno.\n\nEn veinte y tres de Septiembre de mil setezs y cinqta fue sepultado en la parroql deste lugr de Casaseca de las Chans Phelipe Moreno, vzº dél. Murió de repente, y así no recivió los Stos Sacramtos ni hizo testamto; no se le ha celebrado más sufragio que el del entierro y con missa rezada, y para que conste lo firmo dhos día, mes y año. Br Thomás Ventura de Martas."
+      }
     },
     {
       "id": "manuel-moreno",
@@ -15498,7 +15659,8 @@
       },
       "death": {
         "date": "1702-09-13",
-        "place": "Gáname"
+        "place": "Gáname",
+        "transcription": "Blas Salvador.\n\nMurió Blas Salvador, vecino deste lugr, en trece días del mes de septe de dho año de mill setecientos y dos. Enterrose en la Yglesia de el dho lugr; tomó por su alma ocho ducados; dejó por testamentarios a Santiago Vega y Joan Crespo, vºs deste lugr, y lo firmé. Ldo Joseph Rodríguez."
       }
     },
     {
@@ -16709,7 +16871,10 @@
         "place": "Morales del Vino"
       },
       "father": "francisco-esteban",
-      "mother": "catalina-martin-madre-de-maria-esteban-martin"
+      "mother": "catalina-martin-madre-de-maria-esteban-martin",
+      "observations": [
+        "La partida de matrimonio de su hija María (20-02-1708) la da por difunta."
+      ]
     },
     {
       "id": "francisco-esteban",
@@ -17096,7 +17261,13 @@
         }
       ],
       "father": "miguel-montalvo",
-      "mother": "catalina-martin-madre-de-manuel-montalvo"
+      "mother": "catalina-martin-madre-de-manuel-montalvo",
+      "burial": {
+        "date": "1707-04-06",
+        "place": "Moraleja del Vino",
+        "note": "En la capilla mayor, con hábito.",
+        "transcription": "15. Manuel Montalbo.\n\nEn seis días del mes de abril del año de mil setecientos y siete, abiendo recibido los sacramentos con la Sta unción, se enterró en la capilla maior Manuel Montalbo. Mandó enterrarse con ábito y asistiesen seis sacerdotes a sus oficios, una fanega de trigo, nobenario con ofrenda de misa acostumbrada y sus [ilegible] en todo ducientos Rs [ilegible] de misas y lo firmé. Antº Machargo."
+      }
     },
     {
       "id": "miguel-montalvo",
@@ -17222,7 +17393,7 @@
         "Román"
       ],
       "birth": {
-        "place": "Morales del Vino"
+        "place": "Arcenillas"
       },
       "death": {
         "date": "1739-09-13",
@@ -17232,27 +17403,38 @@
         {
           "spouse": "luisa-perdigon",
           "date": "1695-04-04",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Velados el 23 de noviembre de 1695.",
+          "transcription": "Alonso Román y Luysa de Perdigón.\n\nEn quatro días del mes de Abrill de mill ssos y nobenta y cinco años, yo el Ldo Germo de Luelmo, cura proprio deste lugr de Morales, aviendo precedido las tres admonestaziones que manda el Sto Conzilio Tridentino en tres días festibos al ofretorio de la misa mayor y no haviendo resultado impedimento alguno, desposé por palabras de presente que hazen legítimo matrimonio a Alonso Román, viudo que quedó de Cathalina [ilegible], vzº que fue de la villa de Venialbo y natural del lugr de Arcenillas, y a Luysa de Perdigón, moza soltera, vzª deste lugr, a que fueron testigos Franco de Luelmo, Andrés Perdigón y Roque Carpintero, vzºs deste dho lugr, y para que conste lo firmé. Ldo Germo de Luelmo.\n\nEn 23 de nobe deste año de 95 velé a los contenidos y lo firmé. Ldo Luelmo."
         }
       ],
       "burial": {
         "date": "1739-09-14",
         "place": "Morales del Vino",
         "transcription": "Alonsso Román. Está cumplido. Cabrero.\n\nEn cattorze de Setiembre de mil settezos y treinta y nuebe as se entterró en estta Yglesia Alonsso Román, el qual murió de su muertte nattural, rezivió los Sanctos Sacramentos de Penitenzia, Eucaristía y Extremaunzión. Hizo testtamentto antte Diego Cabrero fiel de fechos de estte lugr y tomó por su alma trezienttos rs vellón y para que constte lo firmo. Dn Antto Cabrero."
-      }
+      },
+      "origins": [
+        "Morales del Vino"
+      ],
+      "observations": [
+        "La partida de matrimonio lo llama viudo, vecino que fue de Venialbo y natural de Arcenillas."
+      ]
     },
     {
       "id": "luisa-perdigon",
-      "name": "Luisa Perdigón",
+      "name": "Luisa Perdigón Aguilar",
       "givenNames": "Luisa",
       "surnames": [
-        "Perdigón"
+        "Perdigón",
+        "Aguilar"
       ],
       "marriages": [
         {
           "spouse": "alonso-roman",
           "date": "1695-04-04",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "note": "Velados el 23 de noviembre de 1695.",
+          "transcription": "Alonso Román y Luysa de Perdigón.\n\nEn quatro días del mes de Abrill de mill ssos y nobenta y cinco años, yo el Ldo Germo de Luelmo, cura proprio deste lugr de Morales, aviendo precedido las tres admonestaziones que manda el Sto Conzilio Tridentino en tres días festibos al ofretorio de la misa mayor y no haviendo resultado impedimento alguno, desposé por palabras de presente que hazen legítimo matrimonio a Alonso Román, viudo que quedó de Cathalina [ilegible], vzº que fue de la villa de Venialbo y natural del lugr de Arcenillas, y a Luysa de Perdigón, moza soltera, vzª deste lugr, a que fueron testigos Franco de Luelmo, Andrés Perdigón y Roque Carpintero, vzºs deste dho lugr, y para que conste lo firmé. Ldo Germo de Luelmo.\n\nEn 23 de nobe deste año de 95 velé a los contenidos y lo firmé. Ldo Luelmo."
         }
       ],
       "birth": {
@@ -17265,7 +17447,14 @@
       },
       "burial": {
         "transcription": "En [ilegible] días del mes de marzo de mill setecientos y veinte y siete se enterró en esta Ygla Luisa Perdigón, aviendo recibido los santos sacramentos de Penitencia, Eucaristía y extrema unción, hizo testamento ante Lázaro López fiel de fechos, dejó por su alma ochocientos rs. Y lo firmé. Testamentario su marido Alonso Román. [firma]."
-      }
+      },
+      "baptism": {
+        "date": "1673-05-24",
+        "place": "Morales del Vino",
+        "transcription": "Luyssa.\n\nEn veinte y quatro días del mes de Mayo de mill ssos y setenta [ilegible] años bapticé solebnemente yo Alonsso Martínez [ilegible] propio deste lugar de Morales a una niña y se llamó Luyssa, [ilegible] lexítima de Alonsso Perdigón y de Luyssa de Aguilar su muger. Fueron padrinos Alonsso Miguel y María Miguel, muger de Pº Carpintero; testigos el Ldo Alonsso Gallego sacristán y Susana de S. Pedro, todos vºs deste dho lugar, y para que conste lo firmé fecho ut supra. Ldo Alº Martínez."
+      },
+      "father": "alonso-perdigon",
+      "mother": "luisa-de-aguilar"
     },
     {
       "id": "alonso-hernandez",
@@ -19231,7 +19420,10 @@
       "marriages": [
         {
           "spouse": "lorenza-cabrero",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "date": "1684-07-31",
+          "note": "Con dispensa de afinidad en cuarto grado por dos partes.",
+          "transcription": "Juan Martín y Lorença Cabrero.\n\nEn treynta y uno de Jullio deste presente año de mill seisçientos y ochenta i quatro, yo el Ldo D. Mn Franco de Olmedo, cura propio del lugar de [ilegible] y cura theniente de Morales, habiendo preçedido liçençia in scriptis del Sr Dr D. Joseph [ilegible], despachada en el ofiçio de Felipe López i en su ausençia firmada de Andrés de la Torre, notario público i del número de Çamora, su data treynta de Junio de dicho año, en que, no obstante el impedimento que [ilegible] para casar a Juan Martín i Lorença Cabrero, los casase en birtud de dicha liçençia por estar dispensado entre los dichos el parentesco de afinidad por dos partes en quarto grado; y usando della, con mi consentimiento espreso que para ello di, el Ldo Franco Martín, presbítero, vº de dicho lugar de Morales, desposó por palabras de presente que haçen legítimo matrimonio, casó i beló in façie eclesie a los dichos Juan Martín i Lorença Cabrero, biuda de Alº Nieto, y el dicho Juan Martín moço soltero, hijo de Pº Mrn i de Inés Esteban; a todo lo dicho fui presente con los testigos, que fueron Juan de Lluelmo, escribano de Millones, Pº Martín i el Ldo Diego de Mena, presbítero, i lo firmé dicho día 31 de Jullio de 84 años. D. Mn Franco de Olmedo."
         }
       ],
       "father": "pedro-martin-padre-de-juan-martin-esteban",
@@ -19263,20 +19455,34 @@
     },
     {
       "id": "lorenza-cabrero",
-      "name": "Lorenza Cabrero",
+      "name": "Lorenza Cabrero de la Calle",
       "givenNames": "Lorenza",
       "surnames": [
-        "Cabrero"
+        "Cabrero",
+        "de la Calle"
       ],
       "marriages": [
         {
           "spouse": "juan-martin-padre-de-francisco-martin-cabrero",
-          "place": "Morales del Vino"
+          "place": "Morales del Vino",
+          "date": "1684-07-31",
+          "note": "Con dispensa de afinidad en cuarto grado por dos partes.",
+          "transcription": "Juan Martín y Lorença Cabrero.\n\nEn treynta y uno de Jullio deste presente año de mill seisçientos y ochenta i quatro, yo el Ldo D. Mn Franco de Olmedo, cura propio del lugar de [ilegible] y cura theniente de Morales, habiendo preçedido liçençia in scriptis del Sr Dr D. Joseph [ilegible], despachada en el ofiçio de Felipe López i en su ausençia firmada de Andrés de la Torre, notario público i del número de Çamora, su data treynta de Junio de dicho año, en que, no obstante el impedimento que [ilegible] para casar a Juan Martín i Lorença Cabrero, los casase en birtud de dicha liçençia por estar dispensado entre los dichos el parentesco de afinidad por dos partes en quarto grado; y usando della, con mi consentimiento espreso que para ello di, el Ldo Franco Martín, presbítero, vº de dicho lugar de Morales, desposó por palabras de presente que haçen legítimo matrimonio, casó i beló in façie eclesie a los dichos Juan Martín i Lorença Cabrero, biuda de Alº Nieto, y el dicho Juan Martín moço soltero, hijo de Pº Mrn i de Inés Esteban; a todo lo dicho fui presente con los testigos, que fueron Juan de Lluelmo, escribano de Millones, Pº Martín i el Ldo Diego de Mena, presbítero, i lo firmé dicho día 31 de Jullio de 84 años. D. Mn Franco de Olmedo."
         }
       ],
       "birth": {
         "place": "Morales del Vino"
-      }
+      },
+      "baptism": {
+        "date": "1657-08-22",
+        "place": "Morales del Vino",
+        "transcription": "Lorença.\n\nEn veinte y dos de agosto de mil y seiscientos y cinquenta y siete años bapticé a Lorença, hija de Franco Cabrero y de Catalina de la Calle. Fueron padrinos Pedro García y Inés Prieta; testigos Antº de Morales y Martín Rubio y Antº Marqués y lo firmé ut supra. El Ldo Miguel de Villalpando."
+      },
+      "father": "francisco-cabrero-padre-de-juan-cabrero",
+      "mother": "catalina-de-la-calle",
+      "observations": [
+        "La partida de matrimonio la llama viuda de Alonso Nieto."
+      ]
     },
     {
       "id": "francisco-martin-cabrero",
@@ -19496,11 +19702,19 @@
     },
     {
       "id": "pascual-martin",
-      "name": "Pascual Martín",
+      "name": "Pascual Martín Perdigón",
       "givenNames": "Pascual",
       "surnames": [
-        "Martín"
-      ]
+        "Martín",
+        "Perdigón"
+      ],
+      "baptism": {
+        "date": "1606-04-09",
+        "place": "Arcenillas",
+        "transcription": "Pasqual.\n\nEn nueve de abril de mil y seiscientos y seis años bapticé a Pasqual, hijo de Pasqual Mrn y de María Perdigona su muger. Fueron sus padrinos Andrés Mrn y Ysabel [ilegible]; testigos Antº Pinto y Pedro Alº y por ser verdad lo firmé fecho ut supra. Pedro Delgado."
+      },
+      "father": "pascual-martin-padre-de-pascual-martin",
+      "mother": "maria-perdigon"
     },
     {
       "id": "victoria-jambrina",
@@ -21046,7 +21260,20 @@
       "birth": {
         "date": "1746-06-01",
         "place": "Villardeciervos"
-      }
+      },
+      "marriages": [
+        {
+          "spouse": "maria-junquera-mujer-de-cristobal-unzueta"
+        }
+      ],
+      "death": {
+        "note": "Falleció entre 1794 y diciembre de 1799.",
+        "transcription": "A pedimiento de Pedro Pérez Junquera y María Junquera viuda de Christobal de Unzueta vecinos de la villa de Villar de Cierbos.\n\nDon Carlos [ilegible] entre Jorge de Besa Polanco vecino de la villa de Villar de Ciervos y Josef de la Cámara Vaquero su procurador de la una parte = Pedro Pérez Junquera y María Junquera viuda de Christobal Unzueta vecinos de ella y [ilegible] su procurador de la otra: sobre [ilegible] por donde se ha de conducir el agua para regar un [ilegible] que posee el citado Jorge de Besa [ilegible] tubo principio ante la [ilegible] de la mencionada villa de Villar de Ciervos entre [ilegible] de mil setecientos noventa y quatro, por la petición siguiente = Christoval de Unzueta flebotomiano y Pedro Pérez vecinos de esta villa de Villar de Ciervos ante vuestra merced nos querellamos y ponemos la demanda que más haya lugar [ilegible] de Jorge de Vesa nuestro convecino [ilegible]"
+      },
+      "observations": [
+        "Era flebotomiano (sangrador) y vecino de Villardeciervos.",
+        "En 1794 demandó, junto con Pedro Pérez Junquera, a su convecino Jorge de Besa Polanco por la conducción de aguas de riego. El pleito llegó a la Real Chancillería de Valladolid, que despachó la ejecutoria en diciembre de 1799 a petición de Pedro Pérez Junquera y de María Junquera, ya viuda de Cristóbal."
+      ]
     },
     {
       "id": "francisco-antonio-unzueta-ormacho",
@@ -21068,6 +21295,11 @@
       "birth": {
         "date": "1721-01-20",
         "place": "Arrasate"
+      },
+      "baptism": {
+        "date": "1721-01-20",
+        "place": "Arrasate",
+        "note": "Parroquia de San Juan Bautista."
       }
     },
     {
@@ -21076,6 +21308,25 @@
       "givenNames": "Isabel",
       "surnames": [
         "Romero"
+      ]
+    },
+    {
+      "id": "maria-junquera-mujer-de-cristobal-unzueta",
+      "name": "María Junquera",
+      "givenNames": "María",
+      "surnames": [
+        "Junquera"
+      ],
+      "origins": [
+        "Villardeciervos"
+      ],
+      "observations": [
+        "En diciembre de 1799 era viuda de Cristóbal de Unzueta y vecina de Villardeciervos."
+      ],
+      "marriages": [
+        {
+          "spouse": "cristobal-unzueta-padre-de-manuel"
+        }
       ]
     },
     {
@@ -21091,7 +21342,15 @@
       "birth": {
         "date": "1688-02-02",
         "place": "Arrasate"
-      }
+      },
+      "baptism": {
+        "date": "1688-02-02",
+        "place": "Arrasate",
+        "note": "Parroquia de San Juan Bautista."
+      },
+      "observations": [
+        "Sus hermanos María Bautista (1673), Andrés (1675), Úrsula (1678), María Magdalena (1681), Juan (1684) y Teresa (1696) fueron bautizados en Arrasate."
+      ]
     },
     {
       "id": "ysabela-ormacho-rodriguez",
@@ -21118,7 +21377,30 @@
       "birth": {
         "date": "1646-04-13",
         "place": "Arrasate"
-      }
+      },
+      "baptism": {
+        "date": "1646-04-13",
+        "place": "Arrasate",
+        "note": "Parroquia de San Juan Bautista."
+      },
+      "marriages": [
+        {
+          "spouse": "maria-cabarte-landaburu",
+          "date": "1672-06-12",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        },
+        {
+          "date": "1697-06-02",
+          "place": "Arrasate",
+          "note": "Segundo matrimonio, con Josefa Uribarren Zulaica. Parroquia de San Juan Bautista."
+        }
+      ],
+      "observations": [
+        "En las partidas figura unas veces como Juan y otras como Juan Bautista de Unzueta.",
+        "De su segundo matrimonio nacieron María Josefa (1698), Juan Antonio (1701), Domingo (1703) y Martín Bautista (1705).",
+        "Sus hermanos Juan (1643), Antonio (1654) e Ignacio (1657) fueron bautizados en Arrasate."
+      ]
     },
     {
       "id": "maria-cabarte-landaburu",
@@ -21133,7 +21415,30 @@
       "birth": {
         "date": "1651-06-02",
         "place": "Arrasate"
-      }
+      },
+      "baptism": {
+        "date": "1651-06-02",
+        "place": "Arrasate",
+        "note": "Parroquia de San Miguel Arcángel de Garagartza."
+      },
+      "marriages": [
+        {
+          "spouse": "joan-bauptista-uncueta-fuldain",
+          "date": "1672-06-12",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        }
+      ],
+      "death": {
+        "date": "1697-05-22",
+        "place": "Arrasate",
+        "note": "Parroquia de San Juan Bautista. La fecha puede ser la del entierro."
+      },
+      "observations": [
+        "Su apellido se escribe también Zabarte, Çabarte, Çavarte o Savarte.",
+        "Se le atribuye la defunción de una María Zabarte anotada el 22 de mayo de 1697 porque su marido volvió a casarse el 2 de junio siguiente.",
+        "Su hermano Bartolomé se casó en Arrasate el 23 de junio de 1680 con Antonia de Uribe-Iturrioz Ocaranza."
+      ]
     },
     {
       "id": "juan-baptista-unceta-cirarruista",
@@ -21148,7 +21453,25 @@
       "birth": {
         "date": "1623-06-26",
         "place": "Eibar"
-      }
+      },
+      "baptism": {
+        "date": "1623-06-26",
+        "place": "Eibar",
+        "note": "Parroquia de San Andrés Apóstol."
+      },
+      "marriages": [
+        {
+          "spouse": "maria-fuldain-egurbide",
+          "date": "1643-02-09",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        }
+      ],
+      "observations": [
+        "Fue bautizado como Joan; en Arrasate figura como Bautista o Juan Bautista de Unzueta.",
+        "El libro que contiene su partida de bautismo quedó parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
+        "Sus hermanas Úrsula (1625) y Ana (1629) fueron bautizadas en Eibar."
+      ]
     },
     {
       "id": "maria-fuldain-egurbide",
@@ -21163,7 +21486,25 @@
       "birth": {
         "date": "1612-12-08",
         "place": "Arrasate"
-      }
+      },
+      "baptism": {
+        "date": "1612-12-08",
+        "place": "Arrasate",
+        "note": "Parroquia de San Juan Bautista."
+      },
+      "marriages": [
+        {
+          "spouse": "juan-baptista-unceta-cirarruista",
+          "date": "1643-02-09",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        }
+      ],
+      "observations": [
+        "En la partida de bautismo figura con el apellido Amezqueta, como sus hermanos.",
+        "Sus hermanos Magdalena (1606), Águeda (1610), Mari Miguel (1616), Antonio (1619), Juan (1622) y Andrés (1625) fueron bautizados en Arrasate.",
+        "Una María Fuldain falleció en Arrasate el 22 de octubre de 1682; es probable que se trate de ella."
+      ]
     },
     {
       "id": "domingo-cabarte-ybieta-arteaga",
@@ -21189,7 +21530,15 @@
       "birth": {
         "date": "1619-01-20",
         "place": "Arrasate"
-      }
+      },
+      "death": {
+        "date": "1661-02-12",
+        "place": "Arrasate",
+        "note": "Parroquia de San Miguel Arcángel de Garagartza. La fecha puede ser la del entierro."
+      },
+      "observations": [
+        "Sus hermanos Ana (1613), María Luisa (1622) y Juan Asencio (1627) fueron bautizados en la parroquia de Garagartza; sus hermanas Lucía y Antonia se casaron en 1652 y 1653."
+      ]
     },
     {
       "id": "martin-unceta-aguinaga",
@@ -21207,6 +21556,9 @@
       "surnames": [
         "Çirarrusta",
         "Gaztelueta"
+      ],
+      "observations": [
+        "En 1621 tuvo en Eibar un hijo, Benito, con Joan de Yraegui Sumendiaga."
       ]
     },
     {
@@ -21215,6 +21567,17 @@
       "givenNames": "Juan",
       "surnames": [
         "Fuldain-Amezqueta"
+      ],
+      "marriages": [
+        {
+          "spouse": "antonia-egurbide-zigorondo",
+          "date": "1606-01-23",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        }
+      ],
+      "observations": [
+        "En las partidas de sus hijos figura como Joan de Amezqueta."
       ]
     },
     {
@@ -21224,6 +21587,17 @@
       "surnames": [
         "Egurbide",
         "Zigorondo"
+      ],
+      "marriages": [
+        {
+          "spouse": "juan-fuldain-amezqueta",
+          "date": "1606-01-23",
+          "place": "Arrasate",
+          "note": "Parroquia de San Juan Bautista."
+        }
+      ],
+      "observations": [
+        "También figura como Antona de Egurbide Çigorrondo."
       ]
     },
     {
@@ -21250,6 +21624,14 @@
       "surnames": [
         "Landaburu",
         "Guridi"
+      ],
+      "marriages": [
+        {
+          "spouse": "anna-guinea",
+          "date": "1612-07-17",
+          "place": "Arrasate",
+          "note": "Parroquia de San Miguel Arcángel de Garagartza."
+        }
       ]
     },
     {
@@ -21258,7 +21640,208 @@
       "givenNames": "Anna",
       "surnames": [
         "Guinea"
+      ],
+      "marriages": [
+        {
+          "spouse": "joan-landaburu-guridi",
+          "date": "1612-07-17",
+          "place": "Arrasate",
+          "note": "Parroquia de San Miguel Arcángel de Garagartza."
+        }
       ]
+    },
+    {
+      "id": "antonio-moreno-padre-de-antonio-moreno",
+      "name": "Antonio Moreno",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Moreno"
+      ]
+    },
+    {
+      "id": "maria-isidro",
+      "name": "María Isidro",
+      "givenNames": "María",
+      "surnames": [
+        "Isidro"
+      ]
+    },
+    {
+      "id": "juan-prieto",
+      "name": "Juan Prieto",
+      "givenNames": "Juan",
+      "surnames": [
+        "Prieto"
+      ]
+    },
+    {
+      "id": "isabel-grande",
+      "name": "Isabel Grande",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Grande"
+      ]
+    },
+    {
+      "id": "anton-perez",
+      "name": "Antón Pérez",
+      "givenNames": "Antón",
+      "surnames": [
+        "Pérez"
+      ]
+    },
+    {
+      "id": "maria-galan-madre-de-susana-perez",
+      "name": "María Galán",
+      "givenNames": "María",
+      "surnames": [
+        "Galán"
+      ]
+    },
+    {
+      "id": "andres-corralino",
+      "name": "Andrés Corralino",
+      "givenNames": "Andrés",
+      "surnames": [
+        "Corralino"
+      ]
+    },
+    {
+      "id": "pascuala-delgado",
+      "name": "Pascuala Delgado",
+      "givenNames": "Pascuala",
+      "surnames": [
+        "Delgado"
+      ]
+    },
+    {
+      "id": "francisco-gonzalez-padre-de-francisco-gonzalez",
+      "name": "Francisco González",
+      "givenNames": "Francisco",
+      "surnames": [
+        "González"
+      ]
+    },
+    {
+      "id": "catalina-perez",
+      "name": "Catalina Pérez",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Pérez"
+      ]
+    },
+    {
+      "id": "mateo-perez-padre-de-maria-perez-delgado",
+      "name": "Mateo Pérez",
+      "givenNames": "Mateo",
+      "surnames": [
+        "Pérez"
+      ]
+    },
+    {
+      "id": "manuela-delgado",
+      "name": "Manuela Delgado",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Delgado"
+      ]
+    },
+    {
+      "id": "alonso-perdigon",
+      "name": "Alonso Perdigón",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Perdigón"
+      ]
+    },
+    {
+      "id": "luisa-de-aguilar",
+      "name": "Luisa de Aguilar",
+      "givenNames": "Luisa",
+      "surnames": [
+        "de Aguilar"
+      ]
+    },
+    {
+      "id": "pascual-martin-padre-de-pascual-martin",
+      "name": "Pascual Martín",
+      "givenNames": "Pascual",
+      "surnames": [
+        "Martín"
+      ]
+    },
+    {
+      "id": "maria-perdigon",
+      "name": "María Perdigón",
+      "givenNames": "María",
+      "surnames": [
+        "Perdigón"
+      ]
+    },
+    {
+      "id": "juan-perez-padre-de-susana-perez-delgado",
+      "name": "Juan Pérez",
+      "givenNames": "Juan",
+      "surnames": [
+        "Pérez"
+      ]
+    },
+    {
+      "id": "isabel-delgado-madre-de-susana-perez-delgado",
+      "name": "Isabel Delgado",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Delgado"
+      ]
+    },
+    {
+      "id": "susana-perez-delgado",
+      "name": "Susana Pérez Delgado",
+      "givenNames": "Susana",
+      "surnames": [
+        "Pérez",
+        "Delgado"
+      ],
+      "father": "juan-perez-padre-de-susana-perez-delgado",
+      "mother": "isabel-delgado-madre-de-susana-perez-delgado",
+      "baptism": {
+        "date": "1624-11-11",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Susana, de Juº Pérez y de Ysabel Delgada.\n\nEn onze de nobienbre de mil i seiscientos i beynte i quatro años bauticé yo el Br [ilegible] i puse olio i crisma a Susana, hija de Juº Pérez i de Ysabel Delgada su ligítima muger. Padrino Juº Ruiz de [ilegible], clérigo; testigos Lázaro Rz i Pº [ilegible], todos vzºs deste lugar, i lo firmé. Franco Martínez."
+      }
+    },
+    {
+      "id": "ines-marques-esteban",
+      "name": "Inés Marqués Esteban",
+      "givenNames": "Inés",
+      "surnames": [
+        "Marqués",
+        "Esteban"
+      ],
+      "father": "juan-marques-nieto",
+      "mother": "maria-esteban-madre-de-manuel-marques",
+      "baptism": {
+        "date": "1686-12-21",
+        "place": "Morales del Vino",
+        "transcription": "Ynés.\n\nEn veintiuno de deciembre de mill y seiscientos y ochenta y seis años yo el Ldo Joseph de Prado, cura teniente de este lugar de Morales, bapticé solemnemente a una niña que se llamó Ynés, hija de Juan Marqués y de María Esteban su legítima muger. Fueron sus padrinos D. Juan de Bega Porto Carrero y Ynés de Luelmo; advertiles el parentesco espiritual. Testigos el Ldo Diego de Mena y el Ldo Franco Martín y Matheo Brioso y en fe de ello lo firmé ut supra. Joseph de Prado."
+      }
+    },
+    {
+      "id": "andres-rodriguez-mendez",
+      "name": "Andrés Rodríguez Méndez",
+      "givenNames": "Andrés",
+      "surnames": [
+        "Rodríguez",
+        "Méndez"
+      ],
+      "father": "juan-rodriguez-corralino",
+      "mother": "francisca-mendez",
+      "baptism": {
+        "date": "1678-12-21",
+        "place": "Casaseca de las Chanas",
+        "note": "Recibió los óleos ese día; había sido bautizado en casa.",
+        "transcription": "Andrés Rodríguez Manso.\n\nEn veintiuno de diciembre de mill y seiscientos y setenta y ocho el licenciado Martín Rodríguez, presbítero, con mi orden puso los santos olios a Andrés, hijo de Juan Rodríguez Manso y de Franca Méndez su muger. Fue su padrino Juan de Carbajal; testigos Atilano Martín, Antonio Moreno y otros. Abía rrecivido agua del santo baptismo en cassa por mano del licenciado Pº Pérez, presbítero, y lo firmé. [ilegible]."
+      }
     }
   ]
 }

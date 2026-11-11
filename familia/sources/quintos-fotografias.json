@@ -82,6 +82,57 @@
       "applied": [
         "Bautismo el 02-10-1693 en Morales del Vino con transcripción; nota en el nacimiento."
       ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Francisco Cabrero e Inés Marqués.JPG",
+          "sha256": "f7a53f5e5c9524b474608e9b1ac75c043e235f500908cf330fc9e233dd92de57",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1710-02-27",
+      "place": "Morales del Vino",
+      "transcription": "Franco Cabrero Luelmo y Ynés Marqués. Velados.\n\nEn beyente y siette días del mes de febrero de mil siette cientos y diez, yo el Ldo Juan de Medina, tente cura deste lugar de Morales, abiendo precedido las tres admonestaciones que dispone el Santo Concilio de Trento y no abiendo rezultado impedimento alguno, desposé y velé in facie eclezie a Franco Cabrero y Ines Marqués, mossos solteros, vzºs deste lugar, a que fueron testigos Juan de Luelmo Pérez, Alonso Hernandes y Caetano Carpintero y para que conste lo firmé. Ldo Juan de Medina.",
+      "uncertainties": [
+        "La partida no nombra a los padres de los contrayentes; el margen da al novio el segundo apellido Luelmo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-cabrero",
+        "ines-marques"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Juan Brioso y María Marqués.JPG",
+          "sha256": "e21cc9c93de5e32257294654639f4cb2d10b28929b067726d9bf2b0c7604b5fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1708-02-20",
+      "place": "Morales del Vino",
+      "transcription": "Juan Brioso y María Marqués.\n\nA veinte días del mes de febrero de mill setezºs y ocho años, yo el Ldo Germo de Lluelmo, cura proprio deste lugr de Morales, haviendo precedido las tres moniciones que manda el Sto Conzilio Tridentino al ofretorio de la misa del pueblo y no haviendo resultado impedimento alguno, desposé por palabras de presente que hazen verdadero matrimonio a Juan Brioso, mozo soltero, hixo lexmo de Franco Brioso y de María de Lluelmo, difunctos, y a María Marqués, moza soltera, hixa lexma de Juan Marqués y de María Esteba, difuncta, vzºs todos deste lugr de Morales, a que fueron testigos Don Juan Brioso, cura de la Sta Yglª Cathl de Zamora, Luis Martín y Franco [ilegible], vzºs así mismo deste dho lugr, y para que conste lo firmé. Ldo Germo de Lluelmo.\n\nEn 11 de otubre velé a los contenidos en esta cláusula y lo firmé. Germo de Lluelmo.",
+      "uncertainties": [
+        "El árbol fechaba el matrimonio el 11-10-1708, que es el día de la velación anotada al margen; el desposorio fue el 20 de febrero de 1708.",
+        "Confirma a los padres de María Marqués: Juan Marqués y María Esteban, esta ya difunta en 1708, como los padres del contrayente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-brioso",
+        "maria-marques-madre-de-baltasar-brioso"
+      ],
+      "applied": [
+        "Matrimonio el 20-02-1708 (antes 11-10-1708, fecha de la velación, que pasa a la nota), con transcripción en ambos cónyuges; observación en María Esteban Martín."
+      ]
     }
   ]
 }

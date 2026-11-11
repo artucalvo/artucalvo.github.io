@@ -49,6 +49,62 @@
       "applied": [
         "Transcripción en el matrimonio de ambos; nota de la velación."
       ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Catalina Cabrero Marqués.JPG",
+          "sha256": "655016cfcb4a4f932a2df710334e91879b2c6ea53b277b3c2bf753e0a681f4fc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1727-10-25",
+      "place": "Morales del Vino",
+      "transcription": "Catalina Cabrero.\n\nEn veinte y cinco días del mes de otubre de mill setecientos y veinte y siete, yo D.n P.o G.z de la Torre cura propio de este lugar de Morales baptizé solemnemente y puse los santos óleos a una niña que se llamó Catalina, hixa lex.ma y de lex.mo matrimonio de Manuel Cabrero y de Catalina Marques, la qual dha niña nació el día primero de dho mes. Fueron sus padrinos Antonio Cabrero y Catalina Cabrero, a quienes avisé el parentesco espiritual y demás obligaciones y lo firmé. D.n P.o G.z de la Torre.",
+      "uncertainties": [
+        "Otra toma de la partida de bautismo de Catalina Cabrero Marqués, hija de Manuel Cabrero y Catalina Marqués, ya incorporada desde la imagen «Nacimiento de Catalina Cabrero Marqués»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-cabrero-marques-alonso"
+      ],
+      "applied": [
+        "Sin cambios: la transcripción ya estaba en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Baltasar Brioso y Catalina Cabrero1.JPG",
+          "sha256": "aff73a6a8741a2b12a02906669e460bdba26fb4f8054d453f824314b5cc80bf8",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Baltasar Brioso y Catalina Cabrero2.JPG",
+          "sha256": "ed8a8cf31d898cf876cbf79e64f099bc76e433492248ed6d1767ff8a580dc85c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1748-05-29",
+      "place": "Morales del Vino",
+      "transcription": "Dn Baltasar Brioso y Dª Cathalina Cabrero.\n\nEn veinte y nueve de Mayo de mil setezs y quarenta y ocho años, yo Dn Alonso Cabrero, presbítero, de lizenzia de Dn Antº Cabrero, cura propio deste lugar de Morales, aviendo prezedido las tres canónicas moniziones que dispone el Sto Conzilio y manda nra Me la Yglesia, y aviendo sido dispensados en quarto con quarto y terzero con quarto de consanguinidad por su Sd Benedicto Catorze, por el ofizio de Dn Alonso de Torres López en veinte y seis días del mes de Abril de dicho año, y no haviendo resultado más impedimento que los dispensados, asistí al matrimonio que por palabras de presente contrageron Dn Baltasar Brioso, mozo soltero, hijo lexítimo de Juan Brioso y María Marqués, y Dª Cathalina Cabrero, hija lexítima y moza soltera de Franco Cabrero, difunto, e Inés Marqués, todos nles y vzºs deste lugar, y en este mismo día los velé según orden de nra Sta Me Yglesia, a que fueron testigos Dn Joseph García, cura de Jambrina, Dn Juan Cabrero y Alonso Brioso, vzºs deste lugar, y para que conste lo firmé. Dn Alonso Cabrero. Dn Antº Cabrero.",
+      "uncertainties": [
+        "Folio 161; el asiento empieza al pie de una página y sigue en la cabecera de la siguiente.",
+        "La dispensa solo menciona cuarto con cuarto y tercero con cuarto grado: las madres de los contrayentes, María Marqués e Inés Marqués, no eran hermanas (habría sido segundo grado). Francisco Cabrero había muerto ya en mayo de 1748."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "baltasar-brioso",
+        "catalina-cabrero-marques-brioso"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; nota con la dispensa; observación en Francisco Cabrero Luelmo."
+      ]
     }
   ]
 }

@@ -77,6 +77,38 @@
       "applied": [
         "Entierro el 11-11-1799 en Casaseca de las Chanas con transcripción; observación con sus hijas."
       ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Alonso Brioso e Inés Martín1.JPG",
+          "sha256": "a93cd2956cdc16694f83ba58678b2e75a2a163a5b68cccda6e56fb42f6a34a34",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Alonso Brioso e Inés Martín2.JPG",
+          "sha256": "fb4770eafd4cef7e93a71d8dfcf75735e66f91889fa77b812c6ca77543c4fa0b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1779-06-21",
+      "place": "Morales del Vino",
+      "transcription": "Alonso Brioso e Ynés Martín.\n\nEn el lugar de Morales a veinte y un días del mes de Junio de mil setecientos setenta y nuebe años, yo Dn Casimiro Flórez, cura theniente de este lugar, asistí al matrimonio que in facie eclesie contrageron Alonso Brioso Cabrero, mozo soltero, hijo legítimo de Balthasar Brioso y de Cathalina Cabrero, vecinos y naturales de este lugar, y Ynés Martín, del mismo estado, hija legítima de Esteban Martín y María Marqués, todos de la misma vecindad y naturaleza, precedidas el examen de la doctrina christiana y las tres canónicas moniciones que dispone el Sto Concilio, de las que no resultaron más impedimentos que los dos de tercero y quarto grado de consanguinidad, de los que obtubieron dispensación por bulla de nuestro SSmo Pe y Señor Pío por la divina providencia Papa Sexto, según me consta por despacho del Sr Dn Miguel de Minguela, Provisor y Vicario General de la ciudad de Zamora y su obispado, firmado en diez y nuebe de dho mes y año ante Dn Alonso Sánchez Balboa, notario mayor de la Audiencia Episcopal de Zamora. Fueron testigos Dn Franco Marqués y Félix de Mena y lo firmé. Dn Casimiro Flórez, thente de cura.",
+      "uncertainties": [
+        "El asiento ocupa el final de una página y el comienzo de la siguiente. El apellido del provisor se lee «Minguela» con reservas.",
+        "Los dos impedimentos cuadran con el árbol: tercer grado por Juan Marqués Nieto y María Esteban (bisabuelos de ambos) y tercero con cuarto por Francisco Brioso Carrascal y María de Luelmo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-brioso-cabrero",
+        "ines-martin-marques"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; nota con la dispensa."
+      ]
     }
   ]
 }

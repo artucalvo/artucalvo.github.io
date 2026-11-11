@@ -381,6 +381,32 @@
         "El nombre completo de Ana se ha leído en el margen; el cuerpo contiene un tramo difícil y se deja en hueco. Oficiante, amonestaciones y testigos requieren revisión.",
         "La frase que sigue a Joseph Pérez podría incluir «el mozo», pero no se ha fijado su lectura."
       ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Susana Pérez Delgado.JPG",
+          "sha256": "dc443f6b14d04437771c907ef580f5601951c26e1fb0fdeca549d2369fb86824",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1624-11-11",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Susana, de Juº Pérez y de Ysabel Delgada.\n\nEn onze de nobienbre de mil i seiscientos i beynte i quatro años bauticé yo el Br [ilegible] i puse olio i crisma a Susana, hija de Juº Pérez i de Ysabel Delgada su ligítima muger. Padrino Juº Ruiz de [ilegible], clérigo; testigos Lázaro Rz i Pº [ilegible], todos vzºs deste lugar, i lo firmé. Franco Martínez.",
+      "uncertainties": [
+        "La imagen está girada. Letra muy cursiva: no se leen el nombre del bachiller en el cuerpo del asiento ni los apellidos del padrino y de un testigo; la firma es «Franco Martínez». El año se lee «beynte i quatro».",
+        "El asiento no nombra el lugar: se tomó en la misma sesión que otros bautismos de Casaseca de las Chanas de esa generación.",
+        "Es la madre de Juan Rodríguez Pérez (nacido en 1650), que los resúmenes llaman Susana Pérez y que estaba pendiente de enlace por si era la misma Susana Pérez casada con Luis Alonso en 1653. Son dos mujeres: la familia guardó este bautismo en la carpeta de séptimos y el de Susana Pérez Galán (1627) aparte, y el matrimonio de 1653 no llama viuda a la contrayente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "susana-perez-delgado"
+      ],
+      "applied": [
+        "Persona nueva: Susana Pérez Delgado, hija de Juan Pérez e Isabel Delgado (fichas nuevas), bautizada el 11-11-1624 en Casaseca de las Chanas; se enlaza como madre de Juan Rodríguez Pérez."
+      ]
     }
   ],
   "pending": "Las demás fotografías de la carpeta todavía no están incorporadas ni plenamente transcritas.",
