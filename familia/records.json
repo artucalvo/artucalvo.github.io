@@ -21366,8 +21366,8 @@
     },
     {
       "id": "joan-bauptista-uncueta-fuldain",
-      "name": "Joan Bauptista Uncueta Fuldain",
-      "givenNames": "Joan Bauptista",
+      "name": "Juan Uncueta Fuldain",
+      "givenNames": "Juan",
       "surnames": [
         "Uncueta",
         "Fuldain"
@@ -21375,11 +21375,12 @@
       "father": "juan-baptista-unceta-cirarruista",
       "mother": "maria-fuldain-egurbide",
       "birth": {
-        "date": "1646-04-13",
-        "place": "Arrasate"
+        "date": "1643-11-05",
+        "place": "Arrasate",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
       },
       "baptism": {
-        "date": "1646-04-13",
+        "date": "1643-11-05",
         "place": "Arrasate",
         "note": "Parroquia de San Juan Bautista."
       },
@@ -21399,7 +21400,7 @@
       "observations": [
         "En las partidas figura unas veces como Juan y otras como Juan Bautista de Unzueta.",
         "De su segundo matrimonio nacieron María Josefa (1698), Juan Antonio (1701), Domingo (1703) y Martín Bautista (1705).",
-        "Sus hermanos Juan (1643), Antonio (1654) e Ignacio (1657) fueron bautizados en Arrasate."
+        "Sus hermanos Juan Bautista (1646), Antonio (1654) e Ignacio (1657) fueron bautizados en Arrasate; Juan Bautista se casó en 1667 con Antonia Garay Errarte."
       ]
     },
     {
@@ -21528,8 +21529,8 @@
       "father": "joan-landaburu-guridi",
       "mother": "anna-guinea",
       "birth": {
-        "date": "1619-01-20",
-        "place": "Arrasate"
+        "place": "Arrasate",
+        "note": "Fecha de nacimiento desconocida."
       },
       "death": {
         "date": "1661-02-12",
@@ -21537,7 +21538,7 @@
         "note": "Parroquia de San Miguel Arcángel de Garagartza. La fecha puede ser la del entierro."
       },
       "observations": [
-        "Sus hermanos Ana (1613), María Luisa (1622) y Juan Asencio (1627) fueron bautizados en la parroquia de Garagartza; sus hermanas Lucía y Antonia se casaron en 1652 y 1653."
+        "Sus hermanos Ana (1613), María (1619), María Luisa (1622) y Juan Asencio (1627) fueron bautizados en la parroquia de Garagartza; María se casó con Miguel de Ezcurra Arriola, y Lucía y Antonia se casaron en 1652 y 1653."
       ]
     },
     {
@@ -21619,11 +21620,10 @@
     },
     {
       "id": "joan-landaburu-guridi",
-      "name": "Joan Landaburu Guridi",
+      "name": "Joan Landaburu",
       "givenNames": "Joan",
       "surnames": [
-        "Landaburu",
-        "Guridi"
+        "Landaburu"
       ],
       "marriages": [
         {
@@ -21632,6 +21632,9 @@
           "place": "Arrasate",
           "note": "Parroquia de San Miguel Arcángel de Garagartza."
         }
+      ],
+      "observations": [
+        "Es distinto del Juan de Landaburu Arteaga que se casó en Arrasate en 1602 con Catalina de Ocharcoaga y bautizó hijos en Oñati hasta septiembre de 1612."
       ]
     },
     {

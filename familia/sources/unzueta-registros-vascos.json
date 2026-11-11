@@ -80,9 +80,9 @@
       "reference": "DEAH/F06.033//1334/002-01(f.111v,nº--/B,1646-04-13)",
       "recordId": 3309868,
       "appliedTo": [
-        "joan-bauptista-uncueta-fuldain.baptism"
+        "joan-bauptista-uncueta-fuldain.observations"
       ],
-      "note": "Fecha que el documento familiar asigna al padre de Christobal. Leinztarra la asigna al marido de Antonia Garay Errarte."
+      "note": "Hermano menor, Juan Bautista, marido de Antonia Garay Errarte según Leinztarra. El documento familiar asignaba esta fecha al padre de Christobal."
     },
     {
       "type": "bautismo",
@@ -97,9 +97,10 @@
       "reference": "DEAH/F06.033//1334/002-01(f.92v,nº--/B,1643-11-05)",
       "recordId": 3309582,
       "appliedTo": [
-        "joan-bauptista-uncueta-fuldain.observations"
+        "joan-bauptista-uncueta-fuldain.birth",
+        "joan-bauptista-uncueta-fuldain.baptism"
       ],
-      "note": "Hermano mayor, Juan. Leinztarra lo identifica como marido de María Zabarte y padre de Christobal."
+      "note": "Juan, marido de María Zabarte y padre de Christobal según Leinztarra y por decisión de la familia del 11-11-2026."
     },
     {
       "type": "bautismo",
@@ -599,7 +600,10 @@
       "mother": "Anna Guinea",
       "reference": "DEAH/F06.082//2293/001-01(f.13v,nº--/B,1619-01-20)",
       "recordId": 3327453,
-      "note": "Bautismo de «María». El documento familiar lo asigna a Mari Miguel; Leinztarra, a María, mujer de Miguel Ezcurra Arriola. No aplicado."
+      "appliedTo": [
+        "mari-miguel-landaburu-guinea.observations"
+      ],
+      "note": "Bautismo de «María», mujer de Miguel Ezcurra Arriola según Leinztarra. El documento familiar lo asignaba a Mari Miguel; por decisión de la familia del 11-11-2026 se le retira esa fecha."
     },
     {
       "type": "bautismo",
@@ -1016,10 +1020,12 @@
     ],
     "reading": "Las imágenes solo se sirven a 906 × 1292 píxeles por página, por lo que la lectura es parcial. Se transcriben, con las abreviaturas desarrolladas, el encabezamiento y el comienzo de la primera página (imagen 2). El catálogo lee «Pero»; la imagen parece decir «Pedro». El año de la demanda se lee «noventa y quatro» con confianza razonable. La última página (imagen 8) contiene la tasación de costas a instancia de Pedro Pérez y María Junquera; las páginas intermedias no se han leído."
   },
+  "decisions": [
+    "Padre de Christobal Unzueta Zabarte (decisión de la familia, 11-11-2026). El documento familiar lo identificaba con Joan Bauptista, bautizado el 13-04-1646; Leinztarra, con su hermano Juan, bautizado el 05-11-1643, y da a Juan Bautista por marido de Antonia Garay. El índice confirma que hubo dos hermanos casados a la vez: el marido de Antonia Garay figura siempre como «Juan Bauptista» o «Bauptista»; el de María Zabarte y Josefa Uribarren, cinco veces como «Juan Bauptista» (incluidos su matrimonio de 1672 y el bautismo de Christobal) y ocho como «Juan». La familia decide seguir a Leinztarra. La ficha conserva el identificador joan-bauptista-uncueta-fuldain y pasa a llamarse Juan Uncueta Fuldain, con la grafía de su asiento de bautismo; nacimiento y bautismo pasan al 05-11-1643, con la advertencia de que la fecha es la del bautismo. Los padres y abuelos no cambian.",
+    "Mari Miguel Landaburu (decisión de la familia, 11-11-2026). El documento familiar le asignaba el bautismo del 20-01-1619, que el índice anota a nombre de «María». Una María Landaburu Guinea, mujer de Miguel Ezcurra Arriola, tuvo hijos en 1652 y 1657, y Mari Miguel tuvo a María Cabarte en 1651: son dos mujeres. Leinztarra asigna el bautismo de 1619 a María y no da fecha ni padres a Mari Miguel. La familia decide retirar la fecha: el nacimiento de Mari Miguel queda sin fecha, en Arrasate, y María pasa a figurar entre sus hermanos. Su filiación como hija de Joan Landaburu y Anna Guinea se mantiene según el documento familiar; no hay asiento de bautismo que la confirme.",
+    "Joan Landaburu (decisión de la familia, 11-11-2026). El documento familiar lo llamaba Joan Landaburu Guridi. El segundo apellido y los padres que da Leinztarra (Juan Landaburu Sustaeta y María Guridi Arteaga) dependen de identificarlo con el Juan Landaburu Arteaga casado en 1602 con Catalina Ocharcoaga. Esa pareja bautizó una hija en Oñati el 19-09-1612, dos meses después de la boda de Juan Landaburu y Ana Guinea en Garagartza, de modo que son dos hombres. La familia decide retirar el segundo apellido: la ficha pasa a llamarse Joan Landaburu, conserva el identificador joan-landaburu-guridi y lleva una observación que lo distingue del homónimo. No se añaden esos padres."
+  ],
   "pendingDecisions": [
-    "Padre de Christobal Unzueta Zabarte. El árbol conserva, según el documento familiar, a Joan Bauptista (bautizado el 13-04-1646). Leinztarra lo identifica con su hermano Juan (bautizado el 05-11-1643) y da a Juan Bautista por marido de Antonia Garay. El índice confirma que hubo dos hermanos casados a la vez: el marido de Antonia Garay figura siempre como «Juan Bauptista» o «Bauptista»; el de María Zabarte y Josefa Uribarren, cinco veces como «Juan Bauptista» (incluidos su matrimonio de 1672 y el bautismo de Christobal) y ocho como «Juan». Los padres y abuelos son los mismos en ambos casos. No se cambia sin decisión de la familia.",
-    "Mari Miguel Landaburu. El árbol le asigna el bautismo del 20-01-1619, que el índice anota a nombre de «María». Una María Landaburu Guinea, mujer de Miguel Ezcurra Arriola, tuvo hijos en 1652 y 1657, y Mari Miguel tuvo a María Cabarte en 1651: son dos mujeres. Leinztarra asigna el bautismo de 1619 a María y no da fecha ni padres a Mari Miguel. No se cambia sin decisión de la familia; la hermana María no se menciona entre los hermanos.",
-    "Joan Landaburu Guridi. El segundo apellido y los padres que da Leinztarra (Juan Landaburu Sustaeta y María Guridi Arteaga) dependen de identificarlo con el Juan Landaburu Arteaga casado en 1602 con Catalina Ocharcoaga. Esa pareja bautizó una hija en Oñati el 19-09-1612, dos meses después de la boda de Juan Landaburu y Ana Guinea en Garagartza, de modo que son dos hombres. No se añaden esos padres.",
     "María Junquera. Viuda de Cristóbal Unzueta en 1799; es probable que sea la madre de Manuel Unzueta, pero ningún documento consultado lo dice. Se añade como cónyuge, sin enlazarla como madre.",
     "Fechas de nacimiento. Las fechas del documento familiar coinciden con las fechas de bautismo del índice. Se añaden los bautismos y se conservan las fechas de nacimiento confirmadas por la familia."
   ],
