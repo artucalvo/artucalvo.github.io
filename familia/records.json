@@ -655,8 +655,8 @@
         "Unzueta",
         "Fernández"
       ],
-      "father": "francisco-unzueta-padre-de-maria-unzueta",
-      "mother": "maria-fernandez-madre-de-maria-unzueta",
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
       "birth": {
         "place": "Villardeciervos"
       },
@@ -1214,46 +1214,6 @@
       "marriages": [
         {
           "spouse": "domingo-de-la-cuesta",
-          "place": "Villardeciervos"
-        }
-      ]
-    },
-    {
-      "id": "francisco-unzueta-padre-de-maria-unzueta",
-      "name": "Francisco Unzueta",
-      "givenNames": "Francisco",
-      "surnames": [
-        "Unzueta"
-      ],
-      "birth": {
-        "place": "Villardeciervos"
-      },
-      "death": {
-        "place": "Villardeciervos"
-      },
-      "marriages": [
-        {
-          "spouse": "maria-fernandez-madre-de-maria-unzueta",
-          "place": "Villardeciervos"
-        }
-      ]
-    },
-    {
-      "id": "maria-fernandez-madre-de-maria-unzueta",
-      "name": "María Fernández",
-      "givenNames": "María",
-      "surnames": [
-        "Fernández"
-      ],
-      "birth": {
-        "place": "Villardeciervos"
-      },
-      "death": {
-        "place": "Villardeciervos"
-      },
-      "marriages": [
-        {
-          "spouse": "francisco-unzueta-padre-de-maria-unzueta",
           "place": "Villardeciervos"
         }
       ]

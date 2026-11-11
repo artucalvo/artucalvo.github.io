@@ -34,7 +34,8 @@
     "Josefa Herrero Fernández: matrimonio en Villardeciervos y fallecimiento en Villardeciervos en 1987. La familia sustituyó su año inicial de nacimiento, 1924, por la fecha de las fotografías, 17-11-1920.",
     "Se asumen Villardeciervos como lugar de nacimiento, matrimonio y fallecimiento de los antepasados de las fotografías, salvo las excepciones expresas. No se añaden fechas de boda ni de fallecimiento desconocidas.",
     "La familia confirmó que Cional y Valdemerilla se interpretan como lugares de nacimiento y que se mantiene Villardeciervos como lugar supuesto de matrimonio y fallecimiento.",
-    "La familia confirmó la fecha de nacimiento de Teresa Cuesta Unzueta: 26-05-1858."
+    "La familia confirmó la fecha de nacimiento de Teresa Cuesta Unzueta: 26-05-1858.",
+    "El 11-11-2026 la familia confirmó que María y Antonio Unzueta Fernández son hermanos e hijos de Francisco Unzueta Junquera y María Fernández Villar. Las fichas parciales de los padres de María se reunieron con las fichas completas; importedPeople conserva la importación original."
   ],
   "interpretation": [
     "Las fechas únicas junto a nombres no tienen encabezado de evento. Se interpretan como nacimientos por su posición y coherencia generacional; no se crean bautismos a partir de ellas.",
@@ -97,15 +98,6 @@
         "e5f203ae-ed52-4a9c-a617-ec53d114e3da.JPG": "María Ferreras Santiago"
       },
       "decision": "Se usa la lectura Manuela de la fotografía enfocada; no se crea otra madre ni se fuerza una identidad distinta."
-    },
-    {
-      "people": [
-        "francisco-unzueta-padre-de-maria-unzueta",
-        "maria-fernandez-madre-de-maria-unzueta",
-        "francisco-unzueta-junquera",
-        "maria-fernandez-villar"
-      ],
-      "decision": "Posible pareja repetida: padres de María y de Antonio Unzueta Fernández. Se mantienen fichas separadas y sin ampliar los nombres parciales hasta confirmar la identidad."
     },
     {
       "people": [
