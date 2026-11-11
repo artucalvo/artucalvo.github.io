@@ -1,5 +1,5 @@
 import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree } from './tree-layout.mjs';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=2';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -70,7 +70,7 @@ function dateLabel(value) {
 }
 
 async function readJSON(path) {
-  const response = await fetch(new URL(path, import.meta.url));
+  const response = await fetch(new URL(path, import.meta.url), { cache: 'no-cache' });
   if (!response.ok) throw new Error(`No se pudo cargar ${path} (${response.status}).`);
   return response.json();
 }
@@ -341,6 +341,17 @@ async function renderProfile(id, focus = false) {
       if (father) family.append(relationLink(father, 'Padre'));
       if (mother) family.append(relationLink(mother, 'Madre'));
       panel.append(family);
+    }
+    const siblingList = collectSiblings(person, [father, mother]);
+    if (siblingList.length) {
+      const siblings = element('section', 'profile-section');
+      siblings.append(element('h3', '', 'Hermanos y hermanas'));
+      siblingList.forEach(sibling => {
+        const label = sibling.sharedParents.length > 1 ? 'Padres en común'
+          : sibling.sharedParents[0] === person.father ? 'Padre en común' : 'Madre en común';
+        siblings.append(relationLink(sibling, label));
+      });
+      panel.append(siblings);
     }
     if (person.children?.length) {
       const descendants = element('section', 'profile-section');

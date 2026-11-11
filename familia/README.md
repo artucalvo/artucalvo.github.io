@@ -16,6 +16,8 @@ node familia/build-data.mjs
 
 El script no necesita dependencias. Valida los identificadores, las referencias a familiares, las fechas y los ciclos de ascendencia. Genera `familia/data/catalog.json`, un índice de búsqueda en `familia/data/index.json` y una ficha por persona en `familia/data/people/`. Publica esos archivos junto con el resto de la página. No edites a mano los archivos generados.
 
+Las solicitudes de datos revalidan la caché del navegador al cargar la página. Una pestaña que ya estaba abierta conserva sus fichas en memoria hasta que se recarga. Si cambia `familia.js` o un módulo que importa, actualiza sus versiones en las URL de los módulos para evitar que se mezclen archivos antiguos y nuevos en la caché.
+
 Cada persona tiene un `id` estable, `name`, `givenNames` y `surnames` como lista explícita. No se admite `source` en las personas ni en la raíz de `records.json`: las fichas y el catálogo no incluyen atribuciones a archivos. La procedencia se conserva únicamente en este README y en los registros internos de `sources/`. Conserva los apellidos compuestos en una sola entrada, por ejemplo `"de las Heras"`. Los identificadores usan letras minúsculas sin tildes, números y guiones. `father` y `mother` hacen referencia a otras personas por su `id`.
 
 La sección «Descendencia» muestra los hijos documentados y enlaza a sus fichas después de «Sus padres». El script genera esas relaciones a partir de `father` y `mother`; no añadas `children`, `parentSummaries` ni `partners` a `records.json`. Las fichas generadas contienen resúmenes con el identificador, nombre, nombres de pila y apellidos de los familiares para mostrar los círculos de navegación sin descargar sus registros completos ni el índice global.

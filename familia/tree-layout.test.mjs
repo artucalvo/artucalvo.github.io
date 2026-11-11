@@ -2,7 +2,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readdir, readFile } from 'node:fs/promises';
-import { collectTree, layoutTree } from './tree-layout.mjs';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs';
 
 const peopleDirectory = new URL('data/people/', import.meta.url);
 const records = new Map();
@@ -12,6 +12,23 @@ for (const file of await readdir(peopleDirectory)) {
 }
 
 const summary = id => ({ id, name: `${id} name`, givenNames: id, surnames: [`${id}-surname`] });
+
+test('siblings appear once with only their known shared parents', () => {
+  const ana = { ...summary('ana'), father: 'padre', mother: 'madre' };
+  const both = { ...summary('belen'), father: 'padre', mother: 'madre' };
+  const fatherOnly = { ...summary('carlos'), father: 'padre', mother: 'otra-madre' };
+  const motherOnly = { ...summary('diana'), mother: 'madre' };
+  const father = { id: 'padre', children: [ana, both, fatherOnly] };
+  const mother = { id: 'madre', children: [ana, both, motherOnly] };
+  const siblings = collectSiblings(ana, [father, mother]);
+  assert.deepEqual(siblings.map(({ id, sharedParents }) => ({ id, sharedParents })), [
+    { id: 'belen', sharedParents: ['padre', 'madre'] },
+    { id: 'carlos', sharedParents: ['padre'] },
+    { id: 'diana', sharedParents: ['madre'] },
+  ]);
+  assert.deepEqual(collectSiblings(motherOnly, [null, mother]).map(sibling => sibling.id), ['ana', 'belen']);
+  assert.deepEqual(collectSiblings(summary('unrelated'), [null, null]), []);
+});
 const child = (id, father) => ({ ...summary(id), mother: 'anna', ...(father ? { father } : {}) });
 const parents = (father, mother) => ({
   father,

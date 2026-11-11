@@ -8,6 +8,21 @@ const CIRCLE_GROUP_GAP = 24;
 const REGULAR = { cardWidth: 224, cardHeight: 124, leafSpacing: 264, coupleGap: 56, rowGap: 76, busDrop: 18, circleLinkGap: 14, childGap: 22, paddingX: 24, paddingY: 14 };
 const COMPACT = { cardWidth: 156, cardHeight: 142, leafSpacing: 172, coupleGap: 32, rowGap: 70, busDrop: 14, circleLinkGap: 12, childGap: 20, paddingX: 8, paddingY: 12 };
 
+// Parent profiles contain their documented children, including half siblings.
+// Record only known shared parents; an unknown other parent proves nothing.
+export function collectSiblings(person, parents) {
+  const siblings = new Map();
+  for (const parent of parents.filter(Boolean)) {
+    for (const child of parent.children || []) {
+      if (child.id === person.id) continue;
+      if (!siblings.has(child.id)) siblings.set(child.id, { ...child, sharedParents: [] });
+      const sharedParents = siblings.get(child.id).sharedParents;
+      if (!sharedParents.includes(parent.id)) sharedParents.push(parent.id);
+    }
+  }
+  return [...siblings.values()].sort((a, b) => a.name.localeCompare(b.name, 'es', { sensitivity: 'base' }));
+}
+
 export async function collectTree(id, depth, getPerson) {
   const ancestors = [];
   async function visit(personId, level, slot, path) {
