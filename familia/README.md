@@ -28,6 +28,8 @@ Los eventos opcionales son `birth`, `baptism`, `marriages`, `death` y `burial` (
 
 `origins` recoge lugares asociados a una persona cuando no se conoce el tipo de evento. Se presenta como lugar de referencia, sin atribuirle un nacimiento. Usa el nombre del municipio o localidad en `place` para que el índice de lugares no duplique una población por sus distintas iglesias; guarda el nombre de la iglesia en `note`.
 
+`occupations` recoge los oficios que una partida u otro testimonio atribuye expresamente a la persona. Su formato y su alcance se describen en «Profesiones».
+
 Este repositorio no almacena imágenes de las personas: la cuenta de github.io solo dispone de 1 GB de almacenamiento gratuito y las imágenes de la familia ocupan muchos gigabytes. Por eso las fichas no muestran imágenes y `build-data.mjs` rechaza el campo `documents` en cualquier evento. Una transcripción puede figurar directamente en el evento, en el campo `transcription`.
 
 ## Ampliar el árbol
@@ -51,6 +53,21 @@ La pestaña «Lugares» carga el mapa interactivo cuando se abre. Utiliza Leafle
 `familia/places.json` conserva las coordenadas verificadas y una URL de fuente para cada localidad. El proceso de construcción las incorpora al índice generado; no se geocodifican de nuevo en cada visita. El índice contiene ochenta y cinco referencias de lugar, con coordenadas verificadas para ochenta y cuatro localidades o municipios de España; Galicia se conserva como referencia regional sin marcador, y La Torre del Salinar y Valcamín de Abajo, pueblos que ya no existen, usan por indicación de la familia los puntos de Entrala y de Tardobispo. Las posiciones representan el centro o un punto representativo oficial de cada localidad, sin identificar domicilios. Villardeciervos se sitúa en la provincia de Zamora y Roales corresponde a Roales del Pan (Zamora), según la confirmación de la familia; también existen un Roales en Valderas (León) y Roales de Campos (Valladolid). Los once lugares que añade `TATARABUELOS SEGUNDOS.docx` también están en la provincia de Zamora. Fresnadillo es la localidad de Bermillo de Sayago que `TATARABUELOS TERCEROS.docx` llama Fresnadillo de Sayago; Muga de Alba pertenece a Losacino, y Sogo, a Pereruela. Fuentesaúco es el municipio zamorano, a menos de veinte kilómetros de El Cubo del Vino, y no Fuentesaúco de Fuentidueña (Segovia).
 
 Al añadir un lugar nuevo, la lista sigue funcionando aunque todavía no tenga coordenadas. Comprueba su municipio y provincia antes de incorporarlo al mapa y pregunta a la familia si la localidad no se puede identificar con seguridad. No asignes una posición por aproximación ni conviertas una iglesia citada en las notas en una localidad independiente.
+
+## Profesiones
+
+`occupations` es una lista, también cuando solo hay un oficio. Cada entrada tiene `name`, el oficio con la palabra del original, y puede llevar `date`, el año o la fecha en que consta, con el mismo formato que en los eventos, y `note`. La ficha los muestra en la sección «Profesión», justo debajo del nombre y antes de «Sus padres», para que se vean sin recorrer una ficha larga. `build-data.mjs` valida la lista y rechaza `occupation` en singular, porque la ficha no lo mostraría.
+
+El 11 de noviembre de 2026 se revisaron todas las observaciones, notas y transcripciones del archivo. Solo tres personas tienen un oficio expreso: Miguel Calvo Méndez, labrador en su matrimonio de 1898; Bernardo Brioso Pérez, jornalero en el suyo de 1903, y Cristóbal Unzueta, flebotomiano, es decir, sangrador, en la demanda de 1794. Las partidas transcritas anteriores a 1800 no indican el oficio de su titular; como mucho, un cargo o una condición. Los documentos DOCX no recogen ningún oficio.
+
+No se han registrado como profesión, a falta de una decisión de la familia:
+
+- La situación militar de Salvador Piorno Tuda, «licenciado del Ejército con licencia absoluta» en su matrimonio de 1879, que ya figura en sus observaciones.
+- Los cargos y condiciones: José Zurdo, alcalde al morir en 1748; Andrés Delgado, «capitán»; Francisco Zamora, «el hidalgo», y seis personas cuyas partidas de fallecimiento o entierro las llaman pobres.
+- La fórmula «dedicada a las ocupaciones propias de su sexo» de Lucía Piorno Santiago y Ángela de las Heras Prada en sus matrimonios.
+- Los escribanos, fieles de fechos, familiares del Santo Oficio y presbíteros que aparecen en partidas ajenas con el nombre de alguien del árbol, mientras no se confirme que son la misma persona.
+
+Por ahora no hay un índice de profesiones junto a los de personas, apellidos y lugares. Se añadirá cuando haya suficientes fichas con oficio.
 
 ## Alcance y procedencia de los datos
 

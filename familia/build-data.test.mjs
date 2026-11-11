@@ -5,13 +5,13 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 
-async function buildFixture(t, burial) {
-  const directory = await mkdtemp(path.join(tmpdir(), 'familia-burial-'));
+async function buildFixture(t, fields) {
+  const directory = await mkdtemp(path.join(tmpdir(), 'familia-build-'));
   t.after(() => rm(directory, { recursive: true, force: true }));
   for (const file of ['build-data.mjs', 'lifespan.mjs']) {
     await copyFile(new URL(file, import.meta.url), path.join(directory, file));
   }
-  const person = { id: 'ana', name: 'Ana Martín', givenNames: 'Ana', surnames: ['Martín'], burial };
+  const person = { id: 'ana', name: 'Ana Martín', givenNames: 'Ana', surnames: ['Martín'], ...fields };
   await writeFile(path.join(directory, 'records.json'), JSON.stringify({
     branches: [{ id: 'familia', label: 'Familia', roots: ['ana'] }], people: [person],
   }));
@@ -21,7 +21,7 @@ async function buildFixture(t, burial) {
 
 test('a burial is preserved and indexed without inventing a death date', async t => {
   const burial = { date: '1726-03-10', place: 'Abelón', note: 'San Martín', transcription: 'fue sepultado [ilegible]' };
-  const { directory, result } = await buildFixture(t, burial);
+  const { directory, result } = await buildFixture(t, { burial });
   assert.equal(result.status, 0, result.stderr);
   const person = JSON.parse(await readFile(path.join(directory, 'data/people/ana.json'), 'utf8'));
   const index = JSON.parse(await readFile(path.join(directory, 'data/index.json'), 'utf8'));
@@ -38,8 +38,39 @@ test('burials use the same date, event and document validation as other events',
     [{ documents: ['image.jpg'] }, /ana\.burial\.documents/],
     ['not an event', /ana\.burial: expected an event object/],
   ]) {
-    const { result } = await buildFixture(t, burial);
+    const { result } = await buildFixture(t, { burial });
     assert.notEqual(result.status, 0);
     assert.match(result.stderr, expected);
   }
+});
+
+test('the occupations of a person reach their card unchanged', async t => {
+  const occupations = [
+    { name: 'Jornalero', date: '1898', note: 'Consta «de oficio jornalero» al casarse.' },
+    { name: 'Labrador' },
+  ];
+  const { directory, result } = await buildFixture(t, { occupations });
+  assert.equal(result.status, 0, result.stderr);
+  const person = JSON.parse(await readFile(path.join(directory, 'data/people/ana.json'), 'utf8'));
+  assert.deepEqual(person.occupations, occupations);
+});
+
+test('a malformed occupation stops the build and says where it is', async t => {
+  for (const [occupations, expected] of [
+    ['Labrador', /ana\.occupations: expected a list/],
+    [['Labrador'], /ana\.occupations\[0\]: expected an occupation object/],
+    [[{ name: 'Labrador' }, { date: '1898' }], /ana\.occupations\[1\]\.name: expected nonempty text/],
+    [[{ name: 'Labrador', date: '1898-13' }], /ana\.occupations\[0\]: invalid calendar date/],
+    [[{ name: 'Labrador', note: '' }], /ana\.occupations\[0\]\.note: expected nonempty text/],
+  ]) {
+    const { result } = await buildFixture(t, { occupations });
+    assert.notEqual(result.status, 0, `accepted ${JSON.stringify(occupations)}`);
+    assert.match(result.stderr, expected);
+  }
+});
+
+test('a job written as a single occupation is rejected instead of silently left off the card', async t => {
+  const { result } = await buildFixture(t, { occupation: 'Labrador' });
+  assert.notEqual(result.status, 0);
+  assert.match(result.stderr, /ana\.occupation: use occupations/);
 });

@@ -1732,7 +1732,14 @@
       ],
       "death": {
         "place": "Badalona"
-      }
+      },
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1898",
+          "note": "Al casarse consta «de oficio labrador»."
+        }
+      ]
     },
     {
       "id": "lucia-piorno-santiago",
@@ -1916,7 +1923,14 @@
         "date": "1952-08-19",
         "place": "Zamora",
         "note": "Iglesia de San Juan de Puertanueva."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Jornalero",
+          "date": "1903",
+          "note": "Al casarse consta «de oficio jornalero»."
+        }
+      ]
     },
     {
       "id": "angela-de-las-heras-prada",
@@ -21271,6 +21285,13 @@
         "note": "Falleció entre 1794 y diciembre de 1799.",
         "transcription": "A pedimiento de Pedro Pérez Junquera y María Junquera viuda de Christobal de Unzueta vecinos de la villa de Villar de Cierbos.\n\nDon Carlos [ilegible] entre Jorge de Besa Polanco vecino de la villa de Villar de Ciervos y Josef de la Cámara Vaquero su procurador de la una parte = Pedro Pérez Junquera y María Junquera viuda de Christobal Unzueta vecinos de ella y [ilegible] su procurador de la otra: sobre [ilegible] por donde se ha de conducir el agua para regar un [ilegible] que posee el citado Jorge de Besa [ilegible] tubo principio ante la [ilegible] de la mencionada villa de Villar de Ciervos entre [ilegible] de mil setecientos noventa y quatro, por la petición siguiente = Christoval de Unzueta flebotomiano y Pedro Pérez vecinos de esta villa de Villar de Ciervos ante vuestra merced nos querellamos y ponemos la demanda que más haya lugar [ilegible] de Jorge de Vesa nuestro convecino [ilegible]"
       },
+      "occupations": [
+        {
+          "name": "Flebotomiano",
+          "date": "1794",
+          "note": "Es decir, sangrador. Así se presenta en la demanda que interpuso ese año."
+        }
+      ],
       "observations": [
         "Era flebotomiano (sangrador) y vecino de Villardeciervos.",
         "En 1794 demandó, junto con Pedro Pérez Junquera, a su convecino Jorge de Besa Polanco por la conducción de aguas de riego. El pleito llegó a la Real Chancillería de Valladolid, que despachó la ejecutoria en diciembre de 1799 a petición de Pedro Pérez Junquera y de María Junquera, ya viuda de Cristóbal."

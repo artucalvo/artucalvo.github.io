@@ -72,6 +72,24 @@ function validateEvent(event, context) {
   }
 }
 
+function validateOccupations(occupations, context) {
+  if (occupations === undefined) return;
+  if (!Array.isArray(occupations)) {
+    fail(`${context}: expected a list of occupations.`);
+    return;
+  }
+  occupations.forEach((occupation, index) => {
+    const entry = `${context}[${index}]`;
+    if (!isObject(occupation)) {
+      fail(`${entry}: expected an occupation object.`);
+      return;
+    }
+    if (!isText(occupation.name)) fail(`${entry}.name: expected nonempty text.`);
+    validateDate(occupation.date, entry);
+    if (occupation.note !== undefined && !isText(occupation.note)) fail(`${entry}.note: expected nonempty text.`);
+  });
+}
+
 function placesOf(person) {
   return [...new Set([
     person.birth?.place,
@@ -124,6 +142,9 @@ async function build() {
     validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
+    // The card reads only the list, so a lone "occupation" would never be shown.
+    if (Object.hasOwn(person, 'occupation')) fail(`${person.id}.occupation: use occupations, a list, even for a single one.`);
+    validateOccupations(person.occupations, `${person.id}.occupations`);
     for (const event of ['birth', 'baptism', 'death', 'burial']) validateEvent(person[event], `${person.id}.${event}`);
     if (person.marriages !== undefined && !Array.isArray(person.marriages)) {
       fail(`${person.id}.marriages: expected an array.`);

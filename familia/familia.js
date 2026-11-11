@@ -281,15 +281,17 @@ function eventHasData(event) {
   return event && (event.date || event.place || event.note || event.spouse || event.transcription);
 }
 
+function dateLine(value) {
+  const time = element('time', 'event-date', dateLabel(value));
+  time.dateTime = value;
+  return time;
+}
+
 function eventBlock(title, event, spouse) {
   if (!eventHasData(event)) return null;
   const section = element('section', 'event-item');
   section.append(element('span', 'event-marker'), element('h3', '', title));
-  if (event.date) {
-    const time = element('time', 'event-date', dateLabel(event.date));
-    time.dateTime = event.date;
-    section.append(time);
-  }
+  if (event.date) section.append(dateLine(event.date));
   if (event.place) section.append(element('p', 'event-place', event.place));
   if (spouse) {
     const link = relationLink(spouse, 'Cónyuge');
@@ -320,6 +322,19 @@ async function renderProfile(id, focus = false) {
     header.append(avatar, heading);
     if (lifespan(person)) header.append(element('p', 'profile-years', lifespan(person)));
     panel.replaceChildren(header);
+    // First, so that a job is seen without scrolling down a long card.
+    if (person.occupations?.length) {
+      const work = element('section', 'profile-section');
+      work.append(element('h3', '', person.occupations.length > 1 ? 'Profesiones' : 'Profesión'));
+      person.occupations.forEach(occupation => {
+        const entry = element('div', 'occupation');
+        entry.append(element('p', 'occupation-name', occupation.name));
+        if (occupation.date) entry.append(dateLine(occupation.date));
+        if (occupation.note) entry.append(element('p', 'event-note', occupation.note));
+        work.append(entry);
+      });
+      panel.append(work);
+    }
     if (father || mother) {
       const family = element('section', 'profile-section');
       family.append(element('h3', '', 'Sus padres'));
