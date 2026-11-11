@@ -134,30 +134,6 @@
       ]
     },
     {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Manuel Méndez de Paz.JPG",
-          "sha256": "10d97c45c976ce6dee14ead023b7a9acac4002dc82b935a88aedbe7848a6cc55",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1812-04-10",
-      "place": "Casaseca de las Chanas",
-      "transcription": "Manuel, hijo de Luis Méndez y Josefa de Paz.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a diez días del mes de Abril de mil ochocientos y doce, yo el infraescripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a un niño que nació el día anterior como a las ocho de la mañana; es hijo legítimo de primero matrimonio y legítimo de él de Luis Méndez y Josefa de Paz; púsele por nombre Manuel; fue su padrino Franco Rodrigz, vecino de este lugar, a quien advertí el parentesco espiritl y demás obligaciones. Son sus Abuelos Paternos Andrés Méndez y María de Lera; Mats Bonifacio de Paz y Eduarda Pérez, naturales, este de la Ziudad de Toro y todos los demás vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Fr. Manuel Fernández.",
-      "uncertainties": [
-        "El margen queda en parte oculto en el pliegue. El tratamiento «Fr.» de la firma se lee con reservas."
-      ],
-      "status": "incorporada",
-      "personIds": [
-        "manuel-mendez-de-paz"
-      ],
-      "applied": [
-        "Transcripción en el bautismo; nota con la hora del nacimiento."
-      ]
-    },
-    {
       "type": "marriage",
       "images": [
         {
@@ -204,27 +180,6 @@
       ],
       "applied": [
         "Entierro el 08-12-1870 en Casaseca de las Chanas con transcripción; hora del fallecimiento en la nota; observación con sus hijas."
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Feliciana Maíllo Morales.JPG",
-          "sha256": "4d18b59409b6368e28199726df398fcc0c377aa5e95286489bf5f37b39c59d8c",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1814-02-22",
-      "place": "Casaseca de las Chanas",
-      "transcription": "Feliciana, hija de Fernando Mayllo y María Morales.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a veinte y dos días del mes de Febrero del año mil ochocientos y catorce, yo el infrascripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a una niña que nació el día anterior como a las dos de la tarde; es hija legítima de Fernando Mayllo y María Morales, primera de primero matrimonio; púsele por nombre Feliciana; fueron sus Padrinos Franco Jambrina y Marcelina su hija, a quienes advertí el parentesco espirl y demás obligaciones; son sus Abuelos Pats Josef y Sevastiana Rodríguez; Mats Bernardo Morales y Antonia Valladolid, todos vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Fr. Manuel Fernández.",
-      "status": "incorporada",
-      "personIds": [
-        "feliciana-maillo-morales"
-      ],
-      "applied": [
-        "Transcripción en el bautismo; nota con la hora del nacimiento."
       ]
     },
     {
@@ -862,6 +817,54 @@
       ],
       "applied": [
         "Entierro el 11-12-1918 en Tardobispo con transcripción; hora del fallecimiento en la nota."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Méndez de Paz.JPG",
+          "sha256": "10d97c45c976ce6dee14ead023b7a9acac4002dc82b935a88aedbe7848a6cc55",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1812-04-10",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel, hijo de Luis Méndez y Josefa de Paz.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a diez días del mes de Abril de mil ochocientos y doce, yo el infraescripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a un niño que nació el día anterior como a las ocho de la mañana; es hijo legítimo de primero matrimonio y legítimo de él de Luis Méndez y Josefa de Paz; púsele por nombre Manuel; fue su padrino Franco Rodrigz, vecino de este lugar, a quien advertí el parentesco espiritl y demás obligaciones. Son sus Abuelos Paternos Andrés Méndez y María de Lera; Mats Bonifacio de Paz y Eduarda Pérez, naturales, este de la Ziudad de Toro y todos los demás vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Dn Manuel Fernández.",
+      "uncertainties": [
+        "La firma es «Dn Manuel Fernández»: el matrimonio de Fernando Maíllo (1813) lo nombra «Cura Thente Dn Manuel Fernández»; antes se había leído «Fr.»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-mendez-de-paz"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Feliciana Maíllo Morales.JPG",
+          "sha256": "4d18b59409b6368e28199726df398fcc0c377aa5e95286489bf5f37b39c59d8c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1814-02-22",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Feliciana, hija de Fernando Mayllo y María Morales.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a veinte y dos días del mes de Febrero del año mil ochocientos y catorce, yo el infrascripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a una niña que nació el día anterior como a las dos de la tarde; es hija legítima de Fernando Mayllo y María Morales, primera de primero matrimonio; púsele por nombre Feliciana; fueron sus Padrinos Franco Jambrina y Marcelina su hija, a quienes advertí el parentesco espirl y demás obligaciones; son sus Abuelos Pats Josef y Sevastiana Rodríguez; Mats Bernardo Morales y Antonia Valladolid, todos vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Dn Manuel Fernández.",
+      "uncertainties": [
+        "La firma es «Dn Manuel Fernández»: el matrimonio de Fernando Maíllo (1813) lo nombra «Cura Thente Dn Manuel Fernández»; antes se había leído «Fr.»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "feliciana-maillo-morales"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
       ]
     }
   ]
