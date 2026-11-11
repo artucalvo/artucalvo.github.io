@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos segundos — fotografías de partidas",
+  "reviewedOn": "2026-11-11",
+  "method": "Lectura de las imágenes originales y cotejo con el árbol. [ilegible] señala huecos; las dudas y decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "date": "1775-06-13",
+      "place": "Fadón",
+      "transcription": "Antonia.\n\nEn trece días del mes de Junio año de mil setecientos setenta y cinco, yo el infraescripto cura teniente en el lugar de Fadón bapticé solemnemente a una niña que nació el día doce de dicho mes y año. Se le puso por nombre Antonia, hija legítima de Bernardo Feltrero y de Catalina Gonzalo, vecinos de este lugar. Abuelos paternos Lorenzo Feltrero y María Esteban, vecinos de este de Fadón; y los maternos Juan Gonzalo y Josepha Barrocal, vecinos del lugar de Gáname. Fue su padrino Miguel Zurdo, natural del lugar de Fadón, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmo, fecha ut supra. Dn Manuel Martín.",
+      "uncertainties": [
+        "El asiento dice junio y fecha expresamente el nacimiento el día 12; el resumen familiar indicaba 12-07-1775. Coinciden los nombres de ambos padres y los cuatro abuelos. El día y el año muestran correcciones en el manuscrito."
+      ],
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Antonia Feltrero González.JPG",
+          "sha256": "c6aae87c269986175701d1d73a866a4cff4b860fda78374bf1508f441f075111",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "personIds": [
+        "antonia-feltrero-gonzalo"
+      ],
+      "status": "incorporada",
+      "applied": [
+        "Bautismo el 13-06-1775; nacimiento corregido al 12-06-1775 conforme a la partida."
+      ]
+    },
+    {
+      "date": "1777-05-13",
+      "place": "Gáname",
+      "transcription": "Ángela Vega.\n\nEn trece días del mes de Mayo de mil setecientos setenta y siete, yo el infrascrito párroco en la del lugar de Gáname bapticé solemnemente y puse los santos óleos a una niña que nació el día diez de dicho mes y año. Se la puso por nombre Ángela, hija legítima de Casimiro Vega y de Águeda Fierro, naturales y vecinos de este dicho lugar. Fueron sus abuelos paternos Manuel Vega y Ana María Vega, naturales y vecinos de este lugar; y los maternos Joseph Fierro, natural de este lugar, y Micaela Blanco, natural de Fresnadillo, vecinos de este de Gáname. Fue su padrino Manuel Vega, abuelo de la bautizada, a quien advertí el parentesco espiritual y demás obligaciones, y por verdad lo firmo, fecha ut supra. Domingo de la Vega.",
+      "uncertainties": [
+        "Identificación por los padres Casimiro Vega y Águeda Fierro y la fecha de nacimiento ya registrada."
+      ],
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ángela Vega Fierro.JPG",
+          "sha256": "77c01084bc9154f9f917c11edb68e2b48ba7a03f73ef7042d944b42aed045e06",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "personIds": [
+        "angela-vega-fierro"
+      ],
+      "status": "incorporada",
+      "applied": [
+        "Bautismo y transcripción en la ficha."
+      ]
+    },
+    {
+      "date": "1795-08-16",
+      "place": "Morales del Vino",
+      "transcription": "Baltasar Brioso Martín.\n\nEn el día diez y seis del mes de Agosto del año de mil setecientos noventa y cinco, yo el infrascripto Dn Agustín Marqués, presbítero vecino de este lugar de Morales, con licencia expresa de su párroco, bapticé solemnemente y puse los santos óleos a un niño que nació en el día catorce de dicho mes y año, y puse por nombre Baltasar Eusebio, hijo legítimo de Alonso Brioso e Ynés Martín, naturales de este lugar. Nieto por la paterna de Baltasar Brioso y Catalina Cabrero, y por la materna de Esteban Martín y María Marqués, todos también naturales de Morales. Fue padrino Baltasar Brioso, a quien advertí sus obligaciones y espiritual parentesco, y testigos Diego Martín y Bernardo [ilegible], y en fe de ello lo certifico y firmo con dicho párroco ut supra. José María Baraz. Dn Agustín Marqués Luelmo.",
+      "uncertainties": [
+        "Identificación por ambos padres y la fecha de nacimiento existente. El asiento añade el nombre Eusebio; se conserva el nombre del árbol."
+      ],
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Baltasar Brioso Martín.JPG",
+          "sha256": "1ee5aaf7348bd034f5ebffe1fc529e0ec5f4e5e925c9cfabeb70a53e19769eda",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "personIds": [
+        "baltasar-brioso-martin"
+      ],
+      "status": "incorporada",
+      "applied": [
+        "Bautismo y transcripción en la ficha."
+      ]
+    },
+    {
+      "date": "1789-08-23",
+      "place": "Fadón",
+      "transcription": "Bernarda.\n\nEn el lugar de Fadón a veinte y tres días del mes de Agosto de mil setecientos ochenta y nueve, yo el infrascripto cura theniente de él bauticé solemnemente a una niña que nació el día veinte de dicho mes, a quien puse por nombre Bernarda, hija legítima de Lucas Esteban, natural de Villamor de la Ladre, y de Theresa Vega, natural de este; abuelos paternos Roque Esteban, natural del dicho Villamor, y Cathalina Prieto, natural de Fideza; maternos Miguel Vega y Bárbara Zurdo, naturales de este. Fue su padrino Francisco Esteban, vecino de este lugar, a quien advertí el parentesco espiritual y demás obligaciones, y por verdad lo firmo ut supra. Dn Miguel Pérez y Ayala.",
+      "uncertainties": [
+        "Identificación por ambos padres Lucas Esteban y Teresa Vega y la fecha de nacimiento ya registrada."
+      ],
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Bernarda Esteban Vega.JPG",
+          "sha256": "5753332f0c20e571e98f2f2b76059e50bcbdf722a5e4f66cbcb10fdf3f5df102",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "personIds": [
+        "bernarda-esteban-vega"
+      ],
+      "status": "incorporada",
+      "applied": [
+        "Bautismo y transcripción en la ficha."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Diego Benito Calvo Salvador.JPG",
+          "sha256": "c1c854e0dd2394089efbb3f2f0e1cecd3f73e076a1cd1c078f6ce3cf2f01261e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1752-11-22",
+      "place": "Villalazán",
+      "transcription": "Diego Benito Calbo.\n\nEn veinte y dos días del mes de Noviembre de este presente año de mil setecientos y cinquenta y dos, yo Fr. Joseph del Espíritu Santo, religioso descalzo de nro Pe San Francisco, de licencia del dho señor cura de Villalazán, bauticé solemnemente a un niño que se llama Diego Benito, hijo legítimo de Pedro Calvo y su mujer María Salvador, vecinos de Villalazán, y naturales él de Villalazán y ella de Sanzoles; sus abuelos paternos, Bernardo Calvo y María Pérez, vecinos que fueron de Villalazán; maternos, Pedro Salvador y María Terrón, vecinos de la villa de Sanzoles; el qual niño nació el día doce de dicho mes y año; fueron sus padrinos Dn Diego Monroy y Dña Ysabel de Zamora, a quienes advertí la obligación; fueron testigos Silvestre González y Diego Pérez, Andrés [ilegible], y para que conste lo firmo. Fr. Joseph del Espíritu Santo.\n\nCasó y se avecindó en Casaseca de las Chanas.",
+      "uncertainties": [
+        "Coinciden nombre, nacimiento, padres y abuelos con el árbol. El nacimiento se indica expresamente el día 12; el bautismo se celebra el 22. El último testigo no se ha leído con seguridad.",
+        "La nota posterior bajo el asiento dice que casó y se avecindó en Casaseca de las Chanas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "diego-calvo-salvador"
+      ],
+      "applied": [
+        "Bautismo del 22-11-1752 con transcripción; se conserva el nacimiento del 12-11-1752."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Diego Calvo y Luisa Alonso.JPG",
+          "sha256": "f179cdd65e71c7e731dd971097fc30f69bdd38370ce513ec2eb9761a1ac781e4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1772-11-25",
+      "place": "Moraleja del Vino",
+      "transcription": "Diego Calbo con Luisa Alonso. Despº y velº.\n\nEn el día veinte y cinco de Noviembre de mil setecientos setenta y dos, yo el infraescrito cura theniente, con comisión del Sr cura párroco del lugar de Casaseca de las Chanas, habiendo precedido las canónicas moniciones que previene el Sto Concilio y de ellas no resultado impedimento alguno, como me hicieron constar los certificados del Sr cura de Villalazán y del citado cura de Casaseca, desposé y velé in facie Eclesie a Diego Calbo, hijo legítimo de Pedro Calbo y María Salvador, vs del lugar de Villalazán, y a Luisa Alonso, hija legítima de Franco Alonso y Ysabel Alonso, vs de este lugar, y de que fueron testigos Nicolás Alonso, Ramón Fernández y [ilegible] Martín, y para que conste lo firmo. Gregorio Manso.",
+      "uncertainties": [
+        "Los nombres de ambos contrayentes y los cuatro padres coinciden con el árbol; celebración y velación el mismo día. El nombre del último testigo no se ha leído con seguridad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "diego-calvo-salvador",
+        "luisa-alonso-alonso"
+      ],
+      "applied": [
+        "Transcripción y nota sobre velación en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Luisa Alonso Alonso.JPG",
+          "sha256": "45a53c2e636302f4d8a9c741e30928f993c51c294cb44534579ffca10f2e97d8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1751-02-20",
+      "place": "Moraleja del Vino",
+      "transcription": "Luysa Alonso.\n\nEn el lugar de Moraleja, en veinte de febrero de mil setecientos cinquenta y un años, yo fray Juan Antonio Pascual, religioso de la Sta Trinidad y Lector de Theología jubilado, bapticé solemnemente y puse los Ss óleos a una niña que se llama Luysa, hija legítima de Francisco Alonso, vecino de este lugar y natural de Casaseca de las Chanas, y Ysabel Alonso, natural de este lugar; sus abuelos paternos Manuel Alonso, natural de Casaseca de las Chanas, y Antonia Ufano, natural de Roales, y los maternos Bernardo Alonso y Luysa Zamora, naturales de este lugar. Su padrino Pedro Pérez, vecino de Casaseca de las Chanas, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmé. Dn Victoriano Zamora.",
+      "uncertainties": [
+        "El bautismo coincide con los padres y los cuatro abuelos del árbol, y con los padres expresados en el matrimonio con Diego Calvo. No se expresa la fecha de nacimiento; el árbol la conserva según el resumen familiar.",
+        "La lectura de la firma y partes del texto es provisional.",
+        "La partida llama natural de Roales a Antonia Ufano, abuela paterna; el árbol registra su nacimiento en Morales del Vino. Se conserva la discrepancia para cotejo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luisa-alonso-alonso"
+      ],
+      "applied": [
+        "Bautismo del 20-02-1751 con transcripción; se conserva el nacimiento previo."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Fernando Maíllo Rodríguez.JPG",
+          "sha256": "ec99d324a84268c99f20e569dfe34bd7ab62162e334ac5881d8625b435a29230",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1793-05-30",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Fernando, hijo de Josef Maíllo y Sebastiana Rodríguez.\n\nEn treinta de Mayo de mil setecientos noventa y tres, yo Dn Francisco de Valdecañas, Presbítero, vecino de este lugar de Casaseca las Chanas, con licencia de Dn Carlos de Valdecañas, Cura Rector de la Yglesia Parroquial de Sn Juan Bautista de él, bautizé solemnemente y puse los Stos Óleos según ordena nuestra Sta Madre la Yglesia y el Sto Concilio de Trento dispone, a un niño a quien puse por nombre Fernando, nació en veinte y ocho de dicho mes y año, es hijo legítimo de Josef Maíllo y Sebastiana Rodríguez, nieto por línea paterna de Andrés Maíllo y Theodora Hernández, y por la materna de Bernardo Rodríguez y Emerenciana García, vecinos todos de este lugar. Fue su padrino Geminiano Gaitán, vecino de este lugar, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Ubaldo de Alba y Francisco Hernández, también de esta vecindad, y para que conste lo firmo. Dn Francisco de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "Identificación por los padres, abuelos y la fecha de nacimiento expresamente consignada."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "fernando-maillo-rodriguez"
+      ],
+      "applied": [
+        "Bautismo el 30-05-1793, separado del nacimiento el 28-05-1793."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Fernando Maíllo y María Morales.JPG",
+          "sha256": "8bf1c953cde848624da1ce1f1ad494beb8e7ce767c3835d9673dd2f1c1072d96",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1813-01-16",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Fernando Mayllo con María Morales.\n\nEn la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca de las Chanas, a diez y seis días del mes de Enero del año mil ochocientos y trece, yo Fr. Santiago Valladolid, religioso de la SSma Trinidad Calzada, con licencia expresa del Cura Theniente Dn Manuel Fernández, habiendo publicado en tres días festivos inter missarum solemnia las tres canónicas moniciones que manda el Sto Concilio de Trento, no habiendo resultado impedimento alguno, y hallándoles bien instruidos en la doctrina christiana, asistí al matrimonio que por palabras de presente, in facie ecclesia, y con los respectivos consentimientos, la contrayente de sus padres y el contrayente de su curador Geminiano Gaitán, contrageron Fernando Mayllo, soltero, hijo legítimo de Josef y Sebastiana Rodríguez, difuntos vecinos que fueron de este lugar, y María Morales, doncella, hija legítima de Bernardo Morales y Antonia Valladolid, vecinos de este mismo lugar. Recibieron las bendiciones de la Yglesia. Fueron testigos Josef Ponce, Geminiano Gaitán y Juan Rodríguez, todos vecinos de este lugar, y para que conste lo certifico y firmo dicho día, mes y año. Dn Manuel Fernández. Fr. Santiago Valladolid.",
+      "uncertainties": [
+        "Identificación por los cuatro padres y la fecha y lugar del matrimonio; el novio estaba bajo curaduría y sus dos padres habían fallecido."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "fernando-maillo-rodriguez",
+        "maria-morales-valladolid"
+      ],
+      "applied": [
+        "Transcripción del matrimonio en ambos cónyuges."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Mª. Juana Morales Valladolid.JPG",
+          "sha256": "875ae4c5db6931eb619f34f22f0b3d996b47fe9893ca54d377ea338a179fe7e4",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Mª. Juana Morales Valladolidb.JPG",
+          "sha256": "de31a9a5ad7b2bab4385762b1574c068b74c8fa96df624aabf0589b45a71705e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1791-06-26",
+      "place": "Casaseca de las Chanas",
+      "transcription": "María Juana, hija de Bernardo Morales y de Antonia Valladolid.\n\nEn veinte y seis de Junio de mil setecientos noventa y uno, yo Dn Francisco de Valdecañas, Presbítero, vecino de este lugar de Casaseca de las Chanas, con licencia de Dn Carlos de Valdecañas, Cura propio de la Yglesia Parroquial de Sn Juan Bautista de él, bautizé solemnemente y puse los Stos Óleos según ordena nuestra Madre la Yglesia y el Sto Concilio de Trento dispone, a una niña a quien puse por nombre María Juana, nació en veinte y quatro de dicho mes y año, es hija legítima de Bernardo Morales y Antonia Valladolid su legítima muger, naturales y vecinos de este lugar, nieta por línea paterna de Josef Morales e Ygnacia Calvo su muger, naturales y vecinos de este, y por la materna de Francisco Valladolid, natural de este, y de Isabel Ocampo su muger, natural de Pereruela. Fue su padrino dicho Josef Morales, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Ubaldo de Alba y Luisa Calvo, naturales y vecinos de este lugar, y para que conste lo firmo. Dn Francisco de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "El comienzo del asiento se halla al pie de una página y continúa en la siguiente. La identidad coincide con los padres y abuelos y la fecha de nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-morales-valladolid"
+      ],
+      "applied": [
+        "Bautismo el 26-06-1791, separado del nacimiento el 24-06-1791."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Antonia Feltrero González.JPG",
+          "sha256": "ffa9c4c1cad8562f79b6873e667fc3b473adc1b98688e6a63023142aab1fc836",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1848-02-17",
+      "place": "Malillos",
+      "transcription": "Antonia Feltrero. Testó. Cumplido.\n\nEn el día diez y siete de Febrero de mil ochocientos cuarenta y ocho, yo el infrascrito párroco de Malillos y sus anejos mandé dar sepultura eclesiástica al cadáver de Antonia Feltrero, conjunta persona de Franco Tuda, vº y natural de este; recibió los Stos Sacramentos de Penitencia, Viático y Extremaunción; le apliqué la indulgencia pro artículo mortis. Hizo testamento [ilegible] por su ánima quince misas rezadas y el derecho parroquial y ofrenda sencilla dos años; murió de sesenta y cuatro años, dejó cinco hijos y para que conste lo firmo ut supra. Franco García.",
+      "uncertainties": [
+        "El asiento da 64 años; el nacimiento existente de 1775 implicaría 72. No expresa la fecha del fallecimiento; se conserva el 16-02-1848 del resumen. La lectura del pasaje testamentario es parcial."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonia-feltrero-gonzalo"
+      ],
+      "applied": [
+        "Entierro y transcripción; observación sobre la edad."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Tuda Porras1.JPG",
+          "sha256": "9058b346996af95de83118e0336e0a8259c91a88aace64cca77ae25026d4ff02",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Muerte de Francisco Tuda Porras2.JPG",
+          "sha256": "9f687c3b27545930c108d76b655ca5a90faae9c006b999c47d93e788384e7864",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1841-11-26",
+      "place": "Malillos",
+      "transcription": "Franco Tuda.\n\nComo párroco de este lugar de Malillos, provincia de Zamora, mandé dar sepultura ecca en el día veinte y seis de Noviembre al cadáver de Francisco Tuda, marido de Antonia Feltrero, natural de este lugar, oficio labrador, su edad sesenta y seis años. Testó ante Juan Prieto, en el que quedó por bien de su alma el derecho parroquial, que fuese ofrendado dos años a ofrenda sencilla, que se pusiesen cuatro hachas a su entierro, honras y cabo de año. Quedó ocho misas votivas y noventa rs para que se distribuyesen en misas por el alma de su madre, y lo restante de sus bienes que lo heredasen sus hijos. Recibió los Stos Sacramentos de Penitencia, Viático y Extremaunción. Y para que así conste lo firmo en dho Malillos a veinte y seis de Noviembre de mil ochocientos cuarenta y uno. Josef Altamirano.",
+      "uncertainties": [
+        "El asiento fecha el entierro, pero no expresa una fecha de fallecimiento. Se conserva el 26-11-1841 del resumen, sin asumir que el entierro prueba la muerte ese día. Lectura parcial del testamento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-tuda-porras"
+      ],
+      "applied": [
+        "Entierro y transcripción; nota sobre la fecha."
+      ]
+    }
+  ]
+}

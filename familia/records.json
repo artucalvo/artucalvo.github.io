@@ -2773,11 +2773,18 @@
         "date": "1752-11-12",
         "place": "Villalazán"
       },
+      "baptism": {
+        "date": "1752-11-22",
+        "place": "Villalazán",
+        "transcription": "Diego Benito Calbo.\n\nEn veinte y dos días del mes de Noviembre de este presente año de mil setecientos y cinquenta y dos, yo Fr. Joseph del Espíritu Santo, religioso descalzo de nro Pe San Francisco, de licencia del dho señor cura de Villalazán, bauticé solemnemente a un niño que se llama Diego Benito, hijo legítimo de Pedro Calvo y su mujer María Salvador, vecinos de Villalazán, y naturales él de Villalazán y ella de Sanzoles; sus abuelos paternos, Bernardo Calvo y María Pérez, vecinos que fueron de Villalazán; maternos, Pedro Salvador y María Terrón, vecinos de la villa de Sanzoles; el qual niño nació el día doce de dicho mes y año; fueron sus padrinos Dn Diego Monroy y Dña Ysabel de Zamora, a quienes advertí la obligación; fueron testigos Silvestre González y Diego Pérez, Andrés [ilegible], y para que conste lo firmo. Fr. Joseph del Espíritu Santo.\n\nCasó y se avecindó en Casaseca de las Chanas."
+      },
       "marriages": [
         {
           "spouse": "luisa-alonso-alonso",
           "date": "1772-11-25",
-          "place": "Moraleja del Vino"
+          "place": "Moraleja del Vino",
+          "note": "Velados en la misma ceremonia.",
+          "transcription": "Diego Calbo con Luisa Alonso. Despº y velº.\n\nEn el día veinte y cinco de Noviembre de mil setecientos setenta y dos, yo el infraescrito cura theniente, con comisión del Sr cura párroco del lugar de Casaseca de las Chanas, habiendo precedido las canónicas moniciones que previene el Sto Concilio y de ellas no resultado impedimento alguno, como me hicieron constar los certificados del Sr cura de Villalazán y del citado cura de Casaseca, desposé y velé in facie Eclesie a Diego Calbo, hijo legítimo de Pedro Calbo y María Salvador, vs del lugar de Villalazán, y a Luisa Alonso, hija legítima de Franco Alonso y Ysabel Alonso, vs de este lugar, y de que fueron testigos Nicolás Alonso, Ramón Fernández y [ilegible] Martín, y para que conste lo firmo. Gregorio Manso."
         }
       ]
     },
@@ -2793,13 +2800,21 @@
       "mother": "isabel-alonso-zamora",
       "birth": {
         "date": "1751-02-20",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "note": "La partida fecha el bautismo ese día, pero no expresa la fecha de nacimiento; se conserva la fecha del resumen familiar."
+      },
+      "baptism": {
+        "date": "1751-02-20",
+        "place": "Moraleja del Vino",
+        "transcription": "Luysa Alonso.\n\nEn el lugar de Moraleja, en veinte de febrero de mil setecientos cinquenta y un años, yo fray Juan Antonio Pascual, religioso de la Sta Trinidad y Lector de Theología jubilado, bapticé solemnemente y puse los Ss óleos a una niña que se llama Luysa, hija legítima de Francisco Alonso, vecino de este lugar y natural de Casaseca de las Chanas, y Ysabel Alonso, natural de este lugar; sus abuelos paternos Manuel Alonso, natural de Casaseca de las Chanas, y Antonia Ufano, natural de Roales, y los maternos Bernardo Alonso y Luysa Zamora, naturales de este lugar. Su padrino Pedro Pérez, vecino de Casaseca de las Chanas, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmé. Dn Victoriano Zamora."
       },
       "marriages": [
         {
           "spouse": "diego-calvo-salvador",
           "date": "1772-11-25",
-          "place": "Moraleja del Vino"
+          "place": "Moraleja del Vino",
+          "note": "Velados en la misma ceremonia.",
+          "transcription": "Diego Calbo con Luisa Alonso. Despº y velº.\n\nEn el día veinte y cinco de Noviembre de mil setecientos setenta y dos, yo el infraescrito cura theniente, con comisión del Sr cura párroco del lugar de Casaseca de las Chanas, habiendo precedido las canónicas moniciones que previene el Sto Concilio y de ellas no resultado impedimento alguno, como me hicieron constar los certificados del Sr cura de Villalazán y del citado cura de Casaseca, desposé y velé in facie Eclesie a Diego Calbo, hijo legítimo de Pedro Calbo y María Salvador, vs del lugar de Villalazán, y a Luisa Alonso, hija legítima de Franco Alonso y Ysabel Alonso, vs de este lugar, y de que fueron testigos Nicolás Alonso, Ramón Fernández y [ilegible] Martín, y para que conste lo firmo. Gregorio Manso."
         }
       ],
       "observations": [
@@ -2930,12 +2945,18 @@
         {
           "spouse": "maria-morales-valladolid",
           "date": "1813-01-16",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "Fernando Mayllo con María Morales.\n\nEn la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca de las Chanas, a diez y seis días del mes de Enero del año mil ochocientos y trece, yo Fr. Santiago Valladolid, religioso de la SSma Trinidad Calzada, con licencia expresa del Cura Theniente Dn Manuel Fernández, habiendo publicado en tres días festivos inter missarum solemnia las tres canónicas moniciones que manda el Sto Concilio de Trento, no habiendo resultado impedimento alguno, y hallándoles bien instruidos en la doctrina christiana, asistí al matrimonio que por palabras de presente, in facie ecclesia, y con los respectivos consentimientos, la contrayente de sus padres y el contrayente de su curador Geminiano Gaitán, contrageron Fernando Mayllo, soltero, hijo legítimo de Josef y Sebastiana Rodríguez, difuntos vecinos que fueron de este lugar, y María Morales, doncella, hija legítima de Bernardo Morales y Antonia Valladolid, vecinos de este mismo lugar. Recibieron las bendiciones de la Yglesia. Fueron testigos Josef Ponce, Geminiano Gaitán y Juan Rodríguez, todos vecinos de este lugar, y para que conste lo certifico y firmo dicho día, mes y año. Dn Manuel Fernández. Fr. Santiago Valladolid."
         }
       ],
       "death": {
         "date": "1821-05-30",
         "place": "Casaseca de las Chanas"
+      },
+      "baptism": {
+        "date": "1793-05-30",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Fernando, hijo de Josef Maíllo y Sebastiana Rodríguez.\n\nEn treinta de Mayo de mil setecientos noventa y tres, yo Dn Francisco de Valdecañas, Presbítero, vecino de este lugar de Casaseca las Chanas, con licencia de Dn Carlos de Valdecañas, Cura Rector de la Yglesia Parroquial de Sn Juan Bautista de él, bautizé solemnemente y puse los Stos Óleos según ordena nuestra Sta Madre la Yglesia y el Sto Concilio de Trento dispone, a un niño a quien puse por nombre Fernando, nació en veinte y ocho de dicho mes y año, es hijo legítimo de Josef Maíllo y Sebastiana Rodríguez, nieto por línea paterna de Andrés Maíllo y Theodora Hernández, y por la materna de Bernardo Rodríguez y Emerenciana García, vecinos todos de este lugar. Fue su padrino Geminiano Gaitán, vecino de este lugar, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Ubaldo de Alba y Francisco Hernández, también de esta vecindad, y para que conste lo firmo. Dn Francisco de Valdecañas Duque de Estrada."
       }
     },
     {
@@ -2956,13 +2977,19 @@
         {
           "spouse": "fernando-maillo-rodriguez",
           "date": "1813-01-16",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "Fernando Mayllo con María Morales.\n\nEn la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca de las Chanas, a diez y seis días del mes de Enero del año mil ochocientos y trece, yo Fr. Santiago Valladolid, religioso de la SSma Trinidad Calzada, con licencia expresa del Cura Theniente Dn Manuel Fernández, habiendo publicado en tres días festivos inter missarum solemnia las tres canónicas moniciones que manda el Sto Concilio de Trento, no habiendo resultado impedimento alguno, y hallándoles bien instruidos en la doctrina christiana, asistí al matrimonio que por palabras de presente, in facie ecclesia, y con los respectivos consentimientos, la contrayente de sus padres y el contrayente de su curador Geminiano Gaitán, contrageron Fernando Mayllo, soltero, hijo legítimo de Josef y Sebastiana Rodríguez, difuntos vecinos que fueron de este lugar, y María Morales, doncella, hija legítima de Bernardo Morales y Antonia Valladolid, vecinos de este mismo lugar. Recibieron las bendiciones de la Yglesia. Fueron testigos Josef Ponce, Geminiano Gaitán y Juan Rodríguez, todos vecinos de este lugar, y para que conste lo certifico y firmo dicho día, mes y año. Dn Manuel Fernández. Fr. Santiago Valladolid."
         }
       ],
       "death": {
         "date": "1865-03-14",
         "place": "Casaseca de las Chanas",
         "note": "A consecuencia de hidrotórax."
+      },
+      "baptism": {
+        "date": "1791-06-26",
+        "place": "Casaseca de las Chanas",
+        "transcription": "María Juana, hija de Bernardo Morales y de Antonia Valladolid.\n\nEn veinte y seis de Junio de mil setecientos noventa y uno, yo Dn Francisco de Valdecañas, Presbítero, vecino de este lugar de Casaseca de las Chanas, con licencia de Dn Carlos de Valdecañas, Cura propio de la Yglesia Parroquial de Sn Juan Bautista de él, bautizé solemnemente y puse los Stos Óleos según ordena nuestra Madre la Yglesia y el Sto Concilio de Trento dispone, a una niña a quien puse por nombre María Juana, nació en veinte y quatro de dicho mes y año, es hija legítima de Bernardo Morales y Antonia Valladolid su legítima muger, naturales y vecinos de este lugar, nieta por línea paterna de Josef Morales e Ygnacia Calvo su muger, naturales y vecinos de este, y por la materna de Francisco Valladolid, natural de este, y de Isabel Ocampo su muger, natural de Pereruela. Fue su padrino dicho Josef Morales, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Ubaldo de Alba y Luisa Calvo, naturales y vecinos de este lugar, y para que conste lo firmo. Dn Francisco de Valdecañas Duque de Estrada."
       }
     },
     {
@@ -3015,6 +3042,11 @@
       "death": {
         "date": "1824-07-29",
         "place": "Gáname"
+      },
+      "baptism": {
+        "date": "1777-05-13",
+        "place": "Gáname",
+        "transcription": "Ángela Vega.\n\nEn trece días del mes de Mayo de mil setecientos setenta y siete, yo el infrascrito párroco en la del lugar de Gáname bapticé solemnemente y puse los santos óleos a una niña que nació el día diez de dicho mes y año. Se la puso por nombre Ángela, hija legítima de Casimiro Vega y de Águeda Fierro, naturales y vecinos de este dicho lugar. Fueron sus abuelos paternos Manuel Vega y Ana María Vega, naturales y vecinos de este lugar; y los maternos Joseph Fierro, natural de este lugar, y Micaela Blanco, natural de Fresnadillo, vecinos de este de Gáname. Fue su padrino Manuel Vega, abuelo de la bautizada, a quien advertí el parentesco espiritual y demás obligaciones, y por verdad lo firmo, fecha ut supra. Domingo de la Vega."
       }
     },
     {
@@ -3040,7 +3072,13 @@
       ],
       "death": {
         "date": "1841-11-26",
-        "place": "Malillos"
+        "place": "Malillos",
+        "note": "La partida fecha el entierro el 26 de noviembre, pero no indica cuándo falleció; se conserva la fecha del resumen familiar."
+      },
+      "burial": {
+        "date": "1841-11-26",
+        "place": "Malillos",
+        "transcription": "Franco Tuda.\n\nComo párroco de este lugar de Malillos, provincia de Zamora, mandé dar sepultura ecca en el día veinte y seis de Noviembre al cadáver de Francisco Tuda, marido de Antonia Feltrero, natural de este lugar, oficio labrador, su edad sesenta y seis años. Testó ante Juan Prieto, en el que quedó por bien de su alma el derecho parroquial, que fuese ofrendado dos años a ofrenda sencilla, que se pusiesen cuatro hachas a su entierro, honras y cabo de año. Quedó ocho misas votivas y noventa rs para que se distribuyesen en misas por el alma de su madre, y lo restante de sus bienes que lo heredasen sus hijos. Recibió los Stos Sacramentos de Penitencia, Viático y Extremaunción. Y para que así conste lo firmo en dho Malillos a veinte y seis de Noviembre de mil ochocientos cuarenta y uno. Josef Altamirano."
       }
     },
     {
@@ -3054,8 +3092,9 @@
       "father": "bernardo-feltrero-esteban",
       "mother": "catalina-gonzalo-barrocal",
       "birth": {
-        "date": "1775-07-12",
-        "place": "Fadón"
+        "date": "1775-06-12",
+        "place": "Fadón",
+        "note": "El resumen familiar indicaba el 12 de julio; la partida de bautismo dice 12 de junio."
       },
       "marriages": [
         {
@@ -3067,6 +3106,17 @@
       "death": {
         "date": "1848-02-16",
         "place": "Malillos"
+      },
+      "baptism": {
+        "date": "1775-06-13",
+        "place": "Fadón",
+        "transcription": "Antonia.\n\nEn trece días del mes de Junio año de mil setecientos setenta y cinco, yo el infraescripto cura teniente en el lugar de Fadón bapticé solemnemente a una niña que nació el día doce de dicho mes y año. Se le puso por nombre Antonia, hija legítima de Bernardo Feltrero y de Catalina Gonzalo, vecinos de este lugar. Abuelos paternos Lorenzo Feltrero y María Esteban, vecinos de este de Fadón; y los maternos Juan Gonzalo y Josepha Barrocal, vecinos del lugar de Gáname. Fue su padrino Miguel Zurdo, natural del lugar de Fadón, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmo, fecha ut supra. Dn Manuel Martín."
+      },
+      "burial": {
+        "date": "1848-02-17",
+        "place": "Malillos",
+        "transcription": "Antonia Feltrero. Testó. Cumplido.\n\nEn el día diez y siete de Febrero de mil ochocientos cuarenta y ocho, yo el infrascrito párroco de Malillos y sus anejos mandé dar sepultura eclesiástica al cadáver de Antonia Feltrero, conjunta persona de Franco Tuda, vº y natural de este; recibió los Stos Sacramentos de Penitencia, Viático y Extremaunción; le apliqué la indulgencia pro artículo mortis. Hizo testamento [ilegible] por su ánima quince misas rezadas y el derecho parroquial y ofrenda sencilla dos años; murió de sesenta y cuatro años, dejó cinco hijos y para que conste lo firmo ut supra. Franco García.",
+        "note": "La partida le atribuye 64 años; según el nacimiento registrado tenía 72."
       }
     },
     {
@@ -3181,7 +3231,12 @@
           "date": "1814-01-10",
           "place": "Fadón"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1789-08-23",
+        "place": "Fadón",
+        "transcription": "Bernarda.\n\nEn el lugar de Fadón a veinte y tres días del mes de Agosto de mil setecientos ochenta y nueve, yo el infrascripto cura theniente de él bauticé solemnemente a una niña que nació el día veinte de dicho mes, a quien puse por nombre Bernarda, hija legítima de Lucas Esteban, natural de Villamor de la Ladre, y de Theresa Vega, natural de este; abuelos paternos Roque Esteban, natural del dicho Villamor, y Cathalina Prieto, natural de Fideza; maternos Miguel Vega y Bárbara Zurdo, naturales de este. Fue su padrino Francisco Esteban, vecino de este lugar, a quien advertí el parentesco espiritual y demás obligaciones, y por verdad lo firmo ut supra. Dn Miguel Pérez y Ayala."
+      }
     },
     {
       "id": "baltasar-brioso-martin",
@@ -3210,6 +3265,11 @@
         "date": "1875-04-07",
         "place": "Morales del Vino",
         "note": "A consecuencia de una hernia inguinal estrangulada."
+      },
+      "baptism": {
+        "date": "1795-08-16",
+        "place": "Morales del Vino",
+        "transcription": "Baltasar Brioso Martín.\n\nEn el día diez y seis del mes de Agosto del año de mil setecientos noventa y cinco, yo el infrascripto Dn Agustín Marqués, presbítero vecino de este lugar de Morales, con licencia expresa de su párroco, bapticé solemnemente y puse los santos óleos a un niño que nació en el día catorce de dicho mes y año, y puse por nombre Baltasar Eusebio, hijo legítimo de Alonso Brioso e Ynés Martín, naturales de este lugar. Nieto por la paterna de Baltasar Brioso y Catalina Cabrero, y por la materna de Esteban Martín y María Marqués, todos también naturales de Morales. Fue padrino Baltasar Brioso, a quien advertí sus obligaciones y espiritual parentesco, y testigos Diego Martín y Bernardo [ilegible], y en fe de ello lo certifico y firmo con dicho párroco ut supra. José María Baraz. Dn Agustín Marqués Luelmo."
       }
     },
     {
@@ -3838,7 +3898,8 @@
         {
           "spouse": "maria-de-lera-rodriguez",
           "date": "1773-02-02",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En dos de febrero de este presente año de mill setecientos setenta y tres: Yo el infrascripto Cura propio de esta Yglesia de San Juan Baptista, Parroquial de este lugar de Casaseca de las Chanas, haviendo precedido las tres canonicas moniciones continuas, que dispone el santo Concilio de Trento, y no haver resultado impedimento alguno, que obste el matrimonio que intentan contraer Andres Mendez, mozo soltero, hijo legítimo de Manuel Mendez, y de Ana Maria Martin, el difunto, y ella vecina, y natural de este de Casaseca; y Maria de Lera de el mismo estado, hija legitima de Juan de Lera ya difunto, y [ilegible] Rodriguez, vecinos de este lugar, y con mi licencia y permiso asistio al dho matrimonio [ilegible] de San Juan Religioso Geronimo, el que [ilegible] esposó, y veló in facie Eclesie, segun y como [ilegible] el santo Concilio de Trento, y manda [ilegible] Yglesia; siendo testigos Dn Lorenzo [ilegible] de Zamora Alonso Rodriguez, y Thomas [ilegible]endez, vecinos de este referido Lugar de Casaseca de las Chanas; y para que conste lo firmo con el nominado Religioso ut supra. Fr Mathias de Sn Juan. Dn Alonso [ilegible]."
         }
       ],
       "death": {
@@ -3846,7 +3907,12 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "manuel-mendez",
-      "mother": "ana-ma-martin"
+      "mother": "ana-ma-martin",
+      "baptism": {
+        "date": "1746-02-16",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Andres Mendez Martin.\n\nEn diez y seis de Febrero de mil setezs qta y seis años yo el Infrascripto Cura [ilegible] Iglesia de Sn Juan Bapta parroql deste lugar de Casaseca de las Chans baptizé [ilegible] y puse Stos oleos a un Niño llamado Andres, q nació en ocho del dho, hijo lexmo de Manuel [ilegible]dez, y Ana Maria Martin vzos y naturales deste lugar; nieto [ilegible] refiere la [ilegible] del fol. quatroz[ilegible]. Fueron sus padrinos su tio Andres Martin, y Cathalina Alonso [ilegible] lugar; preveniles sus obligacs y asi para q conste, lo firmo dhos dia, mes y año. Br. Thomas Ventura de Martas."
+      }
     },
     {
       "id": "maria-de-lera-rodriguez",
@@ -3864,7 +3930,8 @@
         {
           "spouse": "andres-mendez-martin",
           "date": "1773-02-02",
-          "place": "Casaseca de las Chanas"
+          "place": "Casaseca de las Chanas",
+          "transcription": "En dos de febrero de este presente año de mill setecientos setenta y tres: Yo el infrascripto Cura propio de esta Yglesia de San Juan Baptista, Parroquial de este lugar de Casaseca de las Chanas, haviendo precedido las tres canonicas moniciones continuas, que dispone el santo Concilio de Trento, y no haver resultado impedimento alguno, que obste el matrimonio que intentan contraer Andres Mendez, mozo soltero, hijo legítimo de Manuel Mendez, y de Ana Maria Martin, el difunto, y ella vecina, y natural de este de Casaseca; y Maria de Lera de el mismo estado, hija legitima de Juan de Lera ya difunto, y [ilegible] Rodriguez, vecinos de este lugar, y con mi licencia y permiso asistio al dho matrimonio [ilegible] de San Juan Religioso Geronimo, el que [ilegible] esposó, y veló in facie Eclesie, segun y como [ilegible] el santo Concilio de Trento, y manda [ilegible] Yglesia; siendo testigos Dn Lorenzo [ilegible] de Zamora Alonso Rodriguez, y Thomas [ilegible]endez, vecinos de este referido Lugar de Casaseca de las Chanas; y para que conste lo firmo con el nominado Religioso ut supra. Fr Mathias de Sn Juan. Dn Alonso [ilegible]."
         }
       ],
       "death": {
@@ -4028,7 +4095,8 @@
       ],
       "death": {
         "date": "1813-03-28",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "transcription": "Bernardo Morales marido de Antonia Valladolid. No testó.\n\nEn el lugar de Casaseca de las Chanas a veinte y ocho días del mes de marzo del año mil ochocientos y trece murió Bernardo Morales, marido que fue de Antonia Valladolid, vecino de este lugar, recibió los santos sacramentos de penitencia, viático y extrema unción, no hizo testamento y por disposición de su mujer e hijos se le hizo el entierro acostumbrado en esta parroquia, enterróse al medio del cuerpo de la iglesia y para que conste yo el cura theniente lo certifico y firmo. Tendría 48 años. Don Manuel Fernández."
       },
       "father": "jose-morales",
       "mother": "ignacia-calvo"
@@ -4057,7 +4125,12 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "francisco-valladolid",
-      "mother": "isabel-ocampo"
+      "mother": "isabel-ocampo",
+      "burial": {
+        "date": "1824-12-09",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Antonia Valladolid. Testó.\n\nEn nueve de Diciembre de mil ochoctos veinte y quatro yo el Dn Josef Anto Suárez Párroco de la Ygla de Sn Juan Bautista [ilegible] de este lugar de Casaseca de las Chanas di sepultura eclesiástica en la octava de la tercera fila grada abajo de dha Yglesia al cadáver de Antonia Valladolid viuda de Bernardo Morales, que falleció el día antes de hedad de sesenta y quatro años; recibió todos los Sacramentos y aplicación de indulgencias: hizo testamento ante Manuel [ilegible] Sevillano fiel de fechos del referido lugar, dejó misas por el bien de su alma a la voluntad de sus testamentarios Josef Sevillano y Santiago Morales: dejó quatro hijos casados llamados Santiago, Anacleto, María y Juana; y pa que conste lo firmo. Josef Anto Suárez."
+      }
     },
     {
       "id": "jose-piorno-zurdo",
@@ -4109,7 +4182,12 @@
         "place": "Gáname"
       },
       "father": "domingo-piorno",
-      "mother": "antonia-burrieza"
+      "mother": "antonia-burrieza",
+      "baptism": {
+        "date": "1745-05-02",
+        "place": "Gáname",
+        "transcription": "Theresa Piorno.\n\nEn dos de Mayo de mill setts y quarenta y cinco, yo el infrascripto Cura propio de él bapticé solemnemente y puse los stos óleos a una niña, que nació el día veinte y quatro de Abril próximo pasado, y es hija legítima de Domingo Piorno y de Ana Burrieza, vezos de este dho lugar, y se la puso por nombre Theresa; la qual es nieta por línea paterna de Pedro Piorno y de Theresa Olmedo, difuntos, vezos y naturales de él, y por la materna de Manl Burrieza y Franca Salvador, también difuntos, vezos y naturales que fueron asimismo de él. Fue su padrino Joseph Fierro, vezº de este lugar, a quien advertí el parentesco espiritual y [ilegible]."
+      }
     },
     {
       "id": "casimiro-vega-vega",
@@ -4213,7 +4291,12 @@
         "place": "Malillos"
       },
       "father": "antonio-porras",
-      "mother": "magdalena-gonzalo"
+      "mother": "magdalena-gonzalo",
+      "baptism": {
+        "date": "1744-11-15",
+        "place": "Sogo",
+        "transcription": "Thomasa.\n\nEn el Lugar de Sogo a quince días del mes de Noviembre del año de mill setecientos y qta y quatro yo el Cura [ilegible] Bapticé solemnemte y puse los Santos óleos a una niña que nació el día siete de dho mes, pusele por nombre Thomasa, hija de Antonio Porras vº de Sogo y natural de Moral, y de Magdalena Gonzalo va de Sogo y natural por parte paterna de Villardiegua y materna de Sogo. Fueron sus padrinos Manuel Tuda vº y natural de Arcillo y Manuela Calvo va y natural de Sogo, a quienes advertí el parentesco y obligación de enseñar la doctrina xpiana; la madrina no contrajo parentesco y para que conste lo firmé. Dn Miguel de [ilegible]."
+      }
     },
     {
       "id": "bernardo-feltrero-esteban",
@@ -4279,7 +4362,8 @@
         {
           "spouse": "agustina-garrote-garrido",
           "date": "1760-02-06",
-          "place": "Abelón"
+          "place": "Abelón",
+          "transcription": "Alonso Santiago con Agustina Garrote.\n\nEn dicho día, mes y año, yo el infraescripto cura theniente de dicho lugar, habiendo precedido las tres canónicas amonestaciones que nuestra Santa Madre la Iglesia manda y el Santo Concilio de Trento dispone, y no habiendo resultado impedimento alguno más que el de quarto grado de consanguinidad, del que se sacó dispensa de Su Santidad, como consta de la licencia expedida por el señor provisor de este obispado, por ante don Joseph Rodríguez, notario de su tribunal, su fecha diez y seis de enero del referido año de 1760, desposé y velé in facie ecclesiae por palabras de presente que hacen verdadero matrimonio a Alonso Santiago, soltero, hijo de legítimo matrimonio de Domingo Santiago y de Teresa Garrote, difunta, con Agustina Garrote, soltera, hija de legítimo matrimonio de Pedro Garrote, difunto, y de Manuela Garrido, todos vecinos de Abelón. Siendo testigos Pedro Santiago, Andrés Garrote y Alonso Ortiz; y para que conste lo firmo en dicho día, mes y año. Licenciado Manuel Montes."
         }
       ],
       "death": {
@@ -4287,7 +4371,12 @@
         "place": "Abelón"
       },
       "father": "domingo-santiago",
-      "mother": "teresa-garrote"
+      "mother": "teresa-garrote",
+      "baptism": {
+        "date": "1740-10-16",
+        "place": "Abelón",
+        "transcription": "Alonso Santiago.\n\nEn el lugar de Abelon a diez i seis dias del mes de Octubre deste año de mil sietecientos i quarenta Baptize solemnemente, i puse los santos oleos a un niño que se llamo Alonso hijo del lexitimo matrimonio de Domingo Santiago natural de Moral, i de Theresa Garrote nieto por su padre de Alonso Santiago vecino de Moral, i por su madre es nieto de Domingo Garrote, nacio el dicho segun informe el dia ocho de dho mes; fue su padrino Manuel Dominguez a quien adverti el parentesco espiritual, que solo contrajo, i obligacion, i madrina Josepha Garrote, fueron testigos Franco Luengo, Joseph Silba, i otros muchos vecinos deste lugar. Consta me i lo firme ut supra. Agustin Martinez."
+      }
     },
     {
       "id": "agustina-garrote-garrido",
@@ -4305,7 +4394,8 @@
         {
           "spouse": "alonso-santiago-garrote",
           "date": "1760-02-06",
-          "place": "Abelón"
+          "place": "Abelón",
+          "transcription": "Alonso Santiago con Agustina Garrote.\n\nEn dicho día, mes y año, yo el infraescripto cura theniente de dicho lugar, habiendo precedido las tres canónicas amonestaciones que nuestra Santa Madre la Iglesia manda y el Santo Concilio de Trento dispone, y no habiendo resultado impedimento alguno más que el de quarto grado de consanguinidad, del que se sacó dispensa de Su Santidad, como consta de la licencia expedida por el señor provisor de este obispado, por ante don Joseph Rodríguez, notario de su tribunal, su fecha diez y seis de enero del referido año de 1760, desposé y velé in facie ecclesiae por palabras de presente que hacen verdadero matrimonio a Alonso Santiago, soltero, hijo de legítimo matrimonio de Domingo Santiago y de Teresa Garrote, difunta, con Agustina Garrote, soltera, hija de legítimo matrimonio de Pedro Garrote, difunto, y de Manuela Garrido, todos vecinos de Abelón. Siendo testigos Pedro Santiago, Andrés Garrote y Alonso Ortiz; y para que conste lo firmo en dicho día, mes y año. Licenciado Manuel Montes."
         }
       ],
       "death": {
@@ -4313,7 +4403,17 @@
         "place": "Abelón"
       },
       "father": "pedro-garrote",
-      "mother": "manuela-garrido"
+      "mother": "manuela-garrido",
+      "baptism": {
+        "date": "1740-09-04",
+        "place": "Abelón",
+        "transcription": "En el lugar de Abelón a quatro días del mes de setiembre de mil setecientos y quarenta, yo el infraescripto cura theniente bapticé solemnemente y puse los santos óleos a una niña que según informe nació el día veinte y ocho de agosto de dicho año, hija de legítimo matrimonio de Pedro Garrote y de su mujer Manuela [ilegible], natural de Villar de Yegua y vecina de este; llamose Agustina y es nieta por su padre de Antonio Garrote y de Cathalina Morales. Fue su padrino Domingo Fernández, a quien advertí el parentesco espiritual que solo contrajo y obligación, y madrina Margarita Calvo. Fueron testigos Joseph Silva, Manuel [ilegible], Mathías Gabriel y otros muchos. Consta me lo firmé ut supra. Agustín Martínez."
+      },
+      "burial": {
+        "date": "1804-12-22",
+        "place": "Abelón",
+        "transcription": "Agustina Garrote. Abto. Cumplido.\n\nEn el lugar de Abelón, a veinte y dos días del mes de diciembre del año de mil ochocientos y quatro, yo el infraescripto cura propio rector de su iglesia parroquial, enterré y di sepultura eclesiástica al cadáver de Agustina Garrote, que murió en la mañana de este día. Fue socorrida con todos los sacramentos por su orden. Dejó solamente los derechos parroquiales con su ofrenda y alumbramiento de sepultura por medio año. Fue su testamentario Francisco Santiago. Y para que conste lo firmo. Don Antonio Molina."
+      }
     },
     {
       "id": "angel-garrote-garrote",
@@ -4436,7 +4536,13 @@
         "place": "Fadón"
       },
       "father": "miguel-vega",
-      "mother": "barbara-zurdo"
+      "mother": "barbara-zurdo",
+      "baptism": {
+        "date": "1759-11-05",
+        "place": "Fadón",
+        "transcription": "En el lugar de Fadón a onze días del mes de Nre año de mil setecientos cinquenta y nuebe yo Fr Fran Gomez y Novoa theniente de Cura en él [ilegible] los stos óleos, y hize las más ceremonias acostumbradas, a una niña que se le puso por nombre Theresa, y yo mismo le eché agua de socorro el día cinco de dho mes, hija legítima de Miguel Vega y de Bárbara Zurdo [ilegible] de este lugar. Abuelos paternos Joseph Vega y Ma Zurdo, y por maternal Joseph Zurdo y Ana Matheo, difuntos, y todos vzos de este referido lugar. Fueron sus padrinos Jph Vega y Ana Ma Esteban: advertíles el parentesco y sus obligaciones. Fueron testigos Thomas Zurdo, Alexandro Chicote y [ilegible] Zurdo, y por verdad lo firmo dho día, mes y año. Fr Fran Gomez y Novoa.",
+        "note": "Agua de socorro el 5 de noviembre; los óleos y las demás ceremonias, el día 11."
+      }
     },
     {
       "id": "alonso-brioso-cabrero",
@@ -4890,7 +4996,12 @@
           "date": "1761-09-13",
           "place": "El Cubo del Vino"
         }
-      ]
+      ],
+      "burial": {
+        "date": "1801-05-22",
+        "place": "El Cubo del Vino",
+        "transcription": "Teresa Terrón.\n\nEn la Villa del Cubo a veinte y dos días de Maio del año de mil ochocientos y uno yo el infrascripto párroco de su Yglesia enterré y di sepultura en ella al cadáver de Teresa Terrón vecina de esta Villa, viuda que quedó de Juan Alonso Izquierdo, murió ayer, recibió los Sacramentos de penitencia, viático y extrema unción; hizo testamento y dispuso se le hiciese bien por su alma además del derecho parroquial trece misas rezadas, ocho por las ánimas benditas del purgatorio y cinco a varios santos, y que se le enterrase con el hábito de la Merced y lo firmo. Manuel del Castillo."
+      }
     },
     {
       "id": "alonso-de-las-heras-pozo",
@@ -4906,7 +5017,8 @@
       },
       "baptism": {
         "date": "1769-10-01",
-        "place": "Fadón"
+        "place": "Fadón",
+        "transcription": "Alonso de las Heras.\n\nEl dia primero de octubre del año de mil setecientos y sesenta y nueve, yo Dn Antonio Montesinos, Theniente Cura en el lugar de Fadon, Bapticé solemnemente, y puse los Stos Oleos a un niño que nació el dia veinte y quatro de septiembre y se le puso por nombre Alonso de las heras, hijo legitimo de Miguel de las heras, y Magdalena Pozo; fueron sus Abuelos paternos Antonio de las heras, y Magdalena Salvador, vezos de Sogo, maternos Alonso Pozo y Maria perez vezos de Fadon, padrinos Joaquin Pedrero y Maria [ilegible], vezos de Fadon, y les adverti el parentesco espiritual y sus obligaciones, y para que conste lo firmo ut supra. Antonio Montesinos."
       },
       "death": {
         "date": "1844-11-02",
@@ -4918,7 +5030,9 @@
         {
           "spouse": "monica-dominguez-martin",
           "date": "1792-12-01",
-          "place": "Abelón"
+          "place": "Abelón",
+          "transcription": "Alonso de las Heras y Monica Dominguez.\n\nEn uno de Diciembre de mil setecientos y noventa y dos Yo Dn Agustin Enriquez Cura Parroco de este Lugar de Abelon haviendo hecho saber al pueblo en tres dias festivos inter missarum solemnia el Matrimonio que intentan contraer Alonso de las Heras viudo de Rosa Simon vecino del Lugar de Fadon, y Monica Dominguez soltera hija legitima de Manuel Dominguez y Emerenciana Martin difuntos vecinos que fueron de este Lugar. No haviendo resultado impedimento que obste a la celebracion de dho Matrimonio, precedida la certificacion del Teniente Cura de Fadon de haverse proclamado en aquel Lugar igualmente sin impedimento, precedido tambien el consentimiento paterno y examen de doctrina cristiana le contraxeron en mi presencia por palabras de presente que le hicieron valido recibiendo al mismo tiempo las bendiciones de la Yglesia: de que fueron testigos Josef Diego, Felipe Silva y Lucas de Pedro vecinos de aqui. Y en fe de ello lo firmo. Dn Agustin Enriquez.",
+          "note": "Alonso era viudo de Rosa Simón."
         }
       ]
     },
@@ -4948,7 +5062,9 @@
         {
           "spouse": "alonso-de-las-heras-pozo",
           "date": "1792-12-01",
-          "place": "Abelón"
+          "place": "Abelón",
+          "transcription": "Alonso de las Heras y Monica Dominguez.\n\nEn uno de Diciembre de mil setecientos y noventa y dos Yo Dn Agustin Enriquez Cura Parroco de este Lugar de Abelon haviendo hecho saber al pueblo en tres dias festivos inter missarum solemnia el Matrimonio que intentan contraer Alonso de las Heras viudo de Rosa Simon vecino del Lugar de Fadon, y Monica Dominguez soltera hija legitima de Manuel Dominguez y Emerenciana Martin difuntos vecinos que fueron de este Lugar. No haviendo resultado impedimento que obste a la celebracion de dho Matrimonio, precedida la certificacion del Teniente Cura de Fadon de haverse proclamado en aquel Lugar igualmente sin impedimento, precedido tambien el consentimiento paterno y examen de doctrina cristiana le contraxeron en mi presencia por palabras de presente que le hicieron valido recibiendo al mismo tiempo las bendiciones de la Yglesia: de que fueron testigos Josef Diego, Felipe Silva y Lucas de Pedro vecinos de aqui. Y en fe de ello lo firmo. Dn Agustin Enriquez.",
+          "note": "Alonso era viudo de Rosa Simón."
         }
       ]
     },
@@ -5497,7 +5613,10 @@
         "place": "Casaseca de las Chanas"
       },
       "father": "antonio-ufano",
-      "mother": "francisca-de-luelmo"
+      "mother": "francisca-de-luelmo",
+      "observations": [
+        "El bautismo de su nieta Luisa Alonso Alonso la llama natural de Roales, mientras su nacimiento figura en Morales del Vino; pendiente de cotejo."
+      ]
     },
     {
       "id": "bernardo-alonso",
