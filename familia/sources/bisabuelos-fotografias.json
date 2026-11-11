@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "batch": "Bisabuelos — fotografías de partidas",
+  "reviewedOn": "2026-11-11",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nicanor Calvo Martín.JPG",
+          "sha256": "1050c22dafc577f90f2fd0804b6e09f63cbc143032ab91cc4ee4a0a0cb0d75fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1826-01-12",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Nicanor Calbo Mrn, hijo de Lucas y Felipa.\n\nEn doze de Enero de mil ocho cientos vte y seis yo el Br D. Josef Antº Suárez, Párroco de la Yglesia de Sn Juan Bautista, única de este lugr de Casaseca de las Chanas, bauticé solemnemente y puse pr nombre Nicanor a un niño qe nació el día diez, hijo lexmo de Lucas Calbo y Felipa Martín, naturales y vecinos de este lugar. Abuelos paternos Diego, y Luisa Alonso, ésta natural de Moraleja y aquél de Villalazán y vezs de las Chanas; maternos Manuel, natural de Morales, y María Rosa Ernández, difª, natural y vecinos de Casaseca. Fue su padrino Miguel Casaseca, casado y vecino de Moraleja, a quien adbertí lo necesario y pª qe conste lo firmo. Emdo = do = vª. Josef Antº Suárez.",
+      "uncertainties": [
+        "La partida da por difunta en enero de 1826 a la abuela materna, María Rosa Hernández, cuyo fallecimiento no consta en el árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "nicanor-calvo-martin"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; observación en María Rosa de las Mercedes Hernández Martín."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Nicanor Calvo y Marcelina Méndez.JPG",
+          "sha256": "685114d54460bcbab4a1866d22ff2d758435e0b487915ddb550a28f91ebeff07",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1856-11-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Nicanor Calvo, viudo, con Marcelina Méndez, soltera.\n\nEn el Lugar de Casaseca de las Chanas a ocho de Nobiembre de mil ochocientos cincuenta y seis, yo el infrascrito Ecónomo, precedidas las tres canónicas moniciones dadas en tres días festivos en esta Parroquia de mi cargo y pasadas más de veinte y cuatro horas de la última, teniendo la edad y consentimientos necesarios, instruidos suficientemente en doctrina cristiana y preparados con el sacramento de Penitencia, desposé, casé y velé in facie Eclesia por palabras de presente que hacen verdadero sacramento a Nicanor Calvo, viudo de Anastasia Calle, vecino de este pueblo, y Marcelina Méndez, soltera, natural del mismo, hija legítima de Manuel y Feliciana Maíllo, de la misma vecindad, de que fueron testigos José Calvo y Nicolás Martín, lo que certifico y firmo día, mes y año ut supra. Fr. Juan Pérez.",
+      "uncertainties": [
+        "El margen queda en parte oculto por el pliegue del libro; se lee «[Nican]or Calvo, viu[do, con] Marcelina [Mén]dez, soltera». La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "nicanor-calvo-martin",
+        "marcelina-mendez-maillo"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; observación con la viudez de Nicanor."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Marcelina Méndez Maíllo.JPG",
+          "sha256": "01ecb111140780cd0b2d20d7557c34df83a3a5091aa0560eccdb99455a64c04e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1835-05-06",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Marcelina, hija legítima de Manuel Méndez de Paz y de Feliciana Maíllo.\n\nEn el Lugar de Casaseca de las Chanas a seis días del mes de Mayo del año de mil ochocientos treinta y cinco, yo el infrascrito Ecónomo de esta Parroquial de S. Juan Bautista, bauticé solemnemente y puse los Stos Óleos a una niña que nació el día antes, sobre las nueve de la mañana, a quien puse por nombre Marcelina, hija legítima de Manuel Méndez de Paz y de Feliciana Maíllo, naturales de este Pueblo. Abuelos paternos Luis Méndez y Josefa de Paz, naturales de este; maternos Fernando Maíllo y María Morales, todos de este Pueblo. Padrino José Perdigón, natural de Morales y vecino de este, a quien advertí el parentesco y demás obligaciones de que doy fe. Franco de Belmonte.",
+      "uncertainties": [
+        "Folio 148."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "marcelina-mendez-maillo"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Salvador Piorno Tuda.JPG",
+          "sha256": "4064dbfa4deb2a9bd0ea88a1b236dbe8903d36cdc020b56930b3302c3ddb66fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1843-08-06",
+      "place": "Malillos",
+      "transcription": "Salvador Piorno, de Julián y de Tomasa Tuda.\n\nEn el Lugar de Malillos, Provincia de Zamora y del mismo Obispado, a seis de Agosto, yo Dn José Altamirano, Cura Párroco de dho Lugar y de la Yglesia de Sta María Magdalena, bauticé solemnemente y puse los SS. Óleos que nació el día tres de dho mes, y como a las cuatro de su tarde, hijo legítimo de Julián Piorno, senarero, natural de Gáname, y de Tomasa Tuda, natural de este, siendo sus Abuelos paternos Manuel Piorno y Ángela Vega, naturales del dho Gáname, y los Maternos Franco Tuda y Antonia Feltrero, naturales, él de este, y ella del de Fadón. Se le puso por Nombre Salvador, y fue su Padrino Franco Esteban, natural de Casaseca, Maestro de Niños y sacrista de este, a quien advertí el parentesco espiritual y demás obligaciones que por él se contraen. Y para que así conste estendí esta partida en el Libro de Bautizados a seis de Agosto de mil ochocientos cuarenta y tres. Josef Altamirano.",
+      "uncertainties": [
+        "El cura omitió «a un niño» tras «los SS. Óleos».",
+        "El oficio del padre se lee «senarero»: la inicial es la s alta de «siendo», «se le puso» y «sacrista» en el mismo asiento. Senarero es el criado de labranza que cultiva por su cuenta una senara, la tierra que el amo le cede como parte del salario; es voz de Salamanca y Zamora."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "salvador-piorno-tuda"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento; profesión de su padre, Julián Piorno Vega: senarero (1843)."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Vicenta Santiago Sastre.JPG",
+          "sha256": "a7845ad132a112189301dcb627974cb9f00eb62d24fe8e6e3dbb6d19938164fa",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1841-01-23",
+      "place": "Fadón",
+      "transcription": "Vicenta Santiago y Sastre.\n\nEn el lugar de Fadón correspondiente a la Provincia y Obispado de Zamora a veinte y tres días del mes de Enero de mil ochocientos cuarenta y uno, yo Dn Manuel García, Theniente Cura de la Yglesia de Fadón, suplí las sagradas ceremonias y puse los Stos Óleos a una Niña que nació el día anterior, la que fue bautizada con agua de socorro por considerarla en peligro de muerte por su Padre Carlos Santiago, y haviéndome informado hallé ser válido el Bautismo, hija legítima del dho Carlos Santiago, natural de Abelón, y María Sastre, de Fadón, oficio de labrador. Siendo sus Abuelos paternos Faustino Santiago y Josefa Garrote, naturales del dho Abelón. Maternos Josef Sastre y Bernarda Esteban, naturales de este, todos de oficio de labrador. Se puso por nombre Vicenta. Fue su Padrino en las sagradas ceremonias Juan Gejo, natural de Fresno, soltero, oficio de zapatero, a quien advertí las obligaciones que contrajo. Siendo testigos Justo de las Heras, natural de Fresnadillo, y Teresa Cecilia, natural de este, solteros, oficio de labrador. Y para que conste estendí y autorizé la presente partida en el Libro de Bautismo de dha Parroquia día veinte y tres de Enero de mil ochocientos cuarenta y uno. Dn Manuel García.",
+      "uncertainties": [
+        "El final de casi todas las líneas queda oculto en el pliegue del libro; se han completado por el sentido las palabras cortadas («Obisp[ado]», «ochocient[os]», «a una N[iña]», «legíti[ma]», «[ofi]cio», «ceremon[ias]», «solte[ros]», «prese[nte]», «veinte y [tres]») y las conjunciones que faltan entre los nombres.",
+        "El apellido del padrino se lee «Gejo» con reservas.",
+        "«Todos de oficio de labrador» se dice de los cuatro abuelos, incluido Faustino Santiago, que había muerto en 1826."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "vicenta-santiago-sastre"
+      ],
+      "applied": [
+        "Transcripción en el bautismo, con nota sobre el agua de socorro; profesión «labrador» en su padre, Carlos Santiago Garrote (1841), y en sus abuelos Faustino Santiago Garrote y José Sastre Sastre."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Enrique Brioso Mena.JPG",
+          "sha256": "8ef1cf73c7cf2d7db9b8e247de48b6a282996511e937a8305d938d6d90550d00",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1855-01-29",
+      "place": "Tardobispo",
+      "transcription": "Enrique Brioso, de Florencio y Antonia Mena.\n\nEn el día veinte y nueve de Enero de mil ochocientos cincuenta y cinco, yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día anterior al de la fecha, al que puse por nombre Enrique, hijo legítimo de Florencio Brioso, natural de Morales del Vino, y de Antonia Mena, de este pueblo y vecinos del mismo. Abuelos paternos Baltasar, natural de Morales, y Luisa Alonso, de Moraleja del Vino. Maternos Tomás de Mena, de Morales, y Valeria Santamaría, de San Marcial. Fue su padrino Agustín de Mena, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Alejo Girón y Eduardo Pérez. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "La partida llama a la madre «Antonia Mena» y al abuelo «Tomás de Mena»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "enrique-brioso-mena"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Enrique Brioso y Balbina Pérez.JPG",
+          "sha256": "1b8d80b571a704fad6bfe967a96f19fc1fe5816185d60dd6be6edc8eb1d64aa3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1877-08-23",
+      "place": "Tardobispo",
+      "transcription": "N. 95. Enrique Brioso, soltero, con Balbina Pérez, viuda.\n\nEn el día veinte y tres de Agosto del año mil ochocientos setenta y siete, yo el infrascripto Cura párroco de Tardobispo y sus anejos, precedidas las moniciones canónicas en esta Yglesia, no habiendo resultado impedimento, ecsaminados en doctrina cristiana y recibido el Sacramento de la Penitencia, desposé in facie Eclesie con el consentimiento necesario y por palabra de presente a Enrique Brioso, soltero, hijo legítimo de Dn Florencio Brioso y Antonia Mena, con Balbina Pérez, viuda de Julián Garrote, vecinos todos de este pueblo. Fueron testigos Agustín Mena mayor y Manuel Salvador, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "La partida no expresa oficios ni los padres de la contrayente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "enrique-brioso-mena",
+        "balbina-perez-sanchez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; observación con la viudez de Balbina."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Balbina Pérez Sánchez.JPG",
+          "sha256": "2740b337c54e401cecdfdb0e2faca82805259060fc3bb704b8e7e63191764fab",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1911-11-19",
+      "place": "Tardobispo",
+      "transcription": "N. 673. Adulta. Balbina Pérez Sánchez.\n\nEn el pueblo de Tardobispo, Obispado y Provincia de Zamora, en el día diez y nueve de Noviembre de mil novecientos once, yo, D. José Alejandre Moreno, Cura párroco del mismo, di sepultura eclesiástica en el cementerio de este pueblo al cadáver de Balbina Pérez Sánchez, viuda de Julián Garrote y casada con Enrique Brioso de Mena, natural de Tardobispo. Falleció a las diez y siete horas del día anterior, a los sesenta y nueve años de edad, a consecuencia de Insuficiencia Valvular Central, según certificación facultativa. Recibió los Santos Sacramentos de Penitencia, Viático y Extrema-Unción, con los demás auxilios espirituales. No consta que hiciese testamento; de su matrimonio con Enrique Brioso dejó tres hijos, Bernardo, Lorenzo y Julio. Se le hizo el funeral según su clase. Y para que conste lo firmo. José Alejandre.",
+      "uncertainties": [
+        "La anotación «Año 1912» del margen inferior corresponde al asiento siguiente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "balbina-perez-sanchez"
+      ],
+      "applied": [
+        "Entierro el 19-11-1911 en Tardobispo con transcripción; hora del fallecimiento en la nota; observación con sus hijos."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Benito Heras Rabanal.JPG",
+          "sha256": "7715d9dc9210c0d8ab53e7deb2e7ff997da83c60df9489648be6d04e90006934",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1856-04-16",
+      "place": "Tardobispo",
+      "transcription": "Benito José de las Heras, de Francisco y Josefa Ravanal.\n\nEn el día diez y seis de Abril del año mil ochocientos cincuenta y seis, yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día trece del expresado mes, al que puse por nombre Benito José, hijo legítimo de Francisco de las Heras, natural de Abelón, y de Josefa Ravanal, natural de Zamora, de la Parroquia de S. Esteban, y vecinos de este pueblo. Abuelos paternos Manuel de las Heras y Josefa Pascual, de Abelón. Maternos José Ravanal, de S. Antolín de Zamora, y Manuela Ybáñez, de S. Lázaro, extramuros de Zamora. Fueron sus padrinos Manuel Aparicio y María Rabanal, tíos del bautizado, a quien advertí sus obligaciones; testigos José Alonso y Eduardo Pérez, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "status": "incorporada",
+      "personIds": [
+        "benito-de-las-heras-rabanal"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Benito de las Heras Rabanal.JPG",
+          "sha256": "f40644d65338c9a0146421431834b6f2551f3a828eb180b74603deadfebdf1aa",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1924-06-08",
+      "place": "Tardobispo",
+      "transcription": "N. 786. 6º. Benito de las Heras Rabanal.\n\nEn el pueblo de Tardobispo, Diócesis de Zamora, Provincia de Zamora, en el día ocho de Junio de mil novecientos veinticuatro, yo, Don José Alejandre Moreno, Cura párroco de la única Yglesia parroquial de este pueblo, mandé dar sepultura eclesiástica en el cementerio de esta parroquia al cadáver de D. Benito de las Heras Rabanal, de sesenta y ocho años de edad, natural de Tardobispo, casado con Da. María Antonia Prada Carretero, e hijo legítimo de D. Francisco de las Heras y de Da. Josefa Rabanal, que falleció, según certificación facultativa, en Tardobispo el día anterior, a las nueve de la mañana, a consecuencia de Hemorragia Cerebral. Recibió los Santos Sacramentos de Penitencia, Viático y Extrema-Unción, que le fueron administrados por el párroco que suscribe. Se ignora haya otorgado testamento. Se le hizo el funeral de tercera clase, siendo testigos D. Francisco Brioso y D. Bernardino [ilegible]",
+      "uncertainties": [
+        "La imagen termina antes del final del asiento: faltan el apellido del segundo testigo, el cierre y la firma."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "benito-de-las-heras-rabanal"
+      ],
+      "applied": [
+        "Entierro el 08-06-1924 en Tardobispo con transcripción; hora del fallecimiento en la nota."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Mª Antonia Prada Carretero.JPG",
+          "sha256": "13ee9ca049ec81b111de5fd6f3f4e56d2dcac59bf7a77a21675e44420d34e0ca",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1861-03-31",
+      "place": "Tardobispo",
+      "transcription": "María Antonia Pradas, de Ángel y Manuela Carretero.\n\nEn el día treinta y uno de Marzo de mil ochocientos sesenta y uno, yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día veinte y siete de dicho mes, a la que puse por nombre María Antonia, hija legítima de Ángel Pradas, natural de este pueblo, y de Manuela Carretero, natural de Peleas de Arriba. Abuelos paternos D. Manuel Pradas, de Torrefrades, y Manuela Girón, de Tardobispo. Maternos Pascual Carretero y Micaela Bragado, de Peleas de Arriba. Fue su padrino Antonio Pérez, soltero y natural de este pueblo, a quien advertí el parentesco espiritual y obligaciones; testigos Eduardo Pérez y Ramona Cascón, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "El párroco Manuel Temprano escribe el apellido «Pradas»; se conserva la forma «Prada» del árbol.",
+        "El apellido de la testigo se lee «Cascón» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ma-antonia-prada-carretero"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Benito de las Heras y Mª. Antonia Prada.JPG",
+          "sha256": "94e37430eb27dfa5919417ed720bd0d8a1b3e7c34948fff3d44274da8b77697b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1880-10-23",
+      "place": "Tardobispo",
+      "transcription": "N. 101. Benito de las Heras con María Antonia Pradas, solteros.\n\nEn el día veinte y tres de Octubre del año mil ochocientos ochenta, yo el infrascripto Cura párroco de Tardobispo y sus anejos, habiendo precedido las tres moniciones canónicas en esta Yglesia y no habiendo resultado impedimento alguno, examinados en doctrina cristiana y recibidos los Stos Sacramentos de Penitencia y Comunión, teniendo el consentimiento de sus padres, casé in facie Eclesie por palabra de presente a Benito de las Heras, soltero y natural de este pueblo, hijo legítimo de Francisco de las Heras, difunto, y de Josefa Rabanal, con María Antonia Pradas, soltera y natural de Tardobispo, hija legítima de Ángel Pradas, difunto, y de Manuela Carretero, todos vecinos de este pueblo. Fueron testigos Valeriano Pérez y Domingo Chicote, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "Folio 28. El apellido del segundo testigo se lee «Chicote» con reservas. La partida no expresa oficios.",
+        "Da por difunto a Francisco de las Heras, padre del contrayente, cuyo fallecimiento no consta en el árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "benito-de-las-heras-rabanal",
+        "ma-antonia-prada-carretero"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; observación en Francisco de las Heras Pascual."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Mª. Antonia Prada Carretero.JPG",
+          "sha256": "fd94f04e20b50ddb887dab60cd98c4f6fba9637b95805f1840bd14a46afe19e8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1935-09-23",
+      "place": "Tardobispo",
+      "transcription": "N. 7. María Antonia Prada Carretero.\n\nEn el pueblo de Tardobispo, Diócesis y Provincia de Zamora, en el día veintitrés de Setiembre de mil novecientos treinta y cinco, yo, Don José Alejandre Moreno, Cura párroco del mismo, mandé dar sepultura eclesiástica en el cementerio de esta parroquia al cadáver de Da. María Antonia Prada Carretero, natural de este pueblo, hija legítima de D. Ángel Prada, natural de Tardobispo, y de Da. Manuela Carretero, natural de Peleas de Arriba, y viuda de D. Benito de las Heras Rabanal, natural de dicho Tardobispo, que falleció en Tardobispo el día anterior, a las nueve de la noche, a los setenta y cuatro años de edad, a consecuencia de Colapso Cardíaco, según certificación facultativa. Recibió los Santos Sacramentos de Penitencia, Viático y Extrema-Unción, que le fueron administrados por el párroco que suscribe. No consta que hiciese testamento. Se le hizo el funeral de segunda clase, siendo testigos D. Ángel Pérez y D. Saturnino Hernández, de esta vecindad. Y para que conste lo firmo, fecha ut supra. José Alejandre Moreno.\n\n«A las diez de la noche del día anterior», tachado, no vale. J. Alejandre.",
+      "uncertainties": [
+        "Tras «certificación facultativa» hay una frase tachada («a las diez de la noche del día anterior»), salvada al pie del asiento. La nota «Leídas íntegramente las partidas anteriores» y el encabezado «Año 1936» son ajenos a la partida."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ma-antonia-prada-carretero"
+      ],
+      "applied": [
+        "Entierro el 23-09-1935 en Tardobispo con transcripción; hora del fallecimiento en la nota."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Balbina Pérez Sánchez.JPG",
+          "sha256": "209c10b70b2d5e6f9ce8d8a875d19f3c171681333d576be5d6096971be2ed321",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1842-04-02",
+      "place": "Tardobispo",
+      "transcription": "Balbina, hija de Estevan Pérez y Eudwigis Sánchez.\n\nEn el día dos del mes de Abril del año de mil ochocientos quarenta y dos, yo el infrascripto Cura Párroco de Tardobispo y sus Anejos bauticé solemnemte y puse los Stos Óleos a una niña que nació día treinta y uno de Marzo y se llamó Balbina; es hija legítima de Estevan Pérez, natural de este de Tardobispo, y de Eudwigis Sánchez, del Cubo; sus Abuelos Paternos Miguel Pérez, natural de este, y Margarita Girón, de Roales; Maternos Manuel Sánchez y Rosa Izquierdo, naturs del Cubo. Fueron Padrinos Miguel y Antonia Alonso, primos del Bautizado, a quienes advertí sus obligaciones; testigos Eduardo y Gerónimo Pérez y Andrés Alonso, y por verdad lo firmo ut supra. Dn Gregorio Garrote de Pedro.",
+      "uncertainties": [
+        "La firma se completa por la del bautismo de Antonia de Mena (1835), del mismo párroco: «Dn Gregorio Garrote de Pedro»; en este asiento el segundo apellido queda bajo la rúbrica."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "balbina-perez-sanchez"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Nicanor Calvo Martín.JPG",
+          "sha256": "0aa4caddbf334520d62e98854784f6ca5efe1cfe1f176a7aa54f304602185853",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1893-06-22",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Nicanor Calvo, consorte de Marcelina Méndez.\n\nEn Casaseca de las Chanas, Diócesis y Provincia de Zamora, a las cinco de la mañana del día veintidós de Junio de mil ochocientos noventa y tres falleció, según declaración facultativa a consecuencia de tabes dorsal, mi feligrés Nicanor Calvo, después de haber recibido los Santos Sacramentos de Penitencia, Viático y Extremaunción y últimos auxilios espirituales. A la hora competente di sepultura eclesiástica a su cadáver en el cementerio de este Pueblo. Era natural de este, de sesenta y seis años de edad y consorte de Marcelina Méndez. Se dijo por bien de su alma la misa de die obitus con los dos oficios de la guía. Otorgó testamento y en la parte piadosa lo dejó a disposición de su consorte. Y para que conste lo firmo fecha ut supra. Severiano Merino Calvo.",
+      "uncertainties": [
+        "El día se lee «veintidós»: tras «veinti» hay una d de trazo alto, igual a la de «dos oficios» en el mismo asiento, y a continuación el «de» de «de Junio». Los resúmenes familiares daban el 21-06-1893; se corrige a 22-06-1893.",
+        "La partida le da sesenta y seis años; había cumplido sesenta y siete. La causa es «tabes dorsal» (el resumen decía «taber dorsal»). La fórmula «de la guía» se repite en el fallecimiento de Feliciana Maíllo (1887), del mismo párroco."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "nicanor-calvo-martin"
+      ],
+      "applied": [
+        "Fallecimiento el 22-06-1893 (antes 21-06-1893) con transcripción; la nota pasa a «tabes dorsal» y recoge la hora."
+      ]
+    }
+  ]
+}

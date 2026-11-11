@@ -1,0 +1,868 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tatarabuelos primeros — fotografías de partidas",
+  "reviewedOn": "2026-11-11",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento.",
+  "entries": [
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Lucas Calvo Alonso.JPG",
+          "sha256": "e22a7eb82955c0aa00438e7696bc0a77fec778299735fe1dc4c2dc6d79569a7d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1788-10-18",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Lucas, hijo de Diego Calvo y Luisa Alonso.\n\nEn diez y ocho de Octubre de mil setecientos ochenta y ocho, yo Fr. Manuel Martín Salvadios, Predicador mayor del Combto de la SSma Trinidad de la Ciudad de Zamora, con facultad i licencia del Sor Dn Carlos de Valdecañas, Cura propio de este Lugar de Casaseca de las Chanas, bautizé solemnemte y puse los Santos Óleos, según ordena la Sta Iga Romana y dispone el Sto Concilio Tridentino, a un niño a quien puse por nombre Lucas, qe nació el día quince de este Mes, qe es hijo legítimo de Diego Calvo, natural de Villalazán, y Luisa Alonso, natural de Moraleja, y vecinos de este Lugar de Casaseca; nieto por línea paterna de Pedro Calvo, natural de Villalazán, y de María Salvador, natural de Sanzoles, y vecinos de dho Villalazán; y por la materna de Franco Alonso y de Ysabel Alonso. Fue su Padrino Bernardo Calvo, su tío, vno de este Lugar, a qn advertí el parentesco espiritual y demás obligaciones qe ha contraído para con dho bautizado; de todo lo qual fueron testigos Dn Manuel Sevillano, theniente de Cura de Arcenillas, Ubaldo Silva y otros muchos concurrentes vnos de este Lugar; en el qual, para qe conste, lo firmo dho día, mes y año. Fr. Manuel Martín Salvadios. Dn Carlos de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "Folio 103; el asiento empieza al pie de una página y termina en la cabecera de la siguiente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lucas-calvo-alonso"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Lucas Calvo y Felipa Martín.JPG",
+          "sha256": "040620845c5ea85540f3d83036163649120effe0f0ad2711fbecf5ca4f2ae921",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1822-03-27",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Lucas Calbo con Felipa Martín. Recibieron las bendiciones nupciales en 27 de Abril de 1822. Suárez.\n\nEn vte y siete de Marzo de mil ocho cis vte y dos, yo el Br Dn Josef Antº Suárez, cura propio del lugar de Casaseca de las Chanas, habiendo precedido despacho del Sor Provisor, dado en vte y seis del actual pr ante Dn Damián Rz, asistí al matrimonio qe pr palabras de presente y mutuos consentimientos contrajeron in fatie Eclesie Lucas Calbo, soltero, natural de este lugr, hijo lexmo de Diego, natural de Villalazán, y Luisa Alonso, del de Moraleja, y vezos de las Chanas, y Felipa Martín, del mismo estado, hija lexma de Manl, natural de Morales de Zamora, y María Rosa Ernández, difa, natural y vezos de este de Casaseca. Fueron testigos Manuel Martín Sebillano, Miguel Casaseca y Dn Josef Bázquez, todos vecinos del expresado lugar de Casaseca de las Chanas.",
+      "uncertainties": [
+        "La imagen no muestra firma al pie del asiento; la nota marginal de las velaciones está rubricada «Suárez». Antes de «contrajeron» hay una palabra tachada.",
+        "Da por difunta en marzo de 1822 a María Rosa Hernández, madre de la contrayente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lucas-calvo-alonso",
+        "felipa-martin-hernandez"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; observación en María Rosa de las Mercedes Hernández Martín."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Lucas Calvo Alonso.JPG",
+          "sha256": "e9a80f7ca9b3c1f49e59bf02126ef13c154dac991e9d466deb4b2d21e06810f2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1832-01-28",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Lucas Calvo. Testamento.\n\nEn veinte y ocho de Enero de mil ocho cientos treinta y dos, yo el infrascripto Cura Párroco de la única Yglesia de Sn Juan Bautista de este Lugar de Casaseca las Chanas, di sepultura Eccca del Arco toral arriba a el cadáver de Lucas, en la quinta de la primera fila, qe falleció el día anterior, de edad de quarenta y cuatro años. Era legítimo marido de Felipa Martín, vecinos y naturales de este. Fue socorrido con los Stos Sacs de la Penitencia, Viático y Extrema-unción. Hizo testamento dejando por bien de su ánima lo qe tubieran a bien hacerle su muger arriba dicha y su hermano Ygnacio Calvo como testamentario. Dejó cuatro hijos, Diego, Nicanor, Secundino y José, pa qe conste lo firmo. José María Ramos.",
+      "uncertainties": [
+        "El margen queda en parte oculto en el pliegue del libro. La partida le da cuarenta y cuatro años; tenía cuarenta y tres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lucas-calvo-alonso"
+      ],
+      "applied": [
+        "Entierro el 28-01-1832 en Casaseca de las Chanas con transcripción; observación con sus hijos y testamentarios."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Felipa Martín Hernández1.JPG",
+          "sha256": "9ff8c332059fb38bd7dd87246c2dbe497305f9a43db490ed0955af8d373ae68e",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Felipa Martín Hernández2.JPG",
+          "sha256": "408b9beca68c082cbc5d3aa8cfb4bf73ba2021199e411b40bd65c651c371c65e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1798-03-31",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Felipa, hija de Manl Martín y María Rosa Hernz.\n\nEn treinta i uno de Marzo de mil setezs noventa y ocho, yo el infrascripto Cura propio de la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca las Chanas, bautizé solemnemte y puse los Stos Óleos a una niña a quien puse por nombre Felipa, nació en veinte y nuebe de dho mes, es hija lexma de Manuel Martín, nral de Morales, y de María Rosa Hernz, nral y vezos de este lugar; nieta por línea paterna de Miguel Martín, nral de Moraleja, y Felipa de Prada, nral de Morales, y por la materna de Manuel Hernz Gaitán, nral de este, y de Ynés Martín, nral de Morales; fue su Padrino su tío Juan Manuel Hernz, nral de este, a quien advertí las obligazs y parentesco espiritual. Fueron testigos Josef Ponze y Rosa Martínez, vezos de este, y para que conste lo firmo. Dn Carlos de Valdecañas Duque de Estrada.",
+      "uncertainties": [
+        "Un solo asiento repartido entre el pie de una página y la cabecera de la siguiente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "felipa-martin-hernandez"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Felipa Martín Hernández.JPG",
+          "sha256": "32121a093fd8af586e1d813ad42081c9ed531e79e4f380b245cdb8eadfec977d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1834-10-17",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Felipa Martín. No testó.\n\nEn el Lugar de Casaseca de las Chanas a diez y siete días del mes de 8bre del año de mil ochocientos treinta y cuatro, el difunto Dn José María Ramos dio sepoltura Ecla en el cementerio de este Pueblo al cadáver de Felipa Martín, de estado casada con Mariano Hernández de segundas nuncias, de edad de treinta y cuatro años; dejó tres hijos que se llaman Nicanor, Secundino y José; no testó, de que damos fe. Franco de Belmonte. Justo Pérez.",
+      "uncertainties": [
+        "El asiento se escribió después: lo firman Francisco de Belmonte y Justo Pérez porque el párroco que la enterró, José María Ramos, había muerto entretanto («el difunto»). No expresa el día del fallecimiento; se conserva el del árbol, 16-10-1834.",
+        "Le da treinta y cuatro años; tenía treinta y seis. Antes de «hijos» hay una palabra tachada. De los cuatro hijos que nombraba el entierro de Lucas Calvo en 1832 falta Diego."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "felipa-martin-hernandez"
+      ],
+      "applied": [
+        "Entierro el 17-10-1834 en Casaseca de las Chanas con transcripción; observación con sus hijos."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Méndez de Paz.JPG",
+          "sha256": "10d97c45c976ce6dee14ead023b7a9acac4002dc82b935a88aedbe7848a6cc55",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1812-04-10",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel, hijo de Luis Méndez y Josefa de Paz.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a diez días del mes de Abril de mil ochocientos y doce, yo el infraescripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a un niño que nació el día anterior como a las ocho de la mañana; es hijo legítimo de primero matrimonio y legítimo de él de Luis Méndez y Josefa de Paz; púsele por nombre Manuel; fue su padrino Franco Rodrigz, vecino de este lugar, a quien advertí el parentesco espiritl y demás obligaciones. Son sus Abuelos Paternos Andrés Méndez y María de Lera; Mats Bonifacio de Paz y Eduarda Pérez, naturales, este de la Ziudad de Toro y todos los demás vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Fr. Manuel Fernández.",
+      "uncertainties": [
+        "El margen queda en parte oculto en el pliegue. El tratamiento «Fr.» de la firma se lee con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-mendez-de-paz"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Manuel Méndez y Feliciana Maíllo.JPG",
+          "sha256": "fa4a80320fd5663e62971bfed1d6aa5f4365ee43f04e3e387dc588c138f16068",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1834-06-23",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manl Méndez con Feliciana Mayllo.\n\nEn veinte y tres de Junio de mil ochocientos treinta y quatro, yo el infrascripto Cura Párroco de este Lugar de Casaseca las Chanas, precedidos los consentimientos necesarios, aprobación en doctrina Christiana, las tres Canónicas Moniciones según prebiene el Sto Concilio de Trento, pasado el tiempo señalado por el mismo después de la última proclama, y no resultando impedimento alguno, asistí al Matrimonio qe por palabra de presente hizieron in facie Eclesie Manl y Feliciana, aquel hijo legítimo de Luis Méndez y Josefa de Paz, y esta de Fernando Mayllo y María Morales. Fueron testigos Leandro Martín, Serafín Sevillano e Ygnacio Sevillano; todos son vecinos y naturales de este Lugar, pa qe conste lo firmo. Heran solteros. José María Ramos.",
+      "uncertainties": [
+        "Folio 303. El margen queda en parte oculto en el pliegue. La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-mendez-de-paz",
+        "feliciana-maillo-morales"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Manuel Méndez  de Paz.JPG",
+          "sha256": "eb188f38d7eb8e046129964c0f537b08d60dc7b938695bc1d79954dd2547a4a2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1870-12-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel Méndez, esposo de Feliciana Mayllo.\n\nEn Casaseca de las Chanas, Provincia y Diócesis de Zamora, a ocho de Diciembre de mil ochocientos setenta, yo D. Teodoro Sánchez, párroco de la Yglesia de San Juan Bautista, única en este pueblo, mandé dar sepultura eclesiástica en el cementerio eclesiástico del mismo al cadáver de Manuel Méndez, que falleció en el día anterior como a las tres de la tarde de una gastro-ragia, según certificado del facultativo, a los sesenta años de edad; recibió los Santos Sacramentos de Penitencia, Viático, Extrema Unción y demás auxilios espirituales pro articulo mortis; era esposo de Feliciana Mayllo, de cuyo Matrimonio dejó cuatro hijas, y son: Marcelina, María, Sebastiana, casadas y mayores de edad, y Bernarda, soltera y menor de edad; no se me ha presentado su testamento, aunque ha sido reclamado. Y por ser verdad lo firmo fecha ut supra. Teodoro Sánchez.",
+      "uncertainties": [
+        "La partida le da sesenta años; tenía cincuenta y ocho."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-mendez-de-paz"
+      ],
+      "applied": [
+        "Entierro el 08-12-1870 en Casaseca de las Chanas con transcripción; hora del fallecimiento en la nota; observación con sus hijas."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Feliciana Maíllo Morales.JPG",
+          "sha256": "4d18b59409b6368e28199726df398fcc0c377aa5e95286489bf5f37b39c59d8c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1814-02-22",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Feliciana, hija de Fernando Mayllo y María Morales.\n\nEn la Ygla Parroql de Sn Juan Bautista de este lugar de Casaseca de las Chanas a veinte y dos días del mes de Febrero del año mil ochocientos y catorce, yo el infrascripto Cura Thente de dha Ygla bauticé solemnemte y puse los Stos Óleo y Chrisma a una niña que nació el día anterior como a las dos de la tarde; es hija legítima de Fernando Mayllo y María Morales, primera de primero matrimonio; púsele por nombre Feliciana; fueron sus Padrinos Franco Jambrina y Marcelina su hija, a quienes advertí el parentesco espirl y demás obligaciones; son sus Abuelos Pats Josef y Sevastiana Rodríguez; Mats Bernardo Morales y Antonia Valladolid, todos vecinos y naturales de este lugar, y para que conste lo certifico y firmo dho día, mes y año. Fr. Manuel Fernández.",
+      "status": "incorporada",
+      "personIds": [
+        "feliciana-maillo-morales"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Feliciana Maíllo Morales.JPG",
+          "sha256": "ec4e4379dc2e62589a0a2271675b45cecdcb41deedeaae02b2920f7fab34c8a9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1887-09-10",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Feliciana Maíllo, viuda de Manuel Méndez.\n\nEn Casaseca de las Chanas, Diócesis y Provincia de Zamora, a las ocho de la noche del día diez de Setiembre de mil ochocientos ochenta y siete falleció, según declaración facultativa a consecuencia de enteritis crónica, mi feligresa Feliciana Maíllo, después de haber recibido los Santos Sacramentos de Penitencia, Viático y Extremaunción y últimos auxilios espirituales. Al día siguiente di sepultura Eclesiástica a su cadáber en el cementerio de este Pueblo. Era natural de este, de setenta y tres años de edad, hija legítima de Fernando y María Morales y viuda de Manuel Méndez. Se dijo la misa de die obitus con las de la guía por bien de su alma, según costumbre de esta Parroquia. Otorgó testamento ante Dn Vicente Castañeda, Escribano residente en Moraleja del Vino, y en su parte piadosa, según declaración de su hijo político Luis Calvo, lo dejó a disposición de sus hijos. Y para que conste lo firmo fecha ut supra. Severiano Merino Calvo.",
+      "uncertainties": [
+        "Folio 184."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "feliciana-maillo-morales"
+      ],
+      "applied": [
+        "Transcripción en el fallecimiento, con la hora en la nota; entierro el 11-09-1887; observación con su yerno."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Julián Piorno Vega.JPG",
+          "sha256": "01865aae5a045667104e11cf582ae05e9b33413b02afa624c61060d56ade25a2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1804-09-05",
+      "place": "Gáname",
+      "transcription": "Julián, hijo de Manuel Piorno y de Ángela Vega.\n\nEn el lugar de Gáname a cinco días del mes de Septiembre de mil ochocientos y quatro, yo el infrascripto Párroco baptizé solemnemte y puse los Stos Óleos a un niño que nació el día tres de dho mes; se llamó Julián, hijo de Manuel Piorno y de Ángela Vega; abuelos paternos Josef Piorno y Theresa Piorno, y los maternos Casimiro Vega y Águeda Fierro; fue su Padrino Manuel Vega, su tío materno, a quien advertí el parentesco y obligacn que contraía; todos son naturales y vecs de este lugar, y en fe de ello lo firmo. Dn Antonio Carrascal.",
+      "status": "incorporada",
+      "personIds": [
+        "julian-piorno-vega"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Julián Piorno y Tomasa Tuda.JPG",
+          "sha256": "dfa5acbf428a7d390d351ed1f2b838be126fd943007e9609c88db0bd8407c24f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1824-01-12",
+      "place": "Malillos",
+      "transcription": "Julián Piorno con Thomasa Tuda.\n\nEn el día doce de Enero de este año de mil ochocientos veinte y cuatro, yo el Ynfrascrito Cura Propio de este Lugar de Malillos y sus anejos, habiendo precedido las tres Canónicas moniciones que manda el Santo Concilio de Trento, Aprobación de Doctrina Cristiana, y recibido los Santos Sacramentos, y no habiendo resultado impedimto de Matrimonio, desposé, casé y velé por palabras de presente que hacen verdadero y legítimo Sacramento de Matrimonio in facie Ecclesie, según dispone el Santo Concilio de Trento, a Julián Piorno, soltero, natural de Gáname, hijo legítimo de Manuel Piorno y Ánguela Vega, vecinos del dho Gáname, y Tomasa Tuda, de igual estado, natural de este Lugar, hija legítima de Francisco Tuda y Antonia Feltrero, de esta vecindad. En este mismo día recibieron las bendiciones de la Yglesia. Precedieron los respectivos consentimientos. Fue su última Proclama el día seis de dho mes y año. Y para que así conste lo firmo ut supra. Fueron testigos José Martín, Carlos Tuda y Sebastián Plaza. Y en fe de ello lo firmo. Josef Altamirano.",
+      "uncertainties": [
+        "Las palabras «Y en fe de ello», añadidas tras los testigos, están apretadas y se leen con reservas. La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "julian-piorno-vega",
+        "tomasa-tuda-feltrero"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; nota con las velaciones."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Tomasa Tuda Feltrero.JPG",
+          "sha256": "d4a1c234b2b2eae96b2be57ac091d3c73a5e61310e20f1a8dac15140ae44e56b",
+          "width": 2848,
+          "height": 4288
+        }
+      ],
+      "date": "1806-02-04",
+      "place": "Malillos",
+      "transcription": "Thomasa Tuda.\n\nEn el día cuatro de Fevrero de este año de mil ochocientos y seis, io el infrascripto Cura propio de este Lugar de Malillos y sus anejos bauticé solemnemente y puse los Santos Óleos a una Niña, la que nació el día tres de dho mes y año, y puse por Nombre Thomasa, hija legítima de Franco Tuda y de Antonia Feltrero, vecinos de este Lugar, y naturales, él de este dho Lugar y ella del de Fadón. Abuelos Paternos Domingo Tuda y Thomasa Porres, naturales, él de este referido Lugar y ella del de Sogo. Abuelos maternos Bernardo Feltrero y Catalina González, naturales del Lugar de Gáname; fue su Padrino Manuel Martín, de este Lugar, a quien advertí el parentesco espiritual y demás obligaciones, de lo que fueron testigos Manl García y Josef Martín, vecinos de este Lugar, y para que así conste lo firmo ut supra. Josef Altamirano.",
+      "uncertainties": [
+        "Folio 63. Llama a la abuela materna «Catalina González» y da a ambos abuelos maternos por naturales de Gáname; en el árbol son Bernardo Feltrero Esteban, nacido en Fadón, y Catalina Gonzalo Barrocal, nacida en Gáname. No se modifica nada."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "tomasa-tuda-feltrero"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Tomasa Tuda Feltrero.JPG",
+          "sha256": "491261d593a60b80e10af3549a9922a20adf33567ada6ce4d8ba62e0a4ba2e20",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1855-02-01",
+      "place": "Malillos",
+      "transcription": "Adulta. Tomasa Tuda. Testó. Cumplido. 12.\n\nEn el día primero de Febro de mil ochocientos cincuenta y cinco, yo el Párroco de Malillos y sus Anejos mandé dar sepultura Ecca en el Cementerio de esta al Cadáver de Tomasa Tuda, muger de Julián Piorno, vo del mismo; recivió los Stos Sacramtos de Penitencia, Viático y Extremaunción; testó, tomando por bien de su alma los derechos Parroquiales. Su edad sesenta y dos años, y para qe conste lo firmo ut supra. Franco García.",
+      "uncertainties": [
+        "La edad está escrita «senta y dos años»: se lee «sesenta y dos», pero Tomasa iba a cumplir cuarenta y nueve.",
+        "Es partida de entierro y no expresa el día del fallecimiento; se conserva el del árbol, 31-01-1855. Julián Piorno vivía entonces."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "tomasa-tuda-feltrero"
+      ],
+      "applied": [
+        "Entierro el 01-02-1855 en Malillos con transcripción; observación en Julián Piorno Vega."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Carlos Santiago Garrote.JPG",
+          "sha256": "6f83cde9337477a2721c80f2a1f4692cc27fa25f12cca0cd6818678753a0947c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1817-11-05",
+      "place": "Abelón",
+      "transcription": "Carlos: hijo de Faustino Santiago y de Josefa Garrote.\n\nEn el Lugar de Abelón, a cinco días del mes de Noviembre del año de mil ochocientos diez y siete: Yo el infrascripto Cura Párroco de dicho Lugar, Bauticé solemnemte y puse los Stos Óleos y Crisma a un niño, qe nació la noche anterior. Le puse por nombre Carlos: hijo legítimo de Faustino Santiago y de Josefa Garrote, naturales y vecinos de este Lugar. Abuelos paternos: Alonso Santiago y Agustina Garrote, ya difuntos. Abuelos maternos: Ángel Garrote, ya difunto, y Micaela Antón, todos naturales y vecinos de este Lugar, excepto la abuela materna, qe es de Fresnadillo. Fue su padrino Atilano de Pedro, de esta vecindad, a quien [ilegible]",
+      "uncertainties": [
+        "La imagen termina antes del final del asiento: faltan las últimas líneas y la firma. El cura de Abelón de esos años firma «Dn Antonio Molina»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "carlos-santiago-garrote"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota en el nacimiento."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Carlos Santiago y María Sastre.JPG",
+          "sha256": "3d0bd31e47918102933578ee78101dbacfac299088c63e8a15f55b41e4d51e21",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1836-01-11",
+      "place": "Fadón",
+      "transcription": "Carlos Santiago con María Sastre.\n\nEn el lugar de Fadón a once días del mes de Enero de mil ochocientos treinta y seis, yo el infrascripto Theniente Ecónomo del mismo, precedidos los consentimientos necesarios, el examen de la Doctrina Christiana y las tres moniciones conciliares en el tiempo, modo y forma qe previene el Sto Concilio de Trento, no habiendo resultado impedimento alguno, pasadas más de veinte y cuatro horas de la última proclama, prevenidos los contrayentes con los Stos Sacramentos necesarios, de fecto desposé, casé y velé in facie Eclesie, y según su rito, a Carlos Santiago, soltero y natural de Abelón e hijo legítimo de Faustino Santiago y Josefa Garrote, naturales de Abelón y vecinos en este, con María Sastre, del mismo estado, natural de Fadón, hija legítima de Josef Sastre y Bernarda Esteban, naturales de este de Fadón y vecinos del mismo. De que fueron testigos Franco Crespo, Josef Calvo y Manuel Lucas, vecinos de este. Y para qe conste lo firmo dho día, mes y año ut supra. Fr. Manuel García.",
+      "uncertainties": [
+        "El margen queda en parte oculto en el pliegue. La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "carlos-santiago-garrote",
+        "maria-sastre-esteban"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Sastre Esteban1.JPG",
+          "sha256": "9772d90c5fdd73981c8726ea32039931dc44eacaf70172866d5b071b69347634",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "María Sastre Esteban2.JPG",
+          "sha256": "99ecde46032fa313813c8f99d6e5129806d186632f00edc157441692fca0f8dd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1816-01-07",
+      "place": "Fadón",
+      "transcription": "Año de 1816. María Sastre.\n\nEn el Lugar de Fadón a siete días del mes de Enero del año de mil ochocientos y diez y seis, yo el Infrascripto Cura párroco de Gáname y su anejo, bapticé solemnemente y puse los Stos Óleos a una Niña que nació el día seis, y le puse por nombre María, hija legítima de Josef Sastre, nral de Gáname, y de Bernarda Esteban, nral de Fadón; Nieta por línea paterna de Manuel Sastre, nral de Gáname, y Antonia Sastre, natural del referido Fadón, y por la materna de Lucas Esteban, nral de Villamor de la Ladre, y Theresa Vega, qe lo es de Fadón; fue su Padrino Franco Vega, de esta vecindad, a quien advertí el parentesco espiritual y demás obligaciones, y en fe de ello lo firmo. Agustín Enríquez.\n\nEntre renglones «la Ladre» valga. González.",
+      "uncertainties": [
+        "Folios 191 vuelto y 192. El final de las líneas de la primera página queda en el pliegue; se han completado por el sentido «[E]nero», «Infr[as]cripto», «bapt[icé]», «qu[e]», «[y de]» y «r[e]ferido».",
+        "La salva del entrerrenglonado va rubricada «González», como el asiento anterior (Fr. Narciso González)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-sastre-esteban"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Florencio Brioso Alonso.JPG",
+          "sha256": "63557aeb8299c24eff8e0e411ca1afc72a85965e0d09ba6b182806a6bdb464ec",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1833-02-26",
+      "place": "Morales del Vino",
+      "transcription": "Florencio Brioso Alonso.\n\nEn el día veinte y seis de Febrero del año de mil ochocientos treinta y tres, yo el infrascrito cura propio de este lugar de Morales suplí las ceremonias de la Yglesia y puse los santos óleos a un niño qe nació el día veinte y tres del mismo a las dos de la tarde poco más o menos, al qe había bautizado de necesidad el cirujano Dn Pablo de la Vega, y puse por nombre Florencio, hijo legítimo de Baltasar Brioso, natural de Morales, y Luisa Alonso, natural de Moraleja, y vecinos de Morales; nieto por línea paterna de Alonso Brioso e Ynés Martín, naturales de Morales, y por línea materna de Bernardo Alonso e Ysabel Delgado, naturales de Moralejo; fueron sus padrinos Bernardo Brioso y Teresa Martín, de esta vecindad, a quienes advertí sus obligaciones; fueron testigos Franco Prieto y Juan de Mena, de esta vecindad, y en fee de ello lo certifico y firmo ut supra. Agustín de la Calle Marqués.",
+      "uncertainties": [
+        "El apellido del primer testigo, al final de una línea desvaída, se lee «Prieto» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "florencio-brioso-alonso"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Florencio Brioso y Antonia Mena.JPG",
+          "sha256": "72c6205dc41824d961a4b3ba65e3167bc637982a52b790abef8ecd482f291026",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1853-06-15",
+      "place": "Tardobispo",
+      "transcription": "N. 5. Florencio Brioso con Antonia Mena.\n\nEn el día quince de Junio de mil ochocientos cincuenta y tres, yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos, habiendo precedido las tres moniciones canónicas en tres días festivos en esta Yglesia, no habiendo resultado impedimento alguno, examinados en doctrina cristiana y habiendo recibido el Sacramento de la Penitencia, desposé, velé y casé in facie eclesie por palabra de presente a Florencio Brioso, de estado soltero, natural de Morales, hijo legítimo de Baltasar, del mismo pueblo, y de Luisa Alonso, difunta, natural de Moraleja del Vino, con Antonia Mena, del mismo estado, natural de este pueblo, hija legítima de Tomás, natural de Morales, y Valeria Santamaría, de S. Marcial, vecinos todos de este pueblo. Fueron testigos Agustín Mena y Bernabé Santamaría. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "Folio 2. La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "florencio-brioso-alonso",
+        "antonia-de-mena-santamaria"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Antonia Mena Santamaría.JPG",
+          "sha256": "a28ea26de705f8e1b15c0606c98ba830b6c11eb2316134bb40890e49d3cc8670",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Antonia Mena Santamaríab.JPG",
+          "sha256": "1fc63d2959a361501949ac12f4c8026d6a97d85842a74c2c922f4f0c637093a3",
+          "width": 2848,
+          "height": 4288
+        }
+      ],
+      "date": "1835-01-19",
+      "place": "Tardobispo",
+      "transcription": "Antonia, hija de Tomás de Mena y Valeria Santamaría.\n\nEn el día diez y nueve de Enero del año de mil ochocientos treinta y cinco, yo el infrascrito Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemente y puse los santos óleos a una niña qe nació el día diez y siete de este, a quien puse por nombre Antonia; es hija legítima de Tomás de Mena, natural de Morales, y de Valeria Santamaría, natural de S. Marcial; Abuelos Paternos Franco de Mena y Franca Martín, naturales de Morales; Maternos Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; fueron sus Padrinos Alonso Santamaría, su abuelo, e Ysabel Alonso, natural de este, a los qe advertí el parentesco espiritual y demás obligaciones; testigos Eduardo Pérez y Manuela Pérez, de este lugar; y por verdad lo firmo dho día, mes y año ut supra. Dn Gregorio Garrote de Pedro.",
+      "uncertainties": [
+        "Dos tomas del mismo asiento; la segunda muestra la página entera."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonia-de-mena-santamaria"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Antonia de Mena Santamaría2.JPG",
+          "sha256": "149f9d14f358a30e408f6abe42d74ebe3e21236563d4595daa89c1314b648c6b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1923-06-04",
+      "place": "Tardobispo",
+      "transcription": "N. 778. 3ª. Antonia de Mena Santamaría.\n\nEn el pueblo de Tardobispo, Diócesis de Zamora, Provincia de Zamora, en el día cuatro de Junio de mil novecientos veintitrés, yo, Don José Alejandre Moreno, Cura párroco de la Yglesia parroquial del Salvador de este pueblo de Tardobispo, mandé dar sepultura eclesiástica en el Cementerio de esta parroquia al cadáver de Da. Antonia de Mena Santamaría, de ochenta y ocho años de edad, viuda de D. Florencio Brioso, natural de Tardobispo, e hija legítima de D. Tomás de Mena y de Da. Valeria Santamaría, que, según certificación facultativa, falleció en Tardobispo, a las dos de la tarde del día anterior, a consecuencia de Hemorragia Cerebral, habiendo recibido el Santo Sacramento de la Extrema-Unción, que le fue administrado por el párroco que suscribe. Se le hicieron los funerales de tercera clase, siendo testigos D. Bernardino Pérez y D. Francisco Brioso, de esta vecindad. No consta que hiciese testamento. Y para que conste lo firmo, fecha ut supra. José Alejandre Moreno.",
+      "uncertainties": [
+        "El nombre de la imagen no indica que es la partida de entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonia-de-mena-santamaria"
+      ],
+      "applied": [
+        "Entierro el 04-06-1923 en Tardobispo con transcripción; hora del fallecimiento en la nota; observación en Florencio Brioso Alonso."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Esteban Pérez Girón1.JPG",
+          "sha256": "9b8ba3a4f691afeabc823e9cc65904bc125cca57c42d3051fe6408640cef5128",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Esteban Pérez Girónb2.JPG",
+          "sha256": "1f6c1bedc79c4c1f44b47229052d69ac3c8e3303c991b1ca98914c5613718537",
+          "width": 2848,
+          "height": 4288
+        }
+      ],
+      "date": "1808-09-04",
+      "place": "Tardobispo",
+      "transcription": "Esteban, hijo de Miguel Pérez y de Margarita Girón.\n\nEn el día quatro del mes de Septiembre del año de mil ochocientos y ocho, yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los santos olios a un niño qe nació día dos de dicho mes, a quien puse por nombre Esteban; es hijo lexítimo de Miguel Pérez, natural de este lugar de Tardobispo, y de Margarita Girón, natural del lugar de Roales; Nieto por línea paterna de Juan Pérez y de Joaquina Roncero, naturales de este de Tardobispo, y por la materna de Francisco Girón, natural del lugar de Roales, y de Josefa Fernández, natural del lugar de Muga, en las Vicarías de Alba y Aliste; fue su padrino Gregorio Tuda, vecino de este lugar y natural de Sobradillo de Palomares, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para qe conste lo firmo ut supra. Dn Manuel Sebillano Calbo.",
+      "uncertainties": [
+        "Dos tomas del mismo asiento; la segunda muestra la página entera."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "esteban-perez-giron"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Esteban Pérez Girón3.JPG",
+          "sha256": "6b077d65d821a0e9fe972c3a73360883d7e55d4e7351312fb5e71b7cf4a2689a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1878-09-21",
+      "place": "Tardobispo",
+      "transcription": "N. 351. Esteban Pérez, adulto, de setenta años.\n\nEn el día veinte y uno del mes de Septiembre, yo el infrascripto Cura párroco de Tardobispo y sus anejos di sepultura eclesiástica en el cementerio de este pueblo al cadáver de Esteban Pérez, viudo; recibió los Stos Sacramentos de Penitencia y Extremaunción; era de edad de setenta años poco más o menos. Y para que conste lo firmo fecha ut supra del año mil ochocientos setenta y ocho. Manuel Temprano.",
+      "uncertainties": [
+        "Folio 61. Es partida de entierro y no expresa el día del fallecimiento; se conserva el del árbol, 20-09-1878."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "esteban-perez-giron"
+      ],
+      "applied": [
+        "Entierro el 21-09-1878 en Tardobispo con transcripción."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Esteban Pérez y Eduviges Sánchez.JPG",
+          "sha256": "edb87c149deeb0921656db3d7316465ef0d17abd4ae38d0868980fe1463f0d9a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1829-02-11",
+      "place": "El Cubo del Vino",
+      "transcription": "Estevan Pérez con Eduvigis Sánchez. Entre ocho y nuebe de la mañana.\n\nEn la Villa del Cubo a once días del mes de Febrero de mil ochocientos veinte y nuebe, yo el Infrascrito Theniente Cura de esta Yglesia de Sto Domingo de Guzmán, casé y velé in facie Eclesie a Estevan Pérez, soltero, vecino de Tardeobispo, hijo de Miguel Pérez y de Margarita Girón, él natural de Tardeobispo y ella de de lugar de Ruales, con Eduvigis Sánchez, hija de Manuel Sánchez y de Rosa Yzquierdo, vecinos y naturales de esta Villa del Cubo, haviendo precedido las tres moniciones Canónicas en los días primero, segundo y ocho de Febrero de dicho año, el examen de doctrina Christiana y recividos los Sacramentos de Penitencia y Comunión, y los consentimientos necesarios; fueron testigos Eulogio Burrieza, Alonso Borrego y Gregorio de la Era, y lo firmo dicho día, mes y año expresados. Fr. Lorenzo Clemente.",
+      "uncertainties": [
+        "La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "esteban-perez-giron",
+        "eduviges-sanchez-izquierdo"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges; nota con la hora y las velaciones."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Eduviges Sánchez Izquierdo.JPG",
+          "sha256": "3b5318bf8418e0f4b9d7d20a3c80bf2d2bf4cf4d52a14f158694ec6fcd336d67",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1808-10-18",
+      "place": "El Cubo del Vino",
+      "transcription": "Núm. 201. Heduviguis, hija de Franco Sánchez. Nota. Por descuido se omitió qe es hija lexítima. Alonso Manzano.\n\nEn la villa del Cubo a diez y ocho días del mes de Octubre del año de mil ochocientos y ocho, yo el Ynfrascripto Párroco de esta Yglesia baptizé solemnemente y puse los santos Olios a una Niña qe nació el día diez y siete de dicho mes, a la qe puse por nombre Heduviguis, hija de Manuel Sánchez y Rosa Yzquierdo, nieta por línea Paterna de Manuel y Catalina Durán, y por la Materna de Juan Alonso Yzquierdo y Teresa Terrón, todos naturales y vezinos de esta villa. Fue su Padrino Bernardino Mangas, a quien advertí el parentesco espiritual y obligación, y lo firmo día, mes y año dichos. Alonso Manzano.",
+      "uncertainties": [
+        "El margen dice «hija de Franco Sánchez»; el cuerpo del asiento, «Manuel Sánchez», que es el padre que consta en el árbol y en su matrimonio. La nota marginal está muy desvaída."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "eduviges-sanchez-izquierdo"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Eduviges Sánchez Izquierdo2.JPG",
+          "sha256": "4e7eb87b970f5c60173321925f1330c32f20c3ed6f3f46e13bbb7f8cfcec67fe",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1878-02-11",
+      "place": "Tardobispo",
+      "transcription": "N. 345. Edwigis Sánchez, adulta, de sesenta y nueve años.\n\nEn el día once de Febrero del año mil ochocientos setenta y ocho, yo el infrascripto Cura párroco de Tardobispo y sus anejos di sepultura eclesiástica en el cementerio de este pueblo al cadáver de Edwiges Sánchez, conjunta de Esteban Pérez; no recibió los Stos Sacramentos por ser la muerte repentina; era de edad de sesenta y nueve años poco más o menos. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "Folio 60. Es partida de entierro y no expresa el día del fallecimiento; se conserva el del árbol, 10-02-1878. El nombre de la imagen no indica que es la partida de entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "eduviges-sanchez-izquierdo"
+      ],
+      "applied": [
+        "Entierro el 11-02-1878 en Tardobispo con transcripción."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Francisco de las Heras Pascual1.JPG",
+          "sha256": "473be2c707404b5e25c295611ce28bb649e130869ec5bf8e450b0ef137acaa22",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Francisco de las Heras Pascual2.JPG",
+          "sha256": "88d7daef623b3d326ca1cb7a00b8c85a7691b1bf16aa640734c291bfc8a73a1e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1820-12-25",
+      "place": "Abelón",
+      "transcription": "Francisco: hijo de Manuel de las Heras y de Josefa Pascual.\n\nEn el Lugar de Abelón, a veinte y cinco días del mes de Diciembre del año de mil ochocientos y veinte: Yo el infrascripto Cura Párroco de dicho Lugar, Bauticé solemnemte y puse los Santos Óleo y Crisma a un niño, qe nació en la madrugada del día anterior. Le puse por nombre Francisco: hijo legítimo de Manuel de las Heras, natural del Lugar de Fadón, y vecino del dicho Abelón, y de Josefa Pascual, natural de este de Abelón. Abuelos paternos: Alonso de las Heras, natural del dicho Fadón, y vecino del insinuado Abelón, y Mónica Domínguez, ya difunta, natural del referido Abelón. Abuelos maternos: Atilano Pascual, natural y vecino del nominado Abelón, y Teresa Lorenzo, natural del Lugar de Villardiegua de la Ribera. Fue su padrino Manuel Nicolás, de esta vecindad, a quien advertí el parentesco espiritual y demás obligaciones de su cargo. Fueron testigos Alonso de las Heras, Atilano Pascual y Tomás Diego, de esta vecindad. Y para qe conste, lo firmo, en dicho Lugar, a 25 de Diciembre de 1820. Dn Antonio Molina.",
+      "uncertainties": [
+        "Folio 152; el asiento empieza al pie de una página y termina en la cabecera de la siguiente."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-las-heras-pascual"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota en el nacimiento."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Josefa Rabanal Ibáñez.JPG",
+          "sha256": "fee6f3fae51651b7eea4a88c650b2e942ef03b7b98d9214ed446e233a7ed6e8a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1831-01-13",
+      "place": "Zamora",
+      "transcription": "Josefa Rabanal.\n\n[ilegible] de Zamora, a trece de Enero de este año de mil ochocientos treinta y uno, yo el infrascripto Párroco de la referida de Sn Esteban bauticé solemnemente y puse los Santos Óleos a una Niña que havía nacido el día once de dho mes y año como a las ocho y media de su mañana, a quien puse por nombre Josefa Ygenia, hija legítima de Josef Ravanal y de Manuela Ybáñez, naturales, aquel de la Parroquia de Sn Esteban, y esta de la de Sn Lázaro, Arrabal de esta Ciudad: Abuelos Paternos Bernardo Rabanal, natural de Villalpando, Obispado de León, y Bicenta Martínez, del referido Sn Lázaro: Maternos Gaviel Ybáñez y Manuela Martín, naturales del dho Sn Lázaro; fueron sus Padrinos Dn Josef Romero y Bicenta Martínez, a quienes advertí el parentesco espiritual que contrajeron, y demás obligaciones, y en fe de ello lo firmo. Dn Manuel Peña.",
+      "uncertainties": [
+        "El comienzo del asiento («En la Yglesia Parroquial de San Esteban de esta Ciudad…») está al pie de la página anterior, fuera de la imagen. El final de las líneas queda en el pliegue; se han completado por el sentido «ochocien[tos]», «Óle[os]», «J[osef]», «d[e la]», «Lázar[o]», «Bern[ar]do», «[Ma]ternos» y «natural[es]».",
+        "Los padrinos son la abuela paterna, Vicenta Martínez, y su segundo marido, don José Romero. Llama al padre natural de la parroquia de San Esteban; el árbol lo da por nacido en la de San Torcuato."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-rabanal-ibanez"
+      ],
+      "applied": [
+        "Transcripción en el bautismo; nota con la hora del nacimiento."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Josefa Rabanal Arroyo2.JPG",
+          "sha256": "cd383d8c75892764869e38f06b8bca3fe4a6c4b72ea8a22914587d701693ef7d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1891-10-18",
+      "place": "Tardobispo",
+      "transcription": "N. 495. Josefa Ravanal, adulta de sesenta años. No testó.\n\nEn el día diez y ocho de Octubre del año mil ochocientos noventa y uno, yo el Infrascripto cura Ecónomo de Tardobispo di sepultura eclesiástica en el cementerio de este Lugar al cadáver de Josefa Ravanal, de sesenta años de edad, consorte de Franco de las Heras, este de Abelón, y Josefa de Sn Esteban de Zamora, la que murió el día anterior a las cinco de la tarde a consecuencia de una enfermedad Neumonía Catarral, según certificación del Médico titular Dn Manuel Hernández; recibió los Stos Sacramentos de Penitencia y Estrema Unción; no otorgó testamento, dejando dos hijos, Benito y María de las Heras; se le hizo entierro según costumbre de esta parroquia. Y para que conste lo firmo fecha ut supra. Agustín Arroyo.",
+      "uncertainties": [
+        "Es la partida de entierro de Josefa Rabanal Ibáñez: el «Arroyo» del nombre de la imagen es el apellido del cura firmante.",
+        "La llama «consorte», no viuda, de Francisco de las Heras, aunque el matrimonio de su hijo Benito (1880) lo daba ya por difunto."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-rabanal-ibanez"
+      ],
+      "applied": [
+        "Entierro el 18-10-1891 en Tardobispo con transcripción; hora del fallecimiento en la nota; observación con sus hijos."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ángel Prada Girón1.JPG",
+          "sha256": "333e91d07e0d5bff2eab0b4a19d4aaa63fe83e29aca522dc065b89dd2bd6c338",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Ángel C. Prada Girón2.JPG",
+          "sha256": "c818c6b9c85544c7bd80ae7d1a10db972c2be19d84d8a23ac894eca970d1bab2",
+          "width": 2848,
+          "height": 4288
+        }
+      ],
+      "date": "1827-03-03",
+      "place": "Tardobispo",
+      "transcription": "Ángel Celedonio, hijo de Dn Manuel de Prada y de Manuela Girón.\n\nEn el día tres del mes de Marzo del año de mil ochocientos veinte y siete, yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a un niño que nació día primero de dicho mes y año, a quien puse por nombre Ángel Celedonio; es hijo lexítimo de Dn Manuel de Prada, natural del lugar de Torrefrades, y de Manuela Girón, natural de este de Tardobispo; Nieto por línea paterna de Diego de Prada, natural del dicho Torrefrades, y de Ysabel Sebastián, natural del lugar de Villa de Pera; y por la materna de Fernando Girón, natural del lugar de Roales, y de Francisca Roncero, natural de este de Tardobispo; fue su padrino Dn Juan Goyanes, vecino del lugar de Carrascal, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo.",
+      "uncertainties": [
+        "Dos tomas del mismo asiento (folio 141); la segunda muestra la página entera. El apellido del padrino se lee «Goyanes» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "angel-prada-giron"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Ángel Prada Girón3.JPG",
+          "sha256": "e0a70f18ab1b33e2678a3393fba862bb9e0ada38609923ba9bee1aaa905c979e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1867-05-12",
+      "place": "Tardobispo",
+      "transcription": "N. 173. Ángel Pradas, adulto de cuarenta y un años.\n\nEn el día doce de Mayo del año mil ochocientos sesenta y siete, yo el infrascripto Cura Párroco de Tardobispo y sus anejos di sepultura eclesiástica en el cementerio de este pueblo al cadáver de Ángel Pradas, conjunto de Manuela Carretero: recibió los Stos Sacramentos de Penitencia y Viático: hizo testamento: se le hizo el entierro según costumbre de esta Yglesia: era de edad de cuarenta y un años. Y para que conste lo firmo fecha ut supra. Manuel Temprano.",
+      "uncertainties": [
+        "Folio 31. Es partida de entierro y no expresa el día del fallecimiento; se conserva el del árbol, 11-05-1867. Le da cuarenta y un años; tenía cuarenta."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "angel-prada-giron"
+      ],
+      "applied": [
+        "Entierro el 12-05-1867 en Tardobispo con transcripción."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Ángel Prada y Manuela Carretero.JPG",
+          "sha256": "39b7687a3cac4e8961a97ef75f36d10238cbf7629bc3b43104ff12179f793ce4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1852-01-10",
+      "place": "Peleas de Arriba",
+      "transcription": "Ángel Pradas con Manuela Carretero. Año 1852.\n\nEn diez de Enero de mil ochocientos cincuenta y dos, yo el infrascrito Cura Párroco de este lugar de Peleas de Arriba casé y velé in facie Eclesie, por palabras de presente, como manda ntra Sta Madre la Yglª, a Ángel Pradas, soltero, hijo legítimo de Dn Manl y Manuela Girón, vecinos de Tardobispo, con Manuela Carretero, también soltera, hija legítima de Pascual y Micaela Bragado, naturales y vecinos de este de Peleas, haviendo leído las moniciones conciliares en los días veinte y ocho y treinta y uno del próximo Diciembre, y primero del presente Enero; recivieron los sacramentos de Penitencia y Comunión; los examiné en doctrina christiana; tuvieron los consentimientos necesarios según Rs Órdenes, y fueron testigos Segundo Alameda, Berto García, Luis Sevillano, y otros, vecinos de este lugar, donde para qe conste lo firmo dho día, mes y año. Dr Dn Manl Rubín de Celis Cadozos.",
+      "uncertainties": [
+        "Una hoja doblada tapa el final de algunas líneas; se han completado «leí[do]», «och[o]» y «primer[o]».",
+        "El apellido del primer testigo («Alameda» o «Almeida»), el nombre del segundo («Berto») y el último apellido de la firma («Cadozos») se leen con reservas. La partida no expresa oficios."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "angel-prada-giron",
+        "manuela-carretero-bragado"
+      ],
+      "applied": [
+        "Transcripción en el matrimonio de ambos cónyuges."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuela Carretero Bragado.JPG",
+          "sha256": "c774999884efb2957f925b5f4eafa606c2011a73f1a5ecb8f52e29bc5048c2d9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1829-01-03",
+      "place": "Peleas de Arriba",
+      "transcription": "Manuela Carretero.\n\nEn tres de Enero de mil ochocientos veinte y nueve, yo el infrascrito Cura Párroco de este lugar de Peleas de Arriba bautizé solemnemte y puse los Stos Óleo y Chrisma a una niña qe nació en el primero de dho mes, a quien puse por nombre Manuela, hija legítima de Pascual Carretero y Micaela Bragado: Abuelos Paternos Franco Carretero y María Pérez: Maternos Pedro Bragado y Eusevia Calabaza, todos naturales y vecinos de este lugar: fue su Padrino Rafael Pérez, de esta vecindad, a quien advertí el parentesco espiritual y demás obligaciones, y de ceremonia su muger Lorenza Bragado, y para qe conste lo firmo en dho lugar dho día, mes y año. Dr Dn Manl Rubín de Celis Cadozos.",
+      "uncertainties": [
+        "La imagen está algo desenfocada. El último apellido de la firma se lee «Cadozos» con reservas."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuela-carretero-bragado"
+      ],
+      "applied": [
+        "Transcripción en el bautismo."
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Manuela Carretero Bragado2.JPG",
+          "sha256": "1feb4c1189fb81a7449d244a53fe1a17e111037ae30091ba2f240b9b02de5349",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1918-12-11",
+      "place": "Tardobispo",
+      "transcription": "N. 742. Manuela Carretero Bragado.\n\nEn el pueblo de Tardobispo, Diócesis de Zamora, Provincia de Ydem, a once de Diciembre de mil novecientos diez y ocho, yo, Don José Alejandre Moreno, Cura párroco de la Yglesia parroquial del Salvador de dicho pueblo, mandé dar sepultura eclesiástica en el cementerio de esta parroquia al cadáver de Doña Manuela Carretero Bragado, de noventa años de edad, viuda de D. Ángel Prada, en primeras nupcias, y de Don Luciano Crespo, en segundas; hija legítima de Pascual Carretero y de Micaela Bragado, que según certificación facultativa falleció en Tardobispo el día diez a las doce del día, a consecuencia de Senectud, habiendo recibido los Santos Sacramentos de Penitencia, Viático y Extrema-Unción que le fueron administrados por el párroco. Se ignora haya otorgado testamento. Se le hicieron los funerales de tercera clase. Fueron testigos Don Bernardino Pérez y Don Andrés de Mena, vecinos de este pueblo. Y para que conste estiendo la presente que firmo ut supra. José Alejandre Moreno.",
+      "uncertainties": [
+        "Le da noventa años; iba a cumplirlos. El nombre de la imagen no indica que es la partida de entierro."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuela-carretero-bragado"
+      ],
+      "applied": [
+        "Entierro el 11-12-1918 en Tardobispo con transcripción; hora del fallecimiento en la nota."
+      ]
+    }
+  ]
+}
