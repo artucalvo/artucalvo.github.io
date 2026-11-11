@@ -4493,14 +4493,19 @@
       ],
       "birth": {
         "place": "Roales",
-        "date": "1745-11-02"
+        "date": "1745-11-02",
+        "transcription": "En diez días del mes de Noviembre del año de mill setecientos y quarenta y cinco yo el infrascripto Cura Proprio del Lugar de Roales Bauticé solemnemente y puse los S.tos Óleos a un niño que se llamó Fran.co Santos hijo lex.mo de lex.mo Matrimonio de Joseph Jirón e Inés Martín naturales y v.os de dho Lugar; nació según dixeron sus Padres el día dos de dho mes; fueron sus Padrinos Fran.co González v.o de Zamora y Basilisa Jirón v.a del referido Roales, de los quales solo el Padrino contraxo parentesco espiritual de lo qual y demas obligaciones le advertí, siendo testigos Man.l Pastor, Martín de la Torre y Domingo Pastor todos v.os de dho Lugar y para que conste lo firmé dho día mes y año. D.n Joseph Villamor y Monroy."
       },
       "baptism": {
         "place": "Roales",
-        "date": "1745-02-10"
+        "date": "1745-11-10",
+        "transcription": "En diez días del mes de Noviembre del año de mill setecientos y quarenta y cinco yo el infrascripto Cura Proprio del Lugar de Roales Bauticé solemnemente y puse los S.tos Óleos a un niño que se llamó Fran.co Santos hijo lex.mo de lex.mo Matrimonio de Joseph Jirón e Inés Martín naturales y v.os de dho Lugar; nació según dixeron sus Padres el día dos de dho mes; fueron sus Padrinos Fran.co González v.o de Zamora y Basilisa Jirón v.a del referido Roales, de los quales solo el Padrino contraxo parentesco espiritual de lo qual y demas obligaciones le advertí, siendo testigos Man.l Pastor, Martín de la Torre y Domingo Pastor todos v.os de dho Lugar y para que conste lo firmé dho día mes y año. D.n Joseph Villamor y Monroy."
       },
       "father": "jose-giron",
-      "mother": "ines-martin"
+      "mother": "ines-martin",
+      "observations": [
+        "La fecha de bautismo previamente registrada era el 10-02-1745; la partida dice 10-11-1745, después de su nacimiento el 2 de noviembre."
+      ]
     },
     {
       "id": "josefa-fernandez-de-la-pena",
@@ -8318,10 +8323,12 @@
       ],
       "birth": {
         "date": "1727-10-01",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "transcription": "Catalina Cabrero.\n\nEn veinte y cinco días del mes de otubre de mill setecientos y veinte y siete, yo D.n P.o G.z de la Torre cura propio de este lugar de Morales baptizé solemnemente y puse los santos óleos a una niña que se llamó Catalina, hixa lex.ma y de lex.mo matrimonio de Manuel Cabrero y de Catalina Marques, la qual dha niña nació el día primero de dho mes. Fueron sus padrinos Antonio Cabrero y Catalina Cabrero, a quienes avisé el parentesco espiritual y demás obligaciones y lo firmé. D.n P.o G.z de la Torre."
       },
       "baptism": {
-        "date": "1727-10-25"
+        "date": "1727-10-25",
+        "transcription": "Catalina Cabrero.\n\nEn veinte y cinco días del mes de otubre de mill setecientos y veinte y siete, yo D.n P.o G.z de la Torre cura propio de este lugar de Morales baptizé solemnemente y puse los santos óleos a una niña que se llamó Catalina, hixa lex.ma y de lex.mo matrimonio de Manuel Cabrero y de Catalina Marques, la qual dha niña nació el día primero de dho mes. Fueron sus padrinos Antonio Cabrero y Catalina Cabrero, a quienes avisé el parentesco espiritual y demás obligaciones y lo firmé. D.n P.o G.z de la Torre."
       },
       "marriages": [
         {
@@ -8678,7 +8685,8 @@
       ],
       "birth": {
         "date": "1668-04-19",
-        "place": "Moraleja del Vino"
+        "place": "Moraleja del Vino",
+        "note": "La partida fecha el bautismo; no expresa la fecha de nacimiento."
       },
       "death": {
         "date": "1742-01-25",
@@ -8694,7 +8702,11 @@
       },
       "observations": [
         "La partida de fallecimiento nombra herederos a Bernardo y Jerónima Alonso."
-      ]
+      ],
+      "baptism": {
+        "date": "1668-04-19",
+        "transcription": "En diez y nuebe días del mes de abril de mill y seiscientos y sesenta y ocho, yo dicho cura theniente baptizé y puse los santos óleos a Ana hija de Pedro Salbador y de María Rodríguez. Fueron sus padrinos Luis Ramos y Ana María de Segovia, hermana del cura deste lugar, y para que conste lo firmé ut supra. [firma]."
+      }
     },
     {
       "id": "francisco-zamora",
@@ -9085,7 +9097,8 @@
       ],
       "birth": {
         "date": "1684-03-12",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "La partida expresa el 12 de marzo como fecha de bautismo, no de nacimiento; el año no se lee en el asiento."
       },
       "death": {
         "date": "1712-04-10",
@@ -9098,6 +9111,10 @@
         "place": "Casaseca de las Chanas",
         "note": "En la sepultura dotada que está debajo de la lámpara del Santísimo, en la capilla mayor, al lado de la Epístola.",
         "transcription": "Ysabel Rz. Cumplido. Barba.\n\nA día onze de Abril deste presente año de mill setezs y doze se enterró en esta Ygla Ysabel Rodríguez muger que fue de Luis Gaitán vzº deste lugar en la sepultura dotada (de que tiene posesión Juº Rodríguez Alº y con su lizenzia) que está debajo de la lámpara del SSmo en la Cappª maior al lado de la Epístola. Rezivió los Stos Sacramtos, hizo testamto ante Alº Marqués vzº deste dho lugar, mandó que se le hizieran los tres offºs de entierro, honrras y cabo de año con tres sazerdotes y quatro achas, se le pusiese la ofrenda de pan, vino y zera, y ofrenda de año y día como se acostumbra; pidió el ávito de S. Franco, las tres misas de indulgª y mandó [...]"
+      },
+      "baptism": {
+        "note": "Bautizada un 12 de marzo; el asiento no indica expresamente el año.",
+        "transcription": "En 12 de marzo baptizé una niña q se llamó Ysabel, hija de Juº Rz y Theodora Alonso, sus padres legítimos. Fue su padrino [ilegible], testigos [ilegible] y lo firmé dicho día, mes y año. Joseph de Miranda."
       }
     },
     {
@@ -9179,7 +9196,8 @@
       ],
       "birth": {
         "date": "1671-03-11",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "note": "La partida fecha el bautismo; no expresa la fecha de nacimiento."
       },
       "death": {
         "date": "1749-11-02",
@@ -9191,6 +9209,11 @@
         "date": "1749-11-03",
         "place": "Morales del Vino",
         "transcription": "Ynés de Trigo. Está cumplido y lo firmé. Cabrero.\n\nEn tres de Noviembre de mil settos y quarenta y nueve as se enterró en esta Yglesia Ynés de Trigo viuda de Manl Carrascal. Murió de su muerte natural, rezivió todos los Stos Sacramentos de Penitenzia, Eucharistía y Extremaunzión. Hízosele entierro, onrras y cabo de año y novenario. Hizo testamento ante Antº de Luelmo fiel de fechos de este lugar y tomó por su alma mil rs y para que conste lo firmé. Dexó zinco hijos. Dn Antto Cabrero."
+      },
+      "baptism": {
+        "date": "1671-03-11",
+        "place": "Morales del Vino",
+        "transcription": "En onze de Marzo de mill y seiscientos y setenta y un años yo el Lic.do Joseph Gallego de Cubillas cura theniente deste lugar de Morales baptizé solemnemente a Ynés hija legítima de [ilegible] de Trigo y de María de Luelmo. Fueron padrinos Juº de Luelmo y Catalina [ilegible], testigos Pº Cordero, Miguel Bueno [ilegible], y por verdad lo firmo ut supra. Joseph Gallego de Cubillas."
       }
     },
     {
@@ -9212,7 +9235,11 @@
           "date": "1666-04-21",
           "place": "Morales del Vino"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1648-06-13",
+        "transcription": "En 13 de junio de 1648 años baptizó el Ldo [ilegible] a María hija de Alº de Luelmo y de Ynés Bueno su legítima muger. Fueron padrinos Miguel Bueno y Ana de Dueñas vecinos del dicho lugar; testigos Jº de Luelmo, Antº Bragado y Gerónimo [ilegible], y por fe de ello lo firmé ut supra. Ldo Miguel de Villalpando."
+      }
     },
     {
       "id": "alonso-de-luelmo",
@@ -9269,10 +9296,16 @@
       ],
       "birth": {
         "date": "1670-05-21",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "La partida fecha el bautismo; no expresa la fecha de nacimiento."
       },
       "father": "antonio-moreno",
-      "mother": "catalina-morales-madre-de-gregoria-moreno"
+      "mother": "catalina-morales-madre-de-gregoria-moreno",
+      "baptism": {
+        "date": "1670-05-21",
+        "place": "Casaseca de las Chanas",
+        "transcription": "En veintiún días del mes de mayo de mil seiscientos y setenta años baptizé y puse los santos ólios a Gregoria hija de Antonio Moreno y de Catalina Morales. Fueron sus padrinos Marcos Alonso y Catalina [ilegible] comadre; testigos Gabriel Matheo, Alonso Marzo, Pedro Moreno sacristán y otros muchos, todos v.os y asistentes en este lugar de Casaseca de las Chanas y en fe de ello lo firmé de mi nombre. D. Pedro Falcón de la Cuesta."
+      }
     },
     {
       "id": "apolonia-rodriguez",
@@ -14224,7 +14257,8 @@
       ],
       "birth": {
         "date": "1655-02-15",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "La partida fecha el bautismo; no expresa la fecha de nacimiento."
       },
       "father": "juan-mendez",
       "mother": "maria-madaleno",
@@ -14236,7 +14270,11 @@
           "note": "Velados el 15 de octubre de 1673.",
           "transcription": "Año de 1673.\n\nJuº Rodríguez y Franca Méndez.\n\nEn dos de febrero del año de mil y seiscientos y setenta y tres desposé por palabras de presente que hacen verdadero matrimonio, aviendo precedido las amonestaciones que manda el Sto Concilio, a Juº Rodríguez y Franca Méndez. Fueron testigos Custodio Martín y Custodio García sacristán y lo firmé. Dn Antº Domínguez.\n\nEn quinze de otubre de dicho año se belaron in facie eclesia los dichos Juan Rodríguez y Franca Méndez. Fueron sus padrinos Alonso Quadrado y Teresa de Valencia [ilegible] testigos y por ser así lo firmé. Dn Pº Falagón de la Cuesta."
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1655-02-15",
+        "transcription": "Año de 1655.\n\nEn quince de Feb.o bapticé a Fran.ca hija de Juan Méndez y de María Madaleno. Fue su padrino Thomé de Casa Seca, testigos P.o Rubio y Felipe [ilegible] sacristán y por verdad lo firmé. [firma]."
+      }
     },
     {
       "id": "manuel-alonso-padre-de-ana-alonso",
@@ -14248,10 +14286,15 @@
       ],
       "birth": {
         "date": "1656-06-28",
-        "place": "Casaseca de las Chanas"
+        "place": "Casaseca de las Chanas",
+        "note": "El asiento de bautismo no deja leer con seguridad día ni año y no expresa la fecha de nacimiento."
       },
       "father": "luis-alonso",
-      "mother": "susana-perez"
+      "mother": "susana-perez",
+      "baptism": {
+        "note": "Bautizado en junio; día y año no legibles en el asiento.",
+        "transcription": "En [ilegible] de Junio bauticé a Manuel hijo de Luis Alº y de Susana Pérez vecinos deste lugar de Casaseca de las Chanas, hijos legítimos. Fue su padrino Miguel [ilegible], madrina la comadre, testigos Luis Alº el [ilegible] sacristán y Juº Morales y por verdad lo firmé. [firma]."
+      }
     },
     {
       "id": "maria-perez-madre-de-ana-alonso",
@@ -14289,10 +14332,14 @@
       "birth": {
         "date": "1617-10-03",
         "place": "Toro",
-        "note": "Toro (Santa María Magdalena)."
+        "note": "Toro (Santa María Magdalena). La partida expresa el 3 de octubre como bautismo; no fecha el nacimiento ni muestra el año."
       },
       "father": "gaspar-gonzalez",
-      "mother": "maria-martin-madre-de-angela-gonzalez"
+      "mother": "maria-martin-madre-de-angela-gonzalez",
+      "baptism": {
+        "note": "Bautizada el 3 de octubre; el año se menciona por referencia a un asiento anterior no visible.",
+        "transcription": "En tres días de octubre deste dicho año yo el dicho cura bapticé y puse los sanctos olios a Angela hija de Gaspar Gonçales y de María Martín sus legítimos padres. Fueron sus padrinos Alonso [ilegible] y Ana Caliente. Juan Martín."
+      }
     },
     {
       "id": "gaspar-gonzalez",
@@ -16369,7 +16416,8 @@
       ],
       "birth": {
         "date": "1688-02-14",
-        "place": "Gáname"
+        "place": "Gáname",
+        "note": "La partida fecha el bautismo; no expresa la fecha de nacimiento."
       },
       "father": "alonso-gaspar",
       "mother": "josefa-de-olmedo",
@@ -16382,6 +16430,13 @@
         {
           "spouse": "ana-piorno"
         }
+      ],
+      "baptism": {
+        "date": "1688-02-14",
+        "transcription": "En catorce días del mes de febrero de mill seiscientos y ochenta y ocho el L.do [ilegible] cura Theniente [ilegible] baptizó a Bernardo hijo de Alonso Gaspar y Josepha de Olmedo su muger; fue su Padrino el L.do Andrés Rodríguez y lo firmé. [firma]."
+      },
+      "observations": [
+        "La partida de bautismo nombra a su madre Josepha de Olmedo; la de entierro dice «Theresa Olmedo su madre», expresión que podría referirse a la madre de su mujer Ana. La discrepancia queda pendiente de revisión."
       ]
     },
     {
@@ -17262,6 +17317,11 @@
         "date": "1725-11-05",
         "place": "Morales del Vino",
         "transcription": "Gerónimo de Luelmo. Abintestato. 39.\n\nEn cinco de Nobiembre de mill setecientos i veinte i cinco se enterró en esta Yglesia Gerónimo de Luelmo. No recibió más sacramento que el de la Extremaunción. Hiziéronsele los tres oficios de entierro, honrras i cabo de año y para que conste lo firmé. Dn Diº Phz de la Torre."
+      },
+      "baptism": {
+        "date": "1691-08-30",
+        "place": "Morales del Vino",
+        "transcription": "Gerónimo. En treinta días del mes de Agosto de mill seiscientos y nove[ilegible]ta y un años yo el Ldo Germo de Luelmo cura propio deste lugr de Morales baptizé solemnemente un niño que se llamó Gerónimo hijo legítimo de Juan de Luelmo y María Pinto. Fueron padrinos Ju.o de [ilegible] y [ilegible] Pinto su muger; fueron testigos el Ldo Fran.co Martín [ilegible] y Matheo Brioso sacristán todos v.os deste lugar y para que conste lo firmé. Ldo Germo de Luelmo."
       }
     },
     {
@@ -19246,6 +19306,10 @@
         "date": "1731-09-21",
         "place": "Morales del Vino",
         "transcription": "Franco Martín.\n\nEn veinte i uno de septiembre de el año de mil setecientos i treinta i uno se enterró en esta iglesia Franco Martín, aviendo recivido los Stos sacramentos de penitencia i comunión i extremaunción, y dio poder para el testamento a Luis Martín vecino de este lugar de Morales. Enterrose grada avajo. Hiziéronsele los oficios honrras y cavo de año y assí lo firmo. Tomó por su alma trecientos rs, de que está cumplido su testamento. Luis González, cura tte."
+      },
+      "baptism": {
+        "date": "1686-05-01",
+        "transcription": "En primero de Mayo del año de mill seis cientos y ochenta y seis Bapticé solemnemente y puse los Santos ólios a un niño hijo legítimo de Juan Martín y Lorença Cabrero su muger. Llamose Fran.co; fueron sus padrinos el Ldo Fran.co Martín presbítero y Luisa Pinto; testigos Mateo Brioso y el Ldo Diego de Mena presbítero, todos v.os deste lugar. Firmelo ut supra. Thomás de Oviedo Clavijo."
       }
     },
     {
@@ -19647,7 +19711,8 @@
       ],
       "birth": {
         "date": "1691-01-07",
-        "place": "Gáname"
+        "place": "Gáname",
+        "note": "La partida expresa el 7 de enero como fecha de bautismo, no de nacimiento; el siglo no se ve."
       },
       "father": "marcos-vega",
       "mother": "isabel-salvador",
@@ -19666,7 +19731,11 @@
       },
       "observations": [
         "La partida de fallecimiento nombra heredero y testamentario a su hijo Marcos Vega."
-      ]
+      ],
+      "baptism": {
+        "note": "Bautizado el 7 de enero de un año expresado como «91»; el siglo no se ve en el asiento.",
+        "transcription": "Año de 91. Juan. En siete días de enero bapticé a Juan hijo de Marcos Vega y de Isabel Salbador su muger. Fue su padrino Alonso [ilegible] y lo firmé. Joseph Rodríguez."
+      }
     },
     {
       "id": "domingo-garrote-padre-de-domingo-garrote-ortijo",
@@ -19786,7 +19855,8 @@
       ],
       "birth": {
         "date": "1699-09-10",
-        "place": "Gáname"
+        "place": "Gáname",
+        "transcription": "Joseph. En diez y ocho días del mes de septe de dho año baptizé a Joseph hijo de Manuel Zurdo y de María Herrero su muger. Fue su padrino Matheo Zurdo vº deste lugr, advertile el parentesco. Nació el día diez dho mes y lo firmé. Ldo Joseph Rodríguez."
       },
       "death": {
         "date": "1748-12-13",
@@ -19800,7 +19870,11 @@
           "date": "1726-06-03",
           "place": "Fadón"
         }
-      ]
+      ],
+      "baptism": {
+        "note": "Bautizado un 18 de septiembre; el año no aparece en el asiento.",
+        "transcription": "Joseph. En diez y ocho días del mes de septe de dho año baptizé a Joseph hijo de Manuel Zurdo y de María Herrero su muger. Fue su padrino Matheo Zurdo vº deste lugr, advertile el parentesco. Nació el día diez dho mes y lo firmé. Ldo Joseph Rodríguez."
+      }
     },
     {
       "id": "luis-martin",

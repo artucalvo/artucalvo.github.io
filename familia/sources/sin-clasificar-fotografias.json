@@ -7719,6 +7719,755 @@
         "Transcripción en el fallecimiento; observación con sus testamentarios."
       ],
       "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Catalina Cabrero Marqués.JPG",
+          "sha256": "752002406301e9bee725c1b8e21aa9aa9e306e39622deb2e65b4ea102debb937",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Catalina Cabrero.\n\nEn veinte y cinco días del mes de otubre de mill setecientos y veinte y siete, yo D.n P.o G.z de la Torre cura propio de este lugar de Morales baptizé solemnemente y puse los santos óleos a una niña que se llamó Catalina, hixa lex.ma y de lex.mo matrimonio de Manuel Cabrero y de Catalina Marques, la qual dha niña nació el día primero de dho mes. Fueron sus padrinos Antonio Cabrero y Catalina Cabrero, a quienes avisé el parentesco espiritual y demás obligaciones y lo firmé. D.n P.o G.z de la Torre.",
+      "uncertainties": [
+        "La partida distingue el nacimiento el 1 de octubre de 1727 y el bautismo el 25, y nombra a ambos padres; identifica a la Catalina casada con Nicolás Alonso."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-cabrero-marques-alonso"
+      ],
+      "applied": [
+        "Transcripción en nacimiento y bautismo ya registrados."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisca Méndez.JPG",
+          "sha256": "47fab8029930c8c9d256125fe3e42761af06c3dd367d6df18d3d6197f3c95e5a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Año de 1655.\n\nEn quince de Feb.o bapticé a Fran.ca hija de Juan Méndez y de María Madaleno. Fue su padrino Thomé de Casa Seca, testigos P.o Rubio y Felipe [ilegible] sacristán y por verdad lo firmé. [firma].",
+      "uncertainties": [
+        "Coinciden nombre y ambos padres. La fecha expresa es la del bautismo, no la del nacimiento. El asiento no nombra localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisca-mendez"
+      ],
+      "applied": [
+        "Bautismo el 15-02-1655 y nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Ana Mª. Salvador Rodríguez.JPG",
+          "sha256": "a913f79bdea1a7fdd9faf07046d1076568867c3854fa87a0f8b1a2ab79d5235e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez y nuebe días del mes de abril de mill y seiscientos y sesenta y ocho, yo dicho cura theniente baptizé y puse los santos óleos a Ana hija de Pedro Salbador y de María Rodríguez. Fueron sus padrinos Luis Ramos y Ana María de Segovia, hermana del cura deste lugar, y para que conste lo firmé ut supra. [firma].",
+      "uncertainties": [
+        "Nombre y padres coinciden con el matrimonio. La fecha es la del bautismo; no se expresa nacimiento ni localidad. Firma dudosa."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-maria-salvador"
+      ],
+      "applied": [
+        "Bautismo 19-04-1668; nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Bernardo Gaspar de Olmedo.JPG",
+          "sha256": "242600a8e91950df3f4414db7dba0bd6a44bc8516c1d7848e54116bbe8ba1cb6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En catorce días del mes de febrero de mill seiscientos y ochenta y ocho el L.do [ilegible] cura Theniente [ilegible] baptizó a Bernardo hijo de Alonso Gaspar y Josepha de Olmedo su muger; fue su Padrino el L.do Andrés Rodríguez y lo firmé. [firma].",
+      "uncertainties": [
+        "Coinciden el nombre y los padres Alonso Gaspar y Josepha de Olmedo del árbol; la partida de entierro menciona a Theresa Olmedo como madre, posiblemente de su esposa Ana. La fecha expresa es de bautismo, sin fecha de nacimiento ni localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "bernardo-gaspar"
+      ],
+      "applied": [
+        "Bautismo 14-02-1688, nota en nacimiento y discrepancia de la madre."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de  Isabel de Urueña Alejandro.JPG",
+          "sha256": "c0acd995eb3874923a8c7d25b8bd7e62741e5b1c8a569e12a6bb046266c74fc7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En cinco días del mes de Agosto de mil seiscientos y ochenta años yo [ilegible] cura teniente de este lugar de Moraleja bauticé solemnemente y puse los santos óleos a Ysabel hija de Luis de Urueña y de María Alejandro sus padres legítimos. Fueron sus padrinos Antonio [ilegible] y María Grande muger de Thomás Montalvo, y les advertí de la obligación de enseñarle la doctrina christiana [ilegible] y del parentesco [ilegible]. Testigos Pedro de Moncayo, Luis [ilegible] y Thomás Montalvo vecinos de dicho lugar y lo firmé. [ilegible].",
+      "uncertainties": [
+        "El bautismo nombra a la madre María Alejandro, pero el matrimonio de la candidata dice María Arenas: no se puede identificar con seguridad."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "isabel-de-uruena"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Alonso Hernández.JPG",
+          "sha256": "a4754519b14d63d30568a5c2dbd175b6741e32d53f3196ca9c2882b97f68d029",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En 17 Diziembre de 1648 años, yo [ilegible] bapticé a Alº hijo de Domingo Hernández y de María [ilegible]. Fueron padrinos Juº de Luelmo y María de Trigo; testigos Juº de Luelmo y Gerónimo [ilegible] y otros [ilegible], y lo firmé. [firma].",
+      "uncertainties": [
+        "El candidato del árbol no tiene padres ni fecha registrados y no hay identificación suficiente. El asiento no declara localidad ni nacimiento."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "alonso-hernandez"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Andrés Rodríguez Méndez.JPG",
+          "sha256": "ea5a7415c7e82c32ceb981a91b9798af323edf12653451d350764517b852e6b6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veintiuno de diciembre de mill y seiscientos y setenta y ocho el licenciado Martín Rodríguez presbítero con mi orden puso los santos óleos a Andrés hijo de Juan Rodríguez Manso y de Franca Méndez su muger. Fue su padrino Juan de Carvajal, testigos Atilano Martín, Antonio Moreno y otros. Había recibido agua del santo baptismo en casa por mano del licenciado P.º Pérez presbítero y lo firmé. [firma].",
+      "uncertainties": [
+        "El Andrés del árbol fue padre en 1683 y por tanto no corresponde al bautizado en 1678. Los nombres de los padres requieren corroboración antes de enlazar."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Antonio Moreno Isidro.JPG",
+          "sha256": "249d39784351f4b9546c5a6f820217191b4ee550c4c92e7f87385c2a2a594757",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En quinze días del mes de febrero de seiscientos y cuarenta y dos años baptizó el [ilegible] cura propio deste lugar de Casaseca de las Chanas a Antón, hijo de [ilegible] Moreno y María Isidro. Fue su padrino [ilegible] y testigos [ilegible], y lo firmé. [firma].",
+      "uncertainties": [
+        "Nombre, localidad y edad plausible no bastan para identificar al candidato, que carece de padres y fecha de bautismo en el árbol. Nombre del padre de lectura incierta."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "antonio-moreno"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisco Cabrero Amor.JPG",
+          "sha256": "6a548e43551db0c6f5ed4c599e11229ac46347266a5ff6f68f7f1d0fc235affb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "Francisco. Yo el Ldo Dn [ilegible] de Olmedo cura teniente deste lugar de Morales en treze días del mes de março de dicho año de ochenta i seis puse los santos oleos a un niño que se llamó Fran.co hijo lexítimo de Pedro Cabrero y de María de Amor su muger, el qual niño había bautizado de socorro el Ldo Fran.co Martín clérigo presbítero de este lugar; fueron sus padrinos Pedro Martín y María Pinto; fueron testigos el Ldo Diego de [ilegible] presbítero y el Ldo Fran.co Martín todos v.os deste lugar de Morales, y para que conste lo firmé en él, fecha ut supra. [firma].",
+      "uncertainties": [
+        "La aplicación de óleos es del 13 de marzo de un año expresado como ochenta y seis; el siglo no consta en el asiento visible. El bautismo de socorro fue anterior pero sin fecha. Sus padres no corresponden a un Francisco identificado en el árbol."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Alonso.JPG",
+          "sha256": "0abe03584f9531b9c120fda2af5f8ef0ba0b685ae16804ee6f685d472c5855cc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En [ilegible] de Junio bauticé a Manuel hijo de Luis Alº y de Susana Pérez vecinos deste lugar de Casaseca de las Chanas, hijos legítimos. Fue su padrino Miguel [ilegible], madrina la comadre, testigos Luis Alº el [ilegible] sacristán y Juº Morales y por verdad lo firmé. [firma].",
+      "uncertainties": [
+        "Los padres Luis Alonso y Susana Pérez identifican al hijo; el día y el año de bautismo quedan ocultos o incompletos en la fotografía."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-alonso-padre-de-ana-alonso"
+      ],
+      "applied": [
+        "Transcripción y bautismo en junio sin fecha exacta."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Lorenza Cabrero de la Calle.JPG",
+          "sha256": "ef758cccfb13201c0ec3b0deef6d29cff23c4e3fa89e8784293a04a9f9f3c098",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y dos de agosto de mil y seiscientos cinquenta y siete años bapticé a Lorenza hija de Fran.co Cabrero y de Catalina de la Calle. Fueron padrinos Pedro García y Ynés Prieto; testigos Antº [ilegible] y Martín [ilegible] y [ilegible] y lo firmé. [firma].",
+      "uncertainties": [
+        "La candidata del árbol carece de padres y fecha documentados; nombre y localidad no bastan para identificarla sin más pruebas."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "lorenza-cabrero"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Luisa Perdigón Aguilar.JPG",
+          "sha256": "c1cc2b3cbf54ef00135bb86f0ccf3a47c5e97545f4b31ad675aa4888dc34cbac",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y quatro días del mes de mayo de mill [ilegible] y setenta [ilegible] años bapticé solemnemente yo Blas Martínez [ilegible] cura propio deste lugar de Morales a una niña que se llamó Luisa hija legítima de Alonso Perdigón y de Luisa de Aguilar su mujer. Fueron padrinos Blas Miguel y María Miguel [ilegible]. Testigos [ilegible] y para que conste lo firmé. [firma].",
+      "uncertainties": [
+        "La candidata del árbol no tiene padres ni fecha de bautismo registrados; se requiere otra prueba para vincularla. El año está parcialmente oculto."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "luisa-perdigon"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Inés de Trigo Luelmo.JPG",
+          "sha256": "4a04d9693a397017dbe4601052308fbd2d5951ee8ffaaddf23848a8bfb120886",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En onze de Marzo de mill y seiscientos y setenta y un años yo el Lic.do Joseph Gallego de Cubillas cura theniente deste lugar de Morales baptizé solemnemente a Ynés hija legítima de [ilegible] de Trigo y de María de Luelmo. Fueron padrinos Juº de Luelmo y Catalina [ilegible], testigos Pº Cordero, Miguel Bueno [ilegible], y por verdad lo firmo ut supra. Joseph Gallego de Cubillas.",
+      "uncertainties": [
+        "Coinciden nombre, madre, localidad y fecha anterior. El nombre del padre queda oculto en el pliegue."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-de-trigo"
+      ],
+      "applied": [
+        "Bautismo 11-03-1671 y nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Isabel Rodríguez Alonso.JPG",
+          "sha256": "955f8787724a476b6ab3e5cfcea2a743d858385ed63565f7e4be5f16b4e105fe",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Nacimiento de Isabel Rodríguez.JPG",
+          "sha256": "b4b715dbd34add8b10966d15c07b3ad8a24f6990f745cc3bdf8cc021f530355a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En 12 de marzo baptizé una niña q se llamó Ysabel, hija de Juº Rz y Theodora Alonso, sus padres legítimos. Fue su padrino [ilegible], testigos [ilegible] y lo firmé dicho día, mes y año. Joseph de Miranda.",
+      "uncertainties": [
+        "Ambas fotos muestran el mismo asiento. Coinciden nombre y ambos padres. El día y mes son de bautismo; el año no se expresa en el asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-rodriguez"
+      ],
+      "applied": [
+        "Transcripción de bautismo y nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Inés Marqués Esteban.JPG",
+          "sha256": "7c9ca086ae1ea9acf0c5788f9b1b02e44aee88b231c7969f39965db28d2e507a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veintiuno de diciembre de mill seiscientos y ochenta y seis años yo el Ldo Joseph de Prado cura theniente de este lugar de Morales bapticé solemnemente a una niña que se llamó Ynés, hija de Juan Marqués y de María Esteban su legítima mujer. Fueron sus padrinos D. Juan de [ilegible] y Ynés de [ilegible], advertíles el parentesco espiritual. Testigos el Ldo Diego de Mena y el Ldo Juan Martín y Matheo Brioso, y en fe de ello lo firmé ut supra. Joseph de Prado.",
+      "uncertainties": [
+        "Los padres son Juan Marqués y María Esteban, pero la candidata del árbol carece de filiación documentada; no se puede identificar por nombre y localidad solamente."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "ines-marques"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Jerónimo de Luelmo Pinto.JPG",
+          "sha256": "bdf22251cccb61ee9c228b7bb0c9435e9dd442744029543ee230260cb775c2b4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Gerónimo. En treinta días del mes de Agosto de mill seiscientos y nove[ilegible]ta y un años yo el Ldo Germo de Luelmo cura propio deste lugr de Morales baptizé solemnemente un niño que se llamó Gerónimo hijo legítimo de Juan de Luelmo y María Pinto. Fueron padrinos Ju.o de [ilegible] y [ilegible] Pinto su muger; fueron testigos el Ldo Fran.co Martín [ilegible] y Matheo Brioso sacristán todos v.os deste lugar y para que conste lo firmé. Ldo Germo de Luelmo.",
+      "uncertainties": [
+        "Coinciden ambos padres. El año cruza el pliegue, pero se lee «nove[...]/ta y un»; el nacimiento no se fecha."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jeronimo-de-luelmo"
+      ],
+      "applied": [
+        "Bautismo en Morales el 30-08-1691."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de José Zurdo Herrero.JPG",
+          "sha256": "5284416de89ea794f4d28143ad44dd81e65257beaae948fe8dafec57b184ea16",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Joseph. En diez y ocho días del mes de septe de dho año baptizé a Joseph hijo de Manuel Zurdo y de María Herrero su muger. Fue su padrino Matheo Zurdo vº deste lugr, advertile el parentesco. Nació el día diez dho mes y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "Coinciden ambos padres y día y mes de nacimiento; el año queda fuera de la imagen."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "jose-zurdo-herrero"
+      ],
+      "applied": [
+        "Transcripción del nacimiento y bautismo del 18 de septiembre sin año."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Juan Vega Salvador.JPG",
+          "sha256": "736aae20b4c4256fe64715d8389622992d96e8518f9871839ad4f9d2e2b73b28",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Año de 91. Juan. En siete días de enero bapticé a Juan hijo de Marcos Vega y de Isabel Salbador su muger. Fue su padrino Alonso [ilegible] y lo firmé. Joseph Rodríguez.",
+      "uncertainties": [
+        "Coinciden ambos padres. El año se expresa como «91» sin siglo y no se indica fecha de nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-vega-salvador"
+      ],
+      "applied": [
+        "Transcripción de bautismo y nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Juan Sánchez Mielgo.JPG",
+          "sha256": "2b975d0116055e418fcdb0039652a0c13534f9d13b95d57687ecbb6c752cc37c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En primero de Julio del año de mil y seiscientos y setenta [ilegible] yo el cura de esta villa del Cubo Baptizé un niño hijo de migel Sanchez y de an. mielga su muger, llamose Juan; padrinos Domingo garcia y angela de [ilegible], les adbertí el parentesco espiritual; testigos Antonio de [ilegible], gregrio [ilegible] y lo firmé dho día. Santiago Sanchez.",
+      "uncertainties": [
+        "Sus padres Miguel Sánchez y Ana Mielga no coinciden con las personas existentes llamadas Juan Sánchez; el final del año está oculto."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisco Girón Martín.JPG",
+          "sha256": "a90caae3f0ecde30641cfa3988a6a2101e90a34056e6e064920f6a2159139316",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En diez días del mes de Noviembre del año de mill setecientos y quarenta y cinco yo el infrascripto Cura Proprio del Lugar de Roales Bauticé solemnemente y puse los S.tos Óleos a un niño que se llamó Fran.co Santos hijo lex.mo de lex.mo Matrimonio de Joseph Jirón e Inés Martín naturales y v.os de dho Lugar; nació según dixeron sus Padres el día dos de dho mes; fueron sus Padrinos Fran.co González v.o de Zamora y Basilisa Jirón v.a del referido Roales, de los quales solo el Padrino contraxo parentesco espiritual de lo qual y demas obligaciones le advertí, siendo testigos Man.l Pastor, Martín de la Torre y Domingo Pastor todos v.os de dho Lugar y para que conste lo firmé dho día mes y año. D.n Joseph Villamor y Monroy.",
+      "uncertainties": [
+        "Coinciden ambos padres y fecha de nacimiento. El asiento da bautismo el 10 de noviembre, no el 10 de febrero anterior al nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-giron-martin"
+      ],
+      "applied": [
+        "Transcripción en nacimiento y bautismo; bautismo corregido al 10-11-1745."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisco Martín Cabrero.JPG",
+          "sha256": "cab57b2f6033c9676cf2efb33e1ef68781810a864b61392700f0507d067ec26b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En primero de Mayo del año de mill seis cientos y ochenta y seis Bapticé solemnemente y puse los Santos ólios a un niño hijo legítimo de Juan Martín y Lorença Cabrero su muger. Llamose Fran.co; fueron sus padrinos el Ldo Fran.co Martín presbítero y Luisa Pinto; testigos Mateo Brioso y el Ldo Diego de Mena presbítero, todos v.os deste lugar. Firmelo ut supra. Thomás de Oviedo Clavijo.",
+      "uncertainties": [
+        "Coinciden ambos padres. No se expresa fecha de nacimiento ni localidad."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-martin-cabrero"
+      ],
+      "applied": [
+        "Bautismo 01-05-1686."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Gregoria Moreno.JPG",
+          "sha256": "650dd4b983d5f020677c3d401bc584316636c14148674bd7cd6574877f964662",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En veintiún días del mes de mayo de mil seiscientos y setenta años baptizé y puse los santos ólios a Gregoria hija de Antonio Moreno y de Catalina Morales. Fueron sus padrinos Marcos Alonso y Catalina [ilegible] comadre; testigos Gabriel Matheo, Alonso Marzo, Pedro Moreno sacristán y otros muchos, todos v.os y asistentes en este lugar de Casaseca de las Chanas y en fe de ello lo firmé de mi nombre. D. Pedro Falcón de la Cuesta.",
+      "uncertainties": [
+        "Coinciden ambos padres. La fecha expresa es de bautismo, no de nacimiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "gregoria-moreno"
+      ],
+      "applied": [
+        "Bautismo 21-05-1670 y nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Francisco González Pérez.JPG",
+          "sha256": "b266dc2a637fe88eabbeb3f42a2e4a1fb6677d5fa0a3c1f0e7a065499f495de3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En [ilegible] de setiembre de 1646 años bauticé yo Manuel Rodríguez Moreno cura deste lugar de Casaseca de las Chanas a Francisco González [ilegible] Catalina Pérez su mujer. Fue su padrino Alonso [ilegible]; testigos [ilegible] y Domingo [ilegible] sacristán del dicho lugar y lo firmé. [firma].",
+      "uncertainties": [
+        "El día está tapado y no se distingue con seguridad la filiación; el candidato del árbol carece de padres y fecha."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "francisco-gonzalez"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ángela González Martín.JPG",
+          "sha256": "15559a9c2961054dbc3f67d85e1725469be5aed54a6de856bd144e4ddce636d7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En tres días de octubre deste dicho año yo el dicho cura bapticé y puse los sanctos olios a Angela hija de Gaspar Gonçales y de María Martín sus legítimos padres. Fueron sus padrinos Alonso [ilegible] y Ana Caliente. Juan Martín.",
+      "uncertainties": [
+        "Coinciden ambos padres y el día y mes previamente conservados. El año y la parroquia no se expresan en el asiento visible."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "angela-gonzalez"
+      ],
+      "applied": [
+        "Bautismo 3 de octubre sin año; nota en nacimiento."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "heraldry",
+      "images": [
+        {
+          "filename": "Escudo Brioso.jpeg",
+          "sha256": "5b93b1e852158bc5880c568e9ec5b5fe4d0b152b7a9cd55492b78a4656bb3272",
+          "width": 2550,
+          "height": 3510
+        }
+      ],
+      "transcriptionDraft": "Brioso. España. En oro, un árbol de sinople y un lobo de sable, andante puesto detrás del tronco, en lo alto linguado de gules.",
+      "uncertainties": [
+        "La imagen muestra un escudo atribuido al apellido Brioso sin datos de una persona o procedencia que permitan atribuirlo a una rama concreta."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Marcos Vega Salvador.JPG",
+          "sha256": "9dea5467925710a0d7550115a16d3c57856b6068f83003d7123721c6c714e944",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "Marcos. En quince días del mes de Marzo de mill seiscientos y nobenta y seis baptizé a Marcos hijo de Santiago Vega y de Josepha Salbadora su muger. Fue su padrino Andrés Garrote y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "El Marcos del árbol ya fue padre en 1691 y no puede ser este niño bautizado en 1696; son homónimos."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de María de Luelmo Bueno.JPG",
+          "sha256": "8ad493f31ec56c49d0e21ade5f72203cde9ad40dc3adcefdb1a701a20504c73c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "En 13 de junio de 1648 años baptizó el Ldo [ilegible] a María hija de Alº de Luelmo y de Ynés Bueno su legítima muger. Fueron padrinos Miguel Bueno y Ana de Dueñas vecinos del dicho lugar; testigos Jº de Luelmo, Antº Bragado y Gerónimo [ilegible], y por fe de ello lo firmé ut supra. Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "Coinciden ambos padres. No se expresa fecha de nacimiento ni localidad en el asiento."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-de-luelmo-madre-de-ines-de-trigo"
+      ],
+      "applied": [
+        "Bautismo 13-06-1648."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Susana Pérez Galán.JPG",
+          "sha256": "36445f8d651ce0141202a2b2c37b103852a62554dbb0c5f2a2c5fe6f347888ff",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En nuebe de [mes ilegible] del año de 1627 baptizé a Susana hija de Antón Pérez y Mª Galana su muger, [ilegible] fue padrino de pila Alº Jurado y por berdad lo firmé. [firma].",
+      "uncertainties": [
+        "La candidata Susana Pérez y Luis Alonso casaron en 1653, pero el matrimonio no nombra padres y la identificación no queda demostrada. El mes requiere confirmación."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "susana-perez"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Martín Colás.JPG",
+          "sha256": "2dd5577530be802bf70b134ea8a118641bd8bfa92bc9ea0eb6780a5f18382dfb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En el dicho día baptizé un niño que se llamó Manuel, hijo legítimo de [ilegible] y de su muger [ilegible]. Fueron sus padrinos [ilegible] y Zebrián Gallego [ilegible].",
+      "uncertainties": [
+        "Partida deteriorada y nombres de padres ilegibles; la fecha se remite a la partida anterior, parcialmente visible. No hay identificación segura."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Marqués Rodríguez.JPG",
+          "sha256": "612fc47933d235eb5d4381123df40e60f841e6ff23f22df356d22f788f7e5f59",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En [ilegible] de abril de 1656 años puse los santos óleos a Manuel hijo de Pedro Marqués y de María [ilegible]; fueron padrinos [ilegible], testigos [ilegible] y lo firmé. [firma].",
+      "uncertainties": [
+        "La imagen es borrosa. Día y apellido de la madre requieren revisión; los padres no coinciden con el Manuel Marqués del árbol hijo de Juan Marqués y María Esteban."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Martín Palomares1.JPG",
+          "sha256": "e485f90e1e7217db820c825a1d6ddf9c5e09643a7232e837b93941f748f2ca77",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Nacimiento de Manuel Martín Palomares2.JPG",
+          "sha256": "8e31a0fe7afacd5298ba0256faa53ae735b075b48621f00a28f8480fcbe24980",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En seis días del mes de Mayo de mil y seiscientos y ochenta años yo Marcos de Remesal cura teniente deste lugar de Moraleja bapticé solemnemente y puse los santos óleos a Manuel hijo de Luis Martín y de Brígida Palomares sus legítimos padres. Fueron sus padrinos [ilegible] y Cathalina [ilegible], y les advertí la obligación [ilegible] y parentesco espiritual [ilegible]. Declararon dhos sus padres aver nacido en día [veinte y ocho?] de Abril y lo firmé ut supra. Marcos de Remesal.",
+      "uncertainties": [
+        "Una sola partida en dos páginas. No se ha establecido correspondencia con ningún Manuel Martín del árbol; el supuesto día de nacimiento requiere revisión."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Hernández.JPG",
+          "sha256": "d7f729856b94e271127e11d0a62178c18c3e846b3fb95cacda93e91df79718e1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Manuel Hernández, hijo de Lucas Hernández y de Susana Prieta.\n\nEn veynte y dos de diciembre bautizé a Manuel hijo de Lucas Hernández, sus lexítimos padres vecinos deste lugar. Fue su padrino Gerónimo Castaño cura propio de Pontexos. Testigos Felipe Rodríguez y Luis Alonso sacristán y por verdad lo firmé de mi nombre. Moreno.",
+      "uncertainties": [
+        "Otra fotografía de la partida ya transcrita y fechada por el encabezado siguiente. El margen nombra ambos padres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-hernandez-crespo"
+      ],
+      "applied": [
+        "Se conserva otra toma de la partida de bautismo ya incorporada."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de María Pérez.JPG",
+          "sha256": "48758765fff0e30085d744e335f7805f4e5c093bb349e5d98d49f7084a04bd40",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En [ilegible] de setiembre de mil y seis[cientos] y [ilegible] años yo el Ldo Pedro Pérez clérigo presbítero [ilegible] de este lugar de [ilegible], de orden del Cura bapticé y puse los Santos óleos a María hija de Mateo Pérez y Manuela Delgado sus legítimos padres [ilegible] fue su padrino [ilegible] y madrina María Delgado su muger [ilegible] y en fe de ello lo firmé. Ldo Pedro Pérez.",
+      "uncertainties": [
+        "Día y año de lectura insegura. Ninguna María Pérez del árbol tiene la filiación documentada correspondiente; no se identifica por apellido."
+      ],
+      "status": "provisional; sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Pascual Martín Perdigón.JPG",
+          "sha256": "c444909b911456d1d5a1099bc81d49da1535e5469b16176d8a4103adcfec283b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En nueve de abril de mil y seiscientos y seis años baptizé a Pasqual hijo de Pasqual Martín y de María Perdigona su muger. Fueron sus padrinos Andrés Martín y Ysabel [ilegible]. Testigos Antº Pinto y Pedro [ilegible] y para que conste lo firmé, fecho ut supra. Pedro Delgado.",
+      "uncertainties": [
+        "El candidato es cronológicamente plausible pero carece de padres y fecha documentados; la identidad no queda probada."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "pascual-martin"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "¿Inés Marqués Nieto.JPG",
+          "sha256": "2b408a6685fbcbcc8265edb1943b9484818511de010c6543a5f8322f98d0cd60",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En siete de Noviembre de mill seiscientos y ochenta y seis años yo el Lic.do Joseph de Prada cura teniente de este lugar de Morales Bapticé y puse los S.tos óleos a una niña que se llamó Ynés hija de Diego Marqués y de María Nieto su legítima mujer. Fueron sus padrinos Alonso Sánchez [ilegible] vecino de Zamora y Jacinta Nieto; advertíles el parentesco espiritual. Fueron testigos Alonso de Vitoria y Mateo Brioso y en fe de ello lo firmé ut supra. Joseph de Prada. [Nota posterior ilegible].",
+      "uncertainties": [
+        "La edad registrada de la candidata es compatible, pero carece de padres conocidos. Otra Inés Marqués fue bautizada en 1686 con padres distintos; identidad sin comprobar."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "ines-marques"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Susana Prieto Grande.JPG",
+          "sha256": "188b3a396c7bc0ef577cb1f3faebdcc907c96b292b196f369775e5671e970249",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En veinte y ocho de marzo de mil seiscientos y veinte y siete años yo Pedro Alonso [ilegible] bapticé a Susana hija de Juan Prieto y de Ysabel Grande su muger. Fue padrino de pila Juan Lorenzo; testigos Juan [ilegible] todos v.os del dicho lugar y lo firmé. Pedro Alonso.",
+      "uncertainties": [
+        "La candidata casada con Lucas Hernández en 1642 no tiene padres documentados, por lo que no hay identificación segura."
+      ],
+      "status": "provisional; sin enlace al árbol",
+      "candidatePersonIds": [
+        "susana-prieto"
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Pedro Amador y Catalina Tejedor.JPG",
+          "sha256": "9e5a594e016d00588db6ddca351f121e9caa72df76dd59d9e934725b7f9277ed",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcriptionDraft": "En Malillos a seis días del mes de Marzo de mil seiscientos setenta y nuebe años [ilegible] Pedro Amador hijo de Joseph Amador i de su mujer Cathalina Tejedora v.os de [ilegible] y Manuela [Morato?] viuda de Diego Álvares, contraxeron el S.to Matrimonio por palabras de presente in facie eclesie y luego incontinenti les administré las segundas bodas siendo testigos [ilegible] de Valencia, Domingo Miguel y Agustín Miguel todos v.os de dicho lugar y en fe de ello lo firmé ut supra. [firma].",
+      "uncertainties": [
+        "El archivo menciona a Pedro y Catalina, pero Catalina Tejedora es la madre de Pedro; la contrayente es Manuela, viuda de Diego Álvarez. Ninguno ha sido identificado con seguridad en el árbol."
+      ],
+      "status": "provisional; sin enlace al árbol"
     }
   ]
 }
