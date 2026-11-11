@@ -213,6 +213,23 @@ test('person data and the catalog contain no file attribution or file references
   for (const person of records.values()) check(person, person.id);
 });
 
+test('a surname is written the same way for everyone, never both with and without «de»', async () => {
+  const source = JSON.parse(await readFile(new URL('records.json', import.meta.url), 'utf8'));
+  const particle = /^(?:de las|de los|de la|del|de) /iu;
+  const forms = new Map();
+  for (const person of source.people) {
+    for (const surname of person.surnames) {
+      const key = surname.replace(particle, '').toLocaleLowerCase('es');
+      if (!forms.has(key)) forms.set(key, new Map());
+      if (!forms.get(key).has(surname)) forms.get(key).set(surname, person.id);
+    }
+  }
+  const split = [...forms.values()]
+    .filter(variants => variants.size > 1)
+    .map(variants => [...variants].map(([surname, id]) => `«${surname}» (${id})`).join(' / '));
+  assert.deepEqual(split, []);
+});
+
 test('someone without a partner has no marriage', () => {
   assert.equal(records.get('arturo-calvo-devesa').marriages, undefined);
 });

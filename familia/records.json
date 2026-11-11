@@ -1140,10 +1140,10 @@
     },
     {
       "id": "pascual-de-vega",
-      "name": "Pascual de Vega",
+      "name": "Pascual Vega",
       "givenNames": "Pascual",
       "surnames": [
-        "de Vega"
+        "Vega"
       ],
       "birth": {
         "place": "Villardeciervos"
@@ -1180,10 +1180,10 @@
     },
     {
       "id": "domingo-de-la-cuesta",
-      "name": "Domingo de la Cuesta",
+      "name": "Domingo Cuesta",
       "givenNames": "Domingo",
       "surnames": [
-        "de la Cuesta"
+        "Cuesta"
       ],
       "birth": {
         "place": "Cional"
@@ -2786,11 +2786,11 @@
     },
     {
       "id": "manuel-martin-de-prada",
-      "name": "Manuel Martín de Prada",
+      "name": "Manuel Martín Prada",
       "givenNames": "Manuel",
       "surnames": [
         "Martín",
-        "de Prada"
+        "Prada"
       ],
       "father": "miguel-martin-avedillo",
       "mother": "felipa-de-prada-martin",
@@ -3801,10 +3801,10 @@
     },
     {
       "id": "manuel-prada-sebastian",
-      "name": "Manuel de Prada Sebastián",
+      "name": "Manuel Prada Sebastián",
       "givenNames": "Manuel",
       "surnames": [
-        "de Prada",
+        "Prada",
         "Sebastián"
       ],
       "father": "diego-de-prada-delgado",
@@ -4127,10 +4127,10 @@
     },
     {
       "id": "felipa-de-prada-martin",
-      "name": "Felipa de Prada Martín",
+      "name": "Felipa Prada Martín",
       "givenNames": "Felipa",
       "surnames": [
-        "de Prada",
+        "Prada",
         "Martín"
       ],
       "birth": {
@@ -5240,11 +5240,11 @@
     },
     {
       "id": "josefa-fernandez-de-la-pena",
-      "name": "Josefa Fernández de la Peña",
+      "name": "Josefa Fernández Peña",
       "givenNames": "Josefa",
       "surnames": [
         "Fernández",
-        "de la Peña"
+        "Peña"
       ],
       "birth": {
         "place": "Muga de Alba",
@@ -5630,10 +5630,10 @@
     },
     {
       "id": "diego-de-prada-delgado",
-      "name": "Diego de Prada Delgado",
+      "name": "Diego Prada Delgado",
       "givenNames": "Diego",
       "surnames": [
-        "de Prada",
+        "Prada",
         "Delgado"
       ],
       "birth": {
@@ -6035,10 +6035,10 @@
     },
     {
       "id": "luisa-de-zamora",
-      "name": "Luisa de Zamora Luelmo",
+      "name": "Luisa Zamora Luelmo",
       "givenNames": "Luisa",
       "surnames": [
-        "de Zamora",
+        "Zamora",
         "Luelmo"
       ],
       "birth": {
@@ -8077,10 +8077,10 @@
     },
     {
       "id": "maria-de-la-pena",
-      "name": "María de la Peña Domínguez",
+      "name": "María Peña Domínguez",
       "givenNames": "María",
       "surnames": [
-        "de la Peña",
+        "Peña",
         "Domínguez"
       ],
       "birth": {
@@ -9021,10 +9021,10 @@
     },
     {
       "id": "pedro-de-prada-martin",
-      "name": "Pedro de Prada Martín",
+      "name": "Pedro Prada Martín",
       "givenNames": "Pedro",
       "surnames": [
-        "de Prada",
+        "Prada",
         "Martín"
       ],
       "birth": {
@@ -9149,10 +9149,10 @@
     },
     {
       "id": "pedro-de-prada-torrefrades",
-      "name": "Pedro de Prada",
+      "name": "Pedro Prada",
       "givenNames": "Pedro",
       "surnames": [
-        "de Prada"
+        "Prada"
       ],
       "birth": {
         "place": "Torrefrades",
@@ -9384,10 +9384,10 @@
     },
     {
       "id": "francisca-de-luelmo",
-      "name": "Francisca de Luelmo Martín",
+      "name": "Francisca Luelmo Martín",
       "givenNames": "Francisca",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Martín"
       ],
       "birth": {
@@ -9519,10 +9519,10 @@
     },
     {
       "id": "margarita-de-luelmo",
-      "name": "Margarita de Luelmo Nieto",
+      "name": "Margarita Luelmo Nieto",
       "givenNames": "Margarita",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Nieto"
       ],
       "marriages": [
@@ -9632,10 +9632,10 @@
     },
     {
       "id": "francisco-de-prada",
-      "name": "Francisco de Prada Cifuentes",
+      "name": "Francisco Prada Cifuentes",
       "givenNames": "Francisco",
       "surnames": [
-        "de Prada",
+        "Prada",
         "Cifuentes"
       ],
       "birth": {
@@ -9925,10 +9925,10 @@
     },
     {
       "id": "manuel-de-carrascal",
-      "name": "Manuel de Carrascal Bragado",
+      "name": "Manuel Carrascal Bragado",
       "givenNames": "Manuel",
       "surnames": [
-        "de Carrascal",
+        "Carrascal",
         "Bragado"
       ],
       "birth": {
@@ -9962,10 +9962,10 @@
     },
     {
       "id": "ines-de-trigo",
-      "name": "Inés de Trigo Luelmo",
+      "name": "Inés Trigo Luelmo",
       "givenNames": "Inés",
       "surnames": [
-        "de Trigo",
+        "Trigo",
         "Luelmo"
       ],
       "marriages": [
@@ -9999,10 +9999,10 @@
     },
     {
       "id": "maria-de-luelmo-madre-de-ines-de-trigo",
-      "name": "María de Luelmo Bueno",
+      "name": "María Luelmo Bueno",
       "givenNames": "María",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Bueno"
       ],
       "birth": {
@@ -10024,10 +10024,10 @@
     },
     {
       "id": "alonso-de-luelmo",
-      "name": "Alonso de Luelmo",
+      "name": "Alonso Luelmo",
       "givenNames": "Alonso",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ]
     },
     {
@@ -10127,10 +10127,10 @@
     },
     {
       "id": "isabel-de-llamas",
-      "name": "Isabel de Llamas",
+      "name": "Isabel Llamas",
       "givenNames": "Isabel",
       "surnames": [
-        "de Llamas"
+        "Llamas"
       ],
       "birth": {
         "place": "Olleros de Tera"
@@ -10514,11 +10514,11 @@
     },
     {
       "id": "manuela-jambrina",
-      "name": "Manuela Jambrina de Valencia",
+      "name": "Manuela Jambrina Valencia",
       "givenNames": "Manuela",
       "surnames": [
         "Jambrina",
-        "de Valencia"
+        "Valencia"
       ],
       "marriages": [
         {
@@ -11989,10 +11989,10 @@
     },
     {
       "id": "maria-de-luelmo-madre-de-juan-brioso",
-      "name": "María de Luelmo Martín",
+      "name": "María Luelmo Martín",
       "givenNames": "María",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Martín"
       ],
       "birth": {
@@ -12010,7 +12010,7 @@
         }
       ],
       "observations": [
-        "Su hermano Juan de Luelmo se casó con María Pinto.",
+        "Su hermano Juan Luelmo se casó con María Pinto.",
         "Su hermana Ana fue bautizada el 14 de noviembre de 1648."
       ],
       "baptism": {
@@ -12021,10 +12021,10 @@
     },
     {
       "id": "bartolome-de-luelmo",
-      "name": "Bartolomé de Luelmo",
+      "name": "Bartolomé Luelmo",
       "givenNames": "Bartolomé",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ]
     },
     {
@@ -12500,11 +12500,11 @@
     },
     {
       "id": "juana-miguel",
-      "name": "Juana Miguel de Trigo",
+      "name": "Juana Miguel Trigo",
       "givenNames": "Juana",
       "surnames": [
         "Miguel",
-        "de Trigo"
+        "Trigo"
       ],
       "marriages": [
         {
@@ -12590,10 +12590,10 @@
     },
     {
       "id": "atilana-de-luelmo",
-      "name": "Atilana de Luelmo Arroyo",
+      "name": "Atilana Luelmo Arroyo",
       "givenNames": "Atilana",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Arroyo"
       ],
       "birth": {
@@ -13117,10 +13117,10 @@
     },
     {
       "id": "juan-de-alcantara",
-      "name": "Juan de Alcántara Lucas",
+      "name": "Juan Alcántara Lucas",
       "givenNames": "Juan",
       "surnames": [
-        "de Alcántara",
+        "Alcántara",
         "Lucas"
       ],
       "birth": {
@@ -14262,10 +14262,10 @@
     },
     {
       "id": "juan-de-luelmo-padre-de-francisca-de-luelmo",
-      "name": "Juan de Luelmo",
+      "name": "Juan Luelmo",
       "givenNames": "Juan",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -14384,10 +14384,10 @@
     },
     {
       "id": "juan-de-luelmo-padre-de-margarita-de-luelmo",
-      "name": "Juan de Luelmo",
+      "name": "Juan Luelmo",
       "givenNames": "Juan",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ],
       "observations": [
         "También figura como «Juan de Luelmo (del huelmo)»."
@@ -14479,10 +14479,10 @@
     },
     {
       "id": "ana-de-uruena",
-      "name": "Ana de Urueña",
+      "name": "Ana Urueña",
       "givenNames": "Ana",
       "surnames": [
-        "de Urueña"
+        "Urueña"
       ]
     },
     {
@@ -14522,10 +14522,10 @@
     },
     {
       "id": "tirso-de-prada",
-      "name": "Tirso de Prada",
+      "name": "Tirso Prada",
       "givenNames": "Tirso",
       "surnames": [
-        "de Prada"
+        "Prada"
       ],
       "birth": {
         "place": "Rábano de Sanabria"
@@ -14533,10 +14533,10 @@
     },
     {
       "id": "ana-de-cifuentes",
-      "name": "Ana de Cifuentes",
+      "name": "Ana Cifuentes",
       "givenNames": "Ana",
       "surnames": [
-        "de Cifuentes"
+        "Cifuentes"
       ],
       "birth": {
         "place": "Rábano de Sanabria"
@@ -14555,10 +14555,10 @@
     },
     {
       "id": "luisa-de-carrascal",
-      "name": "Luisa de Carrascal",
+      "name": "Luisa Carrascal",
       "givenNames": "Luisa",
       "surnames": [
-        "de Carrascal"
+        "Carrascal"
       ],
       "birth": {
         "place": "El Perdigón"
@@ -14923,10 +14923,10 @@
     },
     {
       "id": "alonso-de-trigo",
-      "name": "Alonso de Trigo",
+      "name": "Alonso Trigo",
       "givenNames": "Alonso",
       "surnames": [
-        "de Trigo"
+        "Trigo"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -14943,10 +14943,10 @@
     },
     {
       "id": "miguel-de-trigo",
-      "name": "Miguel de Trigo",
+      "name": "Miguel Trigo",
       "givenNames": "Miguel",
       "surnames": [
-        "de Trigo"
+        "Trigo"
       ]
     },
     {
@@ -15637,10 +15637,10 @@
     },
     {
       "id": "teresa-de-valencia",
-      "name": "Teresa de Valencia Celenque",
+      "name": "Teresa Valencia Celenque",
       "givenNames": "Teresa",
       "surnames": [
-        "de Valencia",
+        "Valencia",
         "Celenque"
       ],
       "marriages": [
@@ -15937,10 +15937,10 @@
     },
     {
       "id": "isabel-de-uruena",
-      "name": "Isabel de Urueña Arenas",
+      "name": "Isabel Urueña Arenas",
       "givenNames": "Isabel",
       "surnames": [
-        "de Urueña",
+        "Urueña",
         "Arenas"
       ],
       "marriages": [
@@ -15973,10 +15973,10 @@
     },
     {
       "id": "luis-de-uruena",
-      "name": "Luis de Urueña",
+      "name": "Luis Urueña",
       "givenNames": "Luis",
       "surnames": [
-        "de Urueña"
+        "Urueña"
       ],
       "origins": [
         "Moraleja del Vino"
@@ -16137,10 +16137,10 @@
     },
     {
       "id": "luis-de-valladolid",
-      "name": "Luis de Valladolid",
+      "name": "Luis Valladolid",
       "givenNames": "Luis",
       "surnames": [
-        "de Valladolid"
+        "Valladolid"
       ],
       "origins": [
         "Casaseca de las Chanas"
@@ -16631,10 +16631,10 @@
     },
     {
       "id": "miguel-de-pereruela",
-      "name": "Miguel de Pereruela",
+      "name": "Miguel Pereruela",
       "givenNames": "Miguel",
       "surnames": [
-        "de Pereruela"
+        "Pereruela"
       ]
     },
     {
@@ -17884,11 +17884,11 @@
     },
     {
       "id": "francisco-ramos",
-      "name": "Francisco Ramos de Urueña",
+      "name": "Francisco Ramos Urueña",
       "givenNames": "Francisco",
       "surnames": [
         "Ramos",
-        "de Urueña"
+        "Urueña"
       ],
       "birth": {
         "place": "Moraleja del Vino"
@@ -17926,19 +17926,19 @@
     },
     {
       "id": "engracia-de-uruena",
-      "name": "Engracia de Urueña",
+      "name": "Engracia Urueña",
       "givenNames": "Engracia",
       "surnames": [
-        "de Urueña"
+        "Urueña"
       ]
     },
     {
       "id": "josefa-bambon",
-      "name": "Josefa Bambón de Luelmo",
+      "name": "Josefa Bambón Luelmo",
       "givenNames": "Josefa",
       "surnames": [
         "Bambón",
-        "de Luelmo"
+        "Luelmo"
       ],
       "marriages": [
         {
@@ -17977,10 +17977,10 @@
     },
     {
       "id": "josefa-de-luelmo",
-      "name": "Josefa de Luelmo",
+      "name": "Josefa Luelmo",
       "givenNames": "Josefa",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ]
     },
     {
@@ -18086,10 +18086,10 @@
     },
     {
       "id": "isabel-de-sampedro",
-      "name": "Isabel de Sampedro",
+      "name": "Isabel Sampedro",
       "givenNames": "Isabel",
       "surnames": [
-        "de Sampedro"
+        "Sampedro"
       ],
       "marriages": [
         {
@@ -18227,10 +18227,10 @@
     },
     {
       "id": "jeronimo-de-luelmo",
-      "name": "Jerónimo de Luelmo Pinto",
+      "name": "Jerónimo Luelmo Pinto",
       "givenNames": "Jerónimo",
       "surnames": [
-        "de Luelmo",
+        "Luelmo",
         "Pinto"
       ],
       "birth": {
@@ -18299,10 +18299,10 @@
     },
     {
       "id": "diego-de-arroyo",
-      "name": "Diego de Arroyo",
+      "name": "Diego Arroyo",
       "givenNames": "Diego",
       "surnames": [
-        "de Arroyo"
+        "Arroyo"
       ],
       "marriages": [
         {
@@ -18804,10 +18804,10 @@
     },
     {
       "id": "francisco-de-alcantara",
-      "name": "Francisco de Alcántara",
+      "name": "Francisco Alcántara",
       "givenNames": "Francisco",
       "surnames": [
-        "de Alcántara"
+        "Alcántara"
       ],
       "birth": {
         "place": "El Cubo del Vino"
@@ -19468,10 +19468,10 @@
     },
     {
       "id": "juan-de-ampudia",
-      "name": "Juan de Ampudia Ratón",
+      "name": "Juan Ampudia Ratón",
       "givenNames": "Juan",
       "surnames": [
-        "de Ampudia",
+        "Ampudia",
         "Ratón"
       ],
       "birth": {
@@ -19490,10 +19490,10 @@
     },
     {
       "id": "felipe-de-ampudia",
-      "name": "Felipe de Ampudia",
+      "name": "Felipe Ampudia",
       "givenNames": "Felipe",
       "surnames": [
-        "de Ampudia"
+        "Ampudia"
       ]
     },
     {
@@ -21022,11 +21022,11 @@
     },
     {
       "id": "juan-perez-padre-de-manuel-perez-carrascal",
-      "name": "Juan Pérez de Luelmo",
+      "name": "Juan Pérez Luelmo",
       "givenNames": "Juan",
       "surnames": [
         "Pérez",
-        "de Luelmo"
+        "Luelmo"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -21060,10 +21060,10 @@
     },
     {
       "id": "isabel-de-luelmo",
-      "name": "Isabel de Luelmo",
+      "name": "Isabel Luelmo",
       "givenNames": "Isabel",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ],
       "origins": [
         "Zamora"
@@ -21071,11 +21071,11 @@
     },
     {
       "id": "maria-carrascal",
-      "name": "María Carrascal de Trigo",
+      "name": "María Carrascal Trigo",
       "givenNames": "María",
       "surnames": [
         "Carrascal",
-        "de Trigo"
+        "Trigo"
       ],
       "marriages": [
         {
@@ -21425,10 +21425,10 @@
     },
     {
       "id": "ana-de-luelmo",
-      "name": "Ana de Luelmo",
+      "name": "Ana Luelmo",
       "givenNames": "Ana",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ],
       "marriages": [
         {
@@ -21590,10 +21590,10 @@
     },
     {
       "id": "juan-de-luelmo-padre-de-jeronimo",
-      "name": "Juan de Luelmo",
+      "name": "Juan Luelmo",
       "givenNames": "Juan",
       "surnames": [
-        "de Luelmo"
+        "Luelmo"
       ],
       "father": "bartolome-de-luelmo",
       "mother": "ines-martin-madre-de-maria-de-luelmo",
@@ -22513,10 +22513,10 @@
     },
     {
       "id": "luisa-de-aguilar",
-      "name": "Luisa de Aguilar",
+      "name": "Luisa Aguilar",
       "givenNames": "Luisa",
       "surnames": [
-        "de Aguilar"
+        "Aguilar"
       ]
     },
     {
