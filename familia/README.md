@@ -60,9 +60,10 @@ Al añadir un lugar nuevo, la lista sigue funcionando aunque todavía no tenga c
 
 El 11 de noviembre de 2026 se revisaron todas las observaciones, notas y transcripciones del archivo. Solo tres personas tienen un oficio expreso: Miguel Calvo Méndez, labrador en su matrimonio de 1898; Bernardo Brioso Pérez, jornalero en el suyo de 1903, y Cristóbal Unzueta, flebotomiano, es decir, sangrador, en la demanda de 1794. Las partidas transcritas anteriores a 1800 no indican el oficio de su titular; como mucho, un cargo o una condición. Los documentos DOCX no recogen ningún oficio.
 
+Ese mismo día la familia decidió registrar también como soldado a Salvador Piorno Tuda. Su matrimonio de 1879 lo llama «licenciado del Ejército con licencia absoluta», que indica su situación militar: ya había dejado el servicio. Por eso su entrada no lleva `date` y el año queda en `note`. Se conserva la observación que ya recogía el dato.
+
 No se han registrado como profesión, a falta de una decisión de la familia:
 
-- La situación militar de Salvador Piorno Tuda, «licenciado del Ejército con licencia absoluta» en su matrimonio de 1879, que ya figura en sus observaciones.
 - Los cargos y condiciones: José Zurdo, alcalde al morir en 1748; Andrés Delgado, «capitán»; Francisco Zamora, «el hidalgo», y seis personas cuyas partidas de fallecimiento o entierro las llaman pobres.
 - La fórmula «dedicada a las ocupaciones propias de su sexo» de Lucía Piorno Santiago y Ángela de las Heras Prada en sus matrimonios.
 - Los escribanos, fieles de fechos, familiares del Santo Oficio y presbíteros que aparecen en partidas ajenas con el nombre de alguien del árbol, mientras no se confirme que son la misma persona.
