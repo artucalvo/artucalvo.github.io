@@ -20,6 +20,9 @@ export function collectSiblings(person, parents) {
       if (!sharedParents.includes(parent.id)) sharedParents.push(parent.id);
     }
   }
+  for (const sibling of person.siblingSummaries || []) {
+    if (sibling.id !== person.id && !siblings.has(sibling.id)) siblings.set(sibling.id, { ...sibling, sharedParents: [] });
+  }
   return [...siblings.values()].sort((a, b) => a.name.localeCompare(b.name, 'es', { sensitivity: 'base' }));
 }
 
@@ -40,7 +43,26 @@ export async function collectTree(id, depth, getPerson) {
   ancestors.sort((a, b) => a.level - b.level || a.slot - b.slot);
   const shown = (ancestors[0].person.partners || []).slice(0, MAX_PARTNERS);
   const partners = await Promise.all(shown.map(async partner => ({ ...partner, person: await getPerson(partner.id) })));
-  return { ancestors, partners };
+  // Collect siblings from both known parents and explicitly recorded links. Fetch
+  // the person so direct ancestors retain their full-size appearance.
+  const visible = new Set([...ancestors.map(node => node.person.id), ...partners.map(item => item.person.id)]);
+  const owners = [...ancestors.map(node => node.person), ...partners.map(item => item.person)];
+  const seen = new Set(visible);
+  const siblings = [];
+  const siblingLinks = [];
+  for (const owner of owners) {
+    const parents = await Promise.all([owner.father, owner.mother].map(parent => parent ? getPerson(parent) : null));
+    for (const summary of collectSiblings(owner, parents)) {
+      if (visible.has(summary.id)) {
+        siblingLinks.push({ ownerId: owner.id, siblingId: summary.id, siblingName: summary.name });
+        continue;
+      }
+      if (seen.has(summary.id)) continue;
+      seen.add(summary.id);
+      siblings.push({ ownerId: owner.id, person: await getPerson(summary.id) });
+    }
+  }
+  return { ancestors, partners, siblings, siblingLinks };
 }
 
 function ancestorRelation({ level, slot }) {
@@ -54,17 +76,27 @@ function circleCenters(center, count) {
   return Array.from({ length: count }, (_, index) => first + index * (CIRCLE_SIZE + CIRCLE_GAP));
 }
 
-export function layoutTree({ ancestors, partners = [], depth, compact = false }) {
+export function layoutTree({ ancestors, partners = [], siblings = [], siblingLinks = [], depth, compact = false }) {
   const size = compact ? COMPACT : REGULAR;
   const { cardWidth, cardHeight, circleLinkGap, childGap } = size;
   const active = ancestors[0].person;
   const maxLevel = Math.max(...ancestors.map(node => node.level));
-  const spread = 2 ** maxLevel * size.leafSpacing;
+  const siblingGap = 12;
+  const siblingWidth = compact ? 132 : 176;
+  const siblingHeight = compact ? 98 : 88;
+  const siblingCounts = new Map();
+  const upperOwners = new Set(ancestors.filter(node => node.level > 0).map(node => node.person.id));
+  for (const item of siblings.filter(item => upperOwners.has(item.ownerId))) siblingCounts.set(item.ownerId, (siblingCounts.get(item.ownerId) || 0) + 1);
+  const maxSiblings = Math.max(0, ...siblingCounts.values());
+  // Reserve enough space even when a sibling is also a direct ancestor and
+  // uses a full-sized card.
+  const leafSpacing = Math.max(size.leafSpacing, cardWidth + maxSiblings * (cardWidth + siblingGap) + siblingGap);
+  const spread = 2 ** maxLevel * leafSpacing;
   const partnerOffset = cardWidth + size.coupleGap;
 
   const ancestorCards = ancestors.map(node => ({
     ...node,
-    relation: ancestorRelation(node),
+    relation: [ancestorRelation(node), ...siblingLinks.filter(link => link.ownerId === node.person.id).map(link => `Hermano/a de ${link.siblingName}`)].filter(Boolean).join(" · "),
     isActive: node.level === 0,
     center: ((node.slot + 0.5) / 2 ** node.level - 0.5) * spread,
   }));
@@ -77,6 +109,28 @@ export function layoutTree({ ancestors, partners = [], depth, compact = false })
     sharedChildren,
   }));
   const cards = [...ancestorCards, ...partnerCards];
+  const siblingCards = [];
+  for (const card of cards.filter(card => card.level > 0)) {
+    let right = card.center + cardWidth / 2 + siblingGap;
+    for (const item of siblings.filter(item => item.ownerId === card.person.id)) {
+      const fullSize = Boolean(item.person.isDirectAncestor);
+      const width = fullSize ? cardWidth : siblingWidth;
+      const height = fullSize ? cardHeight : siblingHeight;
+      siblingCards.push({ ...item, owner: card, center: right + width / 2, width, height, fullSize });
+      right += width + siblingGap;
+    }
+  }
+  // Partners occupy the active row, so place its sibling groups beyond them.
+  let right = Math.max(...cards.filter(card => card.level === 0).map(card => card.center + cardWidth / 2)) + siblingGap;
+  for (const card of cards.filter(card => card.level === 0)) {
+    for (const item of siblings.filter(item => item.ownerId === card.person.id)) {
+      const fullSize = Boolean(item.person.isDirectAncestor);
+      const width = fullSize ? cardWidth : siblingWidth;
+      const height = fullSize ? cardHeight : siblingHeight;
+      siblingCards.push({ ...item, owner: card, center: right + width / 2, width, height, fullSize });
+      right += width + siblingGap;
+    }
+  }
 
   // The parents of the farthest visible ancestors, and those of a partner, are
   // circles. Only circles above the top row need room of their own: a partner's
@@ -116,6 +170,7 @@ export function layoutTree({ ancestors, partners = [], depth, compact = false })
   const reach = Math.max(
     ...cards.map(card => Math.abs(card.center) + cardWidth / 2),
     ...circles.map(circle => Math.abs(circle.center) + CIRCLE_SIZE / 2),
+    ...siblingCards.map(card => Math.abs(card.center) + card.width / 2),
   );
   const width = 2 * (reach + size.paddingX);
   const height = (childCircles.length ? childRowY + CIRCLE_SIZE : activeBottom) + size.paddingY;
@@ -132,6 +187,11 @@ export function layoutTree({ ancestors, partners = [], depth, compact = false })
     for (const center of circleCenters(card.center, card.person.parentSummaries.length)) {
       connections.push(`M ${canvasX(center)} ${top - circleLinkGap} V ${top - circleLinkGap / 2} H ${canvasX(card.center)} V ${top}`);
     }
+  }
+  for (const card of siblingCards) {
+    const top = rowY(card.owner.level);
+    const siblingTop = top + (cardHeight - card.height) / 2;
+    connections.push(`M ${canvasX(card.owner.center)} ${top} V ${top - 8} H ${canvasX(card.center)} V ${siblingTop}`);
   }
   for (const card of partnerCards) {
     const side = Math.sign(card.center);
@@ -151,6 +211,10 @@ export function layoutTree({ ancestors, partners = [], depth, compact = false })
     circleSize: CIRCLE_SIZE,
     activeCenterY: coupleLineY,
     cards: cards.map(({ person, relation, isActive, center, level }) => ({ person, relation, isActive, x: canvasX(center) - cardWidth / 2, y: rowY(level) })),
+    siblingCards: siblingCards.map(({ person, owner, center, width, height, fullSize }) => ({
+      person, ownerId: owner.person.id, relation: `Hermano/a de ${owner.person.name}${fullSize ? " · Ascendiente directo" : ""}`, fullSize, width, height,
+      x: canvasX(center) - width / 2, y: rowY(owner.level) + (cardHeight - height) / 2,
+    })),
     circles: circles.map(({ person, center, y }) => ({ person, x: canvasX(center) - CIRCLE_SIZE / 2, y })),
     connections,
   };

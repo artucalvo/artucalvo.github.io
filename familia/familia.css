@@ -428,3 +428,13 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .places-map .leaflet-popup-close-button { min-width: 32px; min-height: 32px; }
 .map-marker-badge .icon { width: 18px; height: 18px; }
 .places-map.leaflet-container .leaflet-control-zoom a { width: 44px; height: 44px; line-height: 44px; }
+
+/* Siblings are clearly identified and visually distinct from partners. */
+.tree-node.is-sibling:not(.is-ancestor-sibling) .person-node { height: var(--sibling-height); padding: 8px 10px; background: #f1f3ed; border-color: #becbb8; border-style: dashed; }
+.tree-node.is-sibling:not(.is-ancestor-sibling) .node-topline { margin-bottom: 4px; }
+.tree-node.is-sibling:not(.is-ancestor-sibling) .node-name { font-size: 14px; }
+.tree-node.is-sibling:not(.is-ancestor-sibling) .node-place { display: none; }
+.tree-node.is-sibling .node-relation { color: #435f4a; font-weight: 700; }
+.tree-node.is-ancestor-sibling .person-node { height: var(--sibling-height); }
+
+.sibling-navigation { flex-shrink: 0; font-weight: 600; }

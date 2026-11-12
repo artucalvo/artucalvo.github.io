@@ -87,6 +87,7 @@ const relation = (layout, id) => card(layout, id).relation;
 
 const boxes = layout => [
   ...layout.cards.map(item => ({ name: `card ${item.person.id}`, x: item.x, y: item.y, width: layout.cardWidth, height: layout.cardHeight })),
+  ...layout.siblingCards.map(item => ({ name: `sibling ${item.person.id}`, x: item.x, y: item.y, width: item.width, height: item.height })),
   ...layout.circles.map(item => ({ name: `circle ${item.person.id}`, x: item.x, y: item.y, width: layout.circleSize, height: layout.circleSize })),
 ];
 
@@ -377,4 +378,39 @@ test('the default view of every real person fits the tree viewport without scrol
     assert.ok((await realLayout(id, 1, false)).height <= REGULAR_VIEWPORT, `${id}, regular`);
     assert.ok((await realLayout(id, 1, true)).height <= COMPACT_VIEWPORT, `${id}, compact`);
   }
+});
+
+test('siblings from shared parents and explicit links appear as distinct nodes', async () => {
+  const people = new Map([
+    { ...summary('a'), father: 'p', siblingSummaries: [summary('explicit')] },
+    { ...summary('p'), children: [summary('a'), summary('b'), summary('direct')] },
+    summary('b'), { ...summary('direct'), isDirectAncestor: true }, summary('explicit'),
+  ].map(person => [person.id, person]));
+  const tree = await collectTree('a', 1, async id => people.get(id));
+  assert.deepEqual(tree.siblings.map(item => item.person.id).sort(), ['b', 'direct', 'explicit']);
+  const layout = layoutTree({ ...tree, depth: 1 });
+  const sibling = layout.siblingCards.find(item => item.person.id === 'b');
+  const direct = layout.siblingCards.find(item => item.person.id === 'direct');
+  assert.match(sibling.relation, /Hermano\/a de a name/);
+  assert.ok(sibling.width < layout.cardWidth);
+  assert.equal(direct.width, layout.cardWidth);
+  assert.match(direct.relation, /Ascendiente directo/);
+  const all = boxes(layout);
+  for (const [index, a] of all.entries()) {
+    for (const b of all.slice(index + 1)) {
+      assert.ok(a.x + a.width <= b.x || b.x + b.width <= a.x || a.y + a.height <= b.y || b.y + b.height <= a.y, `${a.name} overlaps ${b.name}`);
+    }
+  }
+});
+
+test('a sibling already shown as an ancestor is not duplicated and keeps its ancestor card', async () => {
+  const people = new Map([
+    { ...summary('a'), father: 'p', mother: 'q' },
+    { ...summary('p'), father: 'g' }, { ...summary('q'), father: 'g' },
+    { ...summary('g'), children: [summary('p'), summary('q')] },
+  ].map(person => [person.id, person]));
+  const layout = layoutTree({ ...await collectTree('a', 1, async id => people.get(id)), depth: 1 });
+  assert.equal(layout.siblingCards.length, 0);
+  assert.match(card(layout, 'p').relation, /Padre.*Hermano\/a de q name/);
+  assert.match(card(layout, 'q').relation, /Madre.*Hermano\/a de p name/);
 });

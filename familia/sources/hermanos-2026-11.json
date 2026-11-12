@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "batch": "Hermanos de las ramas Calvo, Brioso y Fernández Unzueta",
+  "reviewedOn": "2026-11-12",
+  "sources": [
+    {
+      "description": "Imagen del padrón de Badalona de 1921 aportada por la familia, hoja del hogar de Miguel Calvo Méndez y Lucía Piorno Santiago.",
+      "interpretation": "La imagen relaciona como hijos a Jesús (1905), Francisco (1907), Vicenta (1910), Marcelina (1913) y Juan (1915) Calvo Piorno; el lugar de nacimiento de Juan figura como Badalona. Se registran los años de nacimiento indicados, sin añadir más precisión. La familia identifica a Nicanor como hermano e indica otra hermana, África."
+    },
+    {
+      "description": "Información facilitada por la familia sobre hermanos de Rosario Brioso de las Heras: Constantino, Rufina, Antonia Palmira y Ángela.",
+      "links": [
+        "https://archivoconsulta.carm.es/ArchiDocWeb/pages/tiles/imagenes2/FINAL/VOLPRIS049839-49883/PRISIONES-49857-068/PRISIONES-49857-068_00002.jpg",
+        "https://archivoconsulta.carm.es/ArchiDocWeb/pages/tiles/imagenes2/FINAL/VOLPRIS049839-49883/PRISIONES-49857-068/PRISIONES-49857-068_00006.jpg"
+      ],
+      "interpretation": "La familia facilita enlaces a documentos sobre Constantino. No fue posible consultar esas imágenes durante esta revisión; no se extraen otros datos de ellas."
+    },
+    {
+      "description": "María Luisa Visintini, ‘Relato biográfico de un inmigrante zamorano: Antonio Fernández Unzueta’, en De Zamora a América, Memoria de la emigración zamorana I (2007), pp. 195–220.",
+      "url": "https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf",
+      "interpretation": "El relato identifica a Antonio Fernández Unzueta, nacido el 27 de abril de 1895 en Villardeciervos, como hijo de Antonio Fernández y Josefa Unzueta y hermano de Adelina, Eduardo y Laura. Describe a Laura como fallecida muy joven. Una carta de 1937 va dirigida a Adelina Fernández de Herrero y la llama hermana; el relato identifica a Juana Bellina como esposa de Antonio y fecha su matrimonio el 6 de mayo de 1933. La identificación de Laura como hermana de la Adelina del árbol es probable. El relato llama a Adelina la mayor de los hermanos, en contraste con el nacimiento de Adelina registrado en el árbol el 24 de abril de 1900 y la fecha de Antonio de 1895; se mantienen ambas fechas y se señala la contradicción."
+    },
+    {
+      "description": "Transcripción existente de la partida de entierro de Balbina Pérez Sánchez, 19 de noviembre de 1911, Tardobispo.",
+      "interpretation": "Nombra a Bernardo, Lorenzo y Julio como hijos que dejó de su matrimonio con Enrique Brioso."
+    }
+  ]
+}

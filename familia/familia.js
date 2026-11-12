@@ -1,5 +1,5 @@
 import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=2';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=3';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -16,6 +16,8 @@ let activeCenterY = 0;
 let compactTree = matchMedia('(max-width: 600px)').matches;
 let zoom = 1;
 let treeRequest = 0;
+let siblingTargets = [];
+let siblingTargetIndex = 0;
 let profileRequest = 0;
 let indexRequest = 0;
 let indexTab = 'people';
@@ -146,14 +148,15 @@ function centerOnPerson(id) {
   navigate(id, { focus: true, scrollToProfile: false });
 }
 
-function personCard({ person, relation, isActive, x, y }, width) {
-  const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}`);
+function personCard({ person, relation, isActive, x, y, fullSize, width: ownWidth, height }, width) {
+  const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}${ownWidth ? ' is-sibling' : ''}${fullSize ? ' is-ancestor-sibling' : ''}`);
   wrapper.style.left = `${x}px`;
   wrapper.style.top = `${y}px`;
-  wrapper.style.width = `${width}px`;
+  wrapper.style.width = `${ownWidth || width}px`;
+  if (height) wrapper.style.setProperty('--sibling-height', `${height}px`);
   const card = element('button', 'person-node');
   card.type = 'button';
-  card.setAttribute('aria-label', `Ver ficha de ${person.name}`);
+  card.setAttribute('aria-label', `Ver ficha de ${person.name}${ownWidth ? `, ${relation}` : ''}`);
   card.setAttribute('aria-pressed', String(isActive));
   card.addEventListener('click', () => centerOnPerson(person.id));
   const topline = element('span', 'node-topline');
@@ -209,8 +212,13 @@ async function renderTree() {
       path.setAttribute('d', connection);
       lines.append(path);
     }
-    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)));
-    const shown = layout.cards.length + layout.circles.length;
+    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.siblingCards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)));
+    siblingTargets = [...layout.siblingCards].sort((a, b) => Number(b.ownerId === activeId) - Number(a.ownerId === activeId));
+    siblingTargetIndex = 0;
+    const siblingButton = $('#tree-siblings');
+    siblingButton.hidden = !siblingTargets.length;
+    siblingButton.textContent = `Ver hermanos/as (${siblingTargets.length})`;
+    const shown = layout.cards.length + layout.siblingCards.length + layout.circles.length;
     $('#tree-context').textContent = `${tree.ancestors[0].person.name} · ${shown} ${shown === 1 ? 'persona' : 'personas'} en esta vista`;
     applyZoom();
     centerTree();
@@ -347,7 +355,8 @@ async function renderProfile(id, focus = false) {
       const siblings = element('section', 'profile-section');
       siblings.append(element('h3', '', 'Hermanos y hermanas'));
       siblingList.forEach(sibling => {
-        const label = sibling.sharedParents.length > 1 ? 'Padres en común'
+        const label = !sibling.sharedParents.length ? 'Hermano/a'
+          : sibling.sharedParents.length > 1 ? 'Padres en común'
           : sibling.sharedParents[0] === person.father ? 'Padre en común' : 'Madre en común';
         siblings.append(relationLink(sibling, label));
       });
@@ -591,6 +600,16 @@ function bindControls() {
   $('#zoom-in').addEventListener('click', () => { zoom = Math.min(1.4, Math.round((zoom + 0.1) * 10) / 10); applyZoom(); centerTree(); });
   $('#zoom-out').addEventListener('click', () => { zoom = Math.max(0.6, Math.round((zoom - 0.1) * 10) / 10); applyZoom(); centerTree(); });
   $('#center-tree').addEventListener('click', centerTree);
+  $('#tree-siblings').addEventListener('click', () => {
+    if (!siblingTargets.length) return;
+    const target = siblingTargets[siblingTargetIndex];
+    siblingTargetIndex = (siblingTargetIndex + 1) % siblingTargets.length;
+    const viewport = $('#tree-viewport');
+    const offsetX = Math.max(0, (viewport.clientWidth - treeWidth * zoom) / 2);
+    const offsetY = Math.max(0, (viewport.clientHeight - treeHeight * zoom) / 2);
+    viewport.scrollTo({ left: offsetX + (target.x + target.width / 2) * zoom - viewport.clientWidth / 2, top: offsetY + (target.y + target.height / 2) * zoom - viewport.clientHeight / 2, behavior: 'smooth' });
+    announce(`${target.person.name}, ${target.relation}. Pulsa de nuevo para ver el siguiente.`);
+  });
   $('#tree-back').addEventListener('click', () => {
     const previous = rootHistory.pop();
     if (previous) navigate(previous, { remember: false });

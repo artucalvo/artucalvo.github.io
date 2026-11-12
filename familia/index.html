@@ -8,8 +8,8 @@
   <meta name="theme-color" content="#294c3d">
   <title>Familia Calvo Devesa · Árbol Genealógico</title>
   <link rel="icon" href="../img/favicon.ico">
-  <link rel="stylesheet" href="familia.css">
-  <script type="module" src="familia.js?v=2"></script>
+  <link rel="stylesheet" href="familia.css?v=3">
+  <script type="module" src="familia.js?v=3"></script>
 </head>
 <body>
   <a class="skip-link" href="#family-workspace">Saltar al árbol familiar</a>
@@ -46,7 +46,7 @@
       </div>
       <div id="app-error" class="app-error" role="alert" hidden></div>
       <div class="explorer-layout">
-        <section class="tree-panel" aria-labelledby="tree-title"><div class="tree-heading"><div><p class="eyebrow">EXPLORA LAS CONEXIONES</p><h2 id="tree-title">El árbol familiar</h2></div><label class="generation-control">Generaciones<select id="generation-depth"><option value="1" selected>2</option><option value="2">3</option><option value="3">4</option></select></label></div><div class="tree-navigation"><button id="tree-back" class="text-button" hidden><svg class="icon small"><use href="#i-arrow-left"/></svg>Volver a la rama anterior</button><span id="tree-context" class="tree-context"></span></div>
+        <section class="tree-panel" aria-labelledby="tree-title"><div class="tree-heading"><div><p class="eyebrow">EXPLORA LAS CONEXIONES</p><h2 id="tree-title">El árbol familiar</h2></div><label class="generation-control">Generaciones<select id="generation-depth"><option value="1" selected>2</option><option value="2">3</option><option value="3">4</option></select></label></div><div class="tree-navigation"><button id="tree-back" class="text-button" hidden><svg class="icon small"><use href="#i-arrow-left"/></svg>Volver a la rama anterior</button><button id="tree-siblings" class="text-button sibling-navigation" type="button" hidden></button><span id="tree-context" class="tree-context"></span></div>
           <div id="tree-viewport" class="tree-viewport" tabindex="0" role="region" aria-label="Árbol genealógico. Desplázate para recorrerlo y pulsa una persona para ver su ficha."><div id="tree-sizer" class="tree-sizer"><div id="tree-canvas" class="tree-canvas"><p class="loading-message">Preparando nuestras raíces…</p></div></div></div>
           <div class="tree-bottom"><span class="tree-hint"><span class="status-dot"></span>Pulsa una persona para descubrir su historia</span><div class="tree-controls" aria-label="Controles del árbol"><button id="zoom-out" class="icon-button" aria-label="Alejar el árbol"><svg class="icon"><use href="#i-minus"/></svg></button><output id="zoom-level" aria-live="polite">100 %</output><button id="zoom-in" class="icon-button" aria-label="Acercar el árbol"><svg class="icon"><use href="#i-plus"/></svg></button><span class="control-divider"></span><button id="center-tree" class="icon-button" aria-label="Centrar el árbol"><svg class="icon"><use href="#i-center"/></svg></button></div></div>
         </section>

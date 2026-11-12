@@ -136,12 +136,15 @@ async function build() {
       if (!isText(person[field])) fail(`${person.id}.${field}: expected nonempty text.`);
     }
     if (Object.hasOwn(person, 'source')) fail(`${person.id}.source: file attribution is not supported.`);
-    for (const field of ['children', 'parentSummaries', 'partners']) {
+    for (const field of ['children', 'parentSummaries', 'partners', 'siblingSummaries', 'isDirectAncestor']) {
       if (person[field] !== undefined) fail(`${person.id}.${field}: this relationship field is generated from parent and marriage references.`);
     }
-    validateStrings(person.surnames, `${person.id}.surnames`, { required: true });
+    // Some historical records identify a sibling by given name only.
+    if (!Array.isArray(person.surnames)) fail(`${person.id}.surnames: expected an array (empty when unknown).`);
+    else validateStrings(person.surnames, `${person.id}.surnames`);
     validateStrings(person.origins, `${person.id}.origins`);
     validateStrings(person.observations, `${person.id}.observations`);
+    validateStrings(person.siblings, `${person.id}.siblings`);
     // The card reads only the list, so a lone "occupation" would never be shown.
     if (Object.hasOwn(person, 'occupation')) fail(`${person.id}.occupation: use occupations, a list, even for a single one.`);
     validateOccupations(person.occupations, `${person.id}.occupations`);
@@ -155,10 +158,17 @@ async function build() {
   for (const person of people.values()) {
     const references = [['father', person.father], ['mother', person.mother]];
     if (Array.isArray(person.marriages)) person.marriages.forEach((marriage, index) => references.push([`marriages[${index}].spouse`, marriage?.spouse]));
+    if (Array.isArray(person.siblings)) person.siblings.forEach((id, index) => references.push([`siblings[${index}]`, id]));
     for (const [field, id] of references) {
       if (id === undefined) continue;
       if (!people.has(id)) fail(`${person.id}.${field}: unknown person ${id}.`);
       if (id === person.id) fail(`${person.id}.${field}: cannot reference the same person.`);
+    }
+    if (Array.isArray(person.siblings)) {
+      if (new Set(person.siblings).size !== person.siblings.length) fail(`${person.id}.siblings: duplicate reference.`);
+      for (const id of person.siblings) {
+        if (people.has(id) && !people.get(id).siblings?.includes(person.id)) fail(`${person.id}.siblings: ${id} must reference this person in return.`);
+      }
     }
   }
   const branchIds = new Set();
@@ -187,6 +197,17 @@ async function build() {
   for (const id of people.keys()) visit(id);
   if (errors.length) throw new Error(`Family data validation failed:\n${errors.map((message) => `- ${message}`).join('\n')}`);
 
+  // Direct ancestors retain their ancestor styling even when shown as siblings.
+  const directAncestors = new Set();
+  function markAncestor(id) {
+    if (!id || directAncestors.has(id)) return;
+    directAncestors.add(id);
+    const person = people.get(id);
+    markAncestor(person.father);
+    markAncestor(person.mother);
+  }
+  markAncestor(source.defaultPerson || source.branches[0].roots[0]);
+
   const summaries = source.people.map((person) => ({
     id: person.id,
     name: person.name,
@@ -214,7 +235,7 @@ async function build() {
     const location = locations.get(placeKey(place.name));
     return { ...place, ...(location ? { location } : {}) };
   });
-  const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames });
+  const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames, ...(directAncestors.has(person.id) ? { isDirectAncestor: true } : {}) });
   const childrenByParent = new Map();
   const partnersByPerson = new Map();
   function addPartner(personId, partnerId, childId) {
@@ -258,6 +279,7 @@ async function build() {
   await mkdir(peopleDirectory, { recursive: true });
   for (const person of source.people) {
     const children = childrenByParent.get(person.id);
+    const siblingSummaries = (person.siblings || []).map(id => relativeSummary(people.get(id))).sort((a, b) => collator.compare(a.name, b.name));
     const parentSummaries = ['father', 'mother'].filter(relation => person[relation]).map(relation => ({ ...relativeSummary(people.get(person[relation])), relation }));
     const partners = [...(partnersByPerson.get(person.id) || [])].map(([id, sharedChildren]) => ({
       ...relativeSummary(people.get(id)),
@@ -271,6 +293,8 @@ async function build() {
     const marriages = [...(person.marriages || []), ...assumedMarriages];
     await writeJson(`people/${person.id}.json`, {
       ...person,
+      ...(directAncestors.has(person.id) ? { isDirectAncestor: true } : {}),
+      ...(siblingSummaries.length ? { siblingSummaries } : {}),
       ...(marriages.length ? { marriages } : {}),
       ...(parentSummaries.length ? { parentSummaries } : {}),
       ...(children ? { children } : {}),

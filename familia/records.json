@@ -2145,6 +2145,9 @@
       },
       "observations": [
         "La partida de entierro dice que dejó cuatro hijos, Diego, Nicanor, Secundino y José, y que fue testamentario su hermano Ignacio Calvo."
+      ],
+      "siblings": [
+        "ignacio-calvo-hermano-de-lucas-calvo-alonso"
       ]
     },
     {
@@ -5254,6 +5257,9 @@
       },
       "observations": [
         "La partida de entierro dice que otorgó testamento ante Cayetano Santiago y dejó por herederos a sus hijos Manuel, Bernarda y Dionisia; fueron testamentarios su hermano Francisco Vega y su yerno Andrés Herrero."
+      ],
+      "siblings": [
+        "francisco-vega-hermano-de-teresa-vega-zurdo"
       ]
     },
     {
@@ -5370,7 +5376,10 @@
         "place": "Moraleja del Vino",
         "note": "En la iglesia parroquial.",
         "transcription": "Dn Bernardo Alonso.\n\nDía veinte de Mayo de mil ochocientos veinte y dos, yo el Thente de Cura de la Yglesia Parroquial de este Lugar de Moraleja di sepultura Eclesiástica en ella al Cadáver de Don Bernardo Alonso, de esta vecindad, viudo de Ysabel Delgado, que murió el día anterior a las once y media de la mañana, de edad de sesenta años; fue socorrido con los santos sacramentos de Penitencia, Sagrado Viático y Extrema unción; testó ante Blas Toribio de Prado, Escribano de Número de la Ciudad de Zamora; nombró por testamentarios al Doctor Don Luis Delgado, Presbítero, vecino de Salamanca, a Don Juan Alonso [ilegible], vecino de Zamora, a Don Pedro Calvo, vecino de Gema, y a Don Juan Arias, de esta vecindad, y a voluntad y disposición de estos dexó su funeral, sin que otra persona alguna se mezcle en él; nombró por sus herederos a sus hijos María del Carmen, muger de Bernardino Santa María Villaseco, María, muger de Pedro Calvo, vecino de Gema, Luisa, muger de Balthasar Brioso, vecino de Morales, Ynés, muger de Dn Juan Arias, y Josef; lo firmo. Antonio Barrigón."
-      }
+      },
+      "siblings": [
+        "gabriel-alonso-hermano-de-bernardo-alonso-cabrero"
+      ]
     },
     {
       "id": "isabel-delgado-ramos",
@@ -5586,7 +5595,10 @@
         "place": "Tardobispo",
         "note": "En la iglesia de Tardobispo, de grada baja.",
         "transcription": "Juan Pérez, grada baja. Cumplido.\n\nEn trece días del mes de mayo de este año de mil setecientos noventa y tres, yo Dn Bernardo Roncero, Cura propio de este lugar de Tardobispo, di sepultura eclesiástica en la Parroquial de él, de grada baxa, a Juan Pérez, conjunto de Joaquina Roncero, de esta vecindad; falleció el día doze de dicho mes; recivió los santos Sacramentos de penitencia y extrema unción, que le permitió su enfermedad; no hizo testamento; se le asignó, con arreglo a su caudal, para bien de su alma setezs quarta y tres rs, y por berdad lo firmo. Dn Bernardo Roncero."
-      }
+      },
+      "siblings": [
+        "juan-perez-miguel-hermano-de-juan-perez-miguel"
+      ]
     },
     {
       "id": "joaquina-roncero-hernandez",
@@ -10283,7 +10295,10 @@
       "burial": {
         "date": "1713-09-06",
         "transcription": "El día seis de Septiembre deste presente año de mil setecientos y trece se enterró en esta Yglesia Manuel Hernandez Crespo, marido que fue de Cathalina Nieto, Vº que fueron deste lugar, y en la sepultura [ilegible] fue sepultado [ilegible] a la columna de la puerta del sol por la parte de adentro. Recibió los santos Sacramentos. Hizo testamento ante Ignacio Ponce Vº deste lugar y en él mandó que se le hiciesen los tres oficios de entierro honras y cabo de año [ilegible]. Item mandó decir siete misas rezadas [ilegible] y por su heredero a sus quatro hijos [ilegible] y para que conste lo firmé. Manuel Basilio Barba Santos."
-      }
+      },
+      "siblings": [
+        "antonio-hernandez-crespo-hermano-de-manuel-hernandez-crespo"
+      ]
     },
     {
       "id": "lucas-hernandez",
@@ -11135,6 +11150,9 @@
       },
       "observations": [
         "La partida de fallecimiento nombra testamentario a su hermano Luis García, vecino de San Frontis, y heredera universal a su hija Emerenciana."
+      ],
+      "siblings": [
+        "luis-garcia-hermano-de-alonso-garcia"
       ]
     },
     {
@@ -12575,7 +12593,11 @@
         "date": "1653-08-28",
         "place": "Morales del Vino",
         "transcription": "María.\n\nEn 28 de agosto de 1653 años yo el Ldo Miguel de Villalpando cura deste lugar doi fe que baptizé a María hija de Bartolomé de Luelmo y de Ynés Martín. Fueron padrinos Pº de Luelmo vecino de Moraleja y Felipa Martín. Testigos Gº Cordero, Diego Marqués y Manuel Sánchez y lo firmé. El Ldo Miguel de Villalpando."
-      }
+      },
+      "siblings": [
+        "juan-de-luelmo-padre-de-jeronimo",
+        "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso"
+      ]
     },
     {
       "id": "bartolome-de-luelmo",
@@ -15927,6 +15949,9 @@
       "mother": "catalina-delgado-madre-de-maria-jurado",
       "observations": [
         "Tuvo una hermana llamada Catalina, bautizada en abril de 1630 en Casaseca de las Chanas."
+      ],
+      "siblings": [
+        "catalina-jurado-hermano-de-maria-jurado"
       ]
     },
     {
@@ -17025,6 +17050,9 @@
       },
       "observations": [
         "La partida de entierro nombra herederos a sus hijos Lorenzo y María, habidos con Miguel Antón, y menciona a su hermana Teresa."
+      ],
+      "siblings": [
+        "teresa-pozo-hermano-de-angela-pozo-madre-de-maria-anton"
       ]
     },
     {
@@ -18295,6 +18323,10 @@
       },
       "observations": [
         "La partida de fallecimiento lo llama Luis Delgado Gallego y nombra a su hermana Catalina Delgado."
+      ],
+      "siblings": [
+        "maria-delgado-gonzalez",
+        "catalina-delgado-hermano-de-luis-delgado-padre-de-pedro-delgado"
       ]
     },
     {
@@ -18380,6 +18412,9 @@
       },
       "observations": [
         "La partida de fallecimiento nombra testamentarios a su hijo Francisco Montalvo y a su hermano Alonso Montalvo."
+      ],
+      "siblings": [
+        "alonso-montalvo-hermano-de-tomas-montalvo"
       ]
     },
     {
@@ -20740,6 +20775,9 @@
       },
       "observations": [
         "La partida de fallecimiento nombra testamentarios a su hermano Pedro Martín y a su hijo Francisco."
+      ],
+      "siblings": [
+        "pedro-martin-hermano-de-juan-martin-padre-de-francisco-martin-cabrero"
       ]
     },
     {
@@ -21152,6 +21190,9 @@
       },
       "observations": [
         "La partida de fallecimiento indica que era alcalde en ejercicio, nombra testamentario a su hermano Tomás Zurdo, vecino de Fadón, y dice que dejó por herederas a todas sus hijas, «que parece son ocho»."
+      ],
+      "siblings": [
+        "tomas-zurdo-hermano-de-jose-zurdo-mayordomo"
       ]
     },
     {
@@ -22164,6 +22205,10 @@
       ],
       "observations": [
         "Su hermana Ana fue bautizada el 14 de noviembre de 1648."
+      ],
+      "siblings": [
+        "maria-de-luelmo-madre-de-juan-brioso",
+        "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso"
       ]
     },
     {
@@ -22551,7 +22596,10 @@
         "place": "Moraleja del Vino",
         "note": "Antes del 8 de septiembre de 1665; el comienzo del asiento no se conserva.",
         "transcription": "[...] bapticé y puse los santos olios a María hija de Luis Delgado mozo y de Lucía González su ligítima mujer. Fueron sus padrinos D. Luis González de Silva y María García. Fueron testigos Francisco Gutiérrez familiar del Santo Oficio de la Ynquisición y Pedro de Luelmo y otros muchos y para que conste lo firmé ut supra. Pedro González."
-      }
+      },
+      "siblings": [
+        "luis-delgado-padre-de-pedro-delgado"
+      ]
     },
     {
       "id": "cristobal-unzueta-padre-de-manuel",
@@ -22612,7 +22660,10 @@
         "date": "1721-01-20",
         "place": "Arrasate",
         "note": "Parroquia de San Juan Bautista."
-      }
+      },
+      "siblings": [
+        "pascuala-unzueta-hermano-de-francisco-antonio-unzueta-ormacho"
+      ]
     },
     {
       "id": "isabel-romero",
@@ -22662,6 +22713,14 @@
       },
       "observations": [
         "Sus hermanos María Bautista (1673), Andrés (1675), Úrsula (1678), María Magdalena (1681), Juan (1684) y Teresa (1696) fueron bautizados en Arrasate."
+      ],
+      "siblings": [
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
       ]
     },
     {
@@ -22713,6 +22772,11 @@
         "En las partidas figura unas veces como Juan y otras como Juan Bautista de Unzueta.",
         "De su segundo matrimonio nacieron María Josefa (1698), Juan Antonio (1701), Domingo (1703) y Martín Bautista (1705).",
         "Sus hermanos Juan Bautista (1646), Antonio (1654) e Ignacio (1657) fueron bautizados en Arrasate; Juan Bautista se casó en 1667 con Antonia Garay Errarte."
+      ],
+      "siblings": [
+        "juan-bautista-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+        "antonio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+        "ignacio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain"
       ]
     },
     {
@@ -22751,6 +22815,9 @@
         "Su apellido se escribe también Zabarte, Çabarte, Çavarte o Savarte.",
         "Se le atribuye la defunción de una María Zabarte anotada el 22 de mayo de 1697 porque su marido volvió a casarse el 2 de junio siguiente.",
         "Su hermano Bartolomé se casó en Arrasate el 23 de junio de 1680 con Antonia de Uribe-Iturrioz Ocaranza."
+      ],
+      "siblings": [
+        "bartolome-cabarte-hermano-de-maria-cabarte-landaburu"
       ]
     },
     {
@@ -22784,6 +22851,10 @@
         "Fue bautizado como Joan; en Arrasate figura como Bautista o Juan Bautista de Unzueta.",
         "El libro que contiene su partida de bautismo quedó parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
         "Sus hermanas Úrsula (1625) y Ana (1629) fueron bautizadas en Eibar."
+      ],
+      "siblings": [
+        "ursula-unceta-hermano-de-juan-baptista-unceta-cirarruista",
+        "ana-unceta-hermano-de-juan-baptista-unceta-cirarruista"
       ]
     },
     {
@@ -22817,6 +22888,14 @@
         "En la partida de bautismo figura con el apellido Amezqueta, como sus hermanos.",
         "Sus hermanos Magdalena (1606), Águeda (1610), Mari Miguel (1616), Antonio (1619), Juan (1622) y Andrés (1625) fueron bautizados en Arrasate.",
         "Una María Fuldain falleció en Arrasate el 22 de octubre de 1682; es probable que se trate de ella."
+      ],
+      "siblings": [
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
       ]
     },
     {
@@ -22851,6 +22930,12 @@
       },
       "observations": [
         "Sus hermanos Ana (1613), María (1619), María Luisa (1622) y Juan Asencio (1627) fueron bautizados en la parroquia de Garagartza; María se casó con Miguel de Ezcurra Arriola, y Lucía y Antonia se casaron en 1652 y 1653."
+      ],
+      "siblings": [
+        "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea"
       ]
     },
     {
@@ -23157,6 +23242,2491 @@
         "note": "Recibió los óleos ese día; había sido bautizado en casa.",
         "transcription": "Andrés Rodríguez Manso.\n\nEn veintiuno de diciembre de mill y seiscientos y setenta y ocho el licenciado Martín Rodríguez, presbítero, con mi orden puso los santos olios a Andrés, hijo de Juan Rodríguez Manso y de Franca Méndez su muger. Fue su padrino Juan de Carbajal; testigos Atilano Martín, Antonio Moreno y otros. Abía rrecivido agua del santo baptismo en cassa por mano del licenciado Pº Pérez, presbítero, y lo firmé. [ilegible]."
       }
+    },
+    {
+      "id": "jesus-calvo-piorno",
+      "name": "Jesús Calvo Piorno",
+      "givenNames": "Jesús",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1905"
+      }
+    },
+    {
+      "id": "francisco-calvo-piorno",
+      "name": "Francisco Calvo Piorno",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1907"
+      }
+    },
+    {
+      "id": "vicenta-calvo-piorno",
+      "name": "Vicenta Calvo Piorno",
+      "givenNames": "Vicenta",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1910"
+      }
+    },
+    {
+      "id": "marcelina-calvo-piorno",
+      "name": "Marcelina Calvo Piorno",
+      "givenNames": "Marcelina",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1913"
+      }
+    },
+    {
+      "id": "juan-calvo-piorno",
+      "name": "Juan Calvo Piorno",
+      "givenNames": "Juan",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1915",
+        "place": "Badalona"
+      }
+    },
+    {
+      "id": "africa-calvo-piorno",
+      "name": "África Calvo Piorno",
+      "givenNames": "África",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago"
+    },
+    {
+      "id": "constantino-brioso-de-las-heras",
+      "name": "Constantino Brioso de las Heras",
+      "givenNames": "Constantino",
+      "surnames": [
+        "Brioso",
+        "de las Heras"
+      ],
+      "father": "bernardo-brioso-perez",
+      "mother": "angela-de-las-heras-prada"
+    },
+    {
+      "id": "rufina-brioso-de-las-heras",
+      "name": "Rufina Brioso de las Heras",
+      "givenNames": "Rufina",
+      "surnames": [
+        "Brioso",
+        "de las Heras"
+      ],
+      "father": "bernardo-brioso-perez",
+      "mother": "angela-de-las-heras-prada"
+    },
+    {
+      "id": "antonia-palmira-brioso-de-las-heras",
+      "name": "Antonia Palmira Brioso de las Heras",
+      "givenNames": "Antonia Palmira",
+      "surnames": [
+        "Brioso",
+        "de las Heras"
+      ],
+      "father": "bernardo-brioso-perez",
+      "mother": "angela-de-las-heras-prada"
+    },
+    {
+      "id": "angela-brioso-de-las-heras",
+      "name": "Ángela Brioso de las Heras",
+      "givenNames": "Ángela",
+      "surnames": [
+        "Brioso",
+        "de las Heras"
+      ],
+      "father": "bernardo-brioso-perez",
+      "mother": "angela-de-las-heras-prada"
+    },
+    {
+      "id": "antonio-fernandez-unzueta",
+      "name": "Antonio Fernández Unzueta",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Fernández",
+        "Unzueta"
+      ],
+      "father": "antonio-fernandez-romero",
+      "mother": "josefa-unzueta-fernandez",
+      "birth": {
+        "date": "1895-04-27",
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "spouse": "juana-bellina",
+          "date": "1933-05-06"
+        }
+      ],
+      "observations": [
+        "El relato familiar considera a Adelina su hermana mayor, lo que no concuerda con las fechas de nacimiento registradas."
+      ]
+    },
+    {
+      "id": "eduardo-fernandez-unzueta",
+      "name": "Eduardo Fernández Unzueta",
+      "givenNames": "Eduardo",
+      "surnames": [
+        "Fernández",
+        "Unzueta"
+      ],
+      "father": "antonio-fernandez-romero",
+      "mother": "josefa-unzueta-fernandez"
+    },
+    {
+      "id": "laura-fernandez-unzueta",
+      "name": "Laura Fernández Unzueta",
+      "givenNames": "Laura",
+      "surnames": [
+        "Fernández",
+        "Unzueta"
+      ],
+      "father": "antonio-fernandez-romero",
+      "mother": "josefa-unzueta-fernandez",
+      "observations": [
+        "Su parentesco con Adelina se considera probable; murió muy joven."
+      ]
+    },
+    {
+      "id": "lorenzo-brioso-perez",
+      "name": "Lorenzo Brioso Pérez",
+      "givenNames": "Lorenzo",
+      "surnames": [
+        "Brioso",
+        "Pérez"
+      ],
+      "father": "enrique-brioso-mena",
+      "mother": "balbina-perez-sanchez"
+    },
+    {
+      "id": "julio-brioso-perez",
+      "name": "Julio Brioso Pérez",
+      "givenNames": "Julio",
+      "surnames": [
+        "Brioso",
+        "Pérez"
+      ],
+      "father": "enrique-brioso-mena",
+      "mother": "balbina-perez-sanchez"
+    },
+    {
+      "id": "juana-bellina",
+      "name": "Juana Bellina",
+      "givenNames": "Juana",
+      "surnames": [
+        "Bellina"
+      ],
+      "marriages": [
+        {
+          "spouse": "antonio-fernandez-unzueta",
+          "date": "1933-05-06"
+        }
+      ]
+    },
+    {
+      "id": "ignacio-calvo-hermano-de-lucas-calvo-alonso",
+      "name": "Ignacio Calvo",
+      "givenNames": "Ignacio",
+      "surnames": [
+        "Calvo"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Lucas Calvo Alonso."
+      ],
+      "siblings": [
+        "lucas-calvo-alonso"
+      ]
+    },
+    {
+      "id": "francisco-vega-hermano-de-teresa-vega-zurdo",
+      "name": "Francisco Vega",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Vega"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Teresa Vega Zurdo."
+      ],
+      "siblings": [
+        "teresa-vega-zurdo"
+      ]
+    },
+    {
+      "id": "gabriel-alonso-hermano-de-bernardo-alonso-cabrero",
+      "name": "Gabriel Alonso",
+      "givenNames": "Gabriel",
+      "surnames": [
+        "Alonso"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Bernardo Mariano Alonso Cabrero.",
+        "La partida de matrimonio de Bernardo lo identifica como hermano mayor."
+      ],
+      "siblings": [
+        "bernardo-alonso-cabrero"
+      ]
+    },
+    {
+      "id": "juan-perez-miguel-hermano-de-juan-perez-miguel",
+      "name": "Juan Pérez Miguel",
+      "givenNames": "Juan",
+      "surnames": [
+        "Pérez Miguel"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Pérez Miguel.",
+        "Nació el 5 de junio de 1740 y fue bautizado el 15 de junio; la partida indica que murió."
+      ],
+      "siblings": [
+        "juan-perez-miguel"
+      ],
+      "birth": {
+        "date": "1740-06-05"
+      },
+      "baptism": {
+        "date": "1740-06-15"
+      }
+    },
+    {
+      "id": "antonio-hernandez-crespo-hermano-de-manuel-hernandez-crespo",
+      "name": "Antonio Hernández Crespo",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Hernández Crespo"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Manuel Hernández Crespo Prieto.",
+        "Cura de Pontejos; ofició la boda de su hermano Manuel."
+      ],
+      "siblings": [
+        "manuel-hernandez-crespo"
+      ]
+    },
+    {
+      "id": "luis-garcia-hermano-de-alonso-garcia",
+      "name": "Luis García",
+      "givenNames": "Luis",
+      "surnames": [
+        "García"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Alonso García Delgado.",
+        "Vecino de San Frontis según la partida de fallecimiento de Alonso."
+      ],
+      "siblings": [
+        "alonso-garcia"
+      ],
+      "father": "martin-garcia"
+    },
+    {
+      "id": "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de María Luelmo Martín.",
+        "Bautizada el 14 de noviembre de 1648.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "siblings": [
+        "maria-de-luelmo-madre-de-juan-brioso",
+        "juan-de-luelmo-padre-de-jeronimo"
+      ],
+      "baptism": {
+        "date": "1648-11-14"
+      }
+    },
+    {
+      "id": "catalina-jurado-hermano-de-maria-jurado",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de María Jurado Delgado.",
+        "Bautizada en abril de 1630 en Casaseca de las Chanas.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "siblings": [
+        "maria-jurado"
+      ],
+      "baptism": {
+        "date": "1630-04",
+        "place": "Casaseca de las Chanas"
+      }
+    },
+    {
+      "id": "teresa-pozo-hermano-de-angela-pozo-madre-de-maria-anton",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Ángela Pozo.",
+        "La partida de entierro de Ángela menciona a su hermana Teresa; el apellido no se expresa en la observación.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "siblings": [
+        "angela-pozo-madre-de-maria-anton"
+      ]
+    },
+    {
+      "id": "catalina-delgado-hermano-de-luis-delgado-padre-de-pedro-delgado",
+      "name": "Catalina Delgado",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Delgado"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Luis Delgado González."
+      ],
+      "siblings": [
+        "luis-delgado-padre-de-pedro-delgado"
+      ]
+    },
+    {
+      "id": "alonso-montalvo-hermano-de-tomas-montalvo",
+      "name": "Alonso Montalvo",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Montalvo"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Tomás Montalvo Ramos."
+      ],
+      "siblings": [
+        "tomas-montalvo"
+      ]
+    },
+    {
+      "id": "pedro-martin-hermano-de-juan-martin-padre-de-francisco-martin-cabrero",
+      "name": "Pedro Martín",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Martín"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Martín Esteban."
+      ],
+      "siblings": [
+        "juan-martin-padre-de-francisco-martin-cabrero"
+      ]
+    },
+    {
+      "id": "tomas-zurdo-hermano-de-jose-zurdo-mayordomo",
+      "name": "Tomás Zurdo",
+      "givenNames": "Tomás",
+      "surnames": [
+        "Zurdo"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de José Zurdo Mayordomo.",
+        "Vecino de Fadón según la partida de fallecimiento de José."
+      ],
+      "siblings": [
+        "jose-zurdo-mayordomo"
+      ],
+      "mother": "sebastiana-mayordomo"
+    },
+    {
+      "id": "pascuala-unzueta-hermano-de-francisco-antonio-unzueta-ormacho",
+      "name": "Pascuala",
+      "givenNames": "Pascuala",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Francisco Antonio Unzueta Ormacho.",
+        "Nació el 7 de abril de 1723.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "siblings": [
+        "francisco-antonio-unzueta-ormacho"
+      ],
+      "birth": {
+        "date": "1723-04-07"
+      }
+    },
+    {
+      "id": "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "María Bautista",
+      "givenNames": "María Bautista",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1673",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "Andrés",
+      "givenNames": "Andrés",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1675",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "Úrsula",
+      "givenNames": "Úrsula",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1678",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "María Magdalena",
+      "givenNames": "María Magdalena",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1681",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1684",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "teresa-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "teresa-unzueta-hermano-de-christobal-unzueta-zabarte",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1696",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "christobal-unzueta-zabarte",
+        "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
+        "juan-unzueta-hermano-de-christobal-unzueta-zabarte"
+      ]
+    },
+    {
+      "id": "juan-bautista-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+      "name": "Juan Bautista",
+      "givenNames": "Juan Bautista",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
+        "Se casó en 1667 con Antonia Garay Errarte.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1646",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "joan-bauptista-uncueta-fuldain",
+        "antonio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+        "ignacio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain"
+      ]
+    },
+    {
+      "id": "antonio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+      "name": "Antonio",
+      "givenNames": "Antonio",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1654",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "joan-bauptista-uncueta-fuldain",
+        "juan-bautista-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+        "ignacio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain"
+      ]
+    },
+    {
+      "id": "ignacio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+      "name": "Ignacio",
+      "givenNames": "Ignacio",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1657",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "joan-bauptista-uncueta-fuldain",
+        "juan-bautista-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
+        "antonio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain"
+      ]
+    },
+    {
+      "id": "bartolome-cabarte-hermano-de-maria-cabarte-landaburu",
+      "name": "Bartolomé",
+      "givenNames": "Bartolomé",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Cabarte Landaburu.",
+        "Se casó en Arrasate el 23 de junio de 1680 con Antonia de Uribe-Iturrioz Ocaranza.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "siblings": [
+        "maria-cabarte-landaburu"
+      ]
+    },
+    {
+      "id": "ursula-unceta-hermano-de-juan-baptista-unceta-cirarruista",
+      "name": "Úrsula",
+      "givenNames": "Úrsula",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Baptista Unceta Çirarruista.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1625",
+        "place": "Eibar",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "juan-baptista-unceta-cirarruista",
+        "ana-unceta-hermano-de-juan-baptista-unceta-cirarruista"
+      ]
+    },
+    {
+      "id": "ana-unceta-hermano-de-juan-baptista-unceta-cirarruista",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Juan Baptista Unceta Çirarruista.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1629",
+        "place": "Eibar",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "juan-baptista-unceta-cirarruista",
+        "ursula-unceta-hermano-de-juan-baptista-unceta-cirarruista"
+      ]
+    },
+    {
+      "id": "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Magdalena Amezqueta",
+      "givenNames": "Magdalena",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1606",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Águeda Amezqueta",
+      "givenNames": "Águeda",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1610",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Mari Miguel Amezqueta",
+      "givenNames": "Mari Miguel",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1616",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Antonio Amezqueta",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1619",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Juan Amezqueta",
+      "givenNames": "Juan",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1622",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "andres-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "andres-amezqueta-hermano-de-maria-fuldain-egurbide",
+      "name": "Andrés Amezqueta",
+      "givenNames": "Andrés",
+      "surnames": [
+        "Amezqueta"
+      ],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+      ],
+      "baptism": {
+        "date": "1625",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "maria-fuldain-egurbide",
+        "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
+        "juan-amezqueta-hermano-de-maria-fuldain-egurbide"
+      ]
+    },
+    {
+      "id": "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
+        "Bautizada en la parroquia de Garagartza.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1613",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "mari-miguel-landaburu-guinea",
+        "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea"
+      ]
+    },
+    {
+      "id": "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
+        "Bautizada en la parroquia de Garagartza.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1619",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "mari-miguel-landaburu-guinea",
+        "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea"
+      ]
+    },
+    {
+      "id": "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+      "name": "María Luisa",
+      "givenNames": "María Luisa",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
+        "Bautizada en la parroquia de Garagartza.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1622",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "mari-miguel-landaburu-guinea",
+        "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea"
+      ]
+    },
+    {
+      "id": "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+      "name": "Juan Asencio",
+      "givenNames": "Juan Asencio",
+      "surnames": [],
+      "observations": [
+        "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
+        "Bautizado en la parroquia de Garagartza.",
+        "La observación original recoge únicamente su nombre de pila."
+      ],
+      "baptism": {
+        "date": "1627",
+        "place": "Arrasate",
+        "note": "Fecha de bautismo indicada en las observaciones familiares."
+      },
+      "siblings": [
+        "mari-miguel-landaburu-guinea",
+        "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
+        "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea"
+      ]
+    },
+    {
+      "id": "diego-hijo-de-lucas-calvo-alonso",
+      "name": "Diego",
+      "givenNames": "Diego",
+      "surnames": [],
+      "father": "lucas-calvo-alonso",
+      "observations": [
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "secundino-hijo-de-lucas-calvo-alonso",
+      "name": "Secundino",
+      "givenNames": "Secundino",
+      "surnames": [],
+      "father": "lucas-calvo-alonso",
+      "observations": [
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-lucas-calvo-alonso",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "lucas-calvo-alonso",
+      "observations": [
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-manuel-mendez-de-paz",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "manuel-mendez-de-paz",
+      "observations": [
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "sebastiana-hijo-de-manuel-mendez-de-paz",
+      "name": "Sebastiana",
+      "givenNames": "Sebastiana",
+      "surnames": [],
+      "father": "manuel-mendez-de-paz",
+      "observations": [
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "bernarda-hijo-de-manuel-mendez-de-paz",
+      "name": "Bernarda",
+      "givenNames": "Bernarda",
+      "surnames": [],
+      "father": "manuel-mendez-de-paz",
+      "observations": [
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-josefa-rabanal-ibanez",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "mother": "josefa-rabanal-ibanez",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Ygenia Rabanal Ibáñez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "genaro-hijo-de-luis-mendez-de-lera",
+      "name": "Genaro",
+      "givenNames": "Genaro",
+      "surnames": [],
+      "father": "luis-mendez-de-lera",
+      "observations": [
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-luis-mendez-de-lera",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "father": "luis-mendez-de-lera",
+      "observations": [
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-luis-mendez-de-lera",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "luis-mendez-de-lera",
+      "observations": [
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "bonifacio-hijo-de-luis-mendez-de-lera",
+      "name": "Bonifacio",
+      "givenNames": "Bonifacio",
+      "surnames": [],
+      "father": "luis-mendez-de-lera",
+      "observations": [
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "higinio-hijo-de-luis-mendez-de-lera",
+      "name": "Higinio",
+      "givenNames": "Higinio",
+      "surnames": [],
+      "father": "luis-mendez-de-lera",
+      "observations": [
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "nicasio-hijo-de-maria-morales-valladolid",
+      "name": "Nicasio",
+      "givenNames": "Nicasio",
+      "surnames": [],
+      "mother": "maria-morales-valladolid",
+      "observations": [
+        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "sebastiana-hijo-de-maria-morales-valladolid",
+      "name": "Sebastiana",
+      "givenNames": "Sebastiana",
+      "surnames": [],
+      "mother": "maria-morales-valladolid",
+      "observations": [
+        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-angela-vega-fierro",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "mother": "angela-vega-fierro",
+      "observations": [
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-angela-vega-fierro",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "mother": "angela-vega-fierro",
+      "observations": [
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-angela-vega-fierro",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "mother": "angela-vega-fierro",
+      "observations": [
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-angela-vega-fierro",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "mother": "angela-vega-fierro",
+      "observations": [
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ines-hijo-de-baltasar-brioso-martin",
+      "name": "Inés",
+      "givenNames": "Inés",
+      "surnames": [],
+      "father": "baltasar-brioso-martin",
+      "observations": [
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-baltasar-brioso-martin",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "baltasar-brioso-martin",
+      "observations": [
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "bernardo-hijo-de-baltasar-brioso-martin",
+      "name": "Bernardo",
+      "givenNames": "Bernardo",
+      "surnames": [],
+      "father": "baltasar-brioso-martin",
+      "observations": [
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "nazario-hijo-de-baltasar-brioso-martin",
+      "name": "Nazario",
+      "givenNames": "Nazario",
+      "surnames": [],
+      "father": "baltasar-brioso-martin",
+      "observations": [
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "prudencio-hijo-de-margarita-giron-fernandez",
+      "name": "Prudencio",
+      "givenNames": "Prudencio",
+      "surnames": [],
+      "mother": "margarita-giron-fernandez",
+      "observations": [
+        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuela-hijo-de-margarita-giron-fernandez",
+      "name": "Manuela",
+      "givenNames": "Manuela",
+      "surnames": [],
+      "mother": "margarita-giron-fernandez",
+      "observations": [
+        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-rosa-izquierdo-terron",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "mother": "rosa-izquierdo-terron",
+      "observations": [
+        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "petrona-hijo-de-rosa-izquierdo-terron",
+      "name": "Petrona",
+      "givenNames": "Petrona",
+      "surnames": [],
+      "mother": "rosa-izquierdo-terron",
+      "observations": [
+        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alejandro-hijo-de-manuela-giron-roncero",
+      "name": "Alejandro",
+      "givenNames": "Alejandro",
+      "surnames": [],
+      "mother": "manuela-giron-roncero",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "marcos-hijo-de-manuela-giron-roncero",
+      "name": "Marcos",
+      "givenNames": "Marcos",
+      "surnames": [],
+      "mother": "manuela-giron-roncero",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "gemiliano-hijo-de-manuela-giron-roncero",
+      "name": "Gemiliano",
+      "givenNames": "Gemiliano",
+      "surnames": [],
+      "mother": "manuela-giron-roncero",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisca-hijo-de-maria-de-lera-rodriguez",
+      "name": "Francisca",
+      "givenNames": "Francisca",
+      "surnames": [],
+      "mother": "maria-de-lera-rodriguez",
+      "observations": [
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-maria-de-lera-rodriguez",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "mother": "maria-de-lera-rodriguez",
+      "observations": [
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "vicenta-hijo-de-maria-de-lera-rodriguez",
+      "name": "Vicenta",
+      "givenNames": "Vicenta",
+      "surnames": [],
+      "mother": "maria-de-lera-rodriguez",
+      "observations": [
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-bonifacio-de-paz-carrasco",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "father": "bonifacio-de-paz-carrasco",
+      "observations": [
+        "Nombrado entre los hijos de Bonifacio Ruperto de Paz Carrasco en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-casimiro-vega-vega",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "father": "casimiro-vega-vega",
+      "observations": [
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "micaela-hijo-de-casimiro-vega-vega",
+      "name": "Micaela",
+      "givenNames": "Micaela",
+      "surnames": [],
+      "father": "casimiro-vega-vega",
+      "observations": [
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-casimiro-vega-vega",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "casimiro-vega-vega",
+      "observations": [
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-casimiro-vega-vega",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "casimiro-vega-vega",
+      "observations": [
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-catalina-gonzalo-barrocal",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "mother": "catalina-gonzalo-barrocal",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-catalina-gonzalo-barrocal",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "mother": "catalina-gonzalo-barrocal",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-catalina-gonzalo-barrocal",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "mother": "catalina-gonzalo-barrocal",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-catalina-gonzalo-barrocal",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "mother": "catalina-gonzalo-barrocal",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "isidro-hijo-de-angel-garrote-garrote",
+      "name": "Isidro",
+      "givenNames": "Isidro",
+      "surnames": [],
+      "father": "angel-garrote-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-angel-garrote-garrote",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "angel-garrote-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "paula-hijo-de-angel-garrote-garrote",
+      "name": "Paula",
+      "givenNames": "Paula",
+      "surnames": [],
+      "father": "angel-garrote-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "tadea-hijo-de-angel-garrote-garrote",
+      "name": "Tadea",
+      "givenNames": "Tadea",
+      "surnames": [],
+      "father": "angel-garrote-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "antonia-hijo-de-angel-garrote-garrote",
+      "name": "Antonia",
+      "givenNames": "Antonia",
+      "surnames": [],
+      "father": "angel-garrote-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "miguel-hijo-de-manuel-sastre-gonzalo",
+      "name": "Miguel",
+      "givenNames": "Miguel",
+      "surnames": [],
+      "father": "manuel-sastre-gonzalo",
+      "observations": [
+        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-manuel-sastre-gonzalo",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "manuel-sastre-gonzalo",
+      "observations": [
+        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "miguel-hijo-de-lucas-esteban-prieto",
+      "name": "Miguel",
+      "givenNames": "Miguel",
+      "surnames": [],
+      "father": "lucas-esteban-prieto",
+      "observations": [
+        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-lucas-esteban-prieto",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "lucas-esteban-prieto",
+      "observations": [
+        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ],
+      "mother": "teresa-vega-zurdo"
+    },
+    {
+      "id": "bernardo-hijo-de-alonso-brioso-cabrero",
+      "name": "Bernardo",
+      "givenNames": "Bernardo",
+      "surnames": [],
+      "father": "alonso-brioso-cabrero",
+      "observations": [
+        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-alonso-brioso-cabrero",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "alonso-brioso-cabrero",
+      "observations": [
+        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-del-carmen-hijo-de-bernardo-alonso-cabrero",
+      "name": "María del Carmen",
+      "givenNames": "María del Carmen",
+      "surnames": [],
+      "father": "bernardo-alonso-cabrero",
+      "observations": [
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ines-hijo-de-bernardo-alonso-cabrero",
+      "name": "Inés",
+      "givenNames": "Inés",
+      "surnames": [],
+      "father": "bernardo-alonso-cabrero",
+      "observations": [
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-bernardo-alonso-cabrero",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "bernardo-alonso-cabrero",
+      "observations": [
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-alonso-de-las-heras-pozo",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuela-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Manuela",
+      "givenNames": "Manuela",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "barbara-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Bárbara",
+      "givenNames": "Bárbara",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juliana-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Juliana",
+      "givenNames": "Juliana",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ramon-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Ramón",
+      "givenNames": "Ramón",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-alonso-de-las-heras-pozo",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "gabriel-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Gabriel",
+      "givenNames": "Gabriel",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "atilano-hijo-de-alonso-de-las-heras-pozo",
+      "name": "Atilano",
+      "givenNames": "Atilano",
+      "surnames": [],
+      "father": "alonso-de-las-heras-pozo",
+      "observations": [
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "antonio-hijo-de-atilano-pascual-villar",
+      "name": "Antonio",
+      "givenNames": "Antonio",
+      "surnames": [],
+      "father": "atilano-pascual-villar",
+      "observations": [
+        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-atilano-pascual-villar",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "father": "atilano-pascual-villar",
+      "observations": [
+        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "pedro-hijo-de-vicenta-martinez-juarez",
+      "name": "Pedro",
+      "givenNames": "Pedro",
+      "surnames": [],
+      "mother": "vicenta-martinez-juarez",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Vicenta Antonia Martínez Juárez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-francisca-roncero-perez",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "mother": "francisca-roncero-perez",
+      "observations": [
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "margarita-hijo-de-francisca-roncero-perez",
+      "name": "Margarita",
+      "givenNames": "Margarita",
+      "surnames": [],
+      "mother": "francisca-roncero-perez",
+      "observations": [
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "atilano-hijo-de-francisca-roncero-perez",
+      "name": "Atilano",
+      "givenNames": "Atilano",
+      "surnames": [],
+      "mother": "francisca-roncero-perez",
+      "observations": [
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "atilano-hijo-de-maria-perez-matos",
+      "name": "Atilano",
+      "givenNames": "Atilano",
+      "surnames": [],
+      "mother": "maria-perez-matos",
+      "observations": [
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "andrea-hijo-de-maria-perez-matos",
+      "name": "Andrea",
+      "givenNames": "Andrea",
+      "surnames": [],
+      "mother": "maria-perez-matos",
+      "observations": [
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "beatriz-hijo-de-maria-perez-matos",
+      "name": "Beatriz",
+      "givenNames": "Beatriz",
+      "surnames": [],
+      "mother": "maria-perez-matos",
+      "observations": [
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-maria-perez-matos",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "mother": "maria-perez-matos",
+      "observations": [
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-pedro-bragado-macias",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "father": "pedro-bragado-macias",
+      "observations": [
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-pedro-bragado-macias",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "pedro-bragado-macias",
+      "observations": [
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "rosa-hijo-de-pedro-bragado-macias",
+      "name": "Rosa",
+      "givenNames": "Rosa",
+      "surnames": [],
+      "father": "pedro-bragado-macias",
+      "observations": [
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "lorenza-hijo-de-pedro-bragado-macias",
+      "name": "Lorenza",
+      "givenNames": "Lorenza",
+      "surnames": [],
+      "father": "pedro-bragado-macias",
+      "observations": [
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "baltasara-hijo-de-pedro-bragado-macias",
+      "name": "Baltasara",
+      "givenNames": "Baltasara",
+      "surnames": [],
+      "father": "pedro-bragado-macias",
+      "observations": [
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-juan-perez",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "father": "juan-perez",
+      "observations": [
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "isabel-hijo-de-juan-perez",
+      "name": "Isabel",
+      "givenNames": "Isabel",
+      "surnames": [],
+      "father": "juan-perez",
+      "observations": [
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "andrea-hijo-de-juan-perez",
+      "name": "Andrea",
+      "givenNames": "Andrea",
+      "surnames": [],
+      "father": "juan-perez",
+      "observations": [
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-juan-perez",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "juan-perez",
+      "observations": [
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-juan-perez",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "father": "juan-perez",
+      "observations": [
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jeronima-hijo-de-ana-maria-salvador",
+      "name": "Jerónima",
+      "givenNames": "Jerónima",
+      "surnames": [],
+      "mother": "ana-maria-salvador",
+      "observations": [
+        "Nombrado entre los hijos de Ana María Salvador Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "isabel-hijo-de-francisco-zamora",
+      "name": "Isabel",
+      "givenNames": "Isabel",
+      "surnames": [],
+      "father": "francisco-zamora",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Zamora García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-miguel-avedillo",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "father": "miguel-avedillo",
+      "observations": [
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "pedro-hijo-de-miguel-avedillo",
+      "name": "Pedro",
+      "givenNames": "Pedro",
+      "surnames": [],
+      "father": "miguel-avedillo",
+      "observations": [
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "bernardo-hijo-de-miguel-avedillo",
+      "name": "Bernardo",
+      "givenNames": "Bernardo",
+      "surnames": [],
+      "father": "miguel-avedillo",
+      "observations": [
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "antonio-hijo-de-miguel-avedillo",
+      "name": "Antonio",
+      "givenNames": "Antonio",
+      "surnames": [],
+      "father": "miguel-avedillo",
+      "observations": [
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "esteban-hijo-de-ana-chico",
+      "name": "Esteban",
+      "givenNames": "Esteban",
+      "surnames": [],
+      "mother": "ana-chico",
+      "observations": [
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-ana-chico",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "mother": "ana-chico",
+      "observations": [
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-ana-chico",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "mother": "ana-chico",
+      "observations": [
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuela-hijo-de-ana-chico",
+      "name": "Manuela",
+      "givenNames": "Manuela",
+      "surnames": [],
+      "mother": "ana-chico",
+      "observations": [
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisca-hijo-de-ana-chico",
+      "name": "Francisca",
+      "givenNames": "Francisca",
+      "surnames": [],
+      "mother": "ana-chico",
+      "observations": [
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-juan-rodriguez-perez",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-juan-rodriguez-perez",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-juan-rodriguez-perez",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-juan-rodriguez-perez",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "gregorio-hijo-de-juan-rodriguez-perez",
+      "name": "Gregorio",
+      "givenNames": "Gregorio",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "susana-hijo-de-juan-rodriguez-perez",
+      "name": "Susana",
+      "givenNames": "Susana",
+      "surnames": [],
+      "father": "juan-rodriguez-perez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ana-hijo-de-catalina-garrote",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "mother": "catalina-garrote",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuela-hijo-de-josefa-esteban",
+      "name": "Manuela",
+      "givenNames": "Manuela",
+      "surnames": [],
+      "mother": "josefa-esteban",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-josefa-esteban",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "mother": "josefa-esteban",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "santiago-hijo-de-josefa-esteban",
+      "name": "Santiago",
+      "givenNames": "Santiago",
+      "surnames": [],
+      "mother": "josefa-esteban",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-sebastiana-gaspar",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "mother": "sebastiana-gaspar",
+      "observations": [
+        "Nombrado entre los hijos de Sebastiana Gaspar Piorno en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-maria-marques-madre-de-baltasar-brioso",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "mother": "maria-marques-madre-de-baltasar-brioso",
+      "observations": [
+        "Nombrado entre los hijos de María Marqués Esteban en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "micaela-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "Micaela",
+      "givenNames": "Micaela",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "domingo-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "Domingo",
+      "givenNames": "Domingo",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ana-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "luis-hijo-de-francisco-terron-padre-de-francisco-terron",
+      "name": "Luis",
+      "givenNames": "Luis",
+      "surnames": [],
+      "father": "francisco-terron-padre-de-francisco-terron",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "miguel-hijo-de-antonio-calabaza",
+      "name": "Miguel",
+      "givenNames": "Miguel",
+      "surnames": [],
+      "father": "antonio-calabaza",
+      "observations": [
+        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "benito-hijo-de-antonio-calabaza",
+      "name": "Benito",
+      "givenNames": "Benito",
+      "surnames": [],
+      "father": "antonio-calabaza",
+      "observations": [
+        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-juan-martinez",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "father": "juan-martinez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-juan-martinez",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "father": "juan-martinez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-juan-martinez",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "juan-martinez",
+      "observations": [
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ines-hijo-de-josefa-delgado",
+      "name": "Inés",
+      "givenNames": "Inés",
+      "surnames": [],
+      "mother": "josefa-delgado",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-josefa-delgado",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "mother": "josefa-delgado",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "paula-hijo-de-josefa-delgado",
+      "name": "Paula",
+      "givenNames": "Paula",
+      "surnames": [],
+      "mother": "josefa-delgado",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-josefa-delgado",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "mother": "josefa-delgado",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-josefa-delgado",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "mother": "josefa-delgado",
+      "observations": [
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-marcos-vega",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "father": "marcos-vega",
+      "observations": [
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-marcos-vega",
+      "name": "Catalina",
+      "givenNames": "Catalina",
+      "surnames": [],
+      "father": "marcos-vega",
+      "observations": [
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "bernardo-hijo-de-marcos-vega",
+      "name": "Bernardo",
+      "givenNames": "Bernardo",
+      "surnames": [],
+      "father": "marcos-vega",
+      "observations": [
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "lorenzo-hijo-de-miguel-anton",
+      "name": "Lorenzo",
+      "givenNames": "Lorenzo",
+      "surnames": [],
+      "father": "miguel-anton",
+      "observations": [
+        "Nombrado entre los hijos de Miguel Antón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-matias-zurdo",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "father": "matias-zurdo",
+      "observations": [
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ana-hijo-de-matias-zurdo",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "father": "matias-zurdo",
+      "observations": [
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "miguel-hijo-de-matias-zurdo",
+      "name": "Miguel",
+      "givenNames": "Miguel",
+      "surnames": [],
+      "father": "matias-zurdo",
+      "observations": [
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "micaela-hijo-de-matias-zurdo",
+      "name": "Micaela",
+      "givenNames": "Micaela",
+      "surnames": [],
+      "father": "matias-zurdo",
+      "observations": [
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "antonia-hijo-de-matias-zurdo",
+      "name": "Antonia",
+      "givenNames": "Antonia",
+      "surnames": [],
+      "father": "matias-zurdo",
+      "observations": [
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-francisco-ramos",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "father": "francisco-ramos",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-francisco-ramos",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "father": "francisco-ramos",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "cecilia-hijo-de-francisco-ramos",
+      "name": "Cecilia",
+      "givenNames": "Cecilia",
+      "surnames": [],
+      "father": "francisco-ramos",
+      "observations": [
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-maria-bartolo",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-maria-bartolo",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "ana-hijo-de-maria-bartolo",
+      "name": "Ana",
+      "givenNames": "Ana",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "vicente-hijo-de-maria-bartolo",
+      "name": "Vicente",
+      "givenNames": "Vicente",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "pedro-hijo-de-maria-bartolo",
+      "name": "Pedro",
+      "givenNames": "Pedro",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-maria-bartolo",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "felipe-hijo-de-maria-bartolo",
+      "name": "Felipe",
+      "givenNames": "Felipe",
+      "surnames": [],
+      "mother": "maria-bartolo",
+      "observations": [
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "jose-hijo-de-catalina-garrote-madre-de-juana-benito",
+      "name": "José",
+      "givenNames": "José",
+      "surnames": [],
+      "mother": "catalina-garrote-madre-de-juana-benito",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-catalina-garrote-madre-de-juana-benito",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "mother": "catalina-garrote-madre-de-juana-benito",
+      "observations": [
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "pedro-hijo-de-maria-nieto",
+      "name": "Pedro",
+      "givenNames": "Pedro",
+      "surnames": [],
+      "mother": "maria-nieto",
+      "observations": [
+        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "alonso-hijo-de-maria-nieto",
+      "name": "Alonso",
+      "givenNames": "Alonso",
+      "surnames": [],
+      "mother": "maria-nieto",
+      "observations": [
+        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-sebastiana-mayordomo",
+      "name": "Manuel",
+      "givenNames": "Manuel",
+      "surnames": [],
+      "mother": "sebastiana-mayordomo",
+      "observations": [
+        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "micaela-hijo-de-sebastiana-mayordomo",
+      "name": "Micaela",
+      "givenNames": "Micaela",
+      "surnames": [],
+      "mother": "sebastiana-mayordomo",
+      "observations": [
+        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "miguel-hijo-de-juan-vega-rodrigo",
+      "name": "Miguel",
+      "givenNames": "Miguel",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-juan-vega-rodrigo",
+      "name": "Francisco",
+      "givenNames": "Francisco",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "juan-hijo-de-juan-vega-rodrigo",
+      "name": "Juan",
+      "givenNames": "Juan",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "atilana-hijo-de-juan-vega-rodrigo",
+      "name": "Atilana",
+      "givenNames": "Atilana",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "angela-hijo-de-juan-vega-rodrigo",
+      "name": "Ángela",
+      "givenNames": "Ángela",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "sebastiana-hijo-de-juan-vega-rodrigo",
+      "name": "Sebastiana",
+      "givenNames": "Sebastiana",
+      "surnames": [],
+      "father": "juan-vega-rodrigo",
+      "observations": [
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-manuela-gaspar",
+      "name": "María",
+      "givenNames": "María",
+      "surnames": [],
+      "mother": "manuela-gaspar",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "teresa-hijo-de-manuela-gaspar",
+      "name": "Teresa",
+      "givenNames": "Teresa",
+      "surnames": [],
+      "mother": "manuela-gaspar",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "antonia-hijo-de-manuela-gaspar",
+      "name": "Antonia",
+      "givenNames": "Antonia",
+      "surnames": [],
+      "mother": "manuela-gaspar",
+      "observations": [
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+      ]
+    },
+    {
+      "id": "dionisia-hijo-de-teresa-vega-zurdo",
+      "name": "Dionisia",
+      "givenNames": "Dionisia",
+      "surnames": [],
+      "mother": "teresa-vega-zurdo",
+      "observations": [
+        "Nombrada entre los hijos de Teresa Vega Zurdo en la observación de su partida."
+      ]
     }
   ]
 }

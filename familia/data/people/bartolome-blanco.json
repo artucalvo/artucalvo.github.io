@@ -1,1 +1,1 @@
-{"id":"bartolome-blanco","name":"Bartolomé Blanco","givenNames":"Bartolomé","surnames":["Blanco"],"children":[{"id":"manuela-blanco","name":"Manuela Blanco","givenNames":"Manuela","surnames":["Blanco"],"father":"bartolome-blanco"}]}
+{"id":"bartolome-blanco","name":"Bartolomé Blanco","givenNames":"Bartolomé","surnames":["Blanco"],"isDirectAncestor":true,"children":[{"id":"manuela-blanco","name":"Manuela Blanco","givenNames":"Manuela","surnames":["Blanco"],"isDirectAncestor":true,"father":"bartolome-blanco"}]}

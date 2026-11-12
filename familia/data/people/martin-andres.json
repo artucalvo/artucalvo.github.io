@@ -1,1 +1,1 @@
-{"id":"martin-andres","name":"Martín Andrés","givenNames":"Martín","surnames":["Andrés"],"children":[{"id":"ines-andres","name":"Inés Andrés Luengo","givenNames":"Inés","surnames":["Andrés","Luengo"],"father":"martin-andres"}]}
+{"id":"martin-andres","name":"Martín Andrés","givenNames":"Martín","surnames":["Andrés"],"isDirectAncestor":true,"children":[{"id":"ines-andres","name":"Inés Andrés Luengo","givenNames":"Inés","surnames":["Andrés","Luengo"],"isDirectAncestor":true,"father":"martin-andres"}]}
