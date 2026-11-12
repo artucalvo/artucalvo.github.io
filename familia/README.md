@@ -68,6 +68,8 @@ Al transcribir las partidas de los bisabuelos se añadieron cuatro oficios expre
 
 En la carpeta de tatarabuelos segundos constan cuatro oficios más: Manuel Prada Sebastián, «Subteniente retirado» en su entierro de 1851 (sin `date`, como en el caso de Salvador Piorno); Francisco Tuda Porras, «oficio labrador» en su entierro de 1841; Manuel Martín Prada, «oficio labrador» en el suyo de 1838, y su padre, Miguel Martín Avedillo, «de oficio labrador» según esa misma partida, posterior a su muerte. El entierro de María Juana Morales (1865) llama labrador a su segundo marido, Aniceto Sevillano, que no tiene ficha. Las demás partidas de esa generación, de 1751 a 1875, no expresan el oficio de los titulares.
 
+En la carpeta de tatarabuelos terceros, con partidas de 1713 a 1853, ninguna expresa un oficio. Solo constan cargos y condiciones, recogidos como observaciones: Bernardo Alonso Salvador y Bernardo Alonso Cabrero, familiares del Santo Oficio (1714 y 1818); José Piorno Zurdo, que casó en 1769 con licencia del coronel de Milicias de Salamanca y no testó en 1813 «por ser pobre».
+
 No se han registrado como profesión, a falta de una decisión de la familia:
 
 - Los cargos y condiciones: José Zurdo, alcalde al morir en 1748; Andrés Delgado, «capitán»; Francisco Zamora, «el hidalgo», y seis personas cuyas partidas de fallecimiento o entierro las llaman pobres.
@@ -840,11 +842,44 @@ De las 172 fotografías de la carpeta, 38 tienen ya huella en algún registro de
 
 Correcciones a los resúmenes familiares por lectura directa: Manuel Sánchez Durán fue enterrado en El Cubo el 18 de julio de 1814 (el resumen daba el fallecimiento el 17-09-1814, con el mes equivocado), de modo que el fallecimiento pasa al 17-07-1814. En dos casos la fecha de fallecimiento del resumen era la del entierro y la partida no expresa otra: conforme al criterio de la familia, el fallecimiento se sitúa el día anterior (Francisco Tuda Porras, 25-11-1841; Josefa Pascual Lorenzo, 06-08-1863). Las fechas de nacimiento de Luisa Alonso Alonso (20-02-1751) y de Manuel Martín de Prada (25-11-1776) son en realidad las de sus bautismos; las partidas no expresan el nacimiento y se anota así. Tres nombres se amplían con los que da el bautismo: Baltasar Eusebio Brioso Martín, José Luis Francisco Rabanal Martínez y Miguel Manuel Cecilio Pérez Roncero. Tres bautismos de necesidad se fechan el día en que se administraron, con las ceremonias posteriores en nota (José Sastre, Manuel de las Heras y Margarita Girón).
 
-Rectificaciones a la sexta sesión tras cotejar las imágenes: el bautismo de Luisa Alonso Alonso llama a su abuela Antonia Ufano «natural de Morales», no de Roales, y se retira la observación que recogía esa supuesta discrepancia; en el de Bernarda Esteban la abuela paterna es «natural de Tudera»; el testigo de los bautismos de Fernando Maíllo y María Juana Morales es «Ubaldo de Silba», y el cura que bautizó a Ángela Vega firma «Domingo de la Sagra». Las notas de las fichas ya no remiten al resumen familiar. En dos bautismos de la quinta sesión la firma es «Dn Manuel Fernández», no «Fr.».
+Rectificaciones a la sexta sesión tras cotejar las imágenes: el bautismo de Luisa Alonso Alonso llama a su abuela Antonia Ufano «natural de Morales», no de Roales, y se retira la observación que recogía esa supuesta discrepancia; en el de Bernarda Esteban la abuela paterna es «natural de Tudera»; el testigo de los bautismos de Fernando Maíllo y María Juana Morales es «Ubaldo de Silba», y el cura que bautizó a Ángela Vega firma «Domingo de la Cagiga» (leído «de la Sagra» en esta sesión y corregido en la novena). Las notas de las fichas ya no remiten al resumen familiar. En dos bautismos de la quinta sesión la firma es «Dn Manuel Fernández», no «Fr.».
 
 Identificaciones que conviene conocer: el entierro de Josefa Pascual (1863) la llama «viuda de Manuel Magarro», no de Manuel de las Heras, su marido en el árbol; se enlaza por el nombre, el lugar, la edad y la identificación de la familia, y la duda queda en el registro. El de Josefa Garrote (1842) la llama viuda de Manuel Delgado, un segundo marido, y da ese apellido a su hijo Carlos. El de Manuel Sánchez Durán llama «Rosa Sánchez» a su mujer, y el de Rosa Izquierdo llama «Francisco Sánchez» a su primer marido. «Luisa Alonso González» (1788) es una tercera mujer de ese nombre, ajena al árbol, y «Muerte de Baltasar Brioso Alonso» es el fallecimiento de Baltasar Brioso Martín. Varias imágenes no muestran el final del asiento (José Sastre, Manuel Piorno, Manuel Sánchez Durán) y el registro lo indica.
 
 Pendiente: las carpetas «Tatarabuelos terceros» (134 imágenes sin registrar), cuartos (255), quintos (295), sextos (173), séptimos (48), «Otros familiares» (88) y «Abuelos» (9).
+
+**Novena sesión (11 y 12-11-2026): tatarabuelos terceros completos.** Se han leído las fotografías que quedaban en la carpeta «Tatarabuelos terceros» y se han cotejado de nuevo con las imágenes las quince partidas de la séptima sesión, varias de las cuales tenían huecos. Las 172 fotografías de la carpeta tienen ya asiento: 156 en [`sources/terceros-fotografias.json`](sources/terceros-fotografias.json) y 16 en el registro de la carpeta inicial. No hay fichas nuevas (1.135 personas). De las 64 personas de esa generación, 61 tienen ya transcrito su bautismo, 48 su matrimonio y 53 su fallecimiento o entierro, con las velaciones, las dispensas, las segundas nupcias, los testamentos, los hijos y los herederos que expresan las partidas.
+
+Correcciones a los resúmenes familiares por lectura directa:
+
+| Persona | Antes | Ahora | Motivo |
+| --- | --- | --- | --- |
+| Atilano Pascual y Teresa Lorenzo | Matrimonio el 23-11-1793 | 05-11-1793 | El 23 fueron las velaciones, anotadas al pie; el desposorio fue el 5. |
+| Bernardo Feltrero Esteban | Nació el 29-12-1731 | 29-12-1730 | El bautismo, del 7 de enero de 1731, dice «el día veinte y nuebe de diciembre del año de treinta». |
+| Bernardo Feltrero Esteban | Sin fallecimiento | 27-02-1777 | La partida solo expresa el entierro, el 28 de febrero de 1777; se registra el día anterior. |
+| Juana Ramos Martín | Nació el 29-06-1783 | 20-06-1783 | El bautismo, del 24 de junio, dice «nació el día veinte del mismo». |
+| Micaela Antón Figal | Nació el 12-03-1747 | 04-03-1747 | El 12 es el bautismo; la partida dice «nació día quatro del dho». |
+| Mónica Domínguez Martín | Nació el 30-10-1765; bautismo el 09-11-1765 | 30-11-1765 y 09-12-1765 | El escribano puso «Nobiembre» y se corrigió en la misma línea: «digo Diciembre». |
+| Manuela Vicenta Martínez Juárez | Bautismo el 13-07-1771, San Torcuato | 13-06-1771, San Lázaro | La partida es de junio, del libro de San Lázaro, extramuros; San Torcuato es la parroquia natal del padre. |
+| Gabriel Ibáñez Pérez | Bautismo en San Torcuato | San Lázaro | La partida es del libro de San Lázaro, extramuros. |
+| Francisco Alonso Ufano | Falleció el 13-02-1782 | 13-12-1782 | El entierro es del 14 de diciembre de 1782, entre asientos de noviembre y de enero; el resumen tenía el mes equivocado. |
+| José Piorno Zurdo | Falleció el 02-03-1779 | 11-02-1813 | El entierro es del 12 de febrero de 1813 y lo llama viudo de Teresa Piorno; el de ella, de 1791, lo da por vivo. La fecha anterior repetía el día y el mes de su boda. |
+| Lucas Esteban Prieto | Falleció el 13-05-1819 | 12-05-1819, en Fadón | El 13 es el entierro; la partida dice que murió el 12. |
+| Teresa Vega Zurdo | Falleció el 30-06-1833 | 28-06-1833 | El 30 es el entierro; la partida dice que falleció el 28. |
+
+Las fechas de nacimiento de Isabel Alonso Zamora (29-01-1714), Manuel Hernández Gaitán (03-04-1729) y Miguel Martín Avedillo (26-02-1748) son en realidad las de sus bautismos; las partidas no expresan el nacimiento y se anota así. En cuatro entierros la partida no dice el día de la muerte y el árbol ya la situaba el día anterior, conforme al criterio de la familia: Catalina Durán (1804), Gabriel Ibáñez (1801), Isabel Alonso Zamora (1791) y Teresa Lorenzo (1853). Pedro Calvo Pérez recibe el bautismo que le faltaba (28-11-1716) y Catalina Durán el suyo (01-10-1734; la partida dice «deste presente año», el de su nacimiento). Siete nombres se amplían con los del bautismo: Bernardo Víctor Rabanal Fernández, Francisca Antonia Martín Pérez, Gabriel Antonio Ibáñez Pérez, Isabel María Delgado Ramos, Juana del Sacramento Ramos Martín, Salvador Pedro Bragado Macías y Manuela Vicenta Antonia Martínez Juárez. El bautismo de Águeda Fierro, de necesidad, se fecha el día en que se suplieron las ceremonias, porque la partida no dice cuándo la bautizó el cura.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- El bautismo archivado como «Josefa Valladolid Ocampo» (25-02-1767) es el de una niña a la que se puso por nombre Josefa. El árbol atribuía su fecha de nacimiento, 18-02-1767, a Antonia Valladolid Ocampo, a quien su matrimonio y su entierro llaman Antonia. Se enlaza con ella, con una nota en el bautismo; el entierro le da 64 años en 1824 y sus padres casaron en 1759, de modo que Josefa podría ser una hermana menor.
+- El mes del bautismo de Teresa Terrón Campo está enmendado: sobre la palabra original se escribió «Henero» con otra tinta. Se conservan las fechas del árbol (8 y 15 de junio de 1743).
+- El bautismo de Joaquina Roncero (22-03-1748) empieza diciendo que nació ese día y añade entre paréntesis «q nació el día tre de este mes». Se conserva el nacimiento del árbol, con una nota.
+- «Juan Pérez Miguel b» es el bautismo de un hermano mayor del mismo nombre (1740), con la nota marginal «murió»; queda sin enlazar.
+- Segundas y terceras nupcias que el árbol no recogía: Catalina Gonzalo consta en su entierro como viuda de Miguel Vega; Fernando Girón, como marido de María Alonso; Alonso de las Heras casó cuatro veces. Constan como observaciones, sin fichas nuevas.
+
+Firmas corregidas por comparación entre partidas, también en las sesiones anteriores: el cura de Gáname de 1744 a 1763 es Tomás Sáez de Angulo y Varredo (un bautismo de 1747 escribe entero «Sáez de Varredo»; su firma abreviada pasa de «Rz» a «Sz»), y el de 1767 a 1777, «Domingo de la Cagiga»; «fr. Joseph Ygnº de Castro» firma el matrimonio Feltrero–Gonzalo; «Barme Díez Berde», el bautismo de Bernardo Morales; «Dn Bernardo Roncero», sin más palabras, el de Margarita Girón. En las partidas de la séptima sesión, el testamentario de Agustina Garrote es Pedro Santiago; el de Antonia Valladolid, José Perdigón, y Teresa Terrón pidió el hábito «de la Aldea».
+
+Pendiente: las carpetas de tatarabuelos cuartos (255 imágenes sin registrar), quintos (295), sextos (173), séptimos (48), «Otros familiares» (88) y «Abuelos» (9).
 
 ## Rama Unzueta de Arrasate
 
