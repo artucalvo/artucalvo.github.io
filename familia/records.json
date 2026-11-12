@@ -2051,10 +2051,11 @@
     },
     {
       "id": "manuel-unzueta",
-      "name": "Manuel Unzueta",
+      "name": "Manuel Unzueta Bobillo",
       "givenNames": "Manuel",
       "surnames": [
-        "Unzueta"
+        "Unzueta",
+        "Bobillo"
       ],
       "birth": {
         "place": "Villardeciervos"
@@ -2068,8 +2069,13 @@
           "place": "Villardeciervos"
         }
       ],
-      "father": "cristobal-unzueta-padre-de-manuel",
-      "mother": "maria-junquera-mujer-de-cristobal-unzueta"
+      "father": "francisco-antonio-unzueta-ormacho",
+      "mother": "tomasa-bobillo",
+      "baptism": {
+        "date": "1766-11-29",
+        "place": "Villardeciervos",
+        "note": "El índice de bautismos da el nombre Francisco."
+      }
     },
     {
       "id": "francisca-rodriguez-mujer-de-manuel-unzueta",
@@ -23613,21 +23619,6 @@
       "mother": "tomasa-bobillo",
       "baptism": {
         "date": "1764-08-06",
-        "place": "Villardeciervos"
-      }
-    },
-    {
-      "id": "francisco-unzueta-bobillo-1766",
-      "name": "Francisco Unzueta Bobillo",
-      "givenNames": "Francisco",
-      "surnames": [
-        "Unzueta",
-        "Bobillo"
-      ],
-      "father": "francisco-antonio-unzueta-ormacho",
-      "mother": "tomasa-bobillo",
-      "baptism": {
-        "date": "1766-11-29",
         "place": "Villardeciervos"
       }
     },
