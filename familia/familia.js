@@ -118,13 +118,8 @@ function locationPerson() {
   return ID_PATTERN.test(person || '') ? person : catalog.defaultPerson;
 }
 
-function updateRootTabs() {
-  document.querySelectorAll('[data-root-id]').forEach(node => {
-    const active = node.dataset.rootId === activeId;
-    node.classList.toggle('is-active', active);
-    node.setAttribute('aria-pressed', String(active));
-  });
-  $('#tree-back').hidden = rootHistory.length === 0;
+function updateBackButton() {
+  $('.tree-navigation').hidden = rootHistory.length === 0;
 }
 
 async function navigate(id, { writeURL = true, remember = true, focus = false, scrollToProfile = focus } = {}) {
@@ -134,7 +129,7 @@ async function navigate(id, { writeURL = true, remember = true, focus = false, s
     if (rootHistory.length > 30) rootHistory.shift();
   }
   activeId = id;
-  updateRootTabs();
+  updateBackButton();
   if (writeURL) updateURL();
   await Promise.all([renderTree(), renderProfile(id, focus)]);
   // Last, because centering the tree would cancel a smooth page scroll in progress.
@@ -247,6 +242,8 @@ function applyZoom() {
   $('#tree-canvas').style.transform = `scale(${zoom})`;
   $('#tree-canvas').style.left = `${Math.max(0, (viewport.clientWidth - treeWidth * zoom) / 2)}px`;
   $('#tree-canvas').style.top = `${Math.max(0, (viewport.clientHeight - treeHeight * zoom) / 2)}px`;
+  // On narrow screens the viewport shrinks to the tree, so no empty band sits above it.
+  viewport.style.setProperty('--tree-fit', `${Math.ceil(treeHeight * zoom)}px`);
   $('#zoom-level').textContent = `${Math.round(zoom * 100)} %`;
   $('#zoom-out').disabled = zoom <= 0.6;
   $('#zoom-in').disabled = zoom >= 1.4;
@@ -641,16 +638,8 @@ async function init() {
     $('#people-count').textContent = catalog.stats.people;
     $('#surname-count').textContent = catalog.stats.surnames;
     $('#place-count').textContent = catalog.stats.places;
-    for (const branch of catalog.branches) {
-      for (const person of branch.roots) {
-        const tab = button(person.name, 'root-tab', () => navigate(person.id));
-        tab.dataset.rootId = person.id;
-        tab.title = branch.label;
-        $('#root-tabs').append(tab);
-      }
-    }
     activeId = locationPerson();
-    updateRootTabs();
+    updateBackButton();
     await Promise.all([renderTree(), renderProfile(activeId)]);
   } catch (error) {
     const errorBox = $('#app-error');

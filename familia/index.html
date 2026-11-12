@@ -41,13 +41,13 @@
           <button type="button" class="view-tab" data-open-index="surnames"><span>Apellidos (<span id="surname-count">—</span>)</span></button>
           <button type="button" class="view-tab" data-open-index="places"><span>Lugares (<span id="place-count">—</span>)</span></button>
         </div>
-        <div class="starting-point"><span class="branch-label">Punto de partida</span><div id="root-tabs" class="root-tabs" aria-label="Volver al inicio del árbol familiar"></div></div>
         <button type="button" class="search-trigger" data-open-index="people" aria-label="Buscar en el archivo"><svg class="icon"><use href="#i-search"/></svg><span>Buscar en el archivo</span><kbd>/</kbd></button>
       </div>
       <div id="app-error" class="app-error" role="alert" hidden></div>
       <div class="explorer-layout">
-        <section class="tree-panel" aria-label="Árbol familiar"><div class="tree-heading"><label class="generation-control">Generaciones<select id="generation-depth"><option value="1" selected>2</option><option value="2">3</option></select></label></div><div class="tree-navigation"><button id="tree-back" class="text-button" hidden><svg class="icon small"><use href="#i-arrow-left"/></svg>Volver a la rama anterior</button></div>
-          <div id="tree-viewport" class="tree-viewport" tabindex="0" role="region" aria-label="Árbol genealógico. Desplázate para recorrerlo y pulsa una persona para ver su ficha."><div id="tree-sizer" class="tree-sizer"><div id="tree-canvas" class="tree-canvas"><p class="loading-message">Preparando nuestras raíces…</p></div></div></div>
+        <section class="tree-panel" aria-label="Árbol familiar"><div class="tree-navigation" hidden><button id="tree-back" class="text-button"><svg class="icon small"><use href="#i-arrow-left"/></svg>Volver a la rama anterior</button></div>
+          <div class="tree-stage"><div id="tree-viewport" class="tree-viewport" tabindex="0" role="region" aria-label="Árbol genealógico. Desplázate para recorrerlo y pulsa una persona para ver su ficha."><div id="tree-sizer" class="tree-sizer"><div id="tree-canvas" class="tree-canvas"><p class="loading-message">Preparando nuestras raíces…</p></div></div></div>
+            <label class="generation-control">Generaciones<select id="generation-depth"><option value="1" selected>2</option><option value="2">3</option></select></label></div>
           <div class="tree-bottom"><span class="tree-hint"><span class="status-dot"></span>Pulsa una persona para descubrir su historia</span><div class="tree-controls" aria-label="Controles del árbol"><button id="zoom-out" class="icon-button" aria-label="Alejar el árbol"><svg class="icon"><use href="#i-minus"/></svg></button><output id="zoom-level" aria-live="polite">100 %</output><button id="zoom-in" class="icon-button" aria-label="Acercar el árbol"><svg class="icon"><use href="#i-plus"/></svg></button><span class="control-divider"></span><button id="center-tree" class="icon-button" aria-label="Centrar el árbol"><svg class="icon"><use href="#i-center"/></svg></button></div></div>
         </section>
         <aside id="person-panel" class="person-panel" aria-label="Ficha de la persona seleccionada" aria-busy="true"><p class="loading-message">Cargando la ficha…</p></aside>
