@@ -82,21 +82,21 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
   const active = ancestors[0].person;
   const maxLevel = Math.max(...ancestors.map(node => node.level));
   const siblingGap = 12;
-  const siblingWidth = compact ? 132 : 176;
-  const siblingHeight = compact ? 98 : 88;
   const siblingCounts = new Map();
   const upperOwners = new Set(ancestors.filter(node => node.level > 0).map(node => node.person.id));
-  for (const item of siblings.filter(item => upperOwners.has(item.ownerId))) siblingCounts.set(item.ownerId, (siblingCounts.get(item.ownerId) || 0) + 1);
-  const maxSiblings = Math.max(0, ...siblingCounts.values());
-  // Reserve enough space even when a sibling is also a direct ancestor and
-  // uses a full-sized card.
-  const leafSpacing = Math.max(size.leafSpacing, cardWidth + maxSiblings * (cardWidth + siblingGap) + siblingGap);
+  for (const item of siblings.filter(item => upperOwners.has(item.ownerId))) {
+    const width = item.person.isDirectAncestor ? cardWidth : CIRCLE_SIZE;
+    siblingCounts.set(item.ownerId, (siblingCounts.get(item.ownerId) || 0) + width + siblingGap);
+  }
+  // Two adjacent branches can both extend towards the space between them.
+  const maxSiblingWidth = Math.max(0, ...siblingCounts.values());
+  const leafSpacing = Math.max(size.leafSpacing, cardWidth + 2 * maxSiblingWidth + siblingGap);
   const spread = 2 ** maxLevel * leafSpacing;
   const partnerOffset = cardWidth + size.coupleGap;
 
   const ancestorCards = ancestors.map(node => ({
     ...node,
-    relation: [ancestorRelation(node), ...siblingLinks.filter(link => link.ownerId === node.person.id).map(link => `Hermano/a de ${link.siblingName}`)].filter(Boolean).join(" · "),
+    relation: [ancestorRelation(node), ...(siblingLinks.some(link => link.ownerId === node.person.id) ? ['Hermano/a'] : [])].filter(Boolean).join(" · "),
     isActive: node.level === 0,
     center: ((node.slot + 0.5) / 2 ** node.level - 0.5) * spread,
   }));
@@ -109,27 +109,32 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
     sharedChildren,
   }));
   const cards = [...ancestorCards, ...partnerCards];
-  const siblingCards = [];
-  for (const card of cards.filter(card => card.level > 0)) {
-    let right = card.center + cardWidth / 2 + siblingGap;
+  const siblingItems = [];
+  // Each ancestral pair opens outwards: father to the left, mother to the right.
+  function placeSiblings(card, side, edge) {
+    let cursor = edge;
     for (const item of siblings.filter(item => item.ownerId === card.person.id)) {
       const fullSize = Boolean(item.person.isDirectAncestor);
-      const width = fullSize ? cardWidth : siblingWidth;
-      const height = fullSize ? cardHeight : siblingHeight;
-      siblingCards.push({ ...item, owner: card, center: right + width / 2, width, height, fullSize });
-      right += width + siblingGap;
+      const width = fullSize ? cardWidth : CIRCLE_SIZE;
+      const height = fullSize ? cardHeight : CIRCLE_SIZE;
+      const center = cursor + side * (siblingGap + width / 2);
+      siblingItems.push({ ...item, owner: card, center, width, height, fullSize, side });
+      cursor += side * (siblingGap + width);
     }
+    return cursor;
   }
-  // Partners occupy the active row, so place its sibling groups beyond them.
-  let right = Math.max(...cards.filter(card => card.level === 0).map(card => card.center + cardWidth / 2)) + siblingGap;
-  for (const card of cards.filter(card => card.level === 0)) {
-    for (const item of siblings.filter(item => item.ownerId === card.person.id)) {
-      const fullSize = Boolean(item.person.isDirectAncestor);
-      const width = fullSize ? cardWidth : siblingWidth;
-      const height = fullSize ? cardHeight : siblingHeight;
-      siblingCards.push({ ...item, owner: card, center: right + width / 2, width, height, fullSize });
-      right += width + siblingGap;
-    }
+  for (const card of ancestorCards.filter(card => card.level > 0)) {
+    const side = card.slot % 2 === 0 ? -1 : 1;
+    placeSiblings(card, side, card.center + side * cardWidth / 2);
+  }
+  // The active person and their partner(s) use the outside of the couple.
+  const activeCards = cards.filter(card => card.level === 0);
+  let left = Math.min(...activeCards.map(card => card.center - cardWidth / 2));
+  let right = Math.max(...activeCards.map(card => card.center + cardWidth / 2));
+  for (const card of [...activeCards].sort((a, b) => Number(a.isActive) - Number(b.isActive))) {
+    const side = card.isActive ? -1 : Math.sign(card.center);
+    if (side < 0) left = placeSiblings(card, side, left);
+    else right = placeSiblings(card, side, right);
   }
 
   // The parents of the farthest visible ancestors, and those of a partner, are
@@ -137,7 +142,12 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
   // fit in the gap under the row of parents.
   const cardsWithParentCircles = cards
     .filter(card => (card.level === depth || partnerCards.includes(card)) && card.person.parentSummaries?.length);
-  const headroom = cardsWithParentCircles.some(card => card.level === maxLevel) ? CIRCLE_SIZE + circleLinkGap : 0;
+  const needsOuterRoute = siblingItems.some(item => item.owner.level === 0 && cards.some(other => other !== item.owner && other.level === 0 &&
+    (other.center - item.owner.center) * item.side > 0 && (item.center - other.center) * item.side > 0));
+  const headroom = Math.max(
+    cardsWithParentCircles.some(card => card.level === maxLevel) ? CIRCLE_SIZE + circleLinkGap : 0,
+    needsOuterRoute && maxLevel === 0 ? CIRCLE_SIZE + circleLinkGap + 6 : 0,
+  );
   const rowY = level => size.paddingY + headroom + (maxLevel - level) * (cardHeight + size.rowGap);
   const activeY = rowY(0);
   const activeBottom = activeY + cardHeight;
@@ -170,7 +180,7 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
   const reach = Math.max(
     ...cards.map(card => Math.abs(card.center) + cardWidth / 2),
     ...circles.map(circle => Math.abs(circle.center) + CIRCLE_SIZE / 2),
-    ...siblingCards.map(card => Math.abs(card.center) + card.width / 2),
+    ...siblingItems.map(card => Math.abs(card.center) + card.width / 2),
   );
   const width = 2 * (reach + size.paddingX);
   const height = (childCircles.length ? childRowY + CIRCLE_SIZE : activeBottom) + size.paddingY;
@@ -188,10 +198,30 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
       connections.push(`M ${canvasX(center)} ${top - circleLinkGap} V ${top - circleLinkGap / 2} H ${canvasX(card.center)} V ${top}`);
     }
   }
-  for (const card of siblingCards) {
-    const top = rowY(card.owner.level);
-    const siblingTop = top + (cardHeight - card.height) / 2;
-    connections.push(`M ${canvasX(card.owner.center)} ${top} V ${top - 8} H ${canvasX(card.center)} V ${siblingTop}`);
+  const siblingConnections = [];
+  for (const owner of cards) {
+    const items = siblingItems.filter(item => item.owner === owner);
+    if (!items.length) continue;
+    // Route above a partner that sits between the owner and their group. The
+    // route also clears the partner's parent circles and their connecting lines.
+    const side = items[0].side;
+    const blocked = cards.some(other => other !== owner && other.level === owner.level &&
+      (other.center - owner.center) * side > 0 && (items[0].center - other.center) * side > 0);
+    let edge = owner.center + side * cardWidth / 2;
+    const y = rowY(owner.level) + cardHeight / 2;
+    if (blocked) {
+      const first = items[0];
+      const routeY = rowY(owner.level) - CIRCLE_SIZE - circleLinkGap - 5;
+      const anchor = owner.center + side * cardWidth / 4;
+      const firstTop = rowY(owner.level) + (cardHeight - first.height) / 2;
+      siblingConnections.push(`M ${canvasX(anchor)} ${rowY(owner.level)} V ${routeY} H ${canvasX(first.center)} V ${firstTop}`);
+      edge = first.center + side * first.width / 2;
+    }
+    for (const item of blocked ? items.slice(1) : items) {
+      const near = item.center - side * item.width / 2;
+      siblingConnections.push(`M ${canvasX(edge)} ${y} H ${canvasX(near)}`);
+      edge = item.center + side * item.width / 2;
+    }
   }
   for (const card of partnerCards) {
     const side = Math.sign(card.center);
@@ -211,10 +241,19 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
     circleSize: CIRCLE_SIZE,
     activeCenterY: coupleLineY,
     cards: cards.map(({ person, relation, isActive, center, level }) => ({ person, relation, isActive, x: canvasX(center) - cardWidth / 2, y: rowY(level) })),
-    siblingCards: siblingCards.map(({ person, owner, center, width, height, fullSize }) => ({
-      person, ownerId: owner.person.id, relation: `Hermano/a de ${owner.person.name}${fullSize ? " · Ascendiente directo" : ""}`, fullSize, width, height,
+    siblingCards: siblingItems.filter(item => item.fullSize).map(({ person, owner, center, width, height }) => ({
+      person, ownerId: owner.person.id, relation: 'Hermano/a', fullSize: true, width, height,
+      x: canvasX(center) - width / 2, y: rowY(owner.level),
+    })),
+    siblingCircles: siblingItems.filter(item => !item.fullSize).map(({ person, owner, center, width, height }) => ({
+      person, ownerId: owner.person.id, relation: 'Hermano/a', width, height,
       x: canvasX(center) - width / 2, y: rowY(owner.level) + (cardHeight - height) / 2,
     })),
+    siblingLabels: cards.flatMap(owner => {
+      const first = siblingItems.find(item => item.owner === owner && !item.fullSize);
+      return first ? [{ x: canvasX(first.center), y: rowY(owner.level) + (cardHeight - CIRCLE_SIZE) / 2 - 16, text: 'Hermano/a' }] : [];
+    }),
+    siblingConnections,
     circles: circles.map(({ person, center, y }) => ({ person, x: canvasX(center) - CIRCLE_SIZE / 2, y })),
     connections,
   };

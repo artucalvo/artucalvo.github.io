@@ -88,6 +88,7 @@ const relation = (layout, id) => card(layout, id).relation;
 const boxes = layout => [
   ...layout.cards.map(item => ({ name: `card ${item.person.id}`, x: item.x, y: item.y, width: layout.cardWidth, height: layout.cardHeight })),
   ...layout.siblingCards.map(item => ({ name: `sibling ${item.person.id}`, x: item.x, y: item.y, width: item.width, height: item.height })),
+  ...layout.siblingCircles.map(item => ({ name: `sibling circle ${item.person.id}`, x: item.x, y: item.y, width: item.width, height: item.height })),
   ...layout.circles.map(item => ({ name: `circle ${item.person.id}`, x: item.x, y: item.y, width: layout.circleSize, height: layout.circleSize })),
 ];
 
@@ -332,7 +333,7 @@ test('everything stays on the canvas', async () => {
 
 test('connections never run through a card or a circle', async () => {
   await everyLayout((layout, context) => {
-    for (const path of layout.connections) {
+    for (const path of [...layout.connections, ...layout.siblingConnections]) {
       const line = points(path);
       for (const [index, from] of line.slice(0, -1).entries()) {
         const to = line[index + 1];
@@ -389,12 +390,12 @@ test('siblings from shared parents and explicit links appear as distinct nodes',
   const tree = await collectTree('a', 1, async id => people.get(id));
   assert.deepEqual(tree.siblings.map(item => item.person.id).sort(), ['b', 'direct', 'explicit']);
   const layout = layoutTree({ ...tree, depth: 1 });
-  const sibling = layout.siblingCards.find(item => item.person.id === 'b');
+  const sibling = layout.siblingCircles.find(item => item.person.id === 'b');
   const direct = layout.siblingCards.find(item => item.person.id === 'direct');
-  assert.match(sibling.relation, /Hermano\/a de a name/);
-  assert.ok(sibling.width < layout.cardWidth);
+  assert.equal(sibling.relation, 'Hermano/a');
+  assert.equal(sibling.width, layout.circleSize);
   assert.equal(direct.width, layout.cardWidth);
-  assert.match(direct.relation, /Ascendiente directo/);
+  assert.equal(direct.relation, 'Hermano/a');
   const all = boxes(layout);
   for (const [index, a] of all.entries()) {
     for (const b of all.slice(index + 1)) {
@@ -411,6 +412,60 @@ test('a sibling already shown as an ancestor is not duplicated and keeps its anc
   ].map(person => [person.id, person]));
   const layout = layoutTree({ ...await collectTree('a', 1, async id => people.get(id)), depth: 1 });
   assert.equal(layout.siblingCards.length, 0);
-  assert.match(card(layout, 'p').relation, /Padre.*Hermano\/a de q name/);
-  assert.match(card(layout, 'q').relation, /Madre.*Hermano\/a de p name/);
+  assert.match(card(layout, 'p').relation, /Padre.*Hermano\/a/);
+  assert.match(card(layout, 'q').relation, /Madre.*Hermano\/a/);
+});
+
+test('siblings sit on the outside of each parental branch, including large groups', () => {
+  const ancestors = [
+    { person: summary('child'), level: 0, slot: 0 },
+    { person: summary('father'), level: 1, slot: 0 },
+    { person: summary('mother'), level: 1, slot: 1 },
+  ];
+  const siblings = [
+    ...Array.from({ length: 12 }, (_, index) => ({ ownerId: 'father', person: summary(`f${index}`) })),
+    ...Array.from({ length: 12 }, (_, index) => ({ ownerId: 'mother', person: summary(`m${index}`) })),
+  ];
+  for (const compact of [false, true]) {
+    const layout = layoutTree({ ancestors, siblings, depth: 1, compact });
+    const father = card(layout, 'father');
+    const mother = card(layout, 'mother');
+    for (const item of layout.siblingCircles) {
+      if (item.ownerId === 'father') assert.ok(item.x + item.width < father.x);
+      else assert.ok(item.x > mother.x + layout.cardWidth);
+    }
+    assert.equal(layout.siblingLabels.length, 2);
+    assert.equal(layout.siblingConnections.length, siblings.length);
+    for (const [index, a] of boxes(layout).entries()) {
+      for (const b of boxes(layout).slice(index + 1)) {
+        assert.ok(a.x + a.width <= b.x || b.x + b.width <= a.x || a.y + a.height <= b.y || b.y + b.height <= a.y, `${a.name} overlaps ${b.name}`);
+      }
+    }
+  }
+});
+
+test('María and Antonio Unzueta Fernández retain ancestor cards as siblings', async () => {
+  for (const [active, sibling] of [
+    ['maria-unzueta-fernandez', 'antonio-unzueta-fernandez'],
+    ['antonio-unzueta-fernandez', 'maria-unzueta-fernandez'],
+  ]) {
+    const layout = await realLayout(active);
+    const node = layout.siblingCards.find(item => item.person.id === sibling);
+    assert.equal(node.width, layout.cardWidth);
+    assert.equal(node.height, layout.cardHeight);
+    assert.equal(node.relation, 'Hermano/a');
+  }
+});
+
+test('a sibling beyond a second partner has a clear connector around the partner', async () => {
+  for (const compact of [false, true]) {
+    const layout = await realLayout('manuel-hernandez-gaitan', 1, compact);
+    const active = activeCard(layout);
+    const sibling = layout.siblingCards.find(item => item.person.id === 'teodora-hernandez');
+    assert.ok(sibling);
+    const line = layout.siblingConnections.find(path => startsAt(path, active.x + layout.cardWidth / 4, active.y));
+    assert.ok(line, 'sibling connector starts at the active person');
+    assert.ok(endsAt(line, sibling.x + sibling.width / 2, sibling.y), 'sibling connector ends at the sibling');
+    assert.ok(points(line).slice(1, -1).every(point => point.y < active.y), 'connector passes above the partner and spouse line');
+  }
 });

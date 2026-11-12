@@ -1,5 +1,5 @@
 import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=3';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=4';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -148,12 +148,11 @@ function centerOnPerson(id) {
   navigate(id, { focus: true, scrollToProfile: false });
 }
 
-function personCard({ person, relation, isActive, x, y, fullSize, width: ownWidth, height }, width) {
-  const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}${ownWidth ? ' is-sibling' : ''}${fullSize ? ' is-ancestor-sibling' : ''}`);
+function personCard({ person, relation, isActive, x, y, width: ownWidth }, width) {
+  const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}`);
   wrapper.style.left = `${x}px`;
   wrapper.style.top = `${y}px`;
   wrapper.style.width = `${ownWidth || width}px`;
-  if (height) wrapper.style.setProperty('--sibling-height', `${height}px`);
   const card = element('button', 'person-node');
   card.type = 'button';
   card.setAttribute('aria-label', `Ver ficha de ${person.name}${ownWidth ? `, ${relation}` : ''}`);
@@ -175,16 +174,16 @@ function personCard({ person, relation, isActive, x, y, fullSize, width: ownWidt
   return wrapper;
 }
 
-function personCircle({ person, x, y }, size) {
-  const circle = element('button', 'tree-circle', initials(person));
+function personCircle({ person, x, y, ownerName }, size) {
+  const circle = element('button', `tree-circle${ownerName ? ' is-sibling' : ''}`, initials(person));
   circle.type = 'button';
-  circle.title = person.name;
-  circle.setAttribute('aria-label', `Ver ficha de ${person.name}`);
+  circle.title = ownerName ? 'Hermano/a' : person.name;
+  circle.setAttribute('aria-label', `Ver ficha de ${person.name}${ownerName ? `, hermano/a de ${ownerName}` : ''}`);
   circle.style.left = `${x}px`;
   circle.style.top = `${y}px`;
   circle.style.width = `${size}px`;
   circle.style.height = `${size}px`;
-  circle.addEventListener('click', () => centerOnPerson(person.id));
+  circle.addEventListener('click', () => ownerName ? navigate(person.id, { focus: true }) : centerOnPerson(person.id));
   return circle;
 }
 
@@ -212,13 +211,28 @@ async function renderTree() {
       path.setAttribute('d', connection);
       lines.append(path);
     }
-    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.siblingCards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)));
-    siblingTargets = [...layout.siblingCards].sort((a, b) => Number(b.ownerId === activeId) - Number(a.ownerId === activeId));
+    for (const connection of layout.siblingConnections) {
+      const path = document.createElementNS(SVG_NS, 'path');
+      path.classList.add('sibling-connection');
+      path.setAttribute('d', connection);
+      lines.append(path);
+    }
+    const ownerNames = new Map([...tree.ancestors.map(({ person }) => person), ...tree.partners.map(({ person }) => person)].map(person => [person.id, person.name]));
+    const siblingCircles = layout.siblingCircles.map(circle => ({ ...circle, ownerName: ownerNames.get(circle.ownerId) }));
+    const labels = layout.siblingLabels.map(({ x, y, text }) => {
+      const label = element('span', 'sibling-label', text);
+      label.style.left = `${x}px`;
+      label.style.top = `${y}px`;
+      label.setAttribute('aria-hidden', 'true');
+      return label;
+    });
+    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.siblingCards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)), ...siblingCircles.map(circle => personCircle(circle, layout.circleSize)), ...labels);
+    siblingTargets = [...layout.siblingCards, ...siblingCircles].sort((a, b) => Number(b.ownerId === activeId) - Number(a.ownerId === activeId));
     siblingTargetIndex = 0;
     const siblingButton = $('#tree-siblings');
     siblingButton.hidden = !siblingTargets.length;
     siblingButton.textContent = `Ver hermanos/as (${siblingTargets.length})`;
-    const shown = layout.cards.length + layout.siblingCards.length + layout.circles.length;
+    const shown = layout.cards.length + layout.siblingCards.length + layout.circles.length + siblingCircles.length;
     $('#tree-context').textContent = `${tree.ancestors[0].person.name} · ${shown} ${shown === 1 ? 'persona' : 'personas'} en esta vista`;
     applyZoom();
     centerTree();
