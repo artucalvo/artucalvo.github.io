@@ -1,0 +1,869 @@
+{
+  "schemaVersion": 1,
+  "batch": "Rama Unzueta: índice de bautismos de Villardeciervos",
+  "reviewedOn": "2026-11-12",
+  "source": {
+    "description": "Hoja de cálculo «Bautismos Villardeciervos. Apellido Unzueta», aportada por la familia, con dos pestañas: «Unzueta de primero» (34 bautismos, 1723-1874) y «Unzueta de segundo» (33 bautismos, 1794-1875). Cada fila da nombre, apellidos, nombres de pila de los padres, fecha, tomo y folio del libro de bautismos de Villardeciervos.",
+    "interpretation": "Las fechas son las del bautismo. El índice no da los apellidos de los padres ni el texto de los asientos, por lo que los eventos no llevan transcripción. Una familia se enlaza solo cuando los nombres de los dos padres y las fechas coinciden con una pareja del árbol sin otra candidata."
+  },
+  "records": [
+    {
+      "sheet": "Unzueta de primero",
+      "row": 1,
+      "baptized": "Pascuala Unzueta Macho",
+      "father": "Cristobal",
+      "mother": "Isabel",
+      "date": "1723-04-07",
+      "tomo": 1,
+      "folio": 62,
+      "status": "applied",
+      "appliedTo": [
+        "pascuala-unzueta-hermano-de-francisco-antonio-unzueta-ormacho.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 2,
+      "baptized": "Cristobal Unzueta Romero",
+      "father": "Francisco",
+      "mother": "Isabel",
+      "date": "1746-06-01",
+      "tomo": 2,
+      "folio": 6,
+      "status": "applied",
+      "appliedTo": [
+        "cristobal-unzueta-padre-de-manuel.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 3,
+      "baptized": "Francisco Unzueta Bobillo",
+      "father": "Francisco",
+      "mother": "Tomasa",
+      "date": "1764-08-06",
+      "tomo": 2,
+      "folio": 77,
+      "status": "pendingDecision",
+      "note": "Francisco y Tomasa (Bobillo): el padre puede ser Francisco Antonio Unzueta Ormacho en un segundo matrimonio o un hijo suyo no documentado."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 4,
+      "baptized": "Francisco Unzueta Bobillo",
+      "father": "Francisco",
+      "mother": "Tomasa",
+      "date": "1766-11-29",
+      "tomo": 2,
+      "folio": 88,
+      "status": "pendingDecision",
+      "note": "Francisco y Tomasa (Bobillo): como la fila anterior."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 5,
+      "baptized": "Isabel Unzueta Junquera",
+      "father": "Cristobal",
+      "mother": "María",
+      "date": "1769-08-08",
+      "tomo": 2,
+      "folio": 105,
+      "status": "applied",
+      "appliedTo": [
+        "isabel-unzueta-junquera"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 6,
+      "baptized": "Antonio Unzueta Junquera",
+      "father": "Cristobal",
+      "mother": "María",
+      "date": "1771-09-10",
+      "tomo": 2,
+      "folio": 116,
+      "status": "applied",
+      "appliedTo": [
+        "antonio-unzueta-junquera"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 7,
+      "baptized": "María Unzueta Junquera",
+      "father": "Cristobal",
+      "mother": "María",
+      "date": "1774-05-12",
+      "tomo": 2,
+      "folio": 137,
+      "status": "applied",
+      "appliedTo": [
+        "maria-unzueta-junquera"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 8,
+      "baptized": "Manuel Unzueta Junquera",
+      "father": "Manuel",
+      "mother": "Manuela",
+      "date": "1791-04-11",
+      "tomo": 3,
+      "folio": 82,
+      "status": "applied",
+      "appliedTo": [
+        "manuel-unzueta-junquera"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 9,
+      "baptized": "Domingo Unzueta Junquera",
+      "father": "Manuel",
+      "mother": "Manuela",
+      "date": "1800-07-26",
+      "tomo": 4,
+      "folio": 3,
+      "status": "applied",
+      "appliedTo": [
+        "domingo-unzueta-junquera"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 10,
+      "baptized": "Catalina Unzueta Rodríguez",
+      "father": "Manuel",
+      "mother": "Francisca",
+      "date": "1806-10-25",
+      "tomo": 4,
+      "folio": 98,
+      "status": "pendingDecision",
+      "note": "Manuel y Francisca (Rodríguez), 1806-1820: el padre puede ser Manuel Unzueta en un segundo matrimonio tras el último hijo con Manuela Junquera (1800)."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 11,
+      "baptized": "Dominga Unzueta Rodríguez",
+      "father": "Manuel",
+      "mother": "Francisca",
+      "date": "1810-07-29",
+      "tomo": 4,
+      "folio": 136,
+      "status": "pendingDecision",
+      "note": "Manuel y Francisca (Rodríguez), 1806-1820: el padre puede ser Manuel Unzueta en un segundo matrimonio tras el último hijo con Manuela Junquera (1800)."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 12,
+      "baptized": "Francisca Unzueta Rodríguez",
+      "father": "Manuel",
+      "mother": "Francisca",
+      "date": "1813-02-07",
+      "tomo": 4,
+      "folio": 173,
+      "status": "pendingDecision",
+      "note": "Manuel y Francisca (Rodríguez), 1806-1820: el padre puede ser Manuel Unzueta en un segundo matrimonio tras el último hijo con Manuela Junquera (1800)."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 13,
+      "baptized": "María Unzueta Rodríguez",
+      "father": "Manuel",
+      "mother": "Francisca",
+      "date": "1816-10-06",
+      "tomo": 5,
+      "folio": 27,
+      "status": "pendingDecision",
+      "note": "Manuel y Francisca (Rodríguez), 1806-1820: el padre puede ser Manuel Unzueta en un segundo matrimonio tras el último hijo con Manuela Junquera (1800)."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 14,
+      "baptized": "Bartolomé Unzueta Rodríguez",
+      "father": "Manuel",
+      "mother": "Francisca",
+      "date": "1820-04-09",
+      "tomo": 5,
+      "folio": 68,
+      "status": "pendingDecision",
+      "note": "Manuel y Francisca (Rodríguez), 1806-1820: el padre puede ser Manuel Unzueta en un segundo matrimonio tras el último hijo con Manuela Junquera (1800)."
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 15,
+      "baptized": "María Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1822-11-27",
+      "tomo": 5,
+      "folio": 102,
+      "status": "applied",
+      "appliedTo": [
+        "maria-unzueta-fernandez.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 16,
+      "baptized": "Teresa Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1824-02-23",
+      "tomo": 5,
+      "folio": 120,
+      "status": "applied",
+      "appliedTo": [
+        "teresa-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 17,
+      "baptized": "Pedro Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1825-04-03",
+      "tomo": 5,
+      "folio": 134,
+      "status": "applied",
+      "appliedTo": [
+        "pedro-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 18,
+      "baptized": "Francisco Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1826-12-10",
+      "tomo": 5,
+      "folio": 156,
+      "status": "applied",
+      "appliedTo": [
+        "francisco-unzueta-fernandez-1826"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 19,
+      "baptized": "Dominga Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1828-11-16",
+      "tomo": 5,
+      "folio": 185,
+      "status": "applied",
+      "appliedTo": [
+        "dominga-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 20,
+      "baptized": "José Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1830-10-20",
+      "tomo": 6,
+      "folio": 16,
+      "status": "applied",
+      "appliedTo": [
+        "jose-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 21,
+      "baptized": "Antonio Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1832-12-12",
+      "tomo": 6,
+      "folio": 54,
+      "status": "applied",
+      "appliedTo": [
+        "antonio-unzueta-fernandez.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 22,
+      "baptized": "Antonia Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1835-08-17",
+      "tomo": 6,
+      "folio": 95,
+      "status": "applied",
+      "appliedTo": [
+        "antonia-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 23,
+      "baptized": "Josefa Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1835-08-17",
+      "tomo": 6,
+      "folio": 95,
+      "status": "applied",
+      "appliedTo": [
+        "josefa-unzueta-fernandez-1835"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 24,
+      "baptized": "Manuel Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1837-11-09",
+      "tomo": 6,
+      "folio": 126,
+      "status": "applied",
+      "appliedTo": [
+        "manuel-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 25,
+      "baptized": "Domingo Unzueta Fernández",
+      "father": "Francisco",
+      "mother": "María",
+      "date": "1839-08-14",
+      "tomo": 6,
+      "folio": 142,
+      "status": "applied",
+      "appliedTo": [
+        "domingo-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 26,
+      "baptized": "José Unzueta Ferreras",
+      "father": "Bartolomé",
+      "mother": "Juana",
+      "date": "1843-12-23",
+      "tomo": 6,
+      "folio": 204,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 27,
+      "baptized": "Francisca Unzueta Ferreras",
+      "father": "Bartolomé",
+      "mother": "Francisca",
+      "date": "1846-05-27",
+      "tomo": 7,
+      "folio": 26,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 28,
+      "baptized": "José Unzueta Rodríguez",
+      "mother": "Francisca",
+      "date": "1851-11-26",
+      "tomo": 7,
+      "folio": 81,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 29,
+      "baptized": "Antonio Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1860-10-11",
+      "tomo": 8,
+      "folio": 136,
+      "status": "applied",
+      "appliedTo": [
+        "antonio-unzueta-fernandez-1860"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 30,
+      "baptized": "Avelino Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1862-06-15",
+      "tomo": 8,
+      "folio": 158,
+      "status": "applied",
+      "appliedTo": [
+        "avelino-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 31,
+      "baptized": "Francisco Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1865-04-17",
+      "tomo": 8,
+      "folio": 204,
+      "status": "applied",
+      "appliedTo": [
+        "francisco-unzueta-fernandez-1865"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 32,
+      "baptized": "María Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1866-10-15",
+      "tomo": 8,
+      "folio": 232,
+      "status": "applied",
+      "appliedTo": [
+        "maria-unzueta-fernandez-1866"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 33,
+      "baptized": "Josefa Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1868-08-09",
+      "tomo": 8,
+      "folio": 258,
+      "status": "applied",
+      "appliedTo": [
+        "josefa-unzueta-fernandez.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de primero",
+      "row": 34,
+      "baptized": "Cleto Unzueta Fernández",
+      "father": "Antonio",
+      "mother": "Dominga",
+      "date": "1874-09-11",
+      "tomo": 9,
+      "folio": 47,
+      "status": "applied",
+      "appliedTo": [
+        "cleto-unzueta-fernandez"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 1,
+      "baptized": "María Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1794-11-05",
+      "tomo": 3,
+      "folio": 127,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 2,
+      "baptized": "María Romero Unzueta",
+      "father": "Francisco",
+      "mother": "Isabel",
+      "date": "1796-08-09",
+      "tomo": 3,
+      "folio": 148,
+      "status": "pendingDecision",
+      "note": "Francisco Romero e Isabel: la madre puede ser Isabel Unzueta Junquera (1769), la única Isabel Unzueta bautizada en la villa en esos años."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 3,
+      "baptized": "Francisca Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1797-01-28",
+      "tomo": 3,
+      "folio": 153,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 4,
+      "baptized": "Manuel Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1799-09-25",
+      "tomo": 3,
+      "folio": 183,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 5,
+      "baptized": "Francisco Romero Unzueta",
+      "father": "Francisco",
+      "mother": "Isabel",
+      "date": "1802-04-20",
+      "tomo": 4,
+      "folio": 28,
+      "status": "pendingDecision",
+      "note": "Francisco Romero e Isabel: la madre puede ser Isabel Unzueta Junquera (1769), la única Isabel Unzueta bautizada en la villa en esos años."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 6,
+      "baptized": "Dominga Magán Unzueta",
+      "father": "Domingo",
+      "mother": "Isabel",
+      "date": "1802-01-28",
+      "tomo": 4,
+      "folio": 28,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 7,
+      "baptized": "Teresa Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1804-01-20",
+      "tomo": 4,
+      "folio": 55,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 8,
+      "baptized": "Manuela Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1805-01-16",
+      "tomo": 4,
+      "folio": 69,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 9,
+      "baptized": "José Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1806-07-03",
+      "tomo": 4,
+      "folio": 89,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 10,
+      "baptized": "Domingo Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1809-02-09",
+      "tomo": 4,
+      "folio": 116,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 11,
+      "baptized": "Antonia Magán Unzueta",
+      "father": "Diego",
+      "mother": "María",
+      "date": "1811-12-22",
+      "tomo": 4,
+      "folio": 160,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 12,
+      "baptized": "Antonio Magán Unzueta",
+      "father": "Domingo",
+      "mother": "María",
+      "date": "1814-02-07",
+      "tomo": 4,
+      "folio": 185,
+      "status": "pendingDecision",
+      "note": "Domingo Magán y María: la madre puede ser María Unzueta Junquera (1774), la única María Unzueta bautizada en la villa en esos años. La fila de 1802 nombra a la madre Isabel y la de 1811 al padre Diego; pueden ser errores del índice."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 13,
+      "baptized": "Francisco Villar Unzueta",
+      "father": "José",
+      "mother": "Felipa",
+      "date": "1828-02-14",
+      "tomo": 5,
+      "folio": 174,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 14,
+      "baptized": "María Magán Unzueta",
+      "mother": "María",
+      "date": "1828-07-06",
+      "tomo": 5,
+      "folio": 182,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 15,
+      "baptized": "Teresa Villar Unzueta",
+      "father": "José",
+      "mother": "Felipa",
+      "date": "1830-10-02",
+      "tomo": 6,
+      "folio": 15,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 16,
+      "baptized": "José Villar Unzueta",
+      "father": "José",
+      "mother": "Felipa",
+      "date": "1833-04-07",
+      "tomo": 6,
+      "folio": 61,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 17,
+      "baptized": "Joaquina Magán Unzueta",
+      "mother": "Francisca",
+      "date": "1839-04-09",
+      "tomo": 6,
+      "folio": 138,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 18,
+      "baptized": "María Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1846-03-25",
+      "tomo": 7,
+      "folio": 22,
+      "status": "applied",
+      "appliedTo": [
+        "maria-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 19,
+      "baptized": "Josefa Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1847-09-31",
+      "tomo": 7,
+      "folio": 37,
+      "status": "applied",
+      "appliedTo": [
+        "josefa-cuesta-unzueta-1847"
+      ],
+      "note": "La hoja da el 31 de septiembre de 1847, fecha que no existe; se registra solo el año."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 20,
+      "baptized": "Antonio Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1850-04-07",
+      "tomo": 7,
+      "folio": 60,
+      "status": "applied",
+      "appliedTo": [
+        "antonio-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 21,
+      "baptized": "Isidoro Villar Unzueta",
+      "mother": "Teresa",
+      "date": "1852-04-19",
+      "tomo": 8,
+      "folio": 3,
+      "status": "notLinked"
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 22,
+      "baptized": "José Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1852-04-29",
+      "tomo": 8,
+      "folio": 4,
+      "status": "applied",
+      "appliedTo": [
+        "jose-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 23,
+      "baptized": "Josefa Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1855-01-10",
+      "tomo": 8,
+      "folio": 57,
+      "status": "applied",
+      "appliedTo": [
+        "josefa-cuesta-unzueta-1855"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 24,
+      "baptized": "Teresa Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1858-06-02",
+      "tomo": 8,
+      "folio": 101,
+      "status": "applied",
+      "appliedTo": [
+        "teresa-cuesta-unzueta.baptism"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 25,
+      "baptized": "Maximiana Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1860-08-29",
+      "tomo": 8,
+      "folio": 134,
+      "status": "applied",
+      "appliedTo": [
+        "maximiana-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 26,
+      "baptized": "Leandro Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1864-03-13",
+      "tomo": 8,
+      "folio": 179,
+      "status": "applied",
+      "appliedTo": [
+        "leandro-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 27,
+      "baptized": "María López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1864-03-14",
+      "tomo": 8,
+      "folio": 180,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 28,
+      "baptized": "Petra Cuesta Unzueta",
+      "father": "Lorenzo",
+      "mother": "María",
+      "date": "1866-09-19",
+      "tomo": 8,
+      "folio": 231,
+      "status": "applied",
+      "appliedTo": [
+        "petra-cuesta-unzueta"
+      ]
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 29,
+      "baptized": "Francisco López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1866-10-15",
+      "tomo": 8,
+      "folio": 233,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 30,
+      "baptized": "José López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1868-03-01",
+      "tomo": 8,
+      "folio": 253,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 31,
+      "baptized": "José López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1871-05-16",
+      "tomo": 9,
+      "folio": 4,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 32,
+      "baptized": "Diego López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1873-03-25",
+      "tomo": 9,
+      "folio": 32,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    },
+    {
+      "sheet": "Unzueta de segundo",
+      "row": 33,
+      "baptized": "Fructuoso López Unzueta",
+      "father": "Diego",
+      "mother": "Josefa",
+      "date": "1875-01-16",
+      "tomo": 9,
+      "folio": 53,
+      "status": "pendingDecision",
+      "note": "Diego López y Josefa: la madre puede ser Josefa Unzueta Fernández (1835), hija de Francisco Unzueta Junquera y María Fernández Villar."
+    }
+  ]
+}

@@ -424,7 +424,11 @@
           "spouse": "epifanio-herrero-vega",
           "place": "Villardeciervos"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1858-06-02",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "antonio-fernandez-romero",
@@ -472,7 +476,11 @@
           "spouse": "antonio-fernandez-romero",
           "place": "Villardeciervos"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1868-08-09",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "francisco-devesa-ramos",
@@ -728,6 +736,127 @@
       ]
     },
     {
+      "id": "maria-cuesta-unzueta",
+      "name": "María Cuesta Unzueta",
+      "givenNames": "María",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1846-03-25",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "josefa-cuesta-unzueta-1847",
+      "name": "Josefa Cuesta Unzueta",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1847",
+        "place": "Villardeciervos",
+        "note": "El índice de bautismos da el 31 de septiembre, fecha que no existe."
+      }
+    },
+    {
+      "id": "antonio-cuesta-unzueta",
+      "name": "Antonio Cuesta Unzueta",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1850-04-07",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "jose-cuesta-unzueta",
+      "name": "José Cuesta Unzueta",
+      "givenNames": "José",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1852-04-29",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "josefa-cuesta-unzueta-1855",
+      "name": "Josefa Cuesta Unzueta",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1855-01-10",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "maximiana-cuesta-unzueta",
+      "name": "Maximiana Cuesta Unzueta",
+      "givenNames": "Maximiana",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1860-08-29",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "leandro-cuesta-unzueta",
+      "name": "Leandro Cuesta Unzueta",
+      "givenNames": "Leandro",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1864-03-13",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "petra-cuesta-unzueta",
+      "name": "Petra Cuesta Unzueta",
+      "givenNames": "Petra",
+      "surnames": [
+        "Cuesta",
+        "Unzueta"
+      ],
+      "father": "lorenzo-cuesta-herrero",
+      "mother": "maria-unzueta-fernandez",
+      "baptism": {
+        "date": "1866-09-19",
+        "place": "Villardeciervos"
+      }
+    },
+    {
       "id": "maria-unzueta-fernandez",
       "name": "María Unzueta Fernández",
       "givenNames": "María",
@@ -748,7 +877,11 @@
           "spouse": "lorenzo-cuesta-herrero",
           "place": "Villardeciervos"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1822-11-27",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "francisco-fernandez-romero",
@@ -819,7 +952,86 @@
           "spouse": "dominga-fernandez-roman",
           "place": "Villardeciervos"
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1832-12-12",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "antonio-unzueta-fernandez-1860",
+      "name": "Antonio Unzueta Fernández",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "baptism": {
+        "date": "1860-10-11",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "avelino-unzueta-fernandez",
+      "name": "Avelino Unzueta Fernández",
+      "givenNames": "Avelino",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "baptism": {
+        "date": "1862-06-15",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-unzueta-fernandez-1865",
+      "name": "Francisco Unzueta Fernández",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "baptism": {
+        "date": "1865-04-17",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "maria-unzueta-fernandez-1866",
+      "name": "María Unzueta Fernández",
+      "givenNames": "María",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "baptism": {
+        "date": "1866-10-15",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "cleto-unzueta-fernandez",
+      "name": "Cleto Unzueta Fernández",
+      "givenNames": "Cleto",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "antonio-unzueta-fernandez",
+      "mother": "dominga-fernandez-roman",
+      "baptism": {
+        "date": "1874-09-11",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "dominga-fernandez-roman",
@@ -1410,6 +1622,147 @@
       ]
     },
     {
+      "id": "teresa-unzueta-fernandez",
+      "name": "Teresa Unzueta Fernández",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1824-02-23",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "pedro-unzueta-fernandez",
+      "name": "Pedro Unzueta Fernández",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1825-04-03",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-unzueta-fernandez-1826",
+      "name": "Francisco Unzueta Fernández",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1826-12-10",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "dominga-unzueta-fernandez",
+      "name": "Dominga Unzueta Fernández",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1828-11-16",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "jose-unzueta-fernandez",
+      "name": "José Unzueta Fernández",
+      "givenNames": "José",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1830-10-20",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "antonia-unzueta-fernandez",
+      "name": "Antonia Unzueta Fernández",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1835-08-17",
+        "place": "Villardeciervos"
+      },
+      "observations": [
+        "Fue bautizada el mismo día que su hermana Josefa."
+      ]
+    },
+    {
+      "id": "josefa-unzueta-fernandez-1835",
+      "name": "Josefa Unzueta Fernández",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1835-08-17",
+        "place": "Villardeciervos"
+      },
+      "observations": [
+        "Fue bautizada el mismo día que su hermana Antonia."
+      ]
+    },
+    {
+      "id": "manuel-unzueta-fernandez",
+      "name": "Manuel Unzueta Fernández",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1837-11-09",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "domingo-unzueta-fernandez",
+      "name": "Domingo Unzueta Fernández",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Unzueta",
+        "Fernández"
+      ],
+      "father": "francisco-unzueta-junquera",
+      "mother": "maria-fernandez-villar",
+      "baptism": {
+        "date": "1839-08-14",
+        "place": "Villardeciervos"
+      }
+    },
+    {
       "id": "maria-fernandez-villar",
       "name": "María Fernández Villar",
       "givenNames": "María",
@@ -1619,6 +1972,36 @@
       ],
       "father": "cristobal-unzueta-padre-de-manuel",
       "mother": "maria-junquera-mujer-de-cristobal-unzueta"
+    },
+    {
+      "id": "manuel-unzueta-junquera",
+      "name": "Manuel Unzueta Junquera",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "manuela-junquera",
+      "baptism": {
+        "date": "1791-04-11",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "domingo-unzueta-junquera",
+      "name": "Domingo Unzueta Junquera",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "manuela-junquera",
+      "baptism": {
+        "date": "1800-07-26",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "manuela-junquera",
@@ -22723,10 +23106,11 @@
     },
     {
       "id": "cristobal-unzueta-padre-de-manuel",
-      "name": "Cristóbal Unzueta",
+      "name": "Cristóbal Unzueta Romero",
       "givenNames": "Cristóbal",
       "surnames": [
-        "Unzueta"
+        "Unzueta",
+        "Romero"
       ],
       "father": "francisco-antonio-unzueta-ormacho",
       "mother": "isabel-romero",
@@ -22753,7 +23137,56 @@
       "observations": [
         "Era flebotomiano (sangrador) y vecino de Villardeciervos.",
         "En 1794 demandó, junto con Pedro Pérez Junquera, a su convecino Jorge de Besa Polanco por la conducción de aguas de riego. El pleito llegó a la Real Chancillería de Valladolid, que despachó la ejecutoria en diciembre de 1799 a petición de Pedro Pérez Junquera y de María Junquera, ya viuda de Cristóbal."
-      ]
+      ],
+      "baptism": {
+        "date": "1746-06-01",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "isabel-unzueta-junquera",
+      "name": "Isabel Unzueta Junquera",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "cristobal-unzueta-padre-de-manuel",
+      "mother": "maria-junquera-mujer-de-cristobal-unzueta",
+      "baptism": {
+        "date": "1769-08-08",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "antonio-unzueta-junquera",
+      "name": "Antonio Unzueta Junquera",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "cristobal-unzueta-padre-de-manuel",
+      "mother": "maria-junquera-mujer-de-cristobal-unzueta",
+      "baptism": {
+        "date": "1771-09-10",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "maria-unzueta-junquera",
+      "name": "María Unzueta Junquera",
+      "givenNames": "María",
+      "surnames": [
+        "Unzueta",
+        "Junquera"
+      ],
+      "father": "cristobal-unzueta-padre-de-manuel",
+      "mother": "maria-junquera-mujer-de-cristobal-unzueta",
+      "baptism": {
+        "date": "1774-05-12",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "francisco-antonio-unzueta-ormacho",
@@ -22769,8 +23202,7 @@
         "Villardeciervos"
       ],
       "observations": [
-        "Pasó de Arrasate a Villardeciervos.",
-        "Su hermana Pascuala nació el 7 de abril de 1723."
+        "Pasó de Arrasate a Villardeciervos."
       ],
       "birth": {
         "date": "1721-01-20",
@@ -22780,10 +23212,7 @@
         "date": "1721-01-20",
         "place": "Arrasate",
         "note": "Parroquia de San Juan Bautista."
-      },
-      "siblings": [
-        "pascuala-unzueta-hermano-de-francisco-antonio-unzueta-ormacho"
-      ]
+      }
     },
     {
       "id": "isabel-romero",
@@ -22832,7 +23261,8 @@
         "note": "Parroquia de San Juan Bautista."
       },
       "observations": [
-        "Sus hermanos María Bautista (1673), Andrés (1675), Úrsula (1678), María Magdalena (1681), Juan (1684) y Teresa (1696) fueron bautizados en Arrasate."
+        "Sus hermanos María Bautista (1673), Andrés (1675), Úrsula (1678), María Magdalena (1681), Juan (1684) y Teresa (1696) fueron bautizados en Arrasate.",
+        "En 1723 vivía en Villardeciervos, donde fue bautizada su hija Pascuala."
       ],
       "siblings": [
         "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
@@ -22852,7 +23282,8 @@
         "Rodríguez"
       ],
       "observations": [
-        "El primer apellido también podría ser Ormaeche u Hormaechea."
+        "El primer apellido también podría ser Ormaeche u Hormaechea.",
+        "En 1723 vivía en Villardeciervos, donde fue bautizada su hija Pascuala."
       ]
     },
     {
@@ -23816,16 +24247,17 @@
         "Ormacho"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Francisco Antonio Unzueta Ormacho.",
-        "Nació el 7 de abril de 1723.",
-        "La observación original recoge únicamente su nombre de pila.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ],
-      "siblings": [
-        "francisco-antonio-unzueta-ormacho"
+        "Nació el 7 de abril de 1723."
       ],
       "birth": {
-        "date": "1723-04-07"
+        "date": "1723-04-07",
+        "place": "Villardeciervos"
+      },
+      "father": "christobal-unzueta-zabarte",
+      "mother": "ysabela-ormacho-rodriguez",
+      "baptism": {
+        "date": "1723-04-07",
+        "place": "Villardeciervos"
       }
     },
     {
