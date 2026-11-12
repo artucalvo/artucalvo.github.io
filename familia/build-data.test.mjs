@@ -4,6 +4,7 @@ import { copyFile, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
+import { lifespan } from './lifespan.mjs';
 
 async function buildFixture(t, fields, others = []) {
   const directory = await mkdtemp(path.join(tmpdir(), 'familia-build-'));
@@ -48,6 +49,27 @@ test('a burial is preserved and indexed without inventing a death date', async t
   assert.equal(index.people[0].deathYear, undefined);
   assert.equal(index.people[0].lifespan, undefined);
   assert.deepEqual(index.places.find(place => place.name === 'Abelón').people, ['ana']);
+});
+
+test('dates show as precisely as recorded, and a baptism stands in for an unknown birth', () => {
+  assert.equal(lifespan({ birth: { date: '1832-12-09' }, baptism: { date: '1832-12-12' } }), 'n. 9 dic 1832');
+  assert.equal(lifespan({ birth: { date: '1832-12' } }), 'n. dic 1832');
+  assert.equal(lifespan({ birth: { date: '1832' } }), 'n. 1832');
+  assert.equal(lifespan({ baptism: { date: '1822-11-27' } }), 'baut. 27 nov 1822');
+  assert.equal(lifespan({ death: { date: '1726-03-09' } }), 'f. 9 mar 1726');
+  assert.equal(lifespan({ birth: { date: '1948-05-03' }, death: { date: '2023-01-12' } }), '3 may 1948 – 12 ene 2023 (74 años)');
+  assert.equal(lifespan({ birth: { date: '1832' }, death: { date: '1900-01-01' } }), '1832 – 1 ene 1900 (aprox. 68 años)');
+  // Counted from the baptism, the age is only approximate.
+  assert.equal(lifespan({ baptism: { date: '1822-11-27' }, death: { date: '1890-09-30' } }), 'baut. 27 nov 1822 – 30 sep 1890 (aprox. 67 años)');
+  assert.equal(lifespan({ burial: { date: '1726-03-10' } }), '');
+});
+
+test('the index shows the baptism of someone whose birth date is unknown', async t => {
+  const { directory, result } = await buildFixture(t, { baptism: { date: '1822-11-27', place: 'Villardeciervos' } });
+  assert.equal(result.status, 0, result.stderr);
+  const index = JSON.parse(await readFile(path.join(directory, 'data/index.json'), 'utf8'));
+  assert.equal(index.people[0].lifespan, 'baut. 27 nov 1822');
+  assert.equal(index.people[0].birthYear, undefined);
 });
 
 test('burials use the same date, event and document validation as other events', async t => {

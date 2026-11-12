@@ -1,3 +1,5 @@
+const MONTHS = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+
 function parseDate(value) {
   const text = String(value ?? '');
   if (!/^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(text)) return null;
@@ -10,24 +12,33 @@ function parseDate(value) {
   return { text, year, month, day };
 }
 
-// Shared by individual records and the compact archive index.
+// As precise as the record: «9 dic 1832», «dic 1832» or «1832».
+function dateText({ year, month, day }) {
+  return [day, month && MONTHS[month - 1], year].filter(part => part !== undefined).join(' ');
+}
+
+// Shared by individual records and the compact archive index. Without a birth
+// date, the baptism stands in for it and is labelled as such.
 export function lifespan(person = {}) {
   const birth = parseDate(person.birth?.date) || parseDate(person.birthYear);
+  const start = birth || parseDate(person.baptism?.date);
   const death = parseDate(person.death?.date) || parseDate(person.deathYear);
-  if (!birth) return death ? `f. ${death.text.slice(0, 4)}` : '';
-  if (!death) return `n. ${birth.text.slice(0, 4)}`;
+  if (!start) return death ? `f. ${dateText(death)}` : '';
+  const startText = `${birth ? '' : 'baut. '}${dateText(start)}`;
+  if (!death) return birth ? `n. ${startText}` : startText;
 
-  const years = `${birth.text.slice(0, 4)} – ${death.text.slice(0, 4)}`;
-  const fullDates = birth.day !== undefined && death.day !== undefined;
-  const deathBeforeBirth = death.year < birth.year || (death.year === birth.year && (
-    birth.month !== undefined && death.month !== undefined && (
-      death.month < birth.month || (death.month === birth.month && fullDates && death.day < birth.day)
+  const range = `${startText} – ${dateText(death)}`;
+  const fullDates = start.day !== undefined && death.day !== undefined;
+  const deathBeforeStart = death.year < start.year || (death.year === start.year && (
+    start.month !== undefined && death.month !== undefined && (
+      death.month < start.month || (death.month === start.month && fullDates && death.day < start.day)
     )
   ));
-  if (deathBeforeBirth) return years;
+  if (deathBeforeStart) return range;
 
-  let age = death.year - birth.year;
-  if (fullDates && (death.month < birth.month || (death.month === birth.month && death.day < birth.day))) age -= 1;
+  let age = death.year - start.year;
+  if (fullDates && (death.month < start.month || (death.month === start.month && death.day < start.day))) age -= 1;
   const unit = age === 1 ? 'año' : 'años';
-  return `${years} (${fullDates ? '' : 'aprox. '}${age} ${unit})`;
+  // Counted from a baptism, the age can fall short of the real one.
+  return `${range} (${fullDates && birth ? '' : 'aprox. '}${age} ${unit})`;
 }

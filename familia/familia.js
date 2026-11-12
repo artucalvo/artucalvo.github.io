@@ -1,5 +1,5 @@
-import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=6';
+import { lifespan } from './lifespan.mjs?v=2';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=7';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -146,14 +146,14 @@ function centerOnPerson(id) {
   navigate(id, { focus: true, scrollToProfile: false });
 }
 
-function personCard({ person, relation, isActive, x, y, width: ownWidth }, width) {
+function personCard({ person, relation, isActive, x, y }, width) {
   const wrapper = element('div', `tree-node${isActive ? ' is-selected' : ''}`);
   wrapper.style.left = `${x}px`;
   wrapper.style.top = `${y}px`;
-  wrapper.style.width = `${ownWidth || width}px`;
+  wrapper.style.width = `${width}px`;
   const card = element('button', 'person-node');
   card.type = 'button';
-  card.setAttribute('aria-label', `Ver ficha de ${person.name}${ownWidth ? `, ${relation}` : ''}`);
+  card.setAttribute('aria-label', `Ver ficha de ${person.name}`);
   card.setAttribute('aria-pressed', String(isActive));
   card.addEventListener('click', () => centerOnPerson(person.id));
   const topline = element('span', 'node-topline');
@@ -173,11 +173,12 @@ function personCard({ person, relation, isActive, x, y, width: ownWidth }, width
 }
 
 function personCircle({ person, x, y, ownerName, isChild }, size) {
-  // The child who continues the direct line stands out among their siblings.
-  const circle = element('button', `tree-circle${ownerName ? ' is-sibling' : ''}${isChild && person.isDirectAncestor ? ' is-ancestor' : ''}`, initials(person));
+  // A child or sibling who continues the direct line stands out among the others.
+  const direct = Boolean((isChild || ownerName) && person.isDirectAncestor);
+  const circle = element('button', `tree-circle${ownerName ? ' is-sibling' : ''}${direct ? ' is-ancestor' : ''}`, initials(person));
   circle.type = 'button';
   circle.title = ownerName ? 'Hermano/a' : person.name;
-  circle.setAttribute('aria-label', `Ver ficha de ${person.name}${ownerName ? `, hermano/a de ${ownerName}` : ''}`);
+  circle.setAttribute('aria-label', `Ver ficha de ${person.name}${ownerName ? `, hermano/a de ${ownerName}` : ''}${direct ? ', de la línea directa' : ''}`);
   circle.style.left = `${x}px`;
   circle.style.top = `${y}px`;
   circle.style.width = `${size}px`;
@@ -225,7 +226,7 @@ async function renderTree() {
       label.setAttribute('aria-hidden', 'true');
       return label;
     });
-    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.siblingCards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)), ...siblingCircles.map(circle => personCircle(circle, layout.circleSize)), ...labels);
+    canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)), ...siblingCircles.map(circle => personCircle(circle, layout.circleSize)), ...labels);
     applyZoom();
     centerTree();
   } catch (error) {

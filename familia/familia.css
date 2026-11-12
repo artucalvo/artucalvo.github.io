@@ -425,6 +425,9 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 /* Sibling circles use a separate line and tint from the parent and spouse links. */
 .tree-circle.is-sibling { border-style: dashed; border-color: #a7b5a1; background: #e9f0e9; }
 .tree-circle.is-sibling:hover { border-color: var(--forest); background: var(--forest); }
+/* A sibling in the direct line keeps the dashed outline and is white, like the direct-line child. */
+.tree-circle.is-sibling.is-ancestor { border-color: var(--forest); color: var(--forest); background: #fff; }
+.tree-circle.is-sibling.is-ancestor:hover { color: var(--surface); background: var(--forest); }
 .tree-connections .sibling-connection { stroke: #a7b5a1; stroke-dasharray: 3 3; }
 .sibling-label { position: absolute; transform: translateX(-50%); color: #64715b; font-size: 10px; line-height: 1.3; letter-spacing: .25px; white-space: nowrap; pointer-events: none; }
 @media (max-width: 600px) { .sibling-label { font-size: 9px; } }

@@ -87,7 +87,6 @@ const relation = (layout, id) => card(layout, id).relation;
 
 const boxes = layout => [
   ...layout.cards.map(item => ({ name: `card ${item.person.id}`, x: item.x, y: item.y, width: layout.cardWidth, height: layout.cardHeight })),
-  ...layout.siblingCards.map(item => ({ name: `sibling ${item.person.id}`, x: item.x, y: item.y, width: item.width, height: item.height })),
   ...layout.siblingCircles.map(item => ({ name: `sibling circle ${item.person.id}`, x: item.x, y: item.y, width: item.width, height: item.height })),
   ...layout.circles.map(item => ({ name: `circle ${item.person.id}`, x: item.x, y: item.y, width: layout.circleSize, height: layout.circleSize })),
 ];
@@ -391,10 +390,11 @@ test('siblings from shared parents and explicit links appear as distinct nodes',
   assert.deepEqual(tree.siblings.map(item => item.person.id).sort(), ['b', 'direct', 'explicit']);
   const layout = layoutTree({ ...tree, depth: 1 });
   const sibling = layout.siblingCircles.find(item => item.person.id === 'b');
-  const direct = layout.siblingCards.find(item => item.person.id === 'direct');
+  const direct = layout.siblingCircles.find(item => item.person.id === 'direct');
   assert.equal(sibling.relation, 'Hermano/a');
   assert.equal(sibling.width, layout.circleSize);
-  assert.equal(direct.width, layout.cardWidth);
+  assert.equal(direct.width, layout.circleSize);
+  assert.equal(direct.person.isDirectAncestor, true);
   assert.equal(direct.relation, 'Hermano/a');
   const all = boxes(layout);
   for (const [index, a] of all.entries()) {
@@ -411,7 +411,7 @@ test('a sibling already shown as an ancestor is not duplicated and keeps its anc
     { ...summary('g'), children: [summary('p'), summary('q')] },
   ].map(person => [person.id, person]));
   const layout = layoutTree({ ...await collectTree('a', 1, async id => people.get(id)), depth: 1 });
-  assert.equal(layout.siblingCards.length, 0);
+  assert.equal(layout.siblingCircles.length, 0);
   assert.match(card(layout, 'p').relation, /Padre.*Hermano\/a/);
   assert.match(card(layout, 'q').relation, /Madre.*Hermano\/a/);
 });
@@ -444,16 +444,18 @@ test('siblings sit on the outside of each parental branch, including large group
   }
 });
 
-test('María and Antonio Unzueta Fernández retain ancestor cards as siblings', async () => {
+test('María and Antonio Unzueta Fernández show each other as small sibling circles in the direct line', async () => {
   for (const [active, sibling] of [
     ['maria-unzueta-fernandez', 'antonio-unzueta-fernandez'],
     ['antonio-unzueta-fernandez', 'maria-unzueta-fernandez'],
   ]) {
     const layout = await realLayout(active);
-    const node = layout.siblingCards.find(item => item.person.id === sibling);
-    assert.equal(node.width, layout.cardWidth);
-    assert.equal(node.height, layout.cardHeight);
+    assert.ok(!layout.cards.some(item => item.person.id === sibling), `${sibling} has no card`);
+    const node = layout.siblingCircles.find(item => item.person.id === sibling);
+    assert.equal(node.width, layout.circleSize);
+    assert.equal(node.height, layout.circleSize);
     assert.equal(node.relation, 'Hermano/a');
+    assert.equal(node.person.isDirectAncestor, true);
   }
 });
 
@@ -461,7 +463,7 @@ test('a sibling beyond a second partner has a clear connector around the partner
   for (const compact of [false, true]) {
     const layout = await realLayout('manuel-hernandez-gaitan', 1, compact);
     const active = activeCard(layout);
-    const sibling = layout.siblingCards.find(item => item.person.id === 'teodora-hernandez');
+    const sibling = layout.siblingCircles.find(item => item.person.id === 'teodora-hernandez');
     assert.ok(sibling);
     const line = layout.siblingConnections.find(path => startsAt(path, active.x + layout.cardWidth / 4, active.y));
     assert.ok(line, 'sibling connector starts at the active person');

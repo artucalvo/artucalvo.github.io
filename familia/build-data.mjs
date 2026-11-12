@@ -200,7 +200,7 @@ async function build() {
   for (const id of people.keys()) visit(id);
   if (errors.length) throw new Error(`Family data validation failed:\n${errors.map((message) => `- ${message}`).join('\n')}`);
 
-  // Direct ancestors retain their ancestor styling even when shown as siblings.
+  // Direct ancestors stand out among the siblings and children shown as circles.
   const directAncestors = new Set();
   function markAncestor(id) {
     if (!id || directAncestors.has(id)) return;

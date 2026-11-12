@@ -44,8 +44,8 @@ export async function collectTree(id, depth, getPerson) {
   const shown = (ancestors[0].person.partners || []).slice(0, MAX_PARTNERS);
   const partners = await Promise.all(shown.map(async partner => ({ ...partner, person: await getPerson(partner.id) })));
   // Only the active person's siblings get nodes of their own; for everyone else a
-  // sibling already in view is just marked as such. Fetch the person so direct
-  // ancestors retain their full-size appearance.
+  // sibling already in view is just marked as such. Fetch the person, whose record
+  // says whether they are a direct ancestor.
   const visible = new Set([...ancestors.map(node => node.person.id), ...partners.map(item => item.person.id)]);
   const owners = [...ancestors.map(node => node.person), ...partners.map(item => item.person)];
   const seen = new Set(visible);
@@ -86,8 +86,7 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
   const siblingCounts = new Map();
   const upperOwners = new Set(ancestors.filter(node => node.level > 0).map(node => node.person.id));
   for (const item of siblings.filter(item => upperOwners.has(item.ownerId))) {
-    const width = item.person.isDirectAncestor ? cardWidth : CIRCLE_SIZE;
-    siblingCounts.set(item.ownerId, (siblingCounts.get(item.ownerId) || 0) + width + siblingGap);
+    siblingCounts.set(item.ownerId, (siblingCounts.get(item.ownerId) || 0) + CIRCLE_SIZE + siblingGap);
   }
   // Two adjacent branches can both extend towards the space between them.
   const maxSiblingWidth = Math.max(0, ...siblingCounts.values());
@@ -112,15 +111,14 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
   const cards = [...ancestorCards, ...partnerCards];
   const siblingItems = [];
   // Each ancestral pair opens outwards: father to the left, mother to the right.
+  // Every sibling is a circle, also one who is a direct ancestor: the page tells
+  // that one apart by its colour, as it does with the direct-line child.
   function placeSiblings(card, side, edge) {
     let cursor = edge;
     for (const item of siblings.filter(item => item.ownerId === card.person.id)) {
-      const fullSize = Boolean(item.person.isDirectAncestor);
-      const width = fullSize ? cardWidth : CIRCLE_SIZE;
-      const height = fullSize ? cardHeight : CIRCLE_SIZE;
-      const center = cursor + side * (siblingGap + width / 2);
-      siblingItems.push({ ...item, owner: card, center, width, height, fullSize, side });
-      cursor += side * (siblingGap + width);
+      const center = cursor + side * (siblingGap + CIRCLE_SIZE / 2);
+      siblingItems.push({ ...item, owner: card, center, width: CIRCLE_SIZE, height: CIRCLE_SIZE, side });
+      cursor += side * (siblingGap + CIRCLE_SIZE);
     }
     return cursor;
   }
@@ -242,16 +240,12 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
     circleSize: CIRCLE_SIZE,
     activeCenterY: coupleLineY,
     cards: cards.map(({ person, relation, isActive, center, level }) => ({ person, relation, isActive, x: canvasX(center) - cardWidth / 2, y: rowY(level) })),
-    siblingCards: siblingItems.filter(item => item.fullSize).map(({ person, owner, center, width, height }) => ({
-      person, ownerId: owner.person.id, relation: 'Hermano/a', fullSize: true, width, height,
-      x: canvasX(center) - width / 2, y: rowY(owner.level),
-    })),
-    siblingCircles: siblingItems.filter(item => !item.fullSize).map(({ person, owner, center, width, height }) => ({
+    siblingCircles: siblingItems.map(({ person, owner, center, width, height }) => ({
       person, ownerId: owner.person.id, relation: 'Hermano/a', width, height,
       x: canvasX(center) - width / 2, y: rowY(owner.level) + (cardHeight - height) / 2,
     })),
     siblingLabels: cards.flatMap(owner => {
-      const first = siblingItems.find(item => item.owner === owner && !item.fullSize);
+      const first = siblingItems.find(item => item.owner === owner);
       return first ? [{ x: canvasX(first.center), y: rowY(owner.level) + (cardHeight - CIRCLE_SIZE) / 2 - 16, text: 'Hermano/a' }] : [];
     }),
     siblingConnections,
