@@ -119,6 +119,8 @@ h1, h2, h3, p { margin-top: 0; }
 .tree-node.is-selected .node-avatar { color: var(--surface); background: var(--forest); }
 .tree-circle { position: absolute; display: grid; place-items: center; padding: 0; border: 1px solid var(--line-strong); border-radius: 50%; color: #4f6345; background: #edf0e7; font-family: var(--serif); font-size: 11px; line-height: 1; transition: border-color .18s, background .18s, color .18s; }
 .tree-circle:hover { border-color: var(--forest); color: var(--surface); background: var(--forest); }
+.tree-circle.is-ancestor { border-color: var(--forest); color: var(--forest); background: #fff; }
+.tree-circle.is-ancestor:hover { color: var(--surface); background: var(--forest); }
 .tree-bottom { display: flex; align-items: center; justify-content: space-between; min-height: 64px; padding: 10px 23px; border-top: 1px solid var(--line); background: #f8f9f3; gap: 10px; }
 .tree-hint { display: flex; align-items: center; gap: 7px; color: #858e7a; font-size: 9px; line-height: 1.5; }
 .status-dot { display: inline-block; flex: 0 0 5px; height: 5px; border-radius: 50%; background: #9eae8e; }

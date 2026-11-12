@@ -1,5 +1,5 @@
 import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=5';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=6';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -172,8 +172,9 @@ function personCard({ person, relation, isActive, x, y, width: ownWidth }, width
   return wrapper;
 }
 
-function personCircle({ person, x, y, ownerName }, size) {
-  const circle = element('button', `tree-circle${ownerName ? ' is-sibling' : ''}`, initials(person));
+function personCircle({ person, x, y, ownerName, isChild }, size) {
+  // The child who continues the direct line stands out among their siblings.
+  const circle = element('button', `tree-circle${ownerName ? ' is-sibling' : ''}${isChild && person.isDirectAncestor ? ' is-ancestor' : ''}`, initials(person));
   circle.type = 'button';
   circle.title = ownerName ? 'Hermano/a' : person.name;
   circle.setAttribute('aria-label', `Ver ficha de ${person.name}${ownerName ? `, hermano/a de ${ownerName}` : ''}`);

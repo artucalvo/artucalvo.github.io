@@ -175,7 +175,7 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
     group.centers = circleCenters(left + groupWidth / 2, group.members.length);
     nextFree = left + groupWidth + CIRCLE_GROUP_GAP;
   }
-  const childCircles = childGroups.flatMap(group => group.members.map((person, index) => ({ person, center: group.centers[index], y: childRowY })));
+  const childCircles = childGroups.flatMap(group => group.members.map((person, index) => ({ person, center: group.centers[index], y: childRowY, isChild: true })));
   const circles = [...parentCircles, ...childCircles];
 
   const reach = Math.max(
@@ -255,7 +255,7 @@ export function layoutTree({ ancestors, partners = [], siblings = [], siblingLin
       return first ? [{ x: canvasX(first.center), y: rowY(owner.level) + (cardHeight - CIRCLE_SIZE) / 2 - 16, text: 'Hermano/a' }] : [];
     }),
     siblingConnections,
-    circles: circles.map(({ person, center, y }) => ({ person, x: canvasX(center) - CIRCLE_SIZE / 2, y })),
+    circles: circles.map(({ person, center, y, isChild }) => ({ person, x: canvasX(center) - CIRCLE_SIZE / 2, y, ...(isChild ? { isChild } : {}) })),
     connections,
   };
 }

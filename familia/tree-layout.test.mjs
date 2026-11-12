@@ -483,3 +483,12 @@ test('only the active person has sibling nodes; parents stay close together', as
   const layout = layoutTree({ ...tree, depth: 1 });
   assert.equal(card(layout, 'q').x - card(layout, 'p').x, layoutTree({ ...tree, siblings: [], depth: 1 }).cards.find(item => item.person.id === 'q').x - layoutTree({ ...tree, siblings: [], depth: 1 }).cards.find(item => item.person.id === 'p').x);
 });
+
+test('child circles are flagged so the direct-line child can stand out', async () => {
+  const people = new Map([
+    { ...summary('a'), children: [summary('c1'), { ...summary('c2'), isDirectAncestor: true }] },
+  ].map(person => [person.id, person]));
+  const layout = layoutTree({ ...await collectTree('a', 1, async id => people.get(id)), depth: 1 });
+  const children = layout.circles.filter(circle => circle.isChild);
+  assert.deepEqual(children.map(circle => [circle.person.id, Boolean(circle.person.isDirectAncestor)]), [['c1', false], ['c2', true]]);
+});
