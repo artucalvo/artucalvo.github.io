@@ -295,7 +295,8 @@ function relationLink(person, label) {
 function addTranscription(container, text) {
   if (!text) return;
   const details = element('details', 'transcription');
-  details.append(element('summary', '', 'Leer transcripción'), element('p', '', text));
+  details.append(element('summary', '', 'Leer transcripción'));
+  text.split(/\n{2,}/).forEach(paragraph => details.append(element('p', '', paragraph)));
   container.append(details);
 }
 

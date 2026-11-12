@@ -62,6 +62,16 @@ test('burials use the same date, event and document validation as other events',
   }
 });
 
+test('transcriptions use paragraphs rather than source line breaks', async t => {
+  const good = await buildFixture(t, { burial: { transcription: 'Primer párrafo.\n\nSegundo párrafo.' } });
+  assert.equal(good.result.status, 0, good.result.stderr);
+  for (const transcription of ['Una línea\notra línea', 'Una línea\r\notra línea']) {
+    const { result } = await buildFixture(t, { burial: { transcription } });
+    assert.notEqual(result.status, 0);
+    assert.match(result.stderr, /transcription: use paragraphs/);
+  }
+});
+
 test('the occupations of a person reach their card unchanged', async t => {
   const occupations = [
     { name: 'Jornalero', date: '1898', note: 'Consta «de oficio jornalero» al casarse.' },

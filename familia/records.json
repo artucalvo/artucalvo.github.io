@@ -83,6 +83,39 @@
       ]
     },
     {
+      "id": "german-devesa-blanco",
+      "name": "Germán Devesa Blanco",
+      "givenNames": "Germán",
+      "surnames": [
+        "Devesa",
+        "Blanco"
+      ],
+      "father": "antonio-devesa-junquera",
+      "mother": "petra-blanco-palmero"
+    },
+    {
+      "id": "carmen-devesa-blanco",
+      "name": "Carmen Devesa Blanco",
+      "givenNames": "Carmen",
+      "surnames": [
+        "Devesa",
+        "Blanco"
+      ],
+      "father": "antonio-devesa-junquera",
+      "mother": "petra-blanco-palmero"
+    },
+    {
+      "id": "consuelo-devesa-blanco",
+      "name": "Consuelo Devesa Blanco",
+      "givenNames": "Consuelo",
+      "surnames": [
+        "Devesa",
+        "Blanco"
+      ],
+      "father": "antonio-devesa-junquera",
+      "mother": "petra-blanco-palmero"
+    },
+    {
       "id": "josefa-herrero-fernandez",
       "name": "Josefa Herrero Fernández",
       "givenNames": "Josefa",
@@ -105,6 +138,53 @@
           "spouse": "antonio-devesa-blanco",
           "place": "Villardeciervos"
         }
+      ]
+    },
+    {
+      "id": "domingo-herrero-fernandez",
+      "name": "Domingo Herrero Fernández",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Herrero",
+        "Fernández"
+      ],
+      "father": "epifanio-herrero-cuesta",
+      "mother": "adelina-fernandez-unzueta"
+    },
+    {
+      "id": "anacleto-herrero-fernandez",
+      "name": "Anacleto Herrero Fernández",
+      "givenNames": "Anacleto",
+      "surnames": [
+        "Herrero",
+        "Fernández"
+      ],
+      "father": "epifanio-herrero-cuesta",
+      "mother": "adelina-fernandez-unzueta"
+    },
+    {
+      "id": "carmen-herrero-fernandez",
+      "name": "Carmen Herrero Fernández",
+      "givenNames": "Carmen",
+      "surnames": [
+        "Herrero",
+        "Fernández"
+      ],
+      "father": "epifanio-herrero-cuesta",
+      "mother": "adelina-fernandez-unzueta"
+    },
+    {
+      "id": "antonio-herrero-fernandez",
+      "name": "Antonio Herrero Fernández",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Herrero",
+        "Fernández"
+      ],
+      "father": "epifanio-herrero-cuesta",
+      "mother": "adelina-fernandez-unzueta",
+      "observations": [
+        "Emigró a Lomas de Zamora, Argentina, en los años 50."
       ]
     },
     {
@@ -1672,12 +1752,12 @@
       "birth": {
         "date": "1872-02-11",
         "place": "Casaseca de las Chanas",
-        "transcription": "Miguel, hijo de Nicanor\nCalvo y Marcelina Mendez\n\nEn Casaseca de las Chanas, Diocesis de Zamora á trece de\nFebrero de mil ochocientos setenta y dos, yo el Presbitero D.\nMariano Calvo, residente en este pueblo, con licencia de D.\nTeodoro Sanchez, parroco de la Iglesia de San Juan Bautista, unica en es-\nte, á peticion de sus padres, bauticé solemnemente, puse los Santos Oleos y\npor nombre Miguel á un niño que habia nacido el dia once del mismo\ncomo á las once de la noche, hijo legitimo y de legitimo Matrimonio de\nNicanor Calvo y Marcelina Mendez, naturales y vecinos de este de Ca-\nsaseca; abuelos paternos, Lucas y Felipa Martin; maternos, Manuel y Fe-\nliciana Mayllo, todos naturales de este; fue su padrino Lorenzo Gago, soltero,\nnatural de Madridanos, á quien advertí el parentesco espiritual y demas o-\nbligaciones cristianas. Y por ser verdad lo firmo fecha ut supra =\nMariano Calvo\nTeodoro Sanchez",
+        "transcription": "Miguel, hijo de Nicanor Calvo y Marcelina Mendez\n\nEn Casaseca de las Chanas, Diocesis de Zamora á trece de Febrero de mil ochocientos setenta y dos, yo el Presbitero D. Mariano Calvo, residente en este pueblo, con licencia de D. Teodoro Sanchez, parroco de la Iglesia de San Juan Bautista, unica en este, á peticion de sus padres, bauticé solemnemente, puse los Santos Oleos y por nombre Miguel á un niño que habia nacido el dia once del mismo como á las once de la noche, hijo legitimo y de legitimo Matrimonio de Nicanor Calvo y Marcelina Mendez, naturales y vecinos de este de Casaseca; abuelos paternos, Lucas y Felipa Martin; maternos, Manuel y Feliciana Mayllo, todos naturales de este; fue su padrino Lorenzo Gago, soltero, natural de Madridanos, á quien advertí el parentesco espiritual y demas obligaciones cristianas. Y por ser verdad lo firmo fecha ut supra = Mariano Calvo Teodoro Sanchez",
         "note": "Nació hacia las once de la noche."
       },
       "baptism": {
         "date": "1872-02-13",
-        "transcription": "Miguel, hijo de Nicanor\nCalvo y Marcelina Mendez\n\nEn Casaseca de las Chanas, Diocesis de Zamora á trece de\nFebrero de mil ochocientos setenta y dos, yo el Presbitero D.\nMariano Calvo, residente en este pueblo, con licencia de D.\nTeodoro Sanchez, parroco de la Iglesia de San Juan Bautista, unica en es-\nte, á peticion de sus padres, bauticé solemnemente, puse los Santos Oleos y\npor nombre Miguel á un niño que habia nacido el dia once del mismo\ncomo á las once de la noche, hijo legitimo y de legitimo Matrimonio de\nNicanor Calvo y Marcelina Mendez, naturales y vecinos de este de Ca-\nsaseca; abuelos paternos, Lucas y Felipa Martin; maternos, Manuel y Fe-\nliciana Mayllo, todos naturales de este; fue su padrino Lorenzo Gago, soltero,\nnatural de Madridanos, á quien advertí el parentesco espiritual y demas o-\nbligaciones cristianas. Y por ser verdad lo firmo fecha ut supra =\nMariano Calvo\nTeodoro Sanchez",
+        "transcription": "Miguel, hijo de Nicanor Calvo y Marcelina Mendez\n\nEn Casaseca de las Chanas, Diocesis de Zamora á trece de Febrero de mil ochocientos setenta y dos, yo el Presbitero D. Mariano Calvo, residente en este pueblo, con licencia de D. Teodoro Sanchez, parroco de la Iglesia de San Juan Bautista, unica en este, á peticion de sus padres, bauticé solemnemente, puse los Santos Oleos y por nombre Miguel á un niño que habia nacido el dia once del mismo como á las once de la noche, hijo legitimo y de legitimo Matrimonio de Nicanor Calvo y Marcelina Mendez, naturales y vecinos de este de Casaseca; abuelos paternos, Lucas y Felipa Martin; maternos, Manuel y Feliciana Mayllo, todos naturales de este; fue su padrino Lorenzo Gago, soltero, natural de Madridanos, á quien advertí el parentesco espiritual y demas obligaciones cristianas. Y por ser verdad lo firmo fecha ut supra = Mariano Calvo Teodoro Sanchez",
         "place": "Casaseca de las Chanas",
         "note": "Iglesia de San Juan Bautista."
       },
@@ -1686,7 +1766,7 @@
           "spouse": "lucia-piorno-santiago",
           "date": "1898-11-09",
           "place": "Casaseca de las Chanas",
-          "transcription": "Calvo\nPiorno\n\nEn la Iglesia Parroquial de San Juan Bautista unica en este Pueblo de Casa-\nseca de las Chanas, Diocesis y Provincia de Zamora á nueve de Noviembre de\nmil ochocientos noventa y ocho Yo Dn. Manuel Santos, Presbitero, Capellan de la\nmisma con licencia del Parroco Dn. Severiano Merino asisti al Matrimo-\nnio que por palabras de presente contrajeron in facie Ecclesiae Miguel Calvo\nMendez de estado soltero natural y residente en este de oficio labrador de\nveintitres años de edad hijo legitimo de Nicanor Calvo ya difunto en este\ny Marcelina Mendez naturales y vecina del mismo con Lucia Piorno\ndel mismo estado, naturaleza y residencia de dieziocho años de edad,\ndedicada á las ocupaciones propias de su sexo hija legitima de Sal-\nvador Piorno natural de Malillos de Sayago y Vicenta Santiago de Fa-\ndon de Sayago y vecinos de este de Casaseca. Precedieron las tres canoni-\ncas amonestaciones que se publicaron los dias treinta del mes proxi-\nmo pasado, primero y seis del corriente de las que no resultó impe-\ndimento alguno. Obtuvieron los contrayentes respectivamente el con-\nsejo y consentimiento paterno y materno. Fueron examinados y aproba-\ndos en doctrina cristiana, recibieron las bendiciones nupciales y comul-\ngaron dentro de la misa siendo testigos Tomas Calvo Morales, Manuel\nMartin y Marcelino [ilegible] domiciliados en este y naturales. Y para que cons-\nte lo firmamos fecha ut supra.\nSeveriano Merino\nManuel Santos",
+          "transcription": "Calvo Piorno\n\nEn la Iglesia Parroquial de San Juan Bautista unica en este Pueblo de Casaseca de las Chanas, Diocesis y Provincia de Zamora á nueve de Noviembre de mil ochocientos noventa y ocho Yo Dn. Manuel Santos, Presbitero, Capellan de la misma con licencia del Parroco Dn. Severiano Merino asisti al Matrimonio que por palabras de presente contrajeron in facie Ecclesiae Miguel Calvo Mendez de estado soltero natural y residente en este de oficio labrador de veintitres años de edad hijo legitimo de Nicanor Calvo ya difunto en este y Marcelina Mendez naturales y vecina del mismo con Lucia Piorno del mismo estado, naturaleza y residencia de dieziocho años de edad, dedicada á las ocupaciones propias de su sexo hija legitima de Salvador Piorno natural de Malillos de Sayago y Vicenta Santiago de Fadon de Sayago y vecinos de este de Casaseca. Precedieron las tres canonicas amonestaciones que se publicaron los dias treinta del mes proximo pasado, primero y seis del corriente de las que no resultó impedimento alguno. Obtuvieron los contrayentes respectivamente el consejo y consentimiento paterno y materno. Fueron examinados y aprobados en doctrina cristiana, recibieron las bendiciones nupciales y comulgaron dentro de la misa siendo testigos Tomas Calvo Morales, Manuel Martin y Marcelino [ilegible] domiciliados en este y naturales. Y para que conste lo firmamos fecha ut supra. Severiano Merino Manuel Santos",
           "note": "Iglesia de San Juan Bautista. Amonestaciones el 30-10-1898, el 01-11-1898 y el 06-11-1898. Recibieron las bendiciones nupciales en la misma ceremonia del matrimonio."
         }
       ],
@@ -1714,12 +1794,12 @@
       "birth": {
         "date": "1880-03-23",
         "place": "Casaseca de las Chanas",
-        "transcription": "Lucia\nhija de Salvador\nPiorno y Vicen-\nta Santiago.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora á veinte y cua-\ntro de Marzo de mil ochocientos ochenta Yo el Parroco de su unica Iglesia\nbauticé solemnemente y puse por nombre Lucia á una niña que nació\nel dia anterior á las diez y media de la mañana hija legitima de Salvador\nPiorno natural de Malillos de Sayago y de Vicenta Santiago de Fadon de Sayago y mis\nfeligreses. Abuelos paternos Julian natural de [ilegible] y Tomasa Tuda de Ma-\n[ilegible]; maternos Carlos y Maria Sastre naturales de dho Fadon. Padrino Anto-\nnio Anton natural de este de Casaseca y Lucia Alonso Piorno de San Lazaro\nextra muros de Zamora á quienes les advertí lo que previene el Ritual.\nY para que conste lo firmo fecha ut supra\nSeveriano Merino Calvo",
+        "transcription": "Lucia hija de Salvador Piorno y Vicenta Santiago.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora á veinte y cuatro de Marzo de mil ochocientos ochenta Yo el Parroco de su unica Iglesia bauticé solemnemente y puse por nombre Lucia á una niña que nació el dia anterior á las diez y media de la mañana hija legitima de Salvador Piorno natural de Malillos de Sayago y de Vicenta Santiago de Fadon de Sayago y mis feligreses. Abuelos paternos Julian natural de [ilegible] y Tomasa Tuda de Ma[ilegible]; maternos Carlos y Maria Sastre naturales de dho Fadon. Padrino Antonio Anton natural de este de Casaseca y Lucia Alonso Piorno de San Lazaro extra muros de Zamora á quienes les advertí lo que previene el Ritual. Y para que conste lo firmo fecha ut supra Severiano Merino Calvo",
         "note": "Nació a las diez y media de la mañana."
       },
       "baptism": {
         "date": "1880-03-24",
-        "transcription": "Lucia\nhija de Salvador\nPiorno y Vicen-\nta Santiago.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora á veinte y cua-\ntro de Marzo de mil ochocientos ochenta Yo el Parroco de su unica Iglesia\nbauticé solemnemente y puse por nombre Lucia á una niña que nació\nel dia anterior á las diez y media de la mañana hija legitima de Salvador\nPiorno natural de Malillos de Sayago y de Vicenta Santiago de Fadon de Sayago y mis\nfeligreses. Abuelos paternos Julian natural de [ilegible] y Tomasa Tuda de Ma-\n[ilegible]; maternos Carlos y Maria Sastre naturales de dho Fadon. Padrino Anto-\nnio Anton natural de este de Casaseca y Lucia Alonso Piorno de San Lazaro\nextra muros de Zamora á quienes les advertí lo que previene el Ritual.\nY para que conste lo firmo fecha ut supra\nSeveriano Merino Calvo",
+        "transcription": "Lucia hija de Salvador Piorno y Vicenta Santiago.\n\nEn Casaseca de las Chanas, Provincia y Obispado de Zamora á veinte y cuatro de Marzo de mil ochocientos ochenta Yo el Parroco de su unica Iglesia bauticé solemnemente y puse por nombre Lucia á una niña que nació el dia anterior á las diez y media de la mañana hija legitima de Salvador Piorno natural de Malillos de Sayago y de Vicenta Santiago de Fadon de Sayago y mis feligreses. Abuelos paternos Julian natural de [ilegible] y Tomasa Tuda de Ma[ilegible]; maternos Carlos y Maria Sastre naturales de dho Fadon. Padrino Antonio Anton natural de este de Casaseca y Lucia Alonso Piorno de San Lazaro extra muros de Zamora á quienes les advertí lo que previene el Ritual. Y para que conste lo firmo fecha ut supra Severiano Merino Calvo",
         "place": "Casaseca de las Chanas"
       },
       "marriages": [
@@ -1727,7 +1807,7 @@
           "spouse": "miguel-calvo-mendez",
           "date": "1898-11-09",
           "place": "Casaseca de las Chanas",
-          "transcription": "Calvo\nPiorno\n\nEn la Iglesia Parroquial de San Juan Bautista unica en este Pueblo de Casa-\nseca de las Chanas, Diocesis y Provincia de Zamora á nueve de Noviembre de\nmil ochocientos noventa y ocho Yo Dn. Manuel Santos, Presbitero, Capellan de la\nmisma con licencia del Parroco Dn. Severiano Merino asisti al Matrimo-\nnio que por palabras de presente contrajeron in facie Ecclesiae Miguel Calvo\nMendez de estado soltero natural y residente en este de oficio labrador de\nveintitres años de edad hijo legitimo de Nicanor Calvo ya difunto en este\ny Marcelina Mendez naturales y vecina del mismo con Lucia Piorno\ndel mismo estado, naturaleza y residencia de dieziocho años de edad,\ndedicada á las ocupaciones propias de su sexo hija legitima de Sal-\nvador Piorno natural de Malillos de Sayago y Vicenta Santiago de Fa-\ndon de Sayago y vecinos de este de Casaseca. Precedieron las tres canoni-\ncas amonestaciones que se publicaron los dias treinta del mes proxi-\nmo pasado, primero y seis del corriente de las que no resultó impe-\ndimento alguno. Obtuvieron los contrayentes respectivamente el con-\nsejo y consentimiento paterno y materno. Fueron examinados y aproba-\ndos en doctrina cristiana, recibieron las bendiciones nupciales y comul-\ngaron dentro de la misa siendo testigos Tomas Calvo Morales, Manuel\nMartin y Marcelino [ilegible] domiciliados en este y naturales. Y para que cons-\nte lo firmamos fecha ut supra.\nSeveriano Merino\nManuel Santos",
+          "transcription": "Calvo Piorno\n\nEn la Iglesia Parroquial de San Juan Bautista unica en este Pueblo de Casaseca de las Chanas, Diocesis y Provincia de Zamora á nueve de Noviembre de mil ochocientos noventa y ocho Yo Dn. Manuel Santos, Presbitero, Capellan de la misma con licencia del Parroco Dn. Severiano Merino asisti al Matrimonio que por palabras de presente contrajeron in facie Ecclesiae Miguel Calvo Mendez de estado soltero natural y residente en este de oficio labrador de veintitres años de edad hijo legitimo de Nicanor Calvo ya difunto en este y Marcelina Mendez naturales y vecina del mismo con Lucia Piorno del mismo estado, naturaleza y residencia de dieziocho años de edad, dedicada á las ocupaciones propias de su sexo hija legitima de Salvador Piorno natural de Malillos de Sayago y Vicenta Santiago de Fadon de Sayago y vecinos de este de Casaseca. Precedieron las tres canonicas amonestaciones que se publicaron los dias treinta del mes proximo pasado, primero y seis del corriente de las que no resultó impedimento alguno. Obtuvieron los contrayentes respectivamente el consejo y consentimiento paterno y materno. Fueron examinados y aprobados en doctrina cristiana, recibieron las bendiciones nupciales y comulgaron dentro de la misa siendo testigos Tomas Calvo Morales, Manuel Martin y Marcelino [ilegible] domiciliados en este y naturales. Y para que conste lo firmamos fecha ut supra. Severiano Merino Manuel Santos",
           "note": "Iglesia de San Juan Bautista. Amonestaciones el 30-10-1898, el 01-11-1898 y el 06-11-1898. Recibieron las bendiciones nupciales en la misma ceremonia del matrimonio."
         }
       ],
@@ -1889,19 +1969,19 @@
       "birth": {
         "date": "1878-06-01",
         "place": "Tardobispo",
-        "transcription": "Bernardo Brioso\nde Enrique y de\nBalbina Perez.\n\nEn el dia dos de Junio del año mil ochocientos setenta y ocho Yo\nel infrascripto Cura parroco de Tardobispo y sus anejos bautice\nsolemnemente y puse los Stos Oleos a un niño que nació el dia\nanterior al de la fecha, aquien puse por nombre Bernardo hijo\nlegitimo de Enrique Brioso y Balbina Perez naturales de este\npueblo: Abuelos paternos Dn Florencio Brioso natural de Morales\ndel Vino y Antonia Mena de Tardobispo: Maternos Esteban\nPerez de Tardobispo y Eduviges Sanchez del Cubo del Vino: fue\nsu padrino Agustin Mena mayor tio del bautizado aquien ad-\nverti sus obligaciones: fueron testigos Valeriano Perez y Mariano\n[ilegible] de esta vecindad. Y para que conste, lo firmo fecha ut supra.\nManuel [ilegible]"
+        "transcription": "Bernardo Brioso de Enrique y de Balbina Perez.\n\nEn el dia dos de Junio del año mil ochocientos setenta y ocho Yo el infrascripto Cura parroco de Tardobispo y sus anejos bautice solemnemente y puse los Stos Oleos a un niño que nació el dia anterior al de la fecha, aquien puse por nombre Bernardo hijo legitimo de Enrique Brioso y Balbina Perez naturales de este pueblo: Abuelos paternos Dn Florencio Brioso natural de Morales del Vino y Antonia Mena de Tardobispo: Maternos Esteban Perez de Tardobispo y Eduviges Sanchez del Cubo del Vino: fue su padrino Agustin Mena mayor tio del bautizado aquien adverti sus obligaciones: fueron testigos Valeriano Perez y Mariano [ilegible] de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel [ilegible]"
       },
       "baptism": {
         "date": "1878-06-02",
         "place": "Tardobispo",
-        "transcription": "Bernardo Brioso\nde Enrique y de\nBalbina Perez.\n\nEn el dia dos de Junio del año mil ochocientos setenta y ocho Yo\nel infrascripto Cura parroco de Tardobispo y sus anejos bautice\nsolemnemente y puse los Stos Oleos a un niño que nació el dia\nanterior al de la fecha, aquien puse por nombre Bernardo hijo\nlegitimo de Enrique Brioso y Balbina Perez naturales de este\npueblo: Abuelos paternos Dn Florencio Brioso natural de Morales\ndel Vino y Antonia Mena de Tardobispo: Maternos Esteban\nPerez de Tardobispo y Eduviges Sanchez del Cubo del Vino: fue\nsu padrino Agustin Mena mayor tio del bautizado aquien ad-\nverti sus obligaciones: fueron testigos Valeriano Perez y Mariano\n[ilegible] de esta vecindad. Y para que conste, lo firmo fecha ut supra.\nManuel [ilegible]"
+        "transcription": "Bernardo Brioso de Enrique y de Balbina Perez.\n\nEn el dia dos de Junio del año mil ochocientos setenta y ocho Yo el infrascripto Cura parroco de Tardobispo y sus anejos bautice solemnemente y puse los Stos Oleos a un niño que nació el dia anterior al de la fecha, aquien puse por nombre Bernardo hijo legitimo de Enrique Brioso y Balbina Perez naturales de este pueblo: Abuelos paternos Dn Florencio Brioso natural de Morales del Vino y Antonia Mena de Tardobispo: Maternos Esteban Perez de Tardobispo y Eduviges Sanchez del Cubo del Vino: fue su padrino Agustin Mena mayor tio del bautizado aquien adverti sus obligaciones: fueron testigos Valeriano Perez y Mariano [ilegible] de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel [ilegible]"
       },
       "marriages": [
         {
           "spouse": "angela-de-las-heras-prada",
           "date": "1903-06-20",
           "place": "Tardobispo",
-          "transcription": "del mil novecientos tres, yo D. Secundino Gómez cura\npropio del mismo pueblo asistí al matrimonio que por\npalabras de presente contrajeron in facie ecclesiæ Ber-\nnardo Brioso de veinti cuatro años de edad de oficio jor-\nnalero natural y residente en este pueblo de Tardobis-\npo hijo legitimo de Enrique y de Balbina Perez de\nla misma vecindad, con Dª Angela de las Heras, del\nmismo pueblo y soltera de veinti tres años de\nedad dedicada á las ocupaciones propias de su sexo\nhija legitima de Benito y de Maria Antonia\nPradas vecinos de este pueblo. Precedieron las tres\ncanonicas moniciones al ofertorio de las tres mi-\nsas festivas, que lo fueron siete once y catorce de\nJunio del presente año sin que resultara\nimpedimento alguno despues de trascurridas las\nveinti cuatro horas de la ultima monicion.\nObtuvieron los contrayentes los consejos favora-\nconsentimiento\nbles paternos, fueron examinados y aprobados en\ndoctrina cristiana y comulgaron dentro de la\nmisa recibiendo las bendiciones nupciales, sien-\ndo testigos Valeriano Perez y Manuel de\nMena de esta vecindad. Y para que conste\nlo firmo.\nSecundino Gómez",
+          "transcription": "del mil novecientos tres, yo D. Secundino Gómez cura propio del mismo pueblo asistí al matrimonio que por palabras de presente contrajeron in facie ecclesiæ Bernardo Brioso de veinti cuatro años de edad de oficio jornalero natural y residente en este pueblo de Tardobispo hijo legitimo de Enrique y de Balbina Perez de la misma vecindad, con Dª Angela de las Heras, del mismo pueblo y soltera de veinti tres años de edad dedicada á las ocupaciones propias de su sexo hija legitima de Benito y de Maria Antonia Pradas vecinos de este pueblo. Precedieron las tres canonicas moniciones al ofertorio de las tres misas festivas, que lo fueron siete once y catorce de Junio del presente año sin que resultara impedimento alguno despues de trascurridas las veinti cuatro horas de la ultima monicion. Obtuvieron los contrayentes los consejos favorables (consentimiento) paternos, fueron examinados y aprobados en doctrina cristiana y comulgaron dentro de la misa recibiendo las bendiciones nupciales, siendo testigos Valeriano Perez y Manuel de Mena de esta vecindad. Y para que conste lo firmo. Secundino Gómez",
           "note": "Amonestaciones el 07-06-1903, el 11-06-1903 y el 14-06-1903. Recibieron las bendiciones nupciales en la ceremonia del matrimonio."
         }
       ],
@@ -1931,19 +2011,19 @@
       "birth": {
         "date": "1881-08-23",
         "place": "Tardobispo",
-        "transcription": "Angela de las Heras\nde Benito y Maria\nAntonia Prada.\n\nEn el dia veinte y cinco de Agosto del año mil ochocientos\nochenta y uno Yo el infrascripto Cura parroco de Tardobispo y\nsus anejos bauticé solemnemente y puse los Stos. Oleos a una\nniña que nació el dia veinte y tres de dicho mes, a quien puse\npor nombre Angela hija legitima de Benito de las Heras\ny Maria Antonia Pradas naturales de Tardobispo: abuelos\npaternos Francisco de las Heras natural de [ilegible] y Josefa\nRabanal natural de Zamora de la parroquia de San Esteban:\nmaternos Angel Pradas de este pueblo y Manuela Carretero de\nPeleas de Arriba: fue su padrino Manuel Prada tio de la\nbautizada a quien advertí sus obligaciones: testigos Valeriano Perez\ny Ramona [ilegible] de esta vecindad. Y para que conste lo firmo\nfecha ut supra. =\nManuel [ilegible]"
+        "transcription": "Angela de las Heras de Benito y Maria Antonia Prada.\n\nEn el dia veinte y cinco de Agosto del año mil ochocientos ochenta y uno Yo el infrascripto Cura parroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos. Oleos a una niña que nació el dia veinte y tres de dicho mes, a quien puse por nombre Angela hija legitima de Benito de las Heras y Maria Antonia Pradas naturales de Tardobispo: abuelos paternos Francisco de las Heras natural de [ilegible] y Josefa Rabanal natural de Zamora de la parroquia de San Esteban: maternos Angel Pradas de este pueblo y Manuela Carretero de Peleas de Arriba: fue su padrino Manuel Prada tio de la bautizada a quien advertí sus obligaciones: testigos Valeriano Perez y Ramona [ilegible] de esta vecindad. Y para que conste lo firmo fecha ut supra. = Manuel [ilegible]"
       },
       "baptism": {
         "date": "1881-08-25",
         "place": "Tardobispo",
-        "transcription": "Angela de las Heras\nde Benito y Maria\nAntonia Prada.\n\nEn el dia veinte y cinco de Agosto del año mil ochocientos\nochenta y uno Yo el infrascripto Cura parroco de Tardobispo y\nsus anejos bauticé solemnemente y puse los Stos. Oleos a una\nniña que nació el dia veinte y tres de dicho mes, a quien puse\npor nombre Angela hija legitima de Benito de las Heras\ny Maria Antonia Pradas naturales de Tardobispo: abuelos\npaternos Francisco de las Heras natural de [ilegible] y Josefa\nRabanal natural de Zamora de la parroquia de San Esteban:\nmaternos Angel Pradas de este pueblo y Manuela Carretero de\nPeleas de Arriba: fue su padrino Manuel Prada tio de la\nbautizada a quien advertí sus obligaciones: testigos Valeriano Perez\ny Ramona [ilegible] de esta vecindad. Y para que conste lo firmo\nfecha ut supra. =\nManuel [ilegible]"
+        "transcription": "Angela de las Heras de Benito y Maria Antonia Prada.\n\nEn el dia veinte y cinco de Agosto del año mil ochocientos ochenta y uno Yo el infrascripto Cura parroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos. Oleos a una niña que nació el dia veinte y tres de dicho mes, a quien puse por nombre Angela hija legitima de Benito de las Heras y Maria Antonia Pradas naturales de Tardobispo: abuelos paternos Francisco de las Heras natural de [ilegible] y Josefa Rabanal natural de Zamora de la parroquia de San Esteban: maternos Angel Pradas de este pueblo y Manuela Carretero de Peleas de Arriba: fue su padrino Manuel Prada tio de la bautizada a quien advertí sus obligaciones: testigos Valeriano Perez y Ramona [ilegible] de esta vecindad. Y para que conste lo firmo fecha ut supra. = Manuel [ilegible]"
       },
       "marriages": [
         {
           "spouse": "bernardo-brioso-perez",
           "date": "1903-06-20",
           "place": "Tardobispo",
-          "transcription": "del mil novecientos tres, yo D. Secundino Gómez cura\npropio del mismo pueblo asistí al matrimonio que por\npalabras de presente contrajeron in facie ecclesiæ Ber-\nnardo Brioso de veinti cuatro años de edad de oficio jor-\nnalero natural y residente en este pueblo de Tardobis-\npo hijo legitimo de Enrique y de Balbina Perez de\nla misma vecindad, con Dª Angela de las Heras, del\nmismo pueblo y soltera de veinti tres años de\nedad dedicada á las ocupaciones propias de su sexo\nhija legitima de Benito y de Maria Antonia\nPradas vecinos de este pueblo. Precedieron las tres\ncanonicas moniciones al ofertorio de las tres mi-\nsas festivas, que lo fueron siete once y catorce de\nJunio del presente año sin que resultara\nimpedimento alguno despues de trascurridas las\nveinti cuatro horas de la ultima monicion.\nObtuvieron los contrayentes los consejos favora-\nconsentimiento\nbles paternos, fueron examinados y aprobados en\ndoctrina cristiana y comulgaron dentro de la\nmisa recibiendo las bendiciones nupciales, sien-\ndo testigos Valeriano Perez y Manuel de\nMena de esta vecindad. Y para que conste\nlo firmo.\nSecundino Gómez",
+          "transcription": "del mil novecientos tres, yo D. Secundino Gómez cura propio del mismo pueblo asistí al matrimonio que por palabras de presente contrajeron in facie ecclesiæ Bernardo Brioso de veinti cuatro años de edad de oficio jornalero natural y residente en este pueblo de Tardobispo hijo legitimo de Enrique y de Balbina Perez de la misma vecindad, con Dª Angela de las Heras, del mismo pueblo y soltera de veinti tres años de edad dedicada á las ocupaciones propias de su sexo hija legitima de Benito y de Maria Antonia Pradas vecinos de este pueblo. Precedieron las tres canonicas moniciones al ofertorio de las tres misas festivas, que lo fueron siete once y catorce de Junio del presente año sin que resultara impedimento alguno despues de trascurridas las veinti cuatro horas de la ultima monicion. Obtuvieron los contrayentes los consejos favorables (consentimiento) paternos, fueron examinados y aprobados en doctrina cristiana y comulgaron dentro de la misa recibiendo las bendiciones nupciales, siendo testigos Valeriano Perez y Manuel de Mena de esta vecindad. Y para que conste lo firmo. Secundino Gómez",
           "note": "Amonestaciones el 07-06-1903, el 11-06-1903 y el 14-06-1903. Recibieron las bendiciones nupciales en la ceremonia del matrimonio."
         }
       ],
@@ -21129,10 +21209,11 @@
     },
     {
       "id": "sebastiana-mayordomo",
-      "name": "Sebastiana Mayordomo",
+      "name": "Sebastiana Mayordomo Gaspar",
       "givenNames": "Sebastiana",
       "surnames": [
-        "Mayordomo"
+        "Mayordomo",
+        "Gaspar"
       ],
       "birth": {
         "place": "Gáname"
@@ -21154,7 +21235,8 @@
       "father": "juan-mayordomo",
       "mother": "manuela-gaspar",
       "observations": [
-        "La partida de fallecimiento nombra herederos a sus hijos José, Manuel, Micaela y Tomás Zurdo."
+        "La partida de fallecimiento nombra herederos a sus hijos José, Manuel, Micaela y Tomás Zurdo.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -22131,48 +22213,64 @@
     },
     {
       "id": "bernardo-brioso-1861",
-      "name": "Bernardo Brioso",
+      "name": "Bernardo Brioso de Mena",
       "givenNames": "Bernardo",
       "surnames": [
-        "Brioso"
+        "Brioso",
+        "de Mena"
       ],
       "father": "florencio-brioso-alonso",
       "mother": "antonia-de-mena-santamaria",
       "birth": {
         "date": "1861-03-12",
-        "transcription": "[ilegible] Brioso\n[ilegible] Florencio y\n[ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos se-\nsenta y uno Yo el infrascripto Cura Parro. de Tar-\ndobispo y sus anejos bautice solemnemente y puse los\nStos Oleos a un niño que nació el dia doce de dicho mes\naquien puse por nombre Bernardo hijo legitimo de Dn\nFlorencio Brioso natural de Morales del Vino y de An-\ntonia Mena de Tardobispo: Abuelos paternos Baltasar\nBrioso de [ilegible] de dicho Morales y Luisa Alonso\nde Moraleja del Vino: Maternos Tomas Mena de Mora-\nles y Valeria Santamaria de San Marcial: fue su pa-\ndrino Jose Alonso tio del bautizado aquien adverti sus\nobligaciones testigos Manuel Perez y Mariano Alonso. Y\npara que conste lo firmo fecha ut supra =\nManuel [ilegible]"
+        "transcription": "[ilegible] Brioso [ilegible] Florencio y [ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos sesenta y uno Yo el infrascripto Cura Parro. de Tardobispo y sus anejos bautice solemnemente y puse los Stos Oleos a un niño que nació el dia doce de dicho mes aquien puse por nombre Bernardo hijo legitimo de Dn Florencio Brioso natural de Morales del Vino y de Antonia Mena de Tardobispo: Abuelos paternos Baltasar Brioso de [ilegible] de dicho Morales y Luisa Alonso de Moraleja del Vino: Maternos Tomas Mena de Morales y Valeria Santamaria de San Marcial: fue su padrino Jose Alonso tio del bautizado aquien adverti sus obligaciones testigos Manuel Perez y Mariano Alonso. Y para que conste lo firmo fecha ut supra = Manuel [ilegible]"
       },
       "baptism": {
         "date": "1861-03-15",
-        "transcription": "[ilegible] Brioso\n[ilegible] Florencio y\n[ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos se-\nsenta y uno Yo el infrascripto Cura Parro. de Tar-\ndobispo y sus anejos bautice solemnemente y puse los\nStos Oleos a un niño que nació el dia doce de dicho mes\naquien puse por nombre Bernardo hijo legitimo de Dn\nFlorencio Brioso natural de Morales del Vino y de An-\ntonia Mena de Tardobispo: Abuelos paternos Baltasar\nBrioso de [ilegible] de dicho Morales y Luisa Alonso\nde Moraleja del Vino: Maternos Tomas Mena de Mora-\nles y Valeria Santamaria de San Marcial: fue su pa-\ndrino Jose Alonso tio del bautizado aquien adverti sus\nobligaciones testigos Manuel Perez y Mariano Alonso. Y\npara que conste lo firmo fecha ut supra =\nManuel [ilegible]"
-      }
+        "transcription": "[ilegible] Brioso [ilegible] Florencio y [ilegible] Mena.\n\nEn el dia quince de Marzo del año mil ochocientos sesenta y uno Yo el infrascripto Cura Parro. de Tardobispo y sus anejos bautice solemnemente y puse los Stos Oleos a un niño que nació el dia doce de dicho mes aquien puse por nombre Bernardo hijo legitimo de Dn Florencio Brioso natural de Morales del Vino y de Antonia Mena de Tardobispo: Abuelos paternos Baltasar Brioso de [ilegible] de dicho Morales y Luisa Alonso de Moraleja del Vino: Maternos Tomas Mena de Morales y Valeria Santamaria de San Marcial: fue su padrino Jose Alonso tio del bautizado aquien adverti sus obligaciones testigos Manuel Perez y Mariano Alonso. Y para que conste lo firmo fecha ut supra = Manuel [ilegible]"
+      },
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "manuel-sesma-hijo-de-isabel-crespo",
-      "name": "Manuel Sesma",
+      "name": "Manuel Sesma Crespo",
       "givenNames": "Manuel",
       "surnames": [
-        "Sesma"
+        "Sesma",
+        "Crespo"
       ],
-      "mother": "isabel-crespo"
+      "mother": "isabel-crespo",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "agustin-sesma-hijo-de-isabel-crespo",
-      "name": "Agustín Sesma",
+      "name": "Agustín Sesma Crespo",
       "givenNames": "Agustín",
       "surnames": [
-        "Sesma"
+        "Sesma",
+        "Crespo"
       ],
-      "mother": "isabel-crespo"
+      "mother": "isabel-crespo",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "isabel-sesma-hija-de-isabel-crespo",
-      "name": "Isabel Sesma",
+      "name": "Isabel Sesma Crespo",
       "givenNames": "Isabel",
       "surnames": [
-        "Sesma"
+        "Sesma",
+        "Crespo"
       ],
-      "mother": "isabel-crespo"
+      "mother": "isabel-crespo",
+      "observations": [
+        "El apellido materno se atribuye por el parentesco familiar."
+      ]
     },
     {
       "id": "catalina-luengo-madre-de-martin-ortizo",
@@ -22189,10 +22287,11 @@
     },
     {
       "id": "juan-de-luelmo-padre-de-jeronimo",
-      "name": "Juan Luelmo",
+      "name": "Juan Luelmo Martín",
       "givenNames": "Juan",
       "surnames": [
-        "Luelmo"
+        "Luelmo",
+        "Martín"
       ],
       "father": "bartolome-de-luelmo",
       "mother": "ines-martin-madre-de-maria-de-luelmo",
@@ -22204,7 +22303,8 @@
         }
       ],
       "observations": [
-        "Su hermana Ana fue bautizada el 14 de noviembre de 1648."
+        "Su hermana Ana fue bautizada el 14 de noviembre de 1648.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "maria-de-luelmo-madre-de-juan-brioso",
@@ -22245,17 +22345,21 @@
     },
     {
       "id": "maria-gaitan-hija-de-luis-gaitan",
-      "name": "María Gaitán",
+      "name": "María Gaitán Hernández",
       "givenNames": "María",
       "surnames": [
-        "Gaitán"
+        "Gaitán",
+        "Hernández"
       ],
       "father": "luis-gaitan-padre-de-domingo-gaitan",
       "mother": "micaela-hernandez-madre-de-domingo-gaitan",
       "baptism": {
         "date": "1628",
         "transcription": "En vte y dos de [ilegible] de seis cientos y vte y ocho años Baptice yo [ilegible] cura teniente deste lugar a mª hija de luis gaitan y de micaela hernandez su legitima mujer. fue su padrino [ilegible] gaitan testigos luis [ilegible] vs deste lugar. y lo firme [ilegible]."
-      }
+      },
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "pablo-alonso",
@@ -22497,13 +22601,17 @@
     },
     {
       "id": "lucas-gaitan-hijo-de-luis-gaitan",
-      "name": "Lucas Gaitán",
+      "name": "Lucas Gaitán Rodríguez",
       "givenNames": "Lucas",
       "surnames": [
-        "Gaitán"
+        "Gaitán",
+        "Rodríguez"
       ],
       "father": "luis-gaitan",
-      "mother": "isabel-rodriguez"
+      "mother": "isabel-rodriguez",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "agustina-gaitan-calvo",
@@ -22540,33 +22648,45 @@
     },
     {
       "id": "manuela-gaspar-hija-de-bernardo",
-      "name": "Manuela Gaspar",
+      "name": "Manuela Gaspar Piorno",
       "givenNames": "Manuela",
       "surnames": [
-        "Gaspar"
+        "Gaspar",
+        "Piorno"
       ],
       "father": "bernardo-gaspar",
-      "mother": "ana-piorno"
+      "mother": "ana-piorno",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "teresa-gaspar-hija-de-bernardo",
-      "name": "Teresa Gaspar",
+      "name": "Teresa Gaspar Piorno",
       "givenNames": "Teresa",
       "surnames": [
-        "Gaspar"
+        "Gaspar",
+        "Piorno"
       ],
       "father": "bernardo-gaspar",
-      "mother": "ana-piorno"
+      "mother": "ana-piorno",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "josefa-gaspar-hija-de-bernardo",
-      "name": "Josefa Gaspar",
+      "name": "Josefa Gaspar Piorno",
       "givenNames": "Josefa",
       "surnames": [
-        "Gaspar"
+        "Gaspar",
+        "Piorno"
       ],
       "father": "bernardo-gaspar",
-      "mother": "ana-piorno"
+      "mother": "ana-piorno",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "maria-linares-mujer-de-francisco-gonzalez",
@@ -23456,13 +23576,15 @@
     },
     {
       "id": "ignacio-calvo-hermano-de-lucas-calvo-alonso",
-      "name": "Ignacio Calvo",
+      "name": "Ignacio Calvo Alonso",
       "givenNames": "Ignacio",
       "surnames": [
-        "Calvo"
+        "Calvo",
+        "Alonso"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Lucas Calvo Alonso."
+        "Relación de hermandad recogida en las observaciones de Lucas Calvo Alonso.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "lucas-calvo-alonso"
@@ -23470,13 +23592,15 @@
     },
     {
       "id": "francisco-vega-hermano-de-teresa-vega-zurdo",
-      "name": "Francisco Vega",
+      "name": "Francisco Vega Zurdo",
       "givenNames": "Francisco",
       "surnames": [
-        "Vega"
+        "Vega",
+        "Zurdo"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Teresa Vega Zurdo."
+        "Relación de hermandad recogida en las observaciones de Teresa Vega Zurdo.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "teresa-vega-zurdo"
@@ -23484,14 +23608,16 @@
     },
     {
       "id": "gabriel-alonso-hermano-de-bernardo-alonso-cabrero",
-      "name": "Gabriel Alonso",
+      "name": "Gabriel Alonso Cabrero",
       "givenNames": "Gabriel",
       "surnames": [
-        "Alonso"
+        "Alonso",
+        "Cabrero"
       ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Bernardo Mariano Alonso Cabrero.",
-        "La partida de matrimonio de Bernardo lo identifica como hermano mayor."
+        "La partida de matrimonio de Bernardo lo identifica como hermano mayor.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "bernardo-alonso-cabrero"
@@ -23520,14 +23646,17 @@
     },
     {
       "id": "antonio-hernandez-crespo-hermano-de-manuel-hernandez-crespo",
-      "name": "Antonio Hernández Crespo",
+      "name": "Antonio Hernández Crespo Prieto",
       "givenNames": "Antonio",
       "surnames": [
-        "Hernández Crespo"
+        "Hernández",
+        "Crespo",
+        "Prieto"
       ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Manuel Hernández Crespo Prieto.",
-        "Cura de Pontejos; ofició la boda de su hermano Manuel."
+        "Cura de Pontejos; ofició la boda de su hermano Manuel.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "manuel-hernandez-crespo"
@@ -23535,14 +23664,16 @@
     },
     {
       "id": "luis-garcia-hermano-de-alonso-garcia",
-      "name": "Luis García",
+      "name": "Luis García Delgado",
       "givenNames": "Luis",
       "surnames": [
-        "García"
+        "García",
+        "Delgado"
       ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Alonso García Delgado.",
-        "Vecino de San Frontis según la partida de fallecimiento de Alonso."
+        "Vecino de San Frontis según la partida de fallecimiento de Alonso.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "alonso-garcia"
@@ -23551,13 +23682,17 @@
     },
     {
       "id": "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso",
-      "name": "Ana",
+      "name": "Ana Luelmo Martín",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Luelmo",
+        "Martín"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de María Luelmo Martín.",
         "Bautizada el 14 de noviembre de 1648.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "siblings": [
         "maria-de-luelmo-madre-de-juan-brioso",
@@ -23569,13 +23704,17 @@
     },
     {
       "id": "catalina-jurado-hermano-de-maria-jurado",
-      "name": "Catalina",
+      "name": "Catalina Jurado Delgado",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Jurado",
+        "Delgado"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de María Jurado Delgado.",
         "Bautizada en abril de 1630 en Casaseca de las Chanas.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "siblings": [
         "maria-jurado"
@@ -23587,13 +23726,16 @@
     },
     {
       "id": "teresa-pozo-hermano-de-angela-pozo-madre-de-maria-anton",
-      "name": "Teresa",
+      "name": "Teresa Pozo",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Pozo"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Ángela Pozo.",
         "La partida de entierro de Ángela menciona a su hermana Teresa; el apellido no se expresa en la observación.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "siblings": [
         "angela-pozo-madre-de-maria-anton"
@@ -23601,13 +23743,15 @@
     },
     {
       "id": "catalina-delgado-hermano-de-luis-delgado-padre-de-pedro-delgado",
-      "name": "Catalina Delgado",
+      "name": "Catalina Delgado González",
       "givenNames": "Catalina",
       "surnames": [
-        "Delgado"
+        "Delgado",
+        "González"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Luis Delgado González."
+        "Relación de hermandad recogida en las observaciones de Luis Delgado González.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "luis-delgado-padre-de-pedro-delgado"
@@ -23615,13 +23759,15 @@
     },
     {
       "id": "alonso-montalvo-hermano-de-tomas-montalvo",
-      "name": "Alonso Montalvo",
+      "name": "Alonso Montalvo Ramos",
       "givenNames": "Alonso",
       "surnames": [
-        "Montalvo"
+        "Montalvo",
+        "Ramos"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Tomás Montalvo Ramos."
+        "Relación de hermandad recogida en las observaciones de Tomás Montalvo Ramos.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "tomas-montalvo"
@@ -23629,13 +23775,15 @@
     },
     {
       "id": "pedro-martin-hermano-de-juan-martin-padre-de-francisco-martin-cabrero",
-      "name": "Pedro Martín",
+      "name": "Pedro Martín Esteban",
       "givenNames": "Pedro",
       "surnames": [
-        "Martín"
+        "Martín",
+        "Esteban"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Juan Martín Esteban."
+        "Relación de hermandad recogida en las observaciones de Juan Martín Esteban.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "juan-martin-padre-de-francisco-martin-cabrero"
@@ -23643,14 +23791,16 @@
     },
     {
       "id": "tomas-zurdo-hermano-de-jose-zurdo-mayordomo",
-      "name": "Tomás Zurdo",
+      "name": "Tomás Zurdo Mayordomo",
       "givenNames": "Tomás",
       "surnames": [
-        "Zurdo"
+        "Zurdo",
+        "Mayordomo"
       ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de José Zurdo Mayordomo.",
-        "Vecino de Fadón según la partida de fallecimiento de José."
+        "Vecino de Fadón según la partida de fallecimiento de José.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "siblings": [
         "jose-zurdo-mayordomo"
@@ -23659,13 +23809,17 @@
     },
     {
       "id": "pascuala-unzueta-hermano-de-francisco-antonio-unzueta-ormacho",
-      "name": "Pascuala",
+      "name": "Pascuala Unzueta Ormacho",
       "givenNames": "Pascuala",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Ormacho"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Francisco Antonio Unzueta Ormacho.",
         "Nació el 7 de abril de 1723.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "siblings": [
         "francisco-antonio-unzueta-ormacho"
@@ -23676,12 +23830,16 @@
     },
     {
       "id": "maria-bautista-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "María Bautista",
+      "name": "María Bautista Unzueta Zabarte",
       "givenNames": "María Bautista",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1673",
@@ -23699,12 +23857,16 @@
     },
     {
       "id": "andres-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "Andrés",
+      "name": "Andrés Unzueta Zabarte",
       "givenNames": "Andrés",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1675",
@@ -23722,12 +23884,16 @@
     },
     {
       "id": "ursula-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "Úrsula",
+      "name": "Úrsula Unzueta Zabarte",
       "givenNames": "Úrsula",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1678",
@@ -23745,12 +23911,16 @@
     },
     {
       "id": "maria-magdalena-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "María Magdalena",
+      "name": "María Magdalena Unzueta Zabarte",
       "givenNames": "María Magdalena",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1681",
@@ -23768,12 +23938,16 @@
     },
     {
       "id": "juan-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "Juan",
+      "name": "Juan Unzueta Zabarte",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1684",
@@ -23791,12 +23965,16 @@
     },
     {
       "id": "teresa-unzueta-hermano-de-christobal-unzueta-zabarte",
-      "name": "Teresa",
+      "name": "Teresa Unzueta Zabarte",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Unzueta",
+        "Zabarte"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Christobal Unzueta Zabarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1696",
@@ -23814,13 +23992,17 @@
     },
     {
       "id": "juan-bautista-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
-      "name": "Juan Bautista",
+      "name": "Juan Bautista Uncueta Fuldain",
       "givenNames": "Juan Bautista",
-      "surnames": [],
+      "surnames": [
+        "Uncueta",
+        "Fuldain"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
         "Se casó en 1667 con Antonia Garay Errarte.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1646",
@@ -23835,12 +24017,16 @@
     },
     {
       "id": "antonio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
-      "name": "Antonio",
+      "name": "Antonio Uncueta Fuldain",
       "givenNames": "Antonio",
-      "surnames": [],
+      "surnames": [
+        "Uncueta",
+        "Fuldain"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1654",
@@ -23855,12 +24041,16 @@
     },
     {
       "id": "ignacio-uncueta-hermano-de-joan-bauptista-uncueta-fuldain",
-      "name": "Ignacio",
+      "name": "Ignacio Uncueta Fuldain",
       "givenNames": "Ignacio",
-      "surnames": [],
+      "surnames": [
+        "Uncueta",
+        "Fuldain"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Juan Uncueta Fuldain.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1657",
@@ -23875,13 +24065,17 @@
     },
     {
       "id": "bartolome-cabarte-hermano-de-maria-cabarte-landaburu",
-      "name": "Bartolomé",
+      "name": "Bartolomé Cabarte Landaburu",
       "givenNames": "Bartolomé",
-      "surnames": [],
+      "surnames": [
+        "Cabarte",
+        "Landaburu"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Maria Cabarte Landaburu.",
         "Se casó en Arrasate el 23 de junio de 1680 con Antonia de Uribe-Iturrioz Ocaranza.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "siblings": [
         "maria-cabarte-landaburu"
@@ -23889,12 +24083,16 @@
     },
     {
       "id": "ursula-unceta-hermano-de-juan-baptista-unceta-cirarruista",
-      "name": "Úrsula",
+      "name": "Úrsula Unceta Çirarruista",
       "givenNames": "Úrsula",
-      "surnames": [],
+      "surnames": [
+        "Unceta",
+        "Çirarruista"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Juan Baptista Unceta Çirarruista.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1625",
@@ -23908,12 +24106,16 @@
     },
     {
       "id": "ana-unceta-hermano-de-juan-baptista-unceta-cirarruista",
-      "name": "Ana",
+      "name": "Ana Unceta Çirarruista",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Unceta",
+        "Çirarruista"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Juan Baptista Unceta Çirarruista.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1629",
@@ -23927,13 +24129,15 @@
     },
     {
       "id": "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Magdalena Amezqueta",
+      "name": "Magdalena Amezqueta Egurbide",
       "givenNames": "Magdalena",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1606",
@@ -23951,13 +24155,15 @@
     },
     {
       "id": "agueda-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Águeda Amezqueta",
+      "name": "Águeda Amezqueta Egurbide",
       "givenNames": "Águeda",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1610",
@@ -23975,13 +24181,15 @@
     },
     {
       "id": "mari-miguel-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Mari Miguel Amezqueta",
+      "name": "Mari Miguel Amezqueta Egurbide",
       "givenNames": "Mari Miguel",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1616",
@@ -23999,13 +24207,15 @@
     },
     {
       "id": "antonio-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Antonio Amezqueta",
+      "name": "Antonio Amezqueta Egurbide",
       "givenNames": "Antonio",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1619",
@@ -24023,13 +24233,15 @@
     },
     {
       "id": "juan-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Juan Amezqueta",
+      "name": "Juan Amezqueta Egurbide",
       "givenNames": "Juan",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1622",
@@ -24047,13 +24259,15 @@
     },
     {
       "id": "andres-amezqueta-hermano-de-maria-fuldain-egurbide",
-      "name": "Andrés Amezqueta",
+      "name": "Andrés Amezqueta Egurbide",
       "givenNames": "Andrés",
       "surnames": [
-        "Amezqueta"
+        "Amezqueta",
+        "Egurbide"
       ],
       "observations": [
-        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide."
+        "Relación de hermandad recogida en las observaciones de Maria Fuldain Egurbide.",
+        "Los apellidos adicionales se atribuyen por el parentesco familiar."
       ],
       "baptism": {
         "date": "1625",
@@ -24071,13 +24285,17 @@
     },
     {
       "id": "ana-landaburu-hermano-de-mari-miguel-landaburu-guinea",
-      "name": "Ana",
+      "name": "Ana Landaburu Guinea",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Landaburu",
+        "Guinea"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
         "Bautizada en la parroquia de Garagartza.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1613",
@@ -24093,13 +24311,17 @@
     },
     {
       "id": "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea",
-      "name": "María",
+      "name": "María Landaburu Guinea",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Landaburu",
+        "Guinea"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
         "Bautizada en la parroquia de Garagartza.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1619",
@@ -24115,13 +24337,17 @@
     },
     {
       "id": "maria-luisa-landaburu-hermano-de-mari-miguel-landaburu-guinea",
-      "name": "María Luisa",
+      "name": "María Luisa Landaburu Guinea",
       "givenNames": "María Luisa",
-      "surnames": [],
+      "surnames": [
+        "Landaburu",
+        "Guinea"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
         "Bautizada en la parroquia de Garagartza.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1622",
@@ -24137,13 +24363,17 @@
     },
     {
       "id": "juan-asencio-landaburu-hermano-de-mari-miguel-landaburu-guinea",
-      "name": "Juan Asencio",
+      "name": "Juan Asencio Landaburu Guinea",
       "givenNames": "Juan Asencio",
-      "surnames": [],
+      "surnames": [
+        "Landaburu",
+        "Guinea"
+      ],
       "observations": [
         "Relación de hermandad recogida en las observaciones de Mari Miguel Landaburu Guinea.",
         "Bautizado en la parroquia de Garagartza.",
-        "La observación original recoge únicamente su nombre de pila."
+        "La observación original recoge únicamente su nombre de pila.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "baptism": {
         "date": "1627",
@@ -24159,372 +24389,520 @@
     },
     {
       "id": "diego-hijo-de-lucas-calvo-alonso",
-      "name": "Diego",
+      "name": "Diego Calvo Martín",
       "givenNames": "Diego",
-      "surnames": [],
+      "surnames": [
+        "Calvo",
+        "Martín"
+      ],
       "father": "lucas-calvo-alonso",
       "observations": [
-        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "secundino-hijo-de-lucas-calvo-alonso",
-      "name": "Secundino",
+      "name": "Secundino Calvo Martín",
       "givenNames": "Secundino",
-      "surnames": [],
+      "surnames": [
+        "Calvo",
+        "Martín"
+      ],
       "father": "lucas-calvo-alonso",
       "observations": [
-        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-lucas-calvo-alonso",
-      "name": "José",
+      "name": "José Calvo Martín",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Calvo",
+        "Martín"
+      ],
       "father": "lucas-calvo-alonso",
       "observations": [
-        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Lucas Calvo Alonso en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-manuel-mendez-de-paz",
-      "name": "María",
+      "name": "María Méndez Maíllo",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "Maíllo"
+      ],
       "father": "manuel-mendez-de-paz",
       "observations": [
-        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "sebastiana-hijo-de-manuel-mendez-de-paz",
-      "name": "Sebastiana",
+      "name": "Sebastiana Méndez Maíllo",
       "givenNames": "Sebastiana",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "Maíllo"
+      ],
       "father": "manuel-mendez-de-paz",
       "observations": [
-        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "bernarda-hijo-de-manuel-mendez-de-paz",
-      "name": "Bernarda",
+      "name": "Bernarda Méndez Maíllo",
       "givenNames": "Bernarda",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "Maíllo"
+      ],
       "father": "manuel-mendez-de-paz",
       "observations": [
-        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-josefa-rabanal-ibanez",
-      "name": "María",
+      "name": "María de las Heras Rabanal",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Rabanal"
+      ],
       "mother": "josefa-rabanal-ibanez",
       "observations": [
-        "Nombrado entre los hijos de Josefa Ygenia Rabanal Ibáñez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Ygenia Rabanal Ibáñez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "genaro-hijo-de-luis-mendez-de-lera",
-      "name": "Genaro",
+      "name": "Genaro Méndez de Paz",
       "givenNames": "Genaro",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
       "father": "luis-mendez-de-lera",
       "observations": [
-        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "catalina-hijo-de-luis-mendez-de-lera",
-      "name": "Catalina",
+      "name": "Catalina Méndez de Paz",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
       "father": "luis-mendez-de-lera",
       "observations": [
-        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-luis-mendez-de-lera",
-      "name": "María",
+      "name": "María Méndez de Paz",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
       "father": "luis-mendez-de-lera",
       "observations": [
-        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "bonifacio-hijo-de-luis-mendez-de-lera",
-      "name": "Bonifacio",
+      "name": "Bonifacio Méndez de Paz",
       "givenNames": "Bonifacio",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
       "father": "luis-mendez-de-lera",
       "observations": [
-        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "higinio-hijo-de-luis-mendez-de-lera",
-      "name": "Higinio",
+      "name": "Higinio Méndez de Paz",
       "givenNames": "Higinio",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Paz"
+      ],
       "father": "luis-mendez-de-lera",
       "observations": [
-        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Luis Méndez de Lera en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "nicasio-hijo-de-maria-morales-valladolid",
-      "name": "Nicasio",
+      "name": "Nicasio Maíllo Morales",
       "givenNames": "Nicasio",
-      "surnames": [],
+      "surnames": [
+        "Maíllo",
+        "Morales"
+      ],
       "mother": "maria-morales-valladolid",
       "observations": [
-        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "sebastiana-hijo-de-maria-morales-valladolid",
-      "name": "Sebastiana",
+      "name": "Sebastiana Maíllo Morales",
       "givenNames": "Sebastiana",
-      "surnames": [],
+      "surnames": [
+        "Maíllo",
+        "Morales"
+      ],
       "mother": "maria-morales-valladolid",
       "observations": [
-        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Juana Morales Valladolid en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-angela-vega-fierro",
-      "name": "Teresa",
+      "name": "Teresa Piorno Vega",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Piorno",
+        "Vega"
+      ],
       "mother": "angela-vega-fierro",
       "observations": [
-        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-angela-vega-fierro",
-      "name": "María",
+      "name": "María Piorno Vega",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Piorno",
+        "Vega"
+      ],
       "mother": "angela-vega-fierro",
       "observations": [
-        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-angela-vega-fierro",
-      "name": "Francisco",
+      "name": "Francisco Piorno Vega",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Piorno",
+        "Vega"
+      ],
       "mother": "angela-vega-fierro",
       "observations": [
-        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-angela-vega-fierro",
-      "name": "José",
+      "name": "José Piorno Vega",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Piorno",
+        "Vega"
+      ],
       "mother": "angela-vega-fierro",
       "observations": [
-        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángela Vega Fierro en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ines-hijo-de-baltasar-brioso-martin",
-      "name": "Inés",
+      "name": "Inés Brioso Alonso",
       "givenNames": "Inés",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Alonso"
+      ],
       "father": "baltasar-brioso-martin",
       "observations": [
-        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-baltasar-brioso-martin",
-      "name": "María",
+      "name": "María Brioso Alonso",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Alonso"
+      ],
       "father": "baltasar-brioso-martin",
       "observations": [
-        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "bernardo-hijo-de-baltasar-brioso-martin",
-      "name": "Bernardo",
+      "name": "Bernardo Brioso Alonso",
       "givenNames": "Bernardo",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Alonso"
+      ],
       "father": "baltasar-brioso-martin",
       "observations": [
-        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "nazario-hijo-de-baltasar-brioso-martin",
-      "name": "Nazario",
+      "name": "Nazario Brioso Alonso",
       "givenNames": "Nazario",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Alonso"
+      ],
       "father": "baltasar-brioso-martin",
       "observations": [
-        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Baltasar Eusebio Brioso Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "prudencio-hijo-de-margarita-giron-fernandez",
-      "name": "Prudencio",
+      "name": "Prudencio Pérez Girón",
       "givenNames": "Prudencio",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
       "mother": "margarita-giron-fernandez",
       "observations": [
-        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuela-hijo-de-margarita-giron-fernandez",
-      "name": "Manuela",
+      "name": "Manuela Pérez Girón",
       "givenNames": "Manuela",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
       "mother": "margarita-giron-fernandez",
       "observations": [
-        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-rosa-izquierdo-terron",
-      "name": "Francisco",
+      "name": "Francisco Sánchez Izquierdo",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Sánchez",
+        "Izquierdo"
+      ],
       "mother": "rosa-izquierdo-terron",
       "observations": [
-        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "petrona-hijo-de-rosa-izquierdo-terron",
-      "name": "Petrona",
+      "name": "Petrona Sánchez Izquierdo",
       "givenNames": "Petrona",
-      "surnames": [],
+      "surnames": [
+        "Sánchez",
+        "Izquierdo"
+      ],
       "mother": "rosa-izquierdo-terron",
       "observations": [
-        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Rosa Izquierdo Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alejandro-hijo-de-manuela-giron-roncero",
-      "name": "Alejandro",
+      "name": "Alejandro Prada Girón",
       "givenNames": "Alejandro",
-      "surnames": [],
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
       "mother": "manuela-giron-roncero",
       "observations": [
-        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "marcos-hijo-de-manuela-giron-roncero",
-      "name": "Marcos",
+      "name": "Marcos Prada Girón",
       "givenNames": "Marcos",
-      "surnames": [],
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
       "mother": "manuela-giron-roncero",
       "observations": [
-        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "gemiliano-hijo-de-manuela-giron-roncero",
-      "name": "Gemiliano",
+      "name": "Gemiliano Prada Girón",
       "givenNames": "Gemiliano",
-      "surnames": [],
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
       "mother": "manuela-giron-roncero",
       "observations": [
-        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisca-hijo-de-maria-de-lera-rodriguez",
-      "name": "Francisca",
+      "name": "Francisca Méndez de Lera",
       "givenNames": "Francisca",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Lera"
+      ],
       "mother": "maria-de-lera-rodriguez",
       "observations": [
-        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-maria-de-lera-rodriguez",
-      "name": "José",
+      "name": "José Méndez de Lera",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Lera"
+      ],
       "mother": "maria-de-lera-rodriguez",
       "observations": [
-        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "vicenta-hijo-de-maria-de-lera-rodriguez",
-      "name": "Vicenta",
+      "name": "Vicenta Méndez de Lera",
       "givenNames": "Vicenta",
-      "surnames": [],
+      "surnames": [
+        "Méndez",
+        "de Lera"
+      ],
       "mother": "maria-de-lera-rodriguez",
       "observations": [
-        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Josefa de Lera Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-bonifacio-de-paz-carrasco",
-      "name": "Teresa",
+      "name": "Teresa de Paz Pérez",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "de Paz",
+        "Pérez"
+      ],
       "father": "bonifacio-de-paz-carrasco",
       "observations": [
-        "Nombrado entre los hijos de Bonifacio Ruperto de Paz Carrasco en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Bonifacio Ruperto de Paz Carrasco en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-casimiro-vega-vega",
-      "name": "Teresa",
+      "name": "Teresa Vega Fierro",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Fierro"
+      ],
       "father": "casimiro-vega-vega",
       "observations": [
-        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "micaela-hijo-de-casimiro-vega-vega",
-      "name": "Micaela",
+      "name": "Micaela Vega Fierro",
       "givenNames": "Micaela",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Fierro"
+      ],
       "father": "casimiro-vega-vega",
       "observations": [
-        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-casimiro-vega-vega",
-      "name": "Manuel",
+      "name": "Manuel Vega Fierro",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Fierro"
+      ],
       "father": "casimiro-vega-vega",
       "observations": [
-        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-casimiro-vega-vega",
-      "name": "José",
+      "name": "José Vega Fierro",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Fierro"
+      ],
       "father": "casimiro-vega-vega",
       "observations": [
-        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Casimiro Vega Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
@@ -24534,7 +24912,8 @@
       "surnames": [],
       "mother": "catalina-gonzalo-barrocal",
       "observations": [
-        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
       ]
     },
     {
@@ -24544,7 +24923,8 @@
       "surnames": [],
       "mother": "catalina-gonzalo-barrocal",
       "observations": [
-        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
       ]
     },
     {
@@ -24554,7 +24934,8 @@
       "surnames": [],
       "mother": "catalina-gonzalo-barrocal",
       "observations": [
-        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
       ]
     },
     {
@@ -24564,1168 +24945,1647 @@
       "surnames": [],
       "mother": "catalina-gonzalo-barrocal",
       "observations": [
-        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Gonzalo Barrocal en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
       ]
     },
     {
       "id": "isidro-hijo-de-angel-garrote-garrote",
-      "name": "Isidro",
+      "name": "Isidro Garrote Antón",
       "givenNames": "Isidro",
-      "surnames": [],
+      "surnames": [
+        "Garrote",
+        "Antón"
+      ],
       "father": "angel-garrote-garrote",
       "observations": [
-        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-angel-garrote-garrote",
-      "name": "José",
+      "name": "José Garrote Antón",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Garrote",
+        "Antón"
+      ],
       "father": "angel-garrote-garrote",
       "observations": [
-        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "paula-hijo-de-angel-garrote-garrote",
-      "name": "Paula",
+      "name": "Paula Garrote Antón",
       "givenNames": "Paula",
-      "surnames": [],
+      "surnames": [
+        "Garrote",
+        "Antón"
+      ],
       "father": "angel-garrote-garrote",
       "observations": [
-        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "tadea-hijo-de-angel-garrote-garrote",
-      "name": "Tadea",
+      "name": "Tadea Garrote Antón",
       "givenNames": "Tadea",
-      "surnames": [],
+      "surnames": [
+        "Garrote",
+        "Antón"
+      ],
       "father": "angel-garrote-garrote",
       "observations": [
-        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "antonia-hijo-de-angel-garrote-garrote",
-      "name": "Antonia",
+      "name": "Antonia Garrote Antón",
       "givenNames": "Antonia",
-      "surnames": [],
+      "surnames": [
+        "Garrote",
+        "Antón"
+      ],
       "father": "angel-garrote-garrote",
       "observations": [
-        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ángel Garrote Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "miguel-hijo-de-manuel-sastre-gonzalo",
-      "name": "Miguel",
+      "name": "Miguel Sastre Sastre",
       "givenNames": "Miguel",
-      "surnames": [],
+      "surnames": [
+        "Sastre",
+        "Sastre"
+      ],
       "father": "manuel-sastre-gonzalo",
       "observations": [
-        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-manuel-sastre-gonzalo",
-      "name": "María",
+      "name": "María Sastre Sastre",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Sastre",
+        "Sastre"
+      ],
       "father": "manuel-sastre-gonzalo",
       "observations": [
-        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuel Sastre Gonzalo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "miguel-hijo-de-lucas-esteban-prieto",
-      "name": "Miguel",
+      "name": "Miguel Esteban Vega",
       "givenNames": "Miguel",
-      "surnames": [],
+      "surnames": [
+        "Esteban",
+        "Vega"
+      ],
       "father": "lucas-esteban-prieto",
       "observations": [
-        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-lucas-esteban-prieto",
-      "name": "Manuel",
+      "name": "Manuel Esteban Vega",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Esteban",
+        "Vega"
+      ],
       "father": "lucas-esteban-prieto",
       "observations": [
-        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Lucas Esteban Prieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ],
       "mother": "teresa-vega-zurdo"
     },
     {
       "id": "bernardo-hijo-de-alonso-brioso-cabrero",
-      "name": "Bernardo",
+      "name": "Bernardo Brioso Martín",
       "givenNames": "Bernardo",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Martín"
+      ],
       "father": "alonso-brioso-cabrero",
       "observations": [
-        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-alonso-brioso-cabrero",
-      "name": "María",
+      "name": "María Brioso Martín",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Martín"
+      ],
       "father": "alonso-brioso-cabrero",
       "observations": [
-        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-del-carmen-hijo-de-bernardo-alonso-cabrero",
-      "name": "María del Carmen",
+      "name": "María del Carmen Alonso Delgado",
       "givenNames": "María del Carmen",
-      "surnames": [],
+      "surnames": [
+        "Alonso",
+        "Delgado"
+      ],
       "father": "bernardo-alonso-cabrero",
       "observations": [
-        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ines-hijo-de-bernardo-alonso-cabrero",
-      "name": "Inés",
+      "name": "Inés Alonso Delgado",
       "givenNames": "Inés",
-      "surnames": [],
+      "surnames": [
+        "Alonso",
+        "Delgado"
+      ],
       "father": "bernardo-alonso-cabrero",
       "observations": [
-        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-bernardo-alonso-cabrero",
-      "name": "José",
+      "name": "José Alonso Delgado",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Alonso",
+        "Delgado"
+      ],
       "father": "bernardo-alonso-cabrero",
       "observations": [
-        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Bernardo Mariano Alonso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-alonso-de-las-heras-pozo",
-      "name": "María",
+      "name": "María de las Heras Domínguez",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Domínguez"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Mónica Domínguez."
       ]
     },
     {
       "id": "manuela-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Manuela",
+      "name": "Manuela de las Heras Domínguez",
       "givenNames": "Manuela",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Domínguez"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Mónica Domínguez."
       ]
     },
     {
       "id": "barbara-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Bárbara",
+      "name": "Bárbara de las Heras Domínguez",
       "givenNames": "Bárbara",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Domínguez"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Mónica Domínguez."
       ]
     },
     {
       "id": "juliana-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Juliana",
+      "name": "Juliana de las Heras Velasco",
       "givenNames": "Juliana",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Velasco"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Lucía Velasco; los hijos de Mónica Domínguez eran sus medio hermanos."
       ]
     },
     {
       "id": "ramon-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Ramón",
+      "name": "Ramón de las Heras Velasco",
       "givenNames": "Ramón",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Velasco"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Lucía Velasco; los hijos de Mónica Domínguez eran sus medio hermanos."
       ]
     },
     {
       "id": "jose-hijo-de-alonso-de-las-heras-pozo",
-      "name": "José",
+      "name": "José de las Heras Velasco",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Velasco"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Lucía Velasco; los hijos de Mónica Domínguez eran sus medio hermanos."
       ]
     },
     {
       "id": "gabriel-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Gabriel",
+      "name": "Gabriel de las Heras Velasco",
       "givenNames": "Gabriel",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Velasco"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Lucía Velasco; los hijos de Mónica Domínguez eran sus medio hermanos."
       ]
     },
     {
       "id": "atilano-hijo-de-alonso-de-las-heras-pozo",
-      "name": "Atilano",
+      "name": "Atilano de las Heras Velasco",
       "givenNames": "Atilano",
-      "surnames": [],
+      "surnames": [
+        "de las Heras",
+        "Velasco"
+      ],
       "father": "alonso-de-las-heras-pozo",
       "observations": [
-        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Alonso de las Heras Pozo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Lucía Velasco; los hijos de Mónica Domínguez eran sus medio hermanos."
       ]
     },
     {
       "id": "antonio-hijo-de-atilano-pascual-villar",
-      "name": "Antonio",
+      "name": "Antonio Pascual Lorenzo",
       "givenNames": "Antonio",
-      "surnames": [],
+      "surnames": [
+        "Pascual",
+        "Lorenzo"
+      ],
       "father": "atilano-pascual-villar",
       "observations": [
-        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-atilano-pascual-villar",
-      "name": "Alonso",
+      "name": "Alonso Pascual Lorenzo",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Pascual",
+        "Lorenzo"
+      ],
       "father": "atilano-pascual-villar",
       "observations": [
-        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Atilano Pascual Villar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "pedro-hijo-de-vicenta-martinez-juarez",
-      "name": "Pedro",
+      "name": "Pedro Rabanal Martínez",
       "givenNames": "Pedro",
-      "surnames": [],
+      "surnames": [
+        "Rabanal",
+        "Martínez"
+      ],
       "mother": "vicenta-martinez-juarez",
       "observations": [
-        "Nombrado entre los hijos de Manuela Vicenta Antonia Martínez Juárez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Vicenta Antonia Martínez Juárez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-francisca-roncero-perez",
-      "name": "José",
+      "name": "José Girón Roncero",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
       "mother": "francisca-roncero-perez",
       "observations": [
-        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "margarita-hijo-de-francisca-roncero-perez",
-      "name": "Margarita",
+      "name": "Margarita Girón Roncero",
       "givenNames": "Margarita",
-      "surnames": [],
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
       "mother": "francisca-roncero-perez",
       "observations": [
-        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "atilano-hijo-de-francisca-roncero-perez",
-      "name": "Atilano",
+      "name": "Atilano Girón Roncero",
       "givenNames": "Atilano",
-      "surnames": [],
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
       "mother": "francisca-roncero-perez",
       "observations": [
-        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "atilano-hijo-de-maria-perez-matos",
-      "name": "Atilano",
+      "name": "Atilano Carretero Pérez",
       "givenNames": "Atilano",
-      "surnames": [],
+      "surnames": [
+        "Carretero",
+        "Pérez"
+      ],
       "mother": "maria-perez-matos",
       "observations": [
-        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "andrea-hijo-de-maria-perez-matos",
-      "name": "Andrea",
+      "name": "Andrea Carretero Pérez",
       "givenNames": "Andrea",
-      "surnames": [],
+      "surnames": [
+        "Carretero",
+        "Pérez"
+      ],
       "mother": "maria-perez-matos",
       "observations": [
-        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "beatriz-hijo-de-maria-perez-matos",
-      "name": "Beatriz",
+      "name": "Beatriz Carretero Pérez",
       "givenNames": "Beatriz",
-      "surnames": [],
+      "surnames": [
+        "Carretero",
+        "Pérez"
+      ],
       "mother": "maria-perez-matos",
       "observations": [
-        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "juan-hijo-de-maria-perez-matos",
-      "name": "Juan",
+      "name": "Juan Carretero Pérez",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Carretero",
+        "Pérez"
+      ],
       "mother": "maria-perez-matos",
       "observations": [
-        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Pérez Matos en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-pedro-bragado-macias",
-      "name": "Francisco",
+      "name": "Francisco Bragado Calabaza",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Bragado",
+        "Calabaza"
+      ],
       "father": "pedro-bragado-macias",
       "observations": [
-        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-pedro-bragado-macias",
-      "name": "Manuel",
+      "name": "Manuel Bragado Calabaza",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Bragado",
+        "Calabaza"
+      ],
       "father": "pedro-bragado-macias",
       "observations": [
-        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "rosa-hijo-de-pedro-bragado-macias",
-      "name": "Rosa",
+      "name": "Rosa Bragado Calabaza",
       "givenNames": "Rosa",
-      "surnames": [],
+      "surnames": [
+        "Bragado",
+        "Calabaza"
+      ],
       "father": "pedro-bragado-macias",
       "observations": [
-        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "lorenza-hijo-de-pedro-bragado-macias",
-      "name": "Lorenza",
+      "name": "Lorenza Bragado Calabaza",
       "givenNames": "Lorenza",
-      "surnames": [],
+      "surnames": [
+        "Bragado",
+        "Calabaza"
+      ],
       "father": "pedro-bragado-macias",
       "observations": [
-        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "baltasara-hijo-de-pedro-bragado-macias",
-      "name": "Baltasara",
+      "name": "Baltasara Bragado Calabaza",
       "givenNames": "Baltasara",
-      "surnames": [],
+      "surnames": [
+        "Bragado",
+        "Calabaza"
+      ],
       "father": "pedro-bragado-macias",
       "observations": [
-        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Salvador Pedro Bragado Macías en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-juan-perez",
-      "name": "Teresa",
+      "name": "Teresa Pérez Matos",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
       "father": "juan-perez",
       "observations": [
-        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "isabel-hijo-de-juan-perez",
-      "name": "Isabel",
+      "name": "Isabel Pérez Matos",
       "givenNames": "Isabel",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
       "father": "juan-perez",
       "observations": [
-        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "andrea-hijo-de-juan-perez",
-      "name": "Andrea",
+      "name": "Andrea Pérez Matos",
       "givenNames": "Andrea",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
       "father": "juan-perez",
       "observations": [
-        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-juan-perez",
-      "name": "Manuel",
+      "name": "Manuel Pérez Matos",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
       "father": "juan-perez",
       "observations": [
-        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-juan-perez",
-      "name": "José",
+      "name": "José Pérez Matos",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Pérez",
+        "Matos"
+      ],
       "father": "juan-perez",
       "observations": [
-        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Jerónimo Juan Pérez Hernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jeronima-hijo-de-ana-maria-salvador",
-      "name": "Jerónima",
+      "name": "Jerónima Alonso Salvador",
       "givenNames": "Jerónima",
-      "surnames": [],
+      "surnames": [
+        "Alonso",
+        "Salvador"
+      ],
       "mother": "ana-maria-salvador",
       "observations": [
-        "Nombrado entre los hijos de Ana María Salvador Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana María Salvador Rodríguez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "isabel-hijo-de-francisco-zamora",
-      "name": "Isabel",
+      "name": "Isabel Zamora Luelmo",
       "givenNames": "Isabel",
-      "surnames": [],
+      "surnames": [
+        "Zamora",
+        "Luelmo"
+      ],
       "father": "francisco-zamora",
       "observations": [
-        "Nombrado entre los hijos de Francisco Zamora García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Zamora García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-miguel-avedillo",
-      "name": "Alonso",
+      "name": "Alonso Avedillo Bragado",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Avedillo",
+        "Bragado"
+      ],
       "father": "miguel-avedillo",
       "observations": [
-        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "pedro-hijo-de-miguel-avedillo",
-      "name": "Pedro",
+      "name": "Pedro Avedillo Bragado",
       "givenNames": "Pedro",
-      "surnames": [],
+      "surnames": [
+        "Avedillo",
+        "Bragado"
+      ],
       "father": "miguel-avedillo",
       "observations": [
-        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "bernardo-hijo-de-miguel-avedillo",
-      "name": "Bernardo",
+      "name": "Bernardo Avedillo Bragado",
       "givenNames": "Bernardo",
-      "surnames": [],
+      "surnames": [
+        "Avedillo",
+        "Bragado"
+      ],
       "father": "miguel-avedillo",
       "observations": [
-        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "antonio-hijo-de-miguel-avedillo",
-      "name": "Antonio",
+      "name": "Antonio Avedillo Bragado",
       "givenNames": "Antonio",
-      "surnames": [],
+      "surnames": [
+        "Avedillo",
+        "Bragado"
+      ],
       "father": "miguel-avedillo",
       "observations": [
-        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Miguel Avedillo Montalvo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "esteban-hijo-de-ana-chico",
-      "name": "Esteban",
+      "name": "Esteban Ponce Chico",
       "givenNames": "Esteban",
-      "surnames": [],
+      "surnames": [
+        "Ponce",
+        "Chico"
+      ],
       "mother": "ana-chico",
       "observations": [
-        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-ana-chico",
-      "name": "Francisco",
+      "name": "Francisco Ponce Chico",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Ponce",
+        "Chico"
+      ],
       "mother": "ana-chico",
       "observations": [
-        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "juan-hijo-de-ana-chico",
-      "name": "Juan",
+      "name": "Juan Ponce Chico",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Ponce",
+        "Chico"
+      ],
       "mother": "ana-chico",
       "observations": [
-        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuela-hijo-de-ana-chico",
-      "name": "Manuela",
+      "name": "Manuela Ponce Chico",
       "givenNames": "Manuela",
-      "surnames": [],
+      "surnames": [
+        "Ponce",
+        "Chico"
+      ],
       "mother": "ana-chico",
       "observations": [
-        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisca-hijo-de-ana-chico",
-      "name": "Francisca",
+      "name": "Francisca Ponce Chico",
       "givenNames": "Francisca",
-      "surnames": [],
+      "surnames": [
+        "Ponce",
+        "Chico"
+      ],
       "mother": "ana-chico",
       "observations": [
-        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Ana Chico en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-juan-rodriguez-perez",
-      "name": "María",
+      "name": "María Rodríguez Martín",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Martín"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Úrsula Martín; los hijos de Teodora Alonso eran sus medio hermanos."
       ]
     },
     {
       "id": "catalina-hijo-de-juan-rodriguez-perez",
-      "name": "Catalina",
+      "name": "Catalina Rodríguez Alonso",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Alonso"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Teodora Alonso; los hijos de Úrsula Martín eran sus medio hermanos."
       ]
     },
     {
       "id": "manuel-hijo-de-juan-rodriguez-perez",
-      "name": "Manuel",
+      "name": "Manuel Rodríguez Alonso",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Alonso"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Teodora Alonso; los hijos de Úrsula Martín eran sus medio hermanos."
       ]
     },
     {
       "id": "juan-hijo-de-juan-rodriguez-perez",
-      "name": "Juan",
+      "name": "Juan Rodríguez Alonso",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Alonso"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Teodora Alonso; los hijos de Úrsula Martín eran sus medio hermanos."
       ]
     },
     {
       "id": "gregorio-hijo-de-juan-rodriguez-perez",
-      "name": "Gregorio",
+      "name": "Gregorio Rodríguez Alonso",
       "givenNames": "Gregorio",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Alonso"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Teodora Alonso; los hijos de Úrsula Martín eran sus medio hermanos."
       ]
     },
     {
       "id": "susana-hijo-de-juan-rodriguez-perez",
-      "name": "Susana",
+      "name": "Susana Rodríguez Alonso",
       "givenNames": "Susana",
-      "surnames": [],
+      "surnames": [
+        "Rodríguez",
+        "Alonso"
+      ],
       "father": "juan-rodriguez-perez",
       "observations": [
-        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Rodríguez Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Su madre es Teodora Alonso; los hijos de Úrsula Martín eran sus medio hermanos."
       ]
     },
     {
       "id": "ana-hijo-de-catalina-garrote",
-      "name": "Ana",
+      "name": "Ana Piorno Garrote",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Piorno",
+        "Garrote"
+      ],
       "mother": "catalina-garrote",
       "observations": [
-        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuela-hijo-de-josefa-esteban",
-      "name": "Manuela",
+      "name": "Manuela Sastre Esteban",
       "givenNames": "Manuela",
-      "surnames": [],
+      "surnames": [
+        "Sastre",
+        "Esteban"
+      ],
       "mother": "josefa-esteban",
       "observations": [
-        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "catalina-hijo-de-josefa-esteban",
-      "name": "Catalina",
+      "name": "Catalina Sastre Esteban",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Sastre",
+        "Esteban"
+      ],
       "mother": "josefa-esteban",
       "observations": [
-        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "santiago-hijo-de-josefa-esteban",
-      "name": "Santiago",
+      "name": "Santiago Sastre Esteban",
       "givenNames": "Santiago",
-      "surnames": [],
+      "surnames": [
+        "Sastre",
+        "Esteban"
+      ],
       "mother": "josefa-esteban",
       "observations": [
-        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Esteban Simón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-sebastiana-gaspar",
-      "name": "Teresa",
+      "name": "Teresa Gonzalo Gaspar",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Gonzalo",
+        "Gaspar"
+      ],
       "mother": "sebastiana-gaspar",
       "observations": [
-        "Nombrado entre los hijos de Sebastiana Gaspar Piorno en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Sebastiana Gaspar Piorno en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-maria-marques-madre-de-baltasar-brioso",
-      "name": "Alonso",
+      "name": "Alonso Brioso Marqués",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Brioso",
+        "Marqués"
+      ],
       "mother": "maria-marques-madre-de-baltasar-brioso",
       "observations": [
-        "Nombrado entre los hijos de María Marqués Esteban en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Marqués Esteban en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "micaela-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "Micaela",
+      "name": "Micaela Terrón Díaz",
       "givenNames": "Micaela",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "María",
+      "name": "María Terrón Díaz",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "Alonso",
+      "name": "Alonso Terrón Díaz",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "domingo-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "Domingo",
+      "name": "Domingo Terrón Díaz",
       "givenNames": "Domingo",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ana-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "Ana",
+      "name": "Ana Terrón Díaz",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "luis-hijo-de-francisco-terron-padre-de-francisco-terron",
-      "name": "Luis",
+      "name": "Luis Terrón Díaz",
       "givenNames": "Luis",
-      "surnames": [],
+      "surnames": [
+        "Terrón",
+        "Díaz"
+      ],
       "father": "francisco-terron-padre-de-francisco-terron",
       "observations": [
-        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Terrón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "miguel-hijo-de-antonio-calabaza",
-      "name": "Miguel",
+      "name": "Miguel Calabaza Gutiérrez",
       "givenNames": "Miguel",
-      "surnames": [],
+      "surnames": [
+        "Calabaza",
+        "Gutiérrez"
+      ],
       "father": "antonio-calabaza",
       "observations": [
-        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "benito-hijo-de-antonio-calabaza",
-      "name": "Benito",
+      "name": "Benito Calabaza Gutiérrez",
       "givenNames": "Benito",
-      "surnames": [],
+      "surnames": [
+        "Calabaza",
+        "Gutiérrez"
+      ],
       "father": "antonio-calabaza",
       "observations": [
-        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-juan-martinez",
-      "name": "Francisco",
+      "name": "Francisco Martínez Martín",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Martínez",
+        "Martín"
+      ],
       "father": "juan-martinez",
       "observations": [
-        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "catalina-hijo-de-juan-martinez",
-      "name": "Catalina",
+      "name": "Catalina Martínez Martín",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Martínez",
+        "Martín"
+      ],
       "father": "juan-martinez",
       "observations": [
-        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-juan-martinez",
-      "name": "Manuel",
+      "name": "Manuel Martínez Martín",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Martínez",
+        "Martín"
+      ],
       "father": "juan-martinez",
       "observations": [
-        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Martínez García en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ines-hijo-de-josefa-delgado",
-      "name": "Inés",
+      "name": "Inés Carbajal Delgado",
       "givenNames": "Inés",
-      "surnames": [],
+      "surnames": [
+        "Carbajal",
+        "Delgado"
+      ],
       "mother": "josefa-delgado",
       "observations": [
-        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "catalina-hijo-de-josefa-delgado",
-      "name": "Catalina",
+      "name": "Catalina Carbajal Delgado",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Carbajal",
+        "Delgado"
+      ],
       "mother": "josefa-delgado",
       "observations": [
-        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "paula-hijo-de-josefa-delgado",
-      "name": "Paula",
+      "name": "Paula Carbajal Delgado",
       "givenNames": "Paula",
-      "surnames": [],
+      "surnames": [
+        "Carbajal",
+        "Delgado"
+      ],
       "mother": "josefa-delgado",
       "observations": [
-        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-josefa-delgado",
-      "name": "Francisco",
+      "name": "Francisco Carbajal Delgado",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Carbajal",
+        "Delgado"
+      ],
       "mother": "josefa-delgado",
       "observations": [
-        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "juan-hijo-de-josefa-delgado",
-      "name": "Juan",
+      "name": "Juan Carbajal Delgado",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Carbajal",
+        "Delgado"
+      ],
       "mother": "josefa-delgado",
       "observations": [
-        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Josefa Delgado Martín en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-marcos-vega",
-      "name": "Alonso",
+      "name": "Alonso Vega Salvador",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Salvador"
+      ],
       "father": "marcos-vega",
       "observations": [
-        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "catalina-hijo-de-marcos-vega",
-      "name": "Catalina",
+      "name": "Catalina Vega Salvador",
       "givenNames": "Catalina",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Salvador"
+      ],
       "father": "marcos-vega",
       "observations": [
-        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "bernardo-hijo-de-marcos-vega",
-      "name": "Bernardo",
+      "name": "Bernardo Vega Salvador",
       "givenNames": "Bernardo",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Salvador"
+      ],
       "father": "marcos-vega",
       "observations": [
-        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Marcos Vega en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "lorenzo-hijo-de-miguel-anton",
-      "name": "Lorenzo",
+      "name": "Lorenzo Antón Pozo",
       "givenNames": "Lorenzo",
-      "surnames": [],
+      "surnames": [
+        "Antón",
+        "Pozo"
+      ],
       "father": "miguel-anton",
       "observations": [
-        "Nombrado entre los hijos de Miguel Antón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Miguel Antón en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-matias-zurdo",
-      "name": "María",
+      "name": "María Zurdo Diego",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Diego"
+      ],
       "father": "matias-zurdo",
       "observations": [
-        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ana-hijo-de-matias-zurdo",
-      "name": "Ana",
+      "name": "Ana Zurdo Diego",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Diego"
+      ],
       "father": "matias-zurdo",
       "observations": [
-        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "miguel-hijo-de-matias-zurdo",
-      "name": "Miguel",
+      "name": "Miguel Zurdo Diego",
       "givenNames": "Miguel",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Diego"
+      ],
       "father": "matias-zurdo",
       "observations": [
-        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "micaela-hijo-de-matias-zurdo",
-      "name": "Micaela",
+      "name": "Micaela Zurdo Diego",
       "givenNames": "Micaela",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Diego"
+      ],
       "father": "matias-zurdo",
       "observations": [
-        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "antonia-hijo-de-matias-zurdo",
-      "name": "Antonia",
+      "name": "Antonia Zurdo Diego",
       "givenNames": "Antonia",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Diego"
+      ],
       "father": "matias-zurdo",
       "observations": [
-        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Matías Zurdo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-francisco-ramos",
-      "name": "Manuel",
+      "name": "Manuel Ramos Bambón",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Ramos",
+        "Bambón"
+      ],
       "father": "francisco-ramos",
       "observations": [
-        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-francisco-ramos",
-      "name": "Francisco",
+      "name": "Francisco Ramos Bambón",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Ramos",
+        "Bambón"
+      ],
       "father": "francisco-ramos",
       "observations": [
-        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "cecilia-hijo-de-francisco-ramos",
-      "name": "Cecilia",
+      "name": "Cecilia Ramos Bambón",
       "givenNames": "Cecilia",
-      "surnames": [],
+      "surnames": [
+        "Ramos",
+        "Bambón"
+      ],
       "father": "francisco-ramos",
       "observations": [
-        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Francisco Ramos Urueña en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-maria-bartolo",
-      "name": "Manuel",
+      "name": "Manuel Martín Bartolo",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-maria-bartolo",
-      "name": "María",
+      "name": "María Martín Bartolo",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "ana-hijo-de-maria-bartolo",
-      "name": "Ana",
+      "name": "Ana Martín Bartolo",
       "givenNames": "Ana",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "vicente-hijo-de-maria-bartolo",
-      "name": "Vicente",
+      "name": "Vicente Martín Bartolo",
       "givenNames": "Vicente",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "pedro-hijo-de-maria-bartolo",
-      "name": "Pedro",
+      "name": "Pedro Martín Bartolo",
       "givenNames": "Pedro",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "juan-hijo-de-maria-bartolo",
-      "name": "Juan",
+      "name": "Juan Martín Bartolo",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "felipe-hijo-de-maria-bartolo",
-      "name": "Felipe",
+      "name": "Felipe Martín Bartolo",
       "givenNames": "Felipe",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Bartolo"
+      ],
       "mother": "maria-bartolo",
       "observations": [
-        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Bartolo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "jose-hijo-de-catalina-garrote-madre-de-juana-benito",
-      "name": "José",
+      "name": "José Benito Garrote",
       "givenNames": "José",
-      "surnames": [],
+      "surnames": [
+        "Benito",
+        "Garrote"
+      ],
       "mother": "catalina-garrote-madre-de-juana-benito",
       "observations": [
-        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-catalina-garrote-madre-de-juana-benito",
-      "name": "Teresa",
+      "name": "Teresa Benito Garrote",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Benito",
+        "Garrote"
+      ],
       "mother": "catalina-garrote-madre-de-juana-benito",
       "observations": [
-        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Catalina Garrote en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "pedro-hijo-de-maria-nieto",
-      "name": "Pedro",
+      "name": "Pedro Martín Nieto",
       "givenNames": "Pedro",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Nieto"
+      ],
       "mother": "maria-nieto",
       "observations": [
-        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "alonso-hijo-de-maria-nieto",
-      "name": "Alonso",
+      "name": "Alonso Martín Nieto",
       "givenNames": "Alonso",
-      "surnames": [],
+      "surnames": [
+        "Martín",
+        "Nieto"
+      ],
       "mother": "maria-nieto",
       "observations": [
-        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de María Nieto Nieto en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "manuel-hijo-de-sebastiana-mayordomo",
-      "name": "Manuel",
+      "name": "Manuel Zurdo Mayordomo",
       "givenNames": "Manuel",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Mayordomo"
+      ],
       "mother": "sebastiana-mayordomo",
       "observations": [
-        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "micaela-hijo-de-sebastiana-mayordomo",
-      "name": "Micaela",
+      "name": "Micaela Zurdo Mayordomo",
       "givenNames": "Micaela",
-      "surnames": [],
+      "surnames": [
+        "Zurdo",
+        "Mayordomo"
+      ],
       "mother": "sebastiana-mayordomo",
       "observations": [
-        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Sebastiana Mayordomo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "miguel-hijo-de-juan-vega-rodrigo",
-      "name": "Miguel",
+      "name": "Miguel Vega Antón",
       "givenNames": "Miguel",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "francisco-hijo-de-juan-vega-rodrigo",
-      "name": "Francisco",
+      "name": "Francisco Vega Antón",
       "givenNames": "Francisco",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "juan-hijo-de-juan-vega-rodrigo",
-      "name": "Juan",
+      "name": "Juan Vega Antón",
       "givenNames": "Juan",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "atilana-hijo-de-juan-vega-rodrigo",
-      "name": "Atilana",
+      "name": "Atilana Vega Antón",
       "givenNames": "Atilana",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "angela-hijo-de-juan-vega-rodrigo",
-      "name": "Ángela",
+      "name": "Ángela Vega Antón",
       "givenNames": "Ángela",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "sebastiana-hijo-de-juan-vega-rodrigo",
-      "name": "Sebastiana",
+      "name": "Sebastiana Vega Antón",
       "givenNames": "Sebastiana",
-      "surnames": [],
+      "surnames": [
+        "Vega",
+        "Antón"
+      ],
       "father": "juan-vega-rodrigo",
       "observations": [
-        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Juan Vega Rodrigo en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "maria-hijo-de-manuela-gaspar",
-      "name": "María",
+      "name": "María Mayordomo Gaspar",
       "givenNames": "María",
-      "surnames": [],
+      "surnames": [
+        "Mayordomo",
+        "Gaspar"
+      ],
       "mother": "manuela-gaspar",
       "observations": [
-        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "teresa-hijo-de-manuela-gaspar",
-      "name": "Teresa",
+      "name": "Teresa Mayordomo Gaspar",
       "givenNames": "Teresa",
-      "surnames": [],
+      "surnames": [
+        "Mayordomo",
+        "Gaspar"
+      ],
       "mother": "manuela-gaspar",
       "observations": [
-        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "antonia-hijo-de-manuela-gaspar",
-      "name": "Antonia",
+      "name": "Antonia Mayordomo Gaspar",
       "givenNames": "Antonia",
-      "surnames": [],
+      "surnames": [
+        "Mayordomo",
+        "Gaspar"
+      ],
       "mother": "manuela-gaspar",
       "observations": [
-        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista."
+        "Nombrado entre los hijos de Manuela Gaspar en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     },
     {
       "id": "dionisia-hijo-de-teresa-vega-zurdo",
-      "name": "Dionisia",
+      "name": "Dionisia Esteban Vega",
       "givenNames": "Dionisia",
-      "surnames": [],
+      "surnames": [
+        "Esteban",
+        "Vega"
+      ],
       "mother": "teresa-vega-zurdo",
       "observations": [
-        "Nombrada entre los hijos de Teresa Vega Zurdo en la observación de su partida."
+        "Nombrada entre los hijos de Teresa Vega Zurdo en la observación de su partida.",
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
       ]
     }
   ]

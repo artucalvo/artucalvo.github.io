@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "batch": "Apellidos de hermanos documentados",
+  "reviewedOn": "2026-11-12",
+  "method": [
+    "A petición de la familia se completan los apellidos con los del hermano y, cuando se conoce, los de sus progenitores. Las fichas indican que los apellidos se deducen del parentesco y no de una mención nominal completa. No se crean nuevos enlaces parentales a partir de la deducción.",
+    "Se aplican las filiaciones diferenciadas en las partidas de Alonso de las Heras y Juan Rodríguez. Los cuatro hijos de Catalina Gonzalo sin padre identificado conservan el nombre de pila y una observación sobre sus dos matrimonios.",
+    "Bernardo Brioso de Mena recibe de forma inferida el apellido materno que una decisión anterior había dejado sin incorporar; el bautismo y su filiación siguen sin cambios."
+  ],
+  "assigned": [
+    {
+      "id": "isabel-sesma-hija-de-isabel-crespo",
+      "name": "Isabel Sesma Crespo",
+      "surnames": [
+        "Sesma",
+        "Crespo"
+      ]
+    },
+    {
+      "id": "isabel-sesma-hija-de-isabel-crespo",
+      "name": "Isabel Sesma Crespo",
+      "surnames": [
+        "Sesma",
+        "Crespo"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "jose-hijo-de-catalina-gonzalo-barrocal",
+      "name": "José",
+      "anchor": "antonia-feltrero-gonzalo",
+      "surnames": [],
+      "note": "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
+    },
+    {
+      "id": "manuel-hijo-de-catalina-gonzalo-barrocal",
+      "name": "Manuel",
+      "anchor": "antonia-feltrero-gonzalo",
+      "surnames": [],
+      "note": "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
+    },
+    {
+      "id": "francisco-hijo-de-catalina-gonzalo-barrocal",
+      "name": "Francisco",
+      "anchor": "antonia-feltrero-gonzalo",
+      "surnames": [],
+      "note": "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
+    },
+    {
+      "id": "maria-hijo-de-catalina-gonzalo-barrocal",
+      "name": "María",
+      "anchor": "antonia-feltrero-gonzalo",
+      "surnames": [],
+      "note": "Su madre tuvo matrimonios con Bernardo Feltrero y Miguel Vega; la relación no precisa quién era el padre, por lo que se desconocen sus apellidos."
+    }
+  ]
+}

@@ -67,6 +67,9 @@ function validateEvent(event, context) {
   for (const field of ['place', 'note', 'transcription']) {
     if (event[field] !== undefined && !isText(event[field])) fail(`${context}.${field}: expected nonempty text.`);
   }
+  if (typeof event.transcription === 'string' && (/\r/.test(event.transcription) || /(?<!\n)\n(?!\n)/.test(event.transcription))) {
+    fail(`${context}.transcription: use paragraphs separated by blank lines, without source line breaks.`);
+  }
   if (event.documents !== undefined) {
     fail(`${context}.documents: this repository does not store images, so events cannot have documents. Remove the field (see familia/README.md).`);
   }

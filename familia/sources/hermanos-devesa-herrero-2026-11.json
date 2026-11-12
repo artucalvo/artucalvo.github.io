@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "batch": "Hermanos Devesa Blanco y Herrero Fernández",
+  "reviewedOn": "2026-11-12",
+  "source": "Información facilitada por la familia el 12 de noviembre de 2026.",
+  "relationships": [
+    {
+      "person": "antonio-devesa-blanco",
+      "siblings": ["german-devesa-blanco", "carmen-devesa-blanco", "consuelo-devesa-blanco"]
+    },
+    {
+      "person": "josefa-herrero-fernandez",
+      "siblings": ["domingo-herrero-fernandez", "anacleto-herrero-fernandez", "carmen-herrero-fernandez", "antonio-herrero-fernandez"],
+      "note": "Antonio emigró a Lomas de Zamora, Argentina, en los años 50."
+    }
+  ],
+  "interpretation": "Se asignan los mismos apellidos y progenitores que a los hermanos ya registrados, como interpretación de la información familiar; no se añaden fechas ni lugares de nacimiento."
+}
