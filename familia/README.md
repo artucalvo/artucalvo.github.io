@@ -76,6 +76,8 @@ En la carpeta de tatarabuelos segundos constan cuatro oficios más: Manuel Prada
 
 En la carpeta de tatarabuelos terceros, con partidas de 1713 a 1853, ninguna expresa un oficio. Solo constan cargos y condiciones, recogidos como observaciones: Bernardo Alonso Salvador y Bernardo Alonso Cabrero, familiares del Santo Oficio (1714 y 1818); José Piorno Zurdo, que casó en 1769 con licencia del coronel de Milicias de Salamanca y no testó en 1813 «por ser pobre».
 
+En la carpeta de tatarabuelos cuartos, con partidas de 1679 a 1825, tampoco consta ningún oficio expreso. Fernando Delgado Ramos era «estudiante de Filosofía» en Santo Domingo de Zamora cuando fue padrino de su hermana en 1768, y el matrimonio de Manuel Vega Antón (1739) llama a su padre «Juan Vega Molinero», que puede ser un apodo; los dos datos se recogen como observaciones.
+
 No se han registrado como profesión, a falta de una decisión de la familia:
 
 - Los cargos y condiciones: José Zurdo, alcalde al morir en 1748; Andrés Delgado, «capitán»; Francisco Zamora, «el hidalgo», y seis personas cuyas partidas de fallecimiento o entierro las llaman pobres.
@@ -877,7 +879,7 @@ Las fechas de nacimiento de Isabel Alonso Zamora (29-01-1714), Manuel Hernández
 
 Dudas que quedan en el registro y conviene conocer:
 
-- El bautismo archivado como «Josefa Valladolid Ocampo» (25-02-1767) es el de una niña a la que se puso por nombre Josefa. El árbol atribuía su fecha de nacimiento, 18-02-1767, a Antonia Valladolid Ocampo, a quien su matrimonio y su entierro llaman Antonia. Se enlaza con ella, con una nota en el bautismo; el entierro le da 64 años en 1824 y sus padres casaron en 1759, de modo que Josefa podría ser una hermana menor.
+- El bautismo archivado como «Josefa Valladolid Ocampo» (25-02-1767) es el de una niña a la que se puso por nombre Josefa. El árbol atribuía su fecha de nacimiento, 18-02-1767, a Antonia Valladolid Ocampo, a quien su matrimonio y su entierro llaman Antonia. Se enlazó con ella, con una nota en el bautismo; el entierro le da 64 años en 1824 y sus padres casaron en 1759, de modo que Josefa podría ser una hermana menor. **Rectificado en la décima sesión:** el entierro de su padre, Francisco Valladolid (1799), nombra a sus dos hijas, Antonia y Josefa; el bautismo pasa a una ficha nueva de Josefa y Antonia queda nacida hacia 1760.
 - El mes del bautismo de Teresa Terrón Campo está enmendado: sobre la palabra original se escribió «Henero» con otra tinta. Se conservan las fechas del árbol (8 y 15 de junio de 1743).
 - El bautismo de Joaquina Roncero (22-03-1748) empieza diciendo que nació ese día y añade entre paréntesis «q nació el día tre de este mes». Se conserva el nacimiento del árbol, con una nota.
 - «Juan Pérez Miguel b» es el bautismo de un hermano mayor del mismo nombre (1740), con la nota marginal «murió»; queda sin enlazar.
@@ -886,6 +888,53 @@ Dudas que quedan en el registro y conviene conocer:
 Firmas corregidas por comparación entre partidas, también en las sesiones anteriores: el cura de Gáname de 1744 a 1763 es Tomás Sáez de Angulo y Varredo (un bautismo de 1747 escribe entero «Sáez de Varredo»; su firma abreviada pasa de «Rz» a «Sz»), y el de 1767 a 1777, «Domingo de la Cagiga»; «fr. Joseph Ygnº de Castro» firma el matrimonio Feltrero–Gonzalo; «Barme Díez Berde», el bautismo de Bernardo Morales; «Dn Bernardo Roncero», sin más palabras, el de Margarita Girón. En las partidas de la séptima sesión, el testamentario de Agustina Garrote es Pedro Santiago; el de Antonia Valladolid, José Perdigón, y Teresa Terrón pidió el hábito «de la Aldea».
 
 Pendiente: las carpetas de tatarabuelos cuartos (255 imágenes sin registrar), quintos (295), sextos (173), séptimos (48), «Otros familiares» (88) y «Abuelos» (9).
+
+**Décima sesión (12-11-2026): tatarabuelos cuartos completos, con sus hermanos.** Se han leído las 255 fotografías de la carpeta «Tatarabuelos cuartos» que no tenían asiento. Las 293 fotografías de la carpeta tienen ya asiento: 260 en [`sources/cuartos-fotografias.json`](sources/cuartos-fotografias.json), con 224 asientos, y 33 en el registro de la carpeta inicial. Las 38 que ya estaban registradas se dejaron como estaban, salvo una firma. De las 125 personas de esa generación, 100 tienen ya transcrito su bautismo, 91 su matrimonio y 94 su fallecimiento o entierro, con las velaciones, las dispensas, los bautismos de socorro, los testamentos y los herederos que expresan las partidas. Por indicación de la familia, el árbol representa ahora también a los hermanos: se añaden 67 fichas (1.474 personas en total), de las que 65 son hermanos o hijos que nombran las partidas y dos son madres que faltaban.
+
+Correcciones a los resúmenes familiares por lectura directa:
+
+| Persona | Antes | Ahora | Motivo |
+| --- | --- | --- | --- |
+| Antonia Alcántara Pérez | Nació y fue bautizada el 19-01-1709 | 20-01-1709 | La partida dice «En veinte días»; la bautizaron el mismo día. |
+| Ana María Martín Rodríguez | Nació el 30-10-1704 | 21-10-1704 | El 30 es el bautismo; la partida dice que «avía nuebe días que era nazida». |
+| Antonia Burrieza Salvador | Bautismo el 01-01-1713 | 21-12-1712 | La bautizaron de necesidad en casa el 21; el 1 de enero recibió los óleos. |
+| Baltasar Brioso Marqués | Bautismo el 13-04-1725 | 11-04-1725 | La partida dice «onze». |
+| Diego Martín y María Avedillo | Matrimonio el 10-07-1738 | 02-07-1738 | La partida dice «a dos días del mes de Julio». |
+| Francisco Sastre y Ana Delgado | Matrimonio el 26-01-1775 | 26-01-1771 | «Mil setecientos setenta y uno»; el asiento siguiente es de mayo de 1771 y su hija Antonia nació en 1772. |
+| Jerónimo Calabaza Gutiérrez | Nació el 14-08-1727 | 11-08-1727 | La partida rehecha en 1742 y la nota de 1727 dicen «a onze de Agosto». |
+| José Antón Almaraz | Bautismo el 05-02-1711 | 28-01-1711 | Lo bautizaron de necesidad al nacer; el 5 de febrero recibió los óleos. |
+| Juan Gonzalo Diego | Nació el 11-09-1698 | 04-09-1698 | El 11 es el bautismo; la partida dice que nació el día cuatro. |
+| Manuel Alonso Pérez y Antonia Ufano | Matrimonio el 26-11-1705 | 16-11-1704 | El 26-11-1705 son las velaciones, anotadas al margen. |
+| Manuel Méndez y Ana María Martín | Matrimonio el 10-06-1743 | 18-03-1743 | El 10 de junio son las velaciones, anotadas al pie. |
+| Manuel Pascual y Josefa Villar | Matrimonio el 10-05-1762 | 22-03-1762 | El 10 de mayo son las velaciones, anotadas en la misma página. |
+| María Manuela Fernández García | Bautismo el 11-01-1740 | 27-12-1739 | La bautizaron de socorro el 27, enferma; el 11 de enero se suplieron las ceremonias. |
+| María Peña Domínguez | Nació el 24-09-1714 | 08-09-1714 | El 24 es el bautismo; la partida dice que nació el sábado 8. |
+| Pedro Garrote Morales | Nació el 18-06-1713 | 06-06-1713 | El 18 es el bautismo; la partida dice que nació el día seis. |
+| Francisco Valladolid Carbajal | Falleció el 02-01-1799 | 12-01-1799 | La partida dice «falleció en doze». |
+| Josefa Villar Ortizo | Falleció el 14-08-1782 | 14-08-1792 | La partida dice «nobenta y dos»; el asiento siguiente es de septiembre de 1792. |
+| Margarita Pereruela Hernández | Falleció el 04-10-1780 | 04-11-1780 | La partida dice «En quatro de Noviembe»; el asiento anterior es del 7 de octubre. |
+| María Esteban Roncero | Falleció el 08-12-1735 | 09-12-1735 | La partida dice que murió «a nuebe de diziembre». |
+| María Pérez Blanco | Falleció el 29-08-1738 | 30-08-1738 | La partida dice «En treinta de Agosto… murió». |
+| Ángela Campo Delgado | Falleció el 25-12-1764 | 25-12-1774 | El entierro, del 26, dice «mill setecientos setenta y quatro». |
+| Antonia Valladolid Ocampo | Nació el 18-02-1767 | Hacia 1760 | Ese bautismo es el de su hermana Josefa (véase la novena sesión). |
+
+El árbol no tenía fechas para Esteban Martín Marqués (nacido el 02-08-1737 y bautizado el 14 en Morales del Vino), Lorenzo Feltrero Calles (nacido el 30-07-1707 y bautizado en agosto en Fadón; el día se perdió con la página rota) ni Lorenzo Roncero Herrero (nacido el 06-08-1712 y bautizado el 18 en Tardobispo). En diecisiete personas la fecha de nacimiento era en realidad la del bautismo y se anota así; en Luisa Martín Izquierdo es la de los óleos y en María Manuela Fernández, la del bautismo de socorro. Cuatro nombres se amplían con los del bautismo: Antonio José de Paz Andrés, Emerenciana Francisca García Martínez, María Manuela Fernández García y Silvestre Eugenio Martínez Martínez. Los bautismos de necesidad se fechan el día en que se administraron, con las ceremonias en la nota. La partida de Pedro Garrote Morales (1749) no deja claro si el 13 de julio es el día de la muerte o el del entierro, y se mantiene la muerte el 12.
+
+Hermanos añadidos a partir de las partidas. Con sus dos padres, cuando la partida los nombra o nombra a la madre como viuda o mujer del padre: Andrés Piorno Garrote, gemelo de Manuel; Manuela Tomasa Barrocal Melado, hermana de Josefa (la imagen lleva su nombre, pero la antepasada se llama Josefa en su matrimonio y en su entierro); Manuel (1779) y Paula (1771) Pérez Roncero; Josefa y fray Santiago Valladolid Ocampo; Manuel Martín Carrascal; Gregorio e Isabel Sastre Delgado; Ramona de Lera Rodríguez; Ángela Alonso Zamora; Jacinta Calvo Pérez, mujer de Juan de Alcántara, de Venialbo; Blas, Juan y María Alonso Cabrero, y Gabriel, que ya estaba como hermano de Bernardo y se enlaza ahora con sus padres; fray Alonso, Juan y Lorenzo Martín Avedillo; Francisco Feltrero Esteban; Pedro e Inés Santiago Garrote; Manuel, Francisca, Bernardo y Miguel Roncero Hernández; Juan, José, Teresa y Jerónima Roncero Pérez; Alonso Rodríguez Alonso, que solo consta en el índice del libro de bautismos, y Juan, Alonso y Catalina Garrote Andrés, por el entierro de su madre, Inés Andrés, que se leyó en la carpeta de los sextos para identificar a Alonso Garrote, padrino y «tío» de sus sobrinos Pascual y María. Solo con el padre, cuando la partida no nombra a la madre o el padre casó dos veces: Petrona, Alonso y Francisco Terrón; Marcos Vega Zurdo; Domingo Maíllo; Felipa y Bernarda Rodríguez; Venancio Lorenzo Martín, a quien el entierro de su padre aparta de los hijos legítimos; Fernando, Luis, José y Ana María Delgado Ramos; Paula, Polonia, Rafael, José y Alonso Domínguez, de una de las dos mujeres de su padre; Luis Méndez, de un matrimonio anterior de su padre, y Antonia Garrote, ya difunta en 1779. Solo con la madre: Serafín, Isabel y Alonso Pascual Villar, y Francisco, Teresa y Dionisia de las Heras Pozo. Como hermanos sin padres conocidos, con el enlace recíproco de `siblings`: Juan Marqués, hermano de María Marqués Casaseca; Sebastiana Esteban, hermana de María Esteban; Manuel Garrote, hermano de Pedro Garrote Morales, y Custodio Alonso Salvador, cura de Morales de Toro, a quien el bautismo de Nicolás Alonso Zamora llama tío del niño: se le tiene por hermano de Bernardo Alonso Salvador por el parentesco y por los dos apellidos. Se añade también a Cristóbal Santiago Garrote, hijo de Alonso Santiago y Agustina Garrote, muerto párvulo en 1779. Las madres nuevas son María Rodríguez, natural de Pereruela, madre de Jerónima Martín Rodríguez, y Ana Melado, de Salce, madre de Micaela Esteban. Los apellidos que las partidas no dan se deducen de los padres y se advierte en cada ficha.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- La dispensa del matrimonio de Pascual Garrote y María Garrote (1741) es de cuarto grado de consanguinidad, pero en el árbol sus padres, Marcos y Domingo Garrote, son hermanos, lo que los haría primos hermanos. No se cambia nada.
+- El bautismo de María Terrón (1683) llama «aguelos» a los padrinos, Miguel Terrón y Catalina Manzano, pero el árbol da por muertos en 1679 a su abuelo Miguel Terrón y a la mujer de este, Inés de la Iglesia.
+- El bautismo de Ángela Campo Delgado llama a su madre Ysabel Calbo; su matrimonio y el bautismo de su hija, Ysabel Delgado, como el árbol. Francisca Isabel Ocampo figura como «Ysabel Fernández del Campo» en su matrimonio y en su entierro, y Jerónima Pérez Luelmo como «Gerónima María» en su matrimonio. Son diferencias de nombre y se dejan como están.
+- Emerenciana García murió en 1791 como mujer de Andrés Maíllo, y Manuela Garrido en 1764 como mujer de Domingo Santiago; serán Andrés Maíllo Díez y Domingo Santiago Mateos, viudos de Teodora Hernández y de Teresa Garrote, pero las partidas no lo dicen y no se enlazan como matrimonios.
+- No se añaden, por falta de datos: el segundo y el tercer heredero de Manuel Alonso Pérez (1718), cuyos nombres no se leen en una fotografía desenfocada; Miguel Vega, «tío carnal» de Miguel Vega Zurdo, a quien no nombran entre sus hijos los entierros de sus supuestos padres, y un niño bautizado el mismo día que Águeda Gonzalo (1731) y nacido el mismo día, cuyos padres quedan fuera de la imagen.
+- Los bautismos de Pedro Salvador (1679) y de Vicente Martín (1744) están muy desvaídos: no se leen el día del primero ni casi nada del segundo, y se mantienen las fechas del árbol.
+- Quedan sin enlace tres bautismos de homónimos: Juan Gonzalo Gallego (1706), María Rosa Ramos Martín (1717) y Ángela Macías Franco (1754), que no puede ser la antepasada, Ángela Macías Manzano, nacida en 1727. La carpeta de los quintos guarda imágenes de los padres de esta última homónima.
+
+Firmas corregidas por comparación entre partidas: el cura de Morales de 1713 a 1728 firma «Dn Diº Phe de la Torre» (Diego Felipe), también en el bautismo de Catalina Cabrero Marqués que se había leído «D.n P.o G.z de la Torre»; el de Peleas de Arriba en 1764, «Dn Joseph Pardo», y el de El Cubo en 1755-1761, «Joseph Rz Cuenllas». La confirmación de Vicente Martín (Zamora, 1759) se registra con el tipo `confirmation` y como observación, porque las fichas no tienen un evento de confirmación; la página del índice del libro de bautismos de Casaseca, con el tipo `index`.
+
+Pendiente: las carpetas de tatarabuelos quintos (295 imágenes sin registrar), sextos (172), séptimos (48), «Otros familiares» (88) y «Abuelos» (9).
 
 ## Rama Unzueta de Arrasate
 

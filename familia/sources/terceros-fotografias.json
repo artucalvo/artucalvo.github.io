@@ -1389,38 +1389,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "Josefa Valladolid Ocampo.JPG",
-          "sha256": "63114d1764907483e7ac6bc4d059e04acc046a1ad2fa5599cabc7f345c8d4cfc",
-          "width": 2848,
-          "height": 4288
-        },
-        {
-          "filename": "Josefa Valladolid Ocampob.JPG",
-          "sha256": "0b50fde89d386131ef4bb1fd36536df9990145c723d07936ec5e9adb7bf6a041",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1767-02-25",
-      "place": "Casaseca de las Chanas",
-      "transcription": "En veinte y cinco de febrero de mil setecientos sesenta y siete, io el infraescripto Cura propio de la Ygla de Sn Juan Baptista, Parroquial de este lugar de Casaseca de las Chanas, Baptizé solemnemte y puse los Santos óleos a una Niña que nació en Diez y ocho de dicho mes, hija lexma de Franco Valld y de Ysavel Ocampo, el uno Vecino y Natural de este y la otra del Lugar de Periquela; Nieta por la línea Paterna de Santiago Valld, Vecino de Pontejos, y Franca Carvajal, ia Difunta, Natural que fue de este lugar, y por la Materna de Thomás Ocampo y María Rodríguez, ia Difuntos, Vecinos de dicho lugar de Periquela; Llamose Jpha; fueron Padrinos Dn Jph Martín, Presvítero, y María Valld, su tía, Moza soltera, a quienes previne sus obligaciones, de que fueron testigos Juan Morales, Agustín Hernz y Luis Ponze, sachristán, y así para que conste lo firmo dicho día, Mes y año. Barthe Díez Berde.\n\nConcuerda esta Partida con la defectuosa del folio Quinientos Cinquenta y uno que antecede, que lo Roto que demuestra va suplido en la presente, Respecto a las Razones adquiridas dadas por las personas contenidas en Diligencia del folio Quatrocientos Sesenta y dos, que se Repite del Quinientos y quatro; y para que conste y obre sus devidos efectos lo firmo como Cura Ecónomo de la Parroquial de este lugar, en virtud de la Comon que se me dio por el Yllmo Sr obispo de esta Diócesis, que está al folio Quatrocientos Sesenta y uno. Casaseca de las Chanas y Jullio quatro de mil Setezs setenta y uno. Joseph Antonio López.",
-      "uncertainties": [
-        "La primera imagen es la copia corregida de 1771 y la segunda, el asiento original del folio 551, roto por la derecha y en parte tapado por una hoja; se transcribe la copia, con su nota de concordancia. El margen con el nombre queda oculto en el pliegue en ambas.",
-        "La niña bautizada se llamó «Jpha» (Josefa): el archivo lleva el nombre «Josefa Valladolid Ocampo» y el árbol atribuye su fecha de nacimiento, 18-02-1767, a Antonia Valladolid Ocampo, a quien su matrimonio (1785) y su entierro (1824) llaman Antonia. Se enlaza con ella con esa reserva: el entierro le da 64 años, lo que la haría nacer hacia 1760, y sus padres casaron el 5 de septiembre de 1759, de modo que Josefa podría ser una hermana menor.",
-        "«Periquela» es Pereruela. El original lo firma «Barme Díez Berde»."
-      ],
-      "status": "incorporada",
-      "personIds": [
-        "antonia-valladolid-ocampo"
-      ],
-      "applied": [
-        "Bautismo el 25-02-1767 en Casaseca de las Chanas con transcripción y nota sobre el nombre."
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "José Maíllo Hernández.JPG",
           "sha256": "f0ad3df7112044c34e35d93c29dec9774cc8c16f75d878950272e453cca1396e",
           "width": 4288,
@@ -2158,7 +2126,7 @@
       "place": "Casaseca de las Chanas",
       "transcription": "Antonia Valladolid. Testó. Cumplido. Suárez.\n\nEn nuebe de Diciembre de mil ochoctos vte y quatro, yo el Br Dn Josef Antº Suárez, Párroco de la Ygla de Sn Juº Bautista, única del lugar de Casaseca de las Chanas, di sepultura eclesiástica en la octaba de la tercera fila, grada abajo de dha Yglesia, al cadáber de Antonia Valladolid, viuda de Bernardo Morales, qe falleció el día antes, de hedad de sesenta y quatro años; recibió todos los sacramentos y aplicaon de indulgencias; hizo testamento ante Manuel Mrn Sebillano, fiel de fechos del referido lugar; dejó mil rs pr bien de su Alma a la voluntad de sus testamentarios, Josef Perdigón y Santiago Morales; dejó quatro hijos casados, llamados Santiago, Anacleto, María y Juana, y pª qe conste lo firmo. Josef Antº Suárez.",
       "uncertainties": [
-        "«Mil rs» y el apellido del testamentario «Perdigón» se leen con reservas. Le da 64 años, frente a los 57 que tendría de haber nacido en febrero de 1767 (véase la duda sobre su bautismo).",
+        "«Mil rs» y el apellido del testamentario «Perdigón» se leen con reservas. Le da 64 años: nació hacia 1760. El bautismo de 1767 que se le atribuyó en la revisión de los terceros es el de su hermana Josefa.",
         "Nombra cuatro hijos casados: Santiago, Anacleto, María y Juana."
       ],
       "status": "incorporada",
@@ -3309,6 +3277,38 @@
       ],
       "applied": [
         "Bautismo el 02-03-1744 en Abelón con transcripción."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Josefa Valladolid Ocampo.JPG",
+          "sha256": "63114d1764907483e7ac6bc4d059e04acc046a1ad2fa5599cabc7f345c8d4cfc",
+          "width": 2848,
+          "height": 4288
+        },
+        {
+          "filename": "Josefa Valladolid Ocampob.JPG",
+          "sha256": "0b50fde89d386131ef4bb1fd36536df9990145c723d07936ec5e9adb7bf6a041",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1767-02-25",
+      "place": "Casaseca de las Chanas",
+      "transcription": "En veinte y cinco de febrero de mil setecientos sesenta y siete, io el infraescripto Cura propio de la Ygla de Sn Juan Baptista, Parroquial de este lugar de Casaseca de las Chanas, Baptizé solemnemte y puse los Santos óleos a una Niña que nació en Diez y ocho de dicho mes, hija lexma de Franco Valld y de Ysavel Ocampo, el uno Vecino y Natural de este y la otra del Lugar de Periquela; Nieta por la línea Paterna de Santiago Valld, Vecino de Pontejos, y Franca Carvajal, ia Difunta, Natural que fue de este lugar, y por la Materna de Thomás Ocampo y María Rodríguez, ia Difuntos, Vecinos de dicho lugar de Periquela; Llamose Jpha; fueron Padrinos Dn Jph Martín, Presvítero, y María Valld, su tía, Moza soltera, a quienes previne sus obligaciones, de que fueron testigos Juan Morales, Agustín Hernz y Luis Ponze, sachristán, y así para que conste lo firmo dicho día, Mes y año. Barthe Díez Berde.\n\nConcuerda esta Partida con la defectuosa del folio Quinientos Cinquenta y uno que antecede, que lo Roto que demuestra va suplido en la presente, Respecto a las Razones adquiridas dadas por las personas contenidas en Diligencia del folio Quatrocientos Sesenta y dos, que se Repite del Quinientos y quatro; y para que conste y obre sus devidos efectos lo firmo como Cura Ecónomo de la Parroquial de este lugar, en virtud de la Comon que se me dio por el Yllmo Sr obispo de esta Diócesis, que está al folio Quatrocientos Sesenta y uno. Casaseca de las Chanas y Jullio quatro de mil Setezs setenta y uno. Joseph Antonio López.",
+      "uncertainties": [
+        "La primera imagen es la copia corregida de 1771 y la segunda, el asiento original del folio 551, roto por la derecha y en parte tapado por una hoja; se transcribe la copia, con su nota de concordancia. El margen con el nombre queda oculto en el pliegue en ambas.",
+        "La niña bautizada se llamó «Jpha» (Josefa), como dice el nombre del archivo. En la revisión de los terceros se enlazó con su hermana Antonia, con reservas; la partida de entierro de su padre (1799) nombra a sus dos hijas, Antonia y Josefa, y la de Antonia (1824) le da 64 años, de modo que Antonia nació hacia 1760 y esta partida es la de Josefa.",
+        "«Periquela» es Pereruela. El original lo firma «Barme Díez Berde»."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "josefa-valladolid-ocampo"
+      ],
+      "applied": [
+        "Nueva persona: Josefa Valladolid Ocampo, nacida el 18-02-1767 y bautizada el 25-02-1767 en Casaseca de las Chanas, con transcripción. Se retiran de Antonia el bautismo y la fecha de nacimiento."
       ]
     }
   ]

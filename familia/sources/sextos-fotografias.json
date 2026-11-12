@@ -131,6 +131,30 @@
       "applied": [
         "Transcripción en el matrimonio de ambos cónyuges; nota con la velación; Alonso Román pasa a nacido en Arcenillas (antes Morales del Vino, que queda como lugar de origen); observación con su viudez."
       ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Inés Andrés.JPG",
+          "sha256": "a40438ab092e30564bfafb895027c336c3b385e1d8518a0c6bf5ce6705bee408",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1714-10-04",
+      "place": "Abelón",
+      "transcription": "Ynés Andresa. Cumplido. Ojo.\n\nEn el lugar de Abelón, a quatro días del mes de octubre del año de mil setientos y catorce, yo fr. Nicolás Domínguez, Cura theniente de dho lugar, di sepultura eclesiástica en la parroquial dél, hacia el Xpto de atrás, a la mano derecha, a Ynés Andresa, viuda de Bartolomé Garrote, ambos vecinos y naturales de dho lugar, quien recibió los Stos Sacramentos de penitencia, eucaristía. Hizo testamento ante Josephe de Silba, barbero en dho lugar, en treinta de setienbre de dichos mes y año, en que tomó por su ánima veinte y quatro ducados libres; mandó a la memoria de Ánimas de este dho lugar sesenta y seis Rs de vellón para que se impusiesen y rentasen para dhas ánimas. Mandó quatro missas al Snto Xpto de Morales, rezadas; ítem mandó una libra de zera blanca a nuestra señora del Rosario, y otras limosnas a diferentes Sanctos, como de dicho testamento consta. Dejó por sus herederos a Marcos, Juan, Domingo, Alº, Catalina Garrote, sus hijos, y por testamentarios a Miguel Fernando y a Marcos Garrote su hijo, y para que conste lo firmo. fr. Nicolás Domínguez.\n\nRemitió a la colecturía lo que le tocaba. Herrero.",
+      "uncertainties": [
+        "El lugar de la sepultura («hacia el Xpto de atrás») y el nombre del primer testamentario («Miguel Fernando») se leen con reservas. La nota bajo el asiento, sobre lo enviado a la colecturía, la firma un nombre breve que se lee «Herrero». El escribano traza la s final como una y («missay», «animay»). No expresa el día de la muerte."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-andres"
+      ],
+      "applied": [
+        "Entierro el 04-10-1714 en Abelón con transcripción; nota en el fallecimiento; observación con el testamento. Se añaden al árbol sus hijos Juan, Alonso y Catalina Garrote Andrés."
+      ]
     }
   ]
 }
