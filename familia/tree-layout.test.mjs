@@ -469,3 +469,17 @@ test('a sibling beyond a second partner has a clear connector around the partner
     assert.ok(points(line).slice(1, -1).every(point => point.y < active.y), 'connector passes above the partner and spouse line');
   }
 });
+
+test('only the active person has sibling nodes; parents stay close together', async () => {
+  const people = new Map([
+    { ...summary('a'), father: 'p', mother: 'q' },
+    { ...summary('p'), father: 'g', children: [summary('a'), summary('b')] }, { ...summary('q'), father: 'h', children: [summary('a')] },
+    { ...summary('g'), children: [summary('p'), summary('u1'), summary('u2'), summary('u3')] },
+    { ...summary('h'), children: [summary('q'), summary('t1')] },
+    summary('b'), summary('u1'), summary('u2'), summary('u3'), summary('t1'),
+  ].map(person => [person.id, person]));
+  const tree = await collectTree('a', 1, async id => people.get(id));
+  assert.deepEqual(tree.siblings.map(item => item.person.id), ['b']);
+  const layout = layoutTree({ ...tree, depth: 1 });
+  assert.equal(card(layout, 'q').x - card(layout, 'p').x, layoutTree({ ...tree, siblings: [], depth: 1 }).cards.find(item => item.person.id === 'q').x - layoutTree({ ...tree, siblings: [], depth: 1 }).cards.find(item => item.person.id === 'p').x);
+});

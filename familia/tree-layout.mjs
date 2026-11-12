@@ -43,8 +43,9 @@ export async function collectTree(id, depth, getPerson) {
   ancestors.sort((a, b) => a.level - b.level || a.slot - b.slot);
   const shown = (ancestors[0].person.partners || []).slice(0, MAX_PARTNERS);
   const partners = await Promise.all(shown.map(async partner => ({ ...partner, person: await getPerson(partner.id) })));
-  // Collect siblings from both known parents and explicitly recorded links. Fetch
-  // the person so direct ancestors retain their full-size appearance.
+  // Only the active person's siblings get nodes of their own; for everyone else a
+  // sibling already in view is just marked as such. Fetch the person so direct
+  // ancestors retain their full-size appearance.
   const visible = new Set([...ancestors.map(node => node.person.id), ...partners.map(item => item.person.id)]);
   const owners = [...ancestors.map(node => node.person), ...partners.map(item => item.person)];
   const seen = new Set(visible);
@@ -57,7 +58,7 @@ export async function collectTree(id, depth, getPerson) {
         siblingLinks.push({ ownerId: owner.id, siblingId: summary.id, siblingName: summary.name });
         continue;
       }
-      if (seen.has(summary.id)) continue;
+      if (owner.id !== id || seen.has(summary.id)) continue;
       seen.add(summary.id);
       siblings.push({ ownerId: owner.id, person: await getPerson(summary.id) });
     }

@@ -1,5 +1,5 @@
 import { lifespan } from './lifespan.mjs';
-import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=4';
+import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=5';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -16,8 +16,6 @@ let activeCenterY = 0;
 let compactTree = matchMedia('(max-width: 600px)').matches;
 let zoom = 1;
 let treeRequest = 0;
-// Siblings widen every branch they sit in, so the tree shows them on request.
-let showSiblings = false;
 let profileRequest = 0;
 let indexRequest = 0;
 let indexTab = 'people';
@@ -197,7 +195,7 @@ async function renderTree() {
     const tree = await collectTree(activeId, depth, getPerson);
     if (request !== treeRequest) return;
     compactTree = matchMedia('(max-width: 600px)').matches;
-    const layout = layoutTree({ ...tree, siblings: showSiblings ? tree.siblings : [], depth, compact: compactTree });
+    const layout = layoutTree({ ...tree, depth, compact: compactTree });
     treeWidth = layout.width;
     treeHeight = layout.height;
     activeCenterY = layout.activeCenterY;
@@ -227,12 +225,6 @@ async function renderTree() {
       return label;
     });
     canvas.replaceChildren(lines, ...layout.cards.map(card => personCard(card, layout.cardWidth)), ...layout.siblingCards.map(card => personCard(card, layout.cardWidth)), ...layout.circles.map(circle => personCircle(circle, layout.circleSize)), ...siblingCircles.map(circle => personCircle(circle, layout.circleSize)), ...labels);
-    const siblingButton = $('#tree-siblings');
-    siblingButton.hidden = !tree.siblings.length;
-    siblingButton.textContent = showSiblings ? 'Ocultar hermanos/as' : `Ver hermanos/as (${tree.siblings.length})`;
-    siblingButton.setAttribute('aria-pressed', String(showSiblings));
-    const shown = layout.cards.length + layout.siblingCards.length + layout.circles.length + siblingCircles.length;
-    $('#tree-context').textContent = `${tree.ancestors[0].person.name} · ${shown} ${shown === 1 ? 'persona' : 'personas'} en esta vista`;
     applyZoom();
     centerTree();
   } catch (error) {
@@ -614,11 +606,6 @@ function bindControls() {
   $('#zoom-in').addEventListener('click', () => { zoom = Math.min(1.4, Math.round((zoom + 0.1) * 10) / 10); applyZoom(); centerTree(); });
   $('#zoom-out').addEventListener('click', () => { zoom = Math.max(0.6, Math.round((zoom - 0.1) * 10) / 10); applyZoom(); centerTree(); });
   $('#center-tree').addEventListener('click', centerTree);
-  $('#tree-siblings').addEventListener('click', async () => {
-    showSiblings = !showSiblings;
-    await renderTree();
-    announce(showSiblings ? 'Se muestran los hermanos y hermanas en el árbol.' : 'Se ocultan los hermanos y hermanas del árbol.');
-  });
   $('#tree-back').addEventListener('click', () => {
     const previous = rootHistory.pop();
     if (previous) navigate(previous, { remember: false });

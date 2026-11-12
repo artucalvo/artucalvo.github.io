@@ -101,7 +101,6 @@ h1, h2, h3, p { margin-top: 0; }
 .tree-navigation { display: flex; align-items: center; justify-content: space-between; min-height: 29px; margin: 0 25px; gap: 10px; }
 .text-button { display: inline-flex; align-items: center; gap: 6px; padding: 4px 0; color: var(--forest); font-size: 10px; text-align: left; }
 .text-button:hover { color: var(--rust); }
-.tree-context { margin-left: auto; color: #969b8a; font-size: 9px; }
 .tree-viewport { position: relative; flex: 1; height: 470px; min-height: 470px; max-height: 590px; overflow: auto; overscroll-behavior: contain; background-image: radial-gradient(#abb49c55 .65px, transparent .65px); background-size: 18px 18px; scrollbar-width: thin; scrollbar-color: #c8cebc transparent; }
 .tree-sizer { position: relative; min-width: 100%; min-height: 100%; }
 .tree-canvas { position: absolute; top: 0; left: 0; transform-origin: 0 0; }
@@ -253,7 +252,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .generation-control select { width: 41px; height: 27px; font-size: 10px; }
   .tree-navigation { margin-inline: 17px; min-height: 27px; }
   .text-button { font-size: 8px; }
-  .tree-context { font-size: 8px; }
   .tree-viewport { height: 484px; min-height: 484px; max-height: 484px; }
   .tree-bottom { min-height: 63px; padding: 10px 12px; gap: 10px; }
   .tree-hint { max-width: 150px; font-size: 8px; gap: 6px; }
@@ -312,7 +310,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .tree-heading .eyebrow { font-size: 9px; }
 .generation-control { font-size: 12px; }
 .generation-control select { height: 36px; font-size: 13px; }
-.tree-context { color: #65745a; font-size: 10px; }
 .node-relation { color: #64715b; font-size: 10px; }
 .node-avatar { font-size: 10px; }
 .node-dates, .node-place { color: #64715b; font-size: 11px; }
@@ -344,7 +341,6 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
   .search-trigger { min-width: 40px; min-height: 40px; }
   .generation-control { font-size: 10px; }
   .generation-control select { height: 32px; }
-  .tree-context { font-size: 9px; }
   .tree-hint { max-width: 130px; font-size: 10px; }
   .tree-controls .icon-button { width: 30px; height: 36px; }
   .tree-heading, .profile-header { scroll-margin-top: 20px; }
@@ -436,4 +432,3 @@ dialog::backdrop { background: #21382b66; backdrop-filter: blur(3px); }
 .sibling-label { position: absolute; transform: translateX(-50%); color: #64715b; font-size: 10px; line-height: 1.3; letter-spacing: .25px; white-space: nowrap; pointer-events: none; }
 @media (max-width: 600px) { .sibling-label { font-size: 9px; } }
 
-.sibling-navigation { flex-shrink: 0; font-weight: 600; }
