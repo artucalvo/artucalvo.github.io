@@ -1733,6 +1733,104 @@
       ]
     },
     {
+      "id": "diego-lopez-marido-de-josefa-unzueta",
+      "name": "Diego López",
+      "givenNames": "Diego",
+      "surnames": [
+        "López"
+      ]
+    },
+    {
+      "id": "maria-lopez-unzueta",
+      "name": "María López Unzueta",
+      "givenNames": "María",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1864-03-14",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-lopez-unzueta",
+      "name": "Francisco López Unzueta",
+      "givenNames": "Francisco",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1866-10-15",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "jose-lopez-unzueta-1868",
+      "name": "José López Unzueta",
+      "givenNames": "José",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1868-03-01",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "jose-lopez-unzueta-1871",
+      "name": "José López Unzueta",
+      "givenNames": "José",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1871-05-16",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "diego-lopez-unzueta",
+      "name": "Diego López Unzueta",
+      "givenNames": "Diego",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1873-03-25",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "fructuoso-lopez-unzueta",
+      "name": "Fructuoso López Unzueta",
+      "givenNames": "Fructuoso",
+      "surnames": [
+        "López",
+        "Unzueta"
+      ],
+      "father": "diego-lopez-marido-de-josefa-unzueta",
+      "mother": "josefa-unzueta-fernandez-1835",
+      "baptism": {
+        "date": "1875-01-16",
+        "place": "Villardeciervos"
+      }
+    },
+    {
       "id": "manuel-unzueta-fernandez",
       "name": "Manuel Unzueta Fernández",
       "givenNames": "Manuel",
@@ -1972,6 +2070,89 @@
       ],
       "father": "cristobal-unzueta-padre-de-manuel",
       "mother": "maria-junquera-mujer-de-cristobal-unzueta"
+    },
+    {
+      "id": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "name": "Francisca Rodríguez",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Rodríguez"
+      ]
+    },
+    {
+      "id": "catalina-unzueta-rodriguez",
+      "name": "Catalina Unzueta Rodríguez",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Unzueta",
+        "Rodríguez"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "baptism": {
+        "date": "1806-10-25",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "dominga-unzueta-rodriguez",
+      "name": "Dominga Unzueta Rodríguez",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Unzueta",
+        "Rodríguez"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "baptism": {
+        "date": "1810-07-29",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisca-unzueta-rodriguez",
+      "name": "Francisca Unzueta Rodríguez",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Unzueta",
+        "Rodríguez"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "baptism": {
+        "date": "1813-02-07",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "maria-unzueta-rodriguez",
+      "name": "María Unzueta Rodríguez",
+      "givenNames": "María",
+      "surnames": [
+        "Unzueta",
+        "Rodríguez"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "baptism": {
+        "date": "1816-10-06",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "bartolome-unzueta-rodriguez",
+      "name": "Bartolomé Unzueta Rodríguez",
+      "givenNames": "Bartolomé",
+      "surnames": [
+        "Unzueta",
+        "Rodríguez"
+      ],
+      "father": "manuel-unzueta",
+      "mother": "francisca-rodriguez-mujer-de-manuel-unzueta",
+      "baptism": {
+        "date": "1820-04-09",
+        "place": "Villardeciervos"
+      }
     },
     {
       "id": "manuel-unzueta-junquera",
@@ -23159,6 +23340,44 @@
       }
     },
     {
+      "id": "francisco-romero-marido-de-isabel-unzueta",
+      "name": "Francisco Romero",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Romero"
+      ]
+    },
+    {
+      "id": "maria-romero-unzueta",
+      "name": "María Romero Unzueta",
+      "givenNames": "María",
+      "surnames": [
+        "Romero",
+        "Unzueta"
+      ],
+      "father": "francisco-romero-marido-de-isabel-unzueta",
+      "mother": "isabel-unzueta-junquera",
+      "baptism": {
+        "date": "1796-08-09",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-romero-unzueta",
+      "name": "Francisco Romero Unzueta",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Romero",
+        "Unzueta"
+      ],
+      "father": "francisco-romero-marido-de-isabel-unzueta",
+      "mother": "isabel-unzueta-junquera",
+      "baptism": {
+        "date": "1802-04-20",
+        "place": "Villardeciervos"
+      }
+    },
+    {
       "id": "antonio-unzueta-junquera",
       "name": "Antonio Unzueta Junquera",
       "givenNames": "Antonio",
@@ -23189,6 +23408,166 @@
       }
     },
     {
+      "id": "domingo-magan",
+      "name": "Domingo Magán",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Magán"
+      ]
+    },
+    {
+      "id": "maria-magan-unzueta",
+      "name": "María Magán Unzueta",
+      "givenNames": "María",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1794-11-05",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisca-magan-unzueta",
+      "name": "Francisca Magán Unzueta",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1797-01-28",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "manuel-magan-unzueta",
+      "name": "Manuel Magán Unzueta",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1799-09-25",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "dominga-magan-unzueta",
+      "name": "Dominga Magán Unzueta",
+      "givenNames": "Dominga",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1802-01-28",
+        "place": "Villardeciervos",
+        "note": "El índice de bautismos nombra a la madre Isabel."
+      }
+    },
+    {
+      "id": "teresa-magan-unzueta",
+      "name": "Teresa Magán Unzueta",
+      "givenNames": "Teresa",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1804-01-20",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "manuela-magan-unzueta",
+      "name": "Manuela Magán Unzueta",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1805-01-16",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "jose-magan-unzueta",
+      "name": "José Magán Unzueta",
+      "givenNames": "José",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1806-07-03",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "domingo-magan-unzueta",
+      "name": "Domingo Magán Unzueta",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1809-02-09",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "antonia-magan-unzueta",
+      "name": "Antonia Magán Unzueta",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1811-12-22",
+        "place": "Villardeciervos",
+        "note": "El índice de bautismos nombra al padre Diego."
+      }
+    },
+    {
+      "id": "antonio-magan-unzueta",
+      "name": "Antonio Magán Unzueta",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "father": "domingo-magan",
+      "mother": "maria-unzueta-junquera",
+      "baptism": {
+        "date": "1814-02-07",
+        "place": "Villardeciervos"
+      }
+    },
+    {
       "id": "francisco-antonio-unzueta-ormacho",
       "name": "Francisco Antonio Unzueta Ormacho",
       "givenNames": "Francisco Antonio",
@@ -23212,6 +23591,44 @@
         "date": "1721-01-20",
         "place": "Arrasate",
         "note": "Parroquia de San Juan Bautista."
+      }
+    },
+    {
+      "id": "tomasa-bobillo",
+      "name": "Tomasa Bobillo",
+      "givenNames": "Tomasa",
+      "surnames": [
+        "Bobillo"
+      ]
+    },
+    {
+      "id": "francisco-unzueta-bobillo-1764",
+      "name": "Francisco Unzueta Bobillo",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta",
+        "Bobillo"
+      ],
+      "father": "francisco-antonio-unzueta-ormacho",
+      "mother": "tomasa-bobillo",
+      "baptism": {
+        "date": "1764-08-06",
+        "place": "Villardeciervos"
+      }
+    },
+    {
+      "id": "francisco-unzueta-bobillo-1766",
+      "name": "Francisco Unzueta Bobillo",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Unzueta",
+        "Bobillo"
+      ],
+      "father": "francisco-antonio-unzueta-ormacho",
+      "mother": "tomasa-bobillo",
+      "baptism": {
+        "date": "1766-11-29",
+        "place": "Villardeciervos"
       }
     },
     {
