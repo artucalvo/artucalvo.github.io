@@ -1,6 +1,6 @@
 # Árbol familiar
 
-La página está en `/familia/` y se enlaza desde el menú de la portada como «Family Tree», después de «Blog». Es una página pública accesible mediante su URL; las indicaciones para buscadores no constituyen autenticación.
+La página está en `/familia/` y no se enlaza desde la portada. Incluye la indicación `noindex, nofollow` para los buscadores, pero es pública y accesible mediante su URL; esta indicación no constituye autenticación. Su identificador estable y los datos históricos del repositorio pueden revelar información anterior.
 
 ## Vista previa local
 
@@ -133,7 +133,7 @@ Quedan pendientes de una decisión de la familia, sin cambios, otras grafías de
 
 ## Alcance y procedencia de los datos
 
-El archivo contiene mil sesenta y cinco personas y hasta catorce generaciones conectadas, con Arturo Calvo Devesa como punto de partida. Las generaciones más lejanas se alcanzan a través de antepasados que aparecen en dos posiciones del árbol, como Francisco Hernández Nieto y Teresa Gaitán Rodríguez, padres de Teodora Hernández Gaitán, o la pareja compartida por Margarita y Fernando Girón Fernández, que aparecen en generaciones distintas. La decimocuarta se alcanza a través de María Carrascal Trigo, abuela de Jerónima Pérez Luelmo: `TATARABUELOS SEXTOS.docx` la hace hija de Manuel Carrascal Bragado e Inés Trigo Luelmo, que ya eran antepasados de Arturo por otra línea. La ficha de Arturo incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y María Ángeles Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
+El archivo contiene mil sesenta y cinco personas y hasta catorce generaciones conectadas, con Arturo Calvo Devesa como punto de partida. Las generaciones más lejanas se alcanzan a través de antepasados que aparecen en dos posiciones del árbol, como Francisco Hernández Nieto y Teresa Gaitán Rodríguez, padres de Teodora Hernández Gaitán, o la pareja compartida por Margarita y Fernando Girón Fernández, que aparecen en generaciones distintas. La decimocuarta se alcanza a través de María Carrascal Trigo, abuela de Jerónima Pérez Luelmo: `TATARABUELOS SEXTOS.docx` la hace hija de Manuel Carrascal Bragado e Inés Trigo Luelmo, que ya eran antepasados de Arturo por otra línea. La ficha de Arturo incluye únicamente el nombre, el lugar de nacimiento, Zamora, y los enlaces a sus padres. Sus padres son Bernardo Calvo Brioso y M. Devesa Herrero. Los datos de estas tres personas proceden de la información aportada por la familia; no se añaden fechas ni otros detalles no facilitados.
 
 Los documentos DOCX recibidos pertenecen a la ascendencia de Bernardo Calvo Brioso. No se han atribuido esos antepasados a la rama Devesa Herrero. La ascendencia materna de Arturo se inicia con el lote de fotografías descrito al final de este README. Los títulos de los documentos DOCX se interpretan respecto de Bernardo:
 
@@ -703,7 +703,7 @@ La reconstrucción conserva 985 personas, 221 apellidos y 85 lugares. Pasaron la
 
 ## Lote de fotografías de la rama materna
 
-El 8 de noviembre de 2026 se incorporan las seis fotografías de «antepasados por via materna», junto con los datos de los abuelos facilitados por la familia. Se añaden 72 personas y se enlaza a María Ángeles Devesa Herrero con sus padres, Antonio Devesa Blanco y Josefa Herrero Fernández. El archivo pasa a 1057 personas, 235 apellidos y 87 lugares. Arturo sigue siendo el único punto de partida; las dos ramas se recorren desde sus padres.
+El 8 de noviembre de 2026 se incorporan las seis fotografías de «antepasados por via materna», junto con los datos de los abuelos facilitados por la familia. Se añaden 72 personas y se enlaza a M. Devesa Herrero con sus padres, Antonio Devesa Blanco y Josefa Herrero Fernández. El archivo pasa a 1057 personas, 235 apellidos y 87 lugares. Arturo sigue siendo el único punto de partida; las dos ramas se recorren desde sus padres.
 
 La lectura visual, los nombres de las imágenes y sus huellas SHA-256, las decisiones de importación y los pendientes se conservan en `sources/materna.json`. Las fotografías originales y los recortes de lectura permanecen fuera del repositorio. Las fichas públicas no incluyen atribuciones a archivos.
 
@@ -729,7 +729,7 @@ Tirso Romero y Tirso Romero Santiago se reúnen porque coinciden su esposa, Mar�
 
 ### Verificación del lote materno
 
-La reconstrucción genera 1057 fichas, 235 apellidos y 87 lugares. Pasan las 27 pruebas existentes, actualizando las tres expectativas de disposición que ahora incluyen a los abuelos y bisabuelos maternos. La auditoría confirma que las 72 personas nuevas son alcanzables desde María Ángeles, que las fichas generadas coinciden con sus datos canónicos y que las otras 984 fichas anteriores conservan sus datos. El cotejo independiente de las seis imágenes no detecta errores ni omisiones en las relaciones incorporadas. La revisión en el navegador confirma las fechas y lugares de Antonio y Josefa, sus padres, su matrimonio y el enlace a María Ángeles.
+La reconstrucción genera 1057 fichas, 235 apellidos y 87 lugares. Pasan las 27 pruebas existentes, actualizando las tres expectativas de disposición que ahora incluyen a los abuelos y bisabuelos maternos. La auditoría confirma que las 72 personas nuevas son alcanzables desde M. Devesa Herrero, que las fichas generadas coinciden con sus datos canónicos y que las otras 984 fichas anteriores conservan sus datos. El cotejo independiente de las seis imágenes no detecta errores ni omisiones en las relaciones incorporadas. La revisión en el navegador confirma las fechas y lugares de Antonio y Josefa, sus padres, su matrimonio y el enlace a M. Devesa Herrero.
 
 ## Revisión parcial de fotografías de tatarabuelos séptimos
 
