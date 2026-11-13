@@ -670,6 +670,8 @@ Se reconstruyeron los datos y pasaron las 26 pruebas de `node --test familia/tre
 
 Se comprobaron las cinco personas en el navegador, en escritorio y móvil: los catorce controles de transcripción, las fechas separadas de nacimiento y bautismo, la navegación entre padres y cónyuges y la descendencia de Florencio y Antonia. No hubo desbordamiento horizontal, errores ni advertencias de consola. El código y el diseño de la web no se modifican. La reconstrucción final incluye también los datos de otros lotes incorporados simultáneamente: 985 personas, 221 apellidos y 84 referencias de lugar.
 
+**Relectura del 13 de noviembre de 2026.** Las nueve imágenes se volvieron a leer con dos lecturas independientes. Seis partidas cambian, entre ellas el año del otro Bernardo Brioso, que es 1871 y no 1861, y las edades de Miguel y de Ángela en sus matrimonios, que coinciden con sus nacimientos. Las correcciones están en la «Decimosexta sesión» de la revisión autónoma, más abajo.
+
 ## Cotejo de las dos versiones de BISABUELOS
 
 El 8 de noviembre de 2026 se compararon los dos archivos `BISABUELOS.docx`: la revisión 14 de «Árbol genealógico/Bisabuelos», modificada internamente el 18 de julio de 2015, y la revisión 15 de «Árbol genealógico2», modificada el 22 de agosto de 2018. Son dos versiones de una sola fuente. Sus SHA-256, los párrafos literales, los hechos extraídos y los enlaces a las personas existentes se conservan en [`sources/bisabuelos.json`](sources/bisabuelos.json). No se abrieron las fotografías de esta carpeta.
@@ -1233,7 +1235,7 @@ Lo que aportan:
 - Los padrinos identifican a varios hermanos ya adultos, y se recoge en observaciones:
   - Francisca Roncero Hernández, casada con Miguel Rodríguez, fue madrina de su media hermana Narcisa en 1773.
   - Agustín de Mena Santamaría fue padrino de su sobrino Ángel Brioso en 1873, y Genaro Brioso, del suyo Martín Brioso Pérez en 1884.
-  - Probablemente, Antonio Pérez Sánchez fue padrino de Manuela Garrote en 1868; Tomás de Mena Santamaría, de Baltasar Brioso en 1859; José Mauricio Alonso Santamaría, de Bernardo Brioso en 1861; y Manuel Prada Carretero, de Ángela de las Heras en 1881.
+  - Probablemente, Antonio Pérez Sánchez fue padrino de Manuela Garrote en 1868; Tomás de Mena Santamaría, de Baltasar Brioso en 1859; José Mauricio Alonso Santamaría, de Bernardo Brioso en 1871; y Manuel Prada Carretero, de Ángela de las Heras en 1881.
 
 Personas añadidas además de los bautizados, a partir de partidas ya transcritas:
 
@@ -1250,7 +1252,7 @@ Correcciones y decisiones:
 
 Dudas que quedan en el registro y conviene conocer:
 
-- Bernardo Brioso de Mena nació, según el árbol, el 12-03-1861, y su hermano Martín, el 06-11-1861: solo ocho meses después. La fecha de Martín se ha leído dos veces sobre la imagen; la de Bernardo viene de una transcripción con varias palabras ilegibles y no tiene fotografía registrada. Convendría revisar el año de Bernardo.
+- Bernardo Brioso de Mena nació, según el árbol, el 12-03-1861, y su hermano Martín, el 06-11-1861: solo ocho meses después. Resuelto en la sesión siguiente: Bernardo nació el 12-03-1871.
 - Gemiliano Prada Girón conserva ese nombre, que es el de la partida de entierro de su madre (1839); su bautismo dice «Geminiano».
 - Una nota al margen dice que Tomás de Mena Santamaría (1837) se llamaba solo Tomás, aunque lo llamaban Pablo; su hermano Pablo había nacido en 1836. El «Pablo de Mena, hermano del bautizado» que fue padrino en 1850 puede ser cualquiera de los dos.
 - Pista sin incorporar: la madre de Félix Alonso, Teresa Roncero, podría ser Teresa María Roncero Pérez (1778), hija de Lorenzo Roncero y Micaela Pérez y heredera de su madre en 1815; ninguna partida lo dice.
@@ -1261,6 +1263,56 @@ Dudas que quedan en el registro y conviene conocer:
 Queda sin enlace Catalina Hernández, bautizada en Tardobispo en marzo de 1620, hija de … Hernández y Catalina Lorenzo, vecinos de Valcamino. La única Catalina Hernández de Valcamín en el árbol es la madre de Manuela de la Iglesia (1675), que tendría entonces 55 años.
 
 Pendiente: la carpeta «Abuelos» (9 imágenes, cuyas partidas ya están transcritas en las fichas).
+
+**Decimosexta sesión (13-11-2026): abuelos y carpeta raíz.** Con esta sesión todas las fotografías de «Register Data» tienen dos lecturas o un asiento definitivo.
+
+*Abuelos.* Las nueve imágenes (siete partidas) se registraron el 8 de noviembre en [`sources/abuelos.json`](sources/abuelos.json). Se han vuelto a leer sin ver esas transcripciones, y las dos lecturas se han cotejado con la imagen. Seis de las siete partidas cambian; el registro guarda las dudas nuevas y las transcripciones corregidas están en las fichas.
+
+| Partida | Antes | Ahora | Motivo |
+| --- | --- | --- | --- |
+| Bautismo de Bernardo Brioso de Mena, hermano de Enrique | 15-03-1861, nacido el 12-03-1861 | 15-03-1871, nacido el 12-03-1871 | El año está partido entre dos líneas, «se-/tenta y uno», y se había leído «sesenta». La imagen es la mitad inferior de la página del bautismo de Lorenza Garrote (04-03-1871): la rúbrica de ese asiento cae sobre la primera línea de este, y las dos imágenes se tomaron con siete segundos de diferencia. Desaparece el conflicto con su hermano Martín (06-11-1861). Recibe además Tardobispo como lugar, como sus hermanos. El identificador `bernardo-brioso-1861` se conserva. |
+| Matrimonio de Miguel Calvo y Lucía Piorno (1898): oficiante | «Manuel Santos» | Manuel Antón | Se lee así en el texto y en la firma. |
+| Mismo matrimonio: edad de Miguel | «veintitres» | «veintiseis» | Una sola t alta y un «seis» igual al de «primero y seis del corriente». Son los 26 años que tenía: la discrepancia que la familia decidió conservar el 8 de noviembre no existe. |
+| Mismo matrimonio: tercer testigo | Marcelino [ilegible] | Marcelino Velasco | Lectura con confianza media. |
+| Bautismo de Lucía Piorno (1880): padrino | «Antonio Antón» | Atanasio Antón | El nombre está partido entre dos líneas, «Ata-/nasio». |
+| Mismo bautismo: abuelos paternos | Julián «natural de [ilegible]», Tomasa Tuda «de Ma[ilegible]» | «natural de Ganame», «de Malillos» | Coinciden con el árbol: Julián Piorno Vega nació en Gáname y Tomasa Tuda Feltrero en Malillos. |
+| Matrimonio de Bernardo Brioso y Ángela de las Heras (1903): edad de ella | «soltera de veinti tres» | «solteros de veinti un» | Son los 21 años que tenía: tampoco aquí hay discrepancia. La edad de Bernardo, «veinti cuatro», se confirma (tenía 25). |
+| Mismo matrimonio: segundo testigo | «Manuel de Mena» | «Manuel de Mesa» | Las dos lecturas ven una s entre la e y la a; la cruza un trazo de la línea de abajo, y «Mena» no se excluye del todo. |
+| Bautismo de Ángela de las Heras (1881) | Francisco de las Heras «natural de [ilegible]»; padrino «Manuel Prada»; folio 125 | «natural de Avelon» (Abelón); «Manuel Pradas»; folio 123 | El escribano pone «Pradas» las cinco veces. |
+| Firmas y testigos de Tardobispo (1871, 1878, 1881) | «Manuel [ilegible]», «Mariano [ilegible]», «Ramona [ilegible]», «Mariano Alonso» | Manuel Temprano, Ramona Cascón (1878 y 1881), Ramona Alonso (1871) | Son el cura y los testigos habituales de esos años. |
+
+El matrimonio de 1903 sigue sin verificar en el día y el mes: la imagen empieza en la continuación. Las amonestaciones fueron el 7, el 11 y el 14 de junio, de modo que la boda fue el 15 o después; el 20-06-1903 de `ABUELOS.docx` es compatible.
+
+*Carpeta raíz.* Las 61 imágenes sueltas ya estaban en [`sources/sin-clasificar-fotografias.json`](sources/sin-clasificar-fotografias.json), pero 24 solo tenían el borrador de la primera revisión, del 10 de noviembre. Las 23 que son partidas se han leído dos veces y tienen ya asiento definitivo; la otra es una lámina impresa con un escudo del apellido Brioso, que no nombra a nadie. Después se han cotejado las 61 con el árbol tal como está hoy. Ocho encuentran sitio y pasan a su carpeta de generación; quedan 53 en la raíz, todas sin enlace.
+
+Enlazadas:
+
+- Ana Mateo, enterrada en Peleas de Arriba el 12-11-1748, es Ana Mateo Hernández: el entierro de su marido, José Zurdo Herrero, un mes después, lo llama viudo suyo y dice que se habían avecindado en Peleas de Arriba.
+- El «otro» Pedro Garrote, muerto en Abelón el 25-12-1698, es Pedro Garrote Gabriel: el entierro de su viuda remite a esa cláusula, y el testamentario Alonso Blanco es su cuñado. Se añade a su hermano y testamentario, Domingo Garrote, que puede ser el padre de Domingo Garrote Ortijo.
+- Los entierros de Francisco de Mena Miguel (25-06-1792) y de Francisco Prada Cifuentes (04-03-1739), en Morales del Vino, son del día siguiente al fallecimiento que ya constaba.
+- La muerte de Antonio Piorno (Gáname, 1704) es otra toma de una partida ya incorporada.
+- María Marqués Herrero, nacida el 24-06-1701, es hija de Manuel Marqués y Francisca Herrero: se añade como hermana de Isabel Marqués Herrero.
+- Dos suposiciones razonables, que conviene conocer:
+  - Diego Arroyo, enterrado en Morales del Vino el 27-08-1742 y muerto el día 26. La partida no nombra a nadie más; es el único de ese nombre en el lugar y tendría unos 75 años.
+  - Inés Marqués, mujer de Francisco Cabrero Luelmo, pasa a ser Inés Marqués Nieto, bautizada el 07-11-1686, hija de Diego Marqués y María Nieto. Ni su matrimonio ni su entierro nombran a sus padres. A favor: es la única Inés que queda en el libro; sus padres son los abuelos y padrinos de Isabel Marqués Herrero en 1705; y la doble dispensa del matrimonio de su hija Catalina con Baltasar Brioso Marqués cuadra con una madre Marqués y Nieto. En contra: el entierro le da 84 años, y tendría casi 83.
+
+Correcciones de lectura sobre los borradores:
+
+- María de la Calle, hija de Luis de la Calle y Engracia de Espino, se bautizó el 21-09-1628; el borrador no fijaba el año. Las siete Marías de la Calle (1616 a 1637) tienen siete padres distintos, y ninguna partida dice cuál fue la mujer de Lorenzo de la Fuente.
+- Catalina Gonzalo (Fadón, 29-08-1726) es mujer de Juan Esteban; Manuela Delgado es su prima y ofrendadera, no una hija.
+- Manuel Martín Palomares (Moraleja del Vino, 1680) nació el 18 de abril, no el 28.
+- Matías Carrasco Torrado (Toro) es de la década de 1690, no de la de 1660.
+- Miguel de Trigo, enterrado en Morales del Vino el 24-04-1726, «no hizo testamento por tener padre»: es un joven homónimo.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- El entierro de Francisco de Mena Miguel llama a su madre «Ana Miguel»; el árbol, con su bautismo y el matrimonio de sus padres, la llama Juana.
+- La firma del teniente de Fadón en 1726 se lee «fr. Dionisio de Recarey»; en el entierro de Juan Feltrero (1725) se transcribió «Recares».
+- Pista: Tomás Antonio Jambrina, bautizado en Moraleja del Vino en 1675, hijo de Pedro Jambrina, familiar del Santo Oficio, podría ser el Tomás Jambrina comisario del Santo Oficio y arcipreste de Gema en 1704, hermano de Antonio Jambrina.
+- Pista: Miguel de la Iglesia y María Godina, casados en Sanzoles el 18-10-1604, podrían ser los padres de Juan de la Iglesia, padre de Inés de la Iglesia Martín (1627).
+- Ocho imágenes de la raíz conservan el estado «provisional» porque su candidato sigue sin acreditar, aunque están transcritas: Ana Melado Melado, Ana Santamaría Martín, Andrés Ruiz Gallego, «Dudosa Catalina Blanco», Joan Melado y María Melado, María Martín Grano de Oro, Muerte de Alonso Alonso y Nacimiento de Alonso Hernández.
+
+No queda ninguna carpeta pendiente.
 
 ## Rama Unzueta de Arrasate
 
@@ -1322,3 +1374,47 @@ Las imágenes de Isabel de Urueña Alejandro, Alonso Hernández, Andrés Rodríg
 En la continuación se revisaron las treinta imágenes restantes de la carpeta inicial. Se incorporan bautismos de Manuel Alonso, Inés de Trigo, Isabel Rodríguez Alonso, Jerónimo de Luelmo, José Zurdo, Juan Vega, Francisco Martín Cabrero, Gregoria Moreno, Ángela González y María de Luelmo, además de otra toma de Manuel Hernández Crespo. Sus fechas de nacimiento se mantienen separadas de los bautismos; cuando la fotografía no muestra el año, se conserva como dato incompleto. El bautismo de Francisco Santos Girón Martín se corrige del 10-02-1745 al 10-11-1745 conforme a la partida, que también dice que nació el 2 de noviembre. Las demás imágenes quedan en la carpeta inicial con transcripciones provisionales y sus motivos de duda; el escudo Brioso no identifica a una persona concreta. La fotografía titulada «Pedro Amador y Catalina Tejedor» recoge el matrimonio de Pedro con Manuela, siendo Catalina la madre del contrayente.
 
 Todas las fotografías directamente en «Register Data» han sido examinadas al menos de manera preliminar. Las que permanecen en esa carpeta son lecturas provisionales o imágenes que todavía no permiten una atribución segura; los detalles y puntos ilegibles están en el inventario de fuentes.
+
+## Investigación en línea (desde el 13-11-2026)
+
+La familia pidió ampliar el árbol con las páginas de genealogía en línea: FamilySearch, Geneanet, MyHeritage, Ancestry, PARES y los archivos diocesanos digitalizados. Se trabaja por niveles, desde los abuelos de Arturo hacia arriba, y solo sobre los ascendientes directos; los hermanos que aparecen por el camino se documentan. El estado, las coincidencias descartadas y las preguntas pendientes están en [`sources/investigacion-en-linea.json`](sources/investigacion-en-linea.json).
+
+Reglas de este trabajo:
+
+- Una coincidencia exige el nombre y los apellidos, y además al menos dos de estos datos: año de nacimiento, cónyuge, lugar o padres. Las grafías cambian de una fuente a otra.
+- Lo seguro se incorpora al árbol. Lo probable pero dudoso se pregunta a la familia antes, y solo si la probabilidad es alta.
+- Las observaciones de una persona pueden citar la dirección web de la fuente en línea. La ficha la muestra como un enlace con el nombre del sitio (`links.mjs`). Es la única excepción a la norma de no citar archivos en los datos de las personas: la prueba de `tree-layout.test.mjs` sigue rechazando las extensiones de archivo y las palabras «documento», «fotografía» y «fuente:», también dentro de una dirección.
+
+Qué ofrece cada sitio:
+
+- **FamilySearch** necesita la sesión de la familia. No indexa los libros parroquiales de los pueblos de la diócesis de Zamora ni los de Villardeciervos, de la diócesis de Astorga. Sus vecinos aparecen cuando se casaron o bautizaron hijos en otra diócesis, por ejemplo en Valladolid, y en los perfiles del Árbol Familiar que crean otros usuarios, que a menudo no citan partidas.
+- **Geneanet** pide una verificación humana que el navegador de trabajo no supera. La familia copia las páginas desde su navegador.
+- **MyHeritage** muestra un CAPTCHA y **Ancestry** exige una suscripción; no se han consultado.
+- **PARES** está abierto. Se han guardado las listas de resultados de Villardeciervos, Casaseca de las Chanas y Tardobispo, todavía sin cotejar.
+
+Incorporado el 13-11-2026:
+
+- **Antonia Junquera Bobo**, hermana de Antonio Junquera Bobo, antepasado de la quinta generación. Nació hacia 1839 y se casó en julio de 1871 en la parroquia de Santiago Apóstol de Valladolid con Severiano Domínguez Martín. El índice de su matrimonio y los bautismos de sus cuatro hijos (1874-1881) nombran a sus padres, Francisco Junquera y Teresa Bobo.
+- **Antonio Fernández Unzueta**, hermano de Adelina: murió en Pergamino (Argentina) el 23 de enero de 1947, de un cáncer de páncreas. La fecha procede de la biografía que publicó su nieta, María Luisa Visintini, en «De Zamora a América. Memoria de la emigración zamorana I» (2007), que también cita el acta n.º 376 de su nacimiento, el 27 de abril de 1895. Un perfil del Árbol Familiar de FamilySearch da 1898 y 1950; el 13 de noviembre se tomó de ahí el fallecimiento y se corrigió al releer la biografía. Sirve de aviso: un perfil sin partidas no basta para una fecha.
+- **Francisca Magán Unzueta**, nieta de Cristóbal Unzueta, el medio hermano de Manuel Unzueta Bobillo: fue viuda de Francisco Funes y tuvo en 1839 una hija, **Joaquina Magán Unzueta**, que se casó en 1863 con Francisco Ferreras Montes. Joaquina tiene ficha nueva. Los datos proceden del árbol «josearia» de Geneanet, cuyo autor desciende de ella. La nota del bautismo dice que los abuelos maternos habían fallecido, y se recoge como observación en María Unzueta Junquera y en Domingo Magán.
+
+- **Antonia Calvo Alonso**, hermana de Lucas Calvo Alonso, antepasado de la quinta generación. El árbol «josearia» la da por nacida en Casaseca de las Chanas, hija de Diego Calvo y Luisa Alonso, y casada con Cipriano Antonio Hidalgo Arias, con siete hijos nacidos desde 1797. Ese árbol sitúa en Madridanos el fallecimiento de sus padres, sin fecha; se recoge como observación en Diego Benito Calvo Salvador y Luisa Alonso Alonso, cuyo fallecimiento no constaba.
+- **Eleuterio de las Heras Prada**, hermano de Ángela, la bisabuela. Nació en 1892 y se casó el 5 de octubre de 1918 en la catedral de Rosario de Santa Fe (Argentina) con Encarnación Velasco; el índice del matrimonio nombra a sus padres, Benito de las Heras y María A. Prada. Su hermano Evaristo se había casado en Rosario en 1910. No hay bautismo suyo entre las fotografías de Tardobispo.
+
+- **Padres nuevos para tres ascendientes directos de Abelón**, tomados de perfiles del Árbol Familiar de FamilySearch que coinciden con el árbol en nombre, lugar y cónyuge, pero no adjuntan partidas; cada ficha lo dice en sus observaciones:
+  - Andrés Morales (décima generación), marido de Ana Bernabé Blanco: hijo de Matías Morales y María Diego. Se añaden sus dos matrimonios, el 8 de febrero de 1669 con Ana Pascual y el 8 de junio de 1678 con Ana Bernabé.
+  - Alonso Blanco (duodécima generación): nacido el 24 de abril de 1656, hijo de Ascensio Blanco y María Martín, casados el 25 de febrero de 1651. Se casó el 12 de diciembre de 1677 con Manuela Crespo.
+  - Manuela Crespo, su mujer: bautizada el 25 de noviembre de 1658, hija de Sebastián Crespo y Merenciana Pascual.
+
+- **Los padres y el abuelo de Domingo Fierro**, antepasado de la novena generación. Su hijo José, vecino de Fresnadillo, siguió en 1735 un pleito de hidalguía ante la Real Chancillería de Valladolid (Sala de Hijosdalgo, caja 1091, 68). La descripción del archivo en PARES da la ascendencia: Domingo nació en Cármenes el 28 de marzo de 1678, hijo de Domingo Fierro, nacido allí el 26 de mayo de 1642, y de Toribia Díez, casados en Cármenes el 12 de agosto de 1672; el abuelo se llamaba Juan Fierro. Padre e hijo figuran como hidalgos en los padrones de Cármenes. Las partidas fotografiadas solo decían que Domingo era natural de Cármenes, y el resumen de la familia dejaba sus padres en blanco.
+- **Desiderio Devesa Junquera**, hermano del bisabuelo Antonio Devesa Junquera, confirmado por la familia el 13 de noviembre de 2026. Casó con María Turia.
+
+- **Isabel Zurdo Vega**, nacida en 1723, hermana de Sebastiana Zurdo Vega, antepasada de la novena generación. Procede del árbol «mineragom2» de Geneanet, que no sabe más de su padre, José Zurdo Mayordomo, que este árbol.
+
+De las 1.629 personas con nombre del árbol «josearia», solo coinciden con este árbol Francisca Magán Unzueta y la pareja Diego Calvo y Luisa Alonso.
+
+Pendiente de una decisión de la familia, sin cambios en el árbol:
+
+- La fecha de nacimiento de José Fierro de las Infantas: la descripción de su pleito de hidalguía en PARES dice 14 de mayo de 1715, y su partida de bautismo, 20 de enero de 1714.
+
+Pistas sin confirmar, anotadas en el registro: Antonio Blanco Bobo, posible hermano de Alonso Blanco Bobo; Manuela y Vicente Piorno Santiago, posibles hermanos de la bisabuela Lucía, y una Isabel Brioso de Luelmo, posible hija de Francisco Brioso Carrascal.

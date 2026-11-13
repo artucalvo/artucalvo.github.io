@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "batch": "Investigación en línea (FamilySearch, Geneanet, PARES)",
+  "startedOn": "2026-11-13",
+  "method": "Búsqueda por niveles desde los abuelos. FamilySearch con la sesión de la familia (índices de registros y Árbol Familiar); Geneanet a través de las páginas que copia la familia, porque el sitio pide verificación humana; PARES en abierto. Una coincidencia exige nombre y apellidos más al menos dos de: año de nacimiento, cónyuge, lugar o padres.",
+  "coverage": [
+    "FamilySearch no indexa los libros parroquiales de los pueblos de la diócesis de Zamora ni los de Villardeciervos (diócesis de Astorga). Sus vecinos solo aparecen cuando se casaron o bautizaron hijos en otra diócesis, o en perfiles del Árbol Familiar creados por usuarios.",
+    "Árbol de Geneanet «josearia» (1.629 personas con nombre): solo coinciden con este árbol la pareja Diego Calvo y Luisa Alonso, y Francisca Magán Unzueta.",
+    "Genealogías públicas de FamilySearch por pueblo (Villardeciervos, Casaseca de las Chanas, Tardobispo, Morales del Vino, Gáname, Moraleja del Vino, Malillos y Fadón): sin coincidencias en la línea directa.",
+    "Árbol Familiar de FamilySearch por pareja de apellidos, nivel de bisabuelos (Calvo Méndez, Piorno Santiago, Brioso Pérez, de las Heras Prada, Devesa Junquera, Blanco Palmero, Herrero Cuesta; Fernández Unzueta por nombre): hecho el 13-11-2026.",
+    "Árbol Familiar de FamilySearch por lugar, con aviso solo cuando da padres que faltan a un ascendiente directo: Villardeciervos (319), Casaseca de las Chanas (146, primera página), Tardobispo (79), Morales del Vino (378, primera página), Gáname (1.499), Abelón (877), Fadón (59), Malillos (245, primera página), Peleas de Arriba (94). El orden de las páginas no es estable y algunas personas se repiten, así que la cobertura no es completa."
+  ],
+  "applied": [
+    {
+      "person": "antonia-hijo-de-francisco-junquera",
+      "change": "Ficha nueva: hermana de Antonio Junquera Bobo.",
+      "evidence": "Matrimonio en Santiago Apóstol de Valladolid, julio de 1871, con Severiano Domínguez; el índice da sus padres, Francisco Junquera («Tunguera») y Teresa Bobo, y el nacimiento hacia 1839. Bautismos de cuatro hijos en Valladolid (1874-1881) con los mismos abuelos maternos. El perfil del Árbol Familiar la da por nacida en Villardeciervos.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/1:1:X92T-QGZS",
+        "https://www.familysearch.org/ark:/61903/1:1:6673-45GN",
+        "https://www.familysearch.org/ark:/61903/4:1:MZWF-F5G"
+      ]
+    },
+    {
+      "person": "antonio-fernandez-unzueta",
+      "change": "Fallecimiento: 23-01-1947, Pergamino (Argentina), de un cáncer de páncreas. El 13-11-2026 se había tomado de FamilySearch «23-01-1950, Buenos Aires»; se corrigió el mismo día al releer la biografía.",
+      "evidence": "María Luisa Visintini, «Relato biográfico de un inmigrante zamorano: Antonio Fernández Unzueta», en De Zamora a América. Memoria de la emigración zamorana I (2007), pp. 195-220: p. 201, «nació un 27 de abril de 1895, a las siete de la tarde, según consta en el acta Nº 376»; pp. 195 y 206, murió el 23 de enero de 1947 en Pergamino. El perfil de FamilySearch (1898-1950, sin fuentes) queda como dato discordante.",
+      "urls": [
+        "https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf",
+        "https://www.familysearch.org/ark:/61903/4:1:PZ4W-9N6"
+      ]
+    },
+    {
+      "person": "francisca-magan-unzueta",
+      "change": "Matrimonio con Francisco Funes (viuda en 1839) y observación sobre su hija.",
+      "evidence": "Página de Joaquina Magan Unzueta en el árbol «josearia» de Geneanet, copiada por la familia el 13-11-2026.",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
+    },
+    {
+      "person": "joaquina-hijo-de-francisca-magan-unzueta",
+      "change": "Ficha nueva: hija de Francisca Magán Unzueta.",
+      "evidence": "La misma página: nacimiento 08-04-1839, bautismo 09-04-1839 (libro de bautismos 1830-1851, folio 138), matrimonio 19-09-1863 con Francisco Ferreras Montes, hija Josefa Ferreras Magán (1875).",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
+    },
+    {
+      "person": "maria-unzueta-junquera",
+      "change": "Observación: había fallecido antes del 09-04-1839.",
+      "evidence": "La nota del bautismo de Joaquina dice que sus abuelos maternos ya habían fallecido. La página copiada no los nombra; se entienden Domingo Magán y María Unzueta, padres de Francisca en este árbol.",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
+    },
+    {
+      "person": "domingo-magan",
+      "change": "La misma observación.",
+      "evidence": "Véase maria-unzueta-junquera.",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
+    },
+    {
+      "person": "antonia-hijo-de-diego-calvo-salvador",
+      "change": "Ficha nueva: hermana de Lucas Calvo Alonso.",
+      "evidence": "Páginas de Antonia Calvo Alonso, Diego Calvo y Luisa Alonso del árbol «josearia», copiadas por la familia el 13-11-2026: Antonia nació en Casaseca de las Chanas; sus padres fallecieron en Madridanos según ese árbol, que da a Luisa por nacida en Casaseca (su bautismo es de Moraleja del Vino). Coinciden los nombres de ambos padres, el lugar y la época (matrimonio de 1772; hijos de Antonia de 1797 a 1808).",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=calvo+alonso&p=antonia",
+        "https://gw.geneanet.org/josearia?lang=en&n=calvo&p=diego",
+        "https://gw.geneanet.org/josearia?lang=en&n=alonso&p=luisa"
+      ]
+    },
+    {
+      "person": "eleuterio-hijo-de-benito-de-las-heras-rabanal",
+      "change": "Ficha nueva: hermano de Ángela de las Heras Prada.",
+      "evidence": "Índice del matrimonio en Nuestra Señora del Rosario (Rosario, Santa Fe), octubre de 1918: Eleuterio de las Heras, nacido en 1892, hijo de Benito de las Heras y María A. Prada, con Encarnación Velasco. El perfil del Árbol Familiar (2 fuentes) fecha la boda el 05-10-1918 y lo enlaza como hermano de Evaristo (1884). No hay bautismo suyo entre las fotografías de Tardobispo.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/1:1:QLYN-L7Y9",
+        "https://www.familysearch.org/ark:/61903/4:1:GGXZ-TLC"
+      ]
+    },
+    {
+      "person": "andres-morales",
+      "change": "Padres nuevos (Matías Morales y María Diego) y dos matrimonios: 08-02-1669 con Ana Pascual y 08-06-1678 con Ana Bernabé Blanco.",
+      "evidence": "Perfil «Andrés Morales Diego» del Árbol Familiar: Abelón, dos esposas, la segunda Ana Bernabé Blanco (nacida en 1656), como en este árbol. El perfil tiene una fuente sin partida adjunta.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:G76X-6N3"
+      ]
+    },
+    {
+      "person": "alonso-blanco-padre-de-jose-blanco",
+      "change": "Nacimiento 24-04-1656, matrimonio 12-12-1677 y padres nuevos (Ascensio Blanco y María Martín, casados el 25-02-1651; ella murió en 1656).",
+      "evidence": "Perfil «Alonso Asensio Blanco Martín»: Abelón, casado con Manuela Crespo Pasqual, siete hijos. En este árbol la pareja solo constaba por el bautismo de su hijo José.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:L5CG-BVK"
+      ]
+    },
+    {
+      "person": "manuela-crespo",
+      "change": "Bautismo 25-11-1658, matrimonio 12-12-1677 y padres nuevos (Sebastián Crespo y Merenciana Pascual).",
+      "evidence": "Perfil «Manuela Crespo Pasqual». El perfil fecha el matrimonio de sus padres el 14-05-1757, un error evidente que no se recoge.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:L5CG-BK7"
+      ]
+    },
+    {
+      "person": "domingo-fierro",
+      "change": "Nacimiento 28-03-1678 en Cármenes; padres nuevos (Domingo Fierro, nacido el 26-05-1642, y Toribia Díez, casados en Cármenes el 12-08-1672) y abuelo Juan Fierro.",
+      "evidence": "Descripción en PARES del pleito de hidalguía de José Fierro, vecino de Fresnadillo (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68; Real Provisión de 31-10-1735). Coincide con el árbol en el matrimonio de Domingo con Manuela de las Infantas en Malillos el 27-02-1713 y en los padres de ella. Las partidas de Register Data (matrimonio de 1713, entierro de 1754, bautismo de José en 1714 y su matrimonio en 1733) solo dicen que era natural de Cármenes; el documento de la familia deja en blanco sus padres. El perfil de FamilySearch cita el mismo pleito (imagen ark:/61903/3:1:3QS7-89PH-XK15).",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "https://www.familysearch.org/ark:/61903/4:1:G86H-5LK"
+      ]
+    },
+    {
+      "person": "desiderio-hijo-de-desiderio-devesa-romero",
+      "change": "Ficha nueva: hermano de Antonio Devesa Junquera.",
+      "evidence": "Confirmado por la familia el 13-11-2026. Perfil de FamilySearch sin fechas ni fuentes.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:GXV2-YXN"
+      ]
+    },
+    {
+      "person": "isabel-hijo-de-jose-zurdo-mayordomo",
+      "change": "Ficha nueva: hermana de Sebastiana Zurdo Vega. Observación con el enlace en José Zurdo Mayordomo.",
+      "evidence": "Página de José Zurdo Mayordomo en el árbol «mineragom2» de Geneanet, copiada por la familia el 13-11-2026: nacido en Gáname, padres sin nombre («X Zurdo», «X Mayordomo»), casado con María Vega, hija Isabel Zurdo Vega (1723). No aporta nada sobre José que el árbol no tuviera; su entierro de 1748 dice que dejó ocho hijas.",
+      "urls": [
+        "https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+mayordomo&p=jose",
+        "https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+vega&p=isabel"
+      ]
+    }
+  ],
+  "pendingDecisions": [
+    {
+      "person": "jose-fierro-de-las-infantas",
+      "question": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
+      ]
+    }
+  ],
+  "discarded": [
+    "Juan Junquera Martínez (nacido hacia 1821 en Villardeciervos, hijo de Pedro Junquera y María Martínez): no es hermano de Josefa Junquera Martínez, hija de Antonio Junquera Bobo.",
+    "Los Devesa Blanco de FamilySearch son gallegos (Palas de Rei, Vilardevós).",
+    "En «josearia»: Joseph y Juan Martín-Rodríguez Hernández y Miguel Sánchez García (casado en 1760) son homónimos de otras localidades y épocas.",
+    "Miguel Calvo Méndez del árbol de FamilySearch (LTDL-MS1): es hijo de una Marina Calvo Méndez nacida en 1923, no el bisabuelo."
+  ],
+  "leads": [
+    {
+      "person": "alonso-blanco-bobo",
+      "note": "«josearia»: Antonio Blanco Bobo, nacido y fallecido en Villardeciervos, casado allí con Manuela Blanco Baladrón; hija Antonia Blanco Blanco, madre de José Antonio Blanco Blanco (1877). Sin fechas ni padres: no se puede afirmar que sea hermano de Alonso Blanco Bobo.",
+      "urls": [
+        "https://gw.geneanet.org/josearia?lang=en&n=blanco+bobo&p=antonio"
+      ]
+    },
+    {
+      "person": "lucia-piorno-santiago",
+      "note": "Árbol de FamilySearch: Manuela Piorno Santiago, casada con Agustín Pedruelo Herrero (hijo Francisco Pedruelo Piorno), y Vicente Piorno Santiago. Sin fechas, lugares ni fuentes. Podrían ser hermanos de Lucía.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:P6R7-V5Z",
+        "https://www.familysearch.org/ark:/61903/4:1:PF2T-NFS"
+      ]
+    },
+    {
+      "person": "francisco-brioso",
+      "note": "Árbol de FamilySearch: Francisco Brioso, de Morales del Vino, con María de Luelmo y una hija Isabel Brioso de Luelmo (G2HS-PZC), que no está en este árbol. Sin fechas ni fuentes; pendiente de mirar el perfil de Isabel.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:G2HS-2FS"
+      ]
+    }
+  ]
+}

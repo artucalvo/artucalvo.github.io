@@ -212,6 +212,29 @@
       ]
     },
     {
+      "id": "desiderio-hijo-de-desiderio-devesa-romero",
+      "name": "Desiderio Devesa Junquera",
+      "givenNames": "Desiderio",
+      "surnames": [
+        "Devesa",
+        "Junquera"
+      ],
+      "father": "desiderio-devesa-romero",
+      "mother": "josefa-junquera-martinez",
+      "birth": {
+        "place": "Villardeciervos"
+      },
+      "marriages": [
+        {
+          "note": "Con María Turia."
+        }
+      ],
+      "observations": [
+        "Hermano de Antonio Devesa Junquera, según la familia.",
+        "Tiene un perfil en el árbol de FamilySearch, sin fechas, que le da un hijo, Julio Devesa Turia: https://www.familysearch.org/ark:/61903/4:1:GXV2-YXN"
+      ]
+    },
+    {
       "id": "petra-blanco-palmero",
       "name": "Petra Blanco Palmero",
       "givenNames": "Petra",
@@ -550,6 +573,34 @@
           "spouse": "josefa-martinez-botillo",
           "place": "Villardeciervos"
         }
+      ]
+    },
+    {
+      "id": "antonia-hijo-de-francisco-junquera",
+      "name": "Antonia Junquera Bobo",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Junquera",
+        "Bobo"
+      ],
+      "father": "francisco-junquera",
+      "mother": "teresa-bobo",
+      "birth": {
+        "date": "1839",
+        "place": "Villardeciervos",
+        "note": "El año se deduce de la edad que declaró al casarse."
+      },
+      "marriages": [
+        {
+          "date": "1871-07",
+          "place": "Valladolid",
+          "note": "Con Severiano Domínguez Martín, hijo de Juan Domínguez y de Ventura Martín, en la parroquia de Santiago Apóstol."
+        }
+      ],
+      "observations": [
+        "Su matrimonio la nombra hija de Francisco Junquera y de Teresa Bobo, según el índice de los libros parroquiales de Valladolid en FamilySearch: https://www.familysearch.org/ark:/61903/1:1:X92T-QGZS",
+        "Los bautismos de sus hijos en Valladolid repiten los nombres de sus padres: Arturo Constantino (nacido el 12 de abril de 1874), Carolina Amparo (1876), María del Pilar Isabel (1879) e Ildefonso (1881) Domínguez Junquera. El de 1874: https://www.familysearch.org/ark:/61903/1:1:6673-45GN",
+        "Tiene un perfil en el árbol de FamilySearch, que la da por nacida en Villardeciervos: https://www.familysearch.org/ark:/61903/4:1:MZWF-F5G"
       ]
     },
     {
@@ -2805,6 +2856,29 @@
       ]
     },
     {
+      "id": "antonia-hijo-de-diego-calvo-salvador",
+      "name": "Antonia Calvo Alonso",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Calvo",
+        "Alonso"
+      ],
+      "father": "diego-calvo-salvador",
+      "mother": "luisa-alonso-alonso",
+      "birth": {
+        "place": "Casaseca de las Chanas"
+      },
+      "marriages": [
+        {
+          "note": "Con Cipriano Antonio Hidalgo Arias, nacido hacia 1774 y fallecido en 1840."
+        }
+      ],
+      "observations": [
+        "Un árbol publicado en Geneanet la da por nacida en Casaseca de las Chanas, hija de Diego Calvo y de Luisa Alonso, y madre de siete hijos Hidalgo Calvo: Tomás Venancio (1797), Diego (1800-1845), Escolástica (1803-1804), Benita (1808-1813), Francisco Julián, Jerónimo (fallecido hacia 1865) y Felipe: https://gw.geneanet.org/josearia?lang=en&n=calvo+alonso&p=antonia",
+        "Se la tiene por hija de Diego Benito Calvo Salvador y Luisa Alonso Alonso, casados en 1772 y avecindados en Casaseca de las Chanas, por los nombres de sus padres, el lugar y las fechas de sus hijos."
+      ]
+    },
+    {
       "id": "felipa-martin-hernandez",
       "name": "Felipa Martín Hernández",
       "givenNames": "Felipa",
@@ -3405,7 +3479,8 @@
         }
       ],
       "observations": [
-        "Una nota añadida al pie de su partida de bautismo dice que casó y se avecindó en Casaseca de las Chanas."
+        "Una nota añadida al pie de su partida de bautismo dice que casó y se avecindó en Casaseca de las Chanas.",
+        "Un árbol publicado en Geneanet sitúa su fallecimiento en Madridanos, sin fecha, y le da una hija, Antonia, casada con Cipriano Antonio Hidalgo Arias: https://gw.geneanet.org/josearia?lang=en&n=calvo&p=diego"
       ]
     },
     {
@@ -3438,7 +3513,8 @@
         }
       ],
       "observations": [
-        "No es la misma persona que Luisa Alonso Delgado, también de Moraleja del Vino."
+        "No es la misma persona que Luisa Alonso Delgado, también de Moraleja del Vino.",
+        "Un árbol publicado en Geneanet sitúa su fallecimiento en Madridanos, sin fecha, y le da una hija, Antonia, casada con Cipriano Antonio Hidalgo Arias: https://gw.geneanet.org/josearia?lang=en&n=alonso&p=luisa"
       ]
     },
     {
@@ -8444,6 +8520,24 @@
       ]
     },
     {
+      "id": "isabel-hijo-de-jose-zurdo-mayordomo",
+      "name": "Isabel Zurdo Vega",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Zurdo",
+        "Vega"
+      ],
+      "father": "jose-zurdo-mayordomo",
+      "mother": "maria-vega",
+      "birth": {
+        "date": "1723",
+        "place": "Gáname"
+      },
+      "observations": [
+        "Consta como hija de José Zurdo Mayordomo y María Vega, nacida en 1723, en un árbol publicado en Geneanet: https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+vega&p=isabel"
+      ]
+    },
+    {
       "id": "domingo-piorno",
       "name": "Domingo Piorno de Olmedo",
       "givenNames": "Domingo",
@@ -8656,7 +8750,8 @@
         "transcription": "Joseph Fierro.\n\nEn diez y nuebe de Junio, año de mil setezs setenta y quatro, yo Dn Manl Martín, Presvº y theniente en el Lugr de Fadón, di sepultura eclesiástica en la Ygª del Lugr de Gáname (arriba) a Joseph Fierro, marido que fue de Micaela Blanco, ya difta; recibió los Stos Sacramtos de Penitª, Eucaristía y Extremaunción; no hizo testamto porque dijo no tener ya bienes algunos, y que sus hijos le hiziesen el bien de la Alma que quisieren, y efectivamte se le han dicho las misas del entierro, honrras, Indulgª y Novenario, y para que conste lo firmo, fecha ut supra. Dn Manuel Martín."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento porque dijo no tener ya bienes algunos."
+        "La partida de entierro dice que no hizo testamento porque dijo no tener ya bienes algunos.",
+        "Siendo vecino de Fresnadillo, siguió un pleito de hidalguía ante la Real Chancillería de Valladolid y obtuvo Real Provisión el 31 de octubre de 1735. El pleito recoge su ascendencia hasta su bisabuelo Juan Fierro, de Cármenes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
       ]
     },
     {
@@ -9819,10 +9914,16 @@
       ],
       "death": {
         "date": "1792-06-24",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "note": "La partida solo expresa el entierro, el 25 de junio."
       },
       "father": "alonso-de-mena",
-      "mother": "juana-miguel"
+      "mother": "juana-miguel",
+      "burial": {
+        "date": "1792-06-25",
+        "place": "Morales del Vino",
+        "transcription": "Franco de Mena\n\nEn el día veinte y cinco de Junio de mil setecientos nobenta y dos, yo el infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales, di sepultura eclesiástica en ella a el cadáver de Franco de Mena, nral que fue de este lugar, hijo legítimo de Alonso de Mena y de Ana Miguel, también de Morales; recibió los Santos Sacramentos de la Penitencia, Viático y Extrema Unción; hizo testamento; se le hizo entierro, oficios y nobenario, y en fe de ello lo certifico y firmo ut supra = José María Baraz\n\nTiene cumplido el testamto. Baraz"
+      }
     },
     {
       "id": "ines-roman",
@@ -12176,7 +12277,8 @@
       },
       "death": {
         "date": "1739-03-03",
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "note": "La partida solo expresa el entierro, el 4 de marzo."
       },
       "father": "tirso-de-prada",
       "mother": "ana-de-cifuentes",
@@ -12188,6 +12290,14 @@
           "note": "Con dispensa de una amonestación.",
           "transcription": "Franco de Prada y María Martín.\n\nEn diez y seis días del mes de henero de mill setezientos y ocho años, yo el Ldo Germo del Huelmo, Cura propio deste lugar de Morales, con dispensación de una admonizión por el Sr Provisor deste obispado, por ante Andrés de la Torre [ilegible], Notario de la audiencia episcopal deste obispado, su fecha en nueve días deste presente mes y año, y aviendo precedido en este dicho lugar y en el de [ilegible] las otras dos admoniciones que manda el Santo Concilio Tridentino, y no haviendo resultado impedimento, desposé por palabras de presente que hazen verdadero matrimonio a Franco de Prada, mozo soltero, hixo legítimo de Tirso de Prada y Ana de Cifuentes, vecinos del lugar de Rávano, jurisdicción de la Puebla de Sanabria, y María Martín, viuda de Juan Nieto, vecina deste lugar de Morales, a que fueron testigos el Ldo Franco Martín, Franco Lozano y Gaspar Martínez, vecinos deste lugar, y para que conste lo firmé. Enmendado: Prada = valga. Ldo Germo del Huelmo."
         }
+      ],
+      "burial": {
+        "date": "1739-03-04",
+        "place": "Morales del Vino",
+        "transcription": "Franco de Prada\n\nEn quattro días del mes Marzo de mil Stos y treintta y nuebe as se entterró en estta Yglesia Franco de Prada, haviendo muertto de su muertte nattural. No rezivió más sacramentto que el de la Extremaunzión. Dio poder para hazer su ttesttamentto antte Diego Cabrero, fiel de fechos destte lugar de Morales, y ttomó por su alma settezienttos rrs vellón. Hiziéronsele entierro, onrras y cabo de año y nobenario canttado, y para que constte lo firmé = Dn Anttº Cabrero\n\nCumplido y lo firmé. Cabrero"
+      },
+      "observations": [
+        "La partida de entierro dice que solo recibió la extremaunción, que dio poder para hacer su testamento ante Diego Cabrero, fiel de fechos de Morales, y que tomó por su alma setecientos reales."
       ]
     },
     {
@@ -13830,7 +13940,9 @@
         "Fierro"
       ],
       "birth": {
-        "place": "Cármenes"
+        "date": "1678-03-28",
+        "place": "Cármenes",
+        "note": "La fecha puede ser la del bautismo."
       },
       "death": {
         "date": "1754-09-24",
@@ -13852,7 +13964,72 @@
       },
       "observations": [
         "La partida de entierro lo llama viudo de Ana Piorno y nombra herederos a su hijo José Fierro y a cuatro yernos.",
-        "La partida de matrimonio de 1713 lo llama viudo de Micaela de Olmedo, vecina que fue de Gáname."
+        "La partida de matrimonio de 1713 lo llama viudo de Micaela de Olmedo, vecina que fue de Gáname.",
+        "Su nacimiento y sus padres constan en el pleito de hidalguía que su hijo José siguió en 1735 ante la Real Chancillería de Valladolid, que prueba su nobleza con los padrones de Cármenes de 1680, 1686, 1692 y 1698, donde figura como hidalgo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "Su perfil en el árbol de FamilySearch cita ese mismo pleito y lo da por bautizado el 28 de marzo de 1678: https://www.familysearch.org/ark:/61903/4:1:G86H-5LK"
+      ],
+      "father": "domingo-fierro-padre-de-domingo-fierro",
+      "mother": "toribia-diez"
+    },
+    {
+      "id": "domingo-fierro-padre-de-domingo-fierro",
+      "name": "Domingo Fierro",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Fierro"
+      ],
+      "father": "juan-fierro",
+      "birth": {
+        "date": "1642-05-26",
+        "place": "Cármenes",
+        "note": "La fecha puede ser la del bautismo."
+      },
+      "marriages": [
+        {
+          "spouse": "toribia-diez",
+          "date": "1672-08-12",
+          "place": "Cármenes"
+        }
+      ],
+      "observations": [
+        "Vecino de Cármenes e hidalgo en los padrones de 1674, 1680 y 1686, según el pleito de hidalguía de su nieto José Fierro (Real Chancillería de Valladolid, 1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "Su perfil en el árbol de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:P8YQ-R1R"
+      ]
+    },
+    {
+      "id": "toribia-diez",
+      "name": "Toribia Díez",
+      "givenNames": "Toribia",
+      "surnames": [
+        "Díez"
+      ],
+      "origins": [
+        "Cármenes"
+      ],
+      "marriages": [
+        {
+          "spouse": "domingo-fierro-padre-de-domingo-fierro",
+          "date": "1672-08-12",
+          "place": "Cármenes"
+        }
+      ],
+      "observations": [
+        "Consta como mujer de Domingo Fierro y abuela de José Fierro en el pleito de hidalguía de 1735: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "El árbol de FamilySearch la llama Toribia Díez Lobo: https://www.familysearch.org/ark:/61903/4:1:P8YQ-PH4"
+      ]
+    },
+    {
+      "id": "juan-fierro",
+      "name": "Juan Fierro",
+      "givenNames": "Juan",
+      "surnames": [
+        "Fierro"
+      ],
+      "origins": [
+        "Cármenes"
+      ],
+      "observations": [
+        "Vecino de Cármenes y padre del Domingo Fierro nacido en 1642, según el pleito de hidalguía de su bisnieto José Fierro (1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
       ]
     },
     {
@@ -15116,8 +15293,19 @@
       "observations": [
         "La partida de matrimonio de su hija Bárbara (16-10-1752) la da por difunta.",
         "La partida de matrimonio de 1726 la llama viuda de Juan Esteban.",
-        "La partida de entierro de su marido, José Zurdo (14-12-1748), la da por difunta."
-      ]
+        "La partida de entierro de su marido, José Zurdo (14-12-1748), la da por difunta.",
+        "La partida de entierro dice que hizo testamento y nombró testamentarios a Diego Pérez y a Fernando Galán."
+      ],
+      "burial": {
+        "date": "1748-11-12",
+        "place": "Peleas de Arriba",
+        "transcription": "Adulta. Cumplido.\n\nEn doze de Nobiembre de mill setecientos y quarenta y ocho yo el infra escrito Cura propio de esta Parrochial de Peleas de Arriba anexo de Fuente el Carnero di sepultura ecclesiástica a Ana Mattheo conjunta persona de Joseph Zurdo mis feligreses. Fue socorrida con los Santos Sacramentos de confesión, viático y extremaunción, hizo testamento, y dexó por sus testamentarios a Diego Pérez y Fernando Galán y para bien de su alma los dros parrochiales y una missa votiva a nuestra Señora de la Cuesta y para que conste lo firmo en dho día mes y año. Mattheo Cavero."
+      },
+      "death": {
+        "date": "1748-11-11",
+        "place": "Peleas de Arriba",
+        "note": "La partida solo expresa el entierro, el 12 de noviembre."
+      }
     },
     {
       "id": "juan-brioso",
@@ -15271,10 +15459,11 @@
     },
     {
       "id": "ines-marques",
-      "name": "Inés Marqués",
+      "name": "Inés Marqués Nieto",
       "givenNames": "Inés",
       "surnames": [
-        "Marqués"
+        "Marqués",
+        "Nieto"
       ],
       "marriages": [
         {
@@ -15285,7 +15474,9 @@
         }
       ],
       "birth": {
-        "place": "Morales del Vino"
+        "place": "Morales del Vino",
+        "date": "1686-11-07",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
       },
       "death": {
         "date": "1769-09-04",
@@ -15296,7 +15487,18 @@
         "date": "1769-09-05",
         "place": "Morales del Vino",
         "transcription": "Ynés Marqués. Cumplido. Visto y cumpdo.\n\nEn cinco de Septre de mil settos y sesenta y nueve se enterró en esta Yglessia Ynés Marqués viuda de Franco Cabrero, vzos que fueron de este lugar. Murió de su muerte natural, rezivió todos los Stos Sacramentos. El día antezedente murió a las seis de la mañana. Dio poder a sus hijos para que le hiziesen bien por su alma. Gastaron doscientos ducados en el funeral y en limosnas a los combentos. Dejó quatro hijos. Murió de ochenta y quatro as y lo firmé. Dn Antto Cabrero."
-      }
+      },
+      "father": "diego-marques-padre-de-manuel-marques",
+      "mother": "maria-nieto-madre-de-manuel-marques",
+      "baptism": {
+        "date": "1686-11-07",
+        "place": "Morales del Vino",
+        "note": "Asentado por error en el libro de desposados, como explica una nota al pie de la partida.",
+        "transcription": "Ynés.\n\nEn siete de nobiembre de mill y seiscientos y ochenta y seis años yo el Ldo Joseph de Prado, cura teniente de este lugar de Morales, bapticé y puse los Stos óleos a una niña que se llamó Ynés, hija de Diego Marqués y de María Nieta su legítima muger. Fueron sus padrinos Alonso Sánchez de Toro, vecino de Zamora, y Jacinta Nieta; advertiles el parentesco espiritual. Fueron testigos Alonso de Vitoria y Matheo Brioso y en fe de ello lo firmé ut supra. Joseph de Prado.\n\nEste baptizado se puso aquí por no advertir que era este asiento el de los desposados, con que se a puesto en su lugar. No se borra por no ser conbeniente, que fue una inadbertencia."
+      },
+      "observations": [
+        "Ni su matrimonio ni su entierro nombran a sus padres. Se la identifica con la Inés bautizada en Morales del Vino el 07-11-1686, hija de Diego Marqués y de María Nieto, la única de ese nombre y edad que queda en el libro; el entierro le da ochenta y cuatro años, uno más de los que tendría."
+      ]
     },
     {
       "id": "isabel-marques",
@@ -21009,9 +21211,10 @@
         "note": "La fecha es la del bautismo; no consta la del nacimiento."
       },
       "death": {
-        "date": "1698-12",
+        "date": "1698-12-25",
         "place": "Abelón",
-        "note": "La partida de entierro de su viuda, María Blanco (10-06-1709), remite a la cláusula de su entierro, asentada en el libro el 25 de diciembre de 1698."
+        "note": "Enterrado en la iglesia de San Martín, enfrente de la pila del agua bendita, en la sepultura que eligió.",
+        "transcription": "Pedro Garrote. Adulto. Cumplido. Castañón.\n\nEn veinte y cinco de diciembre de dho año de mil seiscientos y noventa y ocho falleció desta presente vida Pedro Garrote vzº deste lugar de Abellón; recivió los Stos Sacramentos y hizo testamento ante mí en el qual tomó por su alma diez y seis ducados para un novenario de misas cantadas en esta Ygla y lo restante para misas rezadas. Está enterrado en esta Ygla de Sn Martín en la sepultura que eligió y está enfrente de la pila de la agua bendita. Dejó por sus herederos a sus hijos y por testamentarios a Domingo Garrote su hermano y a Alonso Blanco vzº deste dho lugar. Mandó se repartiesen dos libras de cera entre los tres altares de dha Ygla [ilegible] y no otra cosa que yo alcanzado [ilegible]; y para que así conste lo firmé dho día mes y año ut supra. Joseph Fierro Castañón.\n\nLlevaron a la colecturía dhos testamentarios ochenta y ocho Rs [ilegible]."
       },
       "father": "juan-garrote",
       "mother": "catalina-gabriel",
@@ -21019,7 +21222,13 @@
         "date": "1656-02-06",
         "place": "Abelón",
         "transcription": "Pedro.\n\nEn seis de febrero de dicho año bauticé yo Domingo Alonso, cura teniente de Abelón, a Pedro Garrote, hijo de Juan Garrote y Catalina Graviela, sus padres; fueron sus padrinos Juan Salbador, vº de Gáname, y Ana Graviela, vª de Abelón, y por verdad lo firmé dicho día. Domingo Alonso Gago y Barreta."
-      }
+      },
+      "siblings": [
+        "domingo-garrote-hermano-de-pedro-garrote-padre-de-antonio-garrote"
+      ],
+      "observations": [
+        "La partida de fallecimiento dice que hizo testamento ante el cura, que dejó por herederos a sus hijos y que nombró testamentarios a su hermano Domingo Garrote y a Alonso Blanco, vecino de Abelón. La partida de entierro de su viuda, María Blanco (10-06-1709), remite a ella."
+      ]
     },
     {
       "id": "juan-garrote",
@@ -21126,7 +21335,52 @@
         "place": "Abelón",
         "note": "Era pobre y no hizo testamento. Enterrado en la capilla del medio, al lado del Evangelio.",
         "transcription": "Andrés Morales. Pobre.\n\nEn diez y ocho de abril murió Andrés Morales; recibió el Sancto Sacramento de la penitencia y el de la extremaunción; el de la Eucharistía no, por impedimento; no hizo testamento por no tener de qué; enterrose en la capilla del medio, al lado del Evangelio, y lo firmé como cura theniente en dicho día, mes y año dichos. Joseph Texedor."
-      }
+      },
+      "father": "matias-morales-padre-de-andres-morales",
+      "mother": "maria-diego-madre-de-andres-morales",
+      "marriages": [
+        {
+          "date": "1669-02-08",
+          "place": "Abelón",
+          "note": "Primer matrimonio, con Ana Pascual, que murió en 1676."
+        },
+        {
+          "spouse": "ana-bernabe",
+          "date": "1678-06-08",
+          "place": "Abelón"
+        }
+      ],
+      "observations": [
+        "Sus padres, Matías Morales y María Diego, y las fechas de sus dos matrimonios constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:G76X-6N3"
+      ]
+    },
+    {
+      "id": "matias-morales-padre-de-andres-morales",
+      "name": "Matías Morales",
+      "givenNames": "Matías",
+      "surnames": [
+        "Morales"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "observations": [
+        "Consta como padre de Andrés Morales según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:GMQ2-NCF"
+      ]
+    },
+    {
+      "id": "maria-diego-madre-de-andres-morales",
+      "name": "María Diego",
+      "givenNames": "María",
+      "surnames": [
+        "Diego"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "observations": [
+        "Consta como madre de Andrés Morales según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:GMQ2-F5C"
+      ]
     },
     {
       "id": "ana-bernabe",
@@ -21163,7 +21417,15 @@
         "transcription": "Ana Bernabé. Cumplido.\n\nEn el lugar de Abelón, a doze días del mes de junio del año de mil setecientos y quinse, yo el infraescripto cura theniente del lugar de Abelón di sepultura eclesiástica en la parroquia del a Ana Bernabé, vecina que fue de dicho lugar, en medio de la yglesia, entre los altares de Nuestra Señora y del del Santo Christo; recibió los santos sacramentos con el de la santa extremaunción; hizo testamento de palabra ante mí el dicho cura theniente y testigos; tomó por su ánima los derechos parroquiales, que son misa de entierro, nobenario y cabo de año, y [ilegible], y tomó una misa cantada a Nª Sª; Ana dexó por testamentarios a Roque Bernabé, su hermano, y a Domingo Morales, su hijo; y dicho testamento de palabra lo hizo el día que se confesó, que fue el día dos de dicho mes; dexó por sus herederos a Domingo Morales, Marcos Morales y a María y Catalina Morales, y para que conste lo firmo yo el theniente dicho día, mes y año. Fr. Nicolás Domínguez.\n\nVisto el testamento, no queda nada que [ilegible]. [firma]."
       },
       "observations": [
-        "La partida de entierro (12-06-1715) dice que testó de palabra y nombra testamentarios a su hermano Roque Bernabé y a su hijo Domingo Morales, y herederos a sus hijos Domingo, Marcos, María y Catalina Morales."
+        "La partida de entierro (12-06-1715) dice que testó de palabra y nombra testamentarios a su hermano Roque Bernabé y a su hijo Domingo Morales, y herederos a sus hijos Domingo, Marcos, María y Catalina Morales.",
+        "La fecha de su matrimonio consta según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:GQXF-W7N"
+      ],
+      "marriages": [
+        {
+          "spouse": "andres-morales",
+          "date": "1678-06-08",
+          "place": "Abelón"
+        }
       ]
     },
     {
@@ -22708,8 +22970,18 @@
         }
       ],
       "observations": [
-        "La partida de matrimonio lo identifica como natural de la Muga de Sayago."
-      ]
+        "La partida de matrimonio lo identifica como natural de la Muga de Sayago.",
+        "La partida de entierro (27-08-1742) dice que había hecho testamento el 6 de agosto de 1736 ante Joseph Gómez de Veras y que tomó por su alma ochocientos reales. No nombra a su mujer ni a sus padres: se le atribuye porque es el único Diego de Arroyo de Morales del Vino."
+      ],
+      "burial": {
+        "date": "1742-08-27",
+        "place": "Morales del Vino",
+        "transcription": "Diego Arroyo\n\nEn veintte y siette días del mes de Agostto de mil Stos y quarentta y dos as se entterró en estta Yglessia Diego de Arroyo. Murió el día veintte y seis de dicho mes. Rezivió todos los Stos Sacramenttos de Penittenzia, Eucharistía y Extremaunzión. Hizo testamentto ante Joseph Gómez de Veras en seis de Agostto de mil setezientos y treintta y seis. Tomó por su alma ochozienttos rrs. Hiziéronsele entierro, onrras y cabo de año y nobenario rezado, y para que constte lo firmé. Dn Anttº Cabrero\n\nEstta cumplido este testtamentto y lo firmé = Cabrero"
+      },
+      "death": {
+        "date": "1742-08-26",
+        "place": "Morales del Vino"
+      }
     },
     {
       "id": "maria-madrid",
@@ -25619,7 +25891,8 @@
         "transcription": "Joseph Zurdo. Se llevaron cinqta rs vn a la Colecturía gral de este Obpdo, de que tiene recivo María Vega.\n\nEn el Lugar de Ganame a veinte y ocho días del mes de Abril de mill settos y quarenta y ocho, yo el infrascripto Cura propio, enterré, coro arriba, a Joseph Zurdo, Alcalde actual, marido de María Vega, vezº de él, con misa de asistencia. Recivió los Stos Sacramentos de la Eucharistía, y Extremaunción, y ordenó su testamto por ante Franco Ysidro, y testigos necesarios, vezs de este dho lugar, su fha 27 del referido mes, y año, y mandó que se distribuian en hacer bien por su alma ciento y treinta y dos rs vn de los quales ayan de salir los dros parroqs de entierro, honrras, y novº cantº y la restante cantidad, se combierta en misas rezs por su alma; y en otra cláusula, dispone se digan por ella, cinco misas votivas rezs: una, a Nª Sª del Rosario; otra, a la del Rayo; otra, a la Virgen de la Peña de Francia; otra, a Sn Joseph; y otra, al Sto Xpto de Morales; y que se ofrende su sepultura dos años, según estilo; y nombra por ofrendadera a dha María Vega, su muger; por testamentarios, a Thomás Zurdo, su hermº vezº de Fadón, y a Franco Ysidro, vezº de este lugar de Ganame, y por herederas, a todas sus hijas, que parece son ocho; y para que conste, firmo, ut supra. Thomás Sz de Varredo."
       },
       "observations": [
-        "La partida de fallecimiento indica que era alcalde en ejercicio, nombra testamentario a su hermano Tomás Zurdo, vecino de Fadón, y dice que dejó por herederas a todas sus hijas, «que parece son ocho»."
+        "La partida de fallecimiento indica que era alcalde en ejercicio, nombra testamentario a su hermano Tomás Zurdo, vecino de Fadón, y dice que dejó por herederas a todas sus hijas, «que parece son ocho».",
+        "Un árbol publicado en Geneanet lo recoge con su mujer, María Vega, y una hija, Isabel, nacida en 1723; no nombra a sus padres: https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+mayordomo&p=jose"
       ],
       "siblings": [
         "tomas-zurdo-hermano-de-jose-zurdo-mayordomo"
@@ -27098,6 +27371,68 @@
       "givenNames": "Alonso",
       "surnames": [
         "Blanco"
+      ],
+      "father": "ascensio-blanco-padre-de-alonso-blanco",
+      "mother": "maria-martin-madre-de-alonso-blanco",
+      "birth": {
+        "date": "1656-04-24",
+        "place": "Abelón"
+      },
+      "marriages": [
+        {
+          "spouse": "manuela-crespo",
+          "date": "1677-12-12",
+          "place": "Abelón"
+        }
+      ],
+      "observations": [
+        "Su nacimiento, su matrimonio y sus padres, Ascensio Blanco y María Martín, constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-BVK",
+        "Ese perfil lo llama Alonso Asensio Blanco Martín y le da siete hijos con Manuela Crespo."
+      ]
+    },
+    {
+      "id": "ascensio-blanco-padre-de-alonso-blanco",
+      "name": "Ascensio Blanco",
+      "givenNames": "Ascensio",
+      "surnames": [
+        "Blanco"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "marriages": [
+        {
+          "spouse": "maria-martin-madre-de-alonso-blanco",
+          "date": "1651-02-25",
+          "place": "Abelón"
+        }
+      ],
+      "observations": [
+        "Consta como padre de Alonso Blanco, con la fecha de su matrimonio, según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-PR2"
+      ]
+    },
+    {
+      "id": "maria-martin-madre-de-alonso-blanco",
+      "name": "María Martín",
+      "givenNames": "María",
+      "surnames": [
+        "Martín"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "marriages": [
+        {
+          "spouse": "ascensio-blanco-padre-de-alonso-blanco",
+          "date": "1651-02-25",
+          "place": "Abelón"
+        }
+      ],
+      "death": {
+        "date": "1656"
+      },
+      "observations": [
+        "Consta como madre de Alonso Blanco, fallecida el año en que él nació, según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-YGS"
       ]
     },
     {
@@ -27106,6 +27441,50 @@
       "givenNames": "Manuela",
       "surnames": [
         "Crespo"
+      ],
+      "father": "sebastian-crespo-padre-de-manuela-crespo",
+      "mother": "merenciana-pascual-madre-de-manuela-crespo",
+      "baptism": {
+        "date": "1658-11-25",
+        "place": "Abelón"
+      },
+      "marriages": [
+        {
+          "spouse": "alonso-blanco-padre-de-jose-blanco",
+          "date": "1677-12-12",
+          "place": "Abelón"
+        }
+      ],
+      "observations": [
+        "Su bautismo, su matrimonio y sus padres, Sebastián Crespo y Merenciana Pascual, constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-BK7"
+      ]
+    },
+    {
+      "id": "sebastian-crespo-padre-de-manuela-crespo",
+      "name": "Sebastián Crespo",
+      "givenNames": "Sebastián",
+      "surnames": [
+        "Crespo"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "observations": [
+        "Consta como padre de Manuela Crespo según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CP-3FJ"
+      ]
+    },
+    {
+      "id": "merenciana-pascual-madre-de-manuela-crespo",
+      "name": "Merenciana Pascual",
+      "givenNames": "Merenciana",
+      "surnames": [
+        "Pascual"
+      ],
+      "origins": [
+        "Abelón"
+      ],
+      "observations": [
+        "Consta como madre de Manuela Crespo según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CP-HDZ"
       ]
     },
     {
@@ -27515,7 +27894,10 @@
       "baptism": {
         "date": "1774-05-12",
         "place": "Villardeciervos"
-      }
+      },
+      "observations": [
+        "Había fallecido antes del 9 de abril de 1839, cuando se bautizó su nieta Joaquina Magán Unzueta, según un árbol publicado en Geneanet: https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
     },
     {
       "id": "domingo-magan",
@@ -27523,6 +27905,9 @@
       "givenNames": "Domingo",
       "surnames": [
         "Magán"
+      ],
+      "observations": [
+        "Había fallecido antes del 9 de abril de 1839, cuando se bautizó su nieta Joaquina Magán Unzueta, según un árbol publicado en Geneanet: https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
       ]
     },
     {
@@ -27553,7 +27938,49 @@
       "baptism": {
         "date": "1797-01-28",
         "place": "Villardeciervos"
-      }
+      },
+      "marriages": [
+        {
+          "note": "Con Francisco Funes, de quien era viuda en abril de 1839."
+        }
+      ],
+      "observations": [
+        "Viuda ya de Francisco Funes, tuvo en 1839 a su hija Joaquina, cuyo padre no consta, según un árbol publicado en Geneanet: https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
+    },
+    {
+      "id": "joaquina-hijo-de-francisca-magan-unzueta",
+      "name": "Joaquina Magán Unzueta",
+      "givenNames": "Joaquina",
+      "surnames": [
+        "Magán",
+        "Unzueta"
+      ],
+      "mother": "francisca-magan-unzueta",
+      "birth": {
+        "date": "1839-04-08",
+        "place": "Villardeciervos"
+      },
+      "baptism": {
+        "date": "1839-04-09",
+        "place": "Villardeciervos",
+        "note": "Bautizada de socorro por el cirujano que atendió a su madre, don Gaspar Jaluillo. Padrinos: Francisco Llamero Justel y Joaquina Fariñas. Testigos: Francisco López Gallego y Josef Magán."
+      },
+      "marriages": [
+        {
+          "date": "1863-09-19",
+          "place": "Villardeciervos",
+          "note": "Con Francisco Ferreras Montes, en la iglesia parroquial de Nuestra Señora de la Asunción. Testigos: Francisco López, Manuel Romero y Pedro Baladrón."
+        }
+      ],
+      "death": {
+        "place": "Villardeciervos"
+      },
+      "observations": [
+        "No consta su padre y lleva los apellidos de su madre, que era viuda de Francisco Funes.",
+        "Tuvo una hija, Josefa Ferreras Magán, nacida en 1875.",
+        "Sus datos proceden de un árbol publicado en Geneanet, que cita el libro de bautismos de 1830 a 1851, folio 138: https://gw.geneanet.org/josearia?lang=en&n=magan+unzueta&p=joaquina"
+      ]
     },
     {
       "id": "manuel-magan-unzueta",
@@ -28453,8 +28880,15 @@
         }
       ],
       "observations": [
-        "El relato familiar considera a Adelina su hermana mayor, lo que no concuerda con las fechas de nacimiento registradas."
-      ]
+        "El relato familiar considera a Adelina su hermana mayor, lo que no concuerda con las fechas de nacimiento registradas.",
+        "Su nieta publicó su biografía en «De Zamora a América. Memoria de la emigración zamorana I» (2007): nació a las siete de la tarde, según el acta n.º 376; salió de Villardeciervos hacia 1910, con unos quince años, y se estableció en Pergamino (Argentina), donde murió.",
+        "Un perfil del árbol de FamilySearch, que no cita partidas, da otras fechas: nacido el 27 de abril de 1898 y fallecido en Buenos Aires el 23 de enero de 1950. Se sigue la biografía, que cita el acta de nacimiento: https://www.familysearch.org/ark:/61903/4:1:PZ4W-9N6"
+      ],
+      "death": {
+        "date": "1947-01-23",
+        "place": "Pergamino",
+        "note": "De un cáncer de páncreas."
+      }
     },
     {
       "id": "eduardo-fernandez-unzueta",
@@ -37210,6 +37644,33 @@
       ]
     },
     {
+      "id": "eleuterio-hijo-de-benito-de-las-heras-rabanal",
+      "name": "Eleuterio de las Heras Prada",
+      "givenNames": "Eleuterio",
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
+      "father": "benito-de-las-heras-rabanal",
+      "mother": "ma-antonia-prada-carretero",
+      "birth": {
+        "date": "1892",
+        "note": "El año se deduce de la edad que declaró al casarse."
+      },
+      "marriages": [
+        {
+          "date": "1918-10-05",
+          "place": "Rosario",
+          "note": "Con Encarnación Velasco, en la catedral de Nuestra Señora del Rosario, en Rosario de Santa Fe (Argentina)."
+        }
+      ],
+      "observations": [
+        "Su matrimonio lo nombra hijo de Benito de las Heras y de María A. Prada, según el índice de los libros parroquiales de Santa Fe en FamilySearch: https://www.familysearch.org/ark:/61903/1:1:QLYN-L7Y9",
+        "Figura en una lista de pasajeros llegados a Buenos Aires entre 1901 y 1922. Su hermano Evaristo se había casado en Rosario en 1910.",
+        "Tiene un perfil en el árbol de FamilySearch, que lo da por nacido en octubre de 1892: https://www.familysearch.org/ark:/61903/4:1:GGXZ-TLC"
+      ]
+    },
+    {
       "id": "francisco-hijo-de-benito-de-las-heras-rabanal",
       "name": "Francisco de las Heras Prada",
       "givenNames": "Francisco",
@@ -37383,6 +37844,41 @@
         "Nombrado entre los cuatro hijos que dejó su padre, Fernando Girón Fernández, en su partida de entierro (27-03-1832).",
         "Se le supone hijo de María Alonso, la segunda mujer de su padre, porque no figura entre los hijos que dejó su primera mujer, Francisca Roncero, en 1806; la partida de entierro no lo dice.",
         "Segundo apellido deducido del de su madre."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-manuel-marques-padre-de-isabel-marques",
+      "name": "María Marqués Herrero",
+      "givenNames": "María",
+      "surnames": [
+        "Marqués",
+        "Herrero"
+      ],
+      "father": "manuel-marques-padre-de-isabel-marques",
+      "mother": "francisca-herrero",
+      "baptism": {
+        "date": "1701-07-06",
+        "place": "Morales del Vino",
+        "note": "Ese día se le pusieron los óleos; antes la había bautizado de socorro el cura, en fecha que la partida no dice.",
+        "transcription": "María.\n\nEn seis días del mes de Jullio de mill setezos y un años, de mi liza el Ldo Andrés Ruyz, clérigo presvítero, vº de el lugr de Pereruela, puso los Stos olios a una niña que se llamó María, a quien yo baptizé de socorro; nació el día veinte y quatro del mes de Junio deste presente año; hixa legítima de Manuel Marqués el mozo y de Franca Herrero, vºs deste lugr; fueron Padrinos Manuel Marqués, vº deste dho lugr, y Lucía Ruyz, vª de dho lugr de Pereruela; contraxo el parentesco spiritual dho padrino, de que fue advertido; testigos Juan Marqués, Germo Nieto [ilegible] Germo del Huelmo, cura propio deste dho lugr de Morales; para que conste lo firmé. Emmdo: Jullio. Valga. Ldo Germo del Huelmo."
+      },
+      "birth": {
+        "date": "1701-06-24",
+        "place": "Morales del Vino"
+      }
+    },
+    {
+      "id": "domingo-garrote-hermano-de-pedro-garrote-padre-de-antonio-garrote",
+      "name": "Domingo Garrote",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Garrote"
+      ],
+      "observations": [
+        "La partida de fallecimiento de Pedro Garrote Gabriel (Abelón, 25-12-1698) lo llama su hermano y lo nombra testamentario; un Domingo Garrote fue también testamentario de Catalina Gabriel, madre de Pedro, en 1702. Puede ser el Domingo Garrote padre de Domingo Garrote Ortijo (Abelón, 1681), pero ninguna partida lo dice."
+      ],
+      "siblings": [
+        "pedro-garrote-padre-de-antonio-garrote"
       ]
     }
   ]

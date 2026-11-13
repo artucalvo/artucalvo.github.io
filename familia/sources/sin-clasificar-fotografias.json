@@ -42,42 +42,6 @@
       "destination": "Tatarabuelos quintos"
     },
     {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Miguel de Trigo.JPG",
-          "sha256": "1c79008184d4fd12cfaac86f1ba45d56b6d68f612c20ce53e759992ebcc9e196",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En veinte y quatro días del mes de abril de mill [ilegible]cientos y veinte y seis se enterró en esta Yglesia Miguel de Trigo, aviendo recibido los santos sacramentos de penitencia, Eucharistía y extrema unción. No hizo testamento por [ilegible]. Y lo firmé.",
-      "uncertainties": [
-        "La centuria parece setecientos, pero necesita comprobación; el asiento anterior parece del mismo año.",
-        "No se nombran familiares ni localidad; el nombre no basta para identificarlo con el padre de Alonso de Trigo. La frase tras «por» requiere revisión."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonId": "miguel-de-trigo"
-    },
-    {
-      "type": "death",
-      "images": [
-        {
-          "filename": "Muerte de Antonio Piorno.JPG",
-          "sha256": "d6520fb5769349a79b19769c0226aaa1587c1c74585b01015ca9de533aaa2abc",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "Murió Antº Piorno en once de mayo de mill setecientos y quatro años. Era pobre, hízosele un novenario [ilegible] para más. Enterróse en la Yglesia de este lugar y lo firmé.",
-      "uncertainties": [
-        "El nombre y la fecha coinciden con la ficha; la partida no nombra familiares ni localidad y la atribución requiere corroboración independiente.",
-        "La frase después de novenario podría decir «que no hubo para más», pero no es segura."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonId": "antonio-piorno"
-    },
-    {
       "type": "baptism",
       "images": [
         {
@@ -489,24 +453,6 @@
         "Bautismo de Pedro Avedillo Urueña el 29-04-1671 en Moraleja del Vino, con su asiento."
       ],
       "destination": "Tatarabuelos sextos"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "DSC_0718.JPG",
-          "sha256": "53de8534638c06be452e4a3867947159e0b0e90b6c67a6d425c5ebadcbd486eb",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1675-11-15",
-      "place": "Moraleja del Vino",
-      "transcription": "Thomás Antonio.\n\nEn quince de nobiembre de mil seiscientos y setenta y cinco años yo el Ldo Don Andrés Carrasco cura propio de este lugar de Moralexa baptizé y puse los Santos Óleos en la yglesia parrochial dél a un niño hijo de Pedro Jambrina familiar del Santo Officio y de [ilegible] Bambón sus lexítimos padres. Llamose Thomás Antonio. Fueron sus padrinos el Ldo [ilegible] de Sossada presbítero y Luisa [ilegible] muger de [ilegible], todos vecinos de este dicho lugar, a los quales advertí el parentesco de cognación spiritual que avían contraído y la obligación de enseñar la doctrina christiana al baptizado y para que conste lo firmé ut supra. Dn Andrés Carrasco.",
-      "uncertainties": [
-        "Sin enlace: familia Jambrina de Moraleja del Vino; el Antonio Jambrina del árbol se casó en 1678 y sus padres no constan."
-      ],
-      "status": "sin enlace al árbol"
     },
     {
       "type": "baptism",
@@ -1072,28 +1018,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "María Marqués Herrero.JPG",
-          "sha256": "901d9df13205359fa200785e6558719cabaadff90eb9fd0cd5c4205d7de1b63e",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1701-07-06",
-      "place": "Morales del Vino",
-      "transcriptionDraft": "María.\n\nEn seis días del mes de Julio de mill setezientos y un años de mi lizencia el Ldo Andrés Ruyz clérigo presvítero vezino del lugar de Pereruela puso los Santos óleos a una niña que se llamó María, a quien yo baptizé de socorro. Nació el día veinte y quatro del mes de Junio deste presente año, hixa legítima de Manuel Marqués el mozo y de Francisca Herrero vecinos deste lugar. Fueron padrinos Manuel Marqués vezino deste dho lugar y Lucía Ruyz vecina de dho lugar de Pereruela. Contrajo el parentesco spiritual dho padrino de que fue advertido. Testigos Juan Marqués, Gerónimo Nieto [ilegible] yo Gerónimo de Luelmo cura propio deste dho lugar de Morales [ilegible] conste lo firmé [ilegible]. Gerónimo de Luelmo.",
-      "uncertainties": [
-        "Es la María Marqués Herrero, nacida el 24-06-1701, que la versión de 2015 de TATARABUELOS QUINTOS confundió con la mujer de Juan Brioso Luelmo, casada en 1708. La antepasada es María Marqués Esteban, hija de Juan Marqués Nieto; esta partida no se enlaza.",
-        "Imagen desenfocada; las últimas líneas se leen solo en parte."
-      ],
-      "status": "sin enlace al árbol; homónimo descartado",
-      "candidatePersonIds": [
-        "maria-marques-madre-de-baltasar-brioso"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "María Martín Grano de Oro.JPG",
           "sha256": "478ec7a9a77f64d1a1528c29a578cb9f9d0b60b6bb615e29743fff55b9f8e643",
           "width": 4288,
@@ -1197,152 +1121,6 @@
         "Bautismo el 28-08-1653 en Morales del Vino con transcripción; nota en el nacimiento."
       ],
       "destination": "Tatarabuelos sextos"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle1.JPG",
-          "sha256": "eebf7995e0568cd7aa90bf0d2f3c2fc32a2ac985373895eb65a6e63398d992b2",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1637-01-26",
-      "place": "Tardobispo",
-      "transcriptionDraft": "Año de 1637.\n\nMaría de la Calle.\n\nEn veinte y seis de henero deste año de mill seiscientos y treinta y siete años yo el licenciado Sebastián Malpartida cura propio deste lugar de Tardobispo puse los santos olios a una niña que se llamó María hija de Bartolomé de la Calle y de Cat[ilegible] su muger. Fueron sus padrinos Juº López vecino de La Torre del Salinar y María Miguel vecina deste lugar y en fee dello lo firmé. Ldo Sebastián Malpartida.",
-      "uncertainties": [
-        "Una de siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 (imágenes «María de la Calle1» a «7»). Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida lo acredita. Sin enlace."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle2.JPG",
-          "sha256": "33f760e39797c580ffeaddafa5316dae3d6ca2448531ab459ea4f14dd38139a5",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "place": "Tardobispo",
-      "transcriptionDraft": "María Calle.\n\nEn beinte y nuebe de septiembre deste año de mil y seiscientos y veinte y [ilegible] yo el licenciado Juº Alonso Malpartida cura propio deste lugar de Tardobispo baptizé una niña que se llamó María hija de Luis de la Calle y de Engracia de Espino su muger. Fueron padrinos Francisco de la Calle y madrina Ysabel Herrera muger de Alonso de la Calle el moço y en fe dello lo firmé, todos deste lugar, fecho ut supra. Juº Alonso Malpartida.",
-      "uncertainties": [
-        "La unidad del año no se lee; la página siguiente lleva el encabezado «Año de 1629». Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle3.JPG",
-          "sha256": "11c446d1be1c9a6ed962d19f031a95c90ad76ed204387dce31b2fe62a41224b8",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1621-10-09",
-      "place": "Tardobispo",
-      "transcriptionDraft": "María de la Calle.\n\nEn nuebe días de otubre de mil y seiscientos y veinte y uno yo el licenciado Juº Alonso Malpartida cura de Tardobispo pusse los santos olios a María hija de Antonio de la Calle y de su muger Ana Pérez vecinos de los Barrios [ilegible]. Fueron padrinos Sebastián Sánchez Malpartida y Catalina de la [ilegible], a la qual por necesidad baptizó la comadre al nacimiento [ilegible] examinándola [ilegible] y dio buena razón de lo que hizo y lo firmé. Juº Alonso Malpartida.",
-      "uncertainties": [
-        "Lectura parcial. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle4.JPG",
-          "sha256": "b40de5d787b4f144de43bf110ea9cc8286f826fc3b0b42a008da88301d4b5686",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1621-04-26",
-      "place": "Tardobispo",
-      "transcriptionDraft": "María de la Calle.\n\nEn veinte y seis de Abril de mil seiscientos y veinte y un años yo el licenciado Juan Alonso Malpartida cura propio deste lugar de Tardobispo baptizé una niña que se llamó María hija de Alonso de la Calle el moço y de Ysabel Herrera su muger vecinos deste lugar. Fueron padrinos el licenciado Antonio Nicolás cura propio de Villamor de la Ladre y la comadre María de la Calle vecina deste lugar y lo firmé. Juº Alonso Malpartida.",
-      "uncertainties": [
-        "Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle5.JPG",
-          "sha256": "4a9c2c8653d4a343d55ddf803d1497624f8effba64fac4e01b3cfcf6e89c93f5",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1621-01-09",
-      "place": "Tardobispo",
-      "transcriptionDraft": "Año de 1621.\n\nMaría de la Calle.\n\nEn nuebe de henero del año de mil y seiscientos y veinte y un años yo el licenciado Joan Alonso Malpartida cura de Tardobispo baptizé a María hija de Francisco de la Calle y de María Ponze su muger. Fueron padrinos Antonio de la Calle y la de Blas y en fee dello lo firmé fecho ut supra. Juº Alonso Malpartida.",
-      "uncertainties": [
-        "Folio 46. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle6.JPG",
-          "sha256": "8be0a41855867592f72042b14e21d3abc44e775fff00e3eb6b52f493c624648e",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1616-03-26",
-      "place": "Tardobispo",
-      "transcriptionDraft": "María Calle.\n\nOy sábado beinte y seis de março de mill y seiscientos y diez y seis años bauticé a María hija de Joan de la Calle y de su muger [ilegible]. Fue su padrino [ilegible] de la Calle el biejo y la madrina María Hernández vecinos deste lugar. Fueron testigos Alvar Hernández, [ilegible] de la Calle el moço y Pedro [ilegible] y por ello lo firmé. Francisco del Poço de Olibares.",
-      "uncertainties": [
-        "Varias palabras tachadas y corregidas; el nombre de la madre no se lee. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "María de la Calle7.JPG",
-          "sha256": "aa976b526beac45188ce98e323215a72c61f7fc70f8e04bcdd45b1def69c1be9",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1616-02-18",
-      "place": "Tardobispo",
-      "transcriptionDraft": "María Calle.\n\nEn diez y ocho de febrero de mill y seiscientos y diez y seis años bapticé a María hija de [ilegible] de la Calle y de María de [ilegible] su muger. Fue su padrino Joan de Cabo vecino de Monfarracinos y su madrina Catalina [ilegible] vecina de Pereruela. Fueron testigos Lorenzo Hernández y Joan Martín y por verdad lo firmé. Francisco del Poço de Olibares.",
-      "uncertainties": [
-        "El nombre del padre parece «Pº Miguel» y el apellido de la madre «Coca»; lecturas dudosas. Candidata sin acreditar a madre de Manuel de la Fuente de la Calle."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-de-la-calle"
-      ]
     },
     {
       "type": "marriage",
@@ -2303,27 +2081,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "Matías Carrasco Torrado.JPG",
-          "sha256": "f750a3b6d6111f84703d9006cfb2b83b6143362903fdebc2e734f790dab6d35d",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "place": "Toro",
-      "transcriptionDraft": "En [ilegible] de marzo deste presente año de mil i seiscientos i [ilegible] años, como cura theniente que soi de la parroquial de San Salbador de los Caballeros desta ciudad, con comisión del Sr Dor Andrés Fernández de [ilegible], bautizé i puse los santos olios a Mathías ijo lixítimo de Agustín Carrasco i de Manuela Torrado su muger, feligreses de dicha parroquia. Fueron sus padrinos Bartolomé Torrado i Catarina de Rueda. Testigos el Bdo Sebastián [ilegible], Diego Hernández i Don [ilegible], vecinos desta ciudad, i por berdad lo firmé ut supra. Manuel Crespo.",
-      "uncertainties": [
-        "Imagen desenfocada y con manchas: el día y las decenas del año no se leen (parece «sesenta»; el asiento siguiente de la página es de un 8 de marzo de mil seiscientos sesenta y tantos).",
-        "Homónimo: el Matías Carrasco del árbol es hijo de Pedro Carrasco y Ana Sariñana, de la parroquia de Santo Domingo de Silos (1666); este es hijo de Agustín Carrasco y Manuela Torrado, de San Salvador de los Caballeros. No se enlaza."
-      ],
-      "status": "sin enlace al árbol; homónimo descartado",
-      "candidatePersonIds": [
-        "matias-carrasco"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "Miguel Alonso López.JPG",
           "sha256": "c1a25546a7e584297188432d05b0b916e5e0773a9bbe5bcd9e0776ff41238f2a",
           "width": 4288,
@@ -2382,27 +2139,6 @@
         "Transcripción en el matrimonio de ambos."
       ],
       "destination": "Tatarabuelos quintos"
-    },
-    {
-      "type": "marriage",
-      "images": [
-        {
-          "filename": "Miguel de la Iglesia y María Godina.JPG",
-          "sha256": "3f65c4e5cdc366c9b78a5899b3129f107902447df3772a3625fae4491e2c6c13",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1604-10",
-      "place": "Sanzoles",
-      "transcriptionDraft": "Miguel de la Yglesia y Mª Godina.\n\nA diez y [ilegible] de otubre del año de mil y seyscientos y quatro años desposé públicamente según lo manda el santo concilio a Mª Godina con Miguel de la Yglesia vecinos de la villa de Sançoles, siendo testigos Juan Hidalgo y Andrés [ilegible] y Julián de Prada y otros más testigos vecinos de la villa de Sançoles y porque es verdad lo firmé de mi nombre. Antonio Domínguez.",
-      "uncertainties": [
-        "La unidad del día no se lee con seguridad (¿ocho?). Posibles padres de Juan de la Iglesia, padre de Inés de la Iglesia Martín (Sanzoles, 1627); ningún asiento lo acredita todavía y no se enlaza."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "juan-de-la-iglesia-padre-de-ines-de-la-iglesia"
-      ]
     },
     {
       "type": "death",
@@ -2866,28 +2602,6 @@
         "Entierro el 26-01-1742 en Moraleja del Vino con transcripción; observación con sus herederos."
       ],
       "destination": "Tatarabuelos quintos"
-    },
-    {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Ana Mateo.JPG",
-          "sha256": "6bd44d0d7b7014a8eff78349f4d8500f8bb3c3e1690119fb10d0b4c267a2ccb3",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1748-11-12",
-      "place": "Peleas de Arriba",
-      "transcription": "Adulta. Cumplido.\n\nEn doze de Nobiembre de mill setecientos y quarenta y ocho yo el infra escrito Cura propio de esta Parrochial de Peleas de Arriba anexo de Fuente el Carnero di sepultura ecclesiástica a Ana Mattheo conjunta persona de Joseph Zurdo mis feligreses. Fue socorrida con los Santos Sacramentos de confesión, viático y extremaunción, hizo testamento, y dexó por sus testamentarios a Diego Pérez y Fernando Galán y para bien de su alma los dros parrochiales y una missa votiva a nuestra Señora de la Cuesta y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
-      "uncertainties": [
-        "Dos candidatas en el árbol y ninguna acreditada. Ana Mateo Hernández, de Fadón, casó en 1726 con José Zurdo Herrero, que murió en Fadón el 13-12-1748: coinciden los nombres de ambos cónyuges, pero el asiento es de Peleas de Arriba y los llama feligreses de allí. Ana Mateo, de Peleas de Arriba, es la mujer de Melchor Pérez y madre de Andrés Pérez Mateos (1707): coinciden la parroquia y los testamentarios (un Pérez y Fernando Galán), pero exigiría un segundo matrimonio con un José Zurdo. No se enlaza."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "ana-mateo",
-        "ana-mateo-madre-de-andres-perez"
-      ]
     },
     {
       "type": "burial",
@@ -3591,22 +3305,6 @@
       "destination": "Tatarabuelos sextos"
     },
     {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Catalina Gonzalo.JPG",
-          "sha256": "9de905beaa939b09489e5fb352b96e729570c3791063e8fe298b8231b74284e6",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En el lugar de Fadón a veinte y nuebe de Agosto del año de mil setecientos y veinte y [ilegible], yo [ilegible] teniente cura de dicho lugar enterré en la parroquial de este lugar [ilegible] a Catalina Gonzalo muger de Juan Estevan. Hizo testamento delante de cinco testigos, que fueron Bartolomé Calvo y Esteban Puente, Bernardo Gago y Francisco [ilegible] y Joseph Vega todos vecinos de dicho lugar de Fadón. Tomó por su ánima cincuenta y cinco reales y medio [ilegible]. Dejó por heredera a su hija Manuela Delgado, dejó por testamentario a su marido Juan Estevan y [ilegible] hermano Domingo Gonzalo [ilegible], y recibió todos los sacramentos de la Yglesia y por ser verdad [ilegible].",
-      "uncertainties": [
-        "El año está corregido o sobrescrito. La esposa de Juan Esteban no coincide con Catalina Gonzalo Barrocal, casada con Bernardo Feltrero y fallecida en 1821."
-      ],
-      "status": "provisional; sin enlace al árbol"
-    },
-    {
       "type": "death",
       "images": [
         {
@@ -3807,25 +3505,6 @@
         "Entierro 11-07-1722 en Casaseca de las Chanas."
       ],
       "destination": "Tatarabuelos sextos"
-    },
-    {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Diego Arroyo.JPG",
-          "sha256": "dcfe2893d8d64a7139521351e2c1eaded3c9c9abb44d652a70afecc7992e06d1",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En veinte y siete días del mes de Agosto de mil setecientos y quarenta y dos años se enterró en esta Yglesia Diego de Arroyo. Murió el día veinte y seis de dicho mes. Recivió todos los Santos Sacramentos de penitencia, eucharistía y extremaunción. Hizo testamento ante Joseph [ilegible] en seis de Agosto de mil setecientos y treinta y seis. Tomó por su alma ochocientos rs. Hiciéronsele entierro, onrras y cabo de año y novenario rezado, y para que conste lo firmé. Dn Anttº Cabrera.",
-      "uncertainties": [
-        "Nombre compatible con el marido de María Madrid, pero la partida no nombra familiares, naturaleza ni localidad que acrediten la identidad."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "diego-de-arroyo"
-      ]
     },
     {
       "type": "burial",
@@ -4156,44 +3835,6 @@
         "Transcripción en muerte y entierro; entierro 29-03-1831."
       ],
       "destination": "Tatarabuelos terceros"
-    },
-    {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Francisco de Mena Miguel.JPG",
-          "sha256": "4f631cd8f34797ed3e6f1f1f45c4bff838eb7b9fc73a40c4782323bc0e5e50bd",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En el día veinte y cinco de Junio de mil setecientos noventa y dos Yo el Infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales di sepultura eclesiástica en ella al cadáver de Fran.co de Mena natural que fue de este lugar hijo legítimo de Alonso de Mena y de Ana Miguel también de Morales; recibió los santos sacramentos de la penitencia, viático y extrema unción, hizo testamento, se le hizo entierro oficios y novenario y en fe de ello lo certifico y firmo ut supra. Jose María Barba. Tiene cumplido el testam.to. Barba.",
-      "uncertainties": [
-        "Coinciden padre Alonso, lugar y proximidad al fallecimiento existente; el asiento llama Ana Miguel a la madre, mientras el árbol indica Juana Miguel. Se deja pendiente la atribución sin cambiar la filiación."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "francisco-de-mena"
-      ]
-    },
-    {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Francisco de Prada.JPG",
-          "sha256": "515d1908dd68019eeec67c0bf9b71554e3831675be0e8b4e91e0a4fd15cd4004",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En quatro días del mes Marzo de mil s.tos y treinta y nuebe se enterró en esta Yglesia Fran.co de Prada, haviendo muerto de su muerte natural no recibió más sacramento que el de la Extremaunción. Dio poder para hazer su testamento ante Diego Cabrero fiel de fechos deste lugar de Morales y tomó por su alma setecientos rs de vellón. Hiciéronsele entierro, onras y cabo de año y novenario cantado y para que conste lo firmé. Dn Anttº Cabrero.",
-      "uncertainties": [
-        "El nombre, lugar y entierro un día después de la muerte existente son compatibles, pero el asiento no nombra familiares ni naturaleza para distinguir un homónimo."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "francisco-de-prada"
-      ]
     },
     {
       "type": "burial",
@@ -5382,28 +5023,6 @@
       "destination": "Tatarabuelos sextos"
     },
     {
-      "type": "burial",
-      "images": [
-        {
-          "filename": "Muerte de Juan Pérez.JPG",
-          "sha256": "4c588f87b32b7c49b5e46e8f7d7940cf2b2241f982c53a9ba9dca76ce07919bc",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1661-04-08",
-      "place": "Casaseca de las Chanas",
-      "transcriptionDraft": "Juº Pérez.\n\nEn ocho de abril enterré a Juº Pérez vzº de la villa de Xema. Recibió los Santos Sacramentos según no hizo testamento, i por verdad lo firmé. Ldo Moreno.",
-      "uncertainties": [
-        "El asiento no expresa el año: la página anterior termina con el encabezado «1661» y le siguen asientos de marzo a mayo, de modo que es 1661. El libro es el de Casaseca de las Chanas por el cura firmante.",
-        "Lo llama vecino de la villa de Gema y no nombra familiares. El Juan Pérez del árbol casado en Casaseca en 1637 con Emerenciana Garzón no tiene fallecimiento conocido, pero nada lo vincula con este asiento. No se enlaza."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "juan-perez-padre-de-emerenciana-perez"
-      ]
-    },
-    {
       "type": "death",
       "images": [
         {
@@ -6449,28 +6068,6 @@
       "type": "death",
       "images": [
         {
-          "filename": "Muerte de María Jurado.JPG",
-          "sha256": "5f3c90345f2c2703ef34125d70a4d53e8b8faa5e296add0dea60d652eaafcb8d",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1686-11-02",
-      "place": "Casaseca de las Chanas",
-      "transcriptionDraft": "1686.\n\nMª Jurado. Cumplidos.\n\nEn dos de nobiembre deste presente año de 1686 murió María Jurado muger de Antonio Martín Asensio. Rezibió los Stos Sacramentos, enterrose en esta iglesia. Dejó por su alma beinte ducados para entierro, honrras y cabo de año i ofrenda del año. Son testamentarios Franco Jurado i su marido Antonio Asensio i para que conste lo firmé. Dn Joseph de Miranda.",
-      "uncertainties": [
-        "La difunta figura como mujer de Antonio Martín Asensio. La María Jurado Delgado del árbol, nacida en 1622, es la mujer de Alonso Alonso Simón y madre de Juana Alonso Jurado (1664); pudo enviudar y volver a casarse, pero Antonio Martín Asensio parece de una generación posterior (Emerenciana Martín Asensio nació en 1667) y la partida no lo acredita. No se enlaza.",
-        "Un papel pegado en la cabecera de la página, con letra moderna, anota otra defunción («María Pérez, mujer de Manuel Alonso»); no pertenece al asiento."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "maria-jurado"
-      ]
-    },
-    {
-      "type": "death",
-      "images": [
-        {
           "filename": "Muerte de María Madaleno.JPG",
           "sha256": "af75870b69b9ff947fc33998b0f8da876851cb9f9ed90f87aaa7f3644861ba32",
           "width": 4288,
@@ -6694,27 +6291,6 @@
         "Entierro el 01-09-1733 en Gáname con transcripción; observación con sus hijos y su nieto."
       ],
       "destination": "Tatarabuelos sextos"
-    },
-    {
-      "type": "death",
-      "images": [
-        {
-          "filename": "Muerte de María Rodrigo 2.JPG",
-          "sha256": "2b71a09db291542b9983b714a63825cb4c16913126d9c5cab754134fe3ec3a5f",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "place": "Gáname",
-      "transcriptionDraft": "Rodrigo.\n\nMurió María Rodrigo vecina deste lugr de Ganame en ocho días del mes de agosto de dho año. Hizo testamto ante mí el cura. Enterrose en la yglesia deste lugr. Tomó por su alma veinte y cinco ducados como consta del testamto. Fue su testamentario Juan Crespo su marido y Joseph Antón vºs deste lugar y lo firmé. Ldo Joseph Rodríguez.",
-      "uncertainties": [
-        "Homónima: esta María Rodrigo era mujer de Juan Crespo y murió un 8 de agosto de un año que el asiento no expresa («dicho año»); una cifra escrita encima parece decir 1708. La María Rodrigo del árbol, viuda de Santiago Sastre, fue enterrada el 1 de septiembre de 1733 (imagen «Muerte de María Rodrigo»).",
-        "Una nota del margen sobre las hojas del libro («tiene este libro noventa y ocho hojas») es ajena al asiento. El apellido del segundo testamentario se lee «Antón» con reservas."
-      ],
-      "status": "sin enlace al árbol; homónimo descartado",
-      "candidatePersonIds": [
-        "maria-rodrigo"
-      ]
     },
     {
       "type": "burial",
@@ -6982,27 +6558,6 @@
         "Entierro nuevo el 13-08-1807 en Peleas de Arriba con transcripción; observación con sus hijos herederos."
       ],
       "destination": "Tatarabuelos terceros"
-    },
-    {
-      "type": "death",
-      "images": [
-        {
-          "filename": "Muerte de Pedro Carrascal Hernández.JPG",
-          "sha256": "3fedee3f496391953478b0fea16c49770dbc6974ac1ebdb6d3766a4c00d23677",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1732-10-29",
-      "place": "Morales del Vino",
-      "transcriptionDraft": "Pedro. Está cumplido.\n\nEn 29 de otubre del año de 1732 murió de su muerte natural, aviendo recibido los Stos Sacramentos de penitencia, comunión y extremaunción, Pedro Carrascal. Hizo testamento. Enterrose grada avajo y pagó lo acostumbrado a la fábrica y así lo firmé. Dn Luis González, cura tte.",
-      "uncertainties": [
-        "Es el asiento del que procede el «Falleció en Morales del Vino el 29-10-1732» de TATARABUELOS SEXTOS, que quedó sin incorporar: Pedro Carrascal, hijo de Alonso Carrascal y Catalina Hernández, se casó en 1655, setenta y siete años antes. El asiento no nombra mujer, padres ni edad, y pudo ser un hijo o un nieto del mismo nombre. No se enlaza."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "pedro-carrascal"
-      ]
     },
     {
       "type": "burial",
@@ -7321,27 +6876,6 @@
         "Entierro el 05-07-1833 en Zamora (San Esteban) con transcripción; observación con su segundo marido y herederos."
       ],
       "destination": "Tatarabuelos terceros"
-    },
-    {
-      "type": "death",
-      "images": [
-        {
-          "filename": "Muerte de otro Pedro Garrote.JPG",
-          "sha256": "1adb3b549161f03fa67fb5ed757b647d79efc63fbd4a836acaefd9ec7db6e472",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1698-12-25",
-      "place": "Abelón",
-      "transcription": "Pedro Garrote. Adulto. Cumplido. Castañón.\n\nEn veinte y cinco de diciembre de dho año de mil seiscientos y noventa y ocho falleció desta presente vida Pedro Garrote vzº deste lugar de Abellón; recivió los Stos Sacramentos y hizo testamento ante mí en el qual tomó por su alma diez y seis ducados para un novenario de misas cantadas en esta Ygla y lo restante para misas rezadas. Está enterrado en esta Ygla de Sn Martín en la sepultura que eligió y está enfrente de la pila de la agua bendita. Dejó por sus herederos a sus hijos y por testamentarios a Domingo Garrote su hermano y a Alonso Blanco vzº deste dho lugar. Mandó se repartiesen dos libras de cera entre los tres altares de dha Ygla [ilegible] y no otra cosa que yo alcanzado [ilegible]; y para que así conste lo firmé dho día mes y año ut supra. Joseph Fierro Castañón.\n\nLlevaron a la colecturía dhos testamentarios ochenta y ocho Rs [ilegible].",
-      "uncertainties": [
-        "El nombre del archivo lo da por «otro» Pedro Garrote: no es Pedro Garrote Gabriel (fallecido el 31-10-1708). Su hermano Domingo Garrote y el testamentario Alonso Blanco apuntan a la misma familia de Abelón, sin parentesco demostrado."
-      ],
-      "status": "sin enlace al árbol; homónimo descartado",
-      "candidatePersonIds": [
-        "pedro-garrote-padre-de-antonio-garrote"
-      ]
     },
     {
       "type": "death",
@@ -7674,22 +7208,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "Nacimiento de Juan Sánchez Mielgo.JPG",
-          "sha256": "2b975d0116055e418fcdb0039652a0c13534f9d13b95d57687ecbb6c752cc37c",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En primero de Julio del año de mil y seiscientos y setenta [ilegible] yo el cura de esta villa del Cubo Baptizé un niño hijo de migel Sanchez y de an. mielga su muger, llamose Juan; padrinos Domingo garcia y angela de [ilegible], les adbertí el parentesco espiritual; testigos Antonio de [ilegible], gregrio [ilegible] y lo firmé dho día. Santiago Sanchez.",
-      "uncertainties": [
-        "Sus padres Miguel Sánchez y Ana Mielga no coinciden con las personas existentes llamadas Juan Sánchez; el final del año está oculto."
-      ],
-      "status": "provisional; sin enlace al árbol"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "Nacimiento de Francisco Girón Martín.JPG",
           "sha256": "a90caae3f0ecde30641cfa3988a6a2101e90a34056e6e064920f6a2159139316",
           "width": 4288,
@@ -7779,38 +7297,6 @@
       "destination": "Tatarabuelos sextos"
     },
     {
-      "type": "heraldry",
-      "images": [
-        {
-          "filename": "Escudo Brioso.jpeg",
-          "sha256": "5b93b1e852158bc5880c568e9ec5b5fe4d0b152b7a9cd55492b78a4656bb3272",
-          "width": 2550,
-          "height": 3510
-        }
-      ],
-      "transcriptionDraft": "Brioso. España. En oro, un árbol de sinople y un lobo de sable, andante puesto detrás del tronco, en lo alto linguado de gules.",
-      "uncertainties": [
-        "La imagen muestra un escudo atribuido al apellido Brioso sin datos de una persona o procedencia que permitan atribuirlo a una rama concreta."
-      ],
-      "status": "provisional; sin enlace al árbol"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Nacimiento de Marcos Vega Salvador.JPG",
-          "sha256": "9dea5467925710a0d7550115a16d3c57856b6068f83003d7123721c6c714e944",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "Marcos. En quince días del mes de Marzo de mill seiscientos y nobenta y seis baptizé a Marcos hijo de Santiago Vega y de Josepha Salbadora su muger. Fue su padrino Andrés Garrote y lo firmé. Ldo Joseph Rodríguez.",
-      "uncertainties": [
-        "El Marcos del árbol ya fue padre en 1691 y no puede ser este niño bautizado en 1696; son homónimos."
-      ],
-      "status": "provisional; sin enlace al árbol"
-    },
-    {
       "type": "baptism",
       "images": [
         {
@@ -7832,44 +7318,6 @@
         "Bautismo 13-06-1648."
       ],
       "destination": "Tatarabuelos sextos"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Nacimiento de Manuel Martín Colás.JPG",
-          "sha256": "2dd5577530be802bf70b134ea8a118641bd8bfa92bc9ea0eb6780a5f18382dfb",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En el dicho día baptizé un niño que se llamó Manuel, hijo legítimo de [ilegible] y de su muger [ilegible]. Fueron sus padrinos [ilegible] y Zebrián Gallego [ilegible].",
-      "uncertainties": [
-        "Partida deteriorada y nombres de padres ilegibles; la fecha se remite a la partida anterior, parcialmente visible. No hay identificación segura."
-      ],
-      "status": "provisional; sin enlace al árbol"
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Nacimiento de Manuel Martín Palomares1.JPG",
-          "sha256": "e485f90e1e7217db820c825a1d6ddf9c5e09643a7232e837b93941f748f2ca77",
-          "width": 4288,
-          "height": 2848
-        },
-        {
-          "filename": "Nacimiento de Manuel Martín Palomares2.JPG",
-          "sha256": "8e31a0fe7afacd5298ba0256faa53ae735b075b48621f00a28f8480fcbe24980",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcriptionDraft": "En seis días del mes de Mayo de mil y seiscientos y ochenta años yo Marcos de Remesal cura teniente deste lugar de Moraleja bapticé solemnemente y puse los santos óleos a Manuel hijo de Luis Martín y de Brígida Palomares sus legítimos padres. Fueron sus padrinos [ilegible] y Cathalina [ilegible], y les advertí la obligación [ilegible] y parentesco espiritual [ilegible]. Declararon dhos sus padres aver nacido en día [veinte y ocho?] de Abril y lo firmé ut supra. Marcos de Remesal.",
-      "uncertainties": [
-        "Una sola partida en dos páginas. No se ha establecido correspondencia con ningún Manuel Martín del árbol; el supuesto día de nacimiento requiere revisión."
-      ],
-      "status": "provisional; sin enlace al árbol"
     },
     {
       "type": "baptism",
@@ -8577,28 +8025,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "¿Inés Marqués Nieto.JPG",
-          "sha256": "2b408a6685fbcbcc8265edb1943b9484818511de010c6543a5f8322f98d0cd60",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1686-11-07",
-      "place": "Morales del Vino",
-      "transcription": "Ynés.\n\nEn siete de nobiembre de mill y seiscientos y ochenta y seis años yo el Ldo Joseph de Prado, cura teniente de este lugar de Morales, bapticé y puse los Stos óleos a una niña que se llamó Ynés, hija de Diego Marqués y de María Nieta su legítima muger. Fueron sus padrinos Alonso Sánchez de Toro, vecino de Zamora, y Jacinta Nieta; advertiles el parentesco espiritual. Fueron testigos Alonso de Vitoria y Matheo Brioso y en fe de ello lo firmé ut supra. Joseph de Prado.\n\nEste baptizado se puso aquí por no advertir que era este asiento el de los desposados, con que se a puesto en su lugar. No se borra por no ser conbeniente, que fue una inadbertencia.",
-      "uncertainties": [
-        "Candidata a ser la Inés Marqués casada en 1710 con Francisco Cabrero Luelmo y fallecida en 1769 «de ochenta y quatro años»: descartada la otra Inés bautizada en Morales en 1686 (hija de Juan Marqués y María Esteban, hermana de María Marqués Esteban), esta es la que queda, pero ni el matrimonio ni el entierro nombran a sus padres. La familia ya dudaba (el nombre de la imagen empieza por «¿»). No se enlaza.",
-        "El asiento se escribió por error en el libro de desposados, como explica la nota final."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "ines-marques"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "Nacimiento de Alonso Hernández.JPG",
           "sha256": "a4754519b14d63d30568a5c2dbd175b6741e32d53f3196ca9c2882b97f68d029",
           "width": 4288,
@@ -8614,27 +8040,6 @@
       "status": "provisional; sin enlace al árbol",
       "candidatePersonIds": [
         "alonso-hernandez"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Nacimiento de Manuel Marqués Rodríguez.JPG",
-          "sha256": "612fc47933d235eb5d4381123df40e60f841e6ff23f22df356d22f788f7e5f59",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1656-04-15",
-      "place": "Morales del Vino",
-      "transcription": "Manuel.\n\nEn 15 de abril de 1656 años puse los santos olios a Manuel, hijo de Pedro Marqués y de María Rz su muger. Fueron padrinos Joseph Lopes y Dª Lorença Ladrón de Guebara; testigos Antº Morais sacristán y Franco Muriel y Bernardo Alº y lo firmé. El Ldo Miguel de Villalpando.",
-      "uncertainties": [
-        "Candidato: Manuel Marqués, marido de Francisca Herrero y padre de Isabel Marqués Herrero (1705). El bautismo de otra hija suya (1701) lo llama «Manuel Marqués el mozo» y da por padrino a otro Manuel Marqués: el nacido en 1656 parece más bien el homónimo de más edad. No se enlaza."
-      ],
-      "status": "provisional; sin enlace al árbol",
-      "candidatePersonIds": [
-        "manuel-marques-padre-de-isabel-marques"
       ]
     },
     {
@@ -8684,6 +8089,681 @@
         "Matrimonio de Pedro Amador y Manuela Mayoral con transcripción; nota sobre las segundas bendiciones. Son los padres de Magdalena Amador."
       ],
       "destination": "Tatarabuelos séptimos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle1.JPG",
+          "sha256": "eebf7995e0568cd7aa90bf0d2f3c2fc32a2ac985373895eb65a6e63398d992b2",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1637-01-26",
+      "place": "Tardobispo",
+      "transcription": "María de la Calle.\n\nEn veinte y seis de henero deste año de mill seisºs y ttª y siete años yo el Licendo Sebastián Malpartida, cura propio deste lugar de Tardobpo, puse los santos olios a una niña que se llamó María, hija de Barme de la Calle y de Catª su muger; fueron sus padrinos Jusepe Pérez, vº de La Torre del Salinar, y María Miguel, vª deste lugar, y en fee dello lo firmé. Ldo Sebastián Malpartida.",
+      "uncertainties": [
+        "Hija de Bartolomé («Barme») de la Calle y de Catalina, sin apellido. La partida dice solo «puse los santos olios»: el 26 de enero es el día de los óleos, y no se dice si hubo antes bautismo de socorro. La decena del año está abreviada («ttª»); la asegura el encabezamiento «Año de 1637», escrito encima. El lugar del padrino se lee «La Torre del Salinar», con dudas, y no se identifica. El borrador anterior daba al padrino por «Juº López»; es Jusepe Pérez. Nacida en 1637, tendría quince años en 1652: es la menos probable de las siete.",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle2.JPG",
+          "sha256": "33f760e39797c580ffeaddafa5316dae3d6ca2448531ab459ea4f14dd38139a5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1628-09-21",
+      "place": "Tardobispo",
+      "transcription": "María Calle.\n\nEn beinte y uno de septe deste año de mil y seiscientos y veinte y ocho yo Licendo Juº Alonso Malpartida, cura propio deste lugar de Tardobpo, bapticé una niña que se llamó María, hija de Luis de la Calle y de Engracia de Espino su muger; fueron padrinos Franco de la Calle y madrina Ysabel Herrera, muger de Alº de la Calle el moço, en fe dello lo firmé, vºs todos deste lugar, ffª ut supra. El Ldo Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Hija de Luis de la Calle (el nombre está abreviado, «Lu» y una letra volada) y de Engracia de Espino («despino»). El año es «veinte y ocho»: la palabra de las unidades está apretada, pero coincide con el «ocho» de este cura en otro asiento, y la página siguiente lleva el encabezamiento «Año de 1629»; una primera lectura daba 1622. «el moço», tras «Alº de la Calle», está apretado. La madrina, Isabel Herrera, mujer de Alonso de la Calle el mozo, es la madre de la María bautizada el 26 de abril de 1621.",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle3.JPG",
+          "sha256": "11c446d1be1c9a6ed962d19f031a95c90ad76ed204387dce31b2fe62a41224b8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-10-09",
+      "place": "Tardobispo",
+      "transcription": "María de la Calle.\n\nEn nuebe días de otubre de mil y seiscientos y veinte y uno yo Licendo Juº Alonso Malpartida, cura de Tardobpo, pusse los santos olios a María, hija de Antonio de la Calle y de su muger Ana Pérez, vºs de los Barrios [ilegible]; fueron padrinos Sebastián Sánchez Malpartida y la comadre, la de Blas = [ilegible] le echó agua la comadre por estar con peligro al nacimiento; fue examinada la comadre y dio buena raçón de lo que hizo y forma que guardó. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Hija de Antonio de la Calle y de Ana Pérez, «vºs de los Barrios» y una palabra que no se lee. El 9 de octubre es el día de los óleos: la comadre, «la de Blas», le había echado el agua al nacer por estar en peligro, en fecha que no se dice, y fue también su madrina. No se lee la palabra que sigue al signo «=». Al pie de la página hay una firma suelta, de otra mano, que termina en «Nicolás» y no parece de este asiento. El borrador anterior daba por madrina a una Catalina que no existe.",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle4.JPG",
+          "sha256": "b40de5d787b4f144de43bf110ea9cc8286f826fc3b0b42a008da88301d4b5686",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-04-26",
+      "place": "Tardobispo",
+      "transcription": "María de la Calle.\n\nEn veinte y seis de abril de mil seiscientos y veinte y un años yo el Ldo Juoan Alº Malpartida, cura propio deste lugar de Tardobpo, bapticé una niña que se llamó María, hija de Alº de la Calle el moço y de Ysabel Herrera su muger, vºs deste lugar; fueron padrinos el Ldo Antº Niculás, cura propio de Villamor de la Ladre, y la comadre Mª de la Calle, vª deste lugar, y lo firmé. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Hija de Alonso de la Calle el mozo y de Isabel Herrera, vecinos de Tardobispo. Sin dudas de lectura: letra clara de amanuense, con la firma del cura. Padrinos: el Ldo Antonio Nicolás, cura de Villamor de la Ladre, y «la comadre Mª de la Calle, vª deste lugar», que puede ser la partera o simplemente la madrina: una María de la Calle ya adulta en 1621, quizá la madre de Domingo Hernández de la Calle (1613).",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle5.JPG",
+          "sha256": "4a9c2c8653d4a343d55ddf803d1497624f8effba64fac4e01b3cfcf6e89c93f5",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1621-01-09",
+      "place": "Tardobispo",
+      "transcription": "María de la Calle.\n\nEn nuebe de henero del año de mil y seiscientos y veinte y un años yo el Ldo Joan Alonso Malpartida, cura de Tardobispo, babtizé a María, hija de Francisco de la Calle y de María Ponze su muger. Fueron padrinos Antonio de la Calle y la de Blas, y en fee dello lo firmé, fecha ut supra. Juº Alonso Malpartida.",
+      "uncertainties": [
+        "Hija de Francisco de la Calle y de María Ponce («Ponze»; la tercera letra podría ser una r). Hay una palabra tachada entre «del año de» y «mil». Padrinos: Antonio de la Calle y «la de Blas», la partera del asiento del 9 de octubre de 1621. Folio 46, con «año de 1621» en lo alto.",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle6.JPG",
+          "sha256": "8be0a41855867592f72042b14e21d3abc44e775fff00e3eb6b52f493c624648e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-03-26",
+      "place": "Tardobispo",
+      "transcription": "María Calle.\n\nOy sábado beinte y seis de março de mil y seiscientos y diez y seis bauticé a María, hija de Joan de la Calle y de su muger [ilegible] Inés Barba; fue su padrino Pº de Barba el biejo y la madrina Mª Hernández, vºs deste lugar; fueron testigos Láçaro Hernández, Gal de la Calle el moço y Pedro Albasín, y en fe lo firmé. Franco del Poço de Olibares. 1616.",
+      "uncertainties": [
+        "Hija de Juan de la Calle y de Inés Barba. «Oy sábado beinte y seis de março»: el 26 de marzo de 1616 fue sábado, y «1616» está escrito junto a la firma. No se leen dos o tres palabras entre «su muger» e «Inés»; «Barba» queda en parte bajo un borrón, y lo apoya el padrino, «Pº de Barba el biejo». El apellido del tercer testigo se lee «Albasín» o «Albarrán». La partida no nombra el lugar: es el libro de Tardobispo. El asiento entero está en esta imagen; la imagen «María de la Calle7» muestra sus primeras líneas. El borrador anterior no leía a la madre.",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de la Calle7.JPG",
+          "sha256": "aa976b526beac45188ce98e323215a72c61f7fc70f8e04bcdd45b1def69c1be9",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-02-18",
+      "place": "Tardobispo",
+      "transcription": "María Calle.\n\nEn diez y ocho de febrero de mill y seiscientos y diez y seis años bapticé a Mª, hija de Pasqual de la Calle y de Mª de Cova su muger; fue su padrino Joan de Cabo, vº de Monfarracinos, y su madrina Catalina Mrn, vª de Periruela; fueron testigos Lorenço Hernández y Joan Mrn, y [ilegible] lo firmé. Franco del Poço de Olibares.",
+      "uncertainties": [
+        "Hija de Pascual de la Calle y de María de Cova. Padrinos: Juan de Cabo, vecino de Monfarracinos, y Catalina Martín («Mrn»), vecina de Pereruela. No se leen unas palabras antes de «lo firmé». La partida no nombra el lugar ni la vecindad de los padres: es el primer asiento de la página del 26 de marzo de 1616, del libro de Tardobispo. El asiento entero está en esta imagen; la imagen «María de la Calle6» muestra sus dos últimas líneas. El borrador anterior leía al padre «Pº Miguel» y a la madre «Coca».",
+        "Es una de las siete Marías de la Calle bautizadas en Tardobispo entre 1616 y 1637 cuyas imágenes guardó la familia («María de la Calle1» a «7»), con siete padres distintos. Cualquiera de las seis primeras pudo ser la mujer de Lorenzo de la Fuente y madre de Manuel de la Fuente de la Calle (1652); ninguna partida dice cuál. No se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-de-la-calle"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Antonio Piorno.JPG",
+          "sha256": "d6520fb5769349a79b19769c0226aaa1587c1c74585b01015ca9de533aaa2abc",
+          "width": 4288,
+          "height": 2848,
+          "destinationFilename": "Muerte de Antonio Piorno (otra toma).JPG"
+        }
+      ],
+      "date": "1704-05-11",
+      "place": "Gáname",
+      "transcription": "Antº Piorno\n\nMurió Anttº Piorno en once de Mayo de mill setecientos y quatro años; era pobre; hízosele un nobenario y no tubo para más; enterróse en la Yglesia deeste lugr y lo firmé = Ldo Joseph Rodríguez",
+      "uncertainties": [
+        "La partida no nombra el lugar: Gáname, por el cura que firma, el Ldo Joseph Rodríguez, y porque el árbol ya tenía esta misma partida. «hízosele» está partido entre dos líneas («hiçose / le»).",
+        "Otra toma de la partida que ya estaba incorporada con la imagen del mismo nombre de la carpeta de los tatarabuelos sextos. La partida no nombra mujer ni padres: la identidad descansa en el nombre, la fecha y la parroquia."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "antonio-piorno"
+      ],
+      "applied": [
+        "Otra toma de una partida ya incorporada; no cambia ningún dato."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Gonzalo.JPG",
+          "sha256": "9de905beaa939b09489e5fb352b96e729570c3791063e8fe298b8231b74284e6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-08-29",
+      "place": "Fadón",
+      "transcription": "Catalina\n\nEn el lugar de Fadón a beinte y nuebe de Agosto del año de mil siete cientos y beinte y seis, yo fr. Dionisio de Recarey, cura teniente de dicho lugar, enterré en la parroquial de este lugar, gradas avaxo, a Catalina Gonzalo, muger de Juan Estevan. Hizo testamento delante de cinco testigos que fueron Bartolamé Calvo y Estevan Puente y Bernardo Gaspar y Franco Bega y Joseph Vega, todos vecinos de dicho lugar de Fadón. Tomó por su ánima cinquenta y cinco reales y medio, de los quales an de salir entierro, onrras y novenario y otra misa al Sto Christo de la SSa Trinidad de esta yglesia, y que se ofrendase a una obrada y una candela por un año, y dexó por ofrendadera a su prima Manuela Delgado; dexó por testamentario a su marido Juan Estevan y a su ermano Domingo Gonzalo para que de lo bien parado de su hazienda cumpla el testamento. Dexó dos reales de limosna al Santo Christo de Morales; yten dexó a las obras pías lo costunbrado, y recivió todos los sacramentos de la yglesia, y por ser verdad lo firmé dicho mes y año ut supra. fr. Dionisio de Recarey\n\nVisitado.\n\nEstán cunplidos todos los testamentos desde el año de beinte y dos asta este presente año de 1729.",
+      "uncertainties": [
+        "El año está enmendado: en la línea se escribió «beinte y siete», con «siete» emborronado, y encima «y seis»; se toma 1726, sin excluir 1727. «obrada» está por oblada, la ofrenda de pan. Tras «teniente» se tachó «del lugar» y se escribió «de dicho lugar»; «entierro» está añadido sobre la línea. Solo se da la fecha del entierro. Las dos notas del margen («Visitado» y la del cumplimiento de los testamentos hasta 1729) son posteriores.",
+        "No se enlaza: es Catalina Gonzalo, mujer de Juan Esteban, hermana de Domingo Gonzalo y prima de Manuela Delgado, enterrada en Fadón; no es Catalina Gonzalo Barrocal (1743-1821), mujer de Bernardo Feltrero. Tampoco su marido puede ser el Juan Esteban primer marido de Ana Mateo Hernández, a la que su boda de junio de 1726 ya llama viuda. El borrador anterior leía mal el asiento: Manuela Delgado es la prima nombrada ofrendadera, no una hija heredera."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Diego Arroyo.JPG",
+          "sha256": "dcfe2893d8d64a7139521351e2c1eaded3c9c9abb44d652a70afecc7992e06d1",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1742-08-27",
+      "place": "Morales del Vino",
+      "transcription": "Diego Arroyo\n\nEn veintte y siette días del mes de Agostto de mil Stos y quarentta y dos as se entterró en estta Yglessia Diego de Arroyo. Murió el día veintte y seis de dicho mes. Rezivió todos los Stos Sacramenttos de Penittenzia, Eucharistía y Extremaunzión. Hizo testamentto ante Joseph Gómez de Veras en seis de Agostto de mil setezientos y treintta y seis. Tomó por su alma ochozienttos rrs. Hiziéronsele entierro, onrras y cabo de año y nobenario rezado, y para que constte lo firmé. Dn Anttº Cabrero\n\nEstta cumplido este testtamentto y lo firmé = Cabrero",
+      "uncertainties": [
+        "«Joseph Gómez de Veras», ante quien testó, se lee con alguna duda. La partida no nombra el lugar («en estta Yglessia»): Morales del Vino, por el cura, Antonio Cabrero, y por la página de enfrente, que cita a Diego Cabrero, fiel de fechos. La nota del margen, del cumplimiento del testamento, es de tinta más clara.",
+        "La partida no nombra mujer, padres ni edad. Se atribuye a Diego Arroyo, natural de la Muga de Sayago, casado en Morales en 1690 con María Madrid (muerta allí en 1733): es el único de ese nombre en el lugar, y tendría unos 75 años. Es una suposición razonable, no una prueba."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "diego-de-arroyo"
+      ],
+      "applied": [
+        "Entierro el 27-08-1742 en Morales del Vino con transcripción; fallecimiento el 26-08-1742, que la partida expresa; observación con el testamento y con la base de la atribución."
+      ],
+      "destination": "Tatarabuelos séptimos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Mena Miguel.JPG",
+          "sha256": "4f631cd8f34797ed3e6f1f1f45c4bff838eb7b9fc73a40c4782323bc0e5e50bd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1792-06-25",
+      "place": "Morales del Vino",
+      "transcription": "Franco de Mena\n\nEn el día veinte y cinco de Junio de mil setecientos nobenta y dos, yo el infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales, di sepultura eclesiástica en ella a el cadáver de Franco de Mena, nral que fue de este lugar, hijo legítimo de Alonso de Mena y de Ana Miguel, también de Morales; recibió los Santos Sacramentos de la Penitencia, Viático y Extrema Unción; hizo testamento; se le hizo entierro, oficios y nobenario, y en fe de ello lo certifico y firmo ut supra = José María Baraz\n\nTiene cumplido el testamto. Baraz",
+      "uncertainties": [
+        "Sin dudas de lectura. Firma José María Baraz (el borrador anterior leía «Barba»). Solo se da la fecha del entierro.",
+        "La partida lo llama hijo de Alonso de Mena y de «Ana Miguel»; en el árbol su madre es Juana Miguel Trigo, como dicen su bautismo (1726) y el matrimonio de sus padres (1720). Se tiene por un descuido del cura, sesenta y seis años después: coinciden el padre, el lugar y el día, que es el siguiente al del fallecimiento que ya constaba."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-mena"
+      ],
+      "applied": [
+        "Entierro el 25-06-1792 en Morales del Vino con transcripción; nota en el fallecimiento, que ya constaba el día 24."
+      ],
+      "destination": "Tatarabuelos cuartos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco de Prada.JPG",
+          "sha256": "515d1908dd68019eeec67c0bf9b71554e3831675be0e8b4e91e0a4fd15cd4004",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1739-03-04",
+      "place": "Morales del Vino",
+      "transcription": "Franco de Prada\n\nEn quattro días del mes Marzo de mil Stos y treintta y nuebe as se entterró en estta Yglesia Franco de Prada, haviendo muertto de su muertte nattural. No rezivió más sacramentto que el de la Extremaunzión. Dio poder para hazer su ttesttamentto antte Diego Cabrero, fiel de fechos destte lugar de Morales, y ttomó por su alma settezienttos rrs vellón. Hiziéronsele entierro, onrras y cabo de año y nobenario canttado, y para que constte lo firmé = Dn Anttº Cabrero\n\nCumplido y lo firmé. Cabrero",
+      "uncertainties": [
+        "Un trazo negro grueso cruza el margen y el espacio sobre la primera línea, y tacha una palabra y una línea corta que no se leen; no toca el texto del asiento. La nota de debajo («Asta aquí cobró la Casa Santa de Jerusalén», 14 de marzo de 1739, fr. Sebastián Gil) no es de este asiento. Solo se da la fecha del entierro.",
+        "La partida no nombra mujer ni padres: se atribuye a Francisco Prada Cifuentes por el nombre, el lugar y el día, que es el siguiente al del fallecimiento que ya constaba."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-de-prada"
+      ],
+      "applied": [
+        "Entierro el 04-03-1739 en Morales del Vino con transcripción; nota en el fallecimiento, que ya constaba el día 3; observación con el poder para testar."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juan Pérez.JPG",
+          "sha256": "4c588f87b32b7c49b5e46e8f7d7940cf2b2241f982c53a9ba9dca76ce07919bc",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1661-04-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juº Pérez. Derecho entierro, onrras.\n\nEn ocho de Abril enterré a Juº Pérez, vezº de la villa de Xema; no sé si uvo los Santos Sacramentos; sé que no hizo testamento, y por verdad lo firmé. Ldo Moreno",
+      "uncertainties": [
+        "El asiento no lleva año: el encabezamiento del pie de la página de enfrente se lee «de 1661», con la última cifra dudosa, y la página sigue con el 17 de marzo, el 8 de abril y el 6 y el 11 de mayo. No nombra el lugar: Casaseca de las Chanas, por el Ldo Moreno, que firma allí entre 1642 y 1666. El pasaje «no sé si uvo los Santos Sacramentos; sé que no hizo testamento» está apretado; el borrador anterior lo leía mal.",
+        "No se enlaza: es un vecino de la villa de Gema enterrado en otra parroquia, y la partida no nombra a ningún familiar. El Juan Pérez del árbol casado en Casaseca en 1637 con Emerenciana Garzón no tiene fallecimiento conocido, pero nada lo une a este asiento."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "juan-perez-padre-de-emerenciana-perez"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de María Jurado.JPG",
+          "sha256": "5f3c90345f2c2703ef34125d70a4d53e8b8faa5e296add0dea60d652eaafcb8d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1686-11-02",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Mª Jurado. Cumplidos.\n\nEn dos de nobienbre deste presente año de 1686 murió María Jurado, muger de Antonio Martín Asensio. Rrezibió los Stos Sacramentos; enterrose en esta iglesia. Dejó por su alma beinte ducados para entierro, honrras y cabo de año i ofrenda del año. Son testamentarios Franco Jurado i su marido Antonio Asensio, i para que conste lo firmé. Dn Joseph de Miranda.",
+      "uncertainties": [
+        "La partida no nombra el lugar: Casaseca de las Chanas, por el cura que firma, Joseph de Miranda. Un papel pegado en la cabecera de la página, de letra moderna, anota otra defunción («María Pérez, mujer de Manuel Alonso») y no pertenece al asiento.",
+        "No se enlaza: esta María Jurado es mujer de Antonio Martín Asensio, y la del árbol, María Jurado Delgado (1622), lo es de Alonso Alonso Simón. Podría ser la misma, casada en segundas nupcias, pero nada lo dice, y el Alonso Alonso muerto en 1679 (imagen «Muerte de Alonso Alonso») era marido de una María Pérez. El testamentario Francisco Jurado será pariente suyo."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-jurado"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de María Rodrigo 2.JPG",
+          "sha256": "2b71a09db291542b9983b714a63825cb4c16913126d9c5cab754134fe3ec3a5f",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Gáname",
+      "transcription": "Rodrigo.\n\nMurió María Rodrigo, vezina deeste lugr de Gáname, en ocho días deel mes de agosto de dho año. Hizo testamto ante mí el cura. Enterrose en la yglesia deeste lugr. Tomó por su alma veinte y cinco ducados, como consta deel testamto. Fue su testamentario Juan Crespo, su marido, y Joseph Antón, vºs deeste lugar, y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "El asiento dice «de dho año» y el año no se lee en la página: murió un 8 de agosto, entre 1687 y 1717, los años en que firma en Gáname el Ldo Joseph Rodríguez. Una tira de otra hoja tapa el final de tres líneas, y una nota del margen sobre las hojas del libro («Tiene este libro noventa y ocho hoxas»), ajena al asiento, tapa el principio de otras tres.",
+        "Homónima: esta María Rodrigo es mujer de Juan Crespo, su testamentario; la del árbol es la viuda de Santiago Sastre. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "maria-rodrigo"
+      ]
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Miguel de Trigo.JPG",
+          "sha256": "1c79008184d4fd12cfaac86f1ba45d56b6d68f612c20ce53e759992ebcc9e196",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1726-04-24",
+      "place": "Morales del Vino",
+      "transcription": "Miguel de Trigo.\n\nEn veinte y quatro días del mes de Abrill de mill setecientos y veinte y seis se enterró en esta Yglesia Miguel de Trigo, aviendo recivido los santos sacramentos de Penitencia, Eucharistía y Extrema Unción. No hizo testamento por tener Padre, y lo firmé. Dn Diº Phe de la Torre.",
+      "uncertainties": [
+        "Sin dudas de lectura. La partida no nombra el lugar: Morales del Vino, por el cura, Diego Felipe de la Torre. El «48» bajo el nombre del margen es de otra tinta. Solo se da la fecha del entierro.",
+        "Homónimo: «no hizo testamento por tener padre», de modo que era un hombre joven, todavía bajo la potestad de su padre en 1726. El Miguel Trigo del árbol es el padre de Alonso Trigo, casado en 1666, y había nacido un siglo antes. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "miguel-de-trigo"
+      ]
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Pedro Carrascal Hernández.JPG",
+          "sha256": "3fedee3f496391953478b0fea16c49770dbc6974ac1ebdb6d3766a4c00d23677",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1732-10-29",
+      "place": "Morales del Vino",
+      "transcription": "Pedro. Está cumplido.\n\nEn 29 de otubre del año de 1732 murió de su muerte natural, aviendo recibido los Stos Sacramentos de penitencia, comunión y Estremaunción, Pedro Carrascal. Hizo testamento. Enterrose grada avajo y pagó lo acostumbrado a la fábrica, y así lo firmé. Dn Luis González, cura tte.",
+      "uncertainties": [
+        "Sin dudas de lectura: el día es un 9 cerrado, entre un asiento del 24 de octubre y otro del 19 de noviembre de 1732. La partida no nombra el lugar: Morales del Vino, por el teniente Luis González y por la fórmula de sus asientos de 1731 a 1733.",
+        "Homónimo: es el asiento del que procede el «falleció en Morales del Vino el 29-10-1732» de los resúmenes familiares, que no se incorporó. Pedro Carrascal, hijo de Alonso Carrascal y Catalina Hernández, se casó en 1655, setenta y siete años antes; la partida no da segundo apellido, mujer, padres ni edad, y será un descendiente del mismo nombre. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "pedro-carrascal"
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Miguel de la Iglesia y María Godina.JPG",
+          "sha256": "3f65c4e5cdc366c9b78a5899b3129f107902447df3772a3625fae4491e2c6c13",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1604-10-18",
+      "place": "Sanzoles",
+      "transcription": "Miguel de la Yglesia y Mª Godina.\n\nA diez y ocho de otubre del año de mil y seyscientos y quatro años desposé públicamente, según lo manda el santo concilio, a Mª Godina con Miguel de la Yglesia, vºs de la villa de Sançoles, siendo testigos Juan Hidalgo y Andrés [ilegible] y Julián de Prada y otros más testigos vºs de la villa de Sançoles, y porque es verdad lo firmé de mi nombre. Antonio Domínguez.",
+      "uncertainties": [
+        "La unidad del día está borrosa y se lee «ocho» por la forma de las letras; el 18 de octubre de 1604 fue lunes. No se lee el apellido del segundo testigo.",
+        "No se enlaza. Podrían ser los padres de Juan de la Iglesia, padre de Inés de la Iglesia Martín (Sanzoles, 1627), pero la partida no nombra padres ni edades y ningún asiento lo dice."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "juan-de-la-iglesia-padre-de-ines-de-la-iglesia"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Matías Carrasco Torrado.JPG",
+          "sha256": "f750a3b6d6111f84703d9006cfb2b83b6143362903fdebc2e734f790dab6d35d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Toro",
+      "transcription": "[ilegible]\n\nEn [ilegible] de marzo deste presente año de mil i seiscientos i nobenta i [ilegible] años, como cura theniente que soi de la parroquial de San Salbador de los Caballeros desta ciudad, con comisión del Sr Dor Andrés Fernández de Guebara, bautizé i puse los santos olios a Mathías, ijo lixítimo de Agustín Carrasco i de Manuela Torrado su muger, feligreses de dicha parroquia. Fueron sus padrinos Bartolomé Torrado i Catarina de Rueda; testigos el Bdo Sebastián Jácome, Diego Hernández i Don Felis de Ulloa i Simón [ilegible] Torres, vezinos desta ciudad, i por berdad lo firmé ut supra. Manuel Crespo. Dr Andrés Fz de Guevara.",
+      "uncertainties": [
+        "Imagen desenfocada y manchada. Son seguros «de marzo» y «mil i seiscientos i nobenta»; la unidad del año es una palabra muy corta, probablemente «un» (1691), sin excluir 1692 o 1693, y el día no se lee («ocho» o «nuebe»). Tras «de marzo de» hay un tramo tachado. No se lee la nota del margen ni una palabra del nombre del cuarto testigo. La ciudad no se nombra: San Salvador de los Caballeros es parroquia de Toro. El borrador anterior suponía la década de 1660.",
+        "Homónimo: el Matías Carrasco del árbol es hijo de Pedro Carrasco y Ana Sariñana, de la parroquia de Santo Domingo de Silos (1666); este es hijo de Agustín Carrasco y Manuela Torrado, de San Salvador de los Caballeros, y de la década de 1690. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "matias-carrasco"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Juan Sánchez Mielgo.JPG",
+          "sha256": "2b975d0116055e418fcdb0039652a0c13534f9d13b95d57687ecbb6c752cc37c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1672-07-01",
+      "place": "El Cubo del Vino",
+      "transcription": "Juan.\n\nEn primeros de Julio del año de mil y seiscientos y setenta y dos años, yo el cura desta villa del Cubo bapticé un niño, hijo de Migel Sánchez y de Ana Mielga, su muger; llamose Juan; padrinos Domingo García y Ángela del Alba, y les adbertí el parentesco espiritual; testigos Antonio de Alcántara y Gregorio Esteban, y lo firmé dicho día. Santiago Sánchez.",
+      "uncertainties": [
+        "Las últimas palabras del año («y dos años») están desvaídas; las apoya el asiento siguiente, de febrero de 1673. El margen está roto y manchado. Firma Santiago Sánchez, cura de El Cubo.",
+        "No se enlaza: sus padres, Miguel Sánchez y Ana Mielgo, no figuran en el árbol. El Juan Sánchez de El Cubo que se casó en 1695 con María Gómez Herrero es hijo de Domingo Sánchez y María Pérez."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Martín Colás.JPG",
+          "sha256": "2dd5577530be802bf70b134ea8a118641bd8bfa92bc9ea0eb6780a5f18382dfb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1676-05",
+      "transcription": "Manuel.\n\nEn este dicho día bautizé un niño que se llamó Manuel, hixo ligítimo de Simón [ilegible] y de su muger Mª Colás; fueron sus padrinos Domingo Nieto y Zezilia Gallega.",
+      "uncertainties": [
+        "El asiento dice «en este dicho día»: el de arriba se lee «En dos de Mayo de 1676» o «En doze», con la palabra en parte bajo un borrón; el mes y el año son seguros. No se lee el apellido del padre, Simón (los trazos admiten un «Mrn» abreviado, Martín, que es el del nombre de la imagen); «Colás» está desvaído. El asiento no lleva firma propia: el siguiente, del mismo día y con los mismos padrinos, lo firma Domingo Carrero. La página no nombra el lugar; podría ser Villadepera, sin que la imagen lo acredite.",
+        "No se enlaza: ningún Manuel Martín del árbol es hijo de un Simón y de una María Colás."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Martín Palomares1.JPG",
+          "sha256": "e485f90e1e7217db820c825a1d6ddf9c5e09643a7232e837b93941f748f2ca77",
+          "width": 4288,
+          "height": 2848
+        },
+        {
+          "filename": "Nacimiento de Manuel Martín Palomares2.JPG",
+          "sha256": "8e31a0fe7afacd5298ba0256faa53ae735b075b48621f00a28f8480fcbe24980",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1680-05-06",
+      "place": "Moraleja del Vino",
+      "transcription": "Manuel.\n\nEn seis días del mes de Mayo de mil y seisos y ochenta años, yo Marcos de Remesal, cura thente deste lugar de Moraleja, bapticé solemnemte y puse los stos olios a Manuel, hijo de Luis Martín y de Brísida Palomares, sus ligítimos padres; fueron sus padrinos Marcos Gonsales y Catalina Grª Mota, y les adbertí de la obligaçón de enseñar la doctrina xptiana al baptizado y el spiritual parentesco; testigos Diego Molinero, Pedro Sanbrano y Luis Montalvo, vºs de dho lugar, y declaró dho su padre aber nacido en diez y ocho días de Abril, y lo firmé ut supra. Marcos de Remesal.",
+      "uncertainties": [
+        "Una sola partida en dos imágenes: la primera llega hasta «la doctrina xptiana», al pie de la página, y la segunda sigue hasta la firma. El día del nacimiento, «diez y ocho» de abril, está en una línea desenfocada (el borrador anterior suponía el 28). El apellido del segundo testigo se lee «Sanbrano»; el de la madre está partido y apretado («pa/lom…res»). Una marca en aspa cruza la primera línea de la segunda imagen sin tachar el texto.",
+        "No se enlaza: ningún Manuel Martín del árbol es hijo de Luis Martín y Brígida Palomares, de Moraleja del Vino."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Marcos Vega Salvador.JPG",
+          "sha256": "9dea5467925710a0d7550115a16d3c57856b6068f83003d7123721c6c714e944",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1696-03-15",
+      "place": "Gáname",
+      "transcription": "Marcos.\n\nEn quince días del mes de Março de mill seiscientos y nobenta y seis bapticé a Marcos, hijo de Santiago Vega y de Josepha Salvadora, su muger; fue su Padrino Andrés Garrote, y lo firmé. Ldo Joseph Rodríguez.",
+      "uncertainties": [
+        "El final del año está algo emborronado, pero se lee «y nobenta y seis», entre asientos del 14 de enero y del 21 de abril de 1696. La página no nombra el lugar: Gáname, por el cura, el Ldo Joseph Rodríguez, y por los apellidos.",
+        "Homónimo: un niño bautizado en 1696 no puede ser el Marcos Vega del árbol, que ya era padre en 1689, y sus padres, Santiago Vega y Josefa Salvador, no son los de los hermanos Vega Salvador del árbol, hijos de Marcos Vega e Isabel Salvador. Será un sobrino. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Marqués Herrero.JPG",
+          "sha256": "901d9df13205359fa200785e6558719cabaadff90eb9fd0cd5c4205d7de1b63e",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1701-07-06",
+      "place": "Morales del Vino",
+      "transcription": "María.\n\nEn seis días del mes de Jullio de mill setezos y un años, de mi liza el Ldo Andrés Ruyz, clérigo presvítero, vº de el lugr de Pereruela, puso los Stos olios a una niña que se llamó María, a quien yo baptizé de socorro; nació el día veinte y quatro del mes de Junio deste presente año; hixa legítima de Manuel Marqués el mozo y de Franca Herrero, vºs deste lugr; fueron Padrinos Manuel Marqués, vº deste dho lugr, y Lucía Ruyz, vª de dho lugr de Pereruela; contraxo el parentesco spiritual dho padrino, de que fue advertido; testigos Juan Marqués, Germo Nieto [ilegible] Germo del Huelmo, cura propio deste dho lugr de Morales; para que conste lo firmé. Emmdo: Jullio. Valga. Ldo Germo del Huelmo.",
+      "uncertainties": [
+        "Imagen desenfocada: todas las lecturas se han hecho sobre recortes realzados. No se lee un tramo corto en el pliegue, entre «Germo Nieto» y «Germo del Huelmo» (probablemente «y yo el Ldo»); «Lucía Ruyz» y «Germo Nieto» se leen a través del desenfoque. El mes está enmendado y salvado al pie («Emmdo: Jullio. Valga»). El 6 de julio se le pusieron los óleos; el bautismo de socorro, que le dio el cura, no lleva fecha.",
+        "La versión de 2015 de los resúmenes familiares la confundió con la mujer de Juan Brioso Luelmo, que es María Marqués Esteban. Es hija de «Manuel Marqués el mozo» y de Francisca Herrero, los padres de Isabel Marqués Herrero (1705): se añade al árbol como hermana suya. El padrino es otro Manuel Marqués, vecino de Morales; la madrina y el clérigo que puso los óleos son de Pereruela, el lugar de la madre."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-hijo-de-manuel-marques-padre-de-isabel-marques"
+      ],
+      "applied": [
+        "Nueva persona, hija de Manuel Marqués y de Francisca Herrero y hermana de Isabel Marqués Herrero: bautismo el 06-07-1701 en Morales del Vino con transcripción y nota; nacimiento el 24-06-1701."
+      ],
+      "destination": "Otros familiares"
+    },
+    {
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Ana Mateo.JPG",
+          "sha256": "6bd44d0d7b7014a8eff78349f4d8500f8bb3c3e1690119fb10d0b4c267a2ccb3",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1748-11-12",
+      "place": "Peleas de Arriba",
+      "transcription": "Adulta. Cumplido.\n\nEn doze de Nobiembre de mill setecientos y quarenta y ocho yo el infra escrito Cura propio de esta Parrochial de Peleas de Arriba anexo de Fuente el Carnero di sepultura ecclesiástica a Ana Mattheo conjunta persona de Joseph Zurdo mis feligreses. Fue socorrida con los Santos Sacramentos de confesión, viático y extremaunción, hizo testamento, y dexó por sus testamentarios a Diego Pérez y Fernando Galán y para bien de su alma los dros parrochiales y una missa votiva a nuestra Señora de la Cuesta y para que conste lo firmo en dho día mes y año. Mattheo Cavero.",
+      "uncertainties": [
+        "Sin dudas de lectura. Solo se da la fecha del entierro.",
+        "Es Ana Mateo Hernández, casada en Fadón en 1726 con José Zurdo Herrero: la partida de entierro de él (Fadón, 14-12-1748) lo llama viudo de Ana Mateos y dice que, tras vivir en Fadón, eran vecinos de Peleas de Arriba. Hasta leer esa partida quedaba la duda con Ana Mateo, mujer de Melchor Pérez, también de Peleas de Arriba."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-mateo"
+      ],
+      "applied": [
+        "Entierro el 12-11-1748 en Peleas de Arriba con transcripción; fallecimiento el día anterior, con nota; observación con el testamento."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de otro Pedro Garrote.JPG",
+          "sha256": "1adb3b549161f03fa67fb5ed757b647d79efc63fbd4a836acaefd9ec7db6e472",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1698-12-25",
+      "place": "Abelón",
+      "transcription": "Pedro Garrote. Adulto. Cumplido. Castañón.\n\nEn veinte y cinco de diciembre de dho año de mil seiscientos y noventa y ocho falleció desta presente vida Pedro Garrote vzº deste lugar de Abellón; recivió los Stos Sacramentos y hizo testamento ante mí en el qual tomó por su alma diez y seis ducados para un novenario de misas cantadas en esta Ygla y lo restante para misas rezadas. Está enterrado en esta Ygla de Sn Martín en la sepultura que eligió y está enfrente de la pila de la agua bendita. Dejó por sus herederos a sus hijos y por testamentarios a Domingo Garrote su hermano y a Alonso Blanco vzº deste dho lugar. Mandó se repartiesen dos libras de cera entre los tres altares de dha Ygla [ilegible] y no otra cosa que yo alcanzado [ilegible]; y para que así conste lo firmé dho día mes y año ut supra. Joseph Fierro Castañón.\n\nLlevaron a la colecturía dhos testamentarios ochenta y ocho Rs [ilegible].",
+      "uncertainties": [
+        "No se leen dos tramos cortos de la manda de la cera ni el final de la nota de la colecturía.",
+        "La familia archivó la imagen como «otro» Pedro Garrote, y así quedó cuando el árbol daba a Pedro Garrote Gabriel por muerto en 1708. Es él: la partida de entierro de su viuda, María Blanco (10-06-1709), remite a esta cláusula del 25 de diciembre de 1698; el testamentario Alonso Blanco es hermano de ella, y está enterrado enfrente de la pila del agua bendita, como después su madre y su mujer."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "pedro-garrote-padre-de-antonio-garrote"
+      ],
+      "applied": [
+        "Fallecimiento el 25-12-1698 en Abelón (el árbol tenía solo diciembre de 1698) con transcripción y nota; observación con el testamento. Se añade a su hermano Domingo Garrote."
+      ],
+      "destination": "Tatarabuelos sextos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "¿Inés Marqués Nieto.JPG",
+          "sha256": "2b408a6685fbcbcc8265edb1943b9484818511de010c6543a5f8322f98d0cd60",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1686-11-07",
+      "place": "Morales del Vino",
+      "transcription": "Ynés.\n\nEn siete de nobiembre de mill y seiscientos y ochenta y seis años yo el Ldo Joseph de Prado, cura teniente de este lugar de Morales, bapticé y puse los Stos óleos a una niña que se llamó Ynés, hija de Diego Marqués y de María Nieta su legítima muger. Fueron sus padrinos Alonso Sánchez de Toro, vecino de Zamora, y Jacinta Nieta; advertiles el parentesco espiritual. Fueron testigos Alonso de Vitoria y Matheo Brioso y en fe de ello lo firmé ut supra. Joseph de Prado.\n\nEste baptizado se puso aquí por no advertir que era este asiento el de los desposados, con que se a puesto en su lugar. No se borra por no ser conbeniente, que fue una inadbertencia.",
+      "uncertainties": [
+        "El asiento se escribió por error en el libro de desposados, como explica la nota final.",
+        "Ni el matrimonio (1710) ni el entierro (1769) de Inés Marqués, mujer de Francisco Cabrero Luelmo, nombran a sus padres, y la familia ya dudaba (el nombre de la imagen empieza por «¿»). Se enlaza como suposición razonable: descartada la otra Inés bautizada en Morales en 1686 (hija de Juan Marqués y María Esteban, hermana de María Marqués Esteban), es la única que queda; sus padres, Diego Marqués y María Nieto, son los abuelos y padrinos de Isabel Marqués Herrero en 1705; y la doble dispensa de consanguinidad del matrimonio de su hija Catalina con Baltasar Brioso Marqués (1748) cuadra con una madre Marqués y Nieto. En contra: el entierro le da ochenta y cuatro años, y tendría casi ochenta y tres."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ines-marques"
+      ],
+      "applied": [
+        "Bautismo el 07-11-1686 en Morales del Vino con nota y transcripción; nacimiento con esa fecha y la nota del bautismo. Se enlaza con sus padres, Diego Marqués y María Nieto, y el nombre pasa a Inés Marqués Nieto; observación con la base de la identificación."
+      ],
+      "destination": "Tatarabuelos quintos"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Nacimiento de Manuel Marqués Rodríguez.JPG",
+          "sha256": "612fc47933d235eb5d4381123df40e60f841e6ff23f22df356d22f788f7e5f59",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1656-04-15",
+      "place": "Morales del Vino",
+      "transcription": "Manuel.\n\nEn 15 de abril de 1656 años puse los santos olios a Manuel, hijo de Pedro Marqués y de María Rz su muger. Fueron padrinos Joseph Lopes y Dª Lorença Ladrón de Guebara; testigos Antº Morais sacristán y Franco Muriel y Bernardo Alº y lo firmé. El Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "Folio del libro de Morales del Vino, del Ldo Miguel de Villalpando.",
+        "Homónimo: el Manuel Marqués del árbol, marido de Francisca Herrero, es «Manuel Marqués el mozo», hijo de Diego Marqués y María Nieto, los abuelos y padrinos de su hija Isabel en 1705. Este Manuel, hijo de Pedro Marqués y María Rodríguez, será el otro Manuel Marqués, vecino de Morales, padrino de María Marqués Herrero en 1701. No se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "manuel-marques-padre-de-isabel-marques"
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "DSC_0718.JPG",
+          "sha256": "53de8534638c06be452e4a3867947159e0b0e90b6c67a6d425c5ebadcbd486eb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1675-11-15",
+      "place": "Moraleja del Vino",
+      "transcription": "Thomás Antonio.\n\nEn quince de nobiembre de mil seiscientos y setenta y cinco años yo el Ldo Don Andrés Carrasco cura propio de este lugar de Moralexa baptizé y puse los Santos Óleos en la yglesia parrochial dél a un niño hijo de Pedro Jambrina familiar del Santo Officio y de [ilegible] Bambón sus lexítimos padres. Llamose Thomás Antonio. Fueron sus padrinos el Ldo [ilegible] de Sossada presbítero y Luisa [ilegible] muger de [ilegible], todos vecinos de este dicho lugar, a los quales advertí el parentesco de cognación spiritual que avían contraído y la obligación de enseñar la doctrina christiana al baptizado y para que conste lo firmé ut supra. Dn Andrés Carrasco.",
+      "uncertainties": [
+        "No se leen el nombre de pila de la madre ni los de algunos padrinos.",
+        "Sin enlace: familia Jambrina de Moraleja del Vino. Pista: el árbol tiene a un Tomás Jambrina, tío de Manuela Jambrina Valencia, que en 1704 era comisario del Santo Oficio, cura y arcipreste de Gema, y al que se tiene por hermano de Antonio Jambrina, natural de Moraleja. Este Tomás Antonio, hijo de Pedro Jambrina, familiar del Santo Oficio, podría ser él (tendría 28 años en 1704), y Pedro Jambrina, el padre de ambos; ninguna partida lo dice."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "tomas-jambrina-hermano-de-antonio-jambrina"
+      ]
+    },
+    {
+      "type": "heraldry",
+      "images": [
+        {
+          "filename": "Escudo Brioso.jpeg",
+          "sha256": "5b93b1e852158bc5880c568e9ec5b5fe4d0b152b7a9cd55492b78a4656bb3272",
+          "width": 2550,
+          "height": 3510
+        }
+      ],
+      "transcription": "Brioso.\n\nEspaña. En oro, un árbol de sinople y un lobo de sable, andante puesto detrás del tronco, en lo alto linguado de gules.",
+      "uncertainties": [
+        "No es una partida: es una lámina impresa, enmarcada, con un escudo atribuido al apellido Brioso y su blasón. No nombra a ninguna persona ni da procedencia que permita atribuirlo a esta rama."
+      ],
+      "status": "sin enlace al árbol"
     }
   ]
 }
