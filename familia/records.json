@@ -11703,10 +11703,11 @@
     },
     {
       "id": "ana-hernandez",
-      "name": "Ana Hernández",
+      "name": "Ana Hernández de la Iglesia",
       "givenNames": "Ana",
       "surnames": [
-        "Hernández"
+        "Hernández",
+        "de la Iglesia"
       ],
       "marriages": [
         {
@@ -11715,7 +11716,20 @@
           "place": "Sanzoles",
           "transcription": "Miguel Salbador. Ana Hernandes.\n\nEn beinte de setiembre de mil seiscientos y sesenta y quatro yo Germo Núñez cura proprio desta villa, abiendo precedido las tres moniciones que manda el Sto Concilio, desposé y belé in facie eclesie a Miguel Salbador y Ana Hernandes vecinos desta villa y por cierto lo firmé en dicho mes y año. Testigos Baltasar Delgado y Juan Salbador. El Ldo Germo Núñez de Salamanca."
         }
-      ]
+      ],
+      "father": "matias-hernandez-padre-de-ana-hernandez",
+      "mother": "antona-de-la-iglesia-madre-de-ana-hernandez",
+      "baptism": {
+        "date": "1635-06-03",
+        "place": "Sanzoles",
+        "note": "La partida no nombra el lugar; la letra y la firma son las de los bautismos de Sanzoles de esos años.",
+        "transcription": "Ana.\n\nEn 3 de junio de 635 a. bauticé a Ana Hernández, hija de Matías Hernández y de Antona de la Yglesia; fueron sus padrinos Juº Alº de Sotelo y [ilegible] la Carretera; testigos el [ilegible] alcalde Pº Hernández y su compañero Juan [ilegible], y lo firmé ut supra. El Ldo Juan Núñez."
+      },
+      "birth": {
+        "date": "1635-06-03",
+        "place": "Sanzoles",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "andres-terron",
@@ -12796,11 +12810,25 @@
     },
     {
       "id": "maria-corralino",
-      "name": "María Corralino",
+      "name": "María Corralino Domínguez",
       "givenNames": "María",
       "surnames": [
-        "Corralino"
-      ]
+        "Corralino",
+        "Domínguez"
+      ],
+      "father": "juan-corralino-padre-de-maria-corralino",
+      "mother": "maria-dominguez-madre-de-maria-corralino",
+      "baptism": {
+        "date": "1613-09-19",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no nombra el lugar; la firma el cura de Casaseca de las Chanas, el Ldo Alonso de Ayala.",
+        "transcription": "María, hija de Juº Corralino y de Mª Domínguez.\n\nEn diez y nueve días del mes de setiembre de mil y seiscientos y treze, yo el dicho cura bauticé a Mª, hija de Juº Corralino y de Mª Domínguez, vºs deste lugar; fue su padrino Juº Pérez; testigos Domingo Hernández y Juº Méndez, vºs del dicho lugar, y lo firmé yo el dicho cura. Ldo Ayala.\n\nEn veinte de setiembre de mil y seiscientos y treze. Vidi et approbavi. [firma]."
+      },
+      "birth": {
+        "date": "1613-09-19",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "ana-alonso",
@@ -15146,8 +15174,7 @@
         "transcription": "María.\n\nEn 28 de agosto de 1653 años yo el Ldo Miguel de Villalpando cura deste lugar doi fe que baptizé a María hija de Bartolomé de Luelmo y de Ynés Martín. Fueron padrinos Pº de Luelmo vecino de Moraleja y Felipa Martín. Testigos Gº Cordero, Diego Marqués y Manuel Sánchez y lo firmé. El Ldo Miguel de Villalpando."
       },
       "siblings": [
-        "juan-de-luelmo-padre-de-jeronimo",
-        "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso"
+        "juan-de-luelmo-padre-de-jeronimo"
       ]
     },
     {
@@ -19012,14 +19039,24 @@
     },
     {
       "id": "felipe-gil",
-      "name": "Felipe Gil",
+      "name": "Felipe Gil Martín",
       "givenNames": "Felipe",
       "surnames": [
-        "Gil"
+        "Gil",
+        "Martín"
       ],
       "birth": {
         "place": "Toro",
-        "note": "Toro (Santa Catalina)."
+        "note": "Toro (Santa Catalina). La fecha es la del bautismo; no consta la del nacimiento.",
+        "date": "1622-05-08"
+      },
+      "father": "domingo-gil-padre-de-felipe-gil",
+      "mother": "maria-martin-madre-de-felipe-gil",
+      "baptism": {
+        "date": "1622-05-08",
+        "place": "Toro",
+        "note": "La partida no nombra el lugar ni la parroquia; los asientos de la página son de familias de Toro.",
+        "transcription": "Domingo Gil.\n\nEn ocho días del mes de mayo de mill y seyscientos y veynta y dos años bauptizé a Phelipe, hijo de Domingo Gil y de su muger María Martín; fueron padrinos Manuel de Sierra y María Gago, y por verdad firmé aquí mi nombre. Juan de Almaraz."
       }
     },
     {
@@ -19087,9 +19124,6 @@
       "mother": "catalina-delgado-madre-de-maria-jurado",
       "observations": [
         "Tuvo una hermana llamada Catalina, bautizada en abril de 1630 en Casaseca de las Chanas."
-      ],
-      "siblings": [
-        "catalina-jurado-hermano-de-maria-jurado"
       ],
       "baptism": {
         "date": "1622-12-24",
@@ -19490,11 +19524,25 @@
     },
     {
       "id": "alonso-garcia-padre-de-martin-garcia",
-      "name": "Alonso García",
+      "name": "Alonso García Blanco",
       "givenNames": "Alonso",
       "surnames": [
-        "García"
-      ]
+        "García",
+        "Blanco"
+      ],
+      "father": "domingo-garcia-padre-de-alonso-garcia",
+      "mother": "francisca-blanco-madre-de-alonso-garcia",
+      "baptism": {
+        "date": "1617-08-08",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no nombra el lugar; la firma el cura de Casaseca de las Chanas, el Ldo Alonso de Ayala. El nombre del niño se lee con reservas.",
+        "transcription": "Alº, yjo de Domingo García y de Franca Blanca.\n\nEn ocho días del mes de agosto de [mil seiscientos y] diez y siete, 1617 años, bauticé yo el licenciado Alº de Ayala a [ilegible], yjo de Domingo García y de su muger Franca Blanca; fueron sus padrinos Alº Bueno y Martín Bueno, vºs deste dicho lugar; testigos Andrés de Ayala y Juº Núñez de [ilegible], y por verdad lo firmé. Ldo Ayala."
+      },
+      "birth": {
+        "date": "1617-08-08",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "maria-cordero",
@@ -19544,25 +19592,52 @@
     },
     {
       "id": "alonso-delgado",
-      "name": "Alonso Delgado",
+      "name": "Alonso Delgado Galán",
       "givenNames": "Alonso",
       "surnames": [
-        "Delgado"
+        "Delgado",
+        "Galán"
       ],
       "occupations": [
         {
           "name": "Labrador",
           "date": "1673"
         }
-      ]
+      ],
+      "father": "anton-delgado-padre-de-alonso-delgado",
+      "mother": "isabel-galan-madre-de-alonso-delgado",
+      "baptism": {
+        "date": "1616-05-02",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no nombra el lugar; la firma el cura de Casaseca de las Chanas, el Ldo Alonso de Ayala.",
+        "transcription": "Alº, hijo de Antón Delgado y de Ysabel Galana.\n\nEn dos de mayo de mil y seyscientos y diez y seis años bauticé yo el licenciado Alº de Ayala, cura desta yglesia, a Alº, hijo de Antón Delgado y de Ysabel Galana; fue su padrino Pº Delgado; testigos Andrés de Ayala y Pº Çamora, y lo firmé. Ldo Ayala."
+      },
+      "birth": {
+        "date": "1616-05-02",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "catalina-jurado",
-      "name": "Catalina Jurado",
+      "name": "Catalina Jurado Delgado",
       "givenNames": "Catalina",
       "surnames": [
-        "Jurado"
-      ]
+        "Jurado",
+        "Delgado"
+      ],
+      "father": "alonso-jurado",
+      "mother": "catalina-delgado-madre-de-maria-jurado",
+      "baptism": {
+        "date": "1630-04-24",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Catalina, yja de Alº Jurado y de Catalina Delgada.\n\nEn 24 de abril de 1630 años bautiçó en esta yglesia de Casaseca de las Chanas el señor prior de Pelas de Abaxo a Catalina, yja de Alº Jurado y de Catalina Delgada, su muger; fue su padrino el licenciado Alº de Llamas, cura propio de Casaseca de las Chanas, siendo testigos Juº García de la Yglesia y Luis de Çamora, y lo firmó el dicho cura oy dicho día, mes y año. Ldo Alº de Llamas."
+      },
+      "birth": {
+        "date": "1630-04-24",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "juan-martinez",
@@ -19709,25 +19784,52 @@
     },
     {
       "id": "blas-morales",
-      "name": "Blas Morales",
+      "name": "Blas Morales Mateo",
       "givenNames": "Blas",
       "surnames": [
-        "Morales"
+        "Morales",
+        "Mateo"
       ],
       "origins": [
         "Casaseca de las Chanas"
-      ]
+      ],
+      "father": "pedro-morales-padre-de-blas-morales",
+      "mother": "ines-mateo-madre-de-blas-morales",
+      "baptism": {
+        "date": "1641-04-14",
+        "place": "Casaseca de las Chanas",
+        "note": "El día y el mes, en una letra muy rápida, se leen con reservas.",
+        "transcription": "Blas, hijo de Pº de Morales.\n\nEn catorze días del mes de abril de seiscientos y quarenta y uno bapticé yo el Ldo Don Alº M[artíne]z Cano, cura desta yglesia, a Blas, hijo de Pº de Morales y [de] Ynés Matea, su muger; fue su padrino Juº [ilegible]; testigos Juº Bueno [ilegible] y [ilegible] Carrero, y lo firmé. Ldo Alonso de M[artíne]z Cano."
+      },
+      "birth": {
+        "date": "1641-04-14",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "juana-tobal",
-      "name": "Juana Tobal",
+      "name": "Juana Tobal Rodríguez",
       "givenNames": "Juana",
       "surnames": [
-        "Tobal"
+        "Tobal",
+        "Rodríguez"
       ],
       "origins": [
         "Casaseca de las Chanas"
-      ]
+      ],
+      "mother": "maria-rodriguez-madre-de-juana-tobal",
+      "baptism": {
+        "date": "1647-09-15",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no expresa el año; la anterior es del 8 de septiembre de 1647.",
+        "transcription": "Juª.\n\nEn 15 de setiembre se bautizó Juana, hija de [ilegible] Tobar y María Rz, su muger; fue su padrino Pº Calbo, mozo; testigos Alonso Hernández y Matías Alonso. Manuel Rz."
+      },
+      "birth": {
+        "date": "1647-09-15",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "isabel-de-uruena",
@@ -19828,19 +19930,47 @@
     },
     {
       "id": "manuel-moreno",
-      "name": "Manuel Moreno",
+      "name": "Manuel Moreno Esteban",
       "givenNames": "Manuel",
       "surnames": [
-        "Moreno"
-      ]
+        "Moreno",
+        "Esteban"
+      ],
+      "father": "alonso-moreno-padre-de-manuel-moreno",
+      "mother": "maria-esteban-madre-de-manuel-moreno",
+      "baptism": {
+        "date": "1648-08-04",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no expresa el año; es la misma página que el bautismo de Ana Morales, y el asiento siguiente es del 24 de agosto de 1648.",
+        "transcription": "Manuel Moreno.\n\nEn 4 de agosto bauticé yo Manuel Rodríguez Moreno, cura del dicho lugar de Casaseca, a Manuel Moreno, hijo de Alonso Moreno y de María Esteban; fue su padrino Domingo Esteban; testigos Gerónimo de Casaseca y Domingo Bueno, sacristán del dicho lugar, y lo firmé. Ldo Manuel Rz de la Torre."
+      },
+      "birth": {
+        "date": "1648-08-04",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "ana-morales",
-      "name": "Ana Morales",
+      "name": "Ana Morales Simón",
       "givenNames": "Ana",
       "surnames": [
-        "Morales"
-      ]
+        "Morales",
+        "Simón"
+      ],
+      "father": "juan-morales-padre-de-ana-morales",
+      "mother": "maria-simon-madre-de-ana-morales",
+      "baptism": {
+        "date": "1648-08-12",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida no expresa el año; la siguiente es del 24 de agosto de 1648, que se lee con reservas.",
+        "transcription": "Ana Morales.\n\nEn 12 de agosto bauticé yo Gerónimo Castaño, cura de Pontexos, a Ana Morales, yja de Juan Morales y de María Simona, su muger; fue su padrino Manuel Rodríguez Moreno, cura del dicho lugar de Casaseca de las Chanas; testigos Juan Pérez, mozo, y Domingo Bueno, sacristán, y lo firmé. Gerónimo Castaño."
+      },
+      "birth": {
+        "date": "1648-08-12",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "isabel-delgado-madre-de-maria-antonia-moreno",
@@ -19881,11 +20011,24 @@
     },
     {
       "id": "miguel-delgado",
-      "name": "Miguel Delgado",
+      "name": "Miguel Delgado Rodríguez",
       "givenNames": "Miguel",
       "surnames": [
-        "Delgado"
-      ]
+        "Delgado",
+        "Rodríguez"
+      ],
+      "father": "pedro-delgado-padre-de-miguel-delgado",
+      "mother": "marcela-rodriguez-madre-de-miguel-delgado",
+      "baptism": {
+        "date": "1632-10-13",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Miguel Delgado.\n\nEn 13 de otubre de 1632 años bauticé yo el licenciado Alº de Llamas, cura propio deste lugar de Casaseca de las Chanas, a Miguel, hijo de Pedro Delgado, el Negrillo, y de Marcela Rodríguez; fue su padrino Miguel Prieto, siendo testigos Alº Rodríguez y Antº Pantaleón y Ysidro Rodríguez. Ldo Alº de Llamas.\n\nVisitado en las Chanas, a 28 de octubre de 1632. [firma del visitador]."
+      },
+      "birth": {
+        "date": "1632-10-13",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "isabel-martin-madre-de-isabel-delgado-martin",
@@ -19956,14 +20099,28 @@
     },
     {
       "id": "luis-de-valladolid",
-      "name": "Luis Valladolid",
+      "name": "Luis Valladolid Gaitán",
       "givenNames": "Luis",
       "surnames": [
-        "Valladolid"
+        "Valladolid",
+        "Gaitán"
       ],
       "origins": [
         "Casaseca de las Chanas"
-      ]
+      ],
+      "father": "domingo-valladolid-padre-de-luis-de-valladolid",
+      "mother": "maria-gaitan-madre-de-luis-de-valladolid",
+      "baptism": {
+        "date": "1657-02-02",
+        "place": "Casaseca de las Chanas",
+        "note": "La partida va bajo el encabezamiento «Año de 1657».",
+        "transcription": "Luis Balladolid.\n\nEn dos de febrero bauticé a Luis, hijo de Domingo Valladolid y María Gaitana, sus lexítimos padres, vecinos deste lugar; fue su padrino Luis Gaitán; testigos Luis Alonso de S. Pº, sacristán, y Andrés Díaz de la Laguna, y por verdad lo firmé. Pº Moreno, cura."
+      },
+      "birth": {
+        "date": "1657-02-02",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "francisca-franco",
@@ -20048,19 +20205,39 @@
     },
     {
       "id": "juan-carbajal",
-      "name": "Juan Carbajal",
+      "name": "Juan Carbajal Galán",
       "givenNames": "Juan",
       "surnames": [
-        "Carbajal"
-      ]
+        "Carbajal",
+        "Galán"
+      ],
+      "father": "anton-carbajal-padre-de-juan-carbajal",
+      "mother": "isabel-galan-madre-de-juan-carbajal",
+      "baptism": {
+        "date": "1624-10-05",
+        "place": "Casaseca de las Chanas",
+        "transcription": "Juan, hijo de Antón Carbajal y de Ysabel Galana, su muger.\n\nOtubre de 1624. En cinco de otubre de mil y seyscientos y beynte y quatro años bapticé yo el licenciado Alonso de Ayala, cura deste lugar, a Juan, hijo de Antón Carbajal y de Ysabel Galana, su muger; fue su padrino Pedro Alonso, cura teniente deste lugar; testigos Luis Çamora y Juan Alonso, vºs del dicho lugar, y lo firmé. Pedro Alonso."
+      },
+      "birth": {
+        "date": "1624-10-05",
+        "place": "Casaseca de las Chanas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "catalina-alonso",
-      "name": "Catalina Alonso",
+      "name": "Catalina Alonso García",
       "givenNames": "Catalina",
       "surnames": [
-        "Alonso"
-      ]
+        "Alonso",
+        "García"
+      ],
+      "father": "miguel-alonso-padre-de-catalina-alonso",
+      "baptism": {
+        "place": "Casaseca de las Chanas",
+        "note": "La partida es del 23 de junio; el año, en una letra muy rápida, no se lee con seguridad (década de 1640 o de 1650, por el cura que firma).",
+        "transcription": "Catª, hija de Migel Alº.\n\nEn veinte y tres de junio de [ilegible] seiscientos y [ilegible] bapticé yo el Ldo Don Alº M[artíne]z Cano, cura propio desta yglesia de Casaseca, a Catalina, hija de Miguel Alº y de [ilegible] Gª, su muger; fue su padrino [ilegible]; testigos [ilegible], y lo firmé. Ldo Alonso de M[artíne]z Cano."
+      }
     },
     {
       "id": "josefa-delgado",
@@ -20840,6 +21017,20 @@
       "givenNames": "Catalina",
       "surnames": [
         "Gabriel"
+      ],
+      "burial": {
+        "date": "1702-06-04",
+        "place": "Abelón",
+        "note": "Junto a la pila del agua bendita.",
+        "transcription": "Catalina Gabriela.\n\nEn quatro de junio de mill setecientos y dos años yo el infra escripto cura theniente enterré a Catalina Gabriela, la qual, habiéndola administrado los santos sacramentos, [ilegible] hizo testamento, en que tomó por su ánima [ilegible], y que dellos salgan [ilegible] misas de las cofradías [ilegible]; testamentarios Domingo Garrote [ilegible]; enterrose [ilegible] junto a la pila del agua bendita [ilegible], y para que conste [ilegible] de los testamentarios, lo firmé en dicho día, mes y año ut supra. Joseph Carrión Cossano."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 4 de junio.",
+        "date": "1702-06-03",
+        "place": "Abelón"
+      },
+      "observations": [
+        "La partida de entierro (04-06-1702), en gran parte ilegible, nombra testamentario a Domingo Garrote."
       ]
     },
     {
@@ -20889,7 +21080,18 @@
       "givenNames": "Juana",
       "surnames": [
         "Pascual"
-      ]
+      ],
+      "burial": {
+        "date": "1676-12-12",
+        "place": "Abelón",
+        "note": "La partida no expresa el año ni el lugar: la firma el teniente de cura de Abelón Juan de Barrio, y un asiento posterior de la misma página es de 1677.",
+        "transcription": "Juana Pasqual.\n\nEn 12 de diziembre fue [ilegible] Juana Pasqual, mugʳ de Martín Blanco; [ilegible] ante Domingo Bernabé [ilegible] y lo firmé en dicho día. Juº de Barrio."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 12 de diciembre.",
+        "date": "1676-12-11",
+        "place": "Abelón"
+      }
     },
     {
       "id": "andres-morales",
@@ -21211,21 +21413,31 @@
     },
     {
       "id": "mariana-andres",
-      "name": "Mariana Andrés",
+      "name": "Mariana Andrés Carazo",
       "givenNames": "Mariana",
       "surnames": [
-        "Andrés"
+        "Andrés",
+        "Carazo"
       ],
       "origins": [
         "Cernecina"
       ],
       "birth": {
         "place": "Fresnadillo",
-        "note": "Fresnadillo de Sayago (La Cernecina)."
+        "note": "Fresnadillo de Sayago (La Cernecina). La fecha es la del bautismo; no consta la del nacimiento.",
+        "date": "1668-07-22"
       },
       "observations": [
         "La partida de entierro de su marido, Miguel Figal (14-07-1725), lo llama viudo de Mariana Andrés y dice que los dos fueron vecinos de Fresnadillo."
-      ]
+      ],
+      "father": "gabriel-andres-padre-de-mariana-andres",
+      "mother": "magdalena-carazo-madre-de-mariana-andres",
+      "baptism": {
+        "date": "1668-07-22",
+        "place": "Fresnadillo",
+        "note": "La partida la llama María.",
+        "transcription": "María.\n\nEn Fresnadillo, a beinte y dos de julio de sesenta y ocho años, yo el Ldo Alonso Martín Prieto, cura propio, bapticé a María, hija legítima de Gabriel Andrés y de Madalena Caraça, su muger; fue su padrino Juº Arribo, todos vecinos deste lugar, y lo firmé. Ldo Alonso Martín Prieto."
+      }
     },
     {
       "id": "bartolome-pozo",
@@ -21459,11 +21671,25 @@
     },
     {
       "id": "maria-lorenzo-madre-de-agustin-sastre",
-      "name": "María Lorenzo",
+      "name": "María Lorenzo Rubiano",
       "givenNames": "María",
       "surnames": [
-        "Lorenzo"
-      ]
+        "Lorenzo",
+        "Rubiano"
+      ],
+      "father": "domingo-lorenzo-padre-de-maria-lorenzo",
+      "mother": "maria-rubiano-madre-de-maria-lorenzo",
+      "baptism": {
+        "date": "1634-05-07",
+        "place": "Malillos",
+        "note": "La última cifra del año queda bajo un rasgo; los asientos de arriba y de abajo son de febrero y junio de 1634.",
+        "transcription": "En 7 de mayo de 163[4] bapticé yo Manuel de Lanaba, cura teniente de Malillos, a María Lorença, hija de Domingo Lorenço y de María Rubiana, su muger; fueron sus padrinos Domingo [ilegible] y María Rodríguez, y lo firmé. Manuel de Lanaba."
+      },
+      "birth": {
+        "date": "1634-05-07",
+        "place": "Malillos",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "jose-de-las-heras",
@@ -22539,7 +22765,18 @@
       "givenNames": "María",
       "surnames": [
         "Herrero"
-      ]
+      ],
+      "father": "martin-herrero-padre-de-maria-herrero",
+      "mother": "maria-herrera-madre-de-maria-herrero",
+      "baptism": {
+        "date": "1638-09-01",
+        "note": "La partida no nombra el lugar; el año, tapado por un rasgo, es el del asiento siguiente (16 de octubre de 1638).",
+        "transcription": "María.\n\nEn primero de setiembre de mill y seiscientos y treinta y [ocho] bauticé a María, hija de Martín Herrero y de María Herrera; fueron sus padrinos Pedro Herrero y Catalina Gago, su muger; en fe de verdad lo firmé. Antonio de Álava de Monguía."
+      },
+      "birth": {
+        "date": "1638-09-01",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "jose-santiago",
@@ -22674,11 +22911,23 @@
     },
     {
       "id": "catalina-colastico",
-      "name": "Catalina Colástico",
+      "name": "Catalina Colástico Carnero",
       "givenNames": "Catalina",
       "surnames": [
-        "Colástico"
-      ]
+        "Colástico",
+        "Carnero"
+      ],
+      "father": "sebastian-colastico-padre-de-catalina-colastico",
+      "mother": "catalina-carnero-madre-de-catalina-colastico",
+      "baptism": {
+        "date": "1640-07-15",
+        "note": "La partida no nombra el lugar.",
+        "transcription": "Catalina.\n\nEn quince de julio de mill y seiscientos y quarenta bauticé a Catalina, hija de Sebastián de Colástica y Catalina Carnero; fueron sus padrinos Domingo Silva y María Franca, en cuya verdad lo firmé. Antonio de Álava de Monguía."
+      },
+      "birth": {
+        "date": "1640-07-15",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "teresa-ruiz",
@@ -22741,23 +22990,49 @@
     },
     {
       "id": "lorenzo-hernandez",
-      "name": "Lorenzo Hernández",
+      "name": "Lorenzo Hernández Tamame",
       "givenNames": "Lorenzo",
       "surnames": [
-        "Hernández"
+        "Hernández",
+        "Tamame"
       ],
       "father": "lorenzo-hernandez-padre-de-lorenzo-hernandez",
       "observations": [
         "La partida de bautismo de su hijo Francisco (16-12-1656) lo llama Lorenzo Hernández, el mozo."
-      ]
+      ],
+      "mother": "ines-tamame-madre-de-lorenzo-hernandez",
+      "baptism": {
+        "date": "1628-02-06",
+        "place": "El Perdigón",
+        "transcription": "Lorenço. 1628.\n\nEn seis días del mes de febrero de mill y seiscientos y veynte y ocho años, yo Melchior Grª, cura deste lugar del Perdigón, bapticé a Lorenço, hijo de Lorenço Fernández y de Ynés Tamame, su muger, vºs deste dicho lugar; fue su padrino Alº Jirón, y testigos Juº S[ánche]z, Pº Miguel y Migl de la [ilegible], vºs del dicho lugar, yo que en fee de verdad lo firmé. Melchior Grª."
+      },
+      "birth": {
+        "date": "1628-02-06",
+        "place": "El Perdigón",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "maria-de-segovia",
-      "name": "María de Segovia",
+      "name": "María de Segovia de Cabo",
       "givenNames": "María",
       "surnames": [
-        "de Segovia"
-      ]
+        "de Segovia",
+        "de Cabo"
+      ],
+      "father": "alonso-de-segovia-padre-de-maria-de-segovia",
+      "mother": "maria-de-cabo-madre-de-maria-de-segovia",
+      "baptism": {
+        "date": "1623-08-03",
+        "place": "El Perdigón",
+        "note": "La partida no nombra el lugar; la firma el cura de El Perdigón, Melchior García.",
+        "transcription": "María.\n\nEn tres días del mes de agosto de mill y seiscientos y veynte y tres años, yo el dicho cura bapticé a María, hija de Alonso de Segobia y de María de Cavo, su muger, vºs deste dicho lugar, y fue su padrino Alonso de Cavo, su abuelo, y testigos Juº de Sta María y Miguel Matheos, clérigos, y Roque Hernández, con otros muchos vºs del dicho lugar, yo que en fee de verdad firmé. Melchior Grª."
+      },
+      "birth": {
+        "date": "1623-08-03",
+        "place": "El Perdigón",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "maria-bragado-madre-de-bernardo-hernandez",
@@ -23633,11 +23908,25 @@
     },
     {
       "id": "andres-pascual",
-      "name": "Andrés Pascual",
+      "name": "Andrés Pascual Salvador",
       "givenNames": "Andrés",
       "surnames": [
-        "Pascual"
-      ]
+        "Pascual",
+        "Salvador"
+      ],
+      "father": "alonso-pascual-padre-de-andres-pascual",
+      "mother": "catalina-salvador-madre-de-andres-pascual",
+      "baptism": {
+        "date": "1656-01-16",
+        "place": "Torregamones",
+        "note": "La partida no nombra el lugar; se tiene por la de Torregamones, donde nació su hijo Juan.",
+        "transcription": "Andrés.\n\nAño de 1656. En 16 de henero de dicho año baptizé a Andrés, hijo de Alonso Pasqual y de Catalina Salvadora; fue su padrino Domingo Ramos, y por verdad lo firmé ut supra. Antonio de Labrae Sariñana."
+      },
+      "birth": {
+        "date": "1656-01-16",
+        "place": "Torregamones",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "isabel-cordero",
@@ -24851,7 +25140,7 @@
       "baptism": {
         "date": "1636-07-21",
         "place": "Sanzoles",
-        "transcription": "Franco Mrn.\n\nBauticé a Pº Martín, hijo de Franco Mrn, vº de Villalaçán, y de Catalina F[ernánde]z, [ilegible], en 21 de julio de 1636 años; fueron padrinos Pedro Vallejo y Ana [ilegible] de [ilegible]; [ilegible]. Juan Muñoz."
+        "transcription": "Franco Mrn.\n\nBauticé a Pº Martín, hijo de Franco Mrn, vº de Villalaçán, y de Catalina F[ernánde]z, [ilegible], en 21 de julio de 1636 años; fueron padrinos Pedro Vallejo y Ana [ilegible] de [ilegible]; [ilegible]. Ldo Juan Núñez."
       }
     },
     {
@@ -24863,7 +25152,17 @@
       ],
       "origins": [
         "Villalazán"
-      ]
+      ],
+      "burial": {
+        "date": "1662-10-23",
+        "place": "Sanzoles",
+        "transcription": "Franco Martín.\n\nEn beinte y tres del dicho, yo Germo Núñez enterré a Franco Martín, vº desta villa de Sanzoles; llevó los sacramentos; no hizo testamento; hiciéronse honrras y cabo de año, y lo firmé dicho día. Germo Núñez de Salamanca."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 23 de octubre.",
+        "date": "1662-10-22",
+        "place": "Sanzoles"
+      }
     },
     {
       "id": "catalina-fernandez-madre-de-pedro-martin-fernandez",
@@ -24922,7 +25221,18 @@
       "givenNames": "Domingo",
       "surnames": [
         "Hernández"
-      ]
+      ],
+      "burial": {
+        "date": "1670-01-15",
+        "place": "Sanzoles",
+        "note": "El año se lee «670»; la partida está escrita antes de dos asientos de diciembre de 1669.",
+        "transcription": "Domingo Hernández.\n\nEn quinze de henero de 670 enterré yo Diego Fz López, beneficiado, a Domingo Hernández, siendo theniente del cura de la villa de Sanzoles por mis señores Deán y Cabildo, y por verdad lo firmé. Diego Fz López, beneficiado."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 15 de enero.",
+        "date": "1670-01-14",
+        "place": "Sanzoles"
+      }
     },
     {
       "id": "magdalena-vaquero",
@@ -24930,7 +25240,18 @@
       "givenNames": "Magdalena",
       "surnames": [
         "Vaquero"
-      ]
+      ],
+      "burial": {
+        "date": "1661-09-07",
+        "place": "Sanzoles",
+        "note": "Enterrada en el cuerpo de la iglesia.",
+        "transcription": "Madalena Vaquera.\n\nEn siete de sepᵉ de mil y seis cientos y sesenta y un años yo el Ldo Manuel Marbán, cura teniente desta villa de Sanzoles, enterré a Madalena Baquera, vª desta villa; llevó los sacramentos; está enterrada en el cuerpo de la yglesia; hízosele entierro, honrras y cabo de año y novenario cantados; no hizo testamento."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 7 de septiembre.",
+        "date": "1661-09-06",
+        "place": "Sanzoles"
+      }
     },
     {
       "id": "juan-martin-hernandez",
@@ -25026,19 +25347,56 @@
     },
     {
       "id": "domingo-calvo",
-      "name": "Domingo Calvo",
+      "name": "Domingo Calvo Álvarez",
       "givenNames": "Domingo",
       "surnames": [
-        "Calvo"
+        "Calvo",
+        "Álvarez"
+      ],
+      "father": "domingo-calvo-padre-de-domingo-calvo",
+      "mother": "maria-alvarez-madre-de-domingo-calvo",
+      "baptism": {
+        "date": "1610-09-22",
+        "place": "Arcenillas",
+        "note": "La partida registra los santos óleos y no nombra el lugar: Arcenillas, por el cura Pedro Delgado, que firma allí otros bautismos de esos años.",
+        "transcription": "Domingo.\n\nEn veinte y dos de septiembre de mil y seiscientos y diez años puse los santos óleos a Domingo Calbo, hijo de Domingo Calbo y de María Álvarez, su muger; fueron sus padrinos Franca Ruesgo y Ysabel de Mayoraigos; testigos Juº Fernández y Juº de Montalbo, y por ser así verdad lo firmé fecha ut supra. Pedro Delgado."
+      },
+      "birth": {
+        "date": "1610-09-22",
+        "place": "Arcenillas",
+        "note": "La fecha es la de los óleos; no consta la del nacimiento."
+      },
+      "death": {
+        "date": "1659-05-11",
+        "place": "Arcenillas",
+        "note": "Enterrado en la capilla mayor de la iglesia de Arcenillas.",
+        "transcription": "Domingo.\n\nEn once de maio de 659 años murió Domingo Calbo, vecino deste lugar de Arcenillas; rescibió todos los sacramentos; enterrose en la capilla maior de la yglesia; hiço testamento; dexó por su alma ciento y cinquenta misas, las cinquenta que se digan en esta yglesia de Arcenillas, las otras cinquenta en el convento de los descalços de Çamora y las cinquenta en el convento de la Trinidad de la dicha ciudad; hiçosele su intierro y honras y cabo de año; fueron sus testamentarios Alonso Manso y Alonso García, y en fe dello lo firmé ut supra. Ldo Gil Fernández."
+      },
+      "observations": [
+        "La partida de fallecimiento (11-05-1659) dice que dejó por su alma ciento cincuenta misas y nombra testamentarios a Alonso Manso y Alonso García."
       ]
     },
     {
       "id": "maria-garcia-madre-de-francisco-calvo",
-      "name": "María García",
+      "name": "María García Cabrero",
       "givenNames": "María",
       "surnames": [
-        "García"
-      ]
+        "García",
+        "Cabrero"
+      ],
+      "father": "antonio-garcia-padre-de-maria-garcia",
+      "mother": "maria-cabrero-madre-de-maria-garcia",
+      "baptism": {
+        "date": "1616-07-03",
+        "place": "Arcenillas",
+        "note": "La partida no nombra el lugar: Arcenillas, por el cura Pedro Delgado, que firma allí otros bautismos de esos años y los óleos de su marido Domingo Calvo (1610).",
+        "transcription": "María.\n\nEn tres de julio de mil y seiscientos y diez y seis años bapticé a María, hija de Antº García y de María Cabrera, su muger; fueron sus padrinos Antº Rodríguez y Ysabel Mazariegos; testigos Juº Fernández y Luis Mella, y por ser verdad lo firmé, fecha ut supra. Pedro Delgado."
+      },
+      "birth": {
+        "date": "1616-07-03",
+        "place": "Arcenillas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "ana-martin",
@@ -25079,11 +25437,25 @@
     },
     {
       "id": "victoria-jambrina",
-      "name": "Victoria Jambrina",
+      "name": "Victoria Jambrina Hernández",
       "givenNames": "Victoria",
       "surnames": [
-        "Jambrina"
-      ]
+        "Jambrina",
+        "Hernández"
+      ],
+      "father": "antonio-jambrina-padre-de-victoria-jambrina",
+      "mother": "ana-hernandez-madre-de-victoria-jambrina",
+      "baptism": {
+        "date": "1608-04-23",
+        "place": "Arcenillas",
+        "note": "La partida no nombra el lugar: Arcenillas, por el cura Pedro Delgado, que firma allí el bautismo de su marido Pascual Martín en 1606.",
+        "transcription": "En veynte y tres de abril de mill y seiscientos y ocho años baptizé a Vitoria, hija de Antº Xambrina y de Ana Hernández, su muger; fueron sus padrinos Juº Fernández y Ysabel Mazariegos; testigos Andrés Hernández y Juº de [ilegible]; y por ser verdad lo firmé, fecha ut supra. Pedro Delgado."
+      },
+      "birth": {
+        "date": "1608-04-23",
+        "place": "Arcenillas",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "bernardo-calvo-martin",
@@ -25392,6 +25764,20 @@
       "givenNames": "Domingo",
       "surnames": [
         "Ortiz"
+      ],
+      "burial": {
+        "date": "1702-11-21",
+        "place": "Abelón",
+        "note": "En la iglesia de San Martín de Abelón.",
+        "transcription": "Domingo Ortizo. Cumplido.\n\nEn beinte y uno de nobiembre de dicho año yo el infrascripto cura theniente enterré a Domingo Ortizo, el qual había confesado y había hecho testamento; enterrose en esta parroquia del Señor San Martín, al frente de la [ilegible] de abaxo, [ilegible]; tomó por su ánima [ilegible] ducados, y que dellos se paguen [ilegible]; fueron sus testamentarios Juan Ortizo y Franco Ortizo y Domingo Luengo, y para que conste lo firmé en dicho día, mes y año. Joseph Carrión Cossano."
+      },
+      "death": {
+        "note": "La partida solo expresa el entierro, el 21 de noviembre.",
+        "date": "1702-11-20",
+        "place": "Abelón"
+      },
+      "observations": [
+        "La partida de entierro (21-11-1702) nombra testamentarios a Juan y Francisco Ortizo y a Domingo Luengo."
       ]
     },
     {
@@ -25400,7 +25786,12 @@
       "givenNames": "Ana",
       "surnames": [
         "Blanco"
-      ]
+      ],
+      "death": {
+        "place": "Abelón",
+        "note": "La partida es del 11 de septiembre; el año no se lee (el margen del asiento anterior cita una visita de 1712).",
+        "transcription": "Testamentarios Domingo Ortixo, Domingo Gabriel.\n\nEn onze de septiembre de [ilegible] murió Ana Blanca; recibió los santos sacramentos; hizo testamento y está cumplido."
+      }
     },
     {
       "id": "domingo-garrote-ortijo",
@@ -25804,7 +26195,17 @@
         "Pérez"
       ],
       "observations": [
-        "La partida de matrimonio de su hijo Juan (16-01-1721) lo llama vecino de San Frontis, con su mujer Isabel de Luelmo."
+        "La partida de matrimonio de su hijo Juan (16-01-1721) lo llama vecino de San Frontis, con su mujer Isabel de Luelmo.",
+        "La partida de su matrimonio con Isabel Luelmo (17-09-1688) lo llama vecino de San Frontis y viudo de Juana Martín."
+      ],
+      "marriages": [
+        {
+          "spouse": "isabel-de-luelmo",
+          "date": "1688-09-17",
+          "place": "Morales del Vino",
+          "note": "Con dispensa de Su Santidad para un impedimento. Velados el 17 de septiembre de 1688, según el margen. Él era viudo de Juana Martín.",
+          "transcription": "Joan Pérez y Ysauel de Luelmo. En 17 de septe de 88 velé a los contenidos.\n\nEn diez y siete días del mes de setiembre de este pressente año de mil y seiscientos y ochenta y ocho desposé por palabras de pressente que hazen verdadero matrimonio, con orden del Sr Provisor de este obispado y la dispensa de Su Santidad, a Joan Pérez, vº de San Frontes, viudo de Juana Martín, y a Ysauel de Luelmo, aviendo precedido las tres amonestaciones que manda el Sto Concilio de Trento, de que no resultó impedimento más que el que estaba dispensado; fueron testigos el Ldo Juan Martín y el Ldo Gerónimo de Luelmo, y en fee de ello lo firmé ut supra. Ldo Diego de Mena."
+        }
       ]
     },
     {
@@ -25816,6 +26217,15 @@
       ],
       "origins": [
         "Zamora"
+      ],
+      "marriages": [
+        {
+          "spouse": "juan-perez-padre-de-juan-perez-de-luelmo",
+          "date": "1688-09-17",
+          "place": "Morales del Vino",
+          "note": "Con dispensa de Su Santidad para un impedimento. Velados el 17 de septiembre de 1688, según el margen. Él era viudo de Juana Martín.",
+          "transcription": "Joan Pérez y Ysauel de Luelmo. En 17 de septe de 88 velé a los contenidos.\n\nEn diez y siete días del mes de setiembre de este pressente año de mil y seiscientos y ochenta y ocho desposé por palabras de pressente que hazen verdadero matrimonio, con orden del Sr Provisor de este obispado y la dispensa de Su Santidad, a Joan Pérez, vº de San Frontes, viudo de Juana Martín, y a Ysauel de Luelmo, aviendo precedido las tres amonestaciones que manda el Sto Concilio de Trento, de que no resultó impedimento más que el que estaba dispensado; fueron testigos el Ldo Juan Martín y el Ldo Gerónimo de Luelmo, y en fee de ello lo firmé ut supra. Ldo Diego de Mena."
+        }
       ]
     },
     {
@@ -26267,10 +26677,11 @@
     },
     {
       "id": "ana-de-luelmo",
-      "name": "Ana Luelmo",
+      "name": "Ana Luelmo Martín",
       "givenNames": "Ana",
       "surnames": [
-        "Luelmo"
+        "Luelmo",
+        "Martín"
       ],
       "marriages": [
         {
@@ -26279,7 +26690,20 @@
           "place": "Morales del Vino",
           "transcription": "Joseph Perez y Ana de Luelmo\n\nEn el lugar de Morales a quatro dias del mes de Marzo digo de abril de mil y seiscientos y sesenta y seis años de licencia del [ilegible] Miguel de Villalpando Cura propio del dicho lugar de morales [ilegible] en tres dias festibos al ofertorio de la misa mayor en el dicho lugar de Morales [ilegible] entre Joseph perez [ilegible] y ana de Luelmo [ilegible] del lugar de Morales [ilegible] por palabras de presente [ilegible] matrimonio siendo testigos [ilegible] Miguel de Villalpando Cura del dicho lugar de Morales y Alonso [ilegible] y Pedro Garcia [ilegible] y lo firme"
         }
-      ]
+      ],
+      "father": "bartolome-de-luelmo",
+      "mother": "ines-martin-madre-de-maria-de-luelmo",
+      "baptism": {
+        "date": "1648-11-14",
+        "place": "Morales del Vino",
+        "note": "La partida no nombra el lugar; la firma el cura de Morales del Vino, el Ldo Miguel de Villalpando.",
+        "transcription": "Ana.\n\nEn 14 de nobienbre de 1648 años doi fe que bapticé a Ana, hija de Bartolomé de Luelmo y de Ynés Martín; fueron padrinos Pedro de Luelmo y Felipa Martín; testigos Gerónimo Sol y Juº de Luelmo, yerno de Alº [ilegible], y lo firmé. El Ldo Miguel de Villalpando."
+      },
+      "birth": {
+        "date": "1648-11-14",
+        "place": "Morales del Vino",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "domingo-hernandez-padre-de-teresa-hernandez-hernandez",
@@ -26375,11 +26799,24 @@
     },
     {
       "id": "isabel-fernandez-madre-de-micaela-hernandez-fernandez",
-      "name": "Isabel Fernández",
+      "name": "Isabel Fernández Hista",
       "givenNames": "Isabel",
       "surnames": [
-        "Fernández"
-      ]
+        "Fernández",
+        "Hista"
+      ],
+      "father": "domingo-hernandez-padre-de-isabel-fernandez",
+      "mother": "emerenciana-hista-madre-de-isabel-fernandez",
+      "baptism": {
+        "date": "1656-02-28",
+        "place": "Tardobispo",
+        "transcription": "Ysabel Hernández.\n\nEn beinte y ocho días del mes de febrero de mil y seiscientos y cinquenta y seis años, yo Alonso Hernández Carrasco, cura propio deste lugar de Tardobispo y anexos, bapticé a Ysabel, hija de Domingo Hz y de Merenciana Hista, su muger, vºs deste lugar; fueron sus padrinos Alonso Rodrigo y Ysabel Ponze; testigos Alonso Calbo y Miguel Bazán, todos vºs deste lugar, y lo firmé yo el cura. Alonso Hernández Carrasco."
+      },
+      "birth": {
+        "date": "1656-02-28",
+        "place": "Tardobispo",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "teresa-hernandez-hernandez",
@@ -26521,8 +26958,7 @@
         "La partida de matrimonio de su hijo Jerónimo (03-03-1714) lo da por difunto."
       ],
       "siblings": [
-        "maria-de-luelmo-madre-de-juan-brioso",
-        "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso"
+        "maria-de-luelmo-madre-de-juan-brioso"
       ]
     },
     {
@@ -28168,50 +28604,6 @@
         "alonso-garcia"
       ],
       "father": "martin-garcia"
-    },
-    {
-      "id": "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso",
-      "name": "Ana Luelmo Martín",
-      "givenNames": "Ana",
-      "surnames": [
-        "Luelmo",
-        "Martín"
-      ],
-      "observations": [
-        "Relación de hermandad recogida en las observaciones de María Luelmo Martín.",
-        "Bautizada el 14 de noviembre de 1648.",
-        "La observación original recoge únicamente su nombre de pila.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ],
-      "siblings": [
-        "maria-de-luelmo-madre-de-juan-brioso",
-        "juan-de-luelmo-padre-de-jeronimo"
-      ],
-      "baptism": {
-        "date": "1648-11-14"
-      }
-    },
-    {
-      "id": "catalina-jurado-hermano-de-maria-jurado",
-      "name": "Catalina Jurado Delgado",
-      "givenNames": "Catalina",
-      "surnames": [
-        "Jurado",
-        "Delgado"
-      ],
-      "observations": [
-        "Relación de hermandad recogida en las observaciones de María Jurado Delgado.",
-        "Bautizada en abril de 1630 en Casaseca de las Chanas.",
-        "La observación original recoge únicamente su nombre de pila.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ],
-      "siblings": [
-        "maria-jurado"
-      ],
-      "baptism": {
-        "date": "1630-04",
-        "place": "Casaseca de las Chanas"
-      }
     },
     {
       "id": "teresa-pozo-hermano-de-angela-pozo-madre-de-maria-anton",
@@ -33375,28 +33767,41 @@
     },
     {
       "id": "juan-hernandez-padre-de-domingo-hernandez",
-      "name": "Juan Hernández",
+      "name": "Juan Hernández Gata",
       "givenNames": "Juan",
       "surnames": [
-        "Hernández"
+        "Hernández",
+        "Gata"
       ],
       "observations": [
         "La partida de matrimonio de su hijo Domingo (Tardobispo, 26-08-1707) lo llama Juan Hernández, marido de María Nogal, y los da por difuntos, vecinos que fueron de Pereruela; la de bautismo de Domingo (Pereruela, 1676) lo llama Juan Fernández."
-      ]
+      ],
+      "father": "juan-hernandez-abuelo-de-domingo-hernandez",
+      "mother": "pascuala-gata-abuela-de-domingo-hernandez",
+      "baptism": {
+        "note": "La partida es del 11 de agosto; el año, tapado por un rasgo, no se lee (hacia 1640: el asiento anterior lo firma Antonio de Álava de Monguía, el cura que bautizó a Catalina Colástico en 1640). No nombra el lugar.",
+        "transcription": "Joan.\n\nEn once de agosto de mil y seiscientos y [ilegible] yo el Ldo Pº Sánchez de Alcántara bauticé a Joan, hijo de Juº Hernández y Pasquala Gata; fueron sus padrinos Joan Nasero y María Ponce, y por verdad lo firmé. Pº Sánchez de Alcántara."
+      }
     },
     {
       "id": "juan-hernandez-padre-de-micaela-hernandez",
-      "name": "Juan Hernández",
+      "name": "Juan Hernández Teruelo",
       "givenNames": "Juan",
       "surnames": [
-        "Hernández"
+        "Hernández",
+        "Teruelo"
       ],
       "origins": [
         "Tardobispo"
       ],
       "observations": [
         "La partida de matrimonio de su hija Micaela (Tardobispo, 26-08-1707) lo da por difunto, vecino y natural de Tardobispo, y marido de Isabel Fernández; la de bautismo de Micaela (1688) lo llama Juan Fernández."
-      ]
+      ],
+      "mother": "isabel-teruelo-abuela-de-micaela-hernandez",
+      "baptism": {
+        "note": "La partida es del 14 de septiembre «de dicho año»; el año del asiento anterior no se lee. No nombra el lugar; la firma un arcipreste, como los curas de Tardobispo del siglo XVIII.",
+        "transcription": "Hernz.\n\nA catorze de setiembre de dicho año bapticé un niño que se llamó Juº, hijo de [ilegible] Hernández i de Isabel Teruela; fueron padrinos Alonso Bicente i María Hernández, dellas; firmelo ut supra. Ldo Espinosa, Arcipreste."
+      }
     },
     {
       "id": "bautista-hijo-de-andres-martin",
@@ -33550,7 +33955,8 @@
         "Hernández"
       ],
       "observations": [
-        "Fue padrino de bautismo de su nieto Francisco Hernández de Segovia (El Perdigón, 16-12-1656); la partida lo llama «su agüelo» y llama a su hijo, padre del niño, Lorenzo Hernández el mozo."
+        "Fue padrino de bautismo de su nieto Francisco Hernández de Segovia (El Perdigón, 16-12-1656); la partida lo llama «su agüelo» y llama a su hijo, padre del niño, Lorenzo Hernández el mozo.",
+        "La partida de bautismo de su hijo Lorenzo (06-02-1628) lo llama Lorenzo Fernández, marido de Inés Tamame."
       ]
     },
     {
@@ -33795,14 +34201,26 @@
     },
     {
       "id": "maria-herrero-madre-de-mariana-rodriguez",
-      "name": "María Herrero",
+      "name": "María Herrero Lastra",
       "givenNames": "María",
       "surnames": [
-        "Herrero"
+        "Herrero",
+        "Lastra"
       ],
       "observations": [
         "La partida de bautismo de su hija Mariana (Pereruela, 28-10-1688), muy borrosa, la llama María Herr…, mujer de José Rodríguez; el final del apellido se lee con reservas."
-      ]
+      ],
+      "father": "francisco-herrero-padre-de-maria-herrero-lastra",
+      "mother": "maria-lastra-madre-de-maria-herrero",
+      "baptism": {
+        "date": "1658-01-24",
+        "note": "La partida no nombra el lugar.",
+        "transcription": "María.\n\nEn beinte i quatro de henero de mil seiscientos cincuenta i ocho bauptizé a María, hija de Franco Herrero i de María Lastra, su muger; fueron sus padrinos Pedro Pérez i María Lastra, y lo firmé ut supra. Pedro Tablado."
+      },
+      "birth": {
+        "date": "1658-01-24",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
     },
     {
       "id": "luisa-nieto-madre-de-juan-marques-nieto",
@@ -34216,6 +34634,629 @@
       "observations": [
         "Figura en una lista de confirmados de Moraleja del Vino como hijo de Pedro Salvador y de María Rodríguez; el nombre de pila, al margen, y la segunda palabra del nombre del padre («Hurtado») se leen con reservas.",
         "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
+      ]
+    },
+    {
+      "id": "anton-delgado-padre-de-alonso-delgado",
+      "name": "Antón Delgado",
+      "givenNames": "Antón",
+      "surnames": [
+        "Delgado"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Alonso (Casaseca de las Chanas, 02-05-1616) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "isabel-galan-madre-de-alonso-delgado",
+      "name": "Isabel Galán",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Galán"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Alonso (Casaseca de las Chanas, 02-05-1616) la llama Isabel Galana."
+      ]
+    },
+    {
+      "id": "domingo-garcia-padre-de-alonso-garcia",
+      "name": "Domingo García",
+      "givenNames": "Domingo",
+      "surnames": [
+        "García"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Alonso (Casaseca de las Chanas, 08-08-1617) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "francisca-blanco-madre-de-alonso-garcia",
+      "name": "Francisca Blanco",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Blanco"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Alonso (Casaseca de las Chanas, 08-08-1617) la llama Francisca Blanca."
+      ]
+    },
+    {
+      "id": "matias-hernandez-padre-de-ana-hernandez",
+      "name": "Matías Hernández",
+      "givenNames": "Matías",
+      "surnames": [
+        "Hernández"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Ana (Sanzoles, 03-06-1635) lo nombra como padre. El nombre de pila se lee con reservas."
+      ]
+    },
+    {
+      "id": "antona-de-la-iglesia-madre-de-ana-hernandez",
+      "name": "Antona de la Iglesia",
+      "givenNames": "Antona",
+      "surnames": [
+        "de la Iglesia"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Ana (Sanzoles, 03-06-1635) la llama Antona de la Yglesia. El nombre de pila se lee con reservas."
+      ]
+    },
+    {
+      "id": "juan-morales-padre-de-ana-morales",
+      "name": "Juan Morales",
+      "givenNames": "Juan",
+      "surnames": [
+        "Morales"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Ana (Casaseca de las Chanas, 12-08-1648) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "maria-simon-madre-de-ana-morales",
+      "name": "María Simón",
+      "givenNames": "María",
+      "surnames": [
+        "Simón"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Ana (Casaseca de las Chanas, 12-08-1648) la llama María Simona."
+      ]
+    },
+    {
+      "id": "alonso-pascual-padre-de-andres-pascual",
+      "name": "Alonso Pascual",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Pascual"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Andrés (16-01-1656) lo llama Alonso Pasqual."
+      ]
+    },
+    {
+      "id": "catalina-salvador-madre-de-andres-pascual",
+      "name": "Catalina Salvador",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Salvador"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Andrés (16-01-1656) la llama Catalina Salvadora."
+      ]
+    },
+    {
+      "id": "pedro-morales-padre-de-blas-morales",
+      "name": "Pedro Morales",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Morales"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Blas (Casaseca de las Chanas, 14-04-1641) lo llama Pedro de Morales."
+      ]
+    },
+    {
+      "id": "ines-mateo-madre-de-blas-morales",
+      "name": "Inés Mateo",
+      "givenNames": "Inés",
+      "surnames": [
+        "Mateo"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Blas (Casaseca de las Chanas, 14-04-1641) la llama Inés Matea. El nombre se lee con reservas."
+      ]
+    },
+    {
+      "id": "miguel-alonso-padre-de-catalina-alonso",
+      "name": "Miguel Alonso",
+      "givenNames": "Miguel",
+      "surnames": [
+        "Alonso"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Catalina (Casaseca de las Chanas, 23 de junio, año ilegible) lo nombra como padre. No se lee el nombre de pila de la madre; su apellido está abreviado «Gª» (García)."
+      ]
+    },
+    {
+      "id": "sebastian-colastico-padre-de-catalina-colastico",
+      "name": "Sebastián Colástico",
+      "givenNames": "Sebastián",
+      "surnames": [
+        "Colástico"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Catalina (15-07-1640) lo llama Sebastián de Colástica. El apellido se lee con reservas."
+      ]
+    },
+    {
+      "id": "catalina-carnero-madre-de-catalina-colastico",
+      "name": "Catalina Carnero",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Carnero"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Catalina (15-07-1640) la nombra como madre."
+      ]
+    },
+    {
+      "id": "domingo-calvo-padre-de-domingo-calvo",
+      "name": "Domingo Calvo",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Calvo"
+      ],
+      "observations": [
+        "La partida de óleos de su hijo Domingo (22-09-1610) lo llama Domingo Calbo."
+      ]
+    },
+    {
+      "id": "maria-alvarez-madre-de-domingo-calvo",
+      "name": "María Álvarez",
+      "givenNames": "María",
+      "surnames": [
+        "Álvarez"
+      ],
+      "observations": [
+        "La partida de óleos de su hijo Domingo (22-09-1610) la nombra como madre."
+      ]
+    },
+    {
+      "id": "domingo-gil-padre-de-felipe-gil",
+      "name": "Domingo Gil",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Gil"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Felipe (08-05-1622) lo nombra como padre. En la familia se le conoce como Domingo Gil Triguero; la partida no le da segundo apellido."
+      ]
+    },
+    {
+      "id": "maria-martin-madre-de-felipe-gil",
+      "name": "María Martín",
+      "givenNames": "María",
+      "surnames": [
+        "Martín"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Felipe (08-05-1622) la nombra como madre."
+      ]
+    },
+    {
+      "id": "gabriel-andres-padre-de-mariana-andres",
+      "name": "Gabriel Andrés",
+      "givenNames": "Gabriel",
+      "surnames": [
+        "Andrés"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Fresnadillo, 22-07-1668) lo nombra como padre."
+      ],
+      "marriages": [
+        {
+          "spouse": "magdalena-carazo-madre-de-mariana-andres",
+          "date": "1649-11-24",
+          "place": "Fresnadillo",
+          "note": "Desposados y velados en la misma ceremonia por don Gregorio de Olmedo, cura de Gáname, con orden del cura de Fresnadillo.",
+          "transcription": "Gabriel Andrés y Magdalena Carraza recivieron las bendiciones nupciales.\n\nEn Fernadillo, a veinte y quatro de nobiembre de mill y seiscientos y quarenta y nueve años, con orden de mí Don Antonio de Lossada, cura propio de el dicho lugar, desposó y veló Don Gregorio de Olmedo, cura propio de Gáname, según orden de la Santa Yglesia, a Gabriel Andrés, vecino de este lugar, y Magdalena Carraza, natural de Corrales; fueron testigos de el matrimonio Don Antonio de Valencia, cura propio de Malillos, el Ldo Gullón, cura de Abelón, el Ldo Fernando, cura de Torre de Frades, Pº Figal y otros muchos, y yo el dicho cura [ilegible], lo firmo. Don Antonio de Lossada y Barrientos."
+        }
+      ]
+    },
+    {
+      "id": "magdalena-carazo-madre-de-mariana-andres",
+      "name": "Magdalena Carazo",
+      "givenNames": "Magdalena",
+      "surnames": [
+        "Carazo"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Fresnadillo, 22-07-1668) la llama Madalena Caraça."
+      ],
+      "origins": [
+        "Corrales del Vino"
+      ],
+      "marriages": [
+        {
+          "spouse": "gabriel-andres-padre-de-mariana-andres",
+          "date": "1649-11-24",
+          "place": "Fresnadillo",
+          "note": "Desposados y velados en la misma ceremonia por don Gregorio de Olmedo, cura de Gáname, con orden del cura de Fresnadillo.",
+          "transcription": "Gabriel Andrés y Magdalena Carraza recivieron las bendiciones nupciales.\n\nEn Fernadillo, a veinte y quatro de nobiembre de mill y seiscientos y quarenta y nueve años, con orden de mí Don Antonio de Lossada, cura propio de el dicho lugar, desposó y veló Don Gregorio de Olmedo, cura propio de Gáname, según orden de la Santa Yglesia, a Gabriel Andrés, vecino de este lugar, y Magdalena Carraza, natural de Corrales; fueron testigos de el matrimonio Don Antonio de Valencia, cura propio de Malillos, el Ldo Gullón, cura de Abelón, el Ldo Fernando, cura de Torre de Frades, Pº Figal y otros muchos, y yo el dicho cura [ilegible], lo firmo. Don Antonio de Lossada y Barrientos."
+        }
+      ]
+    },
+    {
+      "id": "domingo-hernandez-padre-de-isabel-fernandez",
+      "name": "Domingo Hernández",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Hernández"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Isabel (Tardobispo, 28-02-1656) lo llama Domingo Hz."
+      ]
+    },
+    {
+      "id": "emerenciana-hista-madre-de-isabel-fernandez",
+      "name": "Emerenciana Hista",
+      "givenNames": "Emerenciana",
+      "surnames": [
+        "Hista"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Isabel (Tardobispo, 28-02-1656) la llama Merenciana Hista. El apellido, abreviado y partido entre dos líneas, se lee con reservas."
+      ]
+    },
+    {
+      "id": "anton-carbajal-padre-de-juan-carbajal",
+      "name": "Antón Carbajal",
+      "givenNames": "Antón",
+      "surnames": [
+        "Carbajal"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Juan (Casaseca de las Chanas, 05-10-1624) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "isabel-galan-madre-de-juan-carbajal",
+      "name": "Isabel Galán",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Galán"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Juan (Casaseca de las Chanas, 05-10-1624) la llama Isabel Galana."
+      ]
+    },
+    {
+      "id": "juan-hernandez-abuelo-de-domingo-hernandez",
+      "name": "Juan Hernández",
+      "givenNames": "Juan",
+      "surnames": [
+        "Hernández"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Juan (11 de agosto, año ilegible) lo nombra como padre. El nombre de pila se lee con reservas."
+      ]
+    },
+    {
+      "id": "pascuala-gata-abuela-de-domingo-hernandez",
+      "name": "Pascuala Gata",
+      "givenNames": "Pascuala",
+      "surnames": [
+        "Gata"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Juan (11 de agosto, año ilegible) la nombra como madre. El apellido se lee con reservas."
+      ]
+    },
+    {
+      "id": "isabel-teruelo-abuela-de-micaela-hernandez",
+      "name": "Isabel Teruelo",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Teruelo"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Juan (14 de septiembre, año ilegible) la llama Isabel Teruela. El nombre de pila del padre no se lee."
+      ]
+    },
+    {
+      "id": "maria-rodriguez-madre-de-juana-tobal",
+      "name": "María Rodríguez",
+      "givenNames": "María",
+      "surnames": [
+        "Rodríguez"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Juana (Casaseca de las Chanas, 15-09-1647) la nombra como madre. El nombre de pila del padre no se lee."
+      ]
+    },
+    {
+      "id": "ines-tamame-madre-de-lorenzo-hernandez",
+      "name": "Inés Tamame",
+      "givenNames": "Inés",
+      "surnames": [
+        "Tamame"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Lorenzo (El Perdigón, 06-02-1628) la nombra como madre."
+      ]
+    },
+    {
+      "id": "domingo-valladolid-padre-de-luis-de-valladolid",
+      "name": "Domingo Valladolid",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Valladolid"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Luis (Casaseca de las Chanas, 02-02-1657) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "maria-gaitan-madre-de-luis-de-valladolid",
+      "name": "María Gaitán",
+      "givenNames": "María",
+      "surnames": [
+        "Gaitán"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Luis (Casaseca de las Chanas, 02-02-1657) la llama María Gaitana."
+      ]
+    },
+    {
+      "id": "alonso-moreno-padre-de-manuel-moreno",
+      "name": "Alonso Moreno",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Moreno"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Manuel (Casaseca de las Chanas, 04-08-1648) lo nombra como padre."
+      ],
+      "marriages": [
+        {
+          "spouse": "maria-esteban-madre-de-manuel-moreno",
+          "place": "Casaseca de las Chanas",
+          "note": "Velados el 1 de septiembre de 1646; la partida dice que ya estaban casados.",
+          "transcription": "En primero de setiembre de dicho año yo el dicho Cura velé a Alonso Moreno y a María Esteban, vecinos del dicho lugar, que estaban antes casados por matrimonio; siendo testigos Alonso Jurado, Luis Delgado y Domingo Alonso, y lo firmé. Ldo de Torre."
+        }
+      ]
+    },
+    {
+      "id": "maria-esteban-madre-de-manuel-moreno",
+      "name": "María Esteban",
+      "givenNames": "María",
+      "surnames": [
+        "Esteban"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Manuel (Casaseca de las Chanas, 04-08-1648) la nombra como madre."
+      ],
+      "marriages": [
+        {
+          "spouse": "alonso-moreno-padre-de-manuel-moreno",
+          "place": "Casaseca de las Chanas",
+          "note": "Velados el 1 de septiembre de 1646; la partida dice que ya estaban casados.",
+          "transcription": "En primero de setiembre de dicho año yo el dicho Cura velé a Alonso Moreno y a María Esteban, vecinos del dicho lugar, que estaban antes casados por matrimonio; siendo testigos Alonso Jurado, Luis Delgado y Domingo Alonso, y lo firmé. Ldo de Torre."
+        }
+      ]
+    },
+    {
+      "id": "juan-corralino-padre-de-maria-corralino",
+      "name": "Juan Corralino",
+      "givenNames": "Juan",
+      "surnames": [
+        "Corralino"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Casaseca de las Chanas, 19-09-1613) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "maria-dominguez-madre-de-maria-corralino",
+      "name": "María Domínguez",
+      "givenNames": "María",
+      "surnames": [
+        "Domínguez"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Casaseca de las Chanas, 19-09-1613) la nombra como madre."
+      ]
+    },
+    {
+      "id": "alonso-de-segovia-padre-de-maria-de-segovia",
+      "name": "Alonso de Segovia",
+      "givenNames": "Alonso",
+      "surnames": [
+        "de Segovia"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (El Perdigón, 03-08-1623) lo llama Alonso de Segobia."
+      ]
+    },
+    {
+      "id": "maria-de-cabo-madre-de-maria-de-segovia",
+      "name": "María de Cabo",
+      "givenNames": "María",
+      "surnames": [
+        "de Cabo"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (El Perdigón, 03-08-1623) la llama María de Cavo."
+      ],
+      "father": "alonso-de-cabo-padre-de-maria-de-cabo"
+    },
+    {
+      "id": "alonso-de-cabo-padre-de-maria-de-cabo",
+      "name": "Alonso de Cabo",
+      "givenNames": "Alonso",
+      "surnames": [
+        "de Cabo"
+      ],
+      "observations": [
+        "Fue padrino de bautismo de su nieta María de Segovia (El Perdigón, 03-08-1623); la partida lo llama Alonso de Cavo, «su abuelo», sin decir por qué lado. Se le tiene por padre de María de Cabo por el apellido."
+      ]
+    },
+    {
+      "id": "antonio-garcia-padre-de-maria-garcia",
+      "name": "Antonio García",
+      "givenNames": "Antonio",
+      "surnames": [
+        "García"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (03-07-1616) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "maria-cabrero-madre-de-maria-garcia",
+      "name": "María Cabrero",
+      "givenNames": "María",
+      "surnames": [
+        "Cabrero"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (03-07-1616) la llama María Cabrera."
+      ]
+    },
+    {
+      "id": "martin-herrero-padre-de-maria-herrero",
+      "name": "Martín Herrero",
+      "givenNames": "Martín",
+      "surnames": [
+        "Herrero"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (01-09-1638) lo nombra como padre. En el bautismo de su nieta Ana María de Chaves (Pereruela, 13-04-1665) fue madrina María Domínguez, «muger de Martín Herrero»; no consta si es él, casado de nuevo."
+      ]
+    },
+    {
+      "id": "maria-herrera-madre-de-maria-herrero",
+      "name": "María de Herrera",
+      "givenNames": "María",
+      "surnames": [
+        "de Herrera"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (01-09-1638) la llama María Herrera."
+      ]
+    },
+    {
+      "id": "francisco-herrero-padre-de-maria-herrero-lastra",
+      "name": "Francisco Herrero",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Herrero"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (24-01-1658) lo nombra como padre."
+      ]
+    },
+    {
+      "id": "maria-lastra-madre-de-maria-herrero",
+      "name": "María Lastra",
+      "givenNames": "María",
+      "surnames": [
+        "Lastra"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (24-01-1658) la nombra como madre."
+      ]
+    },
+    {
+      "id": "domingo-lorenzo-padre-de-maria-lorenzo",
+      "name": "Domingo Lorenzo",
+      "givenNames": "Domingo",
+      "surnames": [
+        "Lorenzo"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Malillos, 07-05-1634) lo llama Domingo Lorenço."
+      ]
+    },
+    {
+      "id": "maria-rubiano-madre-de-maria-lorenzo",
+      "name": "María Rubiano",
+      "givenNames": "María",
+      "surnames": [
+        "Rubiano"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija María (Malillos, 07-05-1634) la llama María Rubiana."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-miguel-de-pereruela",
+      "name": "María Pereruela Lucas",
+      "givenNames": "María",
+      "surnames": [
+        "Pereruela",
+        "Lucas"
+      ],
+      "father": "miguel-de-pereruela",
+      "mother": "lucia-lucas",
+      "observations": [
+        "Su partida de bautismo (Malillos, 14-06-1634) la llama hija de Miguel de Pereruela y de Lucía Lucas, padres de Lucas Pereruela (1644)."
+      ],
+      "baptism": {
+        "date": "1634-06-14",
+        "place": "Malillos",
+        "transcription": "María.\n\nEn catorce de junio de 1634 bapticé yo Manuel de Lanaba, cura teniente de Malillos, a María, hija de Migl de Pereruela y de Lucía Lucas, su muger; fueron sus padrinos Antº Martín y Ana Rodríguez, y lo firmé. Manuel de Lanaba."
+      },
+      "birth": {
+        "date": "1634-06-14",
+        "place": "Malillos",
+        "note": "La fecha es la del bautismo; no consta la del nacimiento."
+      }
+    },
+    {
+      "id": "pedro-delgado-padre-de-miguel-delgado",
+      "name": "Pedro Delgado",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Delgado"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Miguel (Casaseca de las Chanas, 13-10-1632) lo llama Pedro Delgado, el Negrillo."
+      ]
+    },
+    {
+      "id": "marcela-rodriguez-madre-de-miguel-delgado",
+      "name": "Marcela Rodríguez",
+      "givenNames": "Marcela",
+      "surnames": [
+        "Rodríguez"
+      ],
+      "observations": [
+        "La partida de bautismo de su hijo Miguel (Casaseca de las Chanas, 13-10-1632) la nombra como madre."
+      ]
+    },
+    {
+      "id": "antonio-jambrina-padre-de-victoria-jambrina",
+      "name": "Antonio Jambrina",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Jambrina"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Victoria (Arcenillas, 23-04-1608) lo llama Antonio Xambrina."
+      ]
+    },
+    {
+      "id": "ana-hernandez-madre-de-victoria-jambrina",
+      "name": "Ana Hernández",
+      "givenNames": "Ana",
+      "surnames": [
+        "Hernández"
+      ],
+      "observations": [
+        "La partida de bautismo de su hija Victoria (Arcenillas, 23-04-1608) la nombra como madre."
       ]
     }
   ]

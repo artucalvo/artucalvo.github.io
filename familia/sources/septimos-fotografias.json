@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "batch": "Tatarabuelos séptimos — fotografías de partidas (revisión parcial)",
-  "reviewedOn": "2026-11-08",
+  "batch": "Tatarabuelos séptimos — fotografías de partidas",
+  "reviewedOn": "2026-11-13",
   "originalsDirectory": "Árbol genealógico/Tatarabuelos séptimos (fuera del repositorio)",
-  "method": "Transcripción independiente anterior al cotejo del árbol; originales inspeccionados a resolución nativa. Los huecos se marcan [ilegible]. Este registro no afirma la revisión completa de la carpeta.",
+  "method": "Lectura de las imágenes originales a resolución nativa y cotejo con el árbol. [ilegible] señala huecos; las dudas de lectura y las decisiones de identificación se anotan en cada asiento. Las nueve primeras entradas proceden de una revisión anterior (8-10 de noviembre de 2026), con otro formato; las decisiones de la familia de esos días se conservan en familyDecisions, y donde el árbol se aparta de ellas lo explica el asiento correspondiente.",
   "entries": [
     {
       "id": "septimos-matrimonio-turiel-gago-1669",
@@ -407,511 +407,1188 @@
       "applied": [
         "Persona nueva: Susana Pérez Delgado, hija de Juan Pérez e Isabel Delgado (fichas nuevas), bautizada el 11-11-1624 en Casaseca de las Chanas; se enlaza como madre de Juan Rodríguez Pérez."
       ]
-    }
-  ],
-  "pending": "Las demás fotografías de la carpeta todavía no están incorporadas ni plenamente transcritas.",
-  "pendingIdentities": [
-    {
-      "candidate": "lorenzo-hernandez",
-      "image": "Lorenzo Hernández Tamame.JPG",
-      "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4",
-      "sourceExcerpt": "Baptize a Lorenço Hijo de Lorenço [ilegible] y de Ynes Tamame",
-      "sourceReading": "Bautismo en El Perdigón el 6 de febrero de 1628; el apellido del padre puede leerse Hernández o Fernández y requiere comprobación. La transcripción completa queda pendiente.",
-      "existing": "Lorenzo Hernández, padre de Francisco Hernández de Segovia, nacido en El Perdigón en 1656, con María de Segovia; sin padres ni bautismo en la ficha.",
-      "familyResponse": "El 8 de noviembre de 2026 la familia indicó que no sabe si son la misma persona. El extracto presentado entonces leyó Hernández con demasiada seguridad; una revisión posterior también admite Fernández. No se vinculan."
     },
     {
-      "candidate": "luis-de-valladolid",
-      "image": "Luis Valladolid Gaitán.JPG",
-      "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04",
-      "sourceExcerpt": "en dos de febº bautize a luis hijo de Domingo valladolid y Maria gaitana",
-      "sourceReading": "Bautismo el 2 de febrero bajo el encabezamiento del año 1657; lectura y transcripción completa pendientes de comprobación adicional.",
-      "existing": "Luis de Valladolid, padre de Agustín Valladolid San Juan, nacido en Casaseca de las Chanas en 1684; sin padres ni bautismo en la ficha.",
-      "familyResponse": "El 8 de noviembre de 2026, la familia indicó que no sabe si son la misma persona. No se vinculan."
-    }
-  ],
-  "imageInventory": [
-    {
-      "filename": "Alonso Delgado Galán.JPG",
-      "sha256": "0042eba6eba7d3064cebc3afc97d60ec119e535914ce9d004225875f89470338",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Day, priest and remaining text; abbreviations and exact spelling require review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Alonso Delgado Galán.JPG",
+          "sha256": "0042eba6eba7d3064cebc3afc97d60ec119e535914ce9d004225875f89470338",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-05-02",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alº, hijo de Antón Delgado y de Ysabel Galana.\n\nEn dos de mayo de mil y seyscientos y diez y seis años bauticé yo el licenciado Alº de Ayala, cura desta yglesia, a Alº, hijo de Antón Delgado y de Ysabel Galana; fue su padrino Pº Delgado; testigos Andrés de Ayala y Pº Çamora, y lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "«Alº», tras «el licenciado», está en el borde de la página y se lee con reservas. La partida no nombra el lugar: Casaseca de las Chanas, cuyo cura era el Ldo Alonso de Ayala entre 1610 y 1622. La partida no nombra a los abuelos. El padrino Pedro Delgado puede ser pariente del padre, pero la partida no lo dice. El asiento de abajo (Inés, hija de Martín Bueno e Isabel Marcos, 8 de mayo de 1616, padrino Antón Celenque) no es de la familia.",
+        "La familia archivó la imagen como «Alonso Delgado Galán» entre los tatarabuelos séptimos; el nombre y el lugar coinciden con Alonso Delgado, padre de Catalina (1656) y de María (1673), que tendría 40 y 57 años en esos nacimientos."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-delgado"
+      ],
+      "applied": [
+        "Bautismo el 02-05-1616 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Antón Delgado e Isabel Galán, y el nombre pasa a Alonso Delgado Galán."
       ]
     },
     {
-      "filename": "Alonso García Blanco.JPG",
-      "sha256": "f4d1edb6f0dc5f12066bafa3480b5bcb9b21ce7dfa36e007ae5f34de9a0cc71c",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Mother's given name, priest, godparents, exact abbreviations and rest."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Alonso García Blanco.JPG",
+          "sha256": "f4d1edb6f0dc5f12066bafa3480b5bcb9b21ce7dfa36e007ae5f34de9a0cc71c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1617-08-08",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alº, yjo de Domingo García y de Franca Blanca.\n\nEn ocho días del mes de agosto de [mil seiscientos y] diez y siete, 1617 años, bauticé yo el licenciado Alº de Ayala a [ilegible], yjo de Domingo García y de su muger Franca Blanca; fueron sus padrinos Alº Bueno y Martín Bueno, vºs deste dicho lugar; testigos Andrés de Ayala y Juº Núñez de [ilegible], y por verdad lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "No se leen con seguridad las palabras que siguen a «Ayala», con el nombre del niño (podrían leerse también como dos nombres, «a Juº y a Se…»); el margen, cortado en parte y desvaído, parece decir «Alº, yjo de Domingo García y de Franca Blanca». El año está en letra y en cifra, y «1617» encabeza la página (folio 134). El segundo testigo se lee con reservas. La partida no nombra el lugar: Casaseca de las Chanas, cuyo cura era el Ldo Alonso de Ayala. La partida no nombra a los abuelos. El asiento de abajo (… hijo de … y de María …, 17 de agosto de 1617) no es de la familia.",
+        "La familia archivó la imagen como «Alonso García Blanco» entre los séptimos; por esa identificación y el lugar se tiene por el bautismo de Alonso García, padre de Martín García (1657), que tendría 40 años."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-garcia-padre-de-martin-garcia"
+      ],
+      "applied": [
+        "Bautismo el 08-08-1617 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Domingo García y Francisca Blanco, y el nombre pasa a Alonso García Blanco."
       ]
     },
     {
-      "filename": "Alonso Rodríguez Martín.JPG",
-      "sha256": "52b83cb20554abf50cb5a011bca0ec011cdd9997d3b9f8bd2cc780e23df52a35",
-      "status": "transcripción interna; identidad pendiente",
-      "researchNotes": [
-        "Year appears 1611 but requires verification; transcribe and preserve source abbreviations carefully."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Alonso Rodríguez Martín.JPG",
+          "sha256": "52b83cb20554abf50cb5a011bca0ec011cdd9997d3b9f8bd2cc780e23df52a35",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1611-04-13",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Alº, yjo de Alº Rodríguez y Ysabel Martín.\n\nEn los treze de abril de mil y seyscientos y once años bauticé yo el licenciado Alº de Ayala, cura de la Casaseca de las Chanas, a Alº, yjo de Alº Rodrigez y de Ysabel Martín, del dicho lugar; fue su padrino Juº Martín; testigos Franco Esteban y Alº de Olme[do], del dicho lugar, y por verdad lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "Una mancha entre «Ysabel» y «Martín»; el margen está cortado por la encuadernación; el apellido del segundo testigo se lee con reservas. La partida no nombra a los abuelos. El final del asiento de arriba (testigos Francisco Rodríguez y Francisco Delgado) y el asiento de abajo (Inés, hija de … Palomino y … Gallega, 13 de abril de 1611) no son de la familia.",
+        "Bautismo de Alonso, hijo de Alonso Rodríguez y de Isabel Martín. La familia decidió el 9 de noviembre de 2026 que este Alonso es distinto de Alonso Rodríguez, padre de Juan Rodríguez Corralino: no se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "alonso-rodriguez-padre-de-juan-rodriguez-corralino"
       ]
     },
     {
-      "filename": "Ana Hernández de la Iglesia.JPG",
-      "sha256": "c24a6658bd75b6e4cc25be5f5fa9ef90a1d15da97398432e31b650f8d2189bec",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Father's given name, mother's abbreviation and other text."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Hernández de la Iglesia.JPG",
+          "sha256": "c24a6658bd75b6e4cc25be5f5fa9ef90a1d15da97398432e31b650f8d2189bec",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1635-06-03",
+      "place": "Sanzoles",
+      "transcription": "Ana.\n\nEn 3 de junio de 635 a. bauticé a Ana Hernández, hija de Matías Hernández y de Antona de la Yglesia; fueron sus padrinos Juº Alº de Sotelo y [ilegible] la Carretera; testigos el [ilegible] alcalde Pº Hernández y su compañero Juan [ilegible], y lo firmé ut supra. El Ldo Juan Núñez.",
+      "uncertainties": [
+        "Se leen con reservas el nombre del padre («Matías»), el de la madre («Antona», escrito «anton»), los padrinos y los testigos; una mancha cubre parte de la primera línea. El año está escrito «de 635»; el asiento de arriba es de 1634. La partida no nombra el lugar ni a los abuelos: la letra y la firma («El Ldo Juan Núñez») son las del bautismo de Pedro Martín Fernández en Sanzoles (21-07-1636). Los asientos de arriba (Luis, hijo de … y … Porras, 1634) y de abajo (María, hija de … y Ana …, 1 de julio de 1635; Ana, hija de … y Madalena Fraila, 2 de marzo de 1636) no son de la familia.",
+        "La familia archivó la imagen como «Ana Hernández de la Iglesia» entre los séptimos; la única Ana Hernández de Sanzoles del árbol es la mujer de Miguel Salvador (casada en 1664, a los 29 años; madre de Pedro Salvador Hernández en 1679, a los 44)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-hernandez"
+      ],
+      "applied": [
+        "Bautismo el 03-06-1635 en Sanzoles con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Matías Hernández y Antona de la Iglesia, y el nombre pasa a Ana Hernández de la Iglesia."
       ]
     },
     {
-      "filename": "Ana Luelmo Martín.JPG",
-      "sha256": "c40c5027f2dac93313b268d69fc243430eeee68fe899fa61ef16c7f5e2da9bcd",
-      "status": "transcripción interna; identidad pendiente",
-      "researchNotes": [
-        "Exact spelling, capitalization and remaining text require review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Luelmo Martín.JPG",
+          "sha256": "c40c5027f2dac93313b268d69fc243430eeee68fe899fa61ef16c7f5e2da9bcd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1648-11-14",
+      "place": "Morales del Vino",
+      "transcription": "Ana.\n\nEn 14 de nobienbre de 1648 años doi fe que bapticé a Ana, hija de Bartolomé de Luelmo y de Ynés Martín; fueron padrinos Pedro de Luelmo y Felipa Martín; testigos Gerónimo Sol y Juº de Luelmo, yerno de Alº [ilegible], y lo firmé. El Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "Manchas de humedad a la izquierda; «Gerónimo Sol» y «yerno de Alº» se leen con reservas. La partida no nombra el lugar: Morales del Vino, donde era cura el Ldo Miguel de Villalpando. La partida no nombra a los abuelos. El asiento de arriba (Atilana, hija de Francisco Hernández y María Crespa, 10 de octubre de 1648) no es de la familia.",
+        "La familia archivó la imagen como «Ana Luelmo Martín» entre los séptimos, es decir, como la madre de José Pérez Luelmo; el 9 de noviembre dijo no saber si era la misma persona. El bautismo y el matrimonio con José Pérez (abril de 1666, a los 17 años) son de Morales del Vino, y sus padres son los de María Luelmo Martín (1653): se enlaza.",
+        "El árbol tenía una ficha de «Ana Luelmo Martín», hermana de María, creada a partir de la observación «Su hermana Ana fue bautizada el 14 de noviembre de 1648»: es este mismo bautismo, y esa ficha se funde con la de Ana."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-de-luelmo"
+      ],
+      "applied": [
+        "Bautismo el 14-11-1648 en Morales del Vino con transcripción; nacimiento con esa fecha y la nota del bautismo. Se enlaza con sus padres, Bartolomé Luelmo e Inés Martín, y el nombre pasa a Ana Luelmo Martín; la ficha de hermana creada desde la observación se funde con esta."
       ]
     },
     {
-      "filename": "Ana Morales Simón.JPG",
-      "sha256": "916ffb298fe59889297c7ac8c0aba27e992c195c93a2bfcb30a83ca1c00db2bf",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Year is not stated in entry; a later entry gives 1678 but contextual year requires verification. Exact text requires review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Ana Morales Simón.JPG",
+          "sha256": "916ffb298fe59889297c7ac8c0aba27e992c195c93a2bfcb30a83ca1c00db2bf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1648-08-12",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ana Morales.\n\nEn 12 de agosto bauticé yo Gerónimo Castaño, cura de Pontexos, a Ana Morales, yja de Juan Morales y de María Simona, su muger; fue su padrino Manuel Rodríguez Moreno, cura del dicho lugar de Casaseca de las Chanas; testigos Juan Pérez, mozo, y Domingo Bueno, sacristán, y lo firmé. Gerónimo Castaño.",
+      "uncertainties": [
+        "La partida no expresa el año; la siguiente es «En 24 de agosto de 1648 años» (la tercera y la cuarta cifra se leen con reservas), y la de arriba la firma el cura de Casaseca, «Manuel Rz de la Torre», que firma en 1646. La partida no nombra a los abuelos.",
+        "La familia archivó la imagen como «Ana Morales Simón» entre los séptimos; mismo lugar; tendría 25 años al nacer su hijo Felipe Moreno Morales (1673). En la misma página está el bautismo de su futuro marido, Manuel Moreno (4 de agosto)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-morales"
+      ],
+      "applied": [
+        "Bautismo el 12-08-1648 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Juan Morales y María Simón, y el nombre pasa a Ana Morales Simón."
       ]
     },
     {
-      "filename": "Andrés Pascual Salvador.JPG",
-      "sha256": "35c9abafba53880977bf4cf6613531fc8339c1a786feca0d2f4ae9c419b9a3e8",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Exact lettering, spelling and godfather's surname require review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Andrés Pascual Salvador.JPG",
+          "sha256": "35c9abafba53880977bf4cf6613531fc8339c1a786feca0d2f4ae9c419b9a3e8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1656-01-16",
+      "place": "Torregamones",
+      "transcription": "Andrés.\n\nAño de 1656. En 16 de henero de dicho año baptizé a Andrés, hijo de Alonso Pasqual y de Catalina Salvadora; fue su padrino Domingo Ramos, y por verdad lo firmé ut supra. Antonio de Labrae Sariñana.",
+      "uncertainties": [
+        "La firma del cura («Antonio de Labrae Sariñana») se lee con reservas; una mancha toca el día. El encabezamiento «Año de 1656» está escrito dos veces en la página. La partida no nombra el lugar ni a los abuelos. Los asientos de arriba (… hija de Domingo Miguel y …, padrino Domingo Juan) y de abajo (Teresa, hija de Juan Lorenzo y María Carrera, 19 de enero de 1656) no son de la familia.",
+        "La familia archivó la imagen como «Andrés Pascual Salvador» entre los séptimos; tendría 20 años al nacer su hijo Juan (febrero de 1676). Se tiene por de Torregamones, donde nació Juan, aunque la página no nombra el pueblo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "andres-pascual"
+      ],
+      "applied": [
+        "Bautismo el 16-01-1656 en Torregamones con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Alonso Pascual y Catalina Salvador, y el nombre pasa a Andrés Pascual Salvador."
       ]
     },
     {
-      "filename": "Blas Morales Mateo.JPG",
-      "sha256": "a600441f38189ef14b3338f76a14e9c8f94a12b0330b515515f2eede17a45985",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Date and parents not safely read."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Blas Morales Mateo.JPG",
+          "sha256": "a600441f38189ef14b3338f76a14e9c8f94a12b0330b515515f2eede17a45985",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1641-04-14",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Blas, hijo de Pº de Morales.\n\nEn catorze días del mes de abril de seiscientos y quarenta y uno bapticé yo el Ldo Don Alº M[artíne]z Cano, cura desta yglesia, a Blas, hijo de Pº de Morales y [de] Ynés Matea, su muger; fue su padrino Juº [ilegible]; testigos Juº Bueno [ilegible] y [ilegible] Carrero, y lo firmé. Ldo Alonso de M[artíne]z Cano.",
+      "uncertainties": [
+        "Letra muy rápida: el día y el mes, el nombre de la madre («Ynés Matea»), el apellido del padrino y los testigos se leen con reservas o no se leen. El cura es el Ldo Alonso Martínez Cano, cura propio de Casaseca de las Chanas en la década de 1640, que firma los dos asientos de la página. La partida no nombra el lugar ni a los abuelos. El asiento de arriba (… hijo de … y … Menéndez) no es de la familia.",
+        "La familia identificó la imagen como el bautismo de Blas Morales Mateo; mismo lugar; tendría 33 años al nacer su hijo Antonio Morales Tobal (1674). El padre, «Pº de Morales», se escribe Morales, sin «de», como el apellido en el resto del árbol."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "blas-morales"
+      ],
+      "applied": [
+        "Bautismo el 14-04-1641 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Pedro Morales e Inés Mateo, y el nombre pasa a Blas Morales Mateo."
       ]
     },
     {
-      "filename": "Catalina Alonso García.JPG",
-      "sha256": "f659fd80c8fba08298cd9b38784b474c75f42f0d50cfca6b64875a318158fcef",
-      "status": "revisión inicial; pendiente de transcripción y cotejo definitivos",
-      "researchNotes": [
-        "Unable to establish date or parents safely."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Catalina Alonso García.JPG",
+          "sha256": "f659fd80c8fba08298cd9b38784b474c75f42f0d50cfca6b64875a318158fcef",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Casaseca de las Chanas",
+      "transcription": "Catª, hija de Migel Alº.\n\nEn veinte y tres de junio de [ilegible] seiscientos y [ilegible] bapticé yo el Ldo Don Alº M[artíne]z Cano, cura propio desta yglesia de Casaseca, a Catalina, hija de Miguel Alº y de [ilegible] Gª, su muger; fue su padrino [ilegible]; testigos [ilegible], y lo firmé. Ldo Alonso de M[artíne]z Cano.",
+      "uncertainties": [
+        "Letra muy rápida en tinta desvaída: no se leen el año, el nombre de pila de la madre, el padrino ni los testigos; el apellido de la madre está abreviado «Gª» (García). El margen dice «Catª, hija de Migel Alº». La firma del cura es la de los demás asientos de Casaseca de la década de 1640. La partida no nombra a los abuelos. El final del asiento de arriba y el de abajo (Inés, «En diez y nueve días del mes de julio…») no son de la familia.",
+        "La familia identificó la imagen como el bautismo de Catalina Alonso García, madre de Francisco Carbajal Alonso (Casaseca de las Chanas, 1664); mismo lugar."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-alonso"
+      ],
+      "applied": [
+        "Bautismo sin fecha completa (23 de junio, año ilegible) en Casaseca de las Chanas, con nota y transcripción. Se añade su padre, Miguel Alonso, y el nombre pasa a Catalina Alonso García."
       ]
     },
     {
-      "filename": "Catalina Colástica Carnero.JPG",
-      "sha256": "0b61dfb3f04caec0e1c6c19148935f8a42bf07c2ac7d32d00123ec4fb36a77d4",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Father's surname may read Eslastica; godfather's surname may read Vera, but both are uncertain. Verify exact abbreviations and entire text."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Catalina Colástica Carnero.JPG",
+          "sha256": "0b61dfb3f04caec0e1c6c19148935f8a42bf07c2ac7d32d00123ec4fb36a77d4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1640-07-15",
+      "transcription": "Catalina.\n\nEn quince de julio de mill y seiscientos y quarenta bauticé a Catalina, hija de Sebastián de Colástica y Catalina Carnero; fueron sus padrinos Domingo Silva y María Franca, en cuya verdad lo firmé. Antonio de Álava de Monguía.",
+      "uncertainties": [
+        "Se leen con reservas el apellido del padre («de Colástica»), el del padrino («Silva») y la firma del cura («Antonio de Álava de Monguía»). La partida no nombra el lugar ni a los abuelos. Los asientos de arriba (Pascual, hijo de Pedro de Libares y Catalina Marcos, 5 de abril de 1640, padrinos Pascual Barrios y María Franca) y de abajo (Ana, hija de Macías de Maua y Juana Carrasca, 8 de agosto de 1640, padrinos Juan … de San Román y Eufemia Salvadora) no son de la familia.",
+        "La familia identificó la imagen; tendría 21 años al nacer su hijo Francisco Herrero Colástico (1661). Los apellidos de la página (Barrios, Carrasca, San Román) son de Pereruela y su comarca, pero el lugar no está escrito. El árbol escribe Colástico."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-colastico"
+      ],
+      "applied": [
+        "Bautismo el 15-07-1640 con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Sebastián Colástico y Catalina Carnero, y el nombre pasa a Catalina Colástico Carnero."
       ]
     },
     {
-      "filename": "Catalina Jurado Delgado.JPG",
-      "sha256": "cc50b695436d373e071ae6e5ffd6e85885d835f819fc0bb72c0b189f4b68c355",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "El número del día parece 21 o 24 y requiere revisión; no se atribuye uno de ellos. Lugar y firma de celebrante y algunos testigos requieren nueva lectura. La Catalina de esta partida es hija de Alonso Jurado y Catalina Delgado. Esos padres están registrados para María Jurado Delgado, nacida en Casaseca en 1622; se documentaría una hermana de María. Catalina Jurado existente es madre de Catalina Delgado Jurado, nacida en Casaseca en 1656; no está demostrada la identidad entre ambas Catalina.",
-        "La familia indicó el 9 de noviembre de 2026 que no sabe si esta Catalina es la existente; no se vincula."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Catalina Jurado Delgado.JPG",
+          "sha256": "cc50b695436d373e071ae6e5ffd6e85885d835f819fc0bb72c0b189f4b68c355",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1630-04-24",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Catalina, yja de Alº Jurado y de Catalina Delgada.\n\nEn 24 de abril de 1630 años bautiçó en esta yglesia de Casaseca de las Chanas el señor prior de Pelas de Abaxo a Catalina, yja de Alº Jurado y de Catalina Delgada, su muger; fue su padrino el licenciado Alº de Llamas, cura propio de Casaseca de las Chanas, siendo testigos Juº García de la Yglesia y Luis de Çamora, y lo firmó el dicho cura oy dicho día, mes y año. Ldo Alº de Llamas.",
+      "uncertainties": [
+        "La partida no nombra a los abuelos. El final del asiento de arriba (un hijo de … y de su mujer, padrino el cura, testigos Alonso del Gado y Juan Alonso del Gado, 1630) y el asiento de abajo (Santiago, hijo de Juan …, 26 de mayo de 1630) no son de la familia.",
+        "La familia archivó la imagen como «Catalina Jurado Delgado» entre los séptimos; el 9 de noviembre dijo no saber si era la misma persona. Mismo lugar, los padres de María Jurado (1622), y tendría 26 y 43 años al nacer sus hijas Catalina (1656) y María Delgado Jurado (1673): se enlaza.",
+        "El árbol tenía una ficha de «Catalina Jurado Delgado», hermana de María, creada a partir de la observación «Tuvo una hermana llamada Catalina, bautizada en abril de 1630»: es este mismo bautismo, y esa ficha se funde con la de Catalina."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-jurado"
+      ],
+      "applied": [
+        "Bautismo el 24-04-1630 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se enlaza con sus padres, Alonso Jurado y Catalina Delgado, y el nombre pasa a Catalina Jurado Delgado; la ficha de hermana creada desde la observación se funde con esta."
       ]
     },
     {
-      "filename": "Cristóbal Conde Hernández.JPG",
-      "sha256": "6cdb3f925097d8f273eae622842153d3ce47c4e6deb4cdeca793de1eb0b81572",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "La anotación superior parece 1619; el texto del año parece decir diez i nuebe; comprobar la lectura a resolución nativa. La madre y los nombres de padrinos y testigos quedan parcialmente ocultos en el pliegue. No hay una ficha inequívoca de Cristóbal Conde identificada en los datos existentes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Cristóbal Conde Hernández.JPG",
+          "sha256": "6cdb3f925097d8f273eae622842153d3ce47c4e6deb4cdeca793de1eb0b81572",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1619-02-17",
+      "place": "Toro",
+      "transcription": "Xptóbal, hijo de Antº Conde.\n\n1619. En diez y siete días del mes de febrero de mill y seiscientos y diez y nueve años, yo Antº Gutiérrez, arcipreste de Toro y cura de Santo Tomé de la dicha ciudad, baticé a Xptóbal, hijo lixítimo de Antº Conde y de Juª Hernández, sus padres, mis feligreses; fueron sus padrinos el alférez Juan Biscay y Felipa Hernández; fueron testigos Alonso Rodríguez Alba y Xptóbal de Sahagún, en fe de lo lo firmé. El Arcipreste Antº Gutiérrez.",
+      "uncertainties": [
+        "«Hernández» está escrito con otra tinta sobre la línea; el apellido del padrino («Biscay») y el nombre de pila de la madrina («Felipa») se leen con reservas. La partida no nombra a los abuelos.",
+        "Bautismo de Cristóbal, hijo de Antonio Conde y de Juana Hernández, en Toro (Santo Tomé). Es el padre de Magdalena Conde (Toro, 1657, registrada sin enlace con los sextos), madre de Isabel Andrés Conde (1681), la homónima descartada de Isabel Andrés Barba: la imagen continúa la línea descartada y no se enlaza."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Luisa de Valencia Navarro.JPG",
+          "sha256": "1fff745e0a0b2f903644b909c58654441b11371b5e0860452df2355a12f608f8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1666-05-06",
+      "place": "Morales del Vino",
+      "transcription": "Luisa.\n\nEn seis de mayo de mil y seiscientos y sesenta y seis años puse los santos olios a Luisa, hija de Franco de Valencia y de María Navarra; fueron sus padrinos Alonso Navarro y Manuela Miguel; fueron testigos Lorenço Simón y Domingo Lorenço, y lo firmé. El Ldo Miguel de Villalpando.",
+      "uncertainties": [
+        "El nombre de la niña está escrito «a luisa», junto, y se lee con reservas; la partida no dice quién la bautizó ni nombra el lugar: Morales del Vino, donde eran cura el Ldo Miguel de Villalpando y sacristán Lorenzo Simón. La partida no nombra a los abuelos. Los demás asientos de la página (José, hijo de Pedro de Luelmo y Ángela Amigo, 15 de abril de 1666; José, hijo de Domingo López y María Díaz, 28 de mayo de 1666) no son de la familia.",
+        "Óleos de Luisa, hija de Francisco de Valencia y de María Navarro. Es la madre de Juan Pérez de Valencia (Morales del Vino, 1700-1708), registrado con los sextos como homónimo descartado de Juan Pérez, padre de Juan Pérez Luelmo (casado en 1688 con Isabel de Luelmo): la imagen continúa la línea descartada y no se enlaza."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Domingo Calvo Álvarez.JPG",
+          "sha256": "53b826829b0cc05161bd42ad1d124c28fecaa51723511cd825b0ebb1f424cba0",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1610-09-22",
+      "place": "Arcenillas",
+      "transcription": "Domingo.\n\nEn veinte y dos de septiembre de mil y seiscientos y diez años puse los santos óleos a Domingo Calbo, hijo de Domingo Calbo y de María Álvarez, su muger; fueron sus padrinos Franca Ruesgo y Ysabel de Mayoraigos; testigos Juº Fernández y Juº de Montalbo, y por ser así verdad lo firmé fecha ut supra. Pedro Delgado.",
+      "uncertainties": [
+        "Antes de los padrinos hay un nombre tachado («Juº …»); los apellidos de las madrinas («Ruesgo», «de Mayoraigos») se leen con reservas. «23» en lo alto de la página (folio). La partida no nombra el lugar ni a los abuelos; la letra y la firma (Pedro Delgado) son las de los bautismos de Arcenillas de esos años. El asiento siguiente (Santiago, hijo de …, 26 de septiembre de 1610) no es de la familia.",
+        "La familia identificó la imagen; tendría 30 años al nacer su hijo Francisco Calvo García (Arcenillas, 1640) y 48 a su muerte (1659)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-calvo"
+      ],
+      "applied": [
+        "Óleos el 22-09-1610 en Arcenillas con nota y transcripción; nacimiento con esa fecha y la nota de los óleos. Se añaden sus padres, Domingo Calvo y María Álvarez, y el nombre pasa a Domingo Calvo Álvarez."
       ]
     },
     {
-      "filename": "Diego de Arroyo y María Madrid.JPG",
-      "sha256": "454035a8f8e162e8a7ee706d61b66a6dc5a24f0b16f92a2f3ea2ce5922ab719b",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Domingo Calvo Álvarez.JPG",
-      "sha256": "53b826829b0cc05161bd42ad1d124c28fecaa51723511cd825b0ebb1f424cba0",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "La fecha expresa la aplicación de los santos óleos; no se indica de forma segura la fecha de nacimiento ni que sea la fecha exacta de bautismo. Las palabras tachadas y los nombres de padrinos requieren nueva lectura. El Domingo Calvo existente es padre de Francisco Calvo García, nacido en Arcenillas en 1640; no figuran padres ni fecha de nacimiento de Domingo, de modo que nombre y época no identifican a la persona con seguridad."
+      "type": "death",
+      "images": [
+        {
+          "filename": "Domingo Calvo Álvarez2.JPG",
+          "sha256": "c812c943fb37025f933a5d44cd3a892471aab6e0b500f945323f4ed7494359cf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1659-05-11",
+      "place": "Arcenillas",
+      "transcription": "Domingo.\n\nEn once de maio de 659 años murió Domingo Calbo, vecino deste lugar de Arcenillas; rescibió todos los sacramentos; enterrose en la capilla maior de la yglesia; hiço testamento; dexó por su alma ciento y cinquenta misas, las cinquenta que se digan en esta yglesia de Arcenillas, las otras cinquenta en el convento de los descalços de Çamora y las cinquenta en el convento de la Trinidad de la dicha ciudad; hiçosele su intierro y honras y cabo de año; fueron sus testamentarios Alonso Manso y Alonso García, y en fe dello lo firmé ut supra. Ldo Gil Fernández.",
+      "uncertainties": [
+        "«y honras y cabo de año» está escrito bajo la última línea con una llamada; una palabra del margen, antes del tercer «cinquenta», está tachada. El año está escrito «de 659». La partida no nombra a su mujer. El asiento de abajo (Juan Delgado, vecino de Arcenillas, 7 de octubre de 1659) y los de la página de enfrente no son de la familia."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-calvo"
+      ],
+      "applied": [
+        "Fallecimiento el 11-05-1659 en Arcenillas con nota del lugar de entierro y transcripción; observación con las misas y los testamentarios."
       ]
     },
     {
-      "filename": "Domingo Calvo Álvarez2.JPG",
-      "sha256": "c812c943fb37025f933a5d44cd3a892471aab6e0b500f945323f4ed7494359cf",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "El nombre queda parcialmente oculto junto al pliegue; no se identifica ningún familiar. Este fallecimiento es una partida distinta de la aplicación de óleos de la otra imagen. No se puede demostrar que ambas correspondan al mismo Domingo a partir del nombre de archivo. No consta información suficiente para identificar inequívocamente al Domingo Calvo ya registrado."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Domingo Gil Triguero.JPG",
+          "sha256": "78097a2b3a27e673012957df40c06d17c1e0fd171573eec36cf0e9faf88ef602",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1622-05-08",
+      "place": "Toro",
+      "transcription": "Domingo Gil.\n\nEn ocho días del mes de mayo de mill y seyscientos y veynta y dos años bauptizé a Phelipe, hijo de Domingo Gil y de su muger María Martín; fueron padrinos Manuel de Sierra y María Gago, y por verdad firmé aquí mi nombre. Juan de Almaraz.",
+      "uncertainties": [
+        "La partida no nombra el lugar ni a los abuelos. Los demás asientos de la página (Marcos, hijo de Juan de Valdefinjas y de Isabel Gutiérrez, 2 de mayo de 1622; Pedro de Aguado, hijo de Pedro Aguado y de doña Bernardina de Montoya, bautizado en casa por necesidad por la comadre Magdalena de Escobar y óleado el 25 de junio) no son de la familia.",
+        "La familia archivó la imagen como «Domingo Gil Triguero» entre los séptimos: es el bautismo de su hijo Felipe Gil, padre de Juana Gil Sariñana (Toro, 1668), que tendría 46 años. La partida no da segundo apellido al padre."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "felipe-gil"
+      ],
+      "applied": [
+        "Bautismo el 08-05-1622 en Toro con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Domingo Gil y María Martín, y el nombre pasa a Felipe Gil Martín."
       ]
     },
     {
-      "filename": "Domingo Gil Triguero.JPG",
-      "sha256": "78097a2b3a27e673012957df40c06d17c1e0fd171573eec36cf0e9faf88ef602",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "El año termina en un área próxima al pliegue, parcialmente oculta; no se deduce por la secuencia de partidas. El nombre de la madre queda cortado; parece María, pero no se completa desde el nombre del archivo. El bautizado es Felipe, hijo de Domingo Gil: no es una partida de bautismo de Domingo. Existe un Felipe Gil, padre de Juana Gil Sariñana, nacida en Toro en 1668, pero no se ha demostrado que sea el bautizado."
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Gabriel de Andrés y Magdalena Carazo.JPG",
+          "sha256": "462509ec763be81385a5779208a68edf9ade8f3a86d1133372bfc68b17f709cd",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1649-11-24",
+      "place": "Fresnadillo",
+      "transcription": "Gabriel Andrés y Magdalena Carraza recivieron las bendiciones nupciales.\n\nEn Fernadillo, a veinte y quatro de nobiembre de mill y seiscientos y quarenta y nueve años, con orden de mí Don Antonio de Lossada, cura propio de el dicho lugar, desposó y veló Don Gregorio de Olmedo, cura propio de Gáname, según orden de la Santa Yglesia, a Gabriel Andrés, vecino de este lugar, y Magdalena Carraza, natural de Corrales; fueron testigos de el matrimonio Don Antonio de Valencia, cura propio de Malillos, el Ldo Gullón, cura de Abelón, el Ldo Fernando, cura de Torre de Frades, Pº Figal y otros muchos, y yo el dicho cura [ilegible], lo firmo. Don Antonio de Lossada y Barrientos.",
+      "uncertainties": [
+        "Manchas de humedad; «Fernadillo» (Fresnadillo), el cura de Torrefrades («el Ldo Fernando») y las palabras de la última línea antes de «lo firmo» se leen con reservas. Folio 108. La partida no nombra a los padres de los cónyuges. El asiento de abajo (… de Fernadillo, «… días del mes de setiembre») no es de la familia.",
+        "La familia archivó el bautismo de «María Andrés Carazo» (Fresnadillo, 1668) con los sextos y este matrimonio de sus padres con los séptimos; la única Andrés de Fresnadillo de los sextos es Mariana Andrés, mujer de Miguel Figal, de la que no se conocían los padres: se enlazan. El bautismo la llama María; las partidas posteriores, Mariana."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "gabriel-andres-padre-de-mariana-andres",
+        "magdalena-carazo-madre-de-mariana-andres"
+      ],
+      "applied": [
+        "Nuevas personas: Gabriel Andrés y Magdalena Carazo, natural de Corrales del Vino, padres de Mariana Andrés; matrimonio el 24-11-1649 en Fresnadillo con nota y transcripción."
       ]
     },
     {
-      "filename": "Domingo Turiel e Inés Gago.JPG",
-      "sha256": "c1a8a3c2239eff709d685d3749bbf36d0aac22c63939d41547e88a96fde4e240",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Gabriel de Andrés y Magdalena Carazo.JPG",
-      "sha256": "462509ec763be81385a5779208a68edf9ade8f3a86d1133372bfc68b17f709cd",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Matrimonio; identificación en el árbol pendiente."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Isabel Hernández Hista.JPG",
+          "sha256": "376e3f673b3650b806c3e9cd5f09580998f2722c8aee924c631a67de9223baae",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1656-02-28",
+      "place": "Tardobispo",
+      "transcription": "Ysabel Hernández.\n\nEn beinte y ocho días del mes de febrero de mil y seiscientos y cinquenta y seis años, yo Alonso Hernández Carrasco, cura propio deste lugar de Tardobispo y anexos, bapticé a Ysabel, hija de Domingo Hz y de Merenciana Hista, su muger, vºs deste lugar; fueron sus padrinos Alonso Rodrigo y Ysabel Ponze; testigos Alonso Calbo y Miguel Bazán, todos vºs deste lugar, y lo firmé yo el cura. Alonso Hernández Carrasco.",
+      "uncertainties": [
+        "El apellido de la madre, partido entre dos líneas y abreviado, se lee «Hista» con reservas (así lo da el nombre que la familia puso a la imagen); el apellido del segundo testigo se lee con reservas. La partida no nombra a los abuelos. El final del asiento de arriba y el de abajo (… de agosto de 165…, del mismo cura) no son de la familia.",
+        "La familia archivó la imagen como «Isabel Hernández Hista» entre los séptimos. La partida llama al padre «Domingo Hz» (Hernández); el árbol y la boda de su hija Micaela la llaman Isabel Fernández, y se conserva ese apellido: las dos formas se usan para las mismas personas en estos libros (el bautismo de Micaela escribe «Fez»). Tardobispo, y tendría 32 años al nacer Micaela (1688)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "isabel-fernandez-madre-de-micaela-hernandez-fernandez"
+      ],
+      "applied": [
+        "Bautismo el 28-02-1656 en Tardobispo con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Domingo Hernández y Emerenciana Hista, y el nombre pasa a Isabel Fernández Hista."
       ]
     },
     {
-      "filename": "Isabel Hernández Hista.JPG",
-      "sha256": "376e3f673b3650b806c3e9cd5f09580998f2722c8aee924c631a67de9223baae",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Escritura de progenitores y vinculación pendientes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Isabel Martín Alonso.JPG",
+          "sha256": "304578a0d7e1695d8cd61e1cdf081a63dba7e2fcd0b3f5d7eedcf7ca818bfe4a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1638-07-18",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ysabel Mrn.\n\nEn 18 de julio de 1638 bapticé yo el licenciado [ilegible], cura propio desta yglesia de Casaseca de las Chanas, a Ysabel, hija de Alº Mrn y de [ilegible]; fue su padrino [ilegible]; testigos [ilegible] y Juº Bueno, sacristán, y lo firmé. Ldo Alonso de M[artíne]z Cano.",
+      "uncertainties": [
+        "La tinta está muy desvaída y una mancha de humedad cubre el pie de la página: solo se lee parte del asiento; el año («1638»), el padre («Alº Mrn», Alonso Martín) y la firma se leen con reservas, y no se leen el nombre de la madre, el padrino ni el primer testigo. El margen dice «Ysabel Mrn». La partida no nombra a los abuelos. El asiento de arriba (… hija de Martín Cerezal y Catalina de Ayala, 27 de junio, padrinos Juan … y …) no es de la familia.",
+        "La familia archivó dos bautismos de una Isabel Martín de Casaseca entre los séptimos: «Isabel Martín Alonso» (1638, hija de Alonso Martín) e «Isabel Martín Rubio» (1633, hija de Benito Martín y María Rubia). La única Isabel Martín de esa generación en el árbol es la mujer de Miguel Delgado (hijas en 1663 y 1674); las dos encajan por la edad y las partidas no dicen más: no se enlaza ninguna."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "isabel-martin-madre-de-isabel-delgado-martin"
       ]
     },
     {
-      "filename": "Isabel Martín Alonso.JPG",
-      "sha256": "304578a0d7e1695d8cd61e1cdf081a63dba7e2fcd0b3f5d7eedcf7ca818bfe4a",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Lectura e identificación insuficientes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Isabel Martín Rubio.JPG",
+          "sha256": "0941b2abd1709be8968e595382a1f1abdd510b90ccce858329bde6c07a19eeef",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1633-12-10",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Ysabel, hija de Benito Mrn.\n\nEn diez días del mes de diciembre de mil y seiscientos y treinta y tres años, yo el Ldo Alº de Llamas, cura propio deste lugar de Casaseca de las Chanas, bauticé a Ysabel, hija de Benito Mrn y de su muger Mª Rubia, vºs deste lugar, siendo testigos Juº Recengue, Diego Pinto y Juº Bueno, sacristán, todos deste lugar, y por verdad lo firmé. Ldo Alº de Llamas.",
+      "uncertainties": [
+        "Los dos primeros testigos se leen con reservas. La partida no nombra a los abuelos. El asiento de abajo (Ana, 1633, bautizada por fray Pedro …, de la Orden de la Santísima Trinidad) no es de la familia.",
+        "La familia archivó dos bautismos de una Isabel Martín de Casaseca entre los séptimos: «Isabel Martín Alonso» (1638, hija de Alonso Martín) e «Isabel Martín Rubio» (1633, hija de Benito Martín y María Rubia). La única Isabel Martín de esa generación en el árbol es la mujer de Miguel Delgado (hijas en 1663 y 1674); las dos encajan por la edad y las partidas no dicen más: no se enlaza ninguna.",
+        "El Benito Martín de este bautismo podría ser el padre de Úrsula Martín Delgado (1654), casado entonces con María Delgado; la partida no lo dice y no se enlaza."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "isabel-martin-madre-de-isabel-delgado-martin"
       ]
     },
     {
-      "filename": "Isabel Martín Rubio.JPG",
-      "sha256": "0941b2abd1709be8968e595382a1f1abdd510b90ccce858329bde6c07a19eeef",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Lectura e identificación insuficientes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Juan Carbajal Galán.JPG",
+          "sha256": "016be4e353e5cef176e60fc4161ec545e44bdbfdfc264cebde3a91a91b27ca1d",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1624-10-05",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juan, hijo de Antón Carbajal y de Ysabel Galana, su muger.\n\nOtubre de 1624. En cinco de otubre de mil y seyscientos y beynte y quatro años bapticé yo el licenciado Alonso de Ayala, cura deste lugar, a Juan, hijo de Antón Carbajal y de Ysabel Galana, su muger; fue su padrino Pedro Alonso, cura teniente deste lugar; testigos Luis Çamora y Juan Alonso, vºs del dicho lugar, y lo firmé. Pedro Alonso.",
+      "uncertainties": [
+        "«Ayala» y la última cifra del año están en el borde derecho, cortado, y se leen con reservas («1624» encabeza la página). La firma el teniente Pedro Alonso, aunque dice que bautizó el cura. La partida no nombra a los abuelos. El asiento de abajo (Catalina, hija de Antón Valladolid y María Molinera, 6 de octubre de 1624, padrino Tomás Pérez) no es de la familia.",
+        "La familia archivó la imagen como «Juan Carbajal Galán» entre los séptimos; el 9 de noviembre dijo no saber si era la misma persona. Mismo lugar, y tendría 40 años al nacer su hijo Francisco (1664): se enlaza. La Isabel Galana de este bautismo, mujer de Antón Carbajal, se mantiene aparte de la Isabel Galana, mujer de Antón Delgado, del bautismo de Alonso Delgado (1616)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-carbajal"
+      ],
+      "applied": [
+        "Bautismo el 05-10-1624 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Antón Carbajal e Isabel Galán, y el nombre pasa a Juan Carbajal Galán."
       ]
     },
     {
-      "filename": "José Pérez y Ana Luelmo1.JPG",
-      "sha256": "e6967abba52870604ebde9b3e39a76b74bb61a0f2b67783a7db3e39230816f4f",
-      "status": "asiento incorporado",
-      "researchNotes": [
-        "Primera página del matrimonio. No se ven los padres de la novia. 4 abril 1676."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Juan Hernández Gago.JPG",
+          "sha256": "7dc9a159a4f3a641e4829f426c451ef7b2c5375f766ce7012f909e779737823b",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Joan.\n\nEn once de agosto de mil y seiscientos y [ilegible] yo el Ldo Pº Sánchez de Alcántara bauticé a Joan, hijo de Juº Hernández y Pasquala Gata; fueron sus padrinos Joan Nasero y María Ponce, y por verdad lo firmé. Pº Sánchez de Alcántara.",
+      "uncertainties": [
+        "Un rasgo de la firma de arriba tapa el año; el nombre de pila del padre («Juº»), el apellido de la madre («Gata»; el nombre de la imagen dice «Gago») y el del padrino («Nasero») se leen con reservas. La partida no nombra el lugar ni a los abuelos. El asiento de arriba (María, hija de Pedro Álvarez e Inés Barrios, padrinos Andrés Herrero y María Hernández, firmado por Antonio de Álava de Monguía) no es de la familia.",
+        "La familia archivó entre los séptimos esta imagen («Juan Hernández Gago») y otra («Juan Hernández Teruelo»), una para cada uno de los dos Juan Hernández de los sextos. Esta es de la letra del libro del bautismo de Catalina Colástico (1640), con apellidos de Pereruela: se tiene por la de Juan Hernández, vecino de Pereruela, padre de Domingo Hernández Nogal (1676)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-hernandez-padre-de-domingo-hernandez"
+      ],
+      "applied": [
+        "Bautismo sin fecha completa (11 de agosto, año ilegible) con nota y transcripción. Se añaden sus padres, Juan Hernández y Pascuala Gata, y el nombre pasa a Juan Hernández Gata."
       ]
     },
     {
-      "filename": "José Pérez y Ana Luelmo2.JPG",
-      "sha256": "41531efe01123c405ab2c5d7e074dc3425304fac044eac13ae0584f1457d9697",
-      "status": "asiento incorporado",
-      "researchNotes": [
-        "Continuación de la primera imagen; no identifico los padres. La coincidencia del nombre no permite vincularla sin más a Ana de Luelmo ni a bautismo 1648."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Juan Hernández Teruelo.JPG",
+          "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Hernz.\n\nA catorze de setiembre de dicho año bapticé un niño que se llamó Juº, hijo de [ilegible] Hernández i de Isabel Teruela; fueron padrinos Alonso Bicente i María Hernández, dellas; firmelo ut supra. Ldo Espinosa, Arcipreste.",
+      "uncertainties": [
+        "El nombre de pila del padre está cortado en el borde derecho; el mes está abreviado («sre») y se lee «setiembre» con reservas; no se entiende «dellas». El año es el del asiento de arriba (Pedro, hijo de Rodrigo Santos y Catalina Gaga, 2 de abril «de mil seiscientos y [ilegible] años», padrinos Alonso Vicente y María Hernández, del mismo arcipreste), que queda bajo una mancha. La partida no nombra el lugar ni a los abuelos.",
+        "La familia archivó entre los séptimos esta imagen («Juan Hernández Teruelo») y otra («Juan Hernández Gago»), una para cada uno de los dos Juan Hernández de los sextos; esta se tiene por la de Juan Hernández, de Tardobispo, padre de Micaela Hernández Fernández (1688)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-hernandez-padre-de-micaela-hernandez"
+      ],
+      "applied": [
+        "Bautismo sin fecha completa (14 de septiembre, año ilegible) con nota y transcripción. Se añade su madre, Isabel Teruelo, y el nombre pasa a Juan Hernández Teruelo."
       ]
     },
     {
-      "filename": "Juan Carbajal Galán.JPG",
-      "sha256": "016be4e353e5cef176e60fc4161ec545e44bdbfdfc264cebde3a91a91b27ca1d",
-      "status": "transcripción interna; identidad pendiente",
-      "researchNotes": [
-        "Day may be five, father’s surname and text require verification.",
-        "La lectura del primer apellido del padre y relación con juan-carbajal requieren verificación; nombre de pila y fecha no son suficientes.",
-        "Lecturas preliminares discrepantes del día del bautismo: uno o cinco de octubre de 1624. Se necesita cotejo antes de registrar la fecha.",
-        "La familia indicó el 9 de noviembre de 2026 que no sabe si el bautizado es Juan Carbajal, padre de Francisco; no se vincula."
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Juan Pérez e Isabel de Luelmo.JPG",
+          "sha256": "bfa3037f3f4e658e1c8c4151974d35f1c68f1280dcb5c5c2415a093aea01f0fb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1688-09-17",
+      "place": "Morales del Vino",
+      "transcription": "Joan Pérez y Ysauel de Luelmo. En 17 de septe de 88 velé a los contenidos.\n\nEn diez y siete días del mes de setiembre de este pressente año de mil y seiscientos y ochenta y ocho desposé por palabras de pressente que hazen verdadero matrimonio, con orden del Sr Provisor de este obispado y la dispensa de Su Santidad, a Joan Pérez, vº de San Frontes, viudo de Juana Martín, y a Ysauel de Luelmo, aviendo precedido las tres amonestaciones que manda el Sto Concilio de Trento, de que no resultó impedimento más que el que estaba dispensado; fueron testigos el Ldo Juan Martín y el Ldo Gerónimo de Luelmo, y en fee de ello lo firmé ut supra. Ldo Diego de Mena.",
+      "uncertainties": [
+        "El mes se lee «setiembre» (el margen dice «septe» y «17 de septe de 88 velé»); el margen es de la mano del mismo cura. «Viudo de Juana Martín» se lee con reservas. La partida no dice qué impedimento se dispensó ni nombra a los padres de los cónyuges. Los asientos de arriba (que termina «… y en fe de ello lo firmé ut supra. Ldo Diego de Mena») y de abajo (una visita pastoral de 1688), y los de la página de enfrente (Antonio de Mena e Inés Prieto, velados), no son de la familia.",
+        "El matrimonio de su hijo Juan (1721) llama a sus padres Juan Pérez e Isabel de Luelmo, «vecinos de San Frontis», y este Juan Pérez es «vecino de San Frontis»: nombres, lugar y época coinciden. La familia dijo el 9 de noviembre no saber si eran los mismos: se enlaza."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juan-perez-padre-de-juan-perez-de-luelmo",
+        "isabel-de-luelmo"
+      ],
+      "applied": [
+        "Matrimonio el 17-09-1688 en Morales del Vino con nota y transcripción; observación en el novio."
       ]
     },
     {
-      "filename": "Juan Hernández Gago.JPG",
-      "sha256": "7dc9a159a4f3a641e4829f426c451ef7b2c5375f766ce7012f909e779737823b",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Day possibly diez; year obscured; father’s given name and mother’s surname uncertain.",
-        "Identificación y texto pendientes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Juana Tobal Rodríguez.JPG",
+          "sha256": "82a305468aa42fd57e24a94b812205141d42d27123c892a1acc51c0f03c85b45",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1647-09-15",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Juª.\n\nEn 15 de setiembre se bautizó Juana, hija de [ilegible] Tobar y María Rz, su muger; fue su padrino Pº Calbo, mozo; testigos Alonso Hernández y Matías Alonso. Manuel Rz.",
+      "uncertainties": [
+        "El apellido del padre («Tobar») está escrito pequeño en el borde derecho y no se lee su nombre de pila; la partida no da el año ni nombra al oficiante; el asiento de arriba es «En 8 de setiembre de 1647 años», del cura de Casaseca de las Chanas, que firma «Manuel Rz de la Torre». La partida no nombra el lugar ni a los abuelos. Los asientos de arriba (Luis Martín, hijo de Antón Martín y María …, padrino su abuelo Antón Martín, de la Cazurra; María, hija de Alonso Martín y María Montalvo, 8 de septiembre de 1647) no son de la familia.",
+        "La familia archivó la imagen como «Juana Tobal Rodríguez» entre los séptimos; el 9 de noviembre dijo no saber si era la misma persona. Mismo lugar, y tendría 27 años al nacer su hijo Antonio Morales Tobal (1674): se enlaza."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juana-tobal"
+      ],
+      "applied": [
+        "Bautismo el 15-09-1647 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden su madre, María Rodríguez, y el nombre pasa a Juana Tobal Rodríguez."
       ]
     },
     {
-      "filename": "Juan Hernández Teruelo.JPG",
-      "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Preceding entry date context, father’s given name, godparents and exact abbreviations.",
-        "Identificación y texto pendientes."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Lorenzo Hernández Tamame.JPG",
+          "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1628-02-06",
+      "place": "El Perdigón",
+      "transcription": "Lorenço. 1628.\n\nEn seis días del mes de febrero de mill y seiscientos y veynte y ocho años, yo Melchior Grª, cura deste lugar del Perdigón, bapticé a Lorenço, hijo de Lorenço Fernández y de Ynés Tamame, su muger, vºs deste dicho lugar; fue su padrino Alº Jirón, y testigos Juº S[ánche]z, Pº Miguel y Migl de la [ilegible], vºs del dicho lugar, yo que en fee de verdad lo firmé. Melchior Grª.",
+      "uncertainties": [
+        "La primera letra del apellido del padre, un trazo largo, se lee «F» (Fernández), como en «Xpóbal Fernández» del asiento de arriba; el apellido del padrino («Jirón») y los testigos se leen con reservas. La partida no nombra a los abuelos. Los asientos de arriba (María, hija de Alonso de Entrala y María Pérez, 1627) y de abajo (María, hija de Benito Díaz y María Ramírez, 23 de febrero de 1628, bautizada en casa por temor de que muriese) no son de la familia.",
+        "El bautismo de Francisco Hernández de Segovia (El Perdigón, 1656) llama a su padre «Lorenzo Hernández, el mozo», y a su abuelo y padrino, Lorenzo Hernández; este bautismo de El Perdigón es de un Lorenzo, hijo de un Lorenzo, que tendría 28 años en 1656. La familia dijo el 8 de noviembre no saber si eran la misma persona: se enlaza. La partida escribe el apellido del padre «Fernández» (las dos formas alternan en estos libros); el árbol conserva Hernández."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "lorenzo-hernandez"
+      ],
+      "applied": [
+        "Bautismo el 06-02-1628 en El Perdigón con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden su madre, Inés Tamame (el padre ya estaba enlazado), y el nombre pasa a Lorenzo Hernández Tamame."
       ]
     },
     {
-      "filename": "Juan Luelmo y María Pinto.JPG",
-      "sha256": "bd32b2b28f9bbb960c335b8791edd04227f6c70de1f2d94141c7497dbb9dcd5c",
-      "status": "asiento incorporado",
-      "researchNotes": [
-        "Bride’s mother may be Catalina de la Calle; verify precise event classification and remaining text.",
-        "Se menciona Juan de Luelmo como hijo de Bartolomé e Inés; la actual María Pinto es madre de Jerónimo, pero esto no establece por sí solo que el novio sea su padre."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Luis Valladolid Gaitán.JPG",
+          "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1657-02-02",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Luis Balladolid.\n\nEn dos de febrero bauticé a Luis, hijo de Domingo Valladolid y María Gaitana, sus lexítimos padres, vecinos deste lugar; fue su padrino Luis Gaitán; testigos Luis Alonso de S. Pº, sacristán, y Andrés Díaz de la Laguna, y por verdad lo firmé. Pº Moreno, cura.",
+      "uncertainties": [
+        "Los nombres de los testigos se leen con reservas. La partida va bajo el encabezamiento «Año de 1657»; los asientos de arriba (Alonso, hijo de Juan Morales y Francisca Montalvo, 13 de enero, padrino Pedro Morales) y de abajo (Catalina, hija de …, 23 de febrero de 1657) no son de la familia. La partida no nombra a los abuelos.",
+        "La familia archivó la imagen como «Luis Valladolid Gaitán» entre los séptimos; el 8 de noviembre dijo no saber si era la misma persona. Mismo lugar; tendría 27 años al nacer su hijo Agustín (1684), y el bautismo de su nieto Santiago (1710) lo llama «vecino y natural» de Casaseca: se enlaza.",
+        "Pista sin confirmar: la madre, María Gaitán, puede ser María Gaitán Hernández (bautizada en Casaseca en 1628, hija de Luis Gaitán y de Micaela Hernández), y el padrino, Luis Gaitán, su padre; la partida no lo dice."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "luis-de-valladolid"
+      ],
+      "applied": [
+        "Bautismo el 02-02-1657 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Domingo Valladolid y María Gaitán, y el nombre pasa a Luis Valladolid Gaitán."
       ]
     },
     {
-      "filename": "Juan Pérez e Isabel de Luelmo.JPG",
-      "sha256": "bfa3037f3f4e658e1c8c4151974d35f1c68f1280dcb5c5c2415a093aea01f0fb",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "First wife’s full name, witnesses, exact spelling, jurisdiction and text.",
-        "La familia indicó el 9 de noviembre de 2026 que no sabe si esta pareja es la pareja existente; no se vincula."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Manuel Moreno Esteban.JPG",
+          "sha256": "c1d6bcafcef9406ba761ce55be77e0c773e2a9c9109988dbe40a575d74219b56",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1648-08-04",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Manuel Moreno.\n\nEn 4 de agosto bauticé yo Manuel Rodríguez Moreno, cura del dicho lugar de Casaseca, a Manuel Moreno, hijo de Alonso Moreno y de María Esteban; fue su padrino Domingo Esteban; testigos Gerónimo de Casaseca y Domingo Bueno, sacristán del dicho lugar, y lo firmé. Ldo Manuel Rz de la Torre.",
+      "uncertainties": [
+        "Una mancha de humedad arriba a la derecha; el primer testigo («Gerónimo de Casaseca») se lee con reservas. «32» en lo alto de la página (folio). La partida no nombra a los abuelos. El padrino Domingo Esteban puede ser pariente de la madre, pero la partida no lo dice. En la misma página está el bautismo de su futura mujer, Ana Morales (12 de agosto), en otra toma.",
+        "La familia archivó la imagen como «Manuel Moreno Esteban» entre los séptimos; mismo lugar; tendría 25 años al nacer su hijo Felipe Moreno Morales (1673)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "manuel-moreno"
+      ],
+      "applied": [
+        "Bautismo el 04-08-1648 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Alonso Moreno y María Esteban, y el nombre pasa a Manuel Moreno Esteban. La velación de los padres (1646) se toma de otra imagen, de la carpeta de los quintos."
       ]
     },
     {
-      "filename": "Juana Tobal Rodríguez.JPG",
-      "sha256": "82a305468aa42fd57e24a94b812205141d42d27123c892a1acc51c0f03c85b45",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "La partida siguiente a otra fechada en septiembre de 1647 bautiza a Juana; la lectura de sus padres requiere más comprobación. La coincidencia de nombre, lugar y época con Juana Tobal no identifica por sí sola a la madre de Antonio Morales Tobal."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Alfonso Cayado.JPG",
+          "sha256": "4cdfe7e3357fc6a376d4789c2aad4202502ed36f243d1dd7a715648050cc767a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1655-04-26",
+      "place": "Malillos",
+      "transcription": "María.\n\nEn veinte y seis días del mes de abril de mil seiscientos y cinquenta y cinco años, yo Don Antonio de Valencia, cura propio desta parroquial de Malillos, bauticé una hija de Lorenço Alfonso y de su muger María Caiado; llamose María; fue su padrino Domingo Miguel y madrina María de los Ángeles, y en fe de ello lo firmé ut supra. Don Antonio de Valencia.",
+      "uncertainties": [
+        "El apellido de la madrina («de los Ángeles») se lee con reservas. La partida no nombra a los abuelos. Los demás asientos de la página (Ana, hija de Domingo Miguel y María Diego; Hermenegildo, hijo de Antonio García y Ana …, 22 de junio de 1655, padrino Domingo Mairal) no son de la familia.",
+        "Bautismo de María, hija de Lorenzo Alfonso y de María Cayado: nadie con esos nombres está en el árbol ni en los resúmenes familiares, y no se enlaza."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Corralino Domínguez.JPG",
+          "sha256": "4a94079a85a61668b015614c39effaeb089013f11dea75d79996dd6a184dfd33",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1613-09-19",
+      "place": "Casaseca de las Chanas",
+      "transcription": "María, hija de Juº Corralino y de Mª Domínguez.\n\nEn diez y nueve días del mes de setiembre de mil y seiscientos y treze, yo el dicho cura bauticé a Mª, hija de Juº Corralino y de Mª Domínguez, vºs deste lugar; fue su padrino Juº Pérez; testigos Domingo Hernández y Juº Méndez, vºs del dicho lugar, y lo firmé yo el dicho cura. Ldo Ayala.\n\nEn veinte de setiembre de mil y seiscientos y treze. Vidi et approbavi. [firma].",
+      "uncertainties": [
+        "Una mancha cubre el apellido del segundo testigo («Méndez», que se lee con reservas). La partida no nombra el lugar: Casaseca de las Chanas, cuyo cura era el Ldo Alonso de Ayala; la nota de abajo es una visita pastoral del día siguiente. La partida no nombra a los abuelos. El final del asiento de arriba (… y Pedro Calvo, firmado «Ldo de Ayala») y el de abajo (… 6 de noviembre de 16…, «hija de … Hernández y de María …») no son de la familia.",
+        "La familia archivó la imagen como «María Corralino Domínguez» entre los séptimos; mismo lugar; tendría 24 y 38 años al nacer sus hijos Alonso (1637) y Juan Rodríguez Corralino (1651)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-corralino"
+      ],
+      "applied": [
+        "Bautismo el 19-09-1613 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Juan Corralino y María Domínguez, y el nombre pasa a María Corralino Domínguez."
       ]
     },
     {
-      "filename": "Lorenzo Hernández Tamame.JPG",
-      "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Cleric, witnesses, godfather and exact abbreviations require verification."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María de Segovia Cabo.JPG",
+          "sha256": "4a54ba8c29de7a3f00a26fd0b8e804d5cc9c7e58ddd9e827ca3f6b6aa222e959",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1623-08-03",
+      "place": "El Perdigón",
+      "transcription": "María.\n\nEn tres días del mes de agosto de mill y seiscientos y veynte y tres años, yo el dicho cura bapticé a María, hija de Alonso de Segobia y de María de Cavo, su muger, vºs deste dicho lugar, y fue su padrino Alonso de Cavo, su abuelo, y testigos Juº de Sta María y Miguel Matheos, clérigos, y Roque Hernández, con otros muchos vºs del dicho lugar, yo que en fee de verdad firmé. Melchior Grª.",
+      "uncertainties": [
+        "La partida no nombra el lugar: El Perdigón, cuyo cura, Melchior García, firma (y nombra el pueblo en 1628). Llama al padrino, Alonso de Cavo, «su abuelo», sin decir de qué lado; el apellido es el de la madre. Los demás asientos de la página (María, hija de Domingo García y María de Mulas, bautizada al nacer por la partera y óleada en junio de 1623; Catalina, hija de Antonio Ufano e Isabel del Pozo, 21 de agosto de 1623) no son de la familia.",
+        "La familia archivó la imagen como «María de Segovia Cabo» entre los séptimos; el 9 de noviembre dijo no saber si era la misma persona. El Perdigón, donde se bautizaron su marido (1628) y su hijo Francisco (1656), y tendría 33 años al nacer Francisco: se enlaza."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-de-segovia"
+      ],
+      "applied": [
+        "Bautismo el 03-08-1623 en El Perdigón con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Alonso de Segovia y María de Cabo, y su abuelo y padrino Alonso de Cabo, como padre de María de Cabo por el apellido; el nombre pasa a María de Segovia de Cabo."
       ]
     },
     {
-      "filename": "Luis Valladolid Gaitán.JPG",
-      "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Abbreviations and witness names require verification."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Delgado Delgado.JPG",
+          "sha256": "46274d39f6b4cce70b7776bd920a47054ac7e8d803480872b584c3ee590f7426",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1617-02-24",
+      "place": "Casaseca de las Chanas",
+      "transcription": "María, yja de Antonio Delgado y de Ysabel Delgada.\n\nEn beynte y quatro de febrero deste año de 1617 años bauticé yo el licenciado Alº de Ayala, cura desta yglesia, a María, yja de Antonio Delgado y de Ysabel Delgada; fue su padrino Juan de Çamora; testigos Antón Simón y Andrés de Ayala y Franco Pernal, todos vºs deste lugar, y lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "El apellido del tercer testigo se lee con reservas. Folio 196. La partida no nombra el lugar: Casaseca de las Chanas, cuyo cura era el Ldo Alonso de Ayala. La partida no nombra a los abuelos. El asiento de abajo (Mariana, hija de … Bernal y … Segura, 2 de marzo de 1617) no es de la familia.",
+        "La familia archivó dos bautismos de una María Delgado de Casaseca de 1617 entre los séptimos: «María Delgado Delgado» (24 de febrero, hija de Antonio Delgado e Isabel Delgado) y «María Delgado Nieto» (6 de octubre, hija de Juan Delgado y María Nieto). La única María Delgado de esa generación en el árbol es la madre de Úrsula Martín Delgado (1654), mujer de Benito Martín; las dos encajan por la edad (37 años en 1654) y las partidas no dicen más: no se enlaza ninguna."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-delgado"
       ]
     },
     {
-      "filename": "Luisa de Valencia Navarro.JPG",
-      "sha256": "1fff745e0a0b2f903644b909c58654441b11371b5e0860452df2355a12f608f8",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Spellings and witness details require verification."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Delgado Nieto.JPG",
+          "sha256": "7f731da91bd8f36476afe4c350e00ce1b38ba7e5dfa0f5301c7c87ccb68e03a6",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1617-10-06",
+      "place": "Casaseca de las Chanas",
+      "transcription": "María, yja de Juº Delgado y de María Nieta.\n\nEn seys de otubre de 1617 años bauticé yo el licenciado Alº de Ayala, cura desta yglesia, a María, hija de Juº Delgado y de María Nieta; fue su padrino Prudencio Gómez; testigos Andrés de Ayala y Migl Gaytán, todos vºs deste lugar, y lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "El nombre de pila del segundo testigo está abreviado. La partida no nombra el lugar ni a los abuelos. Los asientos de arriba (… hija de … e Isabel Martín, padrino Juan …, testigos Andrés de Ayala y Juan …) y de abajo (Ana, hija de Juan Méndez y Petronila de Orenes, 22 de septiembre de 1617) no son de la familia.",
+        "La familia archivó dos bautismos de una María Delgado de Casaseca de 1617 entre los séptimos: «María Delgado Delgado» (24 de febrero, hija de Antonio Delgado e Isabel Delgado) y «María Delgado Nieto» (6 de octubre, hija de Juan Delgado y María Nieto). La única María Delgado de esa generación en el árbol es la madre de Úrsula Martín Delgado (1654), mujer de Benito Martín; las dos encajan por la edad (37 años en 1654) y las partidas no dicen más: no se enlaza ninguna."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "maria-delgado"
       ]
     },
     {
-      "filename": "Manuel Moreno Esteban.JPG",
-      "sha256": "c1d6bcafcef9406ba761ce55be77e0c773e2a9c9109988dbe40a575d74219b56",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Year unstated; later entry gives 1678. Verify year and remaining text."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María García Cabrero.JPG",
+          "sha256": "23d5d58c2d650e7cefa88a94276732454cf897ecda8435df852e616fc81ded9a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1616-07-03",
+      "place": "Arcenillas",
+      "transcription": "María.\n\nEn tres de julio de mil y seiscientos y diez y seis años bapticé a María, hija de Antº García y de María Cabrera, su muger; fueron sus padrinos Antº Rodríguez y Ysabel Mazariegos; testigos Juº Fernández y Luis Mella, y por ser verdad lo firmé, fecha ut supra. Pedro Delgado.",
+      "uncertainties": [
+        "Una mancha tras «seiscientos»; «Mazariegos» está partido entre dos líneas. La partida no nombra el lugar ni a los abuelos; la letra y la firma (Pedro Delgado) son las de los óleos de su marido Domingo Calvo (1610) y de los bautismos de Arcenillas de esos años. El final del asiento de arriba (padrinos Antonio Rodríguez y … Vocacha, viuda; testigos Juan Fernández y Alonso Jambrina) y el de abajo (Elena, 30 de septiembre de 16…) no son de la familia.",
+        "La familia archivó la imagen como «María García Cabrero» entre los séptimos; tendría 24 años al nacer su hijo Francisco Calvo García (Arcenillas, 1640)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-garcia-madre-de-francisco-calvo"
+      ],
+      "applied": [
+        "Bautismo el 03-07-1616 en Arcenillas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Antonio García y María Cabrero, y el nombre pasa a María García Cabrero."
       ]
     },
     {
-      "filename": "María Alfonso Cayado.JPG",
-      "sha256": "4cdfe7e3357fc6a376d4789c2aad4202502ed36f243d1dd7a715648050cc767a",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Year possibly 1655; godfather's surname and other spellings need review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Herrero Herrero.JPG",
+          "sha256": "6e53b7d11dc2b998ab5bb9982434872d6635f1ac8405db28d098edd1a4b90114",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1638-09-01",
+      "transcription": "María.\n\nEn primero de setiembre de mill y seiscientos y treinta y [ocho] bauticé a María, hija de Martín Herrero y de María Herrera; fueron sus padrinos Pedro Herrero y Catalina Gago, su muger; en fe de verdad lo firmé. Antonio de Álava de Monguía.",
+      "uncertainties": [
+        "Las unidades del año quedan bajo un rasgo; «Gago» se lee con reservas. La partida no nombra el lugar ni a los abuelos; es de la letra del libro del bautismo de Catalina Colástico (1640). El asiento de abajo (Felipe, hijo de Juan de la Peña y María Colástica, 16 de octubre de 1638) no se enlaza: María Colástica puede ser pariente de Catalina Colástico, pero no consta.",
+        "La familia archivó la imagen como «María Herrero Herrero» entre los séptimos. De las dos María Herrero de esa generación, la edad decide: esta tendría 27 años al nacer Ana María de Chaves (Pereruela, 1665) y 50 en 1688. La madre, «María Herrera», se escribe María de Herrera, como el apellido en el resto del árbol; el nombre de la bautizada se conserva.",
+        "En el bautismo de Ana María de Chaves (1665) fue madrina María Domínguez, «muger de Martín Herrero»: quizá el abuelo, casado de nuevo; no consta."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-herrero-madre-de-ana-ma-de-chaves"
+      ],
+      "applied": [
+        "Bautismo el 01-09-1638 con nota y transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Martín Herrero y María de Herrera."
       ]
     },
     {
-      "filename": "María Corralino Domínguez.JPG",
-      "sha256": "4a94079a85a61668b015614c39effaeb089013f11dea75d79996dd6a184dfd33",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Month appears abbreviated September and mother's given name may be abbreviated Ysabel; verify."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Herrero Lastra.JPG",
+          "sha256": "92c9fc3090e2af72a02dbde1bf9d1d97e25910236be22fc5d37d97ca683d2eff",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1658-01-24",
+      "transcription": "María.\n\nEn beinte i quatro de henero de mil seiscientos cincuenta i ocho bauptizé a María, hija de Franco Herrero i de María Lastra, su muger; fueron sus padrinos Pedro Pérez i María Lastra, y lo firmé ut supra. Pedro Tablado.",
+      "uncertainties": [
+        "La partida no nombra el lugar ni a los abuelos; el asiento siguiente lo firma Antonio de Álava de Monguía, el cura del bautismo de Catalina Colástico (1640). Los asientos de arriba (Manuel, hijo de Miguel Salvador y Francisca Vázquez, 10 de enero de 1658) y de abajo (Beatriz, hija de Felipe Lapeña y Eufemia Valenta, 7 de febrero de 1658; Martín, hijo de Lucas Pérez y Ángela Martín) no son de la familia.",
+        "La familia archivó la imagen como «María Herrero Lastra» entre los séptimos. De las dos María Herrero de esa generación, la edad decide: esta tendría 30 años al nacer Mariana Rodríguez (Pereruela, 1688) y 7 en 1665."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-herrero-madre-de-mariana-rodriguez"
+      ],
+      "applied": [
+        "Bautismo el 24-01-1658 con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Francisco Herrero y María Lastra, y el nombre pasa a María Herrero Lastra."
       ]
     },
     {
-      "filename": "María Delgado Delgado.JPG",
-      "sha256": "46274d39f6b4cce70b7776bd920a47054ac7e8d803480872b584c3ee590f7426",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Child's name and other text require review."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Lorenzo Rubiano.JPG",
+          "sha256": "ba5457649410e58946627f1762934360be0e2716e7e271d366a1a84f1f02c617",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1634-05-07",
+      "place": "Malillos",
+      "transcription": "En 7 de mayo de 163[4] bapticé yo Manuel de Lanaba, cura teniente de Malillos, a María Lorença, hija de Domingo Lorenço y de María Rubiana, su muger; fueron sus padrinos Domingo [ilegible] y María Rodríguez, y lo firmé. Manuel de Lanaba.",
+      "uncertainties": [
+        "Tinta muy desvaída: las unidades del año quedan bajo el rasgo de la firma de arriba, y no se lee el apellido del padrino. La partida no nombra a los abuelos. El asiento de arriba (Catalina, hija de Martín Blanco y de su mujer Catalina Ferrera, vecinos de Malillos, 14 de febrero de 1634, padrinos Juan Canela y Ana Rodríguez, por el cura Marcos Álvarez) no es de la familia.",
+        "La familia archivó la imagen como «María Lorenzo Rubiano» entre los séptimos; Malillos, y tendría 39 años al nacer su hijo Agustín Sastre (1673); la otra María Lorenzo de esa generación, madre de Juana de la Calle (Sogo, 1686), habría tenido 52."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-lorenzo-madre-de-agustin-sastre"
+      ],
+      "applied": [
+        "Bautismo el 07-05-1634 en Malillos con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Domingo Lorenzo y María Rubiano, y el nombre pasa a María Lorenzo Rubiano."
       ]
     },
     {
-      "filename": "María Delgado Nieto.JPG",
-      "sha256": "7f731da91bd8f36476afe4c350e00ce1b38ba7e5dfa0f5301c7c87ccb68e03a6",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Date and transcription need verification."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Lorenzo Rubiano.JPG",
+          "sha256": "ba5457649410e58946627f1762934360be0e2716e7e271d366a1a84f1f02c617",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1634-06-14",
+      "place": "Malillos",
+      "transcription": "María.\n\nEn catorce de junio de 1634 bapticé yo Manuel de Lanaba, cura teniente de Malillos, a María, hija de Migl de Pereruela y de Lucía Lucas, su muger; fueron sus padrinos Antº Martín y Ana Rodríguez, y lo firmé. Manuel de Lanaba.",
+      "uncertainties": [
+        "Segundo asiento de la misma imagen. La partida no nombra a los abuelos. El asiento de abajo (… 10 de febrero de 16…, por el Ldo Juan de la Torre, cura propio de Malillos) no es de la familia.",
+        "Es hija de Miguel de Pereruela y de Lucía Lucas, padres de Lucas Pereruela (1644): una hermana de Lucas, que se añade."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "maria-hijo-de-miguel-de-pereruela"
+      ],
+      "applied": [
+        "Nueva persona: María Pereruela Lucas, hermana de Lucas Pereruela; bautismo el 14-06-1634 en Malillos con transcripción; nacimiento con esa fecha y la nota del bautismo."
+      ],
+      "secondEntry": true
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Rubio Sacedo.JPG",
+          "sha256": "3f9b49a029185223486ebfd817d64883455bf846e77955b0d5d7eb2ccda0d8bf",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1612-01-26",
+      "place": "Casaseca de las Chanas",
+      "transcription": "María, yja de Juº Rubio y de [ilegible] Sacedo.\n\nEn beynte y seys días del mes de enero de mil y seyscientos y doce años bauticé yo el licenciado Alº de Ayala, cura del dicho lugar de Casaseca de las Chanas, a María, yja de Juº Rubio y de [ilegible] Sacedo; fue su padrino Antonio Sacedo, del dicho lugar; testigos Pº Hernández y Juº Celengue, del dicho lugar, y por verdad lo firmé. Ldo Ayala.",
+      "uncertainties": [
+        "Letra muy rápida: el apellido del padre, partido entre dos líneas («ru-/bio»), el nombre de pila de la madre y su apellido («Sacedo», como el del padrino) se leen con reservas; el margen repite los padres. El asiento de arriba (… hijo de …, padrino Juan del Gado, testigos Francisco … y Andrés de Ayala) no es de la familia.",
+        "El árbol no tiene ficha para la María Rubio de Casaseca: hay varias del mismo pueblo (la mujer de Pedro Madaleno, madre de María Madaleno Rubio, 1637; la mujer de Juan Díez, madre de Pedro Díez Rubio, 1652; María Rubia, mujer de Benito Martín, 1633). Nacida en 1612, esta María podría ser cualquiera de ellas: no se enlaza."
+      ],
+      "status": "sin enlace al árbol"
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Miguel Delgado Rodríguez.JPG",
+          "sha256": "1c4e2118ab30901b5512df525f068e57d711d3d21307d3fa9e7f68ae4c3b853c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1632-10-13",
+      "place": "Casaseca de las Chanas",
+      "transcription": "Miguel Delgado.\n\nEn 13 de otubre de 1632 años bauticé yo el licenciado Alº de Llamas, cura propio deste lugar de Casaseca de las Chanas, a Miguel, hijo de Pedro Delgado, el Negrillo, y de Marcela Rodríguez; fue su padrino Miguel Prieto, siendo testigos Alº Rodríguez y Antº Pantaleón y Ysidro Rodríguez. Ldo Alº de Llamas.\n\nVisitado en las Chanas, a 28 de octubre de 1632. [firma del visitador].",
+      "uncertainties": [
+        "«el Negrillo», tras el nombre del padre, es un apodo. Folio 25. No se lee la firma del visitador. La partida no nombra a los abuelos. Los asientos de la página de enfrente no son de la familia.",
+        "La familia archivó la imagen como «Miguel Delgado Rodríguez» entre los séptimos; mismo lugar; tendría 31 y 42 años al nacer sus hijas Josefa (1663) e Isabel Delgado Martín (1674)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "miguel-delgado"
+      ],
+      "applied": [
+        "Bautismo el 13-10-1632 en Casaseca de las Chanas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Pedro Delgado y Marcela Rodríguez, y el nombre pasa a Miguel Delgado Rodríguez."
       ]
     },
     {
-      "filename": "María García Cabrero.JPG",
-      "sha256": "23d5d58c2d650e7cefa88a94276732454cf897ecda8435df852e616fc81ded9a",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Year partially obscured, possibly 1666; do not expand without verification. Godmother and witness names need verification."
+      "type": "death",
+      "images": [
+        {
+          "filename": "Muerte de Ana Blanco.JPG",
+          "sha256": "a755953c51026388914720ed50721490d1f44dda61bff23cb192200572e85cf8",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "place": "Abelón",
+      "transcription": "Testamentarios Domingo Ortixo, Domingo Gabriel.\n\nEn onze de septiembre de [ilegible] murió Ana Blanca; recibió los santos sacramentos; hizo testamento y está cumplido.",
+      "uncertainties": [
+        "Página muy dañada (humedad, roturas y pérdida de tinta): no se leen el año, una palabra tras «septiembre de» ni el resto del asiento; «murió» se lee de «[mu]rió». La página tiene otros entierros: … García, 4 de mayo (testamentarios Martín Gabriel y Francisco …; el margen de arriba cita una visita «en el año de 1712» de … Joseph Zapata); otra Ana Blanca, mujer de Francisco Huerco, 29 de noviembre; y Antonia …, mujer de …, de noviembre. Ninguno se enlaza.",
+        "La familia archivó la imagen como «Muerte de Ana Blanco»; el asiento nombra testamentarios a Domingo Ortijo (el apellido de su marido) y a Domingo Gabriel."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "ana-blanco"
+      ],
+      "applied": [
+        "Fallecimiento sin fecha completa (11 de septiembre, año ilegible) en Abelón, con nota y transcripción."
       ]
     },
     {
-      "filename": "María Herrero Herrero.JPG",
-      "sha256": "6e53b7d11dc2b998ab5bb9982434872d6635f1ac8405db28d098edd1a4b90114",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Month may be April; complete year and godmother's surname not confidently legible. Baptism is not birth.",
-        "Tree has separate María Herrero individuals, mother of Ana de Chaves Herrero born 1665 at Pereruela, and mother of José Zurdo Herrero born 1699 associated with Fadón. No spouse or independently explicit event place discerned here: identity unresolved."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Catalina Gabriel.JPG",
+          "sha256": "9375883254030b4f0fc7f6e343b28d04eca34ebaba80b8aa6c5ccce2fe701f8c",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1702-06-04",
+      "place": "Abelón",
+      "transcription": "Catalina Gabriela.\n\nEn quatro de junio de mill setecientos y dos años yo el infra escripto cura theniente enterré a Catalina Gabriela, la qual, habiéndola administrado los santos sacramentos, [ilegible] hizo testamento, en que tomó por su ánima [ilegible], y que dellos salgan [ilegible] misas de las cofradías [ilegible]; testamentarios Domingo Garrote [ilegible]; enterrose [ilegible] junto a la pila del agua bendita [ilegible], y para que conste [ilegible] de los testamentarios, lo firmé en dicho día, mes y año ut supra. Joseph Carrión Cossano.",
+      "uncertainties": [
+        "Letra muy rápida y apretada: el año («setecientos y dos») se lee con reservas, y buena parte de las mandas y del lugar de la sepultura no se lee. La partida no nombra el lugar: Abelón, cuyo teniente de cura, Joseph Carrión Cossano, firma los entierros de 1704-1705. El final del asiento de arriba (… testamentarios Juan Vicente y Alonso Vicente, del mismo teniente) y el de abajo (Juan, párvulo, hijo de Alonso Lorenzo e Inés …, del mismo mes) no son de la familia.",
+        "La familia archivó la imagen como «Muerte de Catalina Gabriel»; la partida no nombra a su marido, y el testamentario Domingo Garrote lleva su apellido."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "catalina-gabriel"
+      ],
+      "applied": [
+        "Entierro el 04-06-1702 en Abelón con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "María Herrero Lastra.JPG",
-      "sha256": "92c9fc3090e2af72a02dbde1bf9d1d97e25910236be22fc5d37d97ca683d2eff",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Godfather's surname requires closer inspection; date and names should be verified at native resolution before reuse.",
-        "Tree contains two distinct María Herrero, with children baptized in 1665 at Pereruela and 1699 connected to Fadón. Birth range is plausible for the latter, but image does not establish her spouse, child or place; identity unresolved."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Diego.JPG",
+          "sha256": "9ca0e52e5f8ae6635914d53746da3a07d65789216d6c065539a6789e7a8e0b13",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1704-09-18",
+      "place": "Abelón",
+      "transcription": "Domingo Diego. Cumplido.\n\nEn diez y ocho de setienbre de mil setecientos y quatro años se enterró en esta parroquial de Señor San Martín deste lugar de Abelón a Domingo Diego, [ilegible], el qual, habiendo muerto en breve tiempo, [ilegible] había recibido los santos sacramentos; enterrose enfrente de la puerta, en medio de la yglesia; hizo testamento; tomó por su ánima diez y ocho ducados, y que dellos salga todo; fueron testamentarios su suegra Ana Fernanda y su muger Catalina Fernanda y Alonso Diego, todos vºs deste lugar, y para que conste lo firmé en dicho día, mes y año. Joseph Carrión Cossano.",
+      "uncertainties": [
+        "Letra rápida: una palabra tras el nombre («el mozo»), las palabras en torno a «en breve tiempo» y los apellidos de la suegra y de la mujer («Fernanda», Fernández) se leen con reservas. El final del asiento de arriba (testamentarios Alonso Martín y Alonso Sastre, del mismo teniente, septiembre de 1704) no es de la familia.",
+        "La familia archivó la imagen para Domingo Diego, marido de Catalina Bernabé y padre de Domingo Diego Bernabé (1649); pero este Domingo Diego tiene por mujer a Catalina Fernández, su suegra vivía en 1704, y Domingo Diego Bernabé, marido de Catalina Martín, se enterró en 1712. Es un tercer hombre del mismo nombre: no se enlaza."
+      ],
+      "status": "sin enlace al árbol; homónimo descartado",
+      "candidatePersonIds": [
+        "domingo-diego-padre-de-domingo-diego"
       ]
     },
     {
-      "filename": "María Lorenzo Rubiano.JPG",
-      "sha256": "ba5457649410e58946627f1762934360be0e2716e7e271d366a1a84f1f02c617",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Faint ink; year, parents, place and other particulars not sufficiently clear.",
-        "There are three María Lorenzo records with different spouses and descendants; no safe match is established."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Hernández.JPG",
+          "sha256": "06f29453df5f56e21b7be4a3bafb4d7e4389270926ea071a8f855d5d6faa9b13",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1670-01-15",
+      "place": "Sanzoles",
+      "transcription": "Domingo Hernández.\n\nEn quinze de henero de 670 enterré yo Diego Fz López, beneficiado, a Domingo Hernández, siendo theniente del cura de la villa de Sanzoles por mis señores Deán y Cabildo, y por verdad lo firmé. Diego Fz López, beneficiado.",
+      "uncertainties": [
+        "El año está en cifras, «670», y los dos asientos de abajo son de diciembre de 1669 (un hijo de Juan …, 13 de diciembre; un hijo de Domingo Castaño, 19 de diciembre): el de enero pudo escribirse fuera de su sitio; después viene un hijo de Miguel Diego, 15 de marzo de 1670. El margen está cortado por la encuadernación. La partida no dice si recibió los sacramentos ni nombra a su mujer.",
+        "La familia archivó la imagen como «Muerte de Domingo Hernández» entre los séptimos; la identificación descansa en ese nombre y en el pueblo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-hernandez-padre-de-micaela-hernandez-vaquero"
+      ],
+      "applied": [
+        "Entierro el 15-01-1670 en Sanzoles con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "María Rubio Sacedo.JPG",
-      "sha256": "3f9b49a029185223486ebfd817d64883455bf846e77955b0d5d7eb2ccda0d8bf",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Year and date, parents and place are not safely read; no confident identity or date should be imported.",
-        "No matching full-name record found; identity cannot be established from the current provisional reading."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Domingo Ortijo.JPG",
+          "sha256": "bbe00f9ea382fbd4ec90bd2cae31ca599f8199fcb78651ec1e4c0ec4c9aaf175",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1702-11-21",
+      "place": "Abelón",
+      "transcription": "Domingo Ortizo. Cumplido.\n\nEn beinte y uno de nobiembre de dicho año yo el infrascripto cura theniente enterré a Domingo Ortizo, el qual había confesado y había hecho testamento; enterrose en esta parroquia del Señor San Martín, al frente de la [ilegible] de abaxo, [ilegible]; tomó por su ánima [ilegible] ducados, y que dellos se paguen [ilegible]; fueron sus testamentarios Juan Ortizo y Franco Ortizo y Domingo Luengo, y para que conste lo firmé en dicho día, mes y año. Joseph Carrión Cossano.",
+      "uncertainties": [
+        "Letra rápida: el lugar de la sepultura, la cantidad y el tercer testamentario («Domingo Luengo») se leen con reservas. El año es el de la página: el asiento siguiente termina «… año del 1702». El final del asiento de arriba (testamentarios Juan Ortizo y Pedro Miguel, del mismo teniente) y el de abajo (un párvulo, hijo de … y de su mujer Inés Luengo, 1 de diciembre de 1702) no son de la familia.",
+        "La familia archivó la imagen como «Muerte de Domingo Ortijo» entre los séptimos; la partida no nombra a su mujer. Otro Domingo Ortijo, marido de María de Ribas, tuvo una hija en 1675 y también podría ser el difunto."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "domingo-ortiz"
+      ],
+      "applied": [
+        "Entierro el 21-11-1702 en Abelón con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "María de Segovia Cabo.JPG",
-      "sha256": "4a54ba8c29de7a3f00a26fd0b8e804d5cc9c7e58ddd9e827ca3f6b6aa222e959",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "First witness's abbreviated name and concluding words require review; native spelling and abbreviations need close verification.",
-        "Tree María de Segovia is mother of Francisco Hernández de Segovia (1656, El Perdigón), with Lorenzo Hernández. Date is compatible but image names no spouse or descendants and does not explicitly identify the place: match unproven.",
-        "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la María de Segovia existente; no se vincula."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Francisco Martín.JPG",
+          "sha256": "73c3f003f6747661fb04f3674321a414a96863f0ef510d46fd7c025e98593fd7",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1662-10-23",
+      "place": "Sanzoles",
+      "transcription": "Franco Martín.\n\nEn beinte y tres del dicho, yo Germo Núñez enterré a Franco Martín, vº desta villa de Sanzoles; llevó los sacramentos; no hizo testamento; hiciéronse honrras y cabo de año, y lo firmé dicho día. Germo Núñez de Salamanca.",
+      "uncertainties": [
+        "El mes y el año son los del asiento de arriba (Domingo Rubio, vecino de Sanzoles, «En beinte y uno de otubre de mill seiscientos y sesenta y dos», del cura propio Jerónimo Núñez de Salamanca; al margen, «Testamento: tomó por su alma 500 Rs»), que no es de la familia.",
+        "La partida lo llama solo «vecino desta villa de Sanzoles» y no nombra a su mujer; el bautismo de su hijo Pedro (1636) lo llamaba vecino de Villalazán. La identificación descansa en el nombre que la familia dio a la imagen y en el pueblo."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "francisco-martin-padre-de-pedro-martin-fernandez"
+      ],
+      "applied": [
+        "Entierro el 23-10-1662 en Sanzoles con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "Miguel Delgado Rodríguez.JPG",
-      "sha256": "1c4e2118ab30901b5512df525f068e57d711d3d21307d3fa9e7f68ae4c3b853c",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Mother's given name appears like Marquela but not securely read; witness names require independent confirmation.",
-        "Miguel Delgado father of Josefa Delgado Martín (1663) and Isabel Delgado Martín (1674), both Casaseca de las Chanas; chronology and place compatible, but no spouse or children named in baptism. Identity remains unproven."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Juana Pascual.JPG",
+          "sha256": "0a637e81d5e896ba639a9b38c1c7a6e3ac4968fc69af8d6b6c43f7c3d04c09eb",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1676-12-12",
+      "place": "Abelón",
+      "transcription": "Juana Pasqual.\n\nEn 12 de diziembre fue [ilegible] Juana Pasqual, mugʳ de Martín Blanco; [ilegible] ante Domingo Bernabé [ilegible] y lo firmé en dicho día. Juº de Barrio.",
+      "uncertainties": [
+        "Letra muy rápida y tinta corrida. Las palabras que siguen a «fue» parecen «dada sepultura», sin seguridad; «12», «Blanco» y «Domingo Bernabé» se leen con reservas, y no se lee el final del asiento. El margen, bajo el nombre, parece decir «cumpliose».",
+        "La partida no expresa el año: los asientos de la página van del 3 de diciembre (un vecino que nombra testamentarios, entre ellos, al parecer, Domingo Bernabé, y «su hijo y su muger») al 12 (Juana) y a otros dos, el último de los cuales termina «… del año de 1677»; de ahí diciembre de 1676. La firma, «Juº de Barrio», es la del teniente de cura de Abelón en otras partidas del árbol de 1677 a 1688.",
+        "La familia confirmó el 10 de noviembre que esta Juana Pascual, mujer de Martín Blanco, es la madre de María Blanco Pascual (Abelón, 1666)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "juana-pascual"
+      ],
+      "applied": [
+        "Entierro el 12-12-1676 en Abelón con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "Muerte de Alonso Sesma1.JPG",
-      "sha256": "9547a129de87046ba57459ec18f46c5e57b337be4d44325ce8cc6062d51845a1",
-      "status": "asiento incorporado",
-      "researchNotes": [
-        "Borrador aún no verificado palabra por palabra; incluye continuación de la segunda imagen, donde los cuatro nombres son lectura probable pero contexto borroso. Manuel Sesma y Joseph Blanco aparecen en el primer folio, pero no leo con seguridad su relación. Hay coincidencia con María Sesma Crespo, su marido José Blanco y los nombres de hijos de Isabel Crespo; consulta familiar pendiente. 25-11-1726 es entierro, no fecha de muerte."
+      "type": "burial",
+      "images": [
+        {
+          "filename": "Muerte de Magdalena Vaquero.JPG",
+          "sha256": "1e6d71ecc2815099aeb34b1bb11d88ec117c28acc2640980b6f7913a52966012",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1661-09-07",
+      "place": "Sanzoles",
+      "transcription": "Madalena Vaquera.\n\nEn siete de sepᵉ de mil y seis cientos y sesenta y un años yo el Ldo Manuel Marbán, cura teniente desta villa de Sanzoles, enterré a Madalena Baquera, vª desta villa; llevó los sacramentos; está enterrada en el cuerpo de la yglesia; hízosele entierro, honrras y cabo de año y novenario cantados; no hizo testamento.",
+      "uncertainties": [
+        "La última línea y media están en tinta más clara: «hízosele entierro, honrras» y «hizo» se leen con reservas. El asiento no lleva firma (el cura firma los de arriba y abajo, «Manuel Marbán»). Los asientos de arriba (4 de septiembre de 1661, un niño de Domingo Castaño y Ana Caballera) y de abajo (14 de septiembre de 1661, Catalina Ramos, pobre de solemnidad) no son de la familia.",
+        "Una lectura anterior daba el año 1671 («setenta»); la palabra es «sesenta», escrita con s larga, como en los asientos del 4 y del 14 de septiembre de la misma página.",
+        "La partida no nombra parientes (solo «vecina desta villa»); el 9 de noviembre la familia dijo no saber si era la madre de Micaela Hernández Vaquero. Se enlaza por el nombre, el pueblo y el nombre que la familia dio a la imagen."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "magdalena-vaquero"
+      ],
+      "applied": [
+        "Entierro el 07-09-1661 en Sanzoles con transcripción; fallecimiento el día anterior, con nota."
       ]
     },
     {
-      "filename": "Muerte de Alonso Sesma2.JPG",
-      "sha256": "57507994bdc1554504e3ec3ba9472ad88fe2b381dbff6686002ed2cfaf38a2eb",
-      "status": "asiento incorporado",
-      "researchNotes": [
-        "Imagen con continuación y otra entrada; lectura pendiente."
-      ]
-    },
-    {
-      "filename": "Muerte de Ana Blanco.JPG",
-      "sha256": "a755953c51026388914720ed50721490d1f44dda61bff23cb192200572e85cf8",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Escritura tenue. Fecha, cónyuge y relación con ana-blanco requieren comprobación."
-      ]
-    },
-    {
-      "filename": "Muerte de Catalina Gabriel.JPG",
-      "sha256": "9375883254030b4f0fc7f6e343b28d04eca34ebaba80b8aa6c5ccce2fe701f8c",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Dudosos día y año; se menciona al menos un Garrote. No se ha encontrado relación explícita suficientemente segura con los hijos Pedro y Bartolomé o su esposo Juan."
-      ]
-    },
-    {
-      "filename": "Muerte de Catalina Garrote.JPG",
-      "sha256": "d8830834d15a1ac4dd172425e303b17f401846b85b6b2ae065c0725b941723ab",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Muerte de Domingo Diego.JPG",
-      "sha256": "9ca0e52e5f8ae6635914d53746da3a07d65789216d6c065539a6789e7a8e0b13",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "La partida dice entierro y no establece por sí misma muerte exacta; posible discrepancia con domingo-diego (muerte 21-09-1712), pero identidad entre hijo y padre homónimos pendiente. No adjudicar."
-      ]
-    },
-    {
-      "filename": "Muerte de Domingo Hernández.JPG",
-      "sha256": "06f29453df5f56e21b7be4a3bafb4d7e4389270926ea071a8f855d5d6faa9b13",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "La fecha de arriba y relación familiar no son legibles con suficiente seguridad."
-      ]
-    },
-    {
-      "filename": "Muerte de Domingo Ortijo.JPG",
-      "sha256": "bbe00f9ea382fbd4ec90bd2cae31ca599f8199fcb78651ec1e4c0ec4c9aaf175",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Posible lectura de la fecha y año previo aún sin verificar; no identificar por nombre solo."
-      ]
-    },
-    {
-      "filename": "Muerte de Francisco Martín.JPG",
-      "sha256": "73c3f003f6747661fb04f3674321a414a96863f0ef510d46fd7c025e98593fd7",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "El mes aparece en la partida anterior como octubre; el año de esa partida está parcialmente oculto. El día se refiere a la sepultura, no necesariamente al fallecimiento. La partida no identifica cónyuge ni hijos; hay varios Francisco Martín en el árbol."
-      ]
-    },
-    {
-      "filename": "Muerte de Isabel Crespo1.JPG",
-      "sha256": "e9bb8b7a198e84b11bd532c1ca77a2babfdb16799d7f56f5fb7520795b333a6f",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Muerte de Isabel Crespo2.JPG",
-      "sha256": "f3d8e9c2cc85690e9ea0bd2c09a0e19d39144e324bc52592a155abffc22bf81d",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Muerte de Juan Ortijo1.JPG",
-      "sha256": "eb3954189e7a73f02fcb9c1357639871ec2262dfc31cae53c4e55f01dd85abef",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Muerte de Juan Ortijo2.JPG",
-      "sha256": "b4d6bccb97b0b164a0f273a0c0d1ac3494f937daf866a8b4c6acc94855f725df",
-      "status": "asiento incorporado"
-    },
-    {
-      "filename": "Muerte de Juana Pascual.JPG",
-      "sha256": "0a637e81d5e896ba639a9b38c1c7a6e3ac4968fc69af8d6b6c43f7c3d04c09eb",
-      "status": "identidad confirmada; evento y lectura pendientes",
-      "researchNotes": [
-        "Parece decir «En 28 de septiembre», pero la fecha y el tipo de evento requieren nueva lectura. No se ha establecido año. La pareja coincide con los padres de María Blanco Pascual en Abelón."
-      ]
-    },
-    {
-      "filename": "Muerte de Magdalena Vaquero.JPG",
-      "sha256": "1e6d71ecc2815099aeb34b1bb11d88ec117c28acc2640980b6f7913a52966012",
-      "status": "transcripción interna; identidad pendiente",
-      "researchNotes": [
-        "La fecha indicada es la de sepultura y no consta fecha explícita de fallecimiento. La partida no identifica familiares; Magdalena Vaquero es madre de Micaela Hernández Vaquero, de Sanzoles, y esposa de Domingo Hernández. La coincidencia de nombre y localidad no basta para confirmar identidad.",
-        "La familia indicó el 9 de noviembre de 2026 que no sabe si la persona enterrada es Magdalena Vaquero, madre de Micaela; no se vincula."
-      ]
-    },
-    {
-      "filename": "Susana Pérez Delgado.JPG",
-      "sha256": "dc443f6b14d04437771c907ef580f5601951c26e1fb0fdeca549d2369fb86824",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Day, year, father’s given name, godfather and remaining text."
-      ]
-    },
-    {
-      "filename": "Victoria Jambrina Hernández.JPG",
-      "sha256": "24d9f9c4865139124ad432535b401aaea70cfd8d78dad778f3573da18a841b1a",
-      "status": "transcripción interna provisional; identidad pendiente",
-      "researchNotes": [
-        "Godmother surname and second witness name."
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Victoria Jambrina Hernández.JPG",
+          "sha256": "24d9f9c4865139124ad432535b401aaea70cfd8d78dad778f3573da18a841b1a",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1608-04-23",
+      "place": "Arcenillas",
+      "transcription": "En veynte y tres de abril de mill y seiscientos y ocho años baptizé a Vitoria, hija de Antº Xambrina y de Ana Hernández, su muger; fueron sus padrinos Juº Fernández y Ysabel Mazariegos; testigos Andrés Hernández y Juº de [ilegible]; y por ser verdad lo firmé, fecha ut supra. Pedro Delgado.",
+      "uncertainties": [
+        "El margen está cortado por la encuadernación (solo se ve «…ria»). El apellido de la madrina («Mazariegos») se lee con reservas; no se lee el del segundo testigo. Bajo el asiento, la aprobación de un visitador («Vidi et approbavi en diez y ocho de mayo de mill y seiscientos y ocho», firmada por el Ldo … Ordóñez) y el bautismo de María, hija de … del Valle, 21 de mayo de 1608, que no es de la familia.",
+        "La partida no nombra el lugar ni a la familia posterior; se enlaza por el nombre, el que la familia dio a la imagen, el cura de Arcenillas y la edad (32 años al nacer su hija Ana María, en 1640)."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "victoria-jambrina"
+      ],
+      "applied": [
+        "Bautismo el 23-04-1608 en Arcenillas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Antonio Jambrina y Ana Hernández, y el nombre pasa a Victoria Jambrina Hernández."
       ]
     }
   ],
@@ -993,766 +1670,6 @@
       "sourceExcerpts": [
         "Joseph Perez y Ana de Luelmo"
       ]
-    }
-  ],
-  "unlinkedEntries": [
-    {
-      "id": "septimos-bautismo-alonso-rodriguez-1611",
-      "type": "baptism",
-      "image": {
-        "filename": "Alonso Rodríguez Martín.JPG",
-        "sha256": "52b83cb20554abf50cb5a011bca0ec011cdd9997d3b9f8bd2cc780e23df52a35"
-      },
-      "transcription": "en los treze de abril de mil y seisçientos y once años bautize yo el licenciado [ilegible] cura de la casa seca de las Chanas alº hijo de alº rodriguez y de isabel [ilegible] martin vºs del dicho lugar fue su padrino juº martin testigos [ilegible] del dicho lugar y por verdad lo firme",
-      "readingUncertainties": "Officiant and witnesses need review; a blot touches mother’s name.",
-      "identityUnresolved": "La familia confirmó el 9 de noviembre de 2026 que el bautizado es distinto de Alonso Rodríguez, padre de Juan Rodríguez Corralino. Su otra identificación permanece pendiente.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-ana-luelmo-1648",
-      "type": "baptism",
-      "image": {
-        "filename": "Ana Luelmo Martín.JPG",
-        "sha256": "c40c5027f2dac93313b268d69fc243430eeee68fe899fa61ef16c7f5e2da9bcd"
-      },
-      "transcription": "en 14 de noviembre de 1648 años [ilegible] baptice a ana hija de Bartolome de luelmo y de ynes martin fueron padrinos pedro de luelmo y felipa martin testigos [ilegible] y lo firme",
-      "readingUncertainties": "Officiant, witness names and some words affected by ink and focus; remaining writing represented by gaps.",
-      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es Ana de Luelmo, madre de José Pérez Luelmo. No se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional",
-      "relatedPeople": [
-        {
-          "person": "maria-de-luelmo-madre-de-juan-brioso",
-          "relationship": "hermana, por coincidencia de los dos progenitores y cronología"
-        },
-        {
-          "person": "juan-de-luelmo-padre-de-jeronimo",
-          "relationship": "hermano, por coincidencia de los dos progenitores y cronología"
-        }
-      ]
-    },
-    {
-      "id": "septimos-bautismo-lorenzo-1628",
-      "type": "baptism",
-      "image": {
-        "filename": "Lorenzo Hernández Tamame.JPG",
-        "sha256": "b46b85632748efb6c96d7100aaf3badac1a01814f7beb31e174bb8e25a0cd3f4"
-      },
-      "transcription": "En Seis dias del Mes de febrero de mill y [ilegible] y veynte y ocho años Yo Melchior [ilegible] Cura deste lugar del Perdigon. Baptize a Lorenço Hijo de Lorenço [ilegible] y de Ynes Tamame su muger vºs deste dicho lugar fue su Padrino [ilegible] y testigos [ilegible] Miguel y [ilegible] vºs del dicho lugar y yo que En fee de Verdad lo firme",
-      "readingUncertainties": "El apellido paterno puede ser Hernández o Fernández. El año figura en el margen como 1628. Los nombres del padrino y testigos y diversas abreviaturas requieren más revisión.",
-      "identityUnresolved": "Tree lorenzo-hernandez father of Francisco Hernández de Segovia born 1656 El Perdigón with María de Segovia. Place and timing compatible but no spouse or descendant named in this baptism; identity unproven.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-luis-1657",
-      "type": "baptism",
-      "image": {
-        "filename": "Luis Valladolid Gaitán.JPG",
-        "sha256": "6c5916abc732508a17413cd421427308b18017d0f9a3cb4dbcee44e94f78ae04"
-      },
-      "transcription": "Año de 1657. en dos de febº bautize a luis hijo de Domingo valladolid y Maria gaitana [ilegible] deste lugr fue su padrino Luis gaitan [ilegible] luis alonso [ilegible] Sacristan, y andres diego de la laguna y por verdad lo firme",
-      "readingUncertainties": "Year is in page heading rather than the individual entry; abbreviated descriptors and connection to witnesses need another reading.",
-      "identityUnresolved": "Tree luis-de-valladolid, origin Casaseca de las Chanas and father of Agustín born 1684, is plausible by time but the source names no spouse or children; identity not established.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-catalina-jurado-1630",
-      "type": "baptism",
-      "image": {
-        "filename": "Catalina Jurado Delgado.JPG",
-        "sha256": "cc50b695436d373e071ae6e5ffd6e85885d835f819fc0bb72c0b189f4b68c355"
-      },
-      "transcription": "En [ilegible] de abril de 1630 años baptizo en [ilegible] yglesia de casa seca de las chanas [ilegible] prior de peleas de abaxo a catalina [ilegible] alº jurado y de catalina delgada su [ilegible] fue su padrino el licenciado alº de llamas cura propio de casa seca de las chanas siendo testigos juº garcia de la yglesia y luys de [ilegible] y lo firmo [ilegible] dicho dia mes y año",
-      "readingUncertainties": "El día parece 21 o 24; no se ha escogido. Las palabras y abreviaturas dudosas se señalan [ilegible].",
-      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la Catalina Jurado ya registrada como madre de Catalina Delgado Jurado. No se vincula con esa persona; la coincidencia de ambos progenitores y la localidad permite reconocerla como hermana de María Jurado Delgado.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional",
-      "relatedPeople": [
-        {
-          "person": "maria-jurado",
-          "relationship": "hermana, por coincidencia de los dos progenitores y localidad"
-        }
-      ]
-    },
-    {
-      "id": "septimos-matrimonio-juan-perez-isabel-luelmo-1688",
-      "type": "marriage",
-      "image": {
-        "filename": "Juan Pérez e Isabel de Luelmo.JPG",
-        "sha256": "bfa3037f3f4e658e1c8c4151974d35f1c68f1280dcb5c5c2415a093aea01f0fb"
-      },
-      "transcription": "En diez y siete dias del mes de setiembre de este presente año de mil seis cientos y ochenta y ocho desposé por palabras de presente [ilegible] matrimonio con orden de [ilegible] Provisor de este obispado [ilegible] a Juan Perez Vº de Sanfrontes viudo de franᶜᵃ [ilegible] y a Ysabel de luelmo auiendo precedido las tres amonestaciones [ilegible] concilio de Trento [ilegible] fueron testigos [ilegible] Geronimo de luelmo y en fee dello lo firme [ilegible] ut supra",
-      "readingUncertainties": "El apellido de la esposa anterior, varios testigos, la anotación marginal y algunas abreviaturas requieren revisión.",
-      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si esta pareja es la registrada como padres de Juan Pérez de Luelmo. No se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-juana-tobar-sin-ano",
-      "type": "baptism",
-      "image": {
-        "filename": "Juana Tobal Rodríguez.JPG",
-        "sha256": "82a305468aa42fd57e24a94b812205141d42d27123c892a1acc51c0f03c85b45"
-      },
-      "transcription": "En 15 de setiembre se bautizo Juana hija de tobar y maria [ilegible] su muger padrino pº calvo moço testigos [ilegible] hernandez y [ilegible] alonso",
-      "readingUncertainties": "El apellido de la madre y las palabras alrededor de los testigos y la firma son dudosos. La partida no expresa su propio año.",
-      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si la bautizada es la Juana Tobal registrada como madre de Antonio Morales Tobal; no se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-maria-segovia-1623",
-      "type": "baptism",
-      "image": {
-        "filename": "María de Segovia Cabo.JPG",
-        "sha256": "4a54ba8c29de7a3f00a26fd0b8e804d5cc9c7e58ddd9e827ca3f6b6aa222e959"
-      },
-      "transcription": "En Tres dias del Mes de Agosto de mill y seiscientos y Veynte y tres años. Yo el dicho Cura Bapt[ilegible] a Maria Hija de Alonso de Segobia Y de Maria de Cabo Su muger. vºs deste dicho lugar y fue Su Padrino Alonso de Cabo Su abuelo Y testigos [ilegible] Maria Y Miguel Matheos Clerigos Y Roque hernandez con otros muchos vºs del dho Lugar E yo q en fee de verdad firme",
-      "readingUncertainties": "El nombre del primer testigo y algunas abreviaturas requieren revisión. El abuelo Alonso de Cabo es expresamente el padrino. La grafía exacta del verbo de bautismo no se resuelve con seguridad.",
-      "identityUnresolved": "La familia indicó el 9 de noviembre de 2026 que no sabe si esta María es la madre ya registrada de Francisco Hernández de Segovia; no se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-entierro-magdalena-vaquero-1671",
-      "type": "burial",
-      "image": {
-        "filename": "Muerte de Magdalena Vaquero.JPG",
-        "sha256": "1e6d71ecc2815099aeb34b1bb11d88ec117c28acc2640980b6f7913a52966012"
-      },
-      "transcription": "En siete de Sepᵉ de mil y seis cientos y setenta y un años yo el Lcdo Manuel Marban Cura teniente desta villa de [ilegible] enterre a Madalena baquera Vª desta villa lleuo los Sacramentos esta enterrada en el cuerpo de la yglesia [ilegible] y cabo de año y novenario Cantados No [ilegible] testamento",
-      "readingUncertainties": [
-        "El nombre de la villa parece Sancoles o Sançoles; no se normaliza en la transcripción mientras la grafía no esté clara.",
-        "En el texto desvaído tras yglesia se distinguen trazos, pero la frase no se ha leído con seguridad.",
-        "El borrador anterior transcribía No hizo testamento; hizo está desvaído y no es suficientemente seguro para este lector. La negación y testamento se leen; no se extrae ninguna conclusión sobre el testamento sin confirmar la palabra intermedia.",
-        "No hay fecha explícita de fallecimiento; la fecha encabezada corresponde al entierro."
-      ],
-      "identityUnresolved": "La familia ha indicado que no sabe si esta persona corresponde a Magdalena Vaquero, madre de Micaela Hernández Vaquero. No se asigna identidad ni se enlaza.",
-      "links": [],
-      "status": "lectura conservadora; identidad sin resolver"
-    },
-    {
-      "id": "septimos-bautismo-juan-carbajal-1624",
-      "type": "baptism",
-      "image": {
-        "filename": "Juan Carbajal Galán.JPG",
-        "sha256": "016be4e353e5cef176e60fc4161ec545e44bdbfdfc264cebde3a91a91b27ca1d"
-      },
-      "transcription": "en [ilegible] de otubre de mil y seys cientos y [ilegible] años baptize yo el licenciado [ilegible] cura deste lugar a Juan hijo de [ilegible] carba[ilegible] y de ysabel galana su muger fue su padrino pedro [ilegible] deste lugar testigos luis [ilegible] juan Alonso [ilegible] del dicho lugar y [ilegible]",
-      "readingUncertainties": [
-        "El día se ha interpretado como uno o cinco; no se escoge una lectura. La cabecera sitúa el asiento en octubre de 1624.",
-        "El nombre del padre y parte del apellido se leen en el margen, pero están afectados por tinta y trazos superpuestos. El nombre del padrino, testigos y cierre requieren revisión."
-      ],
-      "identityUnresolved": "La familia indicó que no sabe si el bautizado es el Juan Carbajal padre de Francisco Carbajal Alonso; no se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-bautismo-phelipe-hijo-domingo-gil",
-      "type": "baptism",
-      "image": {
-        "filename": "Domingo Gil Triguero.JPG",
-        "sha256": "78097a2b3a27e673012957df40c06d17c1e0fd171573eec36cf0e9faf88ef602"
-      },
-      "transcription": "En hocho dias del mes de Mayo de mill y seyscientos y treynta y [ilegible] años bauptiçe A Phelipe hijo de Domingo gil y de su muger ma[ilegible] martin fueron Padrinos manuel de Sierra y maria gago y por [ilegible]dad firme Aqui mi nombre [ilegible]",
-      "readingUncertainties": [
-        "La cifra final del año está junto al pliegue; puede ser dos, pero se conserva el hueco.",
-        "El nombre de la madre queda cortado. El bautizado es Phelipe; Domingo es su padre."
-      ],
-      "identityUnresolved": "Existe Felipe Gil, padre de Juana Gil Sariñana nacida en Toro en 1668; el asiento no identifica a su cónyuge ni a su hija. No se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; requiere revisión adicional"
-    },
-    {
-      "id": "septimos-oleos-domingo-calvo-1610",
-      "type": "holyOils",
-      "image": {
-        "filename": "Domingo Calvo Álvarez.JPG",
-        "sha256": "53b826829b0cc05161bd42ad1d124c28fecaa51723511cd825b0ebb1f424cba0"
-      },
-      "transcription": "En Veinte y dos de Septiembre de mil y seiscientos y diez años Puse los santos oleos a Domingo calbo hijo de domingo calbo y de maria alvarez su muger fueron sus padrinos [ilegible] testigos [ilegible] y por ser asi verdad lo firme fecha ut supra [ilegible]",
-      "readingUncertainties": [
-        "Partes de padrinos y testigos se encuentran tachadas o difíciles de leer.",
-        "La fecha corresponde a los santos óleos; no se interpreta como fecha explícita de bautismo o nacimiento."
-      ],
-      "identityUnresolved": "El árbol registra a Domingo Calvo, padre de Francisco Calvo García nacido en Arcenillas en 1640. El asiento no nombra a Francisco ni a María García y tampoco prueba que sea el Domingo de la otra partida de 1659. No se vincula.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-entierro-domingo-diego-1704",
-      "type": "burial",
-      "image": {
-        "filename": "Muerte de Domingo Diego.JPG",
-        "sha256": "9ca0e52e5f8ae6635914d53746da3a07d65789216d6c065539a6789e7a8e0b13"
-      },
-      "transcription": "en diez i ocho de setiembre de mil setecientos y quatro años se enterro en esta parrochial de [ilegible] del lugar de abelon a domingo diego el qual habia muerto [ilegible] habia Recibido los santos sacramentos [ilegible] fueron testamentarios [ilegible] y alonso diego todos Vºs deste lugar y para que conste lo firme en dicho dia mes y año [ilegible]",
-      "readingUncertainties": [
-        "No se ha leído con seguridad todo el texto relativo al fallecimiento, el testamento y los testamentarios.",
-        "La fecha encabeza el entierro; no se ha identificado una fecha independiente de fallecimiento."
-      ],
-      "identityUnresolved": "El árbol registra a Domingo Diego Bernabé, nacido en Abelón en 1649 y fallecido el 21 de septiembre de 1712, y a su padre Domingo Diego, sin fecha de fallecimiento. El entierro de 1704 no se ha asignado a ninguno: falta identificar a la persona del asiento. No se ha cambiado la fecha de 1712.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-fallecimiento-domingo-calbo-1659",
-      "type": "death",
-      "image": {
-        "filename": "Domingo Calvo Álvarez2.JPG",
-        "sha256": "c812c943fb37025f933a5d44cd3a892471aab6e0b500f945323f4ed7494359cf"
-      },
-      "transcription": "en once de maio de 1659 años murio domingo cal[ilegible] vecino deste lugar de Arcenillas Recibio todos los [ilegible]mentos enterrose en la capilla maior de la yglesia [ilegible] dexo por su alma ciento y cinquenta misas [ilegible] que se digan en esta yglesia de Arcenillas [ilegible] en el convento de [ilegible] descalços de Zamora [ilegible] en el Convento de la trinidad de la dicha ciudad [ilegible] fueron sus testamentarios [ilegible] manso y Alonso garcia y en fe dello lo firme [ilegible] y honrras y cabo de año",
-      "readingUncertainties": [
-        "El apellido está parcialmente oculto en el pliegue; no se completa a partir del nombre del archivo.",
-        "El texto data el fallecimiento; menciona sepultura en la capilla mayor sin fecha separada. La distribución de las misas y algunos nombres requieren más revisión."
-      ],
-      "identityUnresolved": "El árbol registra un Domingo Calvo, padre de Francisco Calvo García nacido en Arcenillas en 1640 con María García. No se lee un cónyuge o un hijo en esta partida, y tampoco se ha demostrado que sea el niño a quien se administraron los óleos en 1610.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-asiento-catalina-gabriel",
-      "type": "unclassified",
-      "image": {
-        "filename": "Muerte de Catalina Gabriel.JPG",
-        "sha256": "9375883254030b4f0fc7f6e343b28d04eca34ebaba80b8aa6c5ccce2fe701f8c"
-      },
-      "transcription": "en ocho de junio de mil setecientos y [ilegible] años [ilegible] Catalina gabriel la qual [ilegible] los Santos Sacramentos [ilegible] lo firme en dicho dia mes y año [ilegible]",
-      "readingUncertainties": [
-        "El año parece 1702 y la acción parece una sepultura, pero requieren comprobación. Los nombres y relaciones de personas mencionadas necesitan una nueva lectura."
-      ],
-      "identityUnresolved": "Catalina Gabriel figura en el árbol como madre de Pedro y Bartolomé Garrote Gabriel, nacidos en Abelón en 1656 y 1658, con Juan Garrote. No se ha leído una relación familiar que permita confirmar la identificación.",
-      "links": [],
-      "status": "lectura conservadora provisional; evento e identidad pendientes"
-    },
-    {
-      "id": "septimos-entierro-domingo-ortijo",
-      "type": "burial",
-      "image": {
-        "filename": "Muerte de Domingo Ortijo.JPG",
-        "sha256": "bbe00f9ea382fbd4ec90bd2cae31ca599f8199fcb78651ec1e4c0ec4c9aaf175"
-      },
-      "transcription": "en [ilegible] de nobiembre de dicho año [ilegible] domingo ortijo el qual abia [ilegible] testamento [ilegible] fueron sus testamentarios [ilegible] y para que conste lo firme en dicho dia mes y año [ilegible]",
-      "readingUncertainties": [
-        "El año se refiere al asiento anterior y requiere lectura contextual. No se ha confirmado una fecha separada de fallecimiento.",
-        "Los nombres y parentesco de las personas mencionadas al final necesitan comprobación adicional.",
-        "El detalle de la confesión y la fórmula sobre el testamento no se han completado, y los testamentarios no se identifican sin una lectura fiable.",
-        "El día parece veinte y uno; otra lectura preliminar decía trece. Se deja sin resolver en la transcripción."
-      ],
-      "identityUnresolved": "Domingo Ortiz figura en el árbol como padre de Inés Ortijo nacida en Abelón en 1657, con Ana Blanco. El asiento no ha identificado de forma segura a Inés o Ana; no se asigna por semejanza de nombre.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-asiento-ana-blanca-1",
-      "type": "unclassified",
-      "image": {
-        "filename": "Muerte de Ana Blanco.JPG",
-        "sha256": "a755953c51026388914720ed50721490d1f44dda61bff23cb192200572e85cf8"
-      },
-      "transcription": "en onze de setiembre [ilegible] Ana Blanca [ilegible] testamento [ilegible]",
-      "readingUncertainties": [
-        "Se observan dos asientos diferentes de personas llamadas Ana Blanca. La lectura del año, el día del segundo asiento y el nombre del marido requiere revisión."
-      ],
-      "identityUnresolved": "La Ana Blanco del árbol es madre de Inés Ortijo nacida en Abelón en 1657 y pareja de Domingo Ortiz. No se identifica con seguridad cuál de las dos partidas corresponde a ella.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-asiento-ana-blanca-2",
-      "type": "unclassified",
-      "image": {
-        "filename": "Muerte de Ana Blanco.JPG",
-        "sha256": "a755953c51026388914720ed50721490d1f44dda61bff23cb192200572e85cf8"
-      },
-      "transcription": "En beinte y [ilegible] de nobiembre [ilegible] murio Ana Blanca muger de [ilegible] los Santos Sacramentos [ilegible]",
-      "readingUncertainties": [
-        "Se observan dos asientos diferentes de personas llamadas Ana Blanca. La lectura del año, el día del segundo asiento y el nombre del marido requiere revisión."
-      ],
-      "identityUnresolved": "La Ana Blanco del árbol es madre de Inés Ortijo nacida en Abelón en 1657 y pareja de Domingo Ortiz. No se identifica con seguridad cuál de las dos partidas corresponde a ella.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-ana-morales-sin-ano",
-      "type": "baptism",
-      "image": {
-        "filename": "Ana Morales Simón.JPG",
-        "sha256": "916ffb298fe59889297c7ac8c0aba27e992c195c93a2bfcb30a83ca1c00db2bf"
-      },
-      "transcription": "Ana Morales\n\nen 12 de agosto bautice yo [ilegible] cura de [ilegible] a ana morales yja de juan morales y de maria simona su muger fue su padrino manuel rodriguez moreno cura del dicho lugar de casa seca de las chanas testigos [ilegible] y domingo bueno sacristan y lo firme",
-      "readingUncertainties": [
-        "El asiento no escribe año; el posterior parece fechado en agosto de 1678, pero no se ha fijado el año del asiento objetivo."
-      ],
-      "identityUnresolved": "La Ana Morales del árbol es madre de Felipe Moreno Morales nacido en 1673. Si el año contextual fuera 1678 la identificación sería incompatible; no se enlaza.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-andres-pascual-sin-dia",
-      "type": "baptism",
-      "image": {
-        "filename": "Andrés Pascual Salvador.JPG",
-        "sha256": "35c9abafba53880977bf4cf6613531fc8339c1a786feca0d2f4ae9c419b9a3e8"
-      },
-      "transcription": "Año de [ilegible]\n\nEn [ilegible] de henero del dicho año Baptice a Andres hijo de Alonso pasqual y de catalina salvador [ilegible] padrino domingo Ramos y por verdad firme ut supra",
-      "readingUncertainties": [
-        "El encabezamiento parece 1656, pero requiere comprobación; el día contiene una alteración y no se elige entre 8 y 16."
-      ],
-      "identityUnresolved": "Andrés Pascual es padre de Juan Pascual Cordero nacido en 1676 en Torregamones; el asiento no identifica esposa ni hijo. No se enlaza.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-blas-morales",
-      "type": "baptism",
-      "image": {
-        "filename": "Blas Morales Mateo.JPG",
-        "sha256": "a600441f38189ef14b3338f76a14e9c8f94a12b0330b515515f2eede17a45985"
-      },
-      "transcription": "en catorce dias del mes de [ilegible] [ilegible] y quarenta y un años baptize [ilegible] cura desta yglesia a blas hijo de [ilegible] morales y de [ilegible] fue su padrino [ilegible] y lo firme",
-      "readingUncertainties": [
-        "El mes y los nombres de los padres no se leen con seguridad. El año parece 1641, pero se deja sin completar."
-      ],
-      "identityUnresolved": "El Blas Morales del árbol es padre de Antonio Morales Tobal nacido en 1674 con Juana Tobal; el asiento no identifica pareja ni hijo. No se enlaza.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-catalina-hija-sebastian",
-      "type": "baptism",
-      "image": {
-        "filename": "Catalina Colástica Carnero.JPG",
-        "sha256": "0b61dfb3f04caec0e1c6c19148935f8a42bf07c2ac7d32d00123ec4fb36a77d4"
-      },
-      "transcription": "En quinze de Julio de Mill y seis [ilegible] quarenta Bautice a catalina Hija de Sebastian de [ilegible] y Catalina Carnero fueron sus Padrinos Domingo [ilegible] y Maria [ilegible] [ilegible] lo firme",
-      "readingUncertainties": [
-        "La escritura del año parece 1640, pero requiere revisión; el apellido de Sebastián y los de los padrinos no están suficientemente claros."
-      ],
-      "identityUnresolved": "Catalina Colástico del árbol es madre de Francisco Herrero Colástico nacido en 1661 en Pereruela con Domingo Herrero. El asiento no nombra a esposo ni hijo; no se enlaza.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-joan-pasquala-gago",
-      "type": "baptism",
-      "image": {
-        "filename": "Juan Hernández Gago.JPG",
-        "sha256": "7dc9a159a4f3a641e4829f426c451ef7b2c5375f766ce7012f909e779737823b"
-      },
-      "transcription": "En seis de Agosto de mil [ilegible] Bautice a Joan hijo de [ilegible] y pasquala gago fueron sus padrinos Joan [ilegible] y maria ponce [ilegible] lo firme [ilegible]",
-      "readingUncertainties": [
-        "Revisar día, año, nombre del padre, apellido del padrino y firma."
-      ],
-      "identityUnresolved": "Juan Hernández en árbol, nacido en Fuentesaúco, es padre de Agustina Hernández Avilés nacida 1705 allí con Isabel Avilés; esta inscripción no menciona al cónyuge ni hijos. Identidad no demostrada.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-hijo-isabel",
-      "type": "baptism",
-      "image": {
-        "filename": "Juan Hernández Teruelo.JPG",
-        "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa"
-      },
-      "transcription": "A catorze [ilegible] del dicho año baptice un niño que se llamo [ilegible] hijo de [ilegible] hernandez y de isabel [ilegible] fueron padrinos Alonso vicente y [ilegible] hernandez [ilegible] firme ut sᵃ [ilegible]",
-      "readingUncertainties": [
-        "El nombre del niño parece abreviatura de Juan y el apellido de la madre parece tiruela, pero no se leen con plena seguridad. Mes y año requieren identificación segura del asiento de referencia."
-      ],
-      "identityUnresolved": "Juan Hernández en árbol, nacido en Fuentesaúco, es padre de Agustina Hernández Avilés nacida 1705 allí con Isabel Avilés; esta inscripción no menciona al cónyuge ni hijos. Identidad no demostrada.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-isabel-hista-1656",
-      "type": "baptism",
-      "image": {
-        "filename": "Isabel Hernández Hista.JPG",
-        "sha256": "376e3f673b3650b806c3e9cd5f09580998f2722c8aee924c631a67de9223baae"
-      },
-      "transcription": "En beinte ocho dias del mes de febrero de mil y seiscientos y cinquenta y seis años yo Alonso [ilegible] cura propio deste lugar [ilegible] Baptize a Ysabel hija de Domingo [ilegible] y de merenciana hista su muger [ilegible] deste lugar fueron sus padrinos Alonso Rodriguez y ysabel Ponce testigos Alonso Calbo y Miguel [ilegible] todos [ilegible] deste lugar y lo firme [ilegible]",
-      "readingUncertainties": [
-        "El apellido del padre está abreviado y necesita verificación; hay otras palabras, testigos y firma no leídos."
-      ],
-      "identityUnresolved": "Isabel Hernández en árbol es madre de Andrea Juárez Hernández nacida en Zamora en 1732 con Manuel Juárez. La persona bautizada en 1656 tendría unos 76 años en 1732; la imagen no identifica esposo ni hija. Identidad incompatible en términos de cronología y no demostrada.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-isabel-martin-alonso",
-      "type": "baptism",
-      "image": {
-        "filename": "Isabel Martín Alonso.JPG",
-        "sha256": "304578a0d7e1695d8cd61e1cdf081a63dba7e2fcd0b3f5d7eedcf7ca818bfe4a"
-      },
-      "transcription": "En 15 de julio de [ilegible] [ilegible] cura propio [ilegible] ysabel [ilegible] fue su padrino [ilegible]",
-      "readingUncertainties": [
-        "El año parece 1635; la identidad de padres, padrino y final exigen revisión."
-      ],
-      "identityUnresolved": "Dos candidatas: Isabel Martín, madre de Josefa Delgado Martín nacida 1663 y de Isabel Delgado Martín nacida 1674 con Miguel Delgado en Casaseca de las Chanas; otra Isabel Martín es madre de Juan Pérez Martín nacido 1678 en Tardobispo con José Pérez. Nombre sin padres ni cónyuge no prueba identidad.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-bautismo-isabel-rubia",
-      "type": "baptism",
-      "image": {
-        "filename": "Isabel Martín Rubio.JPG",
-        "sha256": "0941b2abd1709be8968e595382a1f1abdd510b90ccce858329bde6c07a19eeef"
-      },
-      "transcription": "en diez dias del mes de [ilegible] de mil y seiscientos [ilegible] años [ilegible] cura propio [ilegible] baptizé a ysabel hija de benito [ilegible] y de maria Rubia [ilegible] padrino [ilegible] y por ser verdad lo firme [ilegible]",
-      "readingUncertainties": [
-        "Mes parece agosto y el año podría ser 1631, pero no se fijan sin revisión. También necesita revisión el apellido del padre y las últimas líneas."
-      ],
-      "identityUnresolved": "Posibles candidatas: Isabel Martín madre de Josefa Delgado Martín (1663) e Isabel Delgado Martín (1674) con Miguel Delgado en Casaseca; otra Isabel Martín madre de Juan Pérez Martín (1678) con José Pérez en Tardobispo. La partida no establece esposo, hijos ni lugar sin otras pruebas.",
-      "links": [],
-      "status": "lectura conservadora provisional; identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-alonso-delgado-galan",
-      "type": "baptism",
-      "image": {
-        "filename": "Alonso Delgado Galán.JPG",
-        "sha256": "0042eba6eba7d3064cebc3afc97d60ec119e535914ce9d004225875f89470338"
-      },
-      "transcription": "alº yjo de anton delgado y de ysabel galana. en [ilegible] de mayo de mil y seisçientos y diez y seis años bautice yo el licenciado [ilegible] desta yglesia a alº [ilegible] de anton delgado y de ysabel galan[ilegible] fue su padrino pº delgado [ilegible]",
-      "readingUncertainties": [
-        "El padre se lee como «anton delgado» en margen y cuerpo; la madre «ysabel galana» en el margen. El final de su apellido en el cuerpo cae en el pliegue.",
-        "El día de mayo y partes del texto no se leen con seguridad."
-      ],
-      "identityUnresolved": "alonso-delgado es padre de Catalina Delgado Jurado nacida en Casaseca en 1656 y pareja de Catalina Jurado. La partida no nombra cónyuge ni hija y no se demuestra la identidad.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-alonso-garcia-blanco",
-      "type": "baptism",
-      "image": {
-        "filename": "Alonso García Blanco.JPG",
-        "sha256": "f4d1edb6f0dc5f12066bafa3480b5bcb9b21ce7dfa36e007ae5f34de9a0cc71c"
-      },
-      "transcription": "En ocho dias del mes de agosto de [ilegible] años bautice yo el licenciado [ilegible] a alº hijo de domingo garcia y de su muger [ilegible] blanca fueron sus padrinos [ilegible] siendo testigos [ilegible] y por verdad lo firme",
-      "readingUncertainties": [
-        "El nombre de la madre parece abreviado; no se completa. Los nombres de padrinos y testigos requieren lectura adicional.",
-        "El año requiere cotejo sin trasladar dígitos modernos al texto de la partida."
-      ],
-      "identityUnresolved": "alonso-garcia-padre-de-martin-garcia, padre de Martín García Cordero nacido en Casaseca en 1657 con María Cordero, podría concordar en fechas, pero sin cónyuge o descendiente nombrados no se establece identidad. alonso-garcia, nacido en 1684, es una persona diferente.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-ana-hernandez-de-la-iglesia",
-      "type": "baptism",
-      "image": {
-        "filename": "Ana Hernández de la Iglesia.JPG",
-        "sha256": "c24a6658bd75b6e4cc25be5f5fa9ef90a1d15da97398432e31b650f8d2189bec"
-      },
-      "transcription": "en 3 de junio de 635 [ilegible] ana [ilegible] hija de [ilegible] anton de la yglesia [ilegible]",
-      "readingUncertainties": [
-        "El apellido de la niña podría leerse fernandez o hernandez; no se completa por el nombre del archivo. La lectura del primer progenitor es incierta.",
-        "El año abreviado 635 podría interpretarse como 1635 por contexto, pero no se expande en la transcripción."
-      ],
-      "identityUnresolved": "Existen varias Ana Hernández con parejas o hijos diferentes. Esta partida no establece una vinculación segura con ninguna.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-corralino-dominguez",
-      "type": "baptism",
-      "image": {
-        "filename": "María Corralino Domínguez.JPG",
-        "sha256": "4a94079a85a61668b015614c39effaeb089013f11dea75d79996dd6a184dfd33"
-      },
-      "transcription": "En diez y nuebe dias del mes de setᵉ de mil y seiscientos y treze yo el dicho cura Baptize a mª hija de juº corralino y [ilegible] dominguez vºs deste lugar fue su padrino [ilegible] testigos domingo [ilegible] vºs del dicho lugar y lo firme yo el dicho cura",
-      "readingUncertainties": [
-        "El mes se abrevia «setᵉ»; la identificación de esa abreviatura con setiembre es interpretación, no texto expandido. El nombre de la madre parece abreviado Ysabel, pero se deja en hueco.",
-        "Algunos nombres de testigos son parcialmente legibles y requieren verificación."
-      ],
-      "identityUnresolved": "maria-corralino es madre de Juan Rodríguez Corralino nacido en Casaseca en 1651 y pareja de Alonso Rodríguez. La partida no nombra pareja ni hijo y por sí sola no identifica a esa madre.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-delgado-delgado",
-      "type": "baptism",
-      "image": {
-        "filename": "María Delgado Delgado.JPG",
-        "sha256": "46274d39f6b4cce70b7776bd920a47054ac7e8d803480872b584c3ee590f7426"
-      },
-      "transcription": "en veynte y quatro de febrero deste año de 1617 años bautice yo el licenciado [ilegible] cura desta yglesia a [ilegible] yja de antonio delgado y de ysabel delgada fue su padrino [ilegible] testigos [ilegible] vºs deste lugar y lo firme",
-      "readingUncertainties": [
-        "La primera palabra del nombre de la bautizada podría ser maria o antonia; en el margen aparece una lectura parecida a maria, pero no se completa el cuerpo por el margen ni por el archivo.",
-        "Nombres de padrino y testigos y partes junto al pliegue requieren revisión.",
-        "El nombre del cuerpo puede leerse Antonia; el margen parece María. No se resuelve la discrepancia."
-      ],
-      "identityUnresolved": "maria-delgado es madre de Úrsula Martín Delgado nacida en Casaseca en 1654, con Benito Martín. Como no se puede fijar con seguridad ni siquiera el nombre de la niña, no se establece identidad.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-delgado-nieto",
-      "type": "baptism",
-      "image": {
-        "filename": "María Delgado Nieto.JPG",
-        "sha256": "7f731da91bd8f36476afe4c350e00ce1b38ba7e5dfa0f5301c7c87ccb68e03a6"
-      },
-      "transcription": "en [ilegible] de otubre de 1617 años bautice [ilegible] a maria [ilegible] de juº delgado y de maria nieta fue su Padrino prudencio gomez testigos [ilegible] del lugar y lo firme",
-      "readingUncertainties": [
-        "El día puede ser veinte, pero su lectura no es suficientemente segura. El sacerdote y partes del asiento próximas al pliegue están ocultos. El padre parece abreviado juº; un testigo parece Andrés, apellido dudoso."
-      ],
-      "identityUnresolved": "maria-delgado es madre de Úrsula Martín Delgado, nacida en 1654, y esposa de Benito Martín en Casaseca de las Chanas. Ninguno de ellos figura identificado en el asiento; coincidencia no demostrada.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-garcia-cabrero",
-      "type": "baptism",
-      "image": {
-        "filename": "María García Cabrero.JPG",
-        "sha256": "23d5d58c2d650e7cefa88a94276732454cf897ecda8435df852e616fc81ded9a"
-      },
-      "transcription": "En tres de julio de mil y seisçientos [ilegible] seis años baptize a Maria hija de Antº garcia y de maria cabrera su muger fueron sus Padrinos Antº Rodriguez y ysabel [ilegible] testigos [ilegible] y por ser verdad lo firme fecha vt supra",
-      "readingUncertainties": [
-        "El año está parcialmente tapado por la firma: podría ser 1616 o 1666; no es posible resolverlo con seguridad en la imagen. Apellidos de madrina y testigos requieren revisión."
-      ],
-      "identityUnresolved": "Varias María García en árbol; ninguna se identifica por ambos progenitores, cónyuge e hijos en la partida. No enlazar solo por nombre.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-alfonso-cayado",
-      "type": "baptism",
-      "image": {
-        "filename": "María Alfonso Cayado.JPG",
-        "sha256": "4cdfe7e3357fc6a376d4789c2aad4202502ed36f243d1dd7a715648050cc767a"
-      },
-      "transcription": "En veinte y seis dias del mes de Abril de mil seisçientos [ilegible] y cinco años yo Don Antonio de valencia Cura propio desta [ilegible] de Malillos Bautice una hija de lorenço Alfonso y de su muger Maria Caiada llamose Maria fue su padrino Domingo [ilegible] y Madrina Maria de los Angeles y en fe de ello lo firme [ilegible]",
-      "readingUncertainties": [
-        "Año parece 1655, pero escritura y trazo encima exigen revisión. Se lee parroquia de Malillos, aunque hay abreviaciones. Apellido de padrino y fórmula final requieren revisión."
-      ],
-      "identityUnresolved": "No encontré coincidencia inequívoca en records.json; falta un parentesco adicional que permita enlazar una persona existente.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-susana-perez-delgado",
-      "type": "baptism",
-      "image": {
-        "filename": "Susana Pérez Delgado.JPG",
-        "sha256": "dc443f6b14d04437771c907ef580f5601951c26e1fb0fdeca549d2369fb86824"
-      },
-      "transcription": "en [ilegible] de nobiembre de mil y seisçientos [ilegible] años [ilegible] a susana hija de juº perez y de ysabel delgado [ilegible]",
-      "readingUncertainties": [
-        "Día, año completo, sacerdote, padrinos y cierre son difíciles; necesitan lectura independiente en imagen nativa."
-      ],
-      "identityUnresolved": "susana-perez se casó con Luis Alonso el 1 de marzo de 1653 en Casaseca, y tuvieron al menos Francisco y Manuel Alonso Pérez; el asiento fotografiado no identifica al marido ni a hijos, y el año no se lee de forma segura. Identidad no demostrada.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-victoria-jambrina-hernandez",
-      "type": "baptism",
-      "image": {
-        "filename": "Victoria Jambrina Hernández.JPG",
-        "sha256": "24d9f9c4865139124ad432535b401aaea70cfd8d78dad778f3573da18a841b1a"
-      },
-      "transcription": "En veynte y tres de abril de mil y seisçientos y ocho años baptize a vitoria Hija de Antº xambrina y de Ana hernandez su muger fueron sus Padrinos Juº fernandez y ysabel [ilegible] testigos Andres fernandez y [ilegible] y por ser verdad lo firme fecha vt supra",
-      "readingUncertainties": [
-        "Apellido de la madrina y nombre del segundo testigo requieren revisión.",
-        "Revisión ampliada: la fecha dice «veynte y tres», no «veynte y seis»."
-      ],
-      "identityUnresolved": "victoria-jambrina es madre de Ana Mª. Martín Jambrina, nacida en Arcenillas en 1640, y pareja de Pascual Martín. Los progenitores y nombres del asiento no acreditan esa identidad por sí solos.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-herrero-herrero",
-      "type": "baptism",
-      "image": {
-        "filename": "María Herrero Herrero.JPG",
-        "sha256": "6e53b7d11dc2b998ab5bb9982434872d6635f1ac8405db28d098edd1a4b90114"
-      },
-      "transcription": "En Primero de Sepᵉ de Mill y seisᵒˢ [ilegible] Bautice a Maria Hija de [ilegible] Herrero y Maria Herrero fueron sus Padrinos Pedro Herrero y Catalina [ilegible] su Muger [ilegible] lo firme [ilegible]",
-      "readingUncertainties": [
-        "El año aparece al final de la primera línea y no lo leo con seguridad; revisar apellido de madrina y el cierre.",
-        "El nombre del padre se ha leído como Marcos o Martín; no se fija hasta resolverlo."
-      ],
-      "identityUnresolved": "María Herrero, madre de Ana Mª de Chaves Herrero nacida en Pereruela en 1665, es candidata cronológicamente posible, pero se desconoce filiación y la partida no menciona esposo ni hija. Otra María Herrero es madre de José Zurdo Herrero nacido en Gáname en 1699. No hay identidad segura.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-herrero-lastra",
-      "type": "baptism",
-      "image": {
-        "filename": "María Herrero Lastra.JPG",
-        "sha256": "92c9fc3090e2af72a02dbde1bf9d1d97e25910236be22fc5d37d97ca683d2eff"
-      },
-      "transcription": "en beinte i quatro de henero de mil seiscientos Cincuenta i ocho Bauphicé a maria hija de franᶜᵒ herrero i de maria Lastra su muger fueron sus padrinos pedro [ilegible] i maria Lastra y lo firme ut supra [ilegible]",
-      "readingUncertainties": [
-        "Confirmar año y apellido del padrino; el nombre materno al final de línea se divide entre líneas."
-      ],
-      "identityUnresolved": "María Herrero, madre de Ana Mª de Chaves Herrero nacida en Pereruela en 1665, habría tenido aproximadamente siete años si esta fuera ella, por lo que la identidad es incompatible en términos cronológicos. Otra María Herrero es madre de José Zurdo Herrero nacido en Gáname en 1699; no consta en esta partida cónyuge ni descendencia para una identificación segura.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-lorenzo-rubiano",
-      "type": "baptism",
-      "image": {
-        "filename": "María Lorenzo Rubiano.JPG",
-        "sha256": "ba5457649410e58946627f1762934360be0e2716e7e271d366a1a84f1f02c617"
-      },
-      "transcription": "en 7 de Mayo de [ilegible] baptice [ilegible] Maria [ilegible] hija de [ilegible] y de [ilegible] su Muger fueron sus padrinos [ilegible] y lo firme [ilegible]",
-      "readingUncertainties": [
-        "La partida está desvaída; el año parece 163[ilegible], el padre podría ser Domingo Lorenzo y el apellido materno podría terminar en rubiana; todos requieren lectura independiente."
-      ],
-      "identityUnresolved": "María Lorenzo en el árbol figura como madre de Agustín Sastre Lorenzo nacido en Malillos en 1673 con Francisco Sastre; otra María Lorenzo es madre de Manuela Mateos Lorenzo, nacida en Moral de Sayago en 1680. La imagen no identifica esposo ni hijos con seguridad.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-maria-rubio-sacedo",
-      "type": "baptism",
-      "image": {
-        "filename": "María Rubio Sacedo.JPG",
-        "sha256": "3f9b49a029185223486ebfd817d64883455bf846e77955b0d5d7eb2ccda0d8bf"
-      },
-      "transcription": "en veynte y seys dias del mes de enero de mil y seiscientos y doce años Bautize yo el licenciado [ilegible] cura [ilegible] a maria hija de juan [ilegible] y de [ilegible] saceda fue su padrino antonio sacedo [ilegible] testigos [ilegible] y por verdad firme [ilegible]",
-      "readingUncertainties": [
-        "Revisar apellido del padre, nombre de la madre y palabras sobre el lugar. La fecha corresponde a bautismo."
-      ],
-      "identityUnresolved": "No encontré una María Rubio o Rubia que pueda identificarse por filiación en el árbol; no crear duplicado ni enlazar por nombre de archivo.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-miguel-delgado-rodriguez",
-      "type": "baptism",
-      "image": {
-        "filename": "Miguel Delgado Rodríguez.JPG",
-        "sha256": "1c4e2118ab30901b5512df525f068e57d711d3d21307d3fa9e7f68ae4c3b853c"
-      },
-      "transcription": "En 13 de [ilegible] de 1632 años bautize yo el licenciado alonso llamas cura propio deste lugar de casaseca de las chanas a miguel hijo de pedro delgado el negrillo y de marcela Rodriguez fue su padrino miguel prieto fueron testigos [ilegible] Rodriguez y Antº [ilegible] y [ilegible] Rodriguez [ilegible]",
-      "readingUncertainties": [
-        "El mes abreviado parece octubre pero no se transcribe sin verificar; los nombres de varios testigos y la firma necesitan revisión. El apodo se refiere al padre según la posición en el texto."
-      ],
-      "identityUnresolved": "Miguel Delgado en árbol es padre de Josefa Delgado Martín, nacida en 1663, e Isabel Delgado Martín, nacida en 1674, con Isabel Martín en Casaseca de las Chanas. Cronología y localidad compatibles; ninguna fuente examinada acredita que sea el hijo de Pedro y Marcela. No cambiar sin corroboración.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-gabriel-de-andres-y-magdalena-carazo",
-      "type": "marriage",
-      "image": {
-        "filename": "Gabriel de Andrés y Magdalena Carazo.JPG",
-        "sha256": "462509ec763be81385a5779208a68edf9ade8f3a86d1133372bfc68b17f709cd"
-      },
-      "transcription": "En [ilegible] a veinte y quatro de Nobiembre de mil y seiscientos y quarenta y nuebe años [ilegible] a Gabriel Andres [ilegible] y Magdalena Carazo natural de Corrales [ilegible] matrimonio [ilegible] lo firmo",
-      "readingUncertainties": [
-        "El nombre del lugar al comienzo parece Pereruela; se mantiene en hueco hasta revisión.",
-        "Lectura del celebrante, la ceremonia y los testigos debe completarse independientemente."
-      ],
-      "identityUnresolved": "No se ha encontrado una pareja Gabriel Andrés y Magdalena Carazo identificada en el árbol; no enlazar solo por similitud.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-manuel-moreno-esteban",
-      "type": "baptism",
-      "image": {
-        "filename": "Manuel Moreno Esteban.JPG",
-        "sha256": "c1d6bcafcef9406ba761ce55be77e0c773e2a9c9109988dbe40a575d74219b56"
-      },
-      "transcription": "en 4 de agosto bautice yo [ilegible] moreno cura del dicho lugar de casaseca a manuel moreno hijo de alonso moreno y de maria esteban fue su padrino domingo esteban testigos [ilegible] de casaseca y domingo bueno Sacristan del dicho lugar y lo firme",
-      "readingUncertainties": [
-        "No se expresa año en la partida; una fecha posterior en la página parece 1678, pero no establece automáticamente el año del bautismo.",
-        "El celebrante y un testigo no se leen con seguridad."
-      ],
-      "identityUnresolved": "manuel-moreno es padre de Felipe Moreno Morales nacido en Casaseca en 1673. La identificación carece de cónyuge e hijo en el asiento, y si el año contextual de 1678 se aplicara sería incompatible.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-luisa-de-valencia-navarro",
-      "type": "holy_oils",
-      "image": {
-        "filename": "Luisa de Valencia Navarro.JPG",
-        "sha256": "1fff745e0a0b2f903644b909c58654441b11371b5e0860452df2355a12f608f8"
-      },
-      "transcription": "En seis de Mayo de mil y seiscientos y sesenta y seis años puse los Santos oleos a luisa hija de franº de Valencia y de Maria Navarro fueron sus padrinos Alonso Navarro y Manuela Miguel fueron testigos Lorenzo Simon y Domingo [ilegible] y lo firme",
-      "readingUncertainties": [
-        "La fecha corresponde a la administración de los santos óleos; no se expresa que sea la fecha de nacimiento o de bautismo.",
-        "El apellido del segundo testigo necesita revisión."
-      ],
-      "identityUnresolved": "No se ha localizado una Luisa de Valencia con vínculo seguro en los registros existentes.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-cristobal-conde-hernandez",
-      "type": "baptism",
-      "image": {
-        "filename": "Cristóbal Conde Hernández.JPG",
-        "sha256": "6cdb3f925097d8f273eae622842153d3ce47c4e6deb4cdeca793de1eb0b81572"
-      },
-      "transcription": "En diez y siete dias del mes de febrero de mil seiscientos y diez y nuebe años yo Antº [ilegible] arcipreste de toro y cura de [ilegible] de la dicha ciudad batice a Xptobal [ilegible] de Antº conde y de [ilegible] fueron sus padrinos [ilegible] y felipe hernandez [ilegible] y en fe dello lo firme",
-      "readingUncertainties": [
-        "Nombre materno, palabras próximas al pliegue y testigos necesitan lectura adicional."
-      ],
-      "identityUnresolved": "No se localizó un Cristóbal Conde identificado en el árbol; no se establece identidad a partir del nombre.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-muerte-de-domingo-hernandez",
-      "type": "burial",
-      "image": {
-        "filename": "Muerte de Domingo Hernández.JPG",
-        "sha256": "06f29453df5f56e21b7be4a3bafb4d7e4389270926ea071a8f855d5d6faa9b13"
-      },
-      "transcription": "En quinze de henero de 670 [ilegible] domingo hernandez siendo [ilegible] de cura [ilegible] y por verdad lo firmo [ilegible]",
-      "readingUncertainties": [
-        "El verbo parece referirse a entierro; el año está abreviado 670 y no consta fecha separada de fallecimiento. Texto y jurisdicción requieren revisión."
-      ],
-      "identityUnresolved": "El asiento no nombra familiares que identifiquen con seguridad a una persona del árbol.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-provisional-muerte-de-francisco-martin",
-      "type": "burial",
-      "image": {
-        "filename": "Muerte de Francisco Martín.JPG",
-        "sha256": "73c3f003f6747661fb04f3674321a414a96863f0ef510d46fd7c025e98593fd7"
-      },
-      "transcription": "En veinte y tres de el dicho yo [ilegible] enterre a franᶜᵒ martin Vº desta villa de [ilegible] llebo los sacramentos No hizo testamento [ilegible] y lo firme dicho dia [ilegible]",
-      "readingUncertainties": [
-        "La fecha corresponde al entierro. Mes y año dependen del contexto y el año anterior está parcialmente oculto; la localidad parece Sanzoles."
-      ],
-      "identityUnresolved": "Francisco Martín, padre de Pedro Martín Fernández nacido en 1636 en Sanzoles, podría concordar, pero la partida no identifica esposa ni hijos.",
-      "links": [],
-      "status": "lectura conservadora provisional; cotejo de lectura e identidad pendiente"
-    },
-    {
-      "id": "septimos-asiento-juana-pascual-sin-fecha",
-      "type": "unclassified",
-      "image": {
-        "filename": "Muerte de Juana Pascual.JPG",
-        "sha256": "0a637e81d5e896ba639a9b38c1c7a6e3ac4968fc69af8d6b6c43f7c3d04c09eb"
-      },
-      "transcription": "En [ilegible] de [ilegible] se dio [ilegible] a Juana Pascual mugᵉʳ de martin blanco [ilegible] y lo firme [ilegible]",
-      "links": [],
-      "readingUncertainties": [
-        "El día, mes y año no se leen con seguridad.",
-        "El texto que sigue a «se dio» parece referirse a una sepultura, pero una segunda lectura no ha podido confirmar la palabra. No se asigna tipo ni fecha de evento."
-      ],
-      "identityConfirmed": "La familia confirmó que esta Juana Pascual es la madre de María Blanco Pascual, pareja de Martín Blanco.",
-      "status": "identidad confirmada; tipo de evento y lectura pendientes"
     }
   ]
 }

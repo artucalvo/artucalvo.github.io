@@ -755,6 +755,8 @@ Se han inspeccionado las 61 imágenes originales y el inventario registra sus hu
 
 La familia confirmó que José Pérez y Ana de Luelmo, casados el **4 de abril de 1666**, son los padres de José Pérez Luelmo. Se incorpora José como padre y el matrimonio a ambas fichas; la familia confirmó que es distinto del José Pérez asociado a Isabel Martín y se mantienen separados. La familia confirmó también que la Juana Pascual de la partida es la madre de María Blanco Pascual: su identidad queda anotada en el registro interno, pero el tipo de evento, la fecha y el lugar no se leen con seguridad y no se añaden a su ficha. Ninguna de estas confirmaciones resuelve la identidad de Ana bautizada en 1648.
 
+La revisión de la carpeta se completó en la decimotercera sesión (13-11-2026; véase «Revisión autónoma de «Register Data»»). Allí se leen las 48 imágenes que quedaban provisionales y se fijan las identificaciones que aquí seguían abiertas, incluidas las que la familia no pudo confirmar.
+
 ## Revisión parcial de fotografías de tatarabuelos octavos
 
 Se han inspeccionado las 18 fotografías originales a resolución nativa. Dos imágenes muestran partes del mismo matrimonio, por lo que el inventario recoge 17 asientos. El registro interno [`sources/octavos-fotografias.json`](sources/octavos-fotografias.json) conserva las huellas, los borradores independientes, las lecturas dudosas y los motivos para no asociar los asientos pendientes. Los quince borradores sin enlace requieren revisión adicional y no se consideran transcripciones definitivas.
@@ -1045,6 +1047,76 @@ Quedan sin enlace, en el registro de la carpeta, siete partidas de homónimos de
 Transcripciones completadas con otras tomas de las mismas partidas: la fecha y la firma del bautismo de Francisco González Pérez y una frase del matrimonio de Manuel Alonso y Ana María Salvador («pasada por el Sr Provisor deste obispado»). El bautismo de Pedro Avedillo Urueña coincide con la otra toma. La firma del cura de Pereruela en los años 1680 se lee «Pedro Chanarro», también en el bautismo de María Rodríguez Hernández (1680), que se había leído «Pedro Chavarría».
 
 Pendiente: las carpetas de tatarabuelos séptimos (48 imágenes sin registrar), «Otros familiares» (88) y «Abuelos» (9).
+
+**Decimotercera sesión (13-11-2026): tatarabuelos séptimos completos.** Se han leído las 48 fotografías de la carpeta «Tatarabuelos séptimos» que no tenían asiento. Las 67 imágenes de la carpeta tienen ya asiento: 61 en [`sources/septimos-fotografias.json`](sources/septimos-fotografias.json) y 6 en el registro de la carpeta inicial. Los 49 asientos provisionales y las dos identidades pendientes de la revisión parcial del 8 al 10 de noviembre se sustituyen por asientos definitivos; se conservan los nueve asientos que se incorporaron entonces y las decisiones de la familia de esos días. Las partidas añaden 30 transcripciones de bautismo, tres matrimonios y ocho fallecimientos o entierros. De las 239 personas de esa generación, 32 tienen ya transcrito su bautismo, 14 su matrimonio y 15 su fallecimiento o entierro. Se añaden 52 fichas y se funden dos, con lo que el árbol queda en 1.654 personas. Las fichas nuevas son los padres de 26 personas de la generación (48 fichas, que pasan a ser tatarabuelos octavos), los padres de Mariana Andrés (dos séptimos que faltaban), el abuelo y padrino de María de Segovia y una hermana de Lucas Pereruela.
+
+Correcciones por lectura directa:
+
+| Partida | Antes | Ahora | Motivo |
+| --- | --- | --- | --- |
+| Entierro de Magdalena Vaquero (Sanzoles) | 7 de septiembre de 1671, en la lectura provisional | 07-09-1661 | El año dice «sesenta», con s larga, como los asientos del 4 y del 14 de septiembre de la misma página. |
+| Entierro de Juana Pascual (Abelón) | «En 28 de septiembre», sin año, en la lectura provisional | 12-12-1676 | El asiento dice «En 12 de diziembre»; el año se deduce de los asientos de la página, el último de los cuales termina «… del año de 1677». |
+| Bautismo de Pedro Martín Fernández (Sanzoles, 1636) | Firma «Juan Muñoz» | «Ldo Juan Núñez» | Es la letra y la firma del bautismo de Ana Hernández de la Iglesia (1635). |
+| Velación de Alonso Moreno y María Esteban (Casaseca, 1646) | Firma el «Ldo de Torre», tenido por Tomás de la Torre | Manuel Rodríguez de la Torre | El cura de Casaseca firma así entre 1646 y 1648. |
+
+Dos fichas de hermanas creadas a partir de observaciones eran personas que ya estaban en el árbol, y se funden con ellas. Ana Luelmo Martín, bautizada en Morales del Vino el 14-11-1648, es Ana Luelmo, mujer de José Pérez y madre de José Pérez Luelmo. Catalina Jurado Delgado, bautizada en Casaseca el 24-04-1630, es Catalina Jurado, madre de Catalina y María Delgado Jurado. Las dos quedan enlazadas a los padres de sus hermanas, y el registro de hermanos lo anota. El árbol no tenía fecha de nacimiento para ninguno de los bautizados: 27 reciben la de su bautismo, con la nota correspondiente; en el caso de Domingo Calvo es la de los óleos. Los bautismos de Catalina Alonso, Juan Hernández Gata y Juan Hernández Teruelo y la muerte de Ana Blanco conservan el día y el mes, pero no el año.
+
+Supuestos que conviene conocer:
+
+- Se enlazan, aunque la familia dijo el 8 y el 9 de noviembre que no lo sabía, nueve partidas que la familia archivó con el nombre de la persona y en las que coinciden el nombre, el pueblo y la edad:
+  - Ana Luelmo (1648) y Catalina Jurado (1630), cuyos padres son además los de sus hermanas María;
+  - Juan Carbajal (1624), María de Segovia (1623), Juana Tobal (1647) y Luis Valladolid (1657);
+  - Lorenzo Hernández (1628), hijo de un Lorenzo, como dice el bautismo de su hijo en 1656;
+  - el matrimonio de Juan Pérez e Isabel de Luelmo (1688), en el que él es «vecino de San Frontis», como dice la boda de su hijo en 1721;
+  - el entierro de Magdalena Vaquero (1661).
+- Otras identificaciones descansan en el nombre que la familia dio a la imagen y en el pueblo, porque la partida no nombra cónyuge ni hijos:
+  - el entierro de Domingo Hernández (Sanzoles, 1670);
+  - el de Francisco Martín (Sanzoles, 1662); el bautismo de su hijo lo hacía vecino de Villalazán;
+  - el de Domingo Ortiz (Abelón, 1702); otro Domingo Ortijo, marido de María de Ribas, también podría ser el difunto;
+  - el de Catalina Gabriel (Abelón, 1702);
+  - el de Ana Blanco (Abelón, hacia 1711-1712); la misma página tiene otra Ana Blanca, mujer de Francisco Huerco;
+  - el bautismo de Alonso García (1617), cuyo nombre de pila se lee con reservas.
+- Las dos imágenes de «Juan Hernández» se reparten por la letra entre los dos Juan Hernández de los sextos. La de Pascuala Gata, del libro de Pereruela, es la del padre de Domingo Hernández Nogal. La de Isabel Teruelo es la del padre de Micaela Hernández Fernández, de Tardobispo.
+- De las dos María Herrero de los sextos, la edad decide:
+  - la bautizada en 1638, hija de Martín Herrero y María Herrera, es la madre de Ana María de Chaves (1665);
+  - la de 1658, hija de Francisco Herrero y María Lastra, es la madre de Mariana Rodríguez (1688).
+- Cuando la partida no nombra el lugar, se deduce así:
+  - Arcenillas para Victoria Jambrina (1608), Domingo Calvo (1610) y María García (1616), por la letra y la firma del cura Pedro Delgado, que bautizó allí a Pascual Martín en 1606;
+  - Sanzoles para Ana Hernández (1635), por la letra del Ldo Juan Núñez;
+  - Torregamones para Andrés Pascual (1656), porque allí nació su hijo;
+  - Toro para Felipe Gil (1622);
+  - Abelón para el entierro de Juana Pascual (1676), firmado por el teniente Juan de Barrio;
+  - Casaseca de las Chanas y Morales del Vino para los bautismos que firman sus curas.
+
+  Quedan sin lugar los bautismos de Catalina Colástico, de las dos María Herrero y de los dos Juan Hernández.
+- El bautismo de «María Andrés Carazo» (Fresnadillo, 1668), archivado con los sextos y registrado entonces sin enlace, se aplica a Mariana Andrés, mujer de Miguel Figal. Es la única Andrés de Fresnadillo de esa generación, la edad encaja y el matrimonio de sus padres está con los séptimos. El bautismo la llama María.
+- Los apellidos de los padres se escriben como en el resto del árbol, para que cada apellido tenga una sola forma, con «de» o sin él:
+  - sin la forma femenina de la partida: Isabel Galán por «Galana», María Simón por «Simona», etc.;
+  - Pedro Morales por «Pº de Morales» y María de Herrera por «María Herrera».
+
+  Isabel Fernández conserva ese apellido aunque su bautismo llame a su padre «Domingo Hz» (Hernández), y Lorenzo Hernández el suyo aunque su bautismo escriba «Fernández».
+- Alonso de Cabo, padrino de María de Segovia y «su abuelo» según la partida, se enlaza por el apellido como padre de su madre, María de Cabo.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- Domingo Gil, padre de Felipe: la familia lo llama Domingo Gil Triguero, pero la partida no le da segundo apellido.
+- María Gaitán, madre de Luis Valladolid, puede ser María Gaitán Hernández, bautizada en Casaseca en 1628 e hija de Luis Gaitán, que fue padrino de Luis; la partida no lo dice.
+- En el bautismo de Ana María de Chaves (1665) fue madrina María Domínguez, «muger de Martín Herrero»: quizá el abuelo, casado de nuevo.
+- El Benito Martín que bautizó a una Isabel en 1633 podría ser el padre de Úrsula Martín Delgado (1654), casado después con María Delgado.
+- La María Colástica de un bautismo de 1638, en la misma página que el de María Herrero, podría ser pariente de Catalina Colástico.
+- La partida de Juana Pascual se lee mal: no son seguras las palabras «dada sepultura», «Blanco» ni «Domingo Bernabé», y el año se deduce de la página. En las de Ana Hernández (1635) se leen con reservas los nombres de los padres, y en la de Blas Morales (1641), el día, el mes y el nombre de la madre.
+
+Quedan sin enlace, en el registro de la carpeta:
+
+- Dos bautismos de una Isabel Martín de Casaseca: el de 1633, hija de Benito Martín y María Rubia, y el de 1638, hija de Alonso Martín. Los dos encajan con la misma antepasada, Isabel Martín, mujer de Miguel Delgado, y las partidas no dicen cuál es.
+- Dos bautismos de una María Delgado de Casaseca: el de febrero de 1617, hija de Antonio Delgado e Isabel Delgado, y el de octubre de 1617, hija de Juan Delgado y María Nieto. Los dos encajan con María Delgado, mujer de Benito Martín, y las partidas no dicen cuál es.
+- María Rubio, bautizada en Casaseca en 1612: hay al menos tres María Rubio en ese pueblo.
+- Alonso, hijo de Alonso Rodríguez e Isabel Martín (1611): la familia decidió el 9 de noviembre que no es Alonso Rodríguez, padre de Juan Rodríguez Corralino.
+- Domingo Diego, enterrado en Abelón en 1704: su mujer es Catalina Fernández, así que es un tercer hombre del mismo nombre.
+- Cristóbal Conde (Toro, 1619) y Luisa de Valencia (Morales del Vino, 1666) continúan líneas ya descartadas como homónimas.
+- María Alfonso Cayado (Malillos, 1655) no tiene relación conocida con el árbol.
+
+Pendiente: las carpetas «Otros familiares» (88 imágenes) y «Abuelos» (9).
 
 ## Rama Unzueta de Arrasate
 

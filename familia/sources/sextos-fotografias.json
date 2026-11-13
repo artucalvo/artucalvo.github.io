@@ -2584,28 +2584,6 @@
       "type": "baptism",
       "images": [
         {
-          "filename": "María Andrés Carazo.JPG",
-          "sha256": "d561acc8fb01e1366035d8db8156fb789e4d19893e05682ba515475a6b522404",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1668-07-22",
-      "place": "Fresnadillo",
-      "transcription": "María.\n\nEn Fresnadillo, a beinte y dos de julio de sesenta y ocho años, yo el Ldo Alonso Martín Prieto, cura propio, bapticé a María, hija legítima de Gabriel Andrés y de Madalena Caraça, su muger; fue su padrino Juº Arribo, todos vecinos deste lugar, y lo firmé. Ldo Alonso Martín Prieto.",
-      "uncertainties": [
-        "Se leen con reservas «Caraça» (Carazo) y el apellido del padrino; el año está escrito «de sesenta y ocho», sin «mil seiscientos». La partida no nombra a los abuelos.",
-        "La imagen está en la carpeta de los sextos, donde la única Andrés de Fresnadillo es Mariana Andrés, mujer de Miguel Figal Llamero y madre de Martín Figal Andrés (1691), de la que los resúmenes familiares no dan padres ni fecha de nacimiento. La edad encajaría, pero el nombre de pila es otro (María, no Mariana): no se enlaza."
-      ],
-      "status": "sin enlace al árbol",
-      "candidatePersonIds": [
-        "mariana-andres"
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
           "filename": "María Benéitez Manso.JPG",
           "sha256": "30d4f30af2117033c2f12c1abaf18bb4a1b5726d033de6c80226ddd6134ab922",
           "width": 4288,
@@ -3864,9 +3842,9 @@
       ],
       "date": "1636-07-21",
       "place": "Sanzoles",
-      "transcription": "Franco Mrn.\n\nBauticé a Pº Martín, hijo de Franco Mrn, vº de Villalaçán, y de Catalina F[ernánde]z, [ilegible], en 21 de julio de 1636 años; fueron padrinos Pedro Vallejo y Ana [ilegible] de [ilegible]; [ilegible]. Juan Muñoz.",
+      "transcription": "Franco Mrn.\n\nBauticé a Pº Martín, hijo de Franco Mrn, vº de Villalaçán, y de Catalina F[ernánde]z, [ilegible], en 21 de julio de 1636 años; fueron padrinos Pedro Vallejo y Ana [ilegible] de [ilegible]; [ilegible]. Ldo Juan Núñez.",
       "uncertainties": [
-        "La tinta está muy desvaída y la página manchada: solo se lee parte de la partida; el apellido de la madre (abreviado «Fz»), los de los padrinos y la firma («Juan Muñoz») se leen con reservas. El margen nombra al padre. La partida no nombra el lugar: Sanzoles, como el árbol. La partida no nombra a los abuelos."
+        "La tinta está muy desvaída y la página manchada: solo se lee parte de la partida; el apellido de la madre (abreviado «Fz»), los de los padrinos y la firma («Ldo Juan Núñez», como en otro bautismo de Sanzoles de 1635) se leen con reservas. El margen nombra al padre. La partida no nombra el lugar: Sanzoles, como el árbol. La partida no nombra a los abuelos."
       ],
       "status": "incorporada",
       "personIds": [
@@ -4177,6 +4155,31 @@
       ],
       "applied": [
         "Bautismo el 13-06-1654 en Casaseca de las Chanas con transcripción. Nota en el nacimiento: la fecha registrada es la del bautismo."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "María Andrés Carazo.JPG",
+          "sha256": "d561acc8fb01e1366035d8db8156fb789e4d19893e05682ba515475a6b522404",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1668-07-22",
+      "place": "Fresnadillo",
+      "transcription": "María.\n\nEn Fresnadillo, a beinte y dos de julio de sesenta y ocho años, yo el Ldo Alonso Martín Prieto, cura propio, bapticé a María, hija legítima de Gabriel Andrés y de Madalena Caraça, su muger; fue su padrino Juº Arribo, todos vecinos deste lugar, y lo firmé. Ldo Alonso Martín Prieto.",
+      "uncertainties": [
+        "Se leen con reservas «Caraça» (Carazo) y el apellido del padrino; el año está escrito «de sesenta y ocho», sin «mil seiscientos». La partida no nombra a los abuelos.",
+        "La imagen está en la carpeta de los sextos, donde la única Andrés de Fresnadillo es Mariana Andrés, mujer de Miguel Figal Llamero y madre de Martín Figal Andrés (1691), de la que los resúmenes familiares no dan padres ni fecha de nacimiento. La edad encaja (23 años en 1691), y el matrimonio de sus padres, Gabriel Andrés y Magdalena Carazo (Fresnadillo, 1649), está en la carpeta de los séptimos: se enlaza, aunque el bautismo la llama María y las partidas posteriores, Mariana."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "mariana-andres"
+      ],
+      "applied": [
+        "Bautismo el 22-07-1668 en Fresnadillo con transcripción; nacimiento con esa fecha y la nota del bautismo; se enlaza con sus padres, Gabriel Andrés y Magdalena Carazo, y el nombre pasa a Mariana Andrés Carazo."
       ]
     }
   ]

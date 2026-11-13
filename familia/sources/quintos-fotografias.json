@@ -308,25 +308,6 @@
       ]
     },
     {
-      "type": "marriage",
-      "images": [
-        {
-          "filename": "Alonso Moreno y María Esteban.JPG",
-          "sha256": "6077600cf540357a6034a09c9a442ee87a520c88b7e497057a9ea84e1f4d7c71",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "date": "1646",
-      "place": "Casaseca de las Chanas",
-      "transcription": "En primero de setiembre de dicho año yo el dicho Cura velé a Alonso Moreno y a María Esteban, vecinos del dicho lugar, que estaban antes casados por matrimonio; siendo testigos Alonso Jurado, Luis Delgado y Domingo Alonso, y lo firmé. Ldo de Torre.",
-      "uncertainties": [
-        "Velación de Alonso Moreno y María Esteban, «que estaban antes casados». El día («primero») y «dicho año» se leen con reservas; el año es el del asiento anterior, que no se lee (el siguiente, del 28 de noviembre, es de 1646). Firma el «Ldo de Torre» (Tomás de la Torre).",
-        "Nadie con estos nombres en el árbol; la partida no nombra a los padres."
-      ],
-      "status": "sin enlace al árbol"
-    },
-    {
       "type": "baptism",
       "images": [
         {
@@ -6787,6 +6768,32 @@
       ],
       "applied": [
         "Bautismo el 29-09-1683 en Sogo con transcripción. Nota en el nacimiento: la fecha registrada es la del bautismo."
+      ]
+    },
+    {
+      "type": "marriage",
+      "images": [
+        {
+          "filename": "Alonso Moreno y María Esteban.JPG",
+          "sha256": "6077600cf540357a6034a09c9a442ee87a520c88b7e497057a9ea84e1f4d7c71",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "date": "1646-09-01",
+      "place": "Casaseca de las Chanas",
+      "transcription": "En primero de setiembre de dicho año yo el dicho Cura velé a Alonso Moreno y a María Esteban, vecinos del dicho lugar, que estaban antes casados por matrimonio; siendo testigos Alonso Jurado, Luis Delgado y Domingo Alonso, y lo firmé. Ldo de Torre.",
+      "uncertainties": [
+        "Velación de Alonso Moreno y María Esteban, «que estaban antes casados». El día («primero») y «dicho año» se leen con reservas; el año es el del asiento anterior, que no se lee (el siguiente, del 28 de noviembre, es de 1646). Firma el «Ldo de Torre», el cura de Casaseca Manuel Rodríguez de la Torre, que firma así en 1646-1648.",
+        "Son los padres de Manuel Moreno Esteban, bautizado en Casaseca de las Chanas en 1648 (imagen de la carpeta de los séptimos); la partida no nombra a los padres de los cónyuges."
+      ],
+      "status": "incorporada",
+      "personIds": [
+        "alonso-moreno-padre-de-manuel-moreno",
+        "maria-esteban-madre-de-manuel-moreno"
+      ],
+      "applied": [
+        "Matrimonio de Alonso Moreno y María Esteban en Casaseca de las Chanas, sin fecha del desposorio, con nota de la velación (01-09-1646) y transcripción."
       ]
     }
   ]

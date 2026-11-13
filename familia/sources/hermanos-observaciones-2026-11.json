@@ -9,7 +9,7 @@
     "Las listas no pretenden agotar los hijos de cada persona: una partida puede omitir hijos fallecidos u otros hijos. No se deduce que los hijos nombrados compartan ambos progenitores."
   ],
   "scope": {
-    "explicitSiblingProfiles": 36,
+    "explicitSiblingProfiles": 34,
     "childListProfiles": 157,
     "explicitSiblingIds": [
       "ignacio-calvo-hermano-de-lucas-calvo-alonso",
@@ -18,8 +18,6 @@
       "juan-perez-miguel-hermano-de-juan-perez-miguel",
       "antonio-hernandez-crespo-hermano-de-manuel-hernandez-crespo",
       "luis-garcia-hermano-de-alonso-garcia",
-      "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso",
-      "catalina-jurado-hermano-de-maria-jurado",
       "teresa-pozo-hermano-de-angela-pozo-madre-de-maria-anton",
       "catalina-delgado-hermano-de-luis-delgado-padre-de-pedro-delgado",
       "alonso-montalvo-hermano-de-tomas-montalvo",
@@ -214,5 +212,19 @@
     "La observación de Antonia Valladolid Ocampo enumera por separado a María y Juana; la hija existente se llama María Juana. No se resuelve a cuál se refiere ni se crean las demás fichas de esa lista.",
     "Se dejan sin convertir las listas que no identifican inequívocamente a un hijo previamente enlazado al progenitor, entre ellas las de Manuel Martín de Prada, Inés Martín Carrascal y Fernando Girón Fernández.",
     "Las observaciones con nombres solos no aportan por sí mismas un segundo apellido ni prueban la identidad de homónimos."
+  ],
+  "merged": [
+    {
+      "date": "2026-11-13",
+      "note": "Al leerse sus partidas de bautismo, entre las imágenes de los tatarabuelos séptimos, dos fichas de hermanas creadas desde observaciones resultaron ser personas ya presentes en el árbol, y se funden con ellas: Ana Luelmo Martín (bautizada el 14-11-1648, hermana de María Luelmo Martín) con Ana Luelmo, mujer de José Pérez; y Catalina Jurado Delgado (bautizada el 24-04-1630, hermana de María Jurado Delgado) con Catalina Jurado, madre de Catalina y María Delgado Jurado. Ambas quedan enlazadas a los padres de sus hermanas.",
+      "removedIds": [
+        "ana-luelmo-hermano-de-maria-de-luelmo-madre-de-juan-brioso",
+        "catalina-jurado-hermano-de-maria-jurado"
+      ],
+      "mergedInto": [
+        "ana-de-luelmo",
+        "catalina-jurado"
+      ]
+    }
   ]
 }
