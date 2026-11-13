@@ -755,7 +755,7 @@
       ],
       "date": "1659-05-11",
       "place": "Arcenillas",
-      "transcription": "Domingo.\n\nEn once de maio de 659 años murió Domingo Calbo, vecino deste lugar de Arcenillas; rescibió todos los sacramentos; enterrose en la capilla maior de la yglesia; hiço testamento; dexó por su alma ciento y cinquenta misas, las cinquenta que se digan en esta yglesia de Arcenillas, las otras cinquenta en el convento de los descalços de Çamora y las cinquenta en el convento de la Trinidad de la dicha ciudad; hiçosele su intierro y honras y cabo de año; fueron sus testamentarios Alonso Manso y Alonso García, y en fe dello lo firmé ut supra. Ldo Gil Fernández.",
+      "transcription": "Domingo.\n\nEn once de maio de 659 años murió Domingo Calbo, vecino deste lugar de Arcenillas; rescibió todos los sacramentos; enterrose en la capilla maior de la yglesia; hiço testamento; dexó por su alma ciento y cinquenta misas, las cinquenta que se digan en esta yglesia de Arcenillas, las otras cinquenta en el convento de los descalços de Çamora y las cinquenta en el convento de la Trinidad de la dicha ciudad; hiçosele su intierro y honras y cabo de año; fueron sus testamentarios Alonso Manso y Alonso García, y en fe dello lo firmé ut supra. Br Gil Fernández.",
       "uncertainties": [
         "«y honras y cabo de año» está escrito bajo la última línea con una llamada; una palabra del margen, antes del tercer «cinquenta», está tachada. El año está escrito «de 659». La partida no nombra a su mujer. El asiento de abajo (Juan Delgado, vecino de Arcenillas, 7 de octubre de 1659) y los de la página de enfrente no son de la familia."
       ],
@@ -934,29 +934,6 @@
       ],
       "applied": [
         "Bautismo sin fecha completa (11 de agosto, año ilegible) con nota y transcripción. Se añaden sus padres, Juan Hernández y Pascuala Gata, y el nombre pasa a Juan Hernández Gata."
-      ]
-    },
-    {
-      "type": "baptism",
-      "images": [
-        {
-          "filename": "Juan Hernández Teruelo.JPG",
-          "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa",
-          "width": 4288,
-          "height": 2848
-        }
-      ],
-      "transcription": "Hernz.\n\nA catorze de setiembre de dicho año bapticé un niño que se llamó Juº, hijo de [ilegible] Hernández i de Isabel Teruela; fueron padrinos Alonso Bicente i María Hernández, dellas; firmelo ut supra. Ldo Espinosa, Arcipreste.",
-      "uncertainties": [
-        "El nombre de pila del padre está cortado en el borde derecho; el mes está abreviado («sre») y se lee «setiembre» con reservas; no se entiende «dellas». El año es el del asiento de arriba (Pedro, hijo de Rodrigo Santos y Catalina Gaga, 2 de abril «de mil seiscientos y [ilegible] años», padrinos Alonso Vicente y María Hernández, del mismo arcipreste), que queda bajo una mancha. La partida no nombra el lugar ni a los abuelos.",
-        "La familia archivó entre los séptimos esta imagen («Juan Hernández Teruelo») y otra («Juan Hernández Gago»), una para cada uno de los dos Juan Hernández de los sextos; esta se tiene por la de Juan Hernández, de Tardobispo, padre de Micaela Hernández Fernández (1688)."
-      ],
-      "status": "incorporada",
-      "personIds": [
-        "juan-hernandez-padre-de-micaela-hernandez"
-      ],
-      "applied": [
-        "Bautismo sin fecha completa (14 de septiembre, año ilegible) con nota y transcripción. Se añade su madre, Isabel Teruelo, y el nombre pasa a Juan Hernández Teruelo."
       ]
     },
     {
@@ -1589,6 +1566,29 @@
       ],
       "applied": [
         "Bautismo el 23-04-1608 en Arcenillas con transcripción; nacimiento con esa fecha y la nota del bautismo. Se añaden sus padres, Antonio Jambrina y Ana Hernández, y el nombre pasa a Victoria Jambrina Hernández."
+      ]
+    },
+    {
+      "type": "baptism",
+      "images": [
+        {
+          "filename": "Juan Hernández Teruelo.JPG",
+          "sha256": "444dcf13248f1ea168fd9cdc9d43f359ed4f8ec6b3251543b364232b6446f1fa",
+          "width": 4288,
+          "height": 2848
+        }
+      ],
+      "transcription": "Hernz.\n\nA catorze de setiembre de dicho año bapticé un niño que se llamó Juº, hijo de [ilegible] Hernández i de Isabel Teruela; fueron padrinos Alonso Bicente i María Hernández, dellas; firmelo ut supra. Ldo Espinosa, Arcipreste.",
+      "uncertainties": [
+        "El nombre de pila del padre está cortado en el borde derecho; el mes está abreviado («sre») y se lee «setiembre» con reservas; no se entiende «dellas». El año es el del asiento de arriba (Pedro, hijo de Rodrigo Santos y Catalina Gaga, 2 de abril «de mil seiscientos y [ilegible] años», padrinos Alonso Vicente y María Hernández, del mismo arcipreste), que queda bajo una mancha. La partida no nombra el lugar ni a los abuelos.",
+        "La familia archivó esta imagen entre los séptimos para el padre de Micaela Hernández Fernández (Tardobispo, 1688), y así se aplicó el 13 de noviembre de 2026. Se retira ese mismo día: la firma el mismo Espinosa del bautismo de Domingo Hernández de la Calle (Tardobispo, 09-01-1613), con la misma madrina, María Hernández, y la imagen se tomó seis minutos después de esa página, en una sesión que recorre los libros de Tardobispo hacia atrás, de 1688 a 1613. El bautismo es, pues, de hacia 1610, y ese Juan tendría unos setenta y cinco años al nacer Micaela. Podría ser su abuelo, pero nada lo acredita."
+      ],
+      "status": "sin enlace al árbol",
+      "candidatePersonIds": [
+        "juan-hernandez-padre-de-micaela-hernandez"
+      ],
+      "applied": [
+        "Se retiran el bautismo y la madre (Isabel Teruelo) que se habían dado a Juan Hernández, padre de Micaela; su nombre vuelve a ser Juan Hernández."
       ]
     }
   ],

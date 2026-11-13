@@ -769,6 +769,8 @@ La reconstrucción genera 1066 fichas, 235 apellidos y 87 lugares; pasan las 29 
 
 La familia trasladó las imágenes al directorio local de investigación dentro del espacio de trabajo. Sus 18 huellas coinciden con el inventario; el directorio se excluye del seguimiento de Git para conservar los originales fuera de la publicación basada en el repositorio. La revisión adicional de los quince asientos no aporta parentesco suficiente para nuevos enlaces; el registro documenta los cotejos con las familias existentes y los asientos anteriores. La María Cabrera fallecida en 1648 no es una candidata cronológicamente plausible para la madre de Antonia Pérez Cabrero, casada en 1731.
 
+La revisión de la carpeta se completó en la decimocuarta sesión (13-11-2026; véase «Revisión autónoma de «Register Data»»), que vuelve a leer las 18 imágenes y enlaza las que encajan con los octavos del árbol.
+
 ## Inicio de la revisión de imágenes sin clasificar
 
 Se ha comenzado a revisar las 419 imágenes situadas directamente en «Register Data». El registro interno [`sources/sin-clasificar-fotografias.json`](sources/sin-clasificar-fotografias.json) conserva las huellas, transcripciones y dudas de las cuatro primeras imágenes revisadas; las demás siguen pendientes.
@@ -1048,7 +1050,7 @@ Transcripciones completadas con otras tomas de las mismas partidas: la fecha y l
 
 Pendiente: las carpetas de tatarabuelos séptimos (48 imágenes sin registrar), «Otros familiares» (88) y «Abuelos» (9).
 
-**Decimotercera sesión (13-11-2026): tatarabuelos séptimos completos.** Se han leído las 48 fotografías de la carpeta «Tatarabuelos séptimos» que no tenían asiento. Las 67 imágenes de la carpeta tienen ya asiento: 61 en [`sources/septimos-fotografias.json`](sources/septimos-fotografias.json) y 6 en el registro de la carpeta inicial. Los 49 asientos provisionales y las dos identidades pendientes de la revisión parcial del 8 al 10 de noviembre se sustituyen por asientos definitivos; se conservan los nueve asientos que se incorporaron entonces y las decisiones de la familia de esos días. Las partidas añaden 30 transcripciones de bautismo, tres matrimonios y ocho fallecimientos o entierros. De las 239 personas de esa generación, 32 tienen ya transcrito su bautismo, 14 su matrimonio y 15 su fallecimiento o entierro. Se añaden 52 fichas y se funden dos, con lo que el árbol queda en 1.654 personas. Las fichas nuevas son los padres de 26 personas de la generación (48 fichas, que pasan a ser tatarabuelos octavos), los padres de Mariana Andrés (dos séptimos que faltaban), el abuelo y padrino de María de Segovia y una hermana de Lucas Pereruela.
+**Decimotercera sesión (13-11-2026): tatarabuelos séptimos completos.** Se han leído las 48 fotografías de la carpeta «Tatarabuelos séptimos» que no tenían asiento. Las 67 imágenes de la carpeta tienen ya asiento: 61 en [`sources/septimos-fotografias.json`](sources/septimos-fotografias.json) y 6 en el registro de la carpeta inicial. Los 49 asientos provisionales y las dos identidades pendientes de la revisión parcial del 8 al 10 de noviembre se sustituyen por asientos definitivos; se conservan los nueve asientos que se incorporaron entonces y las decisiones de la familia de esos días. Las partidas añaden 30 transcripciones de bautismo, tres matrimonios y ocho fallecimientos o entierros. De las 239 personas de esa generación, 32 tienen ya transcrito su bautismo, 14 su matrimonio y 15 su fallecimiento o entierro. Se añaden 52 fichas y se funden dos, con lo que el árbol queda en 1.654 personas. Las fichas nuevas son los padres de 24 personas de la generación (44 fichas, que pasan a ser tatarabuelos octavos); los padres de Felipe Gil y de Mariana Andrés, cuatro séptimos que faltaban; los padres de Ana Hernández de la Iglesia, que es de los quintos y cuyo bautismo estaba en esta carpeta; el abuelo y padrino de María de Segovia, y una hermana de Lucas Pereruela.
 
 Correcciones por lectura directa:
 
@@ -1115,6 +1117,72 @@ Quedan sin enlace, en el registro de la carpeta:
 - Domingo Diego, enterrado en Abelón en 1704: su mujer es Catalina Fernández, así que es un tercer hombre del mismo nombre.
 - Cristóbal Conde (Toro, 1619) y Luisa de Valencia (Morales del Vino, 1666) continúan líneas ya descartadas como homónimas.
 - María Alfonso Cayado (Malillos, 1655) no tiene relación conocida con el árbol.
+
+Pendiente: las carpetas «Otros familiares» (88 imágenes) y «Abuelos» (9).
+
+**Decimocuarta sesión (13-11-2026): tatarabuelos octavos.** Se han vuelto a leer, a resolución nativa, las 18 fotografías de la carpeta «Tatarabuelos octavos» (17 asientos), que la revisión parcial del 10 de noviembre había dejado en borradores. Cada imagen tiene dos lecturas independientes, y donde discrepaban se volvió a mirar la imagen. Todas tienen ya asiento definitivo en [`sources/octavos-fotografias.json`](sources/octavos-fotografias.json): 15 enlazados al árbol y 2 sin enlace. De las 60 personas de esa generación, 10 tienen ya transcrito su bautismo y 3 su fallecimiento. Se añaden 19 fichas y se retiran dos (1.671 personas en total): una se funde con otra y la otra se había creado por error en la sesión anterior.
+
+Cuando la partida no nombra el lugar, además de la letra y la firma del cura se ha usado la fecha que la cámara grabó en cada imagen. Las fotografías de un mismo archivo se tomaron seguidas, y cada imagen de esta carpeta cae en la sesión de su pueblo:
+- Arcenillas: 17 de octubre de 2012 para los bautismos y 5 de marzo de 2014 para los fallecimientos;
+- Casaseca de las Chanas: 8 y 24 de febrero de 2011;
+- Tardobispo: 10 de diciembre de 2010;
+- Toro: 27 y 28 de noviembre de 2012;
+- Abelón: septiembre de 2015.
+
+Las imágenes encajan con las personas que la sesión anterior añadió como padres de los séptimos:
+
+- Arcenillas, en un libro del cura «El bachiller Martínez»; un asiento de 1585 dice «bautizose en esta iglesia de Arzenillas». Los años se escriben sin siglo («de ochenta y dos»), pero los días de la semana de la página solo cuadran en 1582, con el calendario juliano.
+  - Bautismos de Ana Hernández Prieto (24-06-1582), madre de Victoria Jambrina; de Domingo Calvo (30-07-1582), padre de Domingo Calvo Álvarez; y de Antonio García Mella (30-11-1585), padre de María García Cabrero.
+  - Bautismo de María Cabrero Urueña (08-06-1594), madre de María García Cabrero. La página nombra como forasteros a un padrino de El Perdigón y a una madrina de Casaseca.
+  - Fallecimientos de María Cabrero (19-09-1648) y de María Álvarez (11-06-1660), madre de Domingo Calvo Álvarez. María Álvarez nombra testamentaria a una María García, muy probablemente su nuera.
+- Tardobispo: bautismo de Domingo Hernández de la Calle (09-01-1613), padre de Isabel Fernández Hista.
+- Casaseca de las Chanas:
+  - bautismos de Domingo Valladolid Cordero (02-10-1627), padre de Luis Valladolid Gaitán; de María Gaitán Hernández (22-10-1628), su madre; de María Rodríguez Delgado (16-06-1613), madre de Juana Tobal Rodríguez; y de María Simón Marqués (05-06-1612), madre de Ana Morales Simón;
+  - bautismo de Marcela Rodríguez Domínguez (9 de marzo, sin año en la página), madre de Miguel Delgado Rodríguez. Su padre, Pedro Rodríguez, era sacristán del lugar.
+- El matrimonio de Manuel de las Heras y Josefa Pascual, que la familia archivó también aquí, tiene ya fecha: 19-02-1814, en Abelón. La partida nombra a los padres, Alonso de las Heras y Atilano Pascual.
+
+Correcciones por lectura directa:
+
+| Partida | Antes | Ahora | Motivo |
+| --- | --- | --- | --- |
+| Matrimonio de Manuel de las Heras y Josefa Pascual (Abelón) | Sin fecha, con huecos | 19-02-1814 | El asiento siguiente, del mismo día y la misma mano, dice «mil ochocientos y catorce». |
+| Firma del teniente de cura de Abelón entre 1666 y 1677 (bautismos de María Blanco Pascual y Martín Ortizo Luengo, entre otros) | «Juº de Ysal de Rávano» | «Juº de Val de Rávano» (Valderrábano) | La V alta se había leído «Ys»; la muerte de Domingo Ortizo (1672) lleva la firma «Juº de Valderrábano». |
+| Firma del fallecimiento de Domingo Calvo Álvarez (Arcenillas, 1659) | «Ldo Gil Fernández» | «Br Gil Fernández» | El cura firma «Bᵉʳ» (bachiller) en 1659 y en 1660. |
+| Bautismo de «Juan Hernández Teruelo» (carpeta de los séptimos) | Aplicado en la sesión anterior a Juan Hernández, padre de Micaela Hernández Fernández (1688) | Sin enlace | Lo firma el mismo Espinosa que el bautismo de Domingo Hernández de la Calle (Tardobispo, 1613), con la misma madrina, y la imagen se tomó seis minutos después. Es, pues, de hacia 1610, y ese Juan tendría unos setenta y cinco años al nacer Micaela. Se retiran el bautismo y su madre, Isabel Teruelo, y el nombre vuelve a ser Juan Hernández. |
+
+Por indicación de la familia del 13 de noviembre («si encuentras una suposición razonable de dónde encajan, añádelos»), se ha buscado sitio a cuatro personas que estaban pendientes:
+
+- Domingo Ortizo murió en Abelón el 07-06-1672 sin testamento, y al margen se nombran sus herederos, Juan y Domingo Ortixo. Los herederos de quien muere sin testamento son sus hijos, y el árbol tiene a un Juan Ortizo y a un Domingo Ortiz de Abelón de la edad adecuada. Juan Ortizo es el marido de Catalina Luengo y murió en 1707; Domingo Ortiz es el marido de Ana Blanco, se enterró en 1702 y tuvo a Juan Ortizo por testamentario. Se añade como padre de los dos, que quedan como hermanos, y es así antepasado común de las líneas de Inés Ortijo y de Martín Ortizo.
+- Pascual Martín murió en Arcenillas el 14-01-1667, sin testamento. La partida no lo distingue de su padre, del mismo nombre. Se atribuye a Pascual Martín Perdigón, bautizado en 1606, que tendría unos 60 años; su padre pasaría de los 80. La familia había archivado la imagen con los octavos, es decir, para el padre.
+- María Simón, bautizada en Casaseca en 1612, hija de Antón Simón y Catalina Marqués, se enlaza como madre de Ana Morales Simón (1648), a los 36 años. Bajo su nombre, al margen, hay una cruz de tinta más clara que en algunos libros señala a un niño muerto en la infancia; la página no dice qué significa.
+- Inés Rodríguez García, bautizada en Toro el 31-07-1580 (parroquia de Santo Tomé, por el cura Antonio Díez), queda sin enlace:
+  - la familia parece haberla archivado como la Ynés Rodríguez madre de María de Huerta (Toro, 1629), en la línea de Cristóbal Conde y Magdalena Conde que lleva a Isabel Andrés Conde, una línea que el árbol descarta porque la antepasada es Isabel Andrés Barba (1658);
+  - en 1629 habría tenido 48 años;
+  - ningún antepasado de Toro de la edad adecuada tiene en el árbol una madre Rodríguez.
+
+Personas añadidas:
+
+- Padres de los octavos: Andrés Hernández y María Prieto; Juan García y Catalina Mella; Domingo Calvo y María, sin apellido (la familia la llama María Martínez, como consta en una observación); Domingo Hernández y María de la Calle; Antón Valladolid y María Cordero; Pedro Rodríguez, sacristán, y María Domínguez; Francisco Cabrero y Catalina Urueña; Luis Rodríguez e Isabel Delgado; Antón Simón y Catalina Marqués.
+- Domingo Ortizo, padre de Juan Ortizo y de Domingo Ortiz.
+- María Gaitán Hernández, que ya estaba en el árbol como hermana de Domingo Gaitán por este mismo bautismo, se funde con la madre de Luis Valladolid y queda enlazada a sus padres, Luis Gaitán y Micaela Hernández.
+
+Supuestos que conviene conocer:
+
+- Cada bautismo se aplica porque la familia lo archivó con el nombre de la persona y coinciden el pueblo y la edad; ninguna partida de bautismo nombra a los hijos que vendrían.
+- Lugares deducidos cuando la partida no lo nombra: Arcenillas, por el cura y por la sesión de fotografías; Casaseca de las Chanas, por el cura Alonso de Ayala y, en 1627, por el padrino Alonso Jurado, regidor del lugar; Abelón, por su iglesia de San Martín. Tardobispo y El Perdigón se nombran en las partidas.
+- Los nombres siguen las formas del árbol: Antón Valladolid, aunque el bautismo de su hijo diga «Antín de Valled» (el margen dice «…ón de …llid»); Catalina Urueña, sin «de»; María Prieto, Catalina Marqués e Isabel Delgado, sin la forma femenina.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- El bautismo de Marcela Rodríguez no lleva año en la página; para ser madre en 1632 tendría que haber nacido hacia 1617 como muy tarde.
+- La cruz bajo el nombre de María Simón, citada arriba.
+- Juan Hernández, hijo de … Hernández e Isabel Teruela (Tardobispo, hacia 1610), podría ser el abuelo de Micaela Hernández Fernández, pero nada lo acredita.
+- La mujer de Bartolomé Ufano, Inés de Almancaya, lleva el apellido de un «Juº de la Almançaya» que bautizó a un hijo en Casaseca en 1612: una pista para la familia Ufano.
+
+Quedan sin enlace, en el registro de la carpeta:
+
+- Inés Rodríguez García (Toro, 1580), por lo dicho arriba.
+- Miguel Ufano, bautizado en El Perdigón el 10-08-1628, hijo de Miguel Ufano y Catalina de las Mulas. Podría ser hermano de Bartolomé Ufano, de los sextos, padre de Antonio Ufano de Almancaya (1649). Pero el libro de 1623 muestra otra casa de Ufanos en el lugar, y ningún octavo del árbol puede ser hijo de un niño nacido en 1628.
 
 Pendiente: las carpetas «Otros familiares» (88 imágenes) y «Abuelos» (9).
 
