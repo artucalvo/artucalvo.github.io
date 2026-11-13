@@ -209,9 +209,76 @@ async function build() {
     markAncestor(person.father);
     markAncestor(person.mother);
   }
-  markAncestor(source.defaultPerson || source.branches[0].roots[0]);
+  const defaultPerson = source.defaultPerson || source.branches[0].roots[0];
+  markAncestor(defaultPerson);
 
-  const summaries = source.people.map((person) => ({
+  const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames, ...(directAncestors.has(person.id) ? { isDirectAncestor: true } : {}) });
+  const childrenByParent = new Map();
+  const partnersByPerson = new Map();
+  function addPartner(personId, partnerId, childId) {
+    if (!partnersByPerson.has(personId)) partnersByPerson.set(personId, new Map());
+    const partners = partnersByPerson.get(personId);
+    if (!partners.has(partnerId)) partners.set(partnerId, new Set());
+    if (childId) partners.get(partnerId).add(childId);
+  }
+  for (const person of source.people) {
+    for (const parent of new Set([person.father, person.mother].filter(Boolean))) {
+      if (!childrenByParent.has(parent)) childrenByParent.set(parent, []);
+      childrenByParent.get(parent).push(person.id);
+    }
+    for (const marriage of person.marriages || []) {
+      if (!marriage.spouse) continue;
+      addPartner(person.id, marriage.spouse);
+      addPartner(marriage.spouse, person.id);
+    }
+    if (person.father && person.mother && person.father !== person.mother) {
+      addPartner(person.father, person.mother, person.id);
+      addPartner(person.mother, person.father, person.id);
+    }
+  }
+  const bloodRelatives = new Set();
+  function markDescendants(id) {
+    if (bloodRelatives.has(id)) return;
+    bloodRelatives.add(id);
+    for (const child of childrenByParent.get(id) || []) markDescendants(child);
+  }
+  for (const id of directAncestors) {
+    markDescendants(id);
+    for (const sibling of people.get(id).siblings || []) markDescendants(sibling);
+  }
+  const publishedIds = new Set(bloodRelatives);
+  // An ancestor's other co-parent can connect a half-sibling branch, but their
+  // own parents, siblings and unrelated children are not part of this tree.
+  for (const id of directAncestors) {
+    for (const [partnerId, sharedChildren] of partnersByPerson.get(id) || []) {
+      if (sharedChildren.size) publishedIds.add(partnerId);
+    }
+  }
+  const publishedPeople = new Map();
+  for (const person of source.people) {
+    if (!publishedIds.has(person.id)) continue;
+    const published = { ...person };
+    for (const relation of ['father', 'mother']) {
+      if (person[relation] && !publishedIds.has(person[relation])) delete published[relation];
+    }
+    if (person.siblings) {
+      const siblings = person.siblings.filter(id => publishedIds.has(id));
+      if (siblings.length) published.siblings = siblings;
+      else delete published.siblings;
+    }
+    if (person.marriages) {
+      const marriages = person.marriages.map(marriage => {
+        if (!marriage.spouse || publishedIds.has(marriage.spouse)) return marriage;
+        const { spouse, ...event } = marriage;
+        return event;
+      }).filter(marriage => Object.keys(marriage).length);
+      if (marriages.length) published.marriages = marriages;
+      else delete published.marriages;
+    }
+    publishedPeople.set(person.id, published);
+  }
+
+  const summaries = [...publishedPeople.values()].map((person) => ({
     id: person.id,
     name: person.name,
     givenNames: person.givenNames,
@@ -224,6 +291,7 @@ async function build() {
   function indexBy(field) {
     const entries = new Map();
     for (const person of summaries) {
+      if (!directAncestors.has(person.id)) continue;
       for (const name of new Set(person[field])) {
         const key = name.trim().normalize('NFC').toLocaleLowerCase('es');
         if (!entries.has(key)) entries.set(key, { name: name.trim().normalize('NFC'), people: new Set() });
@@ -238,55 +306,33 @@ async function build() {
     const location = locations.get(placeKey(place.name));
     return { ...place, ...(location ? { location } : {}) };
   });
-  const relativeSummary = (person) => ({ id: person.id, name: person.name, givenNames: person.givenNames, surnames: person.surnames, ...(directAncestors.has(person.id) ? { isDirectAncestor: true } : {}) });
-  const childrenByParent = new Map();
-  const partnersByPerson = new Map();
-  function addPartner(personId, partnerId, childId) {
-    if (!partnersByPerson.has(personId)) partnersByPerson.set(personId, new Map());
-    const partners = partnersByPerson.get(personId);
-    if (!partners.has(partnerId)) partners.set(partnerId, new Set());
-    if (childId) partners.get(partnerId).add(childId);
-  }
-  for (const person of source.people) {
-    for (const parent of new Set([person.father, person.mother].filter(Boolean))) {
-      if (!childrenByParent.has(parent)) childrenByParent.set(parent, []);
-      childrenByParent.get(parent).push({
-        ...relativeSummary(person),
-        ...(person.father ? { father: person.father } : {}),
-        ...(person.mother ? { mother: person.mother } : {}),
-      });
-    }
-    for (const marriage of person.marriages || []) {
-      if (!marriage.spouse) continue;
-      addPartner(person.id, marriage.spouse);
-      addPartner(marriage.spouse, person.id);
-    }
-    if (person.father && person.mother && person.father !== person.mother) {
-      addPartner(person.father, person.mother, person.id);
-      addPartner(person.mother, person.father, person.id);
-    }
-  }
-  for (const children of childrenByParent.values()) children.sort((a, b) => collator.compare(a.name, b.name));
   const catalog = {
     version: 1,
-    defaultPerson: source.defaultPerson || source.branches[0].roots[0],
+    defaultPerson,
     branches: source.branches.map((branch) => ({
       ...branch,
-      roots: branch.roots.map((id) => ({ id, name: people.get(id).name })),
-    })),
-    stats: { people: people.size, surnames: surnames.length, places: places.length },
+      roots: branch.roots.filter(id => publishedIds.has(id)).map((id) => ({ id, name: people.get(id).name })),
+    })).filter(branch => branch.roots.length),
+    stats: { people: publishedPeople.size, surnames: surnames.length, places: places.length },
   };
   await rejectSymlink(output);
   await mkdir(output, { recursive: true });
   await rejectSymlink(peopleDirectory);
   await mkdir(peopleDirectory, { recursive: true });
-  for (const person of source.people) {
-    const children = childrenByParent.get(person.id);
+  for (const person of publishedPeople.values()) {
+    const children = (childrenByParent.get(person.id) || []).filter(id => publishedIds.has(id)).map(id => {
+      const child = publishedPeople.get(id);
+      return {
+        ...relativeSummary(child),
+        ...(child.father ? { father: child.father } : {}),
+        ...(child.mother ? { mother: child.mother } : {}),
+      };
+    }).sort((a, b) => collator.compare(a.name, b.name));
     const siblingSummaries = (person.siblings || []).map(id => relativeSummary(people.get(id))).sort((a, b) => collator.compare(a.name, b.name));
     const parentSummaries = ['father', 'mother'].filter(relation => person[relation]).map(relation => ({ ...relativeSummary(people.get(person[relation])), relation }));
-    const partners = [...(partnersByPerson.get(person.id) || [])].map(([id, sharedChildren]) => ({
+    const partners = [...(partnersByPerson.get(person.id) || [])].filter(([id]) => publishedIds.has(id)).map(([id, sharedChildren]) => ({
       ...relativeSummary(people.get(id)),
-      sharedChildren: [...sharedChildren].sort((a, b) => collator.compare(people.get(a).name, people.get(b).name)),
+      sharedChildren: [...sharedChildren].filter(id => publishedIds.has(id)).sort((a, b) => collator.compare(people.get(a).name, people.get(b).name)),
     })).sort((a, b) => collator.compare(a.name, b.name));
     // Two people with a common child are taken to be married, so a couple the
     // source says nothing about still gets a marriage, without invented details.
@@ -300,20 +346,20 @@ async function build() {
       ...(siblingSummaries.length ? { siblingSummaries } : {}),
       ...(marriages.length ? { marriages } : {}),
       ...(parentSummaries.length ? { parentSummaries } : {}),
-      ...(children ? { children } : {}),
+      ...(children.length ? { children } : {}),
       ...(partners.length ? { partners } : {}),
     });
   }
   await writeJson('index.json', { people: summaries, surnames, places });
   await writeJson('catalog.json', catalog);
   for (const filename of await readdir(peopleDirectory)) {
-    if (filename.endsWith('.json') && !people.has(filename.slice(0, -5))) {
+    if (filename.endsWith('.json') && !publishedPeople.has(filename.slice(0, -5))) {
       const target = path.join(peopleDirectory, filename);
       await rejectSymlink(target);
       await unlink(target);
     }
   }
-  console.log(`Family data built: ${people.size} people, ${surnames.length} surnames, ${places.length} places.`);
+  console.log(`Family data built: ${publishedPeople.size} people, ${surnames.length} surnames, ${places.length} places.`);
 }
 
 build().catch((error) => {

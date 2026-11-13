@@ -195,6 +195,18 @@ test('a documented marriage keeps its details and is not repeated', async () => 
   }
 });
 
+test('the published tree and ancestor indexes exclude in-laws such as Bellina', async () => {
+  const index = JSON.parse(await readFile(new URL('data/index.json', import.meta.url), 'utf8'));
+  const tree = await collectTree('antonio-fernandez-unzueta', 1, realPerson);
+  assert.equal(records.has('juana-bellina'), false);
+  assert.equal(index.people.some(person => person.id === 'juana-bellina'), false);
+  assert.equal(index.surnames.some(group => group.name === 'Bellina'), false);
+  assert.equal(tree.partners.some(item => item.person.id === 'juana-bellina'), false);
+  for (const group of [...index.surnames, ...index.places]) {
+    for (const id of group.people) assert.equal(records.get(id)?.isDirectAncestor, true, `${group.name}: ${id} is not a direct ancestor`);
+  }
+});
+
 test('person data and the catalog contain no file attribution or file references', async () => {
   const canonical = JSON.parse(await readFile(new URL('records.json', import.meta.url), 'utf8'));
   const catalog = JSON.parse(await readFile(new URL('data/catalog.json', import.meta.url), 'utf8'));
@@ -460,10 +472,14 @@ test('María and Antonio Unzueta Fernández show each other as small sibling cir
 });
 
 test('a sibling beyond a second partner has a clear connector around the partner', async () => {
+  const family = new Map(annaFamily);
+  family.set('anna', { ...anna, siblingSummaries: [summary('sibling')] });
+  family.set('sibling', summary('sibling'));
+  const tree = await collectTree('anna', 1, async id => family.get(id));
   for (const compact of [false, true]) {
-    const layout = await realLayout('manuel-hernandez-gaitan', 1, compact);
+    const layout = layoutTree({ ...tree, depth: 1, compact });
     const active = activeCard(layout);
-    const sibling = layout.siblingCircles.find(item => item.person.id === 'teodora-hernandez');
+    const sibling = layout.siblingCircles.find(item => item.person.id === 'sibling');
     assert.ok(sibling);
     const line = layout.siblingConnections.find(path => startsAt(path, active.x + layout.cardWidth / 4, active.y));
     assert.ok(line, 'sibling connector starts at the active person');
