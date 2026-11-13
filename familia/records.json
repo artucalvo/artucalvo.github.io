@@ -2659,6 +2659,10 @@
           "date": "1877-08-23",
           "place": "Tardobispo",
           "transcription": "N. 95. Enrique Brioso, soltero, con Balbina Pérez, viuda.\n\nEn el día veinte y tres de Agosto del año mil ochocientos setenta y siete, yo el infrascripto Cura párroco de Tardobispo y sus anejos, precedidas las moniciones canónicas en esta Yglesia, no habiendo resultado impedimento, ecsaminados en doctrina cristiana y recibido el Sacramento de la Penitencia, desposé in facie Eclesie con el consentimiento necesario y por palabra de presente a Enrique Brioso, soltero, hijo legítimo de Dn Florencio Brioso y Antonia Mena, con Balbina Pérez, viuda de Julián Garrote, vecinos todos de este pueblo. Fueron testigos Agustín Mena mayor y Manuel Salvador, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+        },
+        {
+          "spouse": "julian-garrote-lorenzo",
+          "note": "Primer matrimonio de Balbina Pérez Sánchez, anterior a 1868, cuando nació su primera hija, Manuela; en 1877 ella se casó, viuda, con Enrique Brioso de Mena."
         }
       ],
       "death": {
@@ -4172,6 +4176,12 @@
       },
       "observations": [
         "La partida de entierro le da sesenta años en diciembre de 1863."
+      ],
+      "marriages": [
+        {
+          "spouse": "felix-alonso-roncero",
+          "note": "Primer matrimonio de Valeria Santamaría Ramos, anterior a noviembre de 1823, cuando nacieron sus hijos gemelos, Carlos y José; después ella se casó con Tomás de Mena."
+        }
       ]
     },
     {
@@ -6873,6 +6883,10 @@
           "place": "Tardobispo",
           "note": "Velados en la misma ceremonia.",
           "transcription": "Fernando Jirón, soltero, con Franca Roncero, del mismo estado.\n\nEn diez días del Mes de Abril de este Año de mill septecientos Noventa y tres, yo Dn Thomás de Berra, Cura propio del Lugar de Roales, haviendo precedido las tres canónicas moniciones según ordena y manda el Sto Concilio de Trento, tanto en el referido Roales como en este de Tardobispo, según me informó Dn Bernardo Roncero, Cura propio de este dho Lugar, con su consentimto, y no haviendo resultado impedimto alguno, constándome también de los respectivos consentimtos, asistí al Matrimonio que in facie Ecclesię, y por palabras de presente que le hicieron vero, contrajeron Fernando Jirón, soltero, Natural del supradho Roales, hijo Legítimo de Franco y Josefa Fernánz, vecinos del mismo, y Francisca Roncero, natural de este de Tardobispo, hija Legítima de Lorenzo, ya difunto, y de Micaela Pérez, de esta vecindad; y en dho día recivieron las bendiciones de la Yglesia; de todo lo qual fueron testigos Dn Pedro Avedillo, Dn Thomás Rodríguez y algunos vecinos de este Pueblo, y por verdad lo firmo en el día [...]"
+        },
+        {
+          "spouse": "maria-alonso-mujer-de-fernando-giron",
+          "note": "Segundas nupcias de Fernando Girón Fernández, después de 1806; la partida de entierro de él (27-03-1832) lo llama marido de María Alonso."
         }
       ],
       "burial": {
@@ -27036,7 +27050,9 @@
       "father": "benito-de-las-heras-rabanal",
       "mother": "ma-antonia-prada-carretero",
       "birth": {
-        "place": "Tardobispo"
+        "place": "Tardobispo",
+        "date": "1889-11-15",
+        "note": "A las tres de la mañana."
       },
       "marriages": [
         {
@@ -27046,7 +27062,12 @@
           "note": "Iglesia parroquial del Salvador. Amonestaciones el 19-05-1912, el 26-05-1912 y el 02-06-1912.",
           "transcription": "N. 2º. Solteros. Domingo de las Heras Prada y Engracia Lozano Rodríguez.\n\nEn la Iglesia parroquial del Salvador del pueblo de Tardobispo, Obispado y Provincia de Zamora, en el día tres de Junio de mil novecientos doce; Yo Don José Alejandre Moreno, Cura párroco de la misma, asistí al Matrimonio que por palabras de presente contrajeron in facie Ecclesiæ Domingo de las Heras Prada, soltero, natural y residente en esta parroquia, hijo legítimo de Benito de las Heras y de María Antonia Prada naturales del mismo. Y Engracia Lozano Rodríguez, soltera, natural del Perdigón y residente en Tardobispo, hija legítima de Vicente Lozano y de Paula Rodríguez, naturales respectivamente de Tardobispo y el Perdigón. Precedieron las tres canónicas moniciones, que tuvieron lugar en los días festivos de precepto diez y nueve y veintiséis de Mayo y dos de Junio, no resultando impedimento alguno canónico a la celebración de dicho Matrimonio. Fueron examinados y aprobados en doctrina cristiana. Obtuvieron los consentimientos favorables, comulgaron dentro de la Misa y recibieron las bendiciones nupciales. Siendo testigos Bernardino Pérez y Vicente de Pedro de esta vecindad. Y para que conste lo firmo. José Alejandre."
         }
-      ]
+      ],
+      "baptism": {
+        "date": "1889-11-17",
+        "place": "Tardobispo",
+        "transcription": "Domingo de las Heras hijo legítimo de Benito y María Antonia Pradas.\n\nEn el día diez y siete de Noviembre de mil ochocientos ochenta y nueve = Yo el infrascripto cura Ecónomo de Tardobispo y sus anejos, bauticé solemnemente y puse los Santos Óleos a un niño que nació el día quince de dicho mes a las tres de su mañana, a quien puse por nombre Domingo, hijo legítimo de Benito de las Heras y María Antonia Pradas, naturales de Tardobispo. Abuelos paternos Franco de las Heras, natural de Abelón, y Josefa Ravanal, natural de Sn Esteban de Zamora; maternos Ángel Pradas, de Tardobispo, y Manuela Carretero, de Peleas de Arriba. Padrinos Domingo Nieto, natural de Fonfría, y María Martín, natural de Frezno de Sayago, a quien advertí sus obligaciones. Testigos Baleriano Pérez y Josefa Ravanal, de esta vecindad. Y para que conste lo firmo fecha ut supra. Agustín Arroyo.\n\nSe casó con Engracia Lozano Rodríguez en esta Parroquia el 3 de Junio de 1912. José Alejandre."
+      }
     },
     {
       "id": "engracia-lozano-rodriguez",
@@ -28467,7 +28488,16 @@
         "Pérez"
       ],
       "father": "enrique-brioso-mena",
-      "mother": "balbina-perez-sanchez"
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1881-10-01",
+        "place": "Tardobispo",
+        "transcription": "Lorenzo Brioso de Enrique y Balbina Pérez.\n\nEn el día primero de Octubre del año mil ochocientos ochenta y uno, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos. Óleos a un niño que nació el día veinte y nueve del mes anterior, a quien puse por nombre Lorenzo, hijo legítimo de Enrique Brioso y Balbina Pérez, naturales de Tardobispo. Abuelos paternos Dn Florencio Brioso, natural de Morales del Vino, y Antonia Mena, de este pueblo; Maternos Esteban Pérez, de Tardobispo, y Eduviges Sánchez, del Cubo del Vino; fue su padrino Domingo Chicote, a quien advertí el parentesco espiritual y obligaciones; fueron testigos Valeriano Pérez y Ramona Cascón, de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1881-09-29",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "julio-brioso-perez",
@@ -28478,7 +28508,16 @@
         "Pérez"
       ],
       "father": "enrique-brioso-mena",
-      "mother": "balbina-perez-sanchez"
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1887-01-23",
+        "place": "Tardobispo",
+        "transcription": "Julio Brioso hijo de Enrique y Balbina Pérez.\n\nEn el día veintitrés de Enero de mil ochocientos ochenta y siete; Yo el infrascripto Teniente cura de Tardobispo y sus anejos, bauticé solemnemente y puse los Santos Óleos a un niño que nació el día diez y nueve de dicho mes, a quien puse por nombre Julio, hijo legítimo de Enrique Brioso y Balbina Pérez, naturales de Tardobispo. Abuelos paternos Florencio Brioso, de Morales del Vino, y Antonia de Mena, de Tardobispo; maternos, Esteban Pérez, natural de este, y Eduviges Sánchez, natural del Cubo del Vino; padrinos Santiago Brioso, tío del bautizado, y Matilde Mena, de Tardobispo, a quienes advertí el espiritual parentesco y demás obligaciones; testigos Baleriano Pérez y Florencio Brioso, de esta vecindad. Y para que conste lo firmo fecha ut supra. Agustín Arroyo."
+      },
+      "birth": {
+        "date": "1887-01-19",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "juana-bellina",
@@ -29349,17 +29388,27 @@
     },
     {
       "id": "maria-hijo-de-josefa-rabanal-ibanez",
-      "name": "María de las Heras Rabanal",
-      "givenNames": "María",
+      "name": "María de las Mercedes de las Heras Rabanal",
+      "givenNames": "María de las Mercedes",
       "surnames": [
         "de las Heras",
         "Rabanal"
       ],
       "mother": "josefa-rabanal-ibanez",
       "observations": [
-        "Nombrado entre los hijos de Josefa Ygenia Rabanal Ibáñez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Nombrada entre los dos hijos que dejó su madre, Josefa Rabanal, en su partida de entierro (1891), que la llama María de las Heras. Se identifica con María de las Mercedes, bautizada en 1859: es la única María de los bautismos de la familia."
+      ],
+      "father": "francisco-de-las-heras-pascual",
+      "baptism": {
+        "date": "1859-09-24",
+        "place": "Tardobispo",
+        "transcription": "María de las He[ilegible] de Francisco y Josefa Rabanal.\n\nEn el día veinte y cuatro de Septiembre de mil ochocientos y cincuenta y nueve, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día veinte y dos de dicho mes, a la que puse por nombre María de las Mercedes, hija legítima de Francisco de la Heras, natural de Avelón, y de Josefa Rabanal, natural de Zamora, de la Parroquia de San Esteban. Abuelos paternos Manuel de las Heras y Josefa Pascual, de Avelón; Maternos José Rabanal, de S. Antolín de Zamora, y Manuela Ybáñez, de S. Lázaro extra=muros de Zamora; fueron sus padrinos Claudio Chicote y Catalina Cristóbal, vecinos de este pueblo, a quienes advertí el parentesco espiritual y demás obligaciones; testigos Eduardo Pérez y Ramona Cascón. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1859-09-22",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "genaro-hijo-de-luis-mendez-de-lera",
@@ -29583,7 +29632,17 @@
       "observations": [
         "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "miguel-perez-roncero",
+      "baptism": {
+        "date": "1806-04-28",
+        "place": "Tardobispo",
+        "transcription": "Prudencio hijo Miguel Pérez y de Margarita Girón\n\nEn el día veinte y ocho del mes de Abril del año de mil ochocientos y seis, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los santos óleos a un niño qe nació día veinte y siete de dicho mes, a quien puse por nombre Prudencio; es hijo lexítimo de Miguel Pérez, natural de este lugar, y de Margarita Girón, natural del lugar de Roales; Nieto por línea Paterna de Juan Pérez y de Joaquina Ronzero, naturales de este lugar de Tardobispo, y por la materna de Francisco Girón, natural del lugar de Roales, y de Josefa Fernández, natural del lugar de Muga, en las vicarías de Alba y Aliste. Fue su Padrino Seberino Bereda, vecino del lugar de Casaseca de Campeán, a quien advertí el parentesco espiritual y demás obligaciones que contrajo; y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo"
+      },
+      "birth": {
+        "date": "1806-04-27",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "manuela-hijo-de-margarita-giron-fernandez",
@@ -29597,7 +29656,17 @@
       "observations": [
         "Nombrado entre los hijos de Margarita Girón Fernández en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "miguel-perez-roncero",
+      "baptism": {
+        "date": "1800-01-11",
+        "place": "Tardobispo",
+        "transcription": "Manla Perz Girón\n\nEn once días del mes de Enero de este año de mil y ochocientos, Yo Dn Bernardo Roncero, Cura propio de este lugar de Tardobispo y sus anexos, bauticé solemnemente y puse los santos óleos a una niña, que nació el día ocho del referido mes y año; se la puso por nombre Manuela; es hija legítima de Miguel Pérez, natural de este lugar, y Margarita Girón, natural de Roales, y vecinos de este. Abuelos paternos Juan Pérez y Joaquina Roncero, naturales de este de Tardobispo; Maternos Francisco Girón, natural del ya dicho Roales, y Josefa Fernández, natural del lugar de Muga en las vicarías de Alva y Aliste. Fueron padrinos Pedro Chillón y Manuela González, vezinos del Arraval de Sn Lázaro de Zamora, a quienes advertí su obligación y parentesco espiritual, que contrajo solo el padrino; y por berdad lo firmo. Dn Bernardo Roncero"
+      },
+      "birth": {
+        "date": "1800-01-08",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "francisco-hijo-de-rosa-izquierdo-terron",
@@ -29639,7 +29708,17 @@
       "observations": [
         "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "manuel-prada-sebastian",
+      "baptism": {
+        "date": "1823-02-26",
+        "place": "Tardobispo",
+        "transcription": "Alexandro hijo de Dn Manuel de Prada y de Manuela Girón\n\nEn el día veinte y seis del mes de Febrero del año de mil ochocientos veinte y tres, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a un niño que nació día veinte y cinco de dicho mes y año, a quien puse por nombre Alexandro; es hijo lexítimo de Dn Manuel de Prada, natural del lugar de Torrefrades, y de Manuel Girón, natural de este lugar de Tardobispo; Nieto por línea paterna de Diego Prada, natural del dicho Torrefrades, y de Ysabel Sebastián, natural del lugar de Villapera, y por la materna de Fernando Girón, natural del lugar de Roales, y de Francisca Roncero, natural de este de Tardobispo; fue su padrino Manuel Pasqual, vecino del lugar de Carrascal, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1823-02-25",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "marcos-hijo-de-manuela-giron-roncero",
@@ -29653,7 +29732,18 @@
       "observations": [
         "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "manuel-prada-sebastian",
+      "baptism": {
+        "date": "1832-04-25",
+        "place": "Tardobispo",
+        "transcription": "Marcos hijo de Manuel de Prada y de Manuela Girón\n\nEn el día veinte y cinco del mes de Abril del año de mil ochocientos treinta y dos, Yo el Infrascrito Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a un niño que nació día veinte y uno de dicho mes y año a las once y media de la noche, a quien puse por nombre Marcos; es hijo lexítimo de Manuel de Prada, natural del lugar de Torrefrades, y de Manuela Girón, natural de este de Tardobispo; Nieto por línea paterna de Diego de Prada, natural del dicho Torrefrades, y de Ysabel Sebastián, natural de Villa de Pera, y por la materna de Fernando Girón, natural del lugar de Roales, y de Francisca Roncero, natural de este de Tardobispo; fue su Padrino Marcos Rodríguez, vecino de este dicho lugar, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1832-04-21",
+        "place": "Tardobispo",
+        "note": "A las once y media de la noche."
+      }
     },
     {
       "id": "gemiliano-hijo-de-manuela-giron-roncero",
@@ -29667,7 +29757,18 @@
       "observations": [
         "Nombrado entre los hijos de Manuela Girón Roncero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "manuel-prada-sebastian",
+      "baptism": {
+        "date": "1836-02-01",
+        "place": "Tardobispo",
+        "transcription": "Geminiano hijo de Dn Manl Prada y Manuela Girón\n\nEn el día primero del mes de Febrero del año de mil ochocientos treinta y seis, yo el infrascrito Cura Párroco de Tardobispo y sus Anejos bauticé solemnemte y puse los Stos Óleos a un Niño qe nació el día anterior por la mañana, y se llamó Geminiano; hijo legítimo de Dn Manuel de Prada, natural del lugar de Torrefrades de Sayago, y de Manuela Girón, natural de este Pueblo: Abuelos Paternos Diego de Prada, natl del dho Torrefrades, é Ysabel Sebastián, natl de Villa de Pera de Sayago [...]"
+      },
+      "birth": {
+        "date": "1836-01-31",
+        "place": "Tardobispo",
+        "note": "Por la mañana."
+      }
     },
     {
       "id": "francisca-hijo-de-maria-de-lera-rodriguez",
@@ -30196,7 +30297,17 @@
       "observations": [
         "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "fernando-giron-fernandez",
+      "baptism": {
+        "date": "1794-02-02",
+        "place": "Tardobispo",
+        "transcription": "Josef Girón, Roncero\n\nEn dos días del mes de febrero de este año de mil setecientos noventa y quatro, Yo Dn Bernardo Roncero, Cura propio de la Parroquial de este lugar de Tardobispo, bauticé solemnemente y puse los santos óleos á un niño que nació el día treinta de Enero de dicho año; se le puso por nombre Josef; hijo legítimo de Fernando Girón, natural del lugar de Roales, y Francisca Roncero Pérez, natural de este, y vecinos de él; Abuelos paternos Francisco Girón, natural del nominado Roales, y Josefa Fernández, natural del lugar de Muga, en la Vicaría de Alba y Aliste; Maternos Lorenzo Roncero y Micaela Pérez, naturales de este lugar; fueron padrinos Francisco Girón, Abuelo paterno, vecino del dicho lugar de Roales, y Gerónima Luengo, vecina del de Sn Marcial, á quienes advertí su obligación y parentesco espiritual, que contraxo solo el padrino; y por berdad lo firmo. Dn Bernardo Roncero."
+      },
+      "birth": {
+        "date": "1794-01-30",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "margarita-hijo-de-francisca-roncero-perez",
@@ -30210,7 +30321,17 @@
       "observations": [
         "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "fernando-giron-fernandez",
+      "baptism": {
+        "date": "1798-01-09",
+        "place": "Tardobispo",
+        "transcription": "Año de 1798. Margarita Girón\n\nEn nuebe días del mes de Enero de este año de mil setezientos noventa y ocho, Yo Dn Bernardo Roncero, Cura propio de este lugar de Tardobispo y sus anejos, bauticé solemnemente y puse los santos óleos á una niña que nació el día seis de dicho mes; se la puso por nombre Margarita; es hija legítima de Fernando Girón, natural del lugar de Roales, y Francisca Roncero Pérez, natural de este lugar, y vezinos de él; Abuelos paternos Francisco Girón, natural del nominado Roales, y Josefa Fernández, natural del lugar de Muga, en las vicarías de Alba y Aliste; Maternos Lorenzo Roncero y Micaela Pérez, naturales de [...]"
+      },
+      "birth": {
+        "date": "1798-01-06",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "atilano-hijo-de-francisca-roncero-perez",
@@ -30224,7 +30345,17 @@
       "observations": [
         "Nombrado entre los hijos de Francisca Roncero Pérez en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
         "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
-      ]
+      ],
+      "father": "fernando-giron-fernandez",
+      "baptism": {
+        "date": "1805-10-05",
+        "place": "Tardobispo",
+        "transcription": "Atilano hijo de Fernando Girón y de Francisca Ronzero\n\nEn el día cinco del mes de octubre del año de mil ochocientos y cinco, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a un niño que nació día tres de dicho mes, a quien puse por nombre Atilano; es hijo lexítimo de Fernando Girón, natural del lugar de Roales, y de Francisca Ronzero, natural de este lugar de Tardobispo; Nieto por línea paterna de Francisco Girón, natural de Roales, y de Josefa Fernández, natural de Muga, tierra de Aliste, y por la materna de Lorenzo Ronzero y de Micaela Pérez, naturales de Tardobispo; fue su padrino Francisco Pérez, vecino del dho Tardobispo, a quien advertí el parentesco espiritual y demás obligaciones, y para qe conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1805-10-03",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "atilano-hijo-de-maria-perez-matos",
@@ -31543,13 +31674,23 @@
       "mother": "dorotea-hernandez",
       "observations": [
         "Nombrada entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
-        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
-      ]
+        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila.",
+        "Es, con toda probabilidad, la Francisca Roncero que en 1773 fue madrina, con su marido, Miguel Rodríguez, de su media hermana Narcisa Roncero Pérez (Tardobispo, 28-10-1773): la partida los llama hermana y cuñado de la bautizada, y la otra Francisca, hija de Micaela Pérez, tenía entonces dos años."
+      ],
+      "baptism": {
+        "place": "Tardobispo",
+        "note": "No se ve la fecha del bautismo: el asiento continúa en una página que no está fotografiada.",
+        "transcription": "Francisca Ronzero\n\nEn el día seis de Julio de mil setezientos y quaren[ta] i uno nació una niña hija lexítima de Lorenzo Ronzero, y de Dorotea hernandez naturales de este Lugar [...]"
+      },
+      "birth": {
+        "date": "1741-07-06",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "bernardo-hijo-de-dorotea-hernandez",
-      "name": "Bernardo Roncero Hernández",
-      "givenNames": "Bernardo",
+      "name": "Bernardo Gabriel Roncero Hernández",
+      "givenNames": "Bernardo Gabriel",
       "surnames": [
         "Roncero",
         "Hernández"
@@ -31559,7 +31700,16 @@
       "observations": [
         "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
         "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
-      ]
+      ],
+      "baptism": {
+        "date": "1745-03-17",
+        "place": "Tardobispo",
+        "transcription": "Berndo Gabriel Ronzero\n\nEn ocho de Marzo de mil, setezientos, y quarenta, i zinco nazió un niño hijo lexítimo de Lorenzo Ronzero, y de Dorotea Hernz su lexítima muger, naturales, y vezinos de este Lugar de Tardeobpo, y en diez, i siete de dho mes, y año le Baptizé solemnemte, y puse los santos Óleos Yo Dn Lorenzo Zeuicos Arzipreste, y Cura propio de este dho Lugar; pusiéronle por nombre Bernardo Gabriel; sus Padrinos Berndo Hernz su Abuelo Materno, y Anjela Miguel muger de Manuel Pérez Ronzero; advertí al Padrino, que solo [ilegible] y obligazión de adoctrinarle. Abuelos Paternos del Baptizado fueron Manuel Ronzero vezino, y natural de este dho Lugar, y Luzía Herrero natural del de Pereruela; Maternos dho Berndo Hernz natural del Perdigón, y Franca de la Fuente, natural que fue de este de Tardeobpo, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1745-03-08",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "miguel-hijo-de-dorotea-hernandez",
@@ -31574,7 +31724,16 @@
       "observations": [
         "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
         "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
-      ]
+      ],
+      "baptism": {
+        "date": "1750-10-07",
+        "place": "Tardobispo",
+        "transcription": "Miguel Ronzero\n\nEn veinte, y ocho de Septiembre de mil, setezientos, y zinquenta nazió un niño hijo lexítimo de Lorenzo Ronzero, y de su lexítima muger Dorotea Hernández vezinos, y naturales de este Lugar de Tardeobpo; y en siete de octubre de dho año le Baptizé solemnemente, y puse los santos Óleos Yo Dn Lorenzo Zeuicos Arzipreste, y Cura propio de este dho Lugar; pusiéronle por nombre Miguel; sus Padrinos Franco Garzía Miguel, y su muger María Hernz vezinos del de el Perdigón; advertí al Padrino que solo le tocó el parentesco spiritual, y [...] Abuelos Pater- [...]"
+      },
+      "birth": {
+        "date": "1750-09-28",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "petrona-hijo-de-francisco-terron",
@@ -31677,11 +31836,9 @@
       },
       "baptism": {
         "date": "1771-01-31",
-        "place": "Tardobispo"
-      },
-      "observations": [
-        "Su bautismo está en la misma página que el de Francisca Roncero Pérez (1771); no se ha transcrito."
-      ]
+        "place": "Tardobispo",
+        "transcription": "Paula Pérez\n\nEn veinte, i zinco de Enero de mil, setezientos, y setenta, i uno nazió una niña hija lexítima de Juan Pérez, y de Joachina Ronzero vezinos, i naturales de este Lugar de Tardeobpo, y en treinta i uno de dho mes, i año Yo Dn Lorenzo Zeuicos Arzipreste, i cura propio de este referido Lugar la Bautizé solemnemente, i puse los Sactos Óleos; pusiéronla por Nombre Paula; sus Padrinos Manuel Pérez, i Anjela Miguel Abuelos Paternos de la Bautizada; advertí al Padrino que solo la tocó el Parentesco spiritual, y obligazión de adoctrinarla. Abuelos Paternos los expresados Manuel Pérez natural de este referido Lugar, i la dha Anjela natural del de la Tuda; Maternos Lorenzo Ronzero y Dorotea Hernández naturales de este referido Tardeobpo; y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      }
     },
     {
       "id": "manuela-barrocal-melado",
@@ -31772,12 +31929,21 @@
       "observations": [
         "Nombrado entre los hijos y herederos de Micaela Pérez, viuda de Lorenzo Roncero, en su partida de entierro (1815).",
         "Segundo apellido deducido del de su madre."
-      ]
+      ],
+      "baptism": {
+        "date": "1758-04-20",
+        "place": "Tardobispo",
+        "transcription": "Juan Ronzero\n\nEn quinze de Abril de mil, setezientos, i zinqta y ocho nazió un niño hijo lexítimo de Lorenzo Ronzero, y de su muger Micaela Pérez, naturales y vezinos deeste Lugar de Tardeobpo, y en veinte de dho mes, y año Yo Dn Lorenzo Zeuicos, Arzipreste de Valdesema, y cura propio deeste dho Lugar de Tardeobpo, le Baptizé solemnemente, y puse los santos Óleos. Pusiéronle por nombre Juan; sus Padrinos Juan Ronzero, tío del Baptizado, y Bizenta González; advertí al Padrino (q solo le tocó) el parentesco spiritual, y obligazión de adoctrinarle. Abuelos Paternos Manuel Ronzero, natural deeste referido Lugar, y Luzía Errero, natural deel de Pereruela; Maternos Juan Pérez y Teresa Hernz, naturales deeste de Tardeobpo. Firmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1758-04-15",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "jose-hijo-de-micaela-perez",
-      "name": "José Roncero Pérez",
-      "givenNames": "José",
+      "name": "José Gabriel Roncero Pérez",
+      "givenNames": "José Gabriel",
       "surnames": [
         "Roncero",
         "Pérez"
@@ -31787,12 +31953,21 @@
       "observations": [
         "Nombrado entre los hijos y herederos de Micaela Pérez, viuda de Lorenzo Roncero, en su partida de entierro (1815).",
         "Segundo apellido deducido del de su madre."
-      ]
+      ],
+      "baptism": {
+        "date": "1762-03-18",
+        "place": "Tardobispo",
+        "transcription": "Joseph Gabriel Ronzero\n\nEn nuebe de Marzo de mil, setezientos, y sesenta, y dos nazió un niño, hijo lexítimo de Lorenzo Ronzero, y de Micaela Pérez, naturales, y vezinos deeste Lugar de Tardeobpo, y en diez, y ocho de dho mes, y año Yo Dn Lorenzo Zeuicos, Arzipte y cura propio deeste referido Lugar, le Baptizé solemnemente y puse los Sanctos Óleos; pusiéronle por nombre Joseph Gabriel; sus Padrinos Juan Garzía Miguel, vezino del Perdigón, y María Ronzero, soltera; advertí al Padrino, q solo le tocó, el parentesco spiritual, y obligazión de adoctrinarle. Abuelos Paternos Manuel Ronzero, natural deeste dho Lugar, y Luzía Errero, natural deel de Pereruela; Maternos Juan Pérez, y Teresa Hernz, naturales deeste de Tardeobpo. Firmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1762-03-09",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "teresa-hijo-de-micaela-perez",
-      "name": "Teresa Roncero Pérez",
-      "givenNames": "Teresa",
+      "name": "Teresa María Roncero Pérez",
+      "givenNames": "Teresa María",
       "surnames": [
         "Roncero",
         "Pérez"
@@ -31802,7 +31977,16 @@
       "observations": [
         "Nombrada entre los hijos y herederos de Micaela Pérez, viuda de Lorenzo Roncero, en su partida de entierro (1815).",
         "Segundo apellido deducido del de su madre."
-      ]
+      ],
+      "baptism": {
+        "place": "Tardobispo",
+        "note": "No se ve la fecha del bautismo: el asiento continúa en una página que no está fotografiada.",
+        "transcription": "Teresa María Ronzero\n\nEn ocho de Diziembre de mil, setezientos, i setenta, i ocho nazió una niña hija lexma de Lorenzo Ronzero, natural deeste Lugar de Tardeobpo, y de Micaela Pérez, nl deeste referido [...]"
+      },
+      "birth": {
+        "date": "1778-12-08",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "jeronima-hijo-de-micaela-perez",
@@ -31817,7 +32001,16 @@
       "observations": [
         "Ya había muerto en febrero de 1815: la partida de entierro de su madre deja herederos a sus hijos.",
         "Segundo apellido deducido del de su madre."
-      ]
+      ],
+      "baptism": {
+        "date": "1760-02-28",
+        "place": "Tardobispo",
+        "transcription": "Jerónima Ronzero\n\nEn veinte, i tres de Febrero de mil, setezientos, y sesenta nazió una niña hija lexítima de Lorenzo Ronzero, y de Micaela Pérez, vezinos, i naturales deeste Lugar, y en veinte, y ocho de dho mes Yo Dn Lorenzo Zeuicos, Arzipreste y cura propio deeste Lugar de Tardeobpo, la Baptizé solemnemente, y puse los Santos Óleos; pusiéronla por nombre Jerónima; sus Padrinos Manuel Pérez, y Jerónima Pérez, vezinos deeste dho Lugar; advertí al Padrino, q solo la tocó, el parentesco spiritual, y obligazión de Adoctrinarla. Abuelos Paternos Manuel Ronzero, natural deeste referido Lugar, y Luzía Errero, natural deel de Pereruela [...]"
+      },
+      "birth": {
+        "date": "1760-02-23",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "ana-melado-madre-de-micaela-esteban",
@@ -32925,7 +33118,16 @@
       "observations": [
         "Nombrado heredero, con su hermana Micaela, en las partidas de fallecimiento de su padre, Juan Pérez de la Iglesia (1760), y de su madre, Teresa Hernández (1777).",
         "Segundo apellido deducido del de su madre."
-      ]
+      ],
+      "baptism": {
+        "date": "1740-08-18",
+        "place": "Tardobispo",
+        "transcription": "Lorenzo Pérez\n\nEn ocho de Agosto de mil setezientos y quarenta nazió un niño hijo lexítimo de Juan Pérez y de Teresa Hernández, su lexítima muger, naturales y vezinos de este Lugar de Tardeobpo; y en diez y ocho de dho mes y año le Baptizé solemnemente y puse los Santos Óleos Yo Dn Lorenzo Zeuicos, Arzipreste y Cura propio de este dho Lugar; pusiéronle por nombre Lorenzo; sus Padrinos, [...]"
+      },
+      "birth": {
+        "date": "1740-08-08",
+        "place": "Tardobispo"
+      }
     },
     {
       "id": "barbara-hijo-de-juan-perez-martin",
@@ -35598,6 +35800,1587 @@
       ],
       "observations": [
         "La partida de bautismo de su hija María (Casaseca de las Chanas, 05-06-1612) la llama Catalina Marquesa."
+      ]
+    },
+    {
+      "id": "julian-garrote-lorenzo",
+      "name": "Julián Garrote Lorenzo",
+      "givenNames": "Julián",
+      "surnames": [
+        "Garrote",
+        "Lorenzo"
+      ],
+      "origins": [
+        "Luelmo"
+      ],
+      "observations": [
+        "Las partidas de bautismo de sus hijas (1868-1874) lo dicen natural de Luelmo, hijo de Manuel Garrote y de Ana Lorenzo, de Luelmo."
+      ],
+      "marriages": [
+        {
+          "spouse": "balbina-perez-sanchez",
+          "note": "Primer matrimonio de Balbina Pérez Sánchez, anterior a 1868, cuando nació su primera hija, Manuela; en 1877 ella se casó, viuda, con Enrique Brioso de Mena."
+        }
+      ],
+      "death": {
+        "note": "Murió entre 1874, cuando nació su hija María Felisa, y el 23 de agosto de 1877, cuando su viuda, Balbina Pérez Sánchez, volvió a casarse."
+      }
+    },
+    {
+      "id": "felix-alonso-roncero",
+      "name": "Félix Alonso Roncero",
+      "givenNames": "Félix",
+      "surnames": [
+        "Alonso",
+        "Roncero"
+      ],
+      "origins": [
+        "Tardobispo"
+      ],
+      "observations": [
+        "Las partidas de bautismo de sus hijos (1823-1830) lo llaman «Feliz Alonso», natural de Tardobispo, hijo de Josef Alonso y de Teresa Roncero, naturales del mismo lugar."
+      ],
+      "marriages": [
+        {
+          "spouse": "valeria-santamaria-ramos",
+          "note": "Primer matrimonio de Valeria Santamaría Ramos, anterior a noviembre de 1823, cuando nacieron sus hijos gemelos, Carlos y José; después ella se casó con Tomás de Mena."
+        }
+      ],
+      "death": {
+        "note": "Murió, probablemente, entre 1830 y 1833: su último hijo nació en marzo de 1830, y en julio de 1833 su mujer, Valeria Santamaría, tuvo una hija con su segundo marido, Tomás de Mena."
+      }
+    },
+    {
+      "id": "nina-hijo-de-dorotea-hernandez",
+      "name": "Niña Roncero Hernández",
+      "givenNames": "Niña",
+      "surnames": [
+        "Roncero",
+        "Hernández"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "dorotea-hernandez",
+      "baptism": {
+        "date": "1754-04-16",
+        "place": "Tardobispo",
+        "note": "De socorro, el día de su nacimiento, por su tío Juan Roncero; no se le pusieron los óleos.",
+        "transcription": "Una niña hija de Lorenzo Ronzero. Murió.\n\nEn diez y seis de Abril de mil, setezientos, y zinquenta, y quatro nazió una niña hija lexma de Lorenzo Ronzero, y de Dorotea Hernández vezinos de este Lugar de Tardeobpo, y en dho día la socorrió con el Baptismo Juan Ronzero su tío; no se le pusieron los santos Óleos, porque murió el día siguiente, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1754-04-16",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "date": "1754-04-17",
+        "place": "Tardobispo",
+        "note": "La partida de bautismo dice que murió el día siguiente al de su nacimiento."
+      },
+      "observations": [
+        "La partida de bautismo no le da nombre: la llama solo «una niña»."
+      ]
+    },
+    {
+      "id": "maria-hijo-de-dorotea-hernandez",
+      "name": "María Roncero Hernández",
+      "givenNames": "María",
+      "surnames": [
+        "Roncero",
+        "Hernández"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "dorotea-hernandez",
+      "baptism": {
+        "date": "1752-04-18",
+        "place": "Tardobispo",
+        "transcription": "María Ronzero Hernz. Murió.\n\nEn onze de Abril de mil setezientos, y zinquenta, y dos nazió una niña hija lexítima de Lorenzo Ronzero, y de su lexítima muger Dorotea Hernz naturales, y vezinos de este Lugar de Tardeobpo, y en diez, i ocho de dho mes, y año Yo Dn Lorenzo Zeuicos Arzipte, y cura propio de este referido Lugar la Baptizé solemnemde, y puse los santos Óleos; pusiéronla por nombre María; sus padrinos Manuel Pérez Ronzero, y María Hernz sus tíos; advertí al Padrino que solo la tocó el parentesco spiritual, y obligazión de adoctrinarla. Abuelos Paternos de la Baptizada fueron Manuel Ronzero natl de este dho Lugar, y Luzía Herrero natl del de Pereruela; Maternos Berndo Hernz natl del Perdigón, y Franca de la Fuente natl de este referido de Tardeobpo, y lo firmé. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1752-04-11",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha. No figura entre los herederos de su madre en abril de 1754."
+      }
+    },
+    {
+      "id": "nino-hijo-de-joaquina-roncero-hernandez",
+      "name": "Niño Pérez Roncero",
+      "givenNames": "Niño",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "baptism": {
+        "date": "1775-10-31",
+        "place": "Tardobispo",
+        "note": "De socorro, por Juan de la Fuente; no se le pusieron los óleos «porque luego murió».",
+        "transcription": "Niño.\n\nEn 31 de Octubre de mil setecientos setenta y cinco nació un Niño hijo legítimo de Juan Perez Ronzero, y de Juachina Ronzero a quien socorrió con el Bautismo Juan de la Fuente a quien advertí el Parentesco espiritual que contraxo, no se le pusieron los Santos Óleos porque luego murió, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1775-10-31",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo dice que murió en seguida, sin dar la fecha."
+      },
+      "observations": [
+        "La partida de bautismo no le da nombre: lo llama solo «un Niño»."
+      ]
+    },
+    {
+      "id": "agustin-hijo-de-juan-perez-miguel",
+      "name": "Agustín Pérez Roncero",
+      "givenNames": "Agustín",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "baptism": {
+        "date": "1768-05-12",
+        "place": "Tardobispo",
+        "note": "La partida dice «en doze de dho año», sin mes: se entiende mayo, el mes del nacimiento.",
+        "transcription": "Agustín Pérez\n\nEn quatro de Mayo de mil, setezientos, y sesenta, y ocho nazió un niño hijo lexmo de Juan Pérez natl de este Lugar de Tardeobpo, y de Joachina Ronzero nl de este dho Lugar, y en doze de dho año, Yo Dn Lorenzo Zeuicos Arzipte, y Cura propio de este dho [...]"
+      },
+      "birth": {
+        "date": "1768-05-04",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "francisco-hijo-de-juan-perez-miguel",
+      "name": "Francisco Pérez Roncero",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "baptism": {
+        "date": "1773-10-07",
+        "place": "Tardobispo",
+        "transcription": "Franco Pérez\n\nEn dos de Octubre de mil, setezientos, i setenta i tres nazió un niño hijo lexítimo de Juan Pérez, i de Joachina Ronzero naturales, i vezinos de este Lugar de Tardobpo, y en siete de dho mes, i año Yo Dn Lorenzo Zeuicos Arzipreste, y cura propio de este referido Lugar le Bautizé solemnemente, y puse los Santos Óleos; pusiéronle por nombre Franco; sus Padrinos Lorenzo Ronzero su Abuelo Materno, y Micaela Pérez. Advertíles la obligazión de adoctrinarle. Abuelos Paternos Manuel Pérez natural de este dho Lugar de Tardobpo, y Anjela Miguel natural de la Tuda. Maternos el referido Lorenzo Ronzero, y Dorotea Hernández naturales de este referido Lugar de Tardobpo; fírmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1773-10-02",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Nombrado entre los herederos de su madre, Joaquina Roncero, en su partida de entierro (09-02-1814)."
+      ]
+    },
+    {
+      "id": "josefa-hijo-de-juan-perez-miguel",
+      "name": "Josefa Pérez Roncero",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "baptism": {
+        "date": "1786-03-22",
+        "place": "Tardobispo",
+        "transcription": "Josepha Pérez y Ronzero\n\nEn el día veinte y dos de Marzo de este año de mil setezientos, ochenta y seis yo el infraescripto Cura próprio de este Lugar de Tardobispo Bautizé solegnemente a una niña que nazió el día veinte de dicho mes, a quien puse por nombre Josepha, hixa lexítima de Juan Pérez y de Joaquina Ronzero, vezinos y naturales de este; sus Abuelos Maternos, Lorenzo Ronzero y Dorotea Hernández, naturales de este; Paternos Manuel Pérez natural de este y Angela Miguel, natural de la Tuda; fue [...]"
+      },
+      "birth": {
+        "date": "1786-03-20",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Nombrada entre los herederos de su madre, Joaquina Roncero, en su partida de entierro (09-02-1814)."
+      ]
+    },
+    {
+      "id": "lorenzo-hijo-de-juan-perez-miguel",
+      "name": "Lorenzo Pérez Roncero",
+      "givenNames": "Lorenzo",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "baptism": {
+        "date": "1783-10-01",
+        "place": "Tardobispo",
+        "transcription": "Lorenzo Pérez Ronzero\n\nEn el día primero de obtubre de este año de mil setecientos ochenta y tres, yo el infraescripto cura proprio de este de Tardobispo Bautizé solenemente a un niño que nazió el día veinte y nueve de Septiembre, a quien puse por nombre Lorenzo, hijo lexítimo de Juan Pérez y de Joaquina Ronzero, vezinos y naturales de este; sus Abuelos Paternos Manuel Pérez natural de este, y Angela Miguel natural del de la Tuda; Maternos Lorenzo Ronzero y Dorotea Hernández naturales de este; fue su Padrino Lorenzo Ronzero [...]"
+      },
+      "birth": {
+        "date": "1783-09-29",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Nombrado entre los herederos de su madre, Joaquina Roncero, en su partida de entierro (09-02-1814)."
+      ]
+    },
+    {
+      "id": "nino-hijo-de-micaela-perez",
+      "name": "Niño Roncero Pérez",
+      "givenNames": "Niño",
+      "surnames": [
+        "Roncero",
+        "Pérez"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "micaela-perez",
+      "baptism": {
+        "date": "1756-10-13",
+        "place": "Tardobispo",
+        "note": "De socorro, por Manuel Roncero; no recibió los óleos porque murió en seguida.",
+        "transcription": "[ilegible]\n\nEn treze de Octubre de mil setezientos y zinquenta y seis nazió un niño, hijo lexmo de Lorenzo Ronzero y de Micaela Pérez. Baptizole de socorro Manuel Ronzero; no rezivió los santos Óleos por q murió luego. Firmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1756-10-13",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo dice que murió en seguida, sin dar la fecha."
+      },
+      "observations": [
+        "La partida de bautismo no le da nombre: lo llama solo «un niño»."
+      ]
+    },
+    {
+      "id": "josefa-hijo-de-micaela-perez",
+      "name": "Josefa Roncero Pérez",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Roncero",
+        "Pérez"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "micaela-perez",
+      "baptism": {
+        "date": "1766-11-09",
+        "place": "Tardobispo",
+        "transcription": "Josepha Ronzero\n\nEn primero de Noviembre de mil setecientos, y sesenta, y seis nació una niña hija lexítima de Lorenzo Ronzero, y Michaela Pérez, naturales, y vezinos deste lugar de Tardeobpo; en nueve de dho mes, y año, yo fr. Juan Bussía, Religioso de N. P. S. Franco de la observancia, de comisión del Sr Dn Lorenzo Zevicos, Arzipreste, y Cura propio deeste dho lugar, la Baptizé solememente, y puse los santos óleos. Pusiéronla por nombre Josepha; sus padrinos Manuel Ronzero, y Josepha Prieto su muger; advertí al padrino el parentesco espiritual, que solo la tocó, y obligación de doctrinalla. Abuelos paternos Manuel Ronzero, natural deste lugar, y Luzía Herrero, natural del Pereruela; Maternos Juan Pérez, y Theresa Hernández, naturales deste dicho lugar. Firmelo ut supra. Fr. Juan Bussía."
+      },
+      "birth": {
+        "date": "1766-11-01",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-hijo-de-micaela-perez",
+      "name": "María Roncero Pérez",
+      "givenNames": "María",
+      "surnames": [
+        "Roncero",
+        "Pérez"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "micaela-perez",
+      "baptism": {
+        "date": "1764-06-02",
+        "place": "Tardobispo",
+        "transcription": "María Ronzero. Murió.\n\nEn veinte, y quatro de Mayo nazió una niña hija lexma de Lorenzo Ronzero, y de Micaela Pérez, naturales y vezinos deeste Lugar de Tardeobpo, y en dos de Junio de dho año Yo Dn Lorenzo Zeuicos, Arzipte y cura propio deeste referido Lugar, la Baptizé solemnemte y puse los Santos Óleos; pusiéronla por nombre María; sus Padrinos Miguel Jambrina, vezno deeste dho Lugar, y María Hernz, vezna del deel Perdigón; advertí al Padrino, q solo la tocó, el parentesco spiritual y obligazión de adoctrinarla. Abuelos Paternos Manuel Ronzero, natural deeste Lugar, y Luzía Errero, nl deel de Pereruela; maternos Juan Pérez, y Teresa Hernz, natles deeste Lugar, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1764-05-24",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "narcisa-hijo-de-micaela-perez",
+      "name": "Narcisa Roncero Pérez",
+      "givenNames": "Narcisa",
+      "surnames": [
+        "Roncero",
+        "Pérez"
+      ],
+      "father": "lorenzo-roncero-herrero",
+      "mother": "micaela-perez",
+      "baptism": {
+        "date": "1773-10-28",
+        "place": "Tardobispo",
+        "transcription": "Narzisa Ronzero\n\nEn veinte, i uno de Octubre de mil, setezientos, i setenta, y tres nazió una niña hija lexítima de Lorenzo Ronzero, y de Micaela Pérez, naturales, i vezinos deeste Lugar de Tardeobpo, y en veinte, i ocho de dho mes, y año Yo Dn Lorenzo Zeuicos, Arzipreste, y cura propio deeste referido Lugar, la Bautizé solemnemente, y puse los sanctos Óleos; pusiéronla por nor Narzisa; sus Padrinos Miguel Rodríguez, i Franca Ronzero, hermana y cuñado de la Bautizada, a quienes advertí la obligazión de adoctrinarla. Abuelos Paternos Manuel Ronzero, natural deeste dho Lugar, i Luzía Errero, natural deel de Pereruela; Maternos Juan Pérez, y Teresa Hernz, naturales deeste Tardobpo, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1773-10-21",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "ildefonso-hijo-de-manuel-perez",
+      "name": "Ildefonso Pérez Miguel",
+      "givenNames": "Ildefonso",
+      "surnames": [
+        "Pérez",
+        "Miguel"
+      ],
+      "father": "manuel-perez",
+      "mother": "angela-miguel",
+      "baptism": {
+        "date": "1745-05-27",
+        "place": "Tardobispo",
+        "transcription": "Yldefonso Pérez. Murió.\n\nEn diez, i siete de Mayo de mil, setezientos, y quarenta, y zinco nazió un niño hijo lexítimo de Manuel Pérez, natural deeste Lugar de Tardeobpo, y de su lexítima muger Ánjela Miguel, natural deel de la Tuda, y vezinos deeste de Tardeobpo, y en veinte, y siete de dho mes, y año le Baptizé solemnemente, y puse los Sanctos Óleos Yo Dn Lorenzo Zeuicos, Arzipte y cura propio deeste dho Lugar; pusiéronle por nombre Yldefonso; sus Padrinos Lorenzo Ronzero, y Paula Miguel, vezinos deeste dho Lugar; advertí al Padrino (q solo le tocó) el parentesco spiritual, y obligazión de adoctrinarle. Abuelos Paternos del Baptizado fueron Juan Pérez, y Luisa Ronzero, naturales deeste dho Lugar; maternos Gregorio Miguel, nl deel referido de la Tuda, y Ysauel Bara, nl de Sobradillo. Firmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1745-05-17",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "lorenza-hijo-de-manuel-perez",
+      "name": "Lorenza Pérez Miguel",
+      "givenNames": "Lorenza",
+      "surnames": [
+        "Pérez",
+        "Miguel"
+      ],
+      "father": "manuel-perez",
+      "mother": "angela-miguel",
+      "baptism": {
+        "date": "1743",
+        "place": "Tardobispo",
+        "note": "De socorro, por el cura, el día 16 de un mes que no se ve; no se le pusieron los óleos porque murió.",
+        "transcription": "Lorenza Pérez. Murió.\n\n[...] y de Ánjela Miguel, vezinos deeste Lugar de Tardeobpo, y en diez i seis de dho mes y año la socorrí con el Bautismo Yo Dn Lorenzo Zeuicos, Arzipte y cura propio deeste dho Lugar, y puse por nombre Lorenza; no la puse los Sanctos Óleos porque murió el día [ilegible] dho; Firmelo ut supra. Dn Lorenzo Zeuicos."
+      },
+      "death": {
+        "date": "1743",
+        "note": "La partida de bautismo dice que murió sin recibir los óleos, al parecer el mismo día 16 en que fue bautizada de socorro; el mes no se ve."
+      }
+    },
+    {
+      "id": "luisa-hijo-de-manuel-perez",
+      "name": "Luisa Pérez Miguel",
+      "givenNames": "Luisa",
+      "surnames": [
+        "Pérez",
+        "Miguel"
+      ],
+      "father": "manuel-perez",
+      "mother": "angela-miguel",
+      "baptism": {
+        "date": "1741-11-16",
+        "place": "Tardobispo",
+        "transcription": "Luisa Pérez. Murió.\n\nEn zinco de Nobiembre de mil setezientos, y quarenta y uno nazió una niña hija lexítima de Manuel Pérez, natural deeste Lugar de Tardeobpo, y de Ánjela Miguel, su lexítima muger, natural deel de la Tuda, y en diez, i seis de dho mes, y año la Baptizé solemnemte, y puse los sanctos Óleos Yo Dn Lorenzo Zeuicos, Arzipte y cura propio deeste dho Lugar de Tardeobpo; pusiéronla por nombre Luisa; sus padrinos Juan Ronzero y Agustina Ronzero, tíos de la Baptizada; Abuelos paternos de la Bautizada fueron Juan Pérez y Luisa Ronzero, natles deeste Lugar de Tardeobpo; maternos Gregorio Miguel, natl, q fue, deel referido Lugr de la Tuda, e Ysauel Bara, natural deel de Sobradillo; advertí al padrino (q solo la tocó) el parentesco spiritual y obligazión de adoctrinarla, y lo firmé ut supra. Dn Lorenzo Zeuicos."
+      },
+      "birth": {
+        "date": "1741-11-05",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "antonio-hijo-de-miguel-perez-roncero",
+      "name": "Antonio Pérez Girón",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
+      "father": "miguel-perez-roncero",
+      "mother": "margarita-giron-fernandez",
+      "baptism": {
+        "date": "1802-01-19",
+        "place": "Tardobispo",
+        "transcription": "Antonio hijo de Miguel Pérez y de Margarita Girón\n\nEn el día diez y nueve del mes de Enero del año de mil ochocientos y dos, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los santos óleos a un niño que nació en el día diez y siete de dicho mes; le pusieron por nombre Antonio; es hijo lexítimo de Miguel Pérez, natural de este lugar, y de Margarita Girón, natural del lugar de Roales; Nieto por línea paterna de Juan Pérez y de Joaquina Ronzero, naturales de este lugar de Tardobispo, y por la materna de Francisco Girón, natural de Roales, y de Josefa Fernández, natural de Muga en las vicarías de Alba y Aliste. Fue su padrino Manuel Pérez, a quien advertí el parentesco espiritual y demás obligaciones, el qe es vecino de este lugar; y para qe conste lo firmo ut supra. Dn Manuel Sebillano"
+      },
+      "birth": {
+        "date": "1802-01-17",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-de-las-candelas-hijo-de-miguel-perez-roncero",
+      "name": "María de las Candelas Pérez Girón",
+      "givenNames": "María de las Candelas",
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
+      "father": "miguel-perez-roncero",
+      "mother": "margarita-giron-fernandez",
+      "baptism": {
+        "date": "1811-02-03",
+        "place": "Tardobispo",
+        "transcription": "María de las Candelas hija de Miguel Pérez y de Margarita Girón\n\nEn el día tres del mes de Febrero del año de mil ochocientos y once, yo el infraescripto Teniente por ausencia del proprio Párroco del lugar de Tardobispo y sus Anexos bauticé solennemente y puse los Stos Óleos a una niña qe nació día dos del dho mes, a qn puse pr nombre María de las Candelas; es hija lexítima de Miguel Pérez, natural de este lugar de Tardobispo, y de Margarita Girón, natural del lugar de Roales; Nieta pr línea paterna de Juan Pérez y de Joaquina Roncero, naturales de este de Tardobispo, y pr la materna de Franco Girón, natural del lugar de Roales, y de Josefa Fernández, natural del lugar de Muga en las Vicarías de Alba y Aliste. Fue su Padrino Franco Pérez, vecino y natural de este lugar de Tardobispo, a qn advertí el parentesco espiritual y demás obligación qe contrajo; y para qe conste lo firmo ut supra. Dn Antº Rodrigz, Teniente\n\nDn Manuel Sebillano"
+      },
+      "birth": {
+        "date": "1811-02-02",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "saturnino-hijo-de-miguel-perez-roncero",
+      "name": "Saturnino Pérez Girón",
+      "givenNames": "Saturnino",
+      "surnames": [
+        "Pérez",
+        "Girón"
+      ],
+      "father": "miguel-perez-roncero",
+      "mother": "margarita-giron-fernandez",
+      "baptism": {
+        "date": "1804-02-12",
+        "place": "Tardobispo",
+        "note": "Ese día se suplieron las ceremonias; lo habían bautizado antes en privado.",
+        "transcription": "Saturnino hijo de Miguel Pérez y de Margarita Girón\n\nEn el día doce del mes de febrero del año de mil ochocientos y quatro, Yo el Infrascripto Cura párroco del lugar de Tardovispo y sus anejos bautizé solemnemente, digo suplí las zeremonias, a un niño a quien había bautizado pribadamente, el que nació en el día onze de dicho mes; le puse por nombre Saturnino; es hijo lexítimo de Miguel Pérez, natural de este lugar de Tardovispo, y de Margarita Girón, natural del lugar de Roales; nieto por línea paterna de Juan Pérez y de Joaquina Ronzero, naturales de este dicho lugar de Tardovispo, y por la materna de Francisco Girón, natural de Roales, y de Josefa Fernández, natural de Muga en las Vicarías de Alba y Aliste. Fue su padrino al suplir las zeremonias Seberino Bereda, vecino de Pereruela, a quien advertí su obligación; y para que conste lo firmo ut supra. Dn Manuel Sebillano"
+      },
+      "birth": {
+        "date": "1804-02-11",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "jose-hijo-de-juan-perez-de-la-iglesia",
+      "name": "José Pérez Hernández",
+      "givenNames": "José",
+      "surnames": [
+        "Pérez",
+        "Hernández"
+      ],
+      "father": "juan-perez-de-la-iglesia",
+      "mother": "teresa-hernandez-hernandez",
+      "baptism": {
+        "date": "1744-07-05",
+        "place": "Tardobispo",
+        "transcription": "Joseph Pérez. Murió.\n\nEn veinte y tres de Junio de mil setezientos y quarenta y quatro nazió un niño hijo lexítimo de Juan Pérez y de su lexítima muger Teresa Hernz, naturales y vezinos de este Lugar de Tardeobpo; y en zinco de Julio de dho año, de comisión de Dn Lorenzo Zeuicos, Arzpre y Cura propio de este dho Lugar, le Baptizé solenemnemte y puse los Santos Óleos Yo Dn Joseph Pérez, presvitero; pusiéronle por nombre Joseph; sus Padrinos Joseph Martín y Vizenta González; advertí al Padrino, que solo le toca, el parentesco spiritual y obligazión de adoctrinarle. Abuelos Paternos de el Baptizado fueron Joseph Pérez Luelmo, natural de este dho Lugar, y Manuela de la Yglesia, natural también de él; Maternos Domingo Hernz, natural de el de Pereruela, y Micaela Hernández, natural de este de Tardeobpo; y firmelo ut supra. Dn Joseph Pérez\n\nDi comisión para administrar este Baptismo. Zeuicos"
+      },
+      "birth": {
+        "date": "1744-06-23",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha. No figura entre los herederos de su padre en 1760."
+      }
+    },
+    {
+      "id": "lorenza-hijo-de-julian-garrote-lorenzo",
+      "name": "Lorenza Garrote Pérez",
+      "givenNames": "Lorenza",
+      "surnames": [
+        "Garrote",
+        "Pérez"
+      ],
+      "father": "julian-garrote-lorenzo",
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1871-03-04",
+        "place": "Tardobispo",
+        "transcription": "Lorenza Garrote de Julián y Balbina Pérez\n\nEn el día cuatro de Marzo del año mil ochocientos setenta y uno, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día anterior al de la fecha, a quien puse por nombre Lorenza, hija legítima de Julián Garrote, natural de Luelmo, y de Balbina Pérez, de Tardobispo. Abuelos paternos Manuel Garrote y Ana Lorenzo, de Luelmo; Maternos Esteban Pérez, de Tardobispo, y Eduviges Sánchez, del Cubo del vino. Fue su padrino Tiburcio Macías, tío de la bautizada, a quien advertí sus obligaciones; fueron testigos Eduardo Pérez y Paula Prieto, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano"
+      },
+      "birth": {
+        "date": "1871-03-03",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "manuela-hijo-de-julian-garrote-lorenzo",
+      "name": "Manuela Garrote Pérez",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Garrote",
+        "Pérez"
+      ],
+      "father": "julian-garrote-lorenzo",
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1868-06-19",
+        "place": "Tardobispo",
+        "transcription": "Manuela Garrote de Julián y Balbina Pérez\n\nEn el día diez y nueve de Junio del año mil ochocientos sesenta y ocho, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día anterior al de la fecha, a quien puse por nombre Manuela, hija legítima de Julián Garrote, natural de Luelmo, y de Balbina Pérez, de esta vecindad. Abuelos paternos Manuel Garrote y Ana Lorenzo, de Luelmo; Maternos Esteban Pérez, de Tardobispo, y Eduviges Sánchez, del Cubo del Vino. Fue su padrino Antonio Pérez, tío de la bautizada, a quien advertí sus obligaciones; testigos Eduardo Pérez y Ramona Carcen, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano"
+      },
+      "birth": {
+        "date": "1868-06-18",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-felisa-hijo-de-julian-garrote-lorenzo",
+      "name": "María Felisa Garrote Pérez",
+      "givenNames": "María Felisa",
+      "surnames": [
+        "Garrote",
+        "Pérez"
+      ],
+      "father": "julian-garrote-lorenzo",
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1874-08-01",
+        "place": "Tardobispo",
+        "transcription": "María Felisa Garrote de Julián y Balbina Pérez\n\nEn el día primero de Agosto del año mil ochocientos setenta y cuatro, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día veinte y nueve del mes anterior, a quien puse por nombre María Felisa, hija legítima de Julián Garrote, natural de Luelmo, y de Balbina Pérez, de Tardobispo. Abuelos paternos Manuel Garrote y Ana Lorenzo, de Luelmo; Maternos Esteban Pérez, de Tardobispo, y Eduvijes Sánchez, del Cubo del vino. Fue su padrino José Pérez, tío de la bautizada, a quien advertí sus obligaciones; testigos Eduardo Pérez y María Alonso, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano"
+      },
+      "birth": {
+        "date": "1874-07-29",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-hijo-de-julian-garrote-lorenzo",
+      "name": "María Garrote Pérez",
+      "givenNames": "María",
+      "surnames": [
+        "Garrote",
+        "Pérez"
+      ],
+      "father": "julian-garrote-lorenzo",
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1872-11-05",
+        "place": "Tardobispo",
+        "transcription": "María Garrote de Julián y Balbina Pérez\n\nEn el día cinco de Noviembre del año mil ochocientos setenta y dos, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día tres de dicho mes, a quien puse por nombre María, hija legítima de Julián Garrote, natural de Luelmo, y de Balbina Pérez, de Tardobispo. Abuelos paternos Manuel Garrote y Ana Lorenzo, de Luelmo; Maternos Esteban Pérez, de Tardobispo, y Eduvijes Sánchez, del Cubo del Vino. Fue su padrino Tiburcio Macías, tío de la bautizada, a quien advertí sus obligaciones; testigos Eduardo Pérez y Paula Prieto, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano"
+      },
+      "birth": {
+        "date": "1872-11-03",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "antonio-hijo-de-esteban-perez-giron",
+      "name": "Antonio Pérez Sánchez",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1830-11-09",
+        "place": "Tardobispo",
+        "transcription": "Antonio hijo de Estiban Pérez y de Edubiges Sánchez\n\nEn el día nuebe del mes de Noviembre del año de mil ochocientos treinta, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos olios a un niño que nació día siete a las ocho de la noche de dicho mes y año, a quien puse por nombre Antonio; es hijo lexítimo de Esteban Pérez, natural de este de Tardobispo, y de Edubiges Sánchez, natural de la villa del Cubo; Nieto por línea paterna de Miguel Pérez, natural de este de Tardobispo, y de Margarita Girón, natural del lugar de Roales, y por la materna de Manuel Sánchez y de Rosa Yzquierdo, naturales de la Villa del Cubo; fue su padrino Gregorio Tuda, vecino de este lugar, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Emdo Sánchez. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1830-11-07",
+        "place": "Tardobispo",
+        "note": "A las ocho de la noche."
+      },
+      "observations": [
+        "Probablemente el «Antonio Pérez, tío de la bautizada», padrino de su sobrina Manuela Garrote Pérez (Tardobispo, 19-06-1868)."
+      ]
+    },
+    {
+      "id": "isidro-hijo-de-esteban-perez-giron",
+      "name": "Isidro Pérez Sánchez",
+      "givenNames": "Isidro",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1845-12-14",
+        "place": "Tardobispo",
+        "transcription": "Ysidro hijo de Estevan Pérez y de Eudwiges Sánchez\n\nEn el día catorce del mes de Diciembre del año de mil ochocientos quarenta y cinco, Yo el infrascripto Cura Párroco de Tardobispo y sus Anejos bauticé solemnemte y puse los Stos Óleos a un niño qe nació día once del mismo mes, y se llamó Ysidro; es hijo legítimo de Estevan Pérez, natl de Tardobispo, y de Eudwiges Sánchez, del Cubo; sus Abuelos Paternos Miguel Pérez, de este, y Margarita Girón, de Roales; Maternos Manuel Sánchez y Rosa Yzquierdo, del Cubo; fueron sus Padrinos Alonso Prieto e Ysidora Burrueco, vecinos de este; testigos Eduardo Pérez y Manuela Pérez, vecs de este; y por verdad lo firmo Ut supra. Dn Gregº Garrote de Pedro."
+      },
+      "birth": {
+        "date": "1845-12-11",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "joaquina-hijo-de-esteban-perez-giron",
+      "name": "Joaquina Pérez Sánchez",
+      "givenNames": "Joaquina",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1834-01-19",
+        "place": "Tardobispo",
+        "transcription": "Joaquina hija de Estevan Pérez y de Eudubiges Sánchez\n\nEn el día diez y nueve de Enero del año de mil ochocientos treinta y quatro, yo el infrascrito Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemente y puse los Santos Óleos a una niña qe nació el día diez y ocho, a quien puse por nombre Joaquina, hija legíxima de Esteban Pé- [...]"
+      },
+      "birth": {
+        "date": "1834-01-18",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "josefa-hijo-de-esteban-perez-giron",
+      "name": "Josefa Pérez Sánchez",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1837-03-27",
+        "place": "Tardobispo",
+        "transcription": "Josefa hija de Estevan Pérez y Eudwiges Sánchez\n\nEn el día veinte y siete del mes de Marzo del año de mil ochocientos treinta y siete, yo el infrascrito Cura Párroco del lugar de Tardeobispo y sus Anejos bauticé solemnemte y puse los Stos Óleos a una Niña qe nació el día anterior y se llamó Josefa; es hija legítima de Estevan Pérez, natural de este de Tardpo, y de Eudwiges Sánchez, natural del Cubo; Abuelos Paternos Miguel Pérez [...]"
+      },
+      "birth": {
+        "date": "1837-03-26",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "manuela-hijo-de-esteban-perez-giron",
+      "name": "Manuela Pérez Sánchez",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1839-06-20",
+        "place": "Tardobispo",
+        "transcription": "Manuela hija de Estevan Pérez y Eudwiges Sánchez\n\nEn el día veinte del mes de Junio del año de mil ochocientos treinta y nueve, yo el infrascrito Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemte y puse los Stos Óleos a una niña qe nació día diez y siete y se llamó Manuela; es hija legítima de Estevan Pérez, natural de este, y de Eudwiges Sánchez, natural del Cubo; Abuelos Paternos Miguel Pérez, natl de este, y Margarita Girón, de Roales; Maternos Manuel Sánchez y Rosa Yzquierdo, natl del Cubo; Padrinos Juan Antonio Rodríguez y Manuela Rodríguez, naturales de S. Lázaro, a quienes advertí el parentesco espiritual y demás obligaciones; testigos Prudencio Pérez y Julián Pérez; y por verdad lo firmo Ut supra. Dn Gregº Garrote de Pedro."
+      },
+      "birth": {
+        "date": "1839-06-17",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "rosa-hijo-de-esteban-perez-giron",
+      "name": "Rosa Pérez Sánchez",
+      "givenNames": "Rosa",
+      "surnames": [
+        "Pérez",
+        "Sánchez"
+      ],
+      "father": "esteban-perez-giron",
+      "mother": "eduviges-sanchez-izquierdo",
+      "baptism": {
+        "date": "1849-11-19",
+        "place": "Tardobispo",
+        "transcription": "27. Rosa Pérez hija de Esteban, y de Eudubijes Sánchez\n\nEn diez y nueve de Noviembre de mil ochocientos quarenta y nueve: Yo el infra escripto Dn Antonio Lozano, Cura Párroco de Tardobispo y sus Anejos, bautizé solemnemente y puse los Santos Óleos a una Niña que había nacido día diez y seis de dicho mes; se le puso por nombre Rosa, hija lexítima de Esteban Pérez, natural de Tardobispo, y de Eudubijes Sánchez, del Cubo; Abuelos Paternos Miguel Pérez, natural de Tardobispo, y Margarita Girón, de Roales; y los Maternos Manuel Sánchez y Rosa Yzquierdo, naturales del Cubo; fueron sus Padrinos Basilio Alonso y Catalina Pérez, de esta vecindad, de que fueron testigos Eduardo Pérez y Narciso Cabrero, de este mismo Pueblo. Y para que conste lo firmo en dho día. Antonio Lozano."
+      },
+      "birth": {
+        "date": "1849-11-16",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "francisco-hijo-de-fernando-giron-fernandez",
+      "name": "Francisco Girón Roncero",
+      "givenNames": "Francisco",
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "francisca-roncero-perez",
+      "baptism": {
+        "date": "1802-11-19",
+        "place": "Tardobispo",
+        "transcription": "Franco hijo de Fernando Girón, y de Franca Roncero. Murió.\n\nEn el día diezinuebe del mes de Noviembre del año de mil ochocientos y dos, yo Fr. Juan Trabadillo, del Orden de Sn Franco de la Observancia, Morador en el de Zamora, de Comisión de Dn Manuel Sevillano, Cura Propio del Lugar de Tardobispo y sus anejos, bautizé solemnemente y puse los santos Óleos a un niño qe nació para manecer día diezisiete de dicho mes; le pusieron por nombre Franco; es hijo lexítimo de Fernando Girón, natural de Roales, y de Franca Roncero, natural de este de Tardobispo, en donde son vecinos; Abuelos Paternos Franco Girón, natural de Roales, y Joseta Fernández, natural de Muga, y vecinos de Roales; Maternos Lorenzo Roncero y Micaela Pérez, naturales y vecinos de este referido Lugar; fueron Padrinos Pedro Julián y Tereza Girón, vecinos de Roales, a quienes advertí su obligación y parentesco espiritual, qe contrajo solo el Padrino, y por verdad lo firmo ut supra. Dn Manuel Sebillano Calbo. Fr. Juan Trabadillo."
+      },
+      "birth": {
+        "date": "1802-11-17",
+        "place": "Tardobispo",
+        "note": "Al amanecer."
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "maria-francisca-hijo-de-fernando-giron-fernandez",
+      "name": "María Francisca Girón Roncero",
+      "givenNames": "María Francisca",
+      "surnames": [
+        "Girón",
+        "Roncero"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "francisca-roncero-perez",
+      "baptism": {
+        "date": "1796-02-04",
+        "place": "Tardobispo",
+        "transcription": "María Francisca, Girón\n\nEn quatro días del mes de febrero de este año de mil setezientos noventa y seis, Yo Dn Bernardo Roncero, Cura propio de la Parroquial de este lugar de Tardobispo, bauticé solemnemente y puse los santos óleos á una niña que nació el día treinta y uno de Enero de dicho año; se la puso por nombre María Francisca; es hija legítima de Fernando Girón, natural del lugar de Roales, y Francisca Roncero Pérez, natural de este lugar, y vezinos de él; Abuelos paternos Franco Girón, natural del nominado Roales, y Josefa Fernández, natural del lugar de la Muga, Vicaría de Alba y Aliste; Maternos Lorenzo Roncero y Micaela Pérez, naturales de este de Tardobispo; fueron padrinos Francisco Rodríguez Roncero, vezino del lugar del Perdigón, y María Francisca Enríquez, vezina del referido Roales, á quienes advertí su obligación y parentesco espiritual que ambos contrageron; y por berdad lo firmo. Dn Bernardo Roncero."
+      },
+      "birth": {
+        "date": "1796-01-31",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "benita-hijo-de-manuel-prada-sebastian",
+      "name": "Benita Prada Girón",
+      "givenNames": "Benita",
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
+      "father": "manuel-prada-sebastian",
+      "mother": "manuela-giron-roncero",
+      "baptism": {
+        "date": "1825-03-22",
+        "place": "Tardobispo",
+        "transcription": "Benita hija de Dn Manuel de Prada y de Manuela Girón\n\nEn el día veinte y dos del mes de Marzo del año de mil ochocientos veinte y cinco, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a una niña que nació día veinte y uno de dicho mes y año, a quien puse por nombre Benita; es hija lexítima de Dn Manuel de Prada, natural del lugar de Torrefrades, y de Manuela Girón, natural de este de Tardobispo; Nieta por línea paterna de Diego Prada, natural del dicho Torrefrades, y de Ysabel Sebastián, natural del lugar de Villa de Pera; y por la materna de Fernando Girón, natural del lugar de Roales, y de Francisca Roncero, natural de este lugar; fue su padrino Pasqual Coria, vecino de este de Tardobispo, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1825-03-21",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "mariano-hijo-de-manuel-prada-sebastian",
+      "name": "Mariano Prada Girón",
+      "givenNames": "Mariano",
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
+      "father": "manuel-prada-sebastian",
+      "mother": "manuela-giron-roncero",
+      "baptism": {
+        "date": "1822-02-04",
+        "place": "Tardobispo",
+        "transcription": "Mariano hijo de Manuel de Prada y de Manuela Girón\n\nEn el día quatro del mes de Febrero del año de mil ochocientos veinte y dos, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a un niño que nació día dos de dicho mes y año, a quien puse por nombre Mariano; es hijo lexítimo de Manuel de Prada, natural [...]"
+      },
+      "birth": {
+        "date": "1822-02-02",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "agueda-hijo-de-manuel-prada-sebastian",
+      "name": "Águeda Prada Girón",
+      "givenNames": "Águeda",
+      "surnames": [
+        "Prada",
+        "Girón"
+      ],
+      "father": "manuel-prada-sebastian",
+      "mother": "manuela-giron-roncero",
+      "baptism": {
+        "date": "1830-02-19",
+        "place": "Tardobispo",
+        "transcription": "Águeda hija de Manuel de Prada y de Manuela Girón\n\nEn el día diez y nueve del mes de Febrero del año de mil ochocientos y treinta, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos óleos a una niña que nació día diez y ocho de dicho mes y año, a quien puse por nombre Águeda; es hijo lexítimo de Manuel de Prada, natural del lugar de Torrefrades, y de Manuela Girón, natural de este de Tardobispo; Nieta por línea paterna de Diego Prada, natural del dho Torrefrades, y de Ysabel Sebastián, natural de Villa de Pera, y por la materna de Fernando Girón, natural de el lugar de Roales, y de Francisca Roncero, natural de Tardobispo. Fue su padrino José Girón, vecino de este de Tardobispo, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1830-02-18",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "manuel-hijo-de-angel-prada-giron",
+      "name": "Manuel Prada Carretero",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Prada",
+        "Carretero"
+      ],
+      "father": "angel-prada-giron",
+      "mother": "manuela-carretero-bragado",
+      "baptism": {
+        "date": "1859-06-05",
+        "place": "Tardobispo",
+        "transcription": "Manuel Pradas de Ángel y Manuela Carretero.\n\nEn el día cinco de Junio de mil ochocientos cincuenta y nueve, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día tres de dicho mes a las dos de la tarde, a quien puse por nombre Manuel, hijo legítimo de Ángel Pradas, natural de este pueblo, y de Manuela Carretero, natural de Peleas de Arriba: Abuelos paternos D. Manuel Pradas de Torrefrades y Manuela Girón de Tardobispo: Maternos Pascual Carretero y Micaela Bragado de Peleas de Arriba: fue su madrina Merchora Hernández de este pueblo, a quien advertí el parentesco espiritual y obligaciones: testigos Eduardo Pérez y Ramona Cascón. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1859-06-03",
+        "place": "Tardobispo",
+        "note": "A las dos de la tarde."
+      }
+    },
+    {
+      "id": "manuel-1864-hijo-de-angel-prada-giron",
+      "name": "Manuel Prada Carretero",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Prada",
+        "Carretero"
+      ],
+      "father": "angel-prada-giron",
+      "mother": "manuela-carretero-bragado",
+      "baptism": {
+        "date": "1864-09-25",
+        "place": "Tardobispo",
+        "note": "Bautizado ese día sub conditione; antes lo había bautizado de socorro Ramona Cascón.",
+        "transcription": "Manuel Pradas de Ángel y Manuela Carretero.\n\nEn el día veinte y cinco de Septiembre del año mil ochocientos sesenta y cuatro, Yo Dn José Zapico, Párroco de Entrala, con facultad de Dn Manuel Temprano, Cura Párroco de Tardobispo, bauticé solemnemte sub conditione a un niño que nació el día anterior al de la fecha y fue bautizado de socorro por Ramona Cascón, a quien puse por nombre Manuel, hijo legítimo de Ángel Pradas, natural de Tardobispo, y de Manuela Carretero, de Peleas de Arriba: Abuelos paternos D. Manuel Pradas de Torrefrades y Manuela Girón de Tardobispo: Maternos Pascual Carretero y Micaela Bragado de Peleas de Arriba: fue su madrina Polonia Carretero, tía del bautizado, a quien advertí sus obligaciones: testigos Eduardo Pérez y José Pérez de este pueblo. Y para que conste lo firmo fecha ut supra. Manuel Temprano. José Zapico.\n\nSe casó en esta parroquia el día 14 de Febrero de 1927 con Dª Josefa García Saucedio. J. Alejandre."
+      },
+      "birth": {
+        "date": "1864-09-24",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Probablemente el «Manuel Prada, tío de la bautizada», padrino de su sobrina Ángela de las Heras Prada (Tardobispo, 25-08-1881)."
+      ],
+      "marriages": [
+        {
+          "date": "1927-02-14",
+          "place": "Tardobispo",
+          "note": "Con Dª Josefa García Saucedio, en Tardobispo, según la nota al margen de su partida de bautismo.",
+          "transcription": "Se casó en esta parroquia el día 14 de Febrero de 1927 con Dª Josefa García Saucedio. J. Alejandre."
+        }
+      ]
+    },
+    {
+      "id": "marcelo-hijo-de-angel-prada-giron",
+      "name": "Marcelo Prada Carretero",
+      "givenNames": "Marcelo",
+      "surnames": [
+        "Prada",
+        "Carretero"
+      ],
+      "father": "angel-prada-giron",
+      "mother": "manuela-carretero-bragado",
+      "baptism": {
+        "date": "1854-01-18",
+        "place": "Tardobispo",
+        "transcription": "Marcelo Pradas de Ángel y Manuela Carretero\n\nEn el día diez y ocho de Enero de mil ochocientos cincuenta y cuatro: Yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día diez y seis del espresado mes, al que puse por nombre Marcelo, hijo legítimo de Ángel Pradas, natural de Tardobispo, y de Manuela Carretero, natural de Peleas de Arriba, y vecinos de Tardobispo: Abuelos paternos D. Manuel Pradas, natural de Torrefrades, y Manuela Girón de Tardobispo: Maternos Pascual Carretero y Micaela Bragado, naturales de Peleas de arriba: fue su padrino José Hernández, a quien advertí el parentesco espiritual y demás obligaciones: testigos Eduardo Pérez y Manuela Girón. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1854-01-16",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "santiago-hijo-de-angel-prada-giron",
+      "name": "Santiago Prada Carretero",
+      "givenNames": "Santiago",
+      "surnames": [
+        "Prada",
+        "Carretero"
+      ],
+      "father": "angel-prada-giron",
+      "mother": "manuela-carretero-bragado",
+      "baptism": {
+        "date": "1857-05-24",
+        "place": "Tardobispo",
+        "note": "Ese día se le pusieron los óleos y se suplieron las ceremonias; había nacido el día anterior y lo habían bautizado de socorro.",
+        "transcription": "Santiago Pradas de Ángel y Manuela Carretero.\n\nEn el día veinte y cuatro de Mayo de mil ochocientos cincuenta y siete, Yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos puse los Stos Óleos y suplí las ceremonias de la Yglesia a una niño que nació el día anterior al de la fecha y fue bautizado de socorro, a quien puse por nombre Santiago, hijo legítimo de Ángel Pradas, natural de Tardobispo, y Manuela Carretero, natural de Peleas de Arriba, vecinos de este pueblo; abuelos paternos D. Manuel Pradas de Torrefrades y Manuela Girón de Tardobispo: Maternos Pascual Carretero y Micaela Bragado de Peleas de Arriba: fue padrino de las ceremonias Luciano Crespo, a quien advertí sus obligaciones: Testigos Eduardo Pérez y José Pérez de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1857-05-23",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "agustin-hijo-de-tomas-de-mena-martin",
+      "name": "Agustín de Mena Santamaría",
+      "givenNames": "Agustín",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1839-07-18",
+        "place": "Tardobispo",
+        "transcription": "Agustín hijo de Tomás de Mena y de Valeria Santamaría\n\nEn el día diez y ocho del mes de Julio del año de mil ochocientos treinta y nueve, yo el infrascrito Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemte. y puse los Stos. Óleos a un niño qe nació diez y siete y se llamó Agustín, hijo legítimo de Tomás de Mena, natural de Morales, y de Valeria Santamaría, natural de S. Marcial; Abuelos Paternos Franco Mena y Franca Martín, de Morales; Maternos Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; Padrinos Agustín Mena y María Campo, vecs. de este y parientes del Bautizado, a quienes advertí el parentesco y demás obligaciones; fueron testigos Eduardo Pérez y Josefa Macías, vecs. de este, y por verdad lo firmo ut supra. Dn Gregorio Garrote de Pedro"
+      },
+      "birth": {
+        "date": "1839-07-17",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Padrino de su sobrino Ángel Brioso de Mena (Tardobispo, 04-03-1873), cuya partida lo llama «Agustín Mena Santamaría, tío del bautizado»."
+      ]
+    },
+    {
+      "id": "balbina-hijo-de-tomas-de-mena-martin",
+      "name": "Balbina de Mena Santamaría",
+      "givenNames": "Balbina",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1843-04-02",
+        "place": "Tardobispo",
+        "transcription": "Balbina hija de Tomás de Mena y Valeria Santamaría\n\nEn el día dos del mes de Abril del año de mil ochocientos quarenta y tres, yo el infrascripto Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemte. y puse los Stos. Óleos a una niña qe se llamó Balbina: es hija legítima de Tomás de Mena, natl. de Morales, y Valeria Santamaría, de S. Marcial; nieta por línea Paterna de Franco de Mena y de Franca Martín, natl. de Morales; por la Materna de Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; fueron Padrinos Agustín de Mena, vecº de este, y Estanislada Santamaría, de S. Marcial, a quienes advertí sus obligaciones. Testigos Eduardo Pérez y Josefa Macías, natl. y vec. de este pueblo. Y por verdad lo firmo ut supra. Nació día treinta y uno de Marzo. Firma ut supra. Dn Gregorio Garrote de Pedro"
+      },
+      "birth": {
+        "date": "1843-03-31",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "bernabe-hijo-de-tomas-de-mena-martin",
+      "name": "Bernabé de Mena Santamaría",
+      "givenNames": "Bernabé",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1848-03-22",
+        "place": "Tardobispo",
+        "transcription": "9 — Bernabé Mena hijo de Tomás y de Valeria Santamaría. Murió.\n\nEn el día veinte y dos de Marzo del año de mil ochocientos quarenta y ocho: Yo el infra escripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Santos Óleos a un niño que había nacido el día veinte de dho. mes como a las diez de su mañana; se le puso por nombre Bernabé, hijo lexítimo de Tomás de Mena, natural de Morales, y de Valeria Santamaría, natural de S. Marcial; Abuelos Paternos Franca Mena y Franca Martín, de Morales; Maternos Yldefonso Santamaría, de S. Marcial, y Juana Ramos, natural de Pereruela. Fueron sus Padrinos Bernabé Santamaría y María Brioso, vecinos de S. Marcial, a quienes adbertí el Parentesco Espiritual y demás obligaciones que por esto se contraen, de que fueron testigos Eduardo Pérez y Concepción Lozano, de esta vecindad. Y para que conste lo firmo en dho. día. Antonio Lozano"
+      },
+      "birth": {
+        "date": "1848-03-20",
+        "place": "Tardobispo",
+        "note": "Como a las diez de la mañana."
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "claudia-hijo-de-tomas-de-mena-martin",
+      "name": "Claudia de Mena Santamaría",
+      "givenNames": "Claudia",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1844-10-30",
+        "place": "Tardobispo",
+        "transcription": "Claudia hija de Tomás de Mena y Valeria Santamaría\n\nEn el día treinta del mes de Octubre del año de mil ochocientos quarenta y quatro, yo el infrascripto Teniente Fr. Narciso Vizán, de orden del Cura Párroco, bauticé solemnemte. y puse los Stos. Óleos a una niña qe nació día anterior y se llamó Claudia; es hija legítima de Tomás de Mena, natural de Morales, y de Valeria Santamaría, natural de S. Marcial; sus Abuelos Paternos Franco de Mena y Franca Martín, naturales de Morales; Maternos Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; fueron Padrinos Agustín Rodríguez y María Franca Mena, hermana de la bautizada, a quienes advertí sus obligaciones; Testigos Eduardo Pérez y Josefa Macías, naturales y vecinos de este, y por verdad lo firmo ut supra. Di comisión yo el Párroco. Dn Gregorio Garrote. Fr. Narciso Vizán\n\nSe bautizó en treinta días de Octubre de 1844 Claudia, hija de Tomás de Mena y Baleria Santa María; nació el veinte y nuebe de dicho mes a las siete de la noche."
+      },
+      "birth": {
+        "date": "1844-10-29",
+        "place": "Tardobispo",
+        "note": "A las siete de la noche, según una nota al margen de la partida."
+      }
+    },
+    {
+      "id": "francisco-hijo-de-tomas-de-mena-martin",
+      "name": "Francisco de Mena Santamaría",
+      "givenNames": "Francisco",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1841-06-04",
+        "place": "Tardobispo",
+        "transcription": "Franco hijo de Tomás de Mena y Valeria Santamaría\n\nEn el día quatro del mes de Junio del año de mil ochocientos y quarenta y uno, yo el infrascripto Cura Párroco de Tardeobispo y sus Anejos bauticé solemnemte. y puse los Stos. Óleos a un niño qe nació el día dos de Junio y se llamó Franco; es hijo legítimo de Tomás de Mena, natl. de Morales, y de Valeria Santamaría, de S. Marcial; sus Abuelos Paternos Franco Mena y Franca Martín, naturales de Morales; Maternos Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; fueron sus Padrinos Baltasar Brioso, natl. de Morales y vecº de este, y Isabel Santamaría, de S. Marcial, a quienes advertí el parentesco y demás obligaciones; testigos Julián Pérez, Agustín de Mena y Josefa Macías, vecinos de este, y por verdad lo firmo ut supra. Dn Gregorio Garrote de Pedro"
+      },
+      "birth": {
+        "date": "1841-06-02",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-francisca-hijo-de-tomas-de-mena-martin",
+      "name": "María Francisca de Mena Santamaría",
+      "givenNames": "María Francisca",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1833-07-06",
+        "place": "Tardobispo",
+        "transcription": "María Franca hija de Tomás de Mena y Valeria Santamaría\n\nEn el día seis de Julio del año de Mil ochocientos treinta y tres, yo el infrascrito Cura Párroco de Tardobispo y sus Anejos bauticé solemnemente y puse los Santos Óleos a una niña qe nació el día cinco por la tarde, a quien puse por nombre María Franca, hija legítima de Tomás de Mena, vecino de este y natural de Morales, y de Valeria Santamaría, natural de Sn Marcial; Abuelos Paternos Franco de Mena y Franca Martín, naturales de Morales; Maternos Alonso Santamaría, de S. Marcial, y Juana Ramos, de Pereruela; fueron Padrinos Andrés de Mena, de Morales y vecino del Perdigón, y Franca Martín, de Morales, a quienes advertí el parentesco espiritual qe contrageron y demás obligaciones, y para qe conste lo firmo dicho [...]"
+      },
+      "birth": {
+        "date": "1833-07-05",
+        "place": "Tardobispo",
+        "note": "Por la tarde."
+      },
+      "observations": [
+        "Madrina de su hermana Claudia (Tardobispo, 30-10-1844)."
+      ]
+    },
+    {
+      "id": "pablo-hijo-de-tomas-de-mena-martin",
+      "name": "Pablo de Mena Santamaría",
+      "givenNames": "Pablo",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1836-07-01",
+        "place": "Tardobispo",
+        "transcription": "Pablo hijo de Tomás de Mena y Valeria Stamaría\n\nEn el día primero del mes de Julio del año de mil ochocientos treinta y seis, yo el infrascrito Cura Párroco de Tardeobispo y sus anejos bauticé solemnemte. y puse los Stos. Óleos a un niño qe nació el treinta de Junio a las ocho de su mañana, a quien puse por nombre Pablo, hijo legítimo de Tomás de Mena, natural de Morales, y [...]"
+      },
+      "birth": {
+        "date": "1836-06-30",
+        "place": "Tardobispo",
+        "note": "A las ocho de la mañana."
+      }
+    },
+    {
+      "id": "tomas-hijo-de-tomas-de-mena-martin",
+      "name": "Tomás de Mena Santamaría",
+      "givenNames": "Tomás",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1837-12-29",
+        "place": "Tardobispo",
+        "transcription": "Tomás hijo de Tomás de Mena y Valeria Santamaría\n\nEn el día veinte y nueve del mes de Diciembre del año de mil ochocientos treinta y siete, yo el infrascrito Cura Párroco de Tardiobispo y sus Anejos bauticé solemnemte. y puse los Stos. Óleos a un niño qe nació día veinte y siete de dho. mes y se llamó Tomás, hijo legítimo de Tomás de Mena, natl. de Morales, y Valeria Stamaría, de S. Marcial; Abuelos Paternos Franco Mena y Franca Martín, de Morales; Maternos Alonso Santamaría, de San Marcial, y Juana Ramos, de Pereruela; Padrinos Andrés Mena, del Perdigón, y Tomasa Rivera de [...]\n\nNota: Este Niño no se llama más que Tomás, aunqe vulgalmte. le llaman Pablo."
+      },
+      "birth": {
+        "date": "1837-12-27",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Una nota al margen de su partida de bautismo dice que se llamaba solo Tomás, aunque lo llamaban Pablo.",
+        "Probablemente el «Tomás Mena, tío del bautizado», padrino de su sobrino Baltasar Brioso de Mena (Tardobispo, 21-06-1859)."
+      ]
+    },
+    {
+      "id": "antonio-hijo-de-tomas-de-mena-martin",
+      "name": "Antonio de Mena Santamaría",
+      "givenNames": "Antonio",
+      "surnames": [
+        "de Mena",
+        "Santamaría"
+      ],
+      "father": "tomas-de-mena-martin",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1850-01-19",
+        "place": "Tardobispo",
+        "transcription": "29 — Antonio Mena hijo de Tomás, y de Valeria Santamaría.\n\nEn el día diez y nueve de Enero de mil ochocientos cincuenta: Yo el infra escripto Cura Párroco de Tardobispo y sus Anejos Bautizé solemnemente y puse los Santos Óleos a un Niño que había nacido el día diez y siete de dho. mes como a las nueve de su noche; se le puso por nombre Antonio, hijo de Tomás de Mena, natural de Morales, y de Valeria Santamaría, natural de Sn Marcial; Abuelos Paternos Franco Mena y Franca Martín, naturales de Morales, y los Maternos Yldefonso Santamaría, natural de Sn Marcial, y Juana Ramos, natural de Pereruela; fueron sus padrinos Pablo de Mena, hermano del bautizado, a quien adbertí sus obligaciones, de que fueron testigos Antonia Mena y Eduardo Pérez, de esta vecindad. Y para que conste lo firmo en dho. día. Antonio Lozano"
+      },
+      "birth": {
+        "date": "1850-01-17",
+        "place": "Tardobispo",
+        "note": "Como a las nueve de la noche."
+      }
+    },
+    {
+      "id": "bernabe-hijo-de-felix-alonso-roncero",
+      "name": "Bernabé Alonso Santamaría",
+      "givenNames": "Bernabé",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1830-03-24",
+        "place": "Tardobispo",
+        "transcription": "Bernabé hijo de Feliz Alonso y de Valeria Santa María. Murió.\n\nEn el día veinte y quatro del mes de Marzo del año de mil ochocientos treinta, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente a un niño que nació día veinte y dos de dicho mes y año a las quatro de la tarde, a quien puse por nombre Bernabé; es hijo lexítimo de Feliz Alonso natural de este de Tardobispo y de Valeria Santa María natural del lugar de San Marcial; nieto por línea paterna de Josef Alonso y de Teresa Roncero naturales de este de Tardobispo, y por la materna de Alonso Santa María natural del dicho San Marcial y de Juana Ramos natural del lugar de Pereruela; fue su padrino Bernabé Santa María vecino de San Marcial, a quien advertí el parentesco espiritual y demás obligaciones que contrae, y para que const lo firmo. Dn Manuel Sebillano."
+      },
+      "birth": {
+        "date": "1830-03-22",
+        "place": "Tardobispo",
+        "note": "A las cuatro de la tarde."
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      }
+    },
+    {
+      "id": "carlos-hijo-de-felix-alonso-roncero",
+      "name": "Carlos Alonso Santamaría",
+      "givenNames": "Carlos",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1823-11-04",
+        "place": "Tardobispo",
+        "note": "Ese día se suplieron las ceremonias; lo había bautizado antes en privado Josef Alonso, vecino de Tardobispo.",
+        "transcription": "Carlos hijo de Feliz Alonso y de Valeria Santa María. Murió.\n\nEn el día quatro del mes de Noviembre del año de mil ochocientos veinte y tres, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos suplí las Ceremonias del bautismo solemne a un niño a quien bautizó privadamente Josef Alonso vecino de Tardobispo, el que nació día tres de dicho mes y año; le puse por nombre Carlos; es hijo lexítimo de Feliz Alonso natural de este lugar de Tardobispo y de Valeria Santa María natural del lugar de San Marcial; Nieto por línea paterna de Josef Alonso y de Teresa Roncero naturales del dicho Tardobispo; y por la materna de Alonso Sta María natural del lugar de San Marcial y Juana Ramos natural del lugar de Pereruela. Fue su padrino al suplir las Ceremonias Fermín Santa María vecino de San Marcial, a quien advertí la obligación de adoctrinarle, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1823-11-03",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      },
+      "observations": [
+        "Gemelo de su hermano José, nacido el mismo día."
+      ]
+    },
+    {
+      "id": "isabel-maria-hijo-de-felix-alonso-roncero",
+      "name": "Isabel María Alonso Santamaría",
+      "givenNames": "Isabel María",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1826-11-20",
+        "place": "Tardobispo",
+        "transcription": "Ysabel María hija de Feliz Alonso y de Valeria Santa María\n\nEn el día veinte del mes de Noviembre del año de mil ochocientos veinte y seis, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos Óleos a una niña que nació día diez y nueve de dicho mes y año, a quien puse por nombre Ysabel María; es hija lexítima de Feliz Alonso natural de este lugar y de Valeria Santa María natural del lugar de San Marcial. Nieta por línea paterna de Josef Alonso y de Teresa Roncero naturales de Tardobispo; y por la materna de Alonso Santa María natural de San Marcial y de Juana Ramos natural de Pereruela; fue su padrino José Alonso vecino de este de Tardobispo, a quien advertí el parentesco espiritual y demás obligaciones, y para que conste lo firmo ut supra. Dn Manuel Sebillano."
+      },
+      "birth": {
+        "date": "1826-11-19",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "jose-hijo-de-felix-alonso-roncero",
+      "name": "José Alonso Santamaría",
+      "givenNames": "José",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1823-11-04",
+        "place": "Tardobispo",
+        "note": "Ese día se suplieron las ceremonias; lo había bautizado antes en privado Josef Alonso, vecino de Tardobispo.",
+        "transcription": "Josef hijo de Feliz Alonso y de Valeria Santa María. Murió.\n\nEn el día quatro del mes de Noviembre del año de mil ochocientos veinte y tres, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos suplí las Ceremonias del bautismo solemne a un niño a quien bautizó privadamente Josef Alonso vecino de este lugar, el que nació día tres de dicho mes y año; le puse por nombre Josef; es hijo lexítimo de Feliz Alonso natural de este lugar de Tardobispo y de Valeria Santa María natural del lugar de San Marcial. Nieta por línea paterna de Josef Alonso natural de Tardobispo y de Teresa Roncero natural de este dho lugar; y por la materna de Alonso Santa María natural del lugar de San Marcial y de Juana Ramos natural del lugar de Pereruela; fue su padrino al suplir las Ceremonias Josef Alonso, a quien advertí la obligación de adoctrinarle, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1823-11-03",
+        "place": "Tardobispo"
+      },
+      "death": {
+        "note": "La partida de bautismo lleva al margen la nota «murió», sin fecha."
+      },
+      "observations": [
+        "Gemelo de su hermano Carlos, nacido el mismo día."
+      ]
+    },
+    {
+      "id": "jose-mauricio-hijo-de-felix-alonso-roncero",
+      "name": "José Mauricio Alonso Santamaría",
+      "givenNames": "José Mauricio",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1828-09-24",
+        "place": "Tardobispo",
+        "transcription": "José Mauricio hijo de Feliz Alonso y de Valeria Sta María\n\nEn el día veinte y quatro del mes de Setiembre del año de mil ochocientos veinte y ocho, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bauticé solemnemente y puse los Santos Óleos a un niño que nació día veinte y tres de dicho mes y año, a quien puse por nombre José Mauricio; es hijo lexítimo de Feliz Alonso natural de este lugar y de Valeria Sta María natural del lugar de San Marcial; Nieto por línea paterna de José Alonso natural de dicho Tardobispo y de Teresa Roncero natural del mismo Tardobispo, y por la materna de Alonso Sta María natural del lugar de San Marcial y de Juana Ramos natural del lugar de Pereruela; fue su padrino Alonso Santa María vecino de San Marcial, a quien advertí el parentesco espiritual y demás obligaciones que contrajo, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1828-09-23",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Probablemente el «José Alonso, tío del bautizado», padrino de su sobrino Bernardo Brioso de Mena (Tardobispo, 15-03-1861)."
+      ]
+    },
+    {
+      "id": "lucia-hijo-de-felix-alonso-roncero",
+      "name": "Lucía Alonso Santamaría",
+      "givenNames": "Lucía",
+      "surnames": [
+        "Alonso",
+        "Santamaría"
+      ],
+      "father": "felix-alonso-roncero",
+      "mother": "valeria-santamaria-ramos",
+      "baptism": {
+        "date": "1824-12-13",
+        "place": "Tardobispo",
+        "transcription": "Lucía hija de Feliz Alonso y de Valeria Santa María\n\nEn el día trece del mes de Diciembre del año de mil ochocientos veinte y quatro, Yo el Infrascripto Cura Párroco del lugar de Tardobispo y sus anejos bautizé solemnemente y puse los Santos Óleos a una niña que nació por la la noche del día once de dicho día mes y año, a quien puse por nombre Lucía; es hija lexítima de Feliz Alonso natural de este lugar y de Valeria Santa María natural del lugar de San Marcial; Nieta por línea paterna de Josef Alonso y de Teresa Roncero naturales de este de Tardobispo, y por la materna de Alonso Santa María natural del lugar de San Marcial y de Joana Ramos natural del lugar de Pereruela; fue su padrino Alonso Santa María su abuelo materno, a quien advertí todas sus obligaciones, y para que conste lo firmo ut supra. Dn Manuel Sebillano Calbo."
+      },
+      "birth": {
+        "date": "1824-12-11",
+        "place": "Tardobispo",
+        "note": "Por la noche."
+      }
+    },
+    {
+      "id": "aquilino-hijo-de-florencio-brioso-alonso",
+      "name": "Aquilino Brioso de Mena",
+      "givenNames": "Aquilino",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1857-05-25",
+        "place": "Tardobispo",
+        "transcription": "Aquilino Brioso de Florencio y Antonia Mena\n\nEn el día veinte y cinco de Mayo de mil ochocientos cincuenta y siete, Yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día veinte y tres de dicho mes, al que puse por nombre Aquilino, hijo legítimo de Florencio Brioso natural de Morales del Vino y Antonia Mena de Tardobispo, y vecinos del mismo. Abuelos paternos Baltasar Brioso de Morales y Luisa Alonso de Moraleja del Vino; Maternos Tomás Mena de Morales y Valeria Santamaría de San Marcial. Fue padrino su tío Alonso Antón de Casaseca de las Chanas, a quien advertí sus obligaciones. Testigos Eduardo Pérez y Baltasar Brioso de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1857-05-23",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "baltasar-hijo-de-florencio-brioso-alonso",
+      "name": "Baltasar Brioso de Mena",
+      "givenNames": "Baltasar",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1859-06-21",
+        "place": "Tardobispo",
+        "transcription": "Baltasar Brioso de Florencio y de Antonia Mena\n\nEn el día veinte y uno de Junio de mil ochocientos cincuenta y nueve, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día diez y nueve de dicho mes, a quien puse por nombre Baltasar, hijo legítimo de Florencio Brioso natural de Morales del Vino y de Antonia Mena de este pueblo. Abuelos paternos Baltasar Brioso de Morales del Vino y Luisa Alonso de Moraleja del Vino; Maternos Tomás Mena de Morales y Valeria Santamaría de San Marcial. Fue su padrino Tomás Mena, tío del bautizado, a quien advertí sus obligaciones. Testigos Eduardo Pérez y Gregorio Pérez. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1859-06-19",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "genaro-hijo-de-florencio-brioso-alonso",
+      "name": "Genaro Brioso de Mena",
+      "givenNames": "Genaro",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1853-09-21",
+        "place": "Tardobispo",
+        "transcription": "Genaro Brioso de Florencio y Antonia Mena\n\nEn el día veinte y uno de Septiembre de mil ochocientos cincuenta y tres, Yo el infrascripto Cura Ecónomo de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día diez y nueve del expresado mes, al que puse por nombre Genaro, hijo legítimo de Florencio Brioso natural de Morales y de Antonia Mena natural de este pueblo, y vecinos del mismo. Abuelos paternos Baltasar natural de Morales y Luisa Alonso de Moraleja del Vino; Maternos Tomás de Morales y Valeria Santamaría de S. Marcial. Fue su padrino Agustín Rodríguez, a quien advertí el parentesco espiritual y demás obligaciones. Testigos Eduardo Pérez y Josefa Macías. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1853-09-19",
+        "place": "Tardobispo"
+      },
+      "observations": [
+        "Padrino de su sobrino Martín Brioso Pérez (Tardobispo, 30-03-1884), cuya partida lo llama «Genaro Brioso, tío del bautizado»."
+      ]
+    },
+    {
+      "id": "martin-hijo-de-florencio-brioso-alonso",
+      "name": "Martín Brioso de Mena",
+      "givenNames": "Martín",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1861-11-11",
+        "place": "Tardobispo",
+        "transcription": "Martín Brioso de Florencio y Dª Antonia Mena\n\nEn el día once del mes de Noviembre de mil ochocientos sesenta y uno, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día seis de dicho mes, a quien puse por nombre Martín, hijo legítimo de Dn Florencio Brioso y Dª Antonia de Mena, aquel natural de Morales del Vino y esta de Tardobispo. Abuelos paternos Baltasar Brioso de Morales del Vino y Luisa Alonso de Moraleja del Vino; Maternos Tomás Mena natural del expresado Morales y Valeria Santamaría de San Marcial. Fue su padrino Baltasar Brioso, abuelo del bautizado, a quien advertí sus obligaciones. Testigos Eduardo Pérez y José Pérez de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1861-11-06",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "tomas-hijo-de-florencio-brioso-alonso",
+      "name": "Tomás Brioso de Mena",
+      "givenNames": "Tomás",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1874-12-20",
+        "place": "Tardobispo",
+        "transcription": "Tomás Brioso de Dn Florencio y Antonia Mena.\n\nEn el día veinte de Diciembre del año mil ochocientos setenta y cuatro, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día diez y siete de dicho mes, a quien puse por nombre Tomás, hijo legítimo de Dn Florencio Brioso, natural de Morales del Vino, y de Antonia Mena, de Tardobispo. Abuelos paternos Baltasar Brioso, de dicho Morales, y Luisa Alonso, de Moraleja del Vino; Maternos Tomás Mena, de dicho Morales, y Valeria Santamaría, de San Marcial; fue su padrino Rafael Manzano, tío del bautizado, a quien advertí sus obligaciones; testigos Eduardo Pérez y Ramona Cascón, vecinos de este pueblo. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1874-12-17",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "angel-hijo-de-florencio-brioso-alonso",
+      "name": "Ángel Brioso de Mena",
+      "givenNames": "Ángel",
+      "surnames": [
+        "Brioso",
+        "de Mena"
+      ],
+      "father": "florencio-brioso-alonso",
+      "mother": "antonia-de-mena-santamaria",
+      "baptism": {
+        "date": "1873-03-04",
+        "place": "Tardobispo",
+        "transcription": "Ángel Brioso de Dn Florencio y de Antonia Mena.\n\nEn el día cuatro de Marzo del año mil ochocientos setenta y tres, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día primero de dicho mes, a quien puse por nombre Ángel, hijo legítimo de Dn Florencio Brioso, natural de Morales del Vino, y de Antonia Mena, de Tardobispo. Abuelos paternos Baltasar Brioso, natural de Morales del Vino, y Luisa Alonso, de Moraleja del Vino; Maternos Tomás Mena, de dicho Morales, y Valeria Santamaría, de San Marcial; fue su padrino Agustín Mena Santamaría, tío del bautizado, a quien advertí sus obligaciones; testigos Eduardo Pérez y Manuel Pérez. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1873-03-01",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "martin-hijo-de-enrique-brioso-mena",
+      "name": "Martín Brioso Pérez",
+      "givenNames": "Martín",
+      "surnames": [
+        "Brioso",
+        "Pérez"
+      ],
+      "father": "enrique-brioso-mena",
+      "mother": "balbina-perez-sanchez",
+      "baptism": {
+        "date": "1884-03-30",
+        "place": "Tardobispo",
+        "transcription": "Martín Brioso de Enrique y Balbina Pérez.\n\nEn el día treinta de Marzo del año mil ochocientos ochenta y cuatro, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos. Óleos a un niño que nació el día veinte y ocho del dicho mes, a quien puse por nombre Martín, hijo legítimo de Enrique Brioso y Balbina Pérez, naturales de Tardobispo. Abuelos paternos Dn Florencio Brioso, natural de Morales del Vino, y Antonia Mena, de Tardobispo; Maternos Esteban Pérez, de Tardobispo, y Eduviges Sánchez, del Cubo del Vino; fue su padrino Genaro Brioso, tío del bautizado, a quien advertí sus obligaciones; fueron testigos Valeriano Pérez y Ramona Cascón, de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1884-03-28",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "amelia-hijo-de-benito-de-las-heras-rabanal",
+      "name": "Amelia de las Heras Prada",
+      "givenNames": "Amelia",
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
+      "father": "benito-de-las-heras-rabanal",
+      "mother": "ma-antonia-prada-carretero",
+      "baptism": {
+        "date": "1894-10-29",
+        "place": "Tardobispo",
+        "transcription": "Amelia de las Heras Pradas. 1894.\n\nEn el lugar de Tardobispo, Obispado y provincia de Zamora, Yo D. Secundino Gómez, cura propio de la única Yglesia parroquial del Salvador de dicho pueblo, a los veintinueve días de Octubre del mil ochocientos noventa y cuatro bauticé solemnemente a una niña que había nacido el día diez y siete del mismo mes y año y hora la una de la mañana, hija legítima de Benito de las Heras y María Antonia Pradas, naturales y vecinos en este de Tardobispo. Abuelos paternos Francisco de las Heras, natural de Avelón, y Josefa Ravanal, natural de Sn Esteban de Zamora; Abuelos maternos Ángel Pradas, natural que fue de este pueblo, y Dª Manuela Carretero, natural de Peleas de Arriba. Le puse por nombre Amelia. Fueron sus padrinos Gregorio Carretero y Vitorina Blanco, vecinos de este pueblo, a quienes advertí el parentesco espiritual y demás obligaciones que contrageron. Y para que conste lo firmo. Secundino Gómez.\n\nSe casó con D. Constantino Nieto Salgado, en la parroquia de Santa María de la Horta de Zamora, el día 10 de Febrero de 1915. J. Alejandre.\n\nSe casó en segundas nupcias con D. Juan López Martín, en esta parroquia el día 23 de Noviembre de 1923. J. Alejandre."
+      },
+      "birth": {
+        "date": "1894-10-17",
+        "place": "Tardobispo",
+        "note": "A la una de la mañana."
+      },
+      "marriages": [
+        {
+          "date": "1915-02-10",
+          "place": "Zamora",
+          "note": "Con D. Constantino Nieto Salgado, en la parroquia de Santa María de la Horta de Zamora, según la nota al margen de su partida de bautismo.",
+          "transcription": "Se casó con D. Constantino Nieto Salgado, en la parroquia de Santa María de la Horta de Zamora, el día 10 de Febrero de 1915. J. Alejandre."
+        },
+        {
+          "date": "1923-11-23",
+          "place": "Tardobispo",
+          "note": "En segundas nupcias, con D. Juan López Martín, en Tardobispo, según la nota al margen de su partida de bautismo.",
+          "transcription": "Se casó en segundas nupcias con D. Juan López Martín, en esta parroquia el día 23 de Noviembre de 1923. J. Alejandre."
+        }
+      ]
+    },
+    {
+      "id": "evaristo-hijo-de-benito-de-las-heras-rabanal",
+      "name": "Evaristo de las Heras Prada",
+      "givenNames": "Evaristo",
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
+      "father": "benito-de-las-heras-rabanal",
+      "mother": "ma-antonia-prada-carretero",
+      "baptism": {
+        "date": "1884-10-27",
+        "place": "Tardobispo",
+        "transcription": "Evaristo de las Heras de Benito y María Antonia Pradas.\n\nEn el día veinte y siete de Octubre del año mil ochocientos ochenta y cuatro, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día veinte y cuatro del dicho mes, a quien puse por nombre Evaristo, hijo legítimo de Benito de las Heras y María Antonia Pradas, naturales de Tardobispo. Abuelos paternos Francisco de las Heras, natural de Abelón, y Josefa Rabanal, de San Esteban de Zamora; Maternos Ángel Pradas, de Tardobispo, y Manuela Carretero, de Peleas de Arriba; fue su padrino Gerónimo Esteban, vecino de este pueblo, a quien advertí el parentesco espiritual y obligaciones; fueron testigos Valeriano Pérez y Ramona Cascón, de esta vecindad. Y para que conste, lo firmo fecha ut supra. Manuel Temprano.\n\nSe casó con Marcelina Juanes Campos en la Parroquia de Rosario de Santa Fe (República Argentina) el día 24 de Septiembre de 1910."
+      },
+      "birth": {
+        "date": "1884-10-24",
+        "place": "Tardobispo"
+      },
+      "marriages": [
+        {
+          "date": "1910-09-24",
+          "note": "Con Marcelina Juanes Campos, en la parroquia de Rosario de Santa Fe (República Argentina), según la nota al margen de su partida de bautismo.",
+          "transcription": "Se casó con Marcelina Juanes Campos en la Parroquia de Rosario de Santa Fe (República Argentina) el día 24 de Septiembre de 1910."
+        }
+      ]
+    },
+    {
+      "id": "francisco-hijo-de-benito-de-las-heras-rabanal",
+      "name": "Francisco de las Heras Prada",
+      "givenNames": "Francisco",
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
+      "father": "benito-de-las-heras-rabanal",
+      "mother": "ma-antonia-prada-carretero",
+      "baptism": {
+        "date": "1883-01-03",
+        "place": "Tardobispo",
+        "transcription": "Francisco de las Heras de Benito y María Antonia Pradas.\n\nEn el día tres de Enero del año mil ochocientos ochenta y tres, Yo el infrascripto Cura párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos. Óleos a un niño que nació el día primero de dicho mes, a quien puse por nombre Francisco, hijo legítimo de Benito de las Heras y María Antonia Pradas, naturales de Tardobispo. Abuelos paternos Francisco de las Heras, natural de Abelón, y Josefa Ravanal, de San Esteban de Zamora; Maternos Ángel Pradas, de Tardobispo, y Manuela Carretero, de Peleas de Arriba; fue su padrino Félix Alonso, a quien advertí el parentesco espiritual y obligaciones; fueron testigos Valeriano Pérez y Ramona Cascón, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1883-01-01",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "francisco-1887-hijo-de-benito-de-las-heras-rabanal",
+      "name": "Francisco de las Heras Prada",
+      "givenNames": "Francisco",
+      "surnames": [
+        "de las Heras",
+        "Prada"
+      ],
+      "father": "benito-de-las-heras-rabanal",
+      "mother": "ma-antonia-prada-carretero",
+      "baptism": {
+        "date": "1887-06-30",
+        "place": "Tardobispo",
+        "transcription": "Franco de las Heras hijo legítimo de Benito, y María Antonia Pradas.\n\nEn el día treinta de Junio del año mil ochocientos ochenta y siete; Yo el infrascripto Teniente cura de Tardobispo y sus anejos, bauticé solemnemente y puse los Santos Óleos a un niño que nació el día veintisiete de dicho mes, a quien puse por nombre Franco, hijo legítimo de Benito de las Heras y María Antonia Pradas, naturales de Tardobispo. Abuelos paternos Franco de las Heras, natural de Abelón, y Josefa Ravanal, natural de Sn Esteban de Zamora; Maternos Ángel Pradas, de Tardobispo, y Manuela Carretero, de Peleas de Arriba; padrinos Vicente Lozano y Ysidora de la Fuente, naturales de este pueblo, a quienes advertí el parentesco espiritual y demás obligaciones; testigos Baleriano Pérez y Josefa Ravanal, de esta vecindad. Y para que conste lo firmo fecha ut supra. Agustín Arroyo."
+      },
+      "birth": {
+        "date": "1887-06-27",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "juan-gisleno-hijo-de-francisco-de-las-heras-pascual",
+      "name": "Juan Gisleno de las Heras Rabanal",
+      "givenNames": "Juan Gisleno",
+      "surnames": [
+        "de las Heras",
+        "Rabanal"
+      ],
+      "father": "francisco-de-las-heras-pascual",
+      "mother": "josefa-rabanal-ibanez",
+      "baptism": {
+        "date": "1870-04-03",
+        "place": "Tardobispo",
+        "transcription": "Juan de las Heras de Francisco y Josefa Rabanal.\n\nEn el día tres de Abril del año mil ochocientos setenta, Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a un niño que nació el día treinta y uno de Marzo de dicho año, a quien puse por nombre Juan Gisleno, hijo legítimo de Francisco de las Heras, natural de Abelón, y de Josefa Rabanal, natural de San Esteban, parroquia de Zamora. Abuelos paternos Manuel Heras y Josefa Pascual, de Abelón; maternos José Rabanal, de San Antolín de Zamora, y Manuela Ybáñez, de San Lázaro extra=muros de Zamora; fueron sus padrinos Galo Rabanal y Dª María Rabanal, tíos del bautizado, a quienes advertí sus obligaciones; testigos Eduardo Pérez y Ramona Cascón. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1870-03-31",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "manuela-hijo-de-francisco-de-las-heras-pascual",
+      "name": "Manuela de las Heras Rabanal",
+      "givenNames": "Manuela",
+      "surnames": [
+        "de las Heras",
+        "Rabanal"
+      ],
+      "father": "francisco-de-las-heras-pascual",
+      "mother": "josefa-rabanal-ibanez",
+      "baptism": {
+        "date": "1861-08-06",
+        "place": "Tardobispo",
+        "transcription": "Manuela de las Heras de Francisco y Josefa Ravanal.\n\nEn el día seis de Agosto del año mil ochocientos sesenta y uno. Yo el infrascripto Cura Párroco de Tardobispo y sus anejos bauticé solemnemente y puse los Stos Óleos a una niña que nació el día cuatro de dicho mes, a la que puse por nombre Manuela, hija legítima de Francisco de las Heras, natural de Avelón, y de Josefa Ravanal, natural de Zamora, de la Parroquia de San Esteban. Abuelos paternos Manuel de las Heras y Josefa Pascual, de Avelón; Maternos José Ravanal, de San Antolín de Zamora, y Manuela Ybáñez, de San Lázaro extra=muros de Zamora; fueron sus padrinos Pedro Sánchez y Manuela Rodríguez, naturales de Villaseco de los Reyes, a quienes advertí el parentesco espiritual y obligaciones; testigos Eduardo Pérez y Ramona Cascón, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+      },
+      "birth": {
+        "date": "1861-08-04",
+        "place": "Tardobispo"
+      }
+    },
+    {
+      "id": "maria-hijo-de-juan-perez-miguel",
+      "name": "María Pérez Roncero",
+      "givenNames": "María",
+      "surnames": [
+        "Pérez",
+        "Roncero"
+      ],
+      "father": "juan-perez-miguel",
+      "mother": "joaquina-roncero-hernandez",
+      "observations": [
+        "Nombrada entre los herederos de su madre, Joaquina Roncero, en su partida de entierro (09-02-1814).",
+        "Segundo apellido deducido del de su madre."
+      ]
+    },
+    {
+      "id": "maria-alonso-mujer-de-fernando-giron",
+      "name": "María Alonso",
+      "givenNames": "María",
+      "surnames": [
+        "Alonso"
+      ],
+      "observations": [
+        "La partida de entierro de Fernando Girón Fernández (27-03-1832) lo llama su marido: se casaron después de que él enviudara de Francisca Roncero Pérez, en 1806."
+      ],
+      "marriages": [
+        {
+          "spouse": "fernando-giron-fernandez",
+          "note": "Segundas nupcias de Fernando Girón Fernández, después de 1806; la partida de entierro de él (27-03-1832) lo llama marido de María Alonso."
+        }
+      ]
+    },
+    {
+      "id": "maria-justa-hijo-de-fernando-giron-fernandez",
+      "name": "María Justa Girón Alonso",
+      "givenNames": "María Justa",
+      "surnames": [
+        "Girón",
+        "Alonso"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "maria-alonso-mujer-de-fernando-giron",
+      "observations": [
+        "Nombrada entre los cuatro hijos que dejó su padre, Fernando Girón Fernández, en su partida de entierro (27-03-1832).",
+        "Se la supone hija de María Alonso, la segunda mujer de su padre, porque no figura entre los hijos que dejó su primera mujer, Francisca Roncero, en 1806; la partida de entierro no lo dice.",
+        "Segundo apellido deducido del de su madre."
+      ]
+    },
+    {
+      "id": "alejo-hijo-de-fernando-giron-fernandez",
+      "name": "Alejo Girón Alonso",
+      "givenNames": "Alejo",
+      "surnames": [
+        "Girón",
+        "Alonso"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "maria-alonso-mujer-de-fernando-giron",
+      "observations": [
+        "Nombrado entre los cuatro hijos que dejó su padre, Fernando Girón Fernández, en su partida de entierro (27-03-1832).",
+        "Se le supone hijo de María Alonso, la segunda mujer de su padre, porque no figura entre los hijos que dejó su primera mujer, Francisca Roncero, en 1806; la partida de entierro no lo dice.",
+        "Segundo apellido deducido del de su madre."
+      ]
+    },
+    {
+      "id": "crisanta-hijo-de-fernando-giron-fernandez",
+      "name": "Crisanta Girón Alonso",
+      "givenNames": "Crisanta",
+      "surnames": [
+        "Girón",
+        "Alonso"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "maria-alonso-mujer-de-fernando-giron",
+      "observations": [
+        "Nombrada entre los cuatro hijos que dejó su padre, Fernando Girón Fernández, en su partida de entierro (27-03-1832).",
+        "Se la supone hija de María Alonso, la segunda mujer de su padre, porque no figura entre los hijos que dejó su primera mujer, Francisca Roncero, en 1806; la partida de entierro no lo dice.",
+        "Segundo apellido deducido del de su madre."
+      ]
+    },
+    {
+      "id": "antonio-hijo-de-fernando-giron-fernandez",
+      "name": "Antonio Girón Alonso",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Girón",
+        "Alonso"
+      ],
+      "father": "fernando-giron-fernandez",
+      "mother": "maria-alonso-mujer-de-fernando-giron",
+      "observations": [
+        "Nombrado entre los cuatro hijos que dejó su padre, Fernando Girón Fernández, en su partida de entierro (27-03-1832).",
+        "Se le supone hijo de María Alonso, la segunda mujer de su padre, porque no figura entre los hijos que dejó su primera mujer, Francisca Roncero, en 1806; la partida de entierro no lo dice.",
+        "Segundo apellido deducido del de su madre."
       ]
     }
   ]

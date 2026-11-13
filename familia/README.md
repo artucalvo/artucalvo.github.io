@@ -1186,6 +1186,78 @@ Quedan sin enlace, en el registro de la carpeta:
 
 Pendiente: las carpetas «Otros familiares» (88 imágenes) y «Abuelos» (9).
 
+**Decimoquinta sesión (13-11-2026): otros familiares.** Se han leído las 88 fotografías de la carpeta «Otros familiares» que faltaban (87 asientos; las otras cinco de la carpeta se habían registrado al salir de la carpeta inicial). Cada imagen tiene dos lecturas independientes, y donde discrepaban se volvió a mirar la imagen. Todos los asientos son bautismos de Tardobispo, de 1620 a 1894, y están en [`sources/otros-familiares-fotografias.json`](sources/otros-familiares-fotografias.json): 86 enlazados al árbol y uno sin enlace. Son los hermanos de los antepasados directos, que el árbol ya muestra. Se añaden 73 fichas (1.744 personas en total) y se completan 21 que ya estaban.
+
+Bautismos por familias:
+
+| Padres | Hijos bautizados |
+| --- | --- |
+| Lorenzo Roncero Herrero y Dorotea Hernández | Francisca (1741), Bernardo Gabriel (1745), Miguel (1750), María (1752) y una niña sin nombre (1754) |
+| Lorenzo Roncero Herrero y Micaela Pérez | un niño sin nombre (1756), Juan (1758), Jerónima (1760), José Gabriel (1762), María (1764), Josefa (1766), Narcisa (1773) y Teresa María (1778) |
+| Juan Pérez de la Iglesia y Teresa Hernández | Lorenzo (1740) y José (1744) |
+| Manuel Pérez Roncero y Ángela Miguel | Luisa (1741), Lorenza (1743) e Ildefonso (1745) |
+| Juan Pérez Miguel y Joaquina Roncero | Agustín (1768), Paula (1771), Francisco (1773), un niño sin nombre (1775), Lorenzo (1783) y Josefa (1786) |
+| Fernando Girón Fernández y Francisca Roncero | José (1794), María Francisca (1796), Margarita (1798), Francisco (1802) y Atilano (1805) |
+| Miguel Pérez Roncero y Margarita Girón | Manuela (1800), Antonio (1802), Saturnino (1804), Prudencio (1806) y María de las Candelas (1811) |
+| Manuel Prada Sebastián y Manuela Girón | Mariano (1822), Alejandro (1823), Benita (1825), Águeda (1830), Marcos (1832) y Geminiano (1836) |
+| Félix Alonso y Valeria Santamaría | los gemelos Carlos y José (1823), Lucía (1824), Isabel María (1826), José Mauricio (1828) y Bernabé (1830) |
+| Esteban Pérez Girón y Eduviges Sánchez | Antonio (1830), Joaquina (1834), Josefa (1837), Manuela (1839), Isidro (1845) y Rosa (1849) |
+| Tomás de Mena y Valeria Santamaría | María Francisca (1833), Pablo (1836), Tomás (1837), Agustín (1839), Francisco (1841), Balbina (1843), Claudia (1844), Bernabé (1848) y Antonio (1850) |
+| Florencio Brioso y Antonia de Mena | Genaro (1853), Aquilino (1857), Baltasar (1859), Martín (1861), Ángel (1873) y Tomás (1874) |
+| Ángel Prada Girón y Manuela Carretero | Marcelo (1854), Santiago (1857), Manuel (1859) y otro Manuel (1864) |
+| Francisco de las Heras y Josefa Rabanal | María de las Mercedes (1859), Manuela (1861) y Juan Gisleno (1870) |
+| Julián Garrote y Balbina Pérez Sánchez | Manuela (1868), Lorenza (1871), María (1872) y María Felisa (1874) |
+| Enrique Brioso y Balbina Pérez Sánchez | Lorenzo (1881), Martín (1884) y Julio (1887) |
+| Benito de las Heras y María Antonia Prada | Francisco (1883), Evaristo (1884), otro Francisco (1887), Domingo (1889) y Amelia (1894) |
+
+Lo que aportan:
+
+- Dos primeros matrimonios que el árbol no tenía:
+  - Balbina Pérez Sánchez estuvo casada con Julián Garrote, natural de Luelmo, hijo de Manuel Garrote y Ana Lorenzo. Tuvieron cuatro hijas, y la partida de su segundo matrimonio (1877) la llama viuda de Julián Garrote.
+  - Valeria Santamaría Ramos estuvo casada con Félix Alonso, natural de Tardobispo, hijo de Josef Alonso y Teresa Roncero. Tuvieron seis hijos entre 1823 y 1830. Es la misma Valeria que luego casó con Tomás de Mena: los bautismos nombran a sus padres, Alonso Santamaría y Juana Ramos. Félix debió de morir entre 1830 y 1833.
+- Los hijos que ya estaban en el árbol solo por las listas de herederos tienen ahora nacimiento, bautismo y transcripción. Cuatro toman el nombre completo del bautismo: Bernardo Gabriel y José Gabriel Roncero, Teresa María Roncero y María de las Mercedes de las Heras. Nueve quedan enlazados también con su padre:
+  - Prudencio y Manuela Pérez Girón, con Miguel Pérez Roncero;
+  - José, Margarita y Atilano Girón Roncero, con Fernando Girón Fernández;
+  - Alejandro, Marcos y Gemiliano Prada Girón, con Manuel Prada Sebastián;
+  - María de las Mercedes de las Heras Rabanal, con Francisco de las Heras Pascual.
+- Tres niños sin nombre (1754, 1756 y 1775) y Lorenza Pérez Miguel (1743) recibieron el bautismo de socorro y murieron al poco; los primeros figuran como «Niña» y «Niño». Otros diez llevan al margen la nota «murió», sin fecha, que se recoge en su fallecimiento.
+- Cuatro llevan notas marginales posteriores de su matrimonio. Las de tres se añaden como matrimonios sin ficha del cónyuge, con la nota por transcripción:
+  - Amelia de las Heras se casó en Zamora en 1915 con Constantino Nieto Salgado y, en segundas nupcias, en Tardobispo en 1923 con Juan López Martín.
+  - Evaristo de las Heras se casó en Rosario de Santa Fe (Argentina) en 1910 con Marcelina Juanes Campos.
+  - Manuel Prada Carretero, el de 1864, se casó en Tardobispo en 1927 con Josefa García Saucedio.
+  - La nota de Domingo de las Heras coincide con su matrimonio de 1912, que ya estaba en el árbol.
+- Los padrinos identifican a varios hermanos ya adultos, y se recoge en observaciones:
+  - Francisca Roncero Hernández, casada con Miguel Rodríguez, fue madrina de su media hermana Narcisa en 1773.
+  - Agustín de Mena Santamaría fue padrino de su sobrino Ángel Brioso en 1873, y Genaro Brioso, del suyo Martín Brioso Pérez en 1884.
+  - Probablemente, Antonio Pérez Sánchez fue padrino de Manuela Garrote en 1868; Tomás de Mena Santamaría, de Baltasar Brioso en 1859; José Mauricio Alonso Santamaría, de Bernardo Brioso en 1861; y Manuel Prada Carretero, de Ángela de las Heras en 1881.
+
+Personas añadidas además de los bautizados, a partir de partidas ya transcritas:
+
+- María Pérez Roncero, nombrada entre los herederos de su madre, Joaquina Roncero, en 1814. Los bautismos de la carpeta identifican a otros tres de esos herederos: Francisco, Josefa y Lorenzo.
+- La segunda familia de Fernando Girón Fernández, según su partida de entierro (1832): su mujer, María Alonso, y los cuatro hijos que dejó, María Justa, Alejo, Crisanta y Antonio. Se suponen hijos de María Alonso porque no figuran entre los que dejó su primera mujer en 1806; la partida no lo dice.
+
+Correcciones y decisiones:
+
+- La familia archivó como «Mª. Dolores Heras» el bautismo de María de las Mercedes de las Heras Rabanal (1859). Se identifica con la María de las Heras que su madre dejó al morir en 1891, con Benito: es la única María de los bautismos de la familia.
+- «Antonio Mena Sánchez» es Antonio de Mena Santamaría (1850), hijo de Tomás de Mena y Valeria Santamaría.
+- «Tomás Brioso» y «Ángel Brioso» son hijos de Florencio Brioso, no de Enrique.
+- Se retira de Paula Pérez Roncero la observación de que su bautismo no se había transcrito.
+- No cambia ninguna fecha que ya estuviera en el árbol.
+
+Dudas que quedan en el registro y conviene conocer:
+
+- Bernardo Brioso de Mena nació, según el árbol, el 12-03-1861, y su hermano Martín, el 06-11-1861: solo ocho meses después. La fecha de Martín se ha leído dos veces sobre la imagen; la de Bernardo viene de una transcripción con varias palabras ilegibles y no tiene fotografía registrada. Convendría revisar el año de Bernardo.
+- Gemiliano Prada Girón conserva ese nombre, que es el de la partida de entierro de su madre (1839); su bautismo dice «Geminiano».
+- Una nota al margen dice que Tomás de Mena Santamaría (1837) se llamaba solo Tomás, aunque lo llamaban Pablo; su hermano Pablo había nacido en 1836. El «Pablo de Mena, hermano del bautizado» que fue padrino en 1850 puede ser cualquiera de los dos.
+- Pista sin incorporar: la madre de Félix Alonso, Teresa Roncero, podría ser Teresa María Roncero Pérez (1778), hija de Lorenzo Roncero y Micaela Pérez y heredera de su madre en 1815; ninguna partida lo dice.
+- Francisca Roncero Hernández (1741) y Teresa María Roncero Pérez (1778) no tienen fecha de bautismo, porque el asiento sigue en una página no fotografiada. A Lorenza Pérez Miguel (1743) le falta el principio, con el mes. Otros catorce asientos están incompletos por la misma causa.
+- Lorenzo Roncero Herrero (1712) tenía 61 y 66 años al nacer Narcisa y Teresa María; las partidas lo nombran.
+- El título del arcipreste que firma en Tardobispo hacia 1758 se lee «Valdeſema», con s larga. En el matrimonio de Lorenzo Roncero y Dorotea Hernández (1738) se había transcrito «Valdegema».
+
+Queda sin enlace Catalina Hernández, bautizada en Tardobispo en marzo de 1620, hija de … Hernández y Catalina Lorenzo, vecinos de Valcamino. La única Catalina Hernández de Valcamín en el árbol es la madre de Manuela de la Iglesia (1675), que tendría entonces 55 años.
+
+Pendiente: la carpeta «Abuelos» (9 imágenes, cuyas partidas ya están transcritas en las fichas).
+
 ## Rama Unzueta de Arrasate
 
 La familia identifica a Cristóbal, nacido en Villardeciervos el 1 de junio de 1746, como padre de Manuel Unzueta e hijo de Francisco Antonio Unzueta Ormacho e Isabel Romero. El documento `Unzueta vascos.docx` amplía la ascendencia de Francisco Antonio; sus nombres, fechas, sangrías y dudas se conservan en [`sources/unzueta-vascos.json`](sources/unzueta-vascos.json). La familia confirma que las fechas junto a los nombres del documento son fechas de nacimiento.
