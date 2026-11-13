@@ -1,5 +1,6 @@
 import { lifespan } from './lifespan.mjs?v=2';
 import { collectTree, layoutTree, collectSiblings } from './tree-layout.mjs?v=7';
+import { splitLinks } from './links.mjs?v=1';
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -394,7 +395,23 @@ async function renderProfile(id, focus = false) {
       const notes = element('section', 'profile-section observations');
       notes.append(element('h3', '', 'Observaciones'));
       const list = element('ul');
-      person.observations.forEach(note => list.append(element('li', '', note)));
+      person.observations.forEach(note => {
+        const item = element('li');
+        // An observation may cite an online source; its address becomes a link.
+        for (const part of splitLinks(note)) {
+          if (!part.url) {
+            item.append(part.text);
+            continue;
+          }
+          const link = element('a', 'source-link', part.label);
+          link.href = part.url;
+          link.title = part.url;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          item.append(link);
+        }
+        list.append(item);
+      });
       notes.append(list);
       panel.append(notes);
     }
