@@ -8,7 +8,8 @@
     "Árbol de Geneanet «josearia» (1.629 personas con nombre): solo coinciden con este árbol la pareja Diego Calvo y Luisa Alonso, y Francisca Magán Unzueta.",
     "Genealogías públicas de FamilySearch por pueblo (Villardeciervos, Casaseca de las Chanas, Tardobispo, Morales del Vino, Gáname, Moraleja del Vino, Malillos y Fadón): sin coincidencias en la línea directa.",
     "Árbol Familiar de FamilySearch por pareja de apellidos, nivel de bisabuelos (Calvo Méndez, Piorno Santiago, Brioso Pérez, de las Heras Prada, Devesa Junquera, Blanco Palmero, Herrero Cuesta; Fernández Unzueta por nombre): hecho el 13-11-2026.",
-    "Árbol Familiar de FamilySearch por lugar, con aviso solo cuando da padres que faltan a un ascendiente directo: Villardeciervos (319), Casaseca de las Chanas (146, primera página), Tardobispo (79), Morales del Vino (378, primera página), Gáname (1.499), Abelón (877), Fadón (59), Malillos (245, primera página), Peleas de Arriba (94). El orden de las páginas no es estable y algunas personas se repiten, así que la cobertura no es completa."
+    "Árbol Familiar de FamilySearch por lugar, con aviso solo cuando da padres que faltan a un ascendiente directo: Villardeciervos (319), Casaseca de las Chanas (146, primera página), Tardobispo (79), Morales del Vino (378, primera página), Gáname (1.499), Abelón (877), Fadón (59), Malillos (245, primera página), Peleas de Arriba (94). El orden de las páginas no es estable y algunas personas se repiten, así que la cobertura no es completa.",
+    "Árbol de Geneanet «pepepont» (unas 3.300 personas; familias catalanas, canarias y casas reales medievales, con un grupo de Villardeciervos: Bobillo, Baladrón, Junquera, Romero, Escudero): ninguna coincidencia segura con este árbol. Árbol «sbengoa»: coincide con la línea Unzueta-Fuldain de Arrasate y Eibar sin añadir generaciones."
   ],
   "applied": [
     {
@@ -130,6 +131,43 @@
         "https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+mayordomo&p=jose",
         "https://gw.geneanet.org/mineragom2?lang=en&n=zurdo+vega&p=isabel"
       ]
+    },
+    {
+      "person": "juan-baptista-unceta-cirarruista",
+      "change": "Observaciones con el enlace en él, en Maria Fuldain Egurbide y en los cuatro padres de ambos. Ningún dato cambia.",
+      "evidence": "Páginas del árbol «sbengoa» de Geneanet copiadas por la familia el 14-11-2026: Martin Unzueta Aguinaga y Gracia Ciarrusta Gaztelueta, padres de Juan Bautista (Eibar, 26-06-1623), Úrsula (1625) y Ana (1629); Juan Bautista casado en Arrasate el 09-02-1643 con Maria Fuldain-Amezqueta Egurbide (Arrasate, 08-12-1612), hija de Juan Fuldain-Amezqueta Yrigoyen y Antonia Egurbide Zigorrondo, casados en Arrasate el 23-01-1606. Todo coincide con lo que el árbol ya tenía de los índices sacramentales vascos; el árbol de Geneanet tampoco nombra a la generación anterior.",
+      "urls": [
+        "https://gw.geneanet.org/sbengoa?lang=en&n=unzueta+ciarrusta&p=juan+bautista",
+        "https://gw.geneanet.org/sbengoa?lang=en&n=fuldain+amezqueta+egurbide&p=maria",
+        "https://gw.geneanet.org/sbengoa?lang=en&n=unzueta+aguinaga&p=martin",
+        "https://gw.geneanet.org/sbengoa?lang=en&n=ciarrusta+gaztelueta&p=gracia",
+        "https://gw.geneanet.org/sbengoa?lang=en&n=fuldain+amezqueta+yrigoyen&p=juan",
+        "https://gw.geneanet.org/sbengoa?lang=en&n=egurbide+zigorrondo&p=antonia"
+      ]
+    },
+    {
+      "person": "constantino-brioso-de-las-heras",
+      "change": "Nacimiento hacia 1910 en Madrid, matrimonio con María González Lorenzo, oficio y observación con el enlace. La ficha existía sin datos.",
+      "evidence": "Expediente personal del recluso Constantino Brioso de las Heras, Archivo General de la Región de Murcia, PRISIONES,49857/68 (Prisión Provincial de Murcia, Prisión Habilitada n.º 1 «Isabelas»), 29 imágenes, catalogado 1940-1942 con papeles del 17-04-1939 al 14-01-1944. Hallado por otro agente y cotejado el 14-11-2026 por dos lectores independientes sobre las imágenes: «Hijo de Bernardo y de Angeles» (imágenes 2 y 6), padres «vecinos de Zamora» (6), «naturaleza Madrid» (2 y 4), 28 años el 17-04-1939 (4) y 29 el 16-11-1939 (6-7), «esposo de Maria Gonzalez Lorenzo» (2; Lorenzo con un 80-85 % de seguridad), «hijos: no», guardia de Asalto, teniente. La madre figura como Ángeles, no Ángela, y no constan los apellidos de los padres: la identificación descansa en sus dos apellidos, el nombre del padre y la vecindad de Zamora.",
+      "urls": [
+        "https://archivogeneral.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=4297615"
+      ]
+    },
+    {
+      "person": "miguel-calvo-mendez",
+      "change": "Lugar de nacimiento de Jesús (Casaseca de las Chanas), Francisco (Moraleja del Vino) y Vicenta (Buenos Aires); observaciones con el enlace en los cinco hijos y en los padres; oficio de bracero en Miguel y Jesús. Los cinco hijos ya tenían ficha con el año.",
+      "evidence": "Padrón municipal de Badalona de 1921, Distrito Segundo, calle de Rafael de Casanova, n.º 75 (hoja 35 de 69 del cuaderno de la calle), Arxiu Històric de la Ciutat de Badalona, Museu de Badalona. Hallado por otro agente y cotejado el 14-11-2026 sobre la imagen: Miguel Calvo Mendez, jefe, 50 años, nacido en 1870 en «Casa Seca», Zamora, bracero, 5 años de residencia; Lucia Piorno Santiago, esposa, 44, 1876; Jesús 1905 «Casa Seca», bracero; Francisco 1907 «Moraleja»; Vicenta 1910 Buenos Aires, Argentina; Marcelina 1913 «Zamora» sin localidad; Juan 1915 Badalona, residencia «siempre». Las edades equivalen a 1920 menos el año. No figuran Nicanor (nacido en Badalona el 05-08-1916 según la familia) ni África. Los años de Miguel (1870) y Lucía (1876) difieren de sus bautismos (1872 y 1880); no se ha cambiado nada. «Moraleja» se interpreta como Moraleja del Vino por vecindad con Casaseca.",
+      "urls": [
+        "https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
+    },
+    {
+      "person": "tomasa-bobillo",
+      "change": "Observación con el enlace. En su hijo Francisco Unzueta Bobillo (1764): matrimonio con Benita Losada y observación. Fichas nuevas de sus padres, Antonio Bobillo y Catalina Devesa: la familia aceptó el 14-11-2026 enlazarlos con el estudio como única prueba.",
+      "evidence": "José Ricardo Rodríguez Pérez, «Viaje a la cuna de los cervato ourensanos», 15-12-2011: «a principios del s. XVIII el matrimonio de Antonio Bobillo y de Catalina Devesa, padres de Tomasa que se casaría con un cervato con ancestros navarros, Francisco Unzueta, a su vez padres entre otros de Francisco y de Isabel Unzueta Bobillo. […] Don Francisco Unzueta Bobillo se casó con doña Benita Losada, vecina de Allariz, hija de don Francisco y de doña Isabel de Castro […] se instalaron en Maside, en donde nacería el 2-12-1794 doña Isabel Unzueta». Coincide en marido, hijo, lugar y época; dice haber consultado los libros de Villardeciervos, pero no cita partidas, y llama navarros a los antepasados guipuzcoanos del marido.",
+      "urls": [
+        "https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+      ]
     }
   ],
   "pendingDecisions": [
@@ -138,6 +176,13 @@
       "question": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada.",
       "urls": [
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
+      ]
+    },
+    {
+      "person": "nicanor-calvo-piorno",
+      "question": "El padrón de Badalona de 1921 (edades referidas a 1920) no incluye a Nicanor, nacido en Badalona el 5 de agosto de 1916 según la familia, y sí a su hermano Juan, de 1915. No se ha cambiado nada. La familia no lo sabe (14-11-2026); apunta que quizá vivía entonces con sus abuelos en Casaseca de las Chanas.",
+      "urls": [
+        "https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
       ]
     }
   ],
@@ -168,6 +213,26 @@
       "note": "Árbol de FamilySearch: Francisco Brioso, de Morales del Vino, con María de Luelmo y una hija Isabel Brioso de Luelmo (G2HS-PZC), que no está en este árbol. Sin fechas ni fuentes; pendiente de mirar el perfil de Isabel.",
       "urls": [
         "https://www.familysearch.org/ark:/61903/4:1:G2HS-2FS"
+      ]
+    },
+    {
+      "person": "tomasa-bobillo",
+      "note": "«pepepont»: Diego Bobillo Gullón (hijo de Juan Bobillo y María Gullón) casó hacia 1708 en Villardeciervos con María Romero Ferreras (hija de Blas Romero e Isabel Ferreras); hijos Teresa (1718), Francisco (1720, casado en 1753 con Isabel Baladrón Junquera) y «Tomás» Bobillo Ferreras (1723). Si ese bautizado de 1723 fuera en realidad Tomasa, tendría la edad adecuada para ser la segunda mujer de Francisco Antonio Unzueta Ormacho (1721) y madre de Francisco (1764) y Manuel (1766). El árbol dice Tomás: no se enlaza. Lo resolvería la partida de bautismo de 1723 en Villardeciervos. Un estudio de 2011 la hace hija de Antonio Bobillo y Catalina Devesa: si es cierto, el bautizado de 1723 no es ella.",
+      "urls": [
+        "https://gw.geneanet.org/pepepont?lang=en&n=bobillo+ferreras&p=tomas",
+        "https://gw.geneanet.org/pepepont?lang=en&n=bobillo+gullon&p=diego"
+      ]
+    },
+    {
+      "person": "manuel-devesa-romero",
+      "note": "«pepepont»: Juan Devesa Blanco, casado con Francisca Bobillo Valadrón (1759-1834), sin padres, hijos ni fechas. Por época podría ser de la generación anterior a Manuel Devesa Romero, pero nada lo relaciona con él. Búsqueda en la red el 14-11-2026, sin padres: el Boletín Oficial de Zamora (extractos del Registro de la Propiedad de Puebla de Sanabria, 3, 6 y 10-09-1869) recoge que en 1831 José Romero vendió un huerto a «Manuel Devesa, de Villardeciervos», y que en 1844 «Juan Devesa y María Romero, vecinos de Santa Eulalia» vendieron una finca en Villardeciervos; las listas electorales de 1851-1867 nombran a un Manuel Devesa Romero y, en 1852, a un Pedro Devesa Romero. PARES: Francisco Ramos Bovillo, de Villardeciervos, en un pleito de 1813-1814, posible pariente de María Ramos Botillo. Otro árbol de Geneanet por abrir: «cardean» (Bobillo Baladrón, Bobillo Junquera).",
+      "urls": [
+        "https://gw.geneanet.org/pepepont?lang=en&n=devesa+blanco&p=juan",
+        "https://archive.org/details/BoletinOficialZamora_18690903",
+        "https://archive.org/details/BoletinOficialZamora_18690906",
+        "https://archive.org/details/BoletinOficialZamora_18520514",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/209617",
+        "https://gw.geneanet.org/cardean"
       ]
     }
   ]

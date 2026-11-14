@@ -2399,7 +2399,15 @@
           "name": "Labrador",
           "date": "1898",
           "note": "Al casarse consta «de oficio labrador»."
+        },
+        {
+          "name": "Bracero",
+          "date": "1921",
+          "note": "Así consta en el padrón de Badalona."
         }
+      ],
+      "observations": [
+        "El padrón municipal de Badalona de 1921 lo recoge como bracero en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad, junto a su mujer y sus hijos Jesús, Francisco, Vicenta, Marcelina y Juan. Vicenta figura nacida en Buenos Aires en 1910, lo que sitúa a la familia en Argentina por entonces. En la hoja no aparecen Nicanor ni África: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
       ]
     },
     {
@@ -2434,7 +2442,10 @@
       ],
       "death": {
         "place": "Casaseca de las Chanas"
-      }
+      },
+      "observations": [
+        "Figura con su marido y cinco hijos en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
     },
     {
       "id": "nicanor-calvo-martin",
@@ -28136,7 +28147,12 @@
       "givenNames": "Tomasa",
       "surnames": [
         "Bobillo"
-      ]
+      ],
+      "observations": [
+        "Un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense) la hace hija de Antonio Bobillo y Catalina Devesa, casados a principios del siglo XVIII, y mujer de Francisco Unzueta; no cita las partidas. La familia aceptó esa filiación el 14 de noviembre de 2026: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+      ],
+      "father": "antonio-bobillo-padre-de-tomasa-bobillo",
+      "mother": "catalina-devesa-madre-de-tomasa-bobillo"
     },
     {
       "id": "francisco-unzueta-bobillo-1764",
@@ -28151,7 +28167,15 @@
       "baptism": {
         "date": "1764-08-06",
         "place": "Villardeciervos"
-      }
+      },
+      "marriages": [
+        {
+          "note": "Con Benita Losada, vecina de Allariz."
+        }
+      ],
+      "observations": [
+        "Según un estudio publicado en 2011, casó con Benita Losada, vecina de Allariz, hija de Francisco Losada e Isabel de Castro, y se estableció en Maside (Ourense), donde el 2 de diciembre de 1794 nació su hija Isabel Unzueta, casada con José Rodríguez Estévez: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+      ]
     },
     {
       "id": "isabel-romero",
@@ -28340,7 +28364,8 @@
       "observations": [
         "Fue bautizado como Joan; en Arrasate figura como Bautista o Juan Bautista de Unzueta.",
         "El libro que contiene su partida de bautismo quedó parcialmente quemado en el bombardeo de Eibar del 25 de abril de 1937.",
-        "Sus hermanas Úrsula (1625) y Ana (1629) fueron bautizadas en Eibar."
+        "Sus hermanas Úrsula (1625) y Ana (1629) fueron bautizadas en Eibar.",
+        "Un árbol publicado en Geneanet («sbengoa») lo recoge como Juan Bautista Unzueta Ciarrusta, con los mismos padres, hermanas, bautismo, matrimonio e hijos: https://gw.geneanet.org/sbengoa?lang=en&n=unzueta+ciarrusta&p=juan+bautista"
       ],
       "siblings": [
         "ursula-unceta-hermano-de-juan-baptista-unceta-cirarruista",
@@ -28377,7 +28402,8 @@
       "observations": [
         "En la partida de bautismo figura con el apellido Amezqueta, como sus hermanos.",
         "Sus hermanos Magdalena (1606), Águeda (1610), Mari Miguel (1616), Antonio (1619), Juan (1622) y Andrés (1625) fueron bautizados en Arrasate.",
-        "Una María Fuldain falleció en Arrasate el 22 de octubre de 1682; es probable que se trate de ella."
+        "Una María Fuldain falleció en Arrasate el 22 de octubre de 1682; es probable que se trate de ella.",
+        "Un árbol publicado en Geneanet («sbengoa») la recoge como Maria Fuldain-Amezqueta Egurbide, con los mismos padres, hermanos, bautismo, matrimonio e hijos: https://gw.geneanet.org/sbengoa?lang=en&n=fuldain+amezqueta+egurbide&p=maria"
       ],
       "siblings": [
         "magdalena-amezqueta-hermano-de-maria-fuldain-egurbide",
@@ -28435,6 +28461,9 @@
       "surnames": [
         "Unceta",
         "Aguinaga"
+      ],
+      "observations": [
+        "Un árbol publicado en Geneanet («sbengoa») lo recoge como Martin Unzueta Aguinaga, casado con Gracia Ciarrusta Gaztelueta y padre de Juan Bautista (1623), Úrsula (1625) y Ana (1629); no nombra a sus padres: https://gw.geneanet.org/sbengoa?lang=en&n=unzueta+aguinaga&p=martin"
       ]
     },
     {
@@ -28446,7 +28475,8 @@
         "Gaztelueta"
       ],
       "observations": [
-        "En 1621 tuvo en Eibar un hijo, Benito, con Joan de Yraegui Sumendiaga."
+        "En 1621 tuvo en Eibar un hijo, Benito, con Joan de Yraegui Sumendiaga.",
+        "Un árbol publicado en Geneanet («sbengoa») la recoge como Gracia Ciarrusta Gaztelueta, casada con Martin Unzueta Aguinaga y madre de Juan Bautista (1623), Úrsula (1625) y Ana (1629); no nombra a sus padres: https://gw.geneanet.org/sbengoa?lang=en&n=ciarrusta+gaztelueta&p=gracia"
       ]
     },
     {
@@ -28465,7 +28495,8 @@
         }
       ],
       "observations": [
-        "En las partidas de sus hijos figura como Joan de Amezqueta."
+        "En las partidas de sus hijos figura como Joan de Amezqueta.",
+        "Un árbol publicado en Geneanet («sbengoa») lo llama Juan Fuldain-Amezqueta Yrigoyen y recoge su matrimonio de 1606 y sus siete hijos; no nombra a sus padres: https://gw.geneanet.org/sbengoa?lang=en&n=fuldain+amezqueta+yrigoyen&p=juan"
       ]
     },
     {
@@ -28485,7 +28516,8 @@
         }
       ],
       "observations": [
-        "También figura como Antona de Egurbide Çigorrondo."
+        "También figura como Antona de Egurbide Çigorrondo.",
+        "Un árbol publicado en Geneanet («sbengoa») la recoge como Antonia Egurbide Zigorrondo, con su matrimonio de 1606 y sus siete hijos; no nombra a sus padres: https://gw.geneanet.org/sbengoa?lang=en&n=egurbide+zigorrondo&p=antonia"
       ]
     },
     {
@@ -28744,8 +28776,20 @@
       "father": "miguel-calvo-mendez",
       "mother": "lucia-piorno-santiago",
       "birth": {
-        "date": "1905"
-      }
+        "date": "1905",
+        "place": "Casaseca de las Chanas",
+        "note": "Año que consta en el padrón de Badalona de 1921."
+      },
+      "observations": [
+        "Figura con sus padres en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, nacido en 1905 en «Casa Seca», provincia de Zamora, y de oficio bracero: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ],
+      "occupations": [
+        {
+          "name": "Bracero",
+          "date": "1921",
+          "note": "Así consta en el padrón de Badalona."
+        }
+      ]
     },
     {
       "id": "francisco-calvo-piorno",
@@ -28758,8 +28802,13 @@
       "father": "miguel-calvo-mendez",
       "mother": "lucia-piorno-santiago",
       "birth": {
-        "date": "1907"
-      }
+        "date": "1907",
+        "place": "Moraleja del Vino",
+        "note": "Año que consta en el padrón de Badalona de 1921."
+      },
+      "observations": [
+        "Figura con sus padres en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, nacido en 1907 en «Moraleja», provincia de Zamora, que se entiende Moraleja del Vino, vecina de Casaseca de las Chanas: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
     },
     {
       "id": "vicenta-calvo-piorno",
@@ -28772,8 +28821,13 @@
       "father": "miguel-calvo-mendez",
       "mother": "lucia-piorno-santiago",
       "birth": {
-        "date": "1910"
-      }
+        "date": "1910",
+        "place": "Buenos Aires",
+        "note": "Año que consta en el padrón de Badalona de 1921."
+      },
+      "observations": [
+        "Figura con sus padres en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, nacida en 1910 en Buenos Aires (Argentina): https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
     },
     {
       "id": "marcelina-calvo-piorno",
@@ -28786,8 +28840,12 @@
       "father": "miguel-calvo-mendez",
       "mother": "lucia-piorno-santiago",
       "birth": {
-        "date": "1913"
-      }
+        "date": "1913",
+        "note": "Año que consta en el padrón de Badalona de 1921."
+      },
+      "observations": [
+        "Figura con sus padres en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, nacida en 1913; como lugar de nacimiento solo se anotó «Zamora»: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
     },
     {
       "id": "juan-calvo-piorno",
@@ -28801,8 +28859,12 @@
       "mother": "lucia-piorno-santiago",
       "birth": {
         "date": "1915",
-        "place": "Badalona"
-      }
+        "place": "Badalona",
+        "note": "Año que consta en el padrón de Badalona de 1921."
+      },
+      "observations": [
+        "Figura con sus padres en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, nacido en 1915 en Badalona: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+      ]
     },
     {
       "id": "africa-calvo-piorno",
@@ -28824,7 +28886,27 @@
         "de las Heras"
       ],
       "father": "bernardo-brioso-perez",
-      "mother": "angela-de-las-heras-prada"
+      "mother": "angela-de-las-heras-prada",
+      "birth": {
+        "date": "1910",
+        "place": "Madrid",
+        "note": "Año aproximado, por la edad que declaró en 1939."
+      },
+      "marriages": [
+        {
+          "note": "Con María González Lorenzo."
+        }
+      ],
+      "occupations": [
+        {
+          "name": "Guardia de Asalto",
+          "date": "1939",
+          "note": "Destinado en Barcelona en 1936; teniente durante la guerra."
+        }
+      ],
+      "observations": [
+        "Su expediente personal de recluso en la Prisión Provincial de Murcia, con papeles de 1939 a 1944, lo dice natural de Madrid, hijo de Bernardo y de Ángeles, vecinos de Zamora, de 28 años en abril de 1939 y de 29 en noviembre, casado con María González Lorenzo y sin hijos, guardia de Asalto destinado en Barcelona en 1936 y teniente durante la guerra. Desde noviembre de 1941 residía en Barcelona. El segundo apellido de su mujer se lee con alguna duda. Se conserva en el Archivo General de la Región de Murcia: https://archivogeneral.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=4297615"
+      ]
     },
     {
       "id": "rufina-brioso-de-las-heras",
@@ -37879,6 +37961,40 @@
       ],
       "siblings": [
         "pedro-garrote-padre-de-antonio-garrote"
+      ]
+    },
+    {
+      "id": "antonio-bobillo-padre-de-tomasa-bobillo",
+      "name": "Antonio Bobillo",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Bobillo"
+      ],
+      "marriages": [
+        {
+          "spouse": "catalina-devesa-madre-de-tomasa-bobillo",
+          "note": "A principios del siglo XVIII."
+        }
+      ],
+      "observations": [
+        "Consta como padre de Tomasa Bobillo, casado a principios del siglo XVIII con Catalina Devesa, en un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense), que no cita las partidas: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+      ]
+    },
+    {
+      "id": "catalina-devesa-madre-de-tomasa-bobillo",
+      "name": "Catalina Devesa",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Devesa"
+      ],
+      "marriages": [
+        {
+          "spouse": "antonio-bobillo-padre-de-tomasa-bobillo",
+          "note": "A principios del siglo XVIII."
+        }
+      ],
+      "observations": [
+        "Consta como madre de Tomasa Bobillo, casada a principios del siglo XVIII con Antonio Bobillo, en un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense), que no cita las partidas: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
       ]
     }
   ]
