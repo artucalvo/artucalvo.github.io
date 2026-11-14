@@ -168,6 +168,27 @@
       "urls": [
         "https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
       ]
+    },
+    {
+      "person": "nicanor-hijo-de-miguel-calvo-mendez",
+      "change": "Ficha nueva: primer hijo de Miguel Calvo Méndez y Lucía Piorno Santiago, nacido hacia 1899 en Casaseca de las Chanas. Observaciones con la tradición familiar en él, en sus padres y en su hermano Nicanor (1916).",
+      "evidence": "Boletín Oficial de Zamora, 02-02-1920, «Reemplazo del Ejército»: mozos naturales de cada pueblo citados por edicto «por no haber podido ser citados personalmente»; Casaseca de las Chanas: «Nicanor Calvo Piorno, de Miguel y Lucía». Boletín del 27-08-1920, Comisión Mixta de Reclutamiento, «Relación de los mozos correspondientes á dicho reemplazo [de 1920] que han sido declarados prófugos»: Casaseca de las Chanas, Nicanor Calvo Piorno. Leído en el texto reconocido de ambos números; hallado a través de MyHeritage (OldNews) y del Internet Archive. El reemplazo de 1920 alistaba a los nacidos en 1899; sus padres se casaron el 09-11-1898. Tradición familiar comunicada el 14-11-2026: emigraron a Buenos Aires y luego a Brasil, y dejaron a un hijo muy enfermo en un hospital al embarcar de vuelta; la familia supone que fue este Nicanor y que el nacido en Badalona en 1916 recibió su nombre.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19200202",
+        "https://archive.org/details/BoletinOficialZamora_19200827"
+      ]
+    },
+    {
+      "person": "bernardo-brioso-perez",
+      "change": "Barrido de prensa y boletines del 14-11-2026 (nivel de abuelos y bisabuelos): oficios y observaciones con enlace en Bernardo Brioso Pérez, Enrique Brioso Mena, Balbina Pérez Sánchez, Rosario Brioso, Antonio Devesa Junquera, Petra Blanco Palmero, Desiderio Devesa Romero, Antonio Blanco Vega, Epifanio Herrero Cuesta y Epifanio Herrero Vega; de paso, en los hermanos Consuelo y Carmen Devesa Blanco, Antonia Palmira (matrimonio de mayo de 1941), Ángela (matrimonio, nacimiento hacia 1923 y defunción el 04-01-2019) y Constantino Brioso de las Heras, y Eduardo Fernández Unzueta.",
+      "evidence": "Cuatro agentes, uno por pareja, buscaron en el texto completo del Internet Archive (Boletín Oficial de Zamora hasta 30-12-1936, Heraldo de Zamora hasta 30-06-1942) y en la Gaceta de Madrid y el BOE, y leyeron cada acierto en la imagen de la página salvo donde se indica. Solo se aplicó lo confirmado con dos apellidos, pueblo y época. Leídos solo en el texto reconocido: Desiderio Devesa Romero (1910) y Antonio Blanco Vega (1912). «Alcalde don Antonio Devesa» (1930) queda como probable. No apareció nada de Antonio Devesa Blanco ni de Josefa Herrero Fernández (su boda y la quinta de él son posteriores a los fondos digitalizados), ni las defunciones de los bisabuelos, ni la esquela de Bernardo (1952) o Ángela (1969).",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19180618_06659",
+        "https://www.boe.es/buscar/doc.php?id=BOE-A-1948-12765",
+        "https://archive.org/details/BoletinOficialZamora_19151119",
+        "https://archive.org/details/BoletinOficialZamora_19300625",
+        "https://archive.org/details/BoletinOficialZamora_18980715"
+      ]
     }
   ],
   "pendingDecisions": [
@@ -180,7 +201,7 @@
     },
     {
       "person": "nicanor-calvo-piorno",
-      "question": "El padrón de Badalona de 1921 (edades referidas a 1920) no incluye a Nicanor, nacido en Badalona el 5 de agosto de 1916 según la familia, y sí a su hermano Juan, de 1915. No se ha cambiado nada. La familia no lo sabe (14-11-2026); apunta que quizá vivía entonces con sus abuelos en Casaseca de las Chanas.",
+      "question": "El padrón de Badalona de 1921 (edades referidas a 1920) no incluye a Nicanor, nacido en Badalona el 5 de agosto de 1916 según la familia, y sí a su hermano Juan, de 1915. No se ha cambiado nada. La familia no lo sabe (14-11-2026); apunta que quizá vivía entonces con sus abuelos en Casaseca de las Chanas. El Nicanor de los boletines de 1920 es un hermano mayor, nacido hacia 1899 (ficha nueva); la ausencia del Nicanor de 1916 en la hoja de 1921 sigue sin explicación.",
       "urls": [
         "https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
       ]
@@ -233,6 +254,32 @@
         "https://archive.org/details/BoletinOficialZamora_18520514",
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/209617",
         "https://gw.geneanet.org/cardean"
+      ]
+    },
+    {
+      "person": "antonio-devesa-junquera",
+      "note": "José Devesa Junquera, vocal «por industrial» de la Junta del Censo de Villardeciervos en 1932-1933 y fiscal municipal desde 1936 (Boletín Oficial de Zamora, 04-12-1931 y 27-11-1935): probable hermano, sin partida que lo diga. Piedad Devesa Román, de Villardeciervos, recibe el certificado del Servicio Social con Carmen Devesa Blanco en 1939.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19311204",
+        "https://archive.org/details/BoletinOficialZamora_19351127"
+      ]
+    },
+    {
+      "person": "epifanio-herrero-cuesta",
+      "note": "Posibles hermanos en el Boletín Oficial de Zamora: Antonio Herrero Cuesta (adjunto del juzgado municipal en 1915, jurado en 1933), Pedro Herrero Cuesta (subsidio de familia numerosa en 1931, padre de ocho hijos) y Manuel Herrero Cuesta (1936). Un «Epifanio Herrero» de Villardeciervos, sin segundo apellido, tuvo fincas expropiadas para la carretera de Puente de Tera a Alcañices en 1930 y 1935.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19151222",
+        "https://archive.org/details/BoletinOficialZamora_19310619"
+      ]
+    },
+    {
+      "person": "enrique-brioso-mena",
+      "note": "Sin confirmar que sean él: un Enrique Brioso Mena cumplía en 1900 seis meses y un día en la cárcel de Zamora por disparo de arma (Heraldo, 06-07-1900); un Enrique Brioso, de Tardobispo, investigado por abusos electorales en 1905; y un Enrique Brioso de Mena, ordenanza primero del Instituto Geográfico y Estadístico, fallecido antes de agosto de 1920, viudo de segundas de Carmen Alonso Ramos (Heraldo, 03-08-1920). Julio Brioso Pérez, de Tardobispo, probable hermano de Bernardo: entró en 1911 en el colegio de misioneros franciscanos de Santiago; casado con Juana Lafuente Casbas, perdió en la guerra a su hijo Juan Manuel Brioso Lafuente.",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19000706_01039",
+        "https://archive.org/details/HeraldoDeZamora_19200803_08165",
+        "https://archive.org/details/HeraldoDeZamora_19111102_04740",
+        "https://archive.org/details/HeraldoDeZamora_19391205_13760"
       ]
     }
   ]

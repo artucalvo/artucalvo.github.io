@@ -102,7 +102,10 @@
         "Blanco"
       ],
       "father": "antonio-devesa-junquera",
-      "mother": "petra-blanco-palmero"
+      "mother": "petra-blanco-palmero",
+      "observations": [
+        "El Heraldo de Zamora la cita al recibir el certificado del Servicio Social (12 de agosto de 1939) y anuncia, como Carmina, su petición de mano para José A. Fernández, maestro nacional de Villardeciervos, hijo de Miguel Fernández y Obdulia Pérez (29 de julio de 1941): https://archive.org/details/HeraldoDeZamora_19390812_13666 https://archive.org/details/HeraldoDeZamora_19410729_14236"
+      ]
     },
     {
       "id": "consuelo-devesa-blanco",
@@ -113,7 +116,10 @@
         "Blanco"
       ],
       "father": "antonio-devesa-junquera",
-      "mother": "petra-blanco-palmero"
+      "mother": "petra-blanco-palmero",
+      "observations": [
+        "El Heraldo de Zamora del 27 de abril de 1940 anuncia su petición de mano para José «Pepito» Unzueta, de Villardeciervos, hermano de Antonio Unzueta, capitán de Artillería en Medina del Campo, con boda prevista para la segunda quincena de mayo: https://archive.org/details/HeraldoDeZamora_19400427_13877"
+      ]
     },
     {
       "id": "josefa-herrero-fernandez",
@@ -209,6 +215,24 @@
           "spouse": "petra-blanco-palmero",
           "place": "Villardeciervos"
         }
+      ],
+      "occupations": [
+        {
+          "name": "Concejal",
+          "date": "1915",
+          "note": "Proclamado concejal de Villardeciervos el 7 de noviembre de 1915, sin votación."
+        },
+        {
+          "name": "Propietario",
+          "date": "1931",
+          "note": "Vocal de la Junta municipal del Censo electoral en 1932-1933 como contribuyente por cultivo y ganadería; en 1926 figuraba como contribuyente por industrial."
+        }
+      ],
+      "observations": [
+        "El Boletín Oficial de Zamora del 19 de noviembre de 1915 publica su proclamación como concejal de Villardeciervos, con el apellido escrito «Debesa»: https://archive.org/details/BoletinOficialZamora_19151119",
+        "El Boletín Oficial de Zamora lo recoge como suplente por Villardeciervos en el sorteo de mayores contribuyentes para las Juntas municipales del Censo electoral (11 de octubre de 1926) y como vocal de la Junta de 1932-1933, junto a José Devesa Junquera, vocal por industrial: https://archive.org/details/BoletinOficialZamora_19261011 https://archive.org/details/BoletinOficialZamora_19311204",
+        "El Heraldo de Zamora del 13 de septiembre de 1930 llama alcalde de Villardeciervos a «don Antonio Devesa», sin segundo apellido; probablemente es él: https://archive.org/details/HeraldoDeZamora_19300913_11049",
+        "El Heraldo de Zamora publicó la petición de mano de sus hijas Consuelo, para José Unzueta (27 de abril de 1940), y Carmina, para el maestro José A. Fernández (29 de julio de 1941); en la segunda los llama «propietarios conocidos»: https://archive.org/details/HeraldoDeZamora_19400427_13877 https://archive.org/details/HeraldoDeZamora_19410729_14236"
       ]
     },
     {
@@ -256,6 +280,9 @@
           "spouse": "antonio-devesa-junquera",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "El Heraldo de Zamora publicó la petición de mano de sus hijas Consuelo, para José Unzueta (27 de abril de 1940), y Carmina, para el maestro José A. Fernández (29 de julio de 1941); en la segunda los llama «propietarios conocidos»: https://archive.org/details/HeraldoDeZamora_19400427_13877 https://archive.org/details/HeraldoDeZamora_19410729_14236"
       ]
     },
     {
@@ -280,6 +307,16 @@
           "spouse": "adelina-fernandez-unzueta",
           "place": "Villardeciervos"
         }
+      ],
+      "occupations": [
+        {
+          "name": "Juez municipal suplente",
+          "date": "1930",
+          "note": "Nombrado para el periodo que empezaba el 1 de agosto de 1930; fiscal municipal suplente desde el 1 de enero de 1936."
+        }
+      ],
+      "observations": [
+        "El Boletín Oficial de Zamora publica su nombramiento como juez municipal suplente de Villardeciervos (25 de junio de 1930), su sorteo como jurado del partido de Puebla de Sanabria (20 de septiembre de 1933) y su nombramiento como fiscal municipal suplente desde el 1 de enero de 1936, con José Devesa Junquera de fiscal (27 de noviembre de 1935): https://archive.org/details/BoletinOficialZamora_19300625 https://archive.org/details/BoletinOficialZamora_19330920 https://archive.org/details/BoletinOficialZamora_19351127"
       ]
     },
     {
@@ -328,6 +365,9 @@
           "spouse": "josefa-junquera-martinez",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "El Boletín Oficial de Zamora del 7 de enero de 1910 lo nombra vocal de la Junta municipal del Censo electoral de Villardeciervos, como contribuyente por inmuebles, cultivo y ganadería: https://archive.org/details/BoletinOficialZamora_19100107"
       ]
     },
     {
@@ -375,6 +415,9 @@
           "spouse": "petra-palmero-martinez",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "El Boletín Oficial de Zamora del 6 de septiembre de 1912 lo cita como vecino de Villardeciervos y acreedor en una ejecución de sentencia seguida en el Juzgado de Alcañices contra Cayetano Remesal Folgado: https://archive.org/details/BoletinOficialZamora_19120906"
       ]
     },
     {
@@ -423,6 +466,16 @@
           "spouse": "teresa-cuesta-unzueta",
           "place": "Villardeciervos"
         }
+      ],
+      "occupations": [
+        {
+          "name": "Ganadero",
+          "date": "1907",
+          "note": "Tenía un corral con 231 cabezas de ganado lanar y veinte de cabrío."
+        }
+      ],
+      "observations": [
+        "El 18 de octubre de 1907 le incendiaron un corral en Villardeciervos, donde murieron 231 ovejas y veinte cabras, con daños tasados en 2.860 pesetas; el autor, un joven de catorce años, fue juzgado en octubre de 1908. Lo cuenta el Heraldo de Zamora: https://archive.org/details/HeraldoDeZamora_19071023_03164 https://archive.org/details/HeraldoDeZamora_19081003_03442"
       ]
     },
     {
@@ -2327,7 +2380,10 @@
         "date": "1993-11-24",
         "place": "Zamora",
         "note": "Funeral en la iglesia de San Ildefonso, en Zamora."
-      }
+      },
+      "observations": [
+        "Lleva el nombre de un hermano mayor, nacido en Casaseca de las Chanas hacia 1899 y declarado prófugo en el reemplazo de 1920. La familia cree que fue el hijo que sus padres tuvieron que dejar enfermo en un hospital de Brasil al regresar a España."
+      ]
     },
     {
       "id": "rosario-brioso-de-las-heras",
@@ -2358,7 +2414,10 @@
         "date": "2017-06-03",
         "place": "Zamora",
         "note": "Funeral en la iglesia de San Ildefonso, en Zamora."
-      }
+      },
+      "observations": [
+        "Su nacimiento figura entre las inscripciones del Registro Civil que publicó el Heraldo de Zamora el 19 de diciembre de 1918: https://archive.org/details/HeraldoDeZamora_19181219_06810"
+      ]
     },
     {
       "id": "miguel-calvo-mendez",
@@ -2407,7 +2466,8 @@
         }
       ],
       "observations": [
-        "El padrón municipal de Badalona de 1921 lo recoge como bracero en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad, junto a su mujer y sus hijos Jesús, Francisco, Vicenta, Marcelina y Juan. Vicenta figura nacida en Buenos Aires en 1910, lo que sitúa a la familia en Argentina por entonces. En la hoja no aparecen Nicanor ni África: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+        "El padrón municipal de Badalona de 1921 lo recoge como bracero en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad, junto a su mujer y sus hijos Jesús, Francisco, Vicenta, Marcelina y Juan. Vicenta figura nacida en Buenos Aires en 1910, lo que sitúa a la familia en Argentina por entonces. En la hoja no aparecen Nicanor ni África: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/",
+        "Según la tradición familiar, Miguel Calvo y Lucía Piorno emigraron a Buenos Aires y después a Brasil, y al volver a España dejaron en un hospital de allí a uno de sus hijos, muy enfermo, porque su barco estaba a punto de zarpar. La familia cree que fue su hijo mayor, Nicanor, nacido hacia 1899, al que en 1920 el Ayuntamiento de Casaseca de las Chanas no pudo citar para el reemplazo y que fue declarado prófugo."
       ]
     },
     {
@@ -2444,7 +2504,8 @@
         "place": "Casaseca de las Chanas"
       },
       "observations": [
-        "Figura con su marido y cinco hijos en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
+        "Figura con su marido y cinco hijos en el padrón municipal de Badalona de 1921, en la calle de Rafael de Casanova, 75, con cinco años de residencia en la ciudad: https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/",
+        "Según la tradición familiar, Miguel Calvo y Lucía Piorno emigraron a Buenos Aires y después a Brasil, y al volver a España dejaron en un hospital de allí a uno de sus hijos, muy enfermo, porque su barco estaba a punto de zarpar. La familia cree que fue su hijo mayor, Nicanor, nacido hacia 1899, al que en 1920 el Ayuntamiento de Casaseca de las Chanas no pudo citar para el reemplazo y que fue declarado prófugo."
       ]
     },
     {
@@ -2627,7 +2688,23 @@
           "name": "Jornalero",
           "date": "1903",
           "note": "Al casarse consta «de oficio jornalero»."
+        },
+        {
+          "name": "Ordenanza de Telégrafos",
+          "date": "1918",
+          "note": "Nombrado en junio de 1918 para la sección telegráfica de Zamora."
+        },
+        {
+          "name": "Portero de los Ministerios Civiles",
+          "date": "1925",
+          "note": "Portero cuarto en Telégrafos de Zamora en 1925; pasó a la Sección Administrativa de Primera Enseñanza en 1931 y al Catastro de Rústica en 1934. Ascendió a portero mayor de tercera en abril de 1948 y se jubiló el 1 de junio de 1948 en la Delegación de Hacienda de Zamora."
         }
+      ],
+      "observations": [
+        "El Heraldo de Zamora del 18 de junio de 1918 da su nombramiento como ordenanza de la sección telegráfica de Zamora, lo que fecha el traslado de la familia desde Madrid: https://archive.org/details/HeraldoDeZamora_19180618_06659",
+        "La Gaceta de Madrid del 8 de marzo de 1925 lo recoge como portero cuarto del Cuerpo de Porteros de los Ministerios Civiles, repartidor de telegramas en la estación de Zamora: https://www.boe.es/buscar/doc.php?id=BOE-A-1925-2191",
+        "La Gaceta publica sus traslados, a petición propia, a la Sección Administrativa de Primera Enseñanza de Zamora (orden del 9 de junio de 1931) y al Catastro de Rústica (23 de julio de 1934), y su ascenso a portero tercero, con 3.000 pesetas anuales, el 1 de abril de 1932: https://www.boe.es/buscar/doc.php?id=BOE-A-1931-4692 https://www.boe.es/buscar/doc.php?id=BOE-A-1934-6615 https://www.boe.es/buscar/doc.php?id=BOE-A-1932-3304",
+        "El Boletín Oficial del Estado recoge sus ascensos a portero segundo (22 de agosto de 1942), portero primero (6 de febrero de 1947) y portero mayor de tercera (26 de abril de 1948), su jubilación el 1 de junio de 1948, día en que cumplía setenta años, y una pensión de 5.600 pesetas anuales pagadera en Zamora: https://www.boe.es/buscar/doc.php?id=BOE-A-1942-11074 https://www.boe.es/buscar/doc.php?id=BOE-A-1947-11262 https://www.boe.es/buscar/doc.php?id=BOE-A-1948-3551 https://www.boe.es/buscar/doc.php?id=BOE-A-1948-12765 https://www.boe.es/buscar/doc.php?id=BOE-A-1948-9864"
       ]
     },
     {
@@ -2693,7 +2770,8 @@
         }
       ],
       "observations": [
-        "La partida de entierro de su mujer (19-11-1911) lo da por vivo."
+        "La partida de entierro de su mujer (19-11-1911) lo da por vivo.",
+        "El Boletín Oficial de Zamora del 15 de julio de 1898 anuncia la subasta judicial de cinco fincas de Balbina Pérez en Tardobispo (una cuadra y pajar y un corral en la calle de la Fuentica, una viña de mil quinientas cepas en La Barrera y dos tierras) para pagar una deuda del matrimonio con Pedro Villar Domínguez, vecino de Toro: https://archive.org/details/BoletinOficialZamora_18980715"
       ]
     },
     {
@@ -2734,7 +2812,8 @@
       },
       "observations": [
         "La partida de matrimonio la llama viuda de Julián Garrote.",
-        "La partida de entierro dice que de su matrimonio con Enrique Brioso dejó tres hijos: Bernardo, Lorenzo y Julio."
+        "La partida de entierro dice que de su matrimonio con Enrique Brioso dejó tres hijos: Bernardo, Lorenzo y Julio.",
+        "El Boletín Oficial de Zamora del 15 de julio de 1898 anuncia la subasta judicial de cinco fincas de Balbina Pérez en Tardobispo (una cuadra y pajar y un corral en la calle de la Fuentica, una viña de mil quinientas cepas en La Barrera y dos tierras) para pagar una deuda del matrimonio con Pedro Villar Domínguez, vecino de Toro: https://archive.org/details/BoletinOficialZamora_18980715"
       ],
       "burial": {
         "date": "1911-11-19",
@@ -28766,6 +28845,27 @@
       }
     },
     {
+      "id": "nicanor-hijo-de-miguel-calvo-mendez",
+      "name": "Nicanor Calvo Piorno",
+      "givenNames": "Nicanor",
+      "surnames": [
+        "Calvo",
+        "Piorno"
+      ],
+      "father": "miguel-calvo-mendez",
+      "mother": "lucia-piorno-santiago",
+      "birth": {
+        "date": "1899",
+        "place": "Casaseca de las Chanas",
+        "note": "Año deducido de su reemplazo, el de 1920."
+      },
+      "observations": [
+        "El Boletín Oficial de Zamora del 2 de febrero de 1920 lo cita por edicto para el reemplazo del Ejército de ese año, como natural de Casaseca de las Chanas e hijo de Miguel y Lucía, por no haber podido ser citado personalmente: https://archive.org/details/BoletinOficialZamora_19200202",
+        "El Boletín Oficial de Zamora del 27 de agosto de 1920 lo incluye entre los mozos del reemplazo de 1920 declarados prófugos: https://archive.org/details/BoletinOficialZamora_19200827",
+        "Según la tradición familiar, Miguel Calvo y Lucía Piorno emigraron a Buenos Aires y después a Brasil, y al volver a España dejaron en un hospital de allí a uno de sus hijos, muy enfermo, porque su barco estaba a punto de zarpar. La familia cree que ese hijo fue este Nicanor y que por eso sus padres dieron el mismo nombre al hijo que nació en Badalona en 1916."
+      ]
+    },
+    {
       "id": "jesus-calvo-piorno",
       "name": "Jesús Calvo Piorno",
       "givenNames": "Jesús",
@@ -28905,7 +29005,8 @@
         }
       ],
       "observations": [
-        "Su expediente personal de recluso en la Prisión Provincial de Murcia, con papeles de 1939 a 1944, lo dice natural de Madrid, hijo de Bernardo y de Ángeles, vecinos de Zamora, de 28 años en abril de 1939 y de 29 en noviembre, casado con María González Lorenzo y sin hijos, guardia de Asalto destinado en Barcelona en 1936 y teniente durante la guerra. Desde noviembre de 1941 residía en Barcelona. El segundo apellido de su mujer se lee con alguna duda. Se conserva en el Archivo General de la Región de Murcia: https://archivogeneral.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=4297615"
+        "Su expediente personal de recluso en la Prisión Provincial de Murcia, con papeles de 1939 a 1944, lo dice natural de Madrid, hijo de Bernardo y de Ángeles, vecinos de Zamora, de 28 años en abril de 1939 y de 29 en noviembre, casado con María González Lorenzo y sin hijos, guardia de Asalto destinado en Barcelona en 1936 y teniente durante la guerra. Desde noviembre de 1941 residía en Barcelona. El segundo apellido de su mujer se lee con alguna duda. Se conserva en el Archivo General de la Región de Murcia: https://archivogeneral.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=4297615",
+        "La Gaceta de la República del 30 de enero de 1937 lo asciende de cabo a sargento del Cuerpo de Seguridad y Asalto, 15.º Grupo de Barcelona, por su comportamiento en operaciones de guerra, con antigüedad del 28 de agosto de 1936."
       ]
     },
     {
@@ -28928,7 +29029,17 @@
         "de las Heras"
       ],
       "father": "bernardo-brioso-perez",
-      "mother": "angela-de-las-heras-prada"
+      "mother": "angela-de-las-heras-prada",
+      "marriages": [
+        {
+          "date": "1941-05",
+          "place": "Zamora",
+          "note": "Con Joaquín Losada Núñez."
+        }
+      ],
+      "observations": [
+        "Su matrimonio con Joaquín Losada Núñez figura entre las inscripciones del Registro Civil que publicó el Heraldo de Zamora el 10 de mayo de 1941: https://archive.org/details/HeraldoDeZamora_19410510_14175"
+      ]
     },
     {
       "id": "angela-brioso-de-las-heras",
@@ -28939,7 +29050,24 @@
         "de las Heras"
       ],
       "father": "bernardo-brioso-perez",
-      "mother": "angela-de-las-heras-prada"
+      "mother": "angela-de-las-heras-prada",
+      "birth": {
+        "date": "1923",
+        "note": "Año aproximado, por la edad al morir."
+      },
+      "death": {
+        "date": "2019-01-04",
+        "place": "San Ildefonso"
+      },
+      "marriages": [
+        {
+          "note": "Con César López Moreno."
+        }
+      ],
+      "observations": [
+        "El Heraldo de Zamora del 23 de junio de 1942 anuncia la petición de mano de «Angelita Brioso, hija de don Bernardo», para César López Moreno, funcionario de Auxilio Social, con boda prevista para agosto: https://archive.org/details/HeraldoDeZamora_19420623_14504",
+        "Su esquela en El Adelantado de Segovia del 5 de enero de 2019 la llama Ángela Amelia Brioso Heras, viuda de César López Moreno, fallecida en San Ildefonso (Segovia) el 4 de enero a los 95 años: https://archive.org/details/ElAdelantado_Segovia_37617_20190105"
+      ]
     },
     {
       "id": "antonio-fernandez-unzueta",
@@ -28981,7 +29109,10 @@
         "Unzueta"
       ],
       "father": "antonio-fernandez-romero",
-      "mother": "josefa-unzueta-fernandez"
+      "mother": "josefa-unzueta-fernandez",
+      "observations": [
+        "El Boletín Oficial de Zamora del 26 de septiembre de 1917 lo incluye entre los mozos de Villardeciervos declarados prófugos ese año: https://archive.org/details/BoletinOficialZamora_19170926"
+      ]
     },
     {
       "id": "laura-fernandez-unzueta",
