@@ -189,6 +189,33 @@
         "https://archive.org/details/BoletinOficialZamora_19300625",
         "https://archive.org/details/BoletinOficialZamora_18980715"
       ]
+    },
+    {
+      "person": "maria-bragado",
+      "change": "Padres nuevos: Alonso Bragado Prieto y Manuela Esteban Martín (casados el 05-01-1677 en Moraleja del Vino). Nacimiento en noviembre de 1685, bautismo el 05-12-1685 en Villaralbo y matrimonio con Miguel Avedillo Montalvo el 26-05-1715 en Moraleja del Vino.",
+      "evidence": "Perfil G9CV-DT7 del Árbol Familiar de FamilySearch, sin fuentes adjuntas, hallado en el barrido por pueblos del 14-11-2026. Coincide con el árbol en el marido (Miguel Avedillo Montalvo, 1696-1739), los hijos Alonso y Antonio Avedillo Bragado y el entierro del 20-09-1755; su fecha de defunción (19-11-1755) contradice su propio entierro y no se ha usado: el árbol conserva la del 19-09-1755, tomada de la partida.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:G9CV-DT7",
+        "https://www.familysearch.org/ark:/61903/4:1:G3LX-KXT",
+        "https://www.familysearch.org/ark:/61903/4:1:G3LX-P81"
+      ]
+    },
+    {
+      "person": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "change": "Padres: Juan Garrote y Catalina Gabriel, que ya eran antepasados por sus hijos Pedro y Bartolomé Garrote Gabriel. Hermanos nuevos: Santiago (1650), Juan (1659) y Catalina (1662) Garrote Gabriel. Hijos nuevos, hermanos de Domingo Garrote Ortijo: José (1676), Juan (1678-1679), Ana (1680), Pedro (1683), Catalina (1685-1708) y Juan (1690) Garrote Ortijo.",
+      "evidence": "Perfil L5P7-H4Q del Árbol Familiar de FamilySearch, con una fuente: «Domingo Garrote Marriage Record #174», fechada en 1679 (el perfil da la boda el 23-06-1669; no se ha usado ninguna de las dos fechas). La mujer, «Ynés Ortijo Blanco», coincide con Inés Ortijo, hija de Domingo Ortiz y Ana Blanco. Apoyos en el propio árbol: el padrino de Domingo Garrote Ortijo en 1681 fue Bartolomé Garrote, y Catalina Gabriel nombró testamentario a un Domingo Garrote en 1702.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:L5P7-H4Q"
+      ]
+    },
+    {
+      "person": "ines-andres",
+      "change": "Madre nueva: Catalina Luengo, a partir de su partida de bautismo (1659), que ya estaba transcrita en el árbol: «hija de Martín Andrés y de Catª Luenga, su muger». Hermanas nuevas: Mariana y Ana Andrés Luengo.",
+      "evidence": "El perfil L5LK-4JW del Árbol Familiar de FamilySearch dio la pista; el de su padre, L5LK-YH7, nombra a las tres hijas.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/4:1:L5LK-4JW",
+        "https://www.familysearch.org/ark:/61903/4:1:L5LK-YH7"
+      ]
     }
   ],
   "pendingDecisions": [
@@ -281,6 +308,11 @@
         "https://archive.org/details/HeraldoDeZamora_19111102_04740",
         "https://archive.org/details/HeraldoDeZamora_19391205_13760"
       ]
+    },
+    {
+      "person": "catalina-luengo-madre-de-ines-andres",
+      "note": "Puede ser la misma Catalina Luengo que en 1670 era mujer de Juan Ortizo, madre de Martín Ortizo Luengo, y murió en Abelón el 06-06-1707 (catalina-luengo-madre-de-martin-ortizo); ninguna partida lo dice, y se han dejado como dos personas.",
+      "urls": []
     }
   ]
 }

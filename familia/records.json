@@ -12331,7 +12331,15 @@
         "date": "1696-06-03",
         "place": "Moraleja del Vino",
         "transcription": "Migel.\n\nEn tres días del mes de Junio del año de mil seiscientos y nobenta y seis, io el cura de Moraleja baptizé solemnemente un niño, hijo de Pedro Abedillo y de Ysabel Montalbo, sus legítimos padres; llamose Migel; fueron sus padrinos Antonio Abedillo y Josepha Montalbo, a quienes adbertí el parentesco espiritual, y lo firmé. Antº Machargo de Casso."
-      }
+      },
+      "marriages": [
+        {
+          "spouse": "maria-bragado",
+          "date": "1715-05-26",
+          "place": "Moraleja del Vino",
+          "note": "Parroquia de Santa María Magdalena."
+        }
+      ]
     },
     {
       "id": "maria-bragado",
@@ -12341,7 +12349,8 @@
         "Bragado"
       ],
       "birth": {
-        "place": "Villaralbo"
+        "place": "Villaralbo",
+        "date": "1685-11"
       },
       "death": {
         "date": "1755-09-19",
@@ -12352,7 +12361,65 @@
         "place": "Moraleja del Vino",
         "note": "Con el hábito de San Francisco.",
         "transcription": "María Bragado.\n\nEn el Lugar de Moraleja en veinte de Septiembre de mill settezs y cinquenta y cinco, yo el Cura de este Lugar, abiendo recivido los Stos Sacramentos de Penitencia, Eucharistía y extremaunción, di sepultura gradas arriba en la Yglesia de este Lugar a María Bragado viuda de Miguel Abedillo. Hizo testamento ante Antonio Amigo, y en él dispuso enterrarse con el ábito de Sn Franco, asistencia de seis sacerdotes, ocho achas, y cera menuda acostumbrada, y ofrenda de año y día, y a los tres oficios por ofrenda una fanega de trigo, nobenario cantado, las tres misas de indulgencia, y a las obras pías lo acostumbrado, para lo qual tomó por su alma mill y cien reales, y lo restante después de cumplido su testamento que se entrege a sus testamentarios para lo que les tiene comunicado, y por herederos a sus hijos y para que conste lo firmé. Dn Victoriano Zamora."
-      }
+      },
+      "father": "alonso-bragado-padre-de-maria-bragado",
+      "mother": "manuela-esteban-madre-de-maria-bragado",
+      "baptism": {
+        "date": "1685-12-05",
+        "place": "Villaralbo",
+        "note": "Parroquia de Nuestra Señora de la Asunción."
+      },
+      "marriages": [
+        {
+          "spouse": "miguel-avedillo",
+          "date": "1715-05-26",
+          "place": "Moraleja del Vino",
+          "note": "Parroquia de Santa María Magdalena."
+        }
+      ],
+      "observations": [
+        "Su perfil en el Árbol Familiar de FamilySearch, que no cita fuentes, la llama María Bragado Esteban y la da por nacida en noviembre de 1685 y bautizada el 5 de diciembre en Nuestra Señora de la Asunción de Villaralbo, casada el 26 de mayo de 1715 en Santa María Magdalena de Moraleja del Vino con Miguel Avedillo Montalvo, e hija de Alonso Bragado Prieto y Manuela Esteban Martín. Coincide con este árbol en el marido, los hijos Alonso y Antonio y el entierro del 20 de septiembre de 1755: https://www.familysearch.org/ark:/61903/4:1:G9CV-DT7"
+      ]
+    },
+    {
+      "id": "alonso-bragado-padre-de-maria-bragado",
+      "name": "Alonso Bragado Prieto",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Bragado",
+        "Prieto"
+      ],
+      "observations": [
+        "Consta como padre de María Bragado Esteban, casado con Manuela Esteban Martín el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-KXT"
+      ],
+      "marriages": [
+        {
+          "spouse": "manuela-esteban-madre-de-maria-bragado",
+          "date": "1677-01-05",
+          "place": "Moraleja del Vino",
+          "note": "Parroquia de Santa María Magdalena."
+        }
+      ]
+    },
+    {
+      "id": "manuela-esteban-madre-de-maria-bragado",
+      "name": "Manuela Esteban Martín",
+      "givenNames": "Manuela",
+      "surnames": [
+        "Esteban",
+        "Martín"
+      ],
+      "observations": [
+        "Consta como madre de María Bragado Esteban, casada con Alonso Bragado Prieto el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-P81"
+      ],
+      "marriages": [
+        {
+          "spouse": "alonso-bragado-padre-de-maria-bragado",
+          "date": "1677-01-05",
+          "place": "Moraleja del Vino",
+          "note": "Parroquia de Santa María Magdalena."
+        }
+      ]
     },
     {
       "id": "francisco-de-prada",
@@ -21351,6 +21418,60 @@
       ]
     },
     {
+      "id": "catalina-hijo-de-juan-garrote",
+      "name": "Catalina Garrote Gabriel",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Garrote",
+        "Gabriel"
+      ],
+      "father": "juan-garrote",
+      "mother": "catalina-gabriel",
+      "birth": {
+        "date": "1662",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hija de Juan Garrote y Catalina Gabriel, nacida en 1662, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:G75Y-T1V"
+      ]
+    },
+    {
+      "id": "juan-hijo-de-juan-garrote",
+      "name": "Juan Garrote Gabriel",
+      "givenNames": "Juan",
+      "surnames": [
+        "Garrote",
+        "Gabriel"
+      ],
+      "father": "juan-garrote",
+      "mother": "catalina-gabriel",
+      "birth": {
+        "date": "1659",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Juan Garrote y Catalina Gabriel, nacido en 1659, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:GMQL-T5G"
+      ]
+    },
+    {
+      "id": "santiago-hijo-de-juan-garrote",
+      "name": "Santiago Garrote Gabriel",
+      "givenNames": "Santiago",
+      "surnames": [
+        "Garrote",
+        "Gabriel"
+      ],
+      "father": "juan-garrote",
+      "mother": "catalina-gabriel",
+      "birth": {
+        "date": "1650",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Juan Garrote y Catalina Gabriel, nacido en 1650, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:G75Y-BVJ"
+      ]
+    },
+    {
       "id": "maria-blanco-madre-de-antonio-garrote",
       "name": "María Blanco Pascual",
       "givenNames": "María",
@@ -21594,13 +21715,15 @@
         "transcription": "Ynés Andresa. Cumplido. Ojo.\n\nEn el lugar de Abelón, a quatro días del mes de octubre del año de mil setientos y catorce, yo fr. Nicolás Domínguez, Cura theniente de dho lugar, di sepultura eclesiástica en la parroquial dél, hacia el Xpto de atrás, a la mano derecha, a Ynés Andresa, viuda de Bartolomé Garrote, ambos vecinos y naturales de dho lugar, quien recibió los Stos Sacramentos de penitencia, eucaristía. Hizo testamento ante Josephe de Silba, barbero en dho lugar, en treinta de setienbre de dichos mes y año, en que tomó por su ánima veinte y quatro ducados libres; mandó a la memoria de Ánimas de este dho lugar sesenta y seis Rs de vellón para que se impusiesen y rentasen para dhas ánimas. Mandó quatro missas al Snto Xpto de Morales, rezadas; ítem mandó una libra de zera blanca a nuestra señora del Rosario, y otras limosnas a diferentes Sanctos, como de dicho testamento consta. Dejó por sus herederos a Marcos, Juan, Domingo, Alº, Catalina Garrote, sus hijos, y por testamentarios a Miguel Fernando y a Marcos Garrote su hijo, y para que conste lo firmo. fr. Nicolás Domínguez.\n\nRemitió a la colecturía lo que le tocaba. Herrero."
       },
       "observations": [
-        "La partida de entierro la llama viuda de Bartolomé Garrote y dice que testó el 30 de septiembre de 1714 ante José de Silva, barbero; dejó por herederos a sus hijos Marcos, Juan, Domingo, Alonso y Catalina Garrote, y nombró testamentarios a Miguel Fernando y a su hijo Marcos."
+        "La partida de entierro la llama viuda de Bartolomé Garrote y dice que testó el 30 de septiembre de 1714 ante José de Silva, barbero; dejó por herederos a sus hijos Marcos, Juan, Domingo, Alonso y Catalina Garrote, y nombró testamentarios a Miguel Fernando y a su hijo Marcos.",
+        "Su perfil en el Árbol Familiar de FamilySearch, como su partida de bautismo, la hace hija de Martín Andrés y Catalina Luengo: https://www.familysearch.org/ark:/61903/4:1:L5LK-4JW"
       ],
       "baptism": {
         "date": "1659-04-28",
         "place": "Abelón",
         "transcription": "Agnes, hija de Mrn Andrés y Catª Luenga.\n\nEn beynte y ocho de abril de mil y seiscientos y cinquenta y nueve años baptizé yo Juº de [ilegible] y Badano, cura teniente deste dicho lugar, a Agnes, hija de Martín Andrés y de Catª Luenga, su muger; fueron sus padrinos Antón Blanco y María Gorda, muger de Diego Gordo, y por verdad lo firmé dicho día, mes y año. Juan de [ilegible] Badano."
-      }
+      },
+      "mother": "catalina-luengo-madre-de-ines-andres"
     },
     {
       "id": "martin-andres",
@@ -21608,6 +21731,52 @@
       "givenNames": "Martín",
       "surnames": [
         "Andrés"
+      ],
+      "marriages": [
+        {
+          "spouse": "catalina-luengo-madre-de-ines-andres"
+        }
+      ]
+    },
+    {
+      "id": "catalina-luengo-madre-de-ines-andres",
+      "name": "Catalina Luengo",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Luengo"
+      ],
+      "marriages": [
+        {
+          "spouse": "martin-andres"
+        }
+      ]
+    },
+    {
+      "id": "ana-hijo-de-martin-andres",
+      "name": "Ana Andrés Luengo",
+      "givenNames": "Ana",
+      "surnames": [
+        "Andrés",
+        "Luengo"
+      ],
+      "father": "martin-andres",
+      "mother": "catalina-luengo-madre-de-ines-andres",
+      "observations": [
+        "Consta como hija de Martín Andrés y Catalina Luengo en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L5LK-YH7"
+      ]
+    },
+    {
+      "id": "mariana-hijo-de-martin-andres",
+      "name": "Mariana Andrés Luengo",
+      "givenNames": "Mariana",
+      "surnames": [
+        "Andrés",
+        "Luengo"
+      ],
+      "father": "martin-andres",
+      "mother": "catalina-luengo-madre-de-ines-andres",
+      "observations": [
+        "Consta como hija de Martín Andrés y Catalina Luengo en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L5LK-YH7"
       ]
     },
     {
@@ -26111,7 +26280,13 @@
       ],
       "birth": {
         "place": "Abelón"
-      }
+      },
+      "father": "juan-garrote",
+      "mother": "catalina-gabriel",
+      "observations": [
+        "Su perfil en el Árbol Familiar de FamilySearch lo llama Domingo Garrote Gabriel, nacido hacia 1649, hijo de Juan Garrote y Catalina Gabriel, y cita su partida de matrimonio con Inés Ortijo Blanco; da la boda en Abelón el 23 de junio de 1669, aunque la fuente está fechada en 1679: https://www.familysearch.org/ark:/61903/4:1:L5P7-H4Q",
+        "En este árbol, un Bartolomé Garrote apadrinó en 1681 a su hijo Domingo, y Catalina Gabriel nombró testamentario a un Domingo Garrote en 1702."
+      ]
     },
     {
       "id": "ines-ortijo",
@@ -26211,6 +26386,120 @@
         "place": "Abelón",
         "transcription": "En onze de agosto de dicho año, yo el dicho cura theniente baptizé un niño que se llamó Domingo, hijo legítimo de Domingo Garrote y su muger Ynés Ortijua; fue su padrino Barthholomé Garrote, todos vecinos deste lugar, y lo firmé en dicho día. Juº de Barrio."
       }
+    },
+    {
+      "id": "jose-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "José Garrote Ortijo",
+      "givenNames": "José",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1676",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacido en 1676, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L1RS-GRD"
+      ]
+    },
+    {
+      "id": "juan-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "Juan Garrote Ortijo",
+      "givenNames": "Juan",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1678",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacido en 1678, y fallecido en 1679, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L1RS-8JD"
+      ],
+      "death": {
+        "date": "1679"
+      }
+    },
+    {
+      "id": "ana-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "Ana Garrote Ortijo",
+      "givenNames": "Ana",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1680",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hija de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacida en 1680, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L5P7-FMZ"
+      ]
+    },
+    {
+      "id": "pedro-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "Pedro Garrote Ortijo",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1683",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacido en 1683, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:L5GV-W5P"
+      ]
+    },
+    {
+      "id": "catalina-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "Catalina Garrote Ortijo",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1685",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hija de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacida en 1685, y fallecida en 1708, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:GM3F-38B"
+      ],
+      "death": {
+        "date": "1708"
+      }
+    },
+    {
+      "id": "juan-1690-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "name": "Juan Garrote Ortijo",
+      "givenNames": "Juan",
+      "surnames": [
+        "Garrote",
+        "Ortijo"
+      ],
+      "father": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+      "mother": "ines-ortijo",
+      "birth": {
+        "date": "1690",
+        "place": "Abelón"
+      },
+      "observations": [
+        "Consta como hijo de Domingo Garrote Gabriel e Inés Ortijo Blanco, nacido en 1690, en el Árbol Familiar de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:LK6X-H3J"
+      ]
     },
     {
       "id": "domingo-garrote-andres",
