@@ -282,7 +282,8 @@
         }
       ],
       "observations": [
-        "El Heraldo de Zamora publicó la petición de mano de sus hijas Consuelo, para José Unzueta (27 de abril de 1940), y Carmina, para el maestro José A. Fernández (29 de julio de 1941); en la segunda los llama «propietarios conocidos»: https://archive.org/details/HeraldoDeZamora_19400427_13877 https://archive.org/details/HeraldoDeZamora_19410729_14236"
+        "El Heraldo de Zamora publicó la petición de mano de sus hijas Consuelo, para José Unzueta (27 de abril de 1940), y Carmina, para el maestro José A. Fernández (29 de julio de 1941); en la segunda los llama «propietarios conocidos»: https://archive.org/details/HeraldoDeZamora_19400427_13877 https://archive.org/details/HeraldoDeZamora_19410729_14236",
+        "Probablemente fueron hermanos suyos José Blanco Palmero, vecino de Villardeciervos, que figura en 1914 entre los invitados a una boda del pueblo en la misma lista que «don Antonio Blanco Vega y familia» y había muerto ya en febrero de 1935, y Antonio Blanco Palmero, vecino de Santa María de Valverde de 1915 a 1932, probablemente el secretario del ayuntamiento cuya hija Teresa Blanco Junquera se casó en 1932 con Nicanor Gómez Diez; la crónica de la boda nombra entre sus tíos a Antonio Devesa Junquera: https://archive.org/details/HeraldoDeZamora_19140625_05497 https://archive.org/details/BoletinOficialZamora_19350222 https://archive.org/details/BoletinOficialZamora_19151022 https://archive.org/details/HeraldoDeZamora_19320915_11623"
       ]
     },
     {
@@ -417,7 +418,34 @@
         }
       ],
       "observations": [
-        "El Boletín Oficial de Zamora del 6 de septiembre de 1912 lo cita como vecino de Villardeciervos y acreedor en una ejecución de sentencia seguida en el Juzgado de Alcañices contra Cayetano Remesal Folgado: https://archive.org/details/BoletinOficialZamora_19120906"
+        "El Boletín Oficial de Zamora del 6 de septiembre de 1912 lo cita como vecino de Villardeciervos y acreedor en una ejecución de sentencia seguida en el Juzgado de Alcañices contra Cayetano Remesal Folgado: https://archive.org/details/BoletinOficialZamora_19120906",
+        "La matrícula de la contribución industrial publicada en el Boletín Oficial de Zamora del 6 de abril de 1917 lo inscribe en Villardeciervos como prestamista en dinero, con local en la calle Cuesta. Entre 1896 y 1916 pleiteó como acreedor contra vecinos de Valdemerilla, Micereces de Tera, Otero de Bodas, Aguilar de Tera, donde tenía tierras arrendadas, Rionegro del Puente, al que había prestado trigo y dinero, y Tábara: https://archive.org/details/BoletinOficialZamora_19170406 https://archive.org/details/BoletinOficialZamora_18961002 https://archive.org/details/BoletinOficialZamora_19100509 https://archive.org/details/BoletinOficialZamora_19110224 https://archive.org/details/BoletinOficialZamora_19111127 https://archive.org/details/BoletinOficialZamora_19150322 https://archive.org/details/BoletinOficialZamora_19161215",
+        "Figuró en las listas de jurados de la Audiencia de Zamora como cabeza de familia de Villardeciervos de 1894 a 1916, y en 1916 fue vocal suplente de la Junta municipal del Censo electoral por los contribuyentes de inmuebles, cultivo y ganadería: https://archive.org/details/BoletinOficialZamora_19151001 https://archive.org/details/BoletinOficialZamora_19160216",
+        "En 1905 tenía nabales en Valdecintrueño, en el término de Villardeciervos, y en 1906 la Guardia Civil lo denunció por pastoreo abusivo en un monte del Estado: https://archive.org/details/BoletinOficialZamora_19050421 https://archive.org/details/HeraldoDeZamora_19060724_02796",
+        "En 1886-1888 él y su hermano José Blanco Vega, vecinos de Villardeciervos, pidieron al juzgado de Benavente que los declarase herederos de su tío carnal Santiago Vega Ferreras, natural de Villardeciervos, soltero, que había muerto sin testamento en Benavente el 2 de febrero de 1886, a los setenta y cuatro años; también se presentaron como sobrinos carnales los hermanos María, José y Manuela de Vega Pérez: https://archive.org/details/BoletinOficialZamora_18880606 https://archive.org/details/BoletinOficialZamora_18880924",
+        "Vivía aún el 29 de noviembre de 1916, cuando ganó un juicio en Tábara, y figura en la matrícula industrial de 1917. En mayo de 1929 ya había en Villardeciervos tierras de «herederos de Antonio Blanco», probablemente las suyas, y así seguían en la expropiación de 1935, junto a las de «Antonio Devesa» y la «viuda de José Blanco Palmero»: https://archive.org/details/BoletinOficialZamora_19161215 https://archive.org/details/BoletinOficialZamora_19290830 https://archive.org/details/BoletinOficialZamora_19350222"
+      ],
+      "occupations": [
+        {
+          "name": "Prestamista",
+          "date": "1917",
+          "note": "La matrícula de la contribución industrial lo inscribe en Villardeciervos como «prestamista en dinero», con local en la calle Cuesta y la cuota más alta del pueblo, 324 pesetas."
+        }
+      ]
+    },
+    {
+      "id": "jose-hijo-de-alonso-blanco-romero",
+      "name": "José Blanco Vega",
+      "givenNames": "José",
+      "surnames": [
+        "Blanco",
+        "Vega"
+      ],
+      "father": "alonso-blanco-romero",
+      "mother": "catalina-vega-ferreras",
+      "observations": [
+        "Vecino de Villardeciervos; en 1886-1888 pidió con su hermano Antonio Blanco Vega la declaración de herederos de su tío carnal Santiago Vega Ferreras: https://archive.org/details/BoletinOficialZamora_18880924",
+        "Figura como elector de Villardeciervos en las listas de 1888."
       ]
     },
     {
@@ -442,6 +470,9 @@
           "spouse": "antonio-blanco-vega",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Un Pedro Palmero Martínez, «acaudalado propietario» de Morales de Rey, con sus mismos apellidos, casó a su hijo Pedro Palmero Rodríguez en Villardeciervos en junio de 1914, con regalos de «don Antonio Blanco Vega y familia»; puede ser hermano suyo: https://archive.org/details/HeraldoDeZamora_19140625_05497"
       ]
     },
     {
@@ -528,6 +559,17 @@
           "spouse": "josefa-unzueta-fernandez",
           "place": "Villardeciervos"
         }
+      ],
+      "occupations": [
+        {
+          "name": "Soldado",
+          "date": "1882",
+          "note": "Del regimiento de infantería de Saboya n.º 6; estaba con licencia ilimitada en Villardeciervos cuando lo llamaron a incorporarse, en marzo de 1882."
+        }
+      ],
+      "observations": [
+        "El Boletín Oficial de Zamora del 15 de marzo de 1882 lo llama a incorporarse, como soldado del regimiento de infantería de Saboya n.º 6 con licencia ilimitada en Villardeciervos: https://archive.org/details/BoletinOficialZamora_18820315",
+        "Vivía en Villardeciervos a comienzos de 1900: figura con los dos apellidos entre los feligreses que dieron limosna para los damnificados por las inundaciones de la diócesis, en la misma lista que Antonio y Avelino Unzueta (Boletín Eclesiástico del Obispado de Astorga, 4 de abril de 1900): https://archive.org/details/BoletinEclesiasticoObispadoAstorga_19000404"
       ]
     },
     {
@@ -556,7 +598,10 @@
       "baptism": {
         "date": "1868-08-09",
         "place": "Villardeciervos"
-      }
+      },
+      "observations": [
+        "Probablemente es ella la Josefa Unzueta, vecina de Villardeciervos, dueña de tres fincas que se expropiaron para el trozo primero de la carretera de Puente de Tera a Alcañices: figura como «Josefa Zueta» en la lista de 1930 y como Josefa Unzueta en la de marzo de 1935, sin la indicación de herederos o viuda que esa lista pone a los dueños fallecidos: https://archive.org/details/BoletinOficialZamora_19300604 https://archive.org/details/BoletinOficialZamora_19350329"
+      ]
     },
     {
       "id": "francisco-devesa-ramos",
@@ -723,6 +768,33 @@
           "spouse": "alonso-blanco-romero",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Su hermano Santiago Vega Ferreras murió soltero y sin testamento en Benavente el 2 de febrero de 1886. Lo heredaron como sobrinos carnales sus hijos José y Antonio Blanco Vega, lo que indica que ella ya había muerto, junto con María, José y Manuela de Vega Pérez, hijos de otro hermano: https://archive.org/details/BoletinOficialZamora_18880924"
+      ]
+    },
+    {
+      "id": "santiago-hijo-de-pedro-vega-roman",
+      "name": "Santiago Vega Ferreras",
+      "givenNames": "Santiago",
+      "surnames": [
+        "Vega",
+        "Ferreras"
+      ],
+      "father": "pedro-vega-roman",
+      "mother": "manuela-ferreras-santiago",
+      "birth": {
+        "place": "Villardeciervos",
+        "note": "Hacia 1811: tenía setenta y cuatro años al morir."
+      },
+      "death": {
+        "date": "1886-02-02",
+        "place": "Benavente",
+        "note": "Soltero y sin testamento, a los setenta y cuatro años; era vecino de Benavente."
+      },
+      "observations": [
+        "Los edictos del juzgado de Benavente sobre su herencia (1888) lo dicen natural de Villardeciervos y nombran herederos, como sobrinos carnales, a José y Antonio Blanco Vega, hijos de su hermana Catalina, y a María, José y Manuela de Vega Pérez: https://archive.org/details/BoletinOficialZamora_18880606 https://archive.org/details/BoletinOficialZamora_18880924",
+        "Su madre se deduce de sus apellidos y de los de su hermana Catalina; los edictos no nombran a sus padres."
       ]
     },
     {
@@ -1390,6 +1462,10 @@
           "spouse": "manuela-ferreras-santiago",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Su hijo Santiago Vega Ferreras, natural de Villardeciervos, murió soltero en Benavente el 2 de febrero de 1886, a los setenta y cuatro años, de modo que nació hacia 1811; lo heredaron sus sobrinos, hijos de Catalina y de otro hermano Vega: https://archive.org/details/BoletinOficialZamora_18880924",
+        "La ejecutoria de la Real Chancillería de Valladolid de 14 de marzo de 1832, que está digitalizada, resuelve el pleito que siguió con Juan Ferreras Santiago, vecino de Villardeciervos, que el 27 de abril de 1824 había firmado una obligación de pagarle 35.000 reales en la que lo llama «mi Cuñado»; el procurador de Pedro llama a Juan, en 1828, su «hermano político». Juan alegó que lo había firmado con engaño y que Pedro había sido su tutor y curador y tenía en su poder, desde 1807, los bienes que él heredó de sus padres, sin haber rendido cuentas. La Chancillería condenó a Juan a pagar (sentencias de 14 de diciembre de 1830 y 24 de febrero de 1832). Pedro vivía aún en marzo de 1832: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800328"
       ]
     },
     {
@@ -1411,6 +1487,10 @@
           "spouse": "pedro-vega-roman",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Su hijo Santiago Vega Ferreras, natural de Villardeciervos, murió soltero en Benavente el 2 de febrero de 1886, a los setenta y cuatro años, de modo que nació hacia 1811; lo heredaron sus sobrinos, hijos de Catalina y de otro hermano Vega: https://archive.org/details/BoletinOficialZamora_18880924",
+        "Probablemente era hermana de Juan Ferreras Santiago, vecino de Villardeciervos, nacido después de 1799, que en 1824 llamaba «mi Cuñado» a su marido, Pedro de Vega Román, y al que el procurador de este llamaba en 1828 su «hermano político». Según la ejecutoria de su pleito (1832), Pedro había sido tutor y curador de Juan y tenía desde 1807 los bienes que este heredó de sus padres, de modo que los padres de Manuela habrían muerto hacia 1807. La ejecutoria no nombra a Manuela ni a sus padres; Juan estaba casado en 1825 con Dominga Santiago Romero: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800328"
       ]
     },
     {
@@ -2542,7 +2622,10 @@
         "transcription": "Nicanor Calvo, consorte de Marcelina Méndez.\n\nEn Casaseca de las Chanas, Diócesis y Provincia de Zamora, a las cinco de la mañana del día veintidós de Junio de mil ochocientos noventa y tres falleció, según declaración facultativa a consecuencia de tabes dorsal, mi feligrés Nicanor Calvo, después de haber recibido los Santos Sacramentos de Penitencia, Viático y Extremaunción y últimos auxilios espirituales. A la hora competente di sepultura eclesiástica a su cadáver en el cementerio de este Pueblo. Era natural de este, de sesenta y seis años de edad y consorte de Marcelina Méndez. Se dijo por bien de su alma la misa de die obitus con los dos oficios de la guía. Otorgó testamento y en la parte piadosa lo dejó a disposición de su consorte. Y para que conste lo firmo fecha ut supra. Severiano Merino Calvo."
       },
       "observations": [
-        "La partida de matrimonio lo llama viudo de Anastasia Calle."
+        "La partida de matrimonio lo llama viudo de Anastasia Calle.",
+        "El 9 de septiembre de 1888 votó en Casaseca de las Chanas en la elección de diputados provinciales: es el número 3 de la lista de electores que tomaron parte en la sección de Casaseca, publicada en el Boletín Oficial de la Provincia de Zamora del 10 de octubre de 1888; el número 2 es un Miguel Calvo Martín. Como «Nicanor Calvo», en la misma sección, también votó el 17 de diciembre de 1882: https://archive.org/details/BoletinOficialZamora_18881010 https://archive.org/details/BoletinOficialZamora_18830126",
+        "Probablemente es él el Nicanor Calvo, vecino de Casaseca de las Chanas, que pagaba al Estado a plazos una finca rústica procedente del clero, comprada en la desamortización (bienes nacionales, inventario número 221): el cuarto plazo, de 79,06 pesetas, vencía el 13 de febrero de 1882 a nombre de «Nicanor Calvo y otros», y el décimo, el 13 de febrero de 1888, a nombre de «D. Nicanor Calvo»: https://archive.org/details/BoletinOficialZamora_18820213 https://archive.org/details/BoletinOficialZamora_18840208 https://archive.org/details/BoletinOficialZamora_18850204 https://archive.org/details/BoletinOficialZamora_18870126 https://archive.org/details/BoletinOficialZamora_18880206",
+        "Probablemente es él el Nicanor Calvo, vecino de Casaseca de las Chanas, que presentó garbanzos y guisantes en la Exposición de Agricultura y Ganadería de Zamora del 8 al 11 de septiembre de 1859: https://archive.org/details/BoletinOficialZamora_18590930"
       ]
     },
     {
@@ -2859,7 +2942,29 @@
         "place": "Tardobispo",
         "note": "En el cementerio de Tardobispo; funeral de tercera clase.",
         "transcription": "N. 786. 6º. Benito de las Heras Rabanal.\n\nEn el pueblo de Tardobispo, Diócesis de Zamora, Provincia de Zamora, en el día ocho de Junio de mil novecientos veinticuatro, yo, Don José Alejandre Moreno, Cura párroco de la única Yglesia parroquial de este pueblo, mandé dar sepultura eclesiástica en el cementerio de esta parroquia al cadáver de D. Benito de las Heras Rabanal, de sesenta y ocho años de edad, natural de Tardobispo, casado con Da. María Antonia Prada Carretero, e hijo legítimo de D. Francisco de las Heras y de Da. Josefa Rabanal, que falleció, según certificación facultativa, en Tardobispo el día anterior, a las nueve de la mañana, a consecuencia de Hemorragia Cerebral. Recibió los Santos Sacramentos de Penitencia, Viático y Extrema-Unción, que le fueron administrados por el párroco que suscribe. Se ignora haya otorgado testamento. Se le hizo el funeral de tercera clase, siendo testigos D. Francisco Brioso y D. Bernardino [ilegible]"
-      }
+      },
+      "occupations": [
+        {
+          "name": "Concejal",
+          "date": "1902",
+          "note": "Regidor síndico del ayuntamiento de Tardobispo constituido el 1 de enero de 1902; hasta el 15 de enero había sido depositario de los fondos municipales. El extracto de las sesiones lo nombra sin segundo apellido."
+        },
+        {
+          "name": "Agente del resguardo de consumos",
+          "date": "1905",
+          "note": "Nombrado «investigador» por el ayuntamiento de Tardobispo el 7 de enero de 1905; el 28 de enero se designó su casa como fielato."
+        },
+        {
+          "name": "Fiscal municipal suplente",
+          "date": "1907",
+          "note": "De Tardobispo, nombrado en noviembre de 1907."
+        }
+      ],
+      "observations": [
+        "Los extractos de las sesiones del ayuntamiento de Tardobispo lo dan como concejal y regidor síndico desde el 1 de enero de 1902, cuando dejó el cargo de depositario de los fondos municipales, y como agente del resguardo de consumos («investigador») desde el 7 de enero de 1905; el 28 de enero de 1905 su casa se designó fielato, y ese año tenía arrendados los consumos de las especies tarifadas. En noviembre de 1907 fue nombrado fiscal municipal suplente de Tardobispo: https://archive.org/details/BoletinOficialZamora_19030422 https://archive.org/details/BoletinOficialZamora_19050809 https://archive.org/details/BoletinOficialZamora_19070213 https://archive.org/details/BoletinOficialZamora_19071129 https://archive.org/details/HeraldoDeZamora_19071127_03193",
+        "En 1909 era dueño de una tierra de labor en el término de Tardobispo que se expropió para el trozo segundo de la carretera de Zamora a Fermoselle y Ledesma, y en 1931 y 1935 la contribución rústica de Tardobispo seguía a su nombre: https://archive.org/details/BoletinOficialZamora_19091201 https://archive.org/details/BoletinOficialZamora_19310807 https://archive.org/details/BoletinOficialZamora_19350621",
+        "La Junta provincial del Censo electoral lo excluyó del censo de Tardobispo por fallecido, con certificación del Registro Civil, en su sesión del 23 de junio de 1925: https://archive.org/details/BoletinOficialZamora_19250703"
+      ]
     },
     {
       "id": "ma-antonia-prada-carretero",
@@ -2898,7 +3003,10 @@
         "place": "Tardobispo",
         "note": "En el cementerio de Tardobispo; funeral de segunda clase.",
         "transcription": "N. 7. María Antonia Prada Carretero.\n\nEn el pueblo de Tardobispo, Diócesis y Provincia de Zamora, en el día veintitrés de Setiembre de mil novecientos treinta y cinco, yo, Don José Alejandre Moreno, Cura párroco del mismo, mandé dar sepultura eclesiástica en el cementerio de esta parroquia al cadáver de Da. María Antonia Prada Carretero, natural de este pueblo, hija legítima de D. Ángel Prada, natural de Tardobispo, y de Da. Manuela Carretero, natural de Peleas de Arriba, y viuda de D. Benito de las Heras Rabanal, natural de dicho Tardobispo, que falleció en Tardobispo el día anterior, a las nueve de la noche, a los setenta y cuatro años de edad, a consecuencia de Colapso Cardíaco, según certificación facultativa. Recibió los Santos Sacramentos de Penitencia, Viático y Extrema-Unción, que le fueron administrados por el párroco que suscribe. No consta que hiciese testamento. Se le hizo el funeral de segunda clase, siendo testigos D. Ángel Pérez y D. Saturnino Hernández, de esta vecindad. Y para que conste lo firmo, fecha ut supra. José Alejandre Moreno.\n\n«A las diez de la noche del día anterior», tachado, no vale. J. Alejandre."
-      }
+      },
+      "observations": [
+        "Un Marcelino Prada Carretero, de Tardobispo, con sus mismos apellidos, era en 1880-1881 soldado del regimiento de San Quintín condecorado con dos cruces de la campaña de Cuba; puede ser hermano suyo: https://archive.org/details/BoletinOficialZamora_18801015 https://archive.org/details/BoletinOficialZamora_18810803"
+      ]
     },
     {
       "id": "lucas-calvo-alonso",
@@ -3570,7 +3678,8 @@
       ],
       "observations": [
         "Una nota añadida al pie de su partida de bautismo dice que casó y se avecindó en Casaseca de las Chanas.",
-        "Un árbol publicado en Geneanet sitúa su fallecimiento en Madridanos, sin fecha, y le da una hija, Antonia, casada con Cipriano Antonio Hidalgo Arias: https://gw.geneanet.org/josearia?lang=en&n=calvo&p=diego"
+        "Un árbol publicado en Geneanet sitúa su fallecimiento en Madridanos, sin fecha, y le da una hija, Antonia, casada con Cipriano Antonio Hidalgo Arias: https://gw.geneanet.org/josearia?lang=en&n=calvo&p=diego",
+        "Probablemente es él el Diego Calvo, vecino de Casaseca de las Chanas, que en 1794 pleiteó con el presbítero Juan Alonso, vecino de Zamora, por la renta de una tierra que le tenía arrendada, y en 1797 con el monasterio jerónimo de Nuestra Señora de la Victoria de Salamanca por un censo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12766851 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/2582708"
       ]
     },
     {
@@ -3655,7 +3764,8 @@
         }
       ],
       "observations": [
-        "La partida de entierro lo llama casado con Juana Martín, su testamentaria junto con «sus dos únicos hijos», Juan y Miguel."
+        "La partida de entierro lo llama casado con Juana Martín, su testamentaria junto con «sus dos únicos hijos», Juan y Miguel.",
+        "El Archivo de la Real Chancillería de Valladolid conserva un pleito suyo, como Manuel Martín de Prada, con Miguel Gutiérrez, vecinos de Casaseca de las Chanas, sobre el pago de cierta cantidad (1816-1825), y una consulta de 1826 sobre un falso testimonio en otra causa en la que era parte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12769125 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/3901750"
       ]
     },
     {
@@ -4868,7 +4978,8 @@
         "transcription": "En el Lugar de Villalazán, a veinte y nueve de Enero de mil setecientos ochenta y nueve, yo el infrascripto Cura ppº de esta Parroql de Sn Blas di en ella sepultura eccª al cadáver de Pedro Calvo, vecino de este, que falleció aier; recivió los Stos Sacramtos de penitencia y extrema unción, qe no dio más lugar el accidente qe tenía de perlesía y congojas qe le sobrevinieron; tenía hecho testamento pr ante Diego Rodríguez Hospedal, Nº de Zamª, en 6 de Agosto de mil setecientos setenta y tres, en qe manda ser amortajado con el Ábito de Sn Franco y asistan a su entierro cuatro Religiosos de este Convto, y pr todo se les dé doscientos rs; qe se le haga Novenario y cabo de año y ofrenda en la forma regular; qe se le den a los pobres de este Lugar doscientos rs, y a los Capuchinos de Toro ciento; qe se le digan las misas de la Guía y Sn Vicente Ferrer, y qe se den a Dn Josef Boza, Dignidad de Zamª en la Sta Ygª Cathl, y a su hijo Bernardo Calvo dos mil rs pª los fines qe les tiene comunicados en benefº de su alma, a quienes nombra pr sus testamtos, y pª que conste lo firmo. Dn Pascual Covos."
       },
       "observations": [
-        "La partida de entierro dice que había hecho testamento ante Diego Rodríguez Hospedal, notario de Zamora, el 6 de agosto de 1773, y que nombró testamentarios a don José Boza, dignidad de la catedral de Zamora, y a su hijo Bernardo Calvo."
+        "La partida de entierro dice que había hecho testamento ante Diego Rodríguez Hospedal, notario de Zamora, el 6 de agosto de 1773, y que nombró testamentarios a don José Boza, dignidad de la catedral de Zamora, y a su hijo Bernardo Calvo.",
+        "Probablemente es él el Pedro Calvo, labrador y vecino de Villalazán, que siguió un pleito ante la Real Chancillería de Valladolid contra Juan y Manuel Chico, vecinos de Zamora; en 1753 se pidió que el escribano de cámara devolviese el rollo de ese pleito: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12733707"
       ],
       "baptism": {
         "date": "1716-11-28",
@@ -4903,6 +5014,74 @@
         "date": "1720-05-27",
         "place": "Sanzoles",
         "transcription": "María.\n\nEn veinte y siete de Mayo de mil setecientos y veinte, yo el infrascripto Cura ppº de esta Ygª baptizé solemnemte a una niña q se llamó María, hija legítima de Pº Salvador y de su muger María Terón; fueron sus Padrinos Dn Barthe [ilegible] Gallego, Cura ppº de la Vª de Venialbo, y Ynés Martín, vezª asimesmo della, a quienes advertí su obligazn; consta por declaración de sus Padres aver nacido doze días ha; siendo testigos Pº Alonso, Alonso Esteban, Domingo [ilegible], vezs de esta de Sanzoles, en ella dicho día, mes y año ut supª. Dn Antº Crespo."
+      }
+    },
+    {
+      "id": "catalina-hijo-de-pedro-salvador",
+      "name": "Catalina Salvador Terrón",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Salvador",
+        "Terrón"
+      ],
+      "father": "pedro-salvador",
+      "mother": "maria-terron",
+      "observations": [
+        "Consta como hija de Pedro Salvador y María Terrón, sin fechas, en el árbol «delafuma» de Geneanet: https://gw.geneanet.org/delafuma?lang=en&n=salvador+terron&p=catalina"
+      ]
+    },
+    {
+      "id": "isabel-1718-hijo-de-pedro-salvador",
+      "name": "Isabel Salvador Terrón",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Salvador",
+        "Terrón"
+      ],
+      "father": "pedro-salvador",
+      "mother": "maria-terron",
+      "observations": [
+        "Consta como hija de Pedro Salvador y María Terrón, nacida en 1718, en el árbol «delafuma» de Geneanet: https://gw.geneanet.org/delafuma?lang=en&n=salvador+terron&p=isabel"
+      ],
+      "birth": {
+        "date": "1718",
+        "note": "Año que da el árbol «delafuma» de Geneanet."
+      }
+    },
+    {
+      "id": "antonia-hijo-de-pedro-salvador",
+      "name": "Antonia Salvador Terrón",
+      "givenNames": "Antonia",
+      "surnames": [
+        "Salvador",
+        "Terrón"
+      ],
+      "father": "pedro-salvador",
+      "mother": "maria-terron",
+      "observations": [
+        "Consta como hija de Pedro Salvador y María Terrón, nacida en 1716, en el árbol «delafuma» de Geneanet: https://gw.geneanet.org/delafuma?lang=en&n=salvador+terron&p=antonia"
+      ],
+      "birth": {
+        "date": "1716",
+        "note": "Año que da el árbol «delafuma» de Geneanet."
+      }
+    },
+    {
+      "id": "isabel-hijo-de-pedro-salvador",
+      "name": "Isabel Salvador Terrón",
+      "givenNames": "Isabel",
+      "surnames": [
+        "Salvador",
+        "Terrón"
+      ],
+      "father": "pedro-salvador",
+      "mother": "maria-terron",
+      "observations": [
+        "Consta como hija de Pedro Salvador y María Terrón, nacida en 1716, en el árbol «delafuma» de Geneanet: https://gw.geneanet.org/delafuma?lang=en&n=salvador+terron&p=isabel&oc=1"
+      ],
+      "birth": {
+        "date": "1716",
+        "note": "Año que da el árbol «delafuma» de Geneanet."
       }
     },
     {
@@ -6120,7 +6299,8 @@
         "transcription": "Alonso Brioso Cabrero.\n\nEn el día seis de Maio del año de mil y ochocientos cuarenta y tres se enterró en el Cementerio de este lugar de Morales el cadáver de Alonso Brioso, viudo de Ynés Martín, de edad de ochenta y seis años, que murió el día anterior de hidropesía. Recivió los Sacramentos de Penitencia, Viático y Extremaunción. Dejó tres hijos, Bernardo, Baltasar y María; testó, y se le aplicaron las Yndulgencias pro arto. mortis. Se le hizo entierro con misa y oficios con asistencia y en fee de ello lo firmo ut supra. Agustín de la Calle."
       },
       "observations": [
-        "La partida de fallecimiento nombra a sus hijos Bernardo, Baltasar y María."
+        "La partida de fallecimiento nombra a sus hijos Bernardo, Baltasar y María.",
+        "En agosto de 1822 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que siguió, como Alonso Brioso Cabrero, vecino de Morales del Vino, con Francisco Martín, comisionado del ayuntamiento constitucional del pueblo, sobre el pago de cierta cantidad: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5801956"
       ],
       "baptism": {
         "date": "1758-10-21",
@@ -6282,7 +6462,10 @@
         "date": "1764-11-07",
         "place": "Morales del Vino",
         "transcription": "Franco Mena.\n\nEn Siete de Noviembre de Mil Stos y Sesenta y quatro as, yo el ynfrascipto cura thente de este Lugar de Morales Baptizé solemnemte a un Niño que nació el día primero de dicho mes y se llamó Franco, hijo Lexítimo de Franco de Mena e Ynés Román; Nieto por la Paterna de Alonsso de Mena y de Juana Miguel, y por la Materna de Andrés Román e Ynés Herz, Vos todos de dicho Lugr; fueron sus Padrinos Luis de Mena y María Almaraz, a quienes avisé la obligación y expiritual Parentesco al Padrino; testigos Lorenzo Román y Félix de Mena, Vos del referido Lugar, y lo firmé. fr. Joseph Quiroga."
-      }
+      },
+      "observations": [
+        "En agosto de 1830 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que siguió, «como marido de Francisca Martínez Pérez de Luelmo» y vecino de Morales, con Antonio Luelmo, de la misma vecindad, sobre si ciertos bienes eran libres o vinculados: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
+      ]
     },
     {
       "id": "francisca-martin-perez",
@@ -6311,7 +6494,10 @@
         "date": "1769-02-01",
         "place": "Morales del Vino",
         "transcription": "Franca Antª Martín.\n\nEn Primero de febrero de Mil Stos y sesenta y Nuebe as, yo Dn Tirso de Prada, Presvítero, de Lizenzia de Dn Antto Cabrero, Cura Proprio de este Lugar de Morales, Baptizé solemnemte a una Niña que Nació el día Veinte y seis de Enero de dicho año y se llamó Franca Antª, hija Lexítima de Bizente Martín y María Gerónima Pérez; Nieta por la Paterna de Juan Martín, Nl de Pontejos, y Gerónima Martín, Nl de Pereruela y Vos que fueron de Pontejos, y por la Materna de Manl Pérez y Athilana de Luelmo, Nles y Vos de este Lugar; fueron sus Padrinos Santiago Valladolid y Athilana de Luelmo, a quienes avisé la obligación y expiritual Parentesco, y lo firmé. Dn Antto Cabrero. Dn Tirso de Prada."
-      }
+      },
+      "observations": [
+        "La ejecutoria de un pleito de su marido, de agosto de 1830, la llama Francisca Martínez Pérez de Luelmo; el pleito, con Antonio Luelmo, vecino de Morales, era sobre si ciertos bienes eran libres o vinculados. El «de Luelmo» será el apellido de su abuela materna, Atilana Luelmo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
+      ]
     },
     {
       "id": "alonso-santamaria-puertas",
@@ -7287,7 +7473,8 @@
         "transcription": "Bernardo Calbo. Por decir su heredero Pedro Calbo, su hijo, que su Madre le avía hecho un testamento razonable, y ser cierto, lo cumplido. No se presentó el testamento; lo hizo Dn Joseph Rojas.\n\nEn el Lugar de Villa Lazán, a Doce de Septiembre de 1736, se enterró debaxo del Arco de la Capilla Mayor, a la mano yzquierda, Bernardo Calbo, vecino deste lugar, y murió el día once de dho mes y año de mil setecientos y treinta y seis, y digo que se enterró en la parroquial del Sr Sn Blas deste lugar; fue socorrido con el Sto Sacramento de la Penitencia, Comunión y Extrema Unción, y murió contrito, dexando buenas esperanzas de su salbación a los circunstantes; no hizo testamento, porque no dio lugar el accidente, pero dio poder a su lexítima muger María Pérez, dexándolo a su disposición, y por herederos a su hixo Pedro Calbo y a su hixa Jacinta Calbo, casada y vecina de la Villa de Venialbo; y para que más ciertamente constase, fueron testigos del poder que dio a su muger para dho testamento el Señor Dn Alonso Monrroy, Thomás Perañez, Diego Pérez, Franco de Barrios, Joseph Ynés, los que están prontos para manifestar la berdad quando fueren preguntados, y por ser verdad lo firmo, Villalazán y Septiembre 18 de 1736. Frai Andrés Gz Cassielles."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento porque no dio lugar el accidente, pero dio poder a su mujer, María Pérez; fueron herederos su hijo Pedro Calvo y su hija Jacinta Calvo, casada y vecina de Venialbo."
+        "La partida de entierro dice que no hizo testamento porque no dio lugar el accidente, pero dio poder a su mujer, María Pérez; fueron herederos su hijo Pedro Calvo y su hija Jacinta Calvo, casada y vecina de Venialbo.",
+        "Probablemente es él el Bernardo Calvo que, con otros vecinos de Villalazán, pleiteó en 1715-1725 con el alcalde mayor y los escribanos del número de Zamora, por no obedecer sus mandamientos: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/195649"
       ]
     },
     {
@@ -7359,7 +7546,10 @@
         "transcription": "Pedro.\n\nEn la Villa de Sanzoles, a quinze días deel Mes de Nobiembre de mil setecientos y quarenta y nuebe, yo el infrascripto Cura propio de ella di sepultura eclesiástica en el Cuerpo de la Yglesia a Pedro Salvador; recibió los Sanctos Sacramentos, y hizo testamento, en que dejó mandado los tres oficios Mayores, Novenario Cantado, dos años de ofrenda, quatro cientas Misas y otros legados que más por estenso constan deel testamento, y para que conste lo firmo ut supra. Dn Manuel González de Silva."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento."
+        "La partida de entierro dice que hizo testamento.",
+        "Su viuda, María Terrón, lo nombra en un pleito de 1754 ante la Real Chancillería de Valladolid: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12715366",
+        "Probablemente es él el Pedro Salvador, vecino de Sanzoles, al que el concejo de la villa demandó en 1734-1735 para que pagase a Santiago Sánchez, vecino de Bóveda de Toro, la soldada que debía a su hijo; alegó que ya la había pagado ante Nicolás Macías, alcalde ordinario de Sanzoles: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/211913",
+        "El árbol «delafuma» de Geneanet, cuya persona de referencia desciende de Pedro Salvador, lo da por nacido en Sanzoles y casado hacia 1720 con María Terrón, con cuatro hijas: Isabel (1716), Antonia (1716), Isabel (1718) y Catalina. No incluye a María, la antepasada nacida en 1720, ni da los padres de ninguno de los dos: https://gw.geneanet.org/delafuma?lang=en&n=salvador&p=pedro"
       ],
       "baptism": {
         "date": "1679",
@@ -7399,7 +7589,9 @@
         "transcription": "María.\n\nEn la Villa de Sanzoles, a diez y ocho días deel Mes de Nobiembre de mil setecientos y cinquenta y ocho, fray Joseph de Sancta Bárbara, Religioso Mercenario descalzo, conventual en el Convento intitulado de Sancta Bárbara de Mercenarios descalzos de la Villa de Madrid, residente al presente en esta Villa, con licencia mía dio sepultura eclesiástica en el cuerpo de la Yglesia, al lado o cuerno de la Epístola, a María Terrón, viuda de Pedro Salvador; recibió los Sanctos Sacramentos; hizo testamento, en que mandó los oficios Parrochiales según costumbre de esta Villa y otros legados que más latamente constan de dicho testamento, y para que conste lo firmo ut supra. Dn Manuel González de Silva."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento."
+        "La partida de entierro dice que hizo testamento.",
+        "En 1754, ya viuda de Pedro Salvador y vecina de Sanzoles, pleiteó ante la Real Chancillería de Valladolid con Juan Álvarez Macías de Olmedo, regidor perpetuo de Zamora y dueño del despoblado de Santa María del Valle, porque se había apropiado de una tierra suya en ese despoblado, en el pago de Cascajares; en octubre de 1755 la Chancillería le expidió una ejecutoria, probablemente la de ese pleito: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12715366 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5823223",
+        "El árbol «delafuma» de Geneanet, cuya persona de referencia desciende de Pedro Salvador, lo da por nacido en Sanzoles y casado hacia 1720 con María Terrón, con cuatro hijas: Isabel (1716), Antonia (1716), Isabel (1718) y Catalina. No incluye a María, la antepasada nacida en 1720, ni da los padres de ninguno de los dos: https://gw.geneanet.org/delafuma?lang=en&n=salvador&p=pedro"
       ]
     },
     {
@@ -8476,7 +8668,8 @@
         "transcription": "Franco Vallad. Testó. Cumplido.\n\nEn treze de Enero de mil setezos noventa y nuebe, yo Dn Franco de Valdecañas, Presvro, vezº de este lugar de Casca las Chanas, con la lizª necesaria di sepultura eclesiástica en la Parroquial de Sn Juan Bautista de este dho lugar, de arco arriba, al cadáver de Francisco Valladolid, viudo de Ysavel del Campo y vezº qe fue de este lugar; falleció en doze de dho mes, haviendo recivido los Stos Sacramtos y haviendo hecho testamto en onze de dho mes, en el qe dejó por sus únicos herederos a sus dos hijas Antonia y Josefa Valld, y por sus testamentarios a su hijo Fr. Santiago Valld, a Pedro Palacios, de esta vezindad, y a Manl Jambrina, de la de Pontejos, y para qe conste lo firmo. Dn Franco de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento el 11 de enero de 1799; dejó por únicas herederas a sus dos hijas, Antonia y Josefa, y nombró testamentarios a su hijo fray Santiago Valladolid, a Pedro Palacios y a Manuel Jambrina, vecino de Pontejos."
+        "La partida de entierro dice que hizo testamento el 11 de enero de 1799; dejó por únicas herederas a sus dos hijas, Antonia y Josefa, y nombró testamentarios a su hijo fray Santiago Valladolid, a Pedro Palacios y a Manuel Jambrina, vecino de Pontejos.",
+        "El Registro de Ejecutorias de la Real Chancillería de Valladolid guarda la del pleito que siguió, como vecino de Casaseca de las Chanas, con Luis Fernández, vecino de Zamora, sobre la partición de los bienes que dejó Santiago Valladolid (noviembre de 1778): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
       ]
     },
     {
@@ -8841,7 +9034,9 @@
       },
       "observations": [
         "La partida de entierro dice que no hizo testamento porque dijo no tener ya bienes algunos.",
-        "Siendo vecino de Fresnadillo, siguió un pleito de hidalguía ante la Real Chancillería de Valladolid y obtuvo Real Provisión el 31 de octubre de 1735. El pleito recoge su ascendencia hasta su bisabuelo Juan Fierro, de Cármenes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
+        "Siendo vecino de Fresnadillo, siguió un pleito de hidalguía ante la Real Chancillería de Valladolid y obtuvo Real Provisión el 31 de octubre de 1735. El pleito recoge su ascendencia hasta su bisabuelo Juan Fierro, de Cármenes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "El expediente completo de su pleito de hidalguía (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68) está digitalizado y transcrito en FamilySearch. Contiene las partidas de bautismo de su padre (Cármenes, 1678) y de su abuelo (Cármenes, 1642), la boda de sus abuelos (Cármenes, 12 de agosto de 1672), la de sus padres (Malillos, 27 de febrero de 1713), los padrones de hidalgos de Cármenes de 1674, 1680, 1686, 1692, 1698 y 1710 y el informe del abogado: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XLFW https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2XM https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L",
+        "El concejo de Fresnadillo le reconoció el estado de hijodalgo el 15 de septiembre de 1735. Los alcaldes declararon que llevaba unos once meses de vecino, que no había tenido ningún oficio y que sus únicos bienes raíces eran las casas en que vivía, porque las otras posesiones que disfrutaba eran de su padre, Domingo Fierro, y de su suegro, José Blanco: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK31"
       ]
     },
     {
@@ -9765,7 +9960,10 @@
         "date": "1802-04-26",
         "place": "Morales del Vino",
         "transcription": "En el día veinte y seis de Abril del año de mil ochocientos y dos se enterró en la Parroquial de este lugar de Morales el cadáver de Baltasar Brioso que murió el día antecedente: natural y vecino de este mismo lugar y viudo de Catalina Cabrero: hizo testamento: recibió los Sacramentos de Penitencia, viático, y Unción, y se le hizo entierro, oficios, y Novenario: y en fe de ello como Párrocho que soy lo certifico y firmo ut supra. Jose Mariano Barba."
-      }
+      },
+      "observations": [
+        "Probablemente es él el Baltasar Brioso, vecino de Morales del Vino, que en 1786-1787 pleiteó con Francisco García Patón, de Zamora, por el derecho de tanteo en el nuevo foro que el cabildo eclesiástico de San Simón de Zamora había hecho a favor de este sobre unas tierras que hasta entonces labraba Baltasar, y en 1786 con Antonio Montero, vecino de Zamora, por el arrendamiento de cuatro tierras del monasterio de Santa María de Valparaíso, en Peleas de Arriba: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/227485 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13011339"
+      ]
     },
     {
       "id": "esteban-martin",
@@ -9887,7 +10085,8 @@
       "observations": [
         "La partida de entierro dice que hizo testamento; fueron testamentarios Francisco Alonso y su mujer, Catalina Cabrero, y herederos esta y sus hijos Gabriel, Bernardo, Blas, Juan y María; a María le dejó una tierra junto a la ermita de la Cruz, con cargo de una misa cantada cada año el día de San Nicolás de Tolentino.",
         "La partida de bautismo dice que fue su padrino su tío, el licenciado don Custodio Alonso, cura de Morales de Toro.",
-        "La partida de matrimonio dice que sus padres ya habían muerto en 1747; fueron testigos tres canónigos de la catedral de Zamora, entre ellos don Alonso Marqués."
+        "La partida de matrimonio dice que sus padres ya habían muerto en 1747; fueron testigos tres canónigos de la catedral de Zamora, entre ellos don Alonso Marqués.",
+        "Probablemente es él el Nicolás Alonso, vecino de Moraleja del Vino, que en enero de 1774 obtuvo la ejecutoria del pleito que siguió con Alonso Bragado, de la misma vecindad, sobre la pertenencia de una cortina: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5816102"
       ]
     },
     {
@@ -10013,7 +10212,10 @@
         "date": "1792-06-25",
         "place": "Morales del Vino",
         "transcription": "Franco de Mena\n\nEn el día veinte y cinco de Junio de mil setecientos nobenta y dos, yo el infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales, di sepultura eclesiástica en ella a el cadáver de Franco de Mena, nral que fue de este lugar, hijo legítimo de Alonso de Mena y de Ana Miguel, también de Morales; recibió los Santos Sacramentos de la Penitencia, Viático y Extrema Unción; hizo testamento; se le hizo entierro, oficios y nobenario, y en fe de ello lo certifico y firmo ut supra = José María Baraz\n\nTiene cumplido el testamto. Baraz"
-      }
+      },
+      "observations": [
+        "En 1776-1779, como Francisco de Mena Miguel, vecino de Morales del Vino, pleiteó con Atilana Luelmo, viuda, del mismo lugar, que pedía anular la venta de varias tierras que le había hecho alegando que le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953"
+      ]
     },
     {
       "id": "ines-roman",
@@ -10180,7 +10382,10 @@
         "transcription": "Félix.\n\nEn beinte y ocho de Septiembre deeste año de Mil setezientos y quarenta y quatro, yo el infraescripto cura de la Parrochial de Sn Román, con Lizenzia de Dn Manl Frz, cura de Pereruela, Baptizé solemnmte y puse los Stos óleos a un niño que se llamó Félix, hijo lexmo de Félix Ramos y de Manuela Santiago, vos deeste lugr; fueron sus padrinos dho Dn Manl Frz y Theresa Matheos; nació el día beinte de dho mes, y para que conste lo firmé ut supra. Joseph Álbarez Salvr."
       },
       "father": "felix-ramos-padre-de-felix-ramos",
-      "mother": "manuela-santiago"
+      "mother": "manuela-santiago",
+      "observations": [
+        "Probablemente es él el Félix Ramos, vecino de Pereruela, que con Juan Rivera, de la misma vecindad, y el colegio de Nuestra Señora de Guadalupe de Salamanca, de la orden de San Jerónimo, pleiteó con Blas Gonzalo y Alonso Gabriel, vecinos de Gáname y de Abelón, sobre la nulidad o validez de la escritura de arrendamiento de una era; la ejecutoria es de diciembre de 1776. Su padre, del mismo nombre, habría tenido entonces ochenta y seis años: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5813445"
+      ]
     },
     {
       "id": "maria-martin",
@@ -10450,7 +10655,8 @@
         "transcription": "Adulto. Santiago Sánchez. Está cumplido.\n\nEn la Villa del Cubo, a quatro de Setiembre del año de mill setztos y quarenta y nuebe, yo el infra escripto teniente cura di sepultura ecca, al medio de la Ygª, a Santiago Sánchez, vezino de esta Villa; fue socorrido con los Stos Sacramentos; hizo testamento, y para que conste lo firmo en dicho día, mes y año. Fr. Diego de la Visitación."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento."
+        "La partida de entierro dice que hizo testamento.",
+        "Un perfil del Árbol Familiar de FamilySearch, sin fuentes y con años de nacimiento aproximados, da a Santiago Sánchez y María Misol, de El Cubo de Tierra del Vino, otros hijos llamados Bartolomé y Martín Sánchez, sin fechas: https://www.familysearch.org/ark:/61903/4:1:GZ63-BP7 https://www.familysearch.org/ark:/61903/4:1:GZ63-BW6"
       ]
     },
     {
@@ -10494,7 +10700,8 @@
         "transcription": "María. Adulta. Muger de Domingo Borrego. Hizo testamento. Está cumplido.\n\nEn la villa del Cubo, a onze de febrero de mil sietecientos y sesenta y quatro, yo el infraescripto teniente de Cura en dicha villa di sepultura eclesiástica a María Misol, en la Capilla maior, al lado de la epístola, junta la pared; fue socorrida con los Sacramentos de Comn y extrema unción; dexó por su alma los derechos parroquiales, la ofrenda acostumbrada, una missa al Christo de Morales, otra a N. Sra de las Aradas, otra al Sto de su nombre, otra al Ángl de su guarda, otra a Sta Bárbara, otra a Sn Antonio, otra al altar privilegiado desta Yglesia, más honrras y cabo de año, y para que conste lo firmo en dicho día, mes y año ut sup. fr. Atilano de Villanueva."
       },
       "observations": [
-        "La partida de entierro la llama mujer de Domingo Borrego, con quien casó después de enviudar de Santiago Sánchez, y dice que hizo testamento."
+        "La partida de entierro la llama mujer de Domingo Borrego, con quien casó después de enviudar de Santiago Sánchez, y dice que hizo testamento.",
+        "Un perfil del Árbol Familiar de FamilySearch, sin fuentes y con años de nacimiento aproximados, da a Santiago Sánchez y María Misol, de El Cubo de Tierra del Vino, otros hijos llamados Bartolomé y Martín Sánchez, sin fechas: https://www.familysearch.org/ark:/61903/4:1:GZ63-BP7 https://www.familysearch.org/ark:/61903/4:1:GZ63-BW6"
       ]
     },
     {
@@ -11210,7 +11417,10 @@
       "birth": {
         "place": "Villamor de Cadozos",
         "note": "Fecha de nacimiento desconocida."
-      }
+      },
+      "observations": [
+        "El árbol «gsanfru» de Geneanet da a Pedro Prada, nacido en Torrefrades, casado con Inés Delgado y padre de Diego Prada Delgado, nacido en 1729, como este árbol; no da los padres de ninguno de los dos: https://gw.geneanet.org/gsanfru?lang=en&n=prada&p=pedro"
+      ]
     },
     {
       "id": "manuel-sebastian",
@@ -11467,6 +11677,20 @@
       }
     },
     {
+      "id": "bernardo-hijo-de-juan-matos",
+      "name": "Bernardo Matos Ruiz",
+      "givenNames": "Bernardo",
+      "surnames": [
+        "Matos",
+        "Ruiz"
+      ],
+      "father": "juan-matos",
+      "mother": "isabel-ruiz",
+      "observations": [
+        "Consta como hijo de Juan Matos e Isabel Ruiz, sin fechas, en el árbol «carlesfeo» de Geneanet: https://gw.geneanet.org/carlesfeo?lang=en&n=matos+ruiz&p=bernardo"
+      ]
+    },
+    {
       "id": "francisco-bragado",
       "name": "Francisco Bragado Rivero",
       "givenNames": "Francisco",
@@ -11631,7 +11855,8 @@
         "transcription": "Pedro Prada. Cumplido. Cabrero.\n\nEn veinte y uno de Junio de mil settos y sesenta y quatro se enterró en esta Yglessia Pedro Prada. Murió de su muerte natural, recivió todos los Stos Sacramentos, dio poder para su testamento a su ermano el Cura de Sn Marcial. Hízosele entierro, onrras y novenario cdo. Dejó una hija y lo firmé. Dn Antto Cabrero."
       },
       "observations": [
-        "La partida de fallecimiento indica que dio poder para testar a su hermano, cura de San Marcial, y que dejó una hija."
+        "La partida de fallecimiento indica que dio poder para testar a su hermano, cura de San Marcial, y que dejó una hija.",
+        "Probablemente es él el Pedro de Prada, vecino de Morales del Vino, que litigó con Hermenegildo Ruiz, de la misma vecindad, un pleito cuya ejecutoria expidió la Real Chancillería de Valladolid en abril de 1752: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5833293"
       ]
     },
     {
@@ -11751,7 +11976,8 @@
         "transcription": "Año de 1791. Lorenzo Roncero, grada alta. Cumplido.\n\nEn beinte y tres días del mes de Enero de este año de mil setecientos noventa y uno, yo Dn Bernardo Roncero, Cura propio de la Parroquial de este lugar de Tardobispo, di sepultura eclesiástica en ella, de grada alta, a Lorenzo Roncero, conjunto de Micaela Pérez, de esta vecindad; falleció el día beinte y dos de dicho mes; recivió los santos sacramentos de penitencia, viático y extrema unción; otorgó testamento ante Juan Martín, fiel de fechos de este lugar; tomó para bien de su alma mil y seiscientos rs vn, con más dos novenarios de missa cantada con vigilia, y seis missas de indulgencia; todo lo qual, y algunas limosnas, deben salir de dha cantidad, excepto los novenarios; nombró por testamentaria a dha Micaela Pérez su muger, y a mí el infra escrito Párroco; y por berdad lo firmo. Dn Bernardo Roncero."
       },
       "observations": [
-        "La partida de entierro dice que otorgó testamento ante Juan Martín, fiel de fechos, y nombró testamentarios a su mujer, Micaela Pérez, y al párroco."
+        "La partida de entierro dice que otorgó testamento ante Juan Martín, fiel de fechos, y nombró testamentarios a su mujer, Micaela Pérez, y al párroco.",
+        "Probablemente es él el Lorenzo Roncero, vecino de Tardobispo, que en 1757 pleiteó con Lorenzo de la Fuente y Francisco Ribera, vecinos de Pereruela, por los pastos de una dehesa de la catedral de Zamora que llevaba en arriendo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12718901"
       ]
     },
     {
@@ -11764,7 +11990,10 @@
       "birth": {
         "place": "Torrefrades",
         "note": "Nació antes de 1696."
-      }
+      },
+      "observations": [
+        "El árbol «gsanfru» de Geneanet da a Pedro Prada, nacido en Torrefrades, casado con Inés Delgado y padre de Diego Prada Delgado, nacido en 1729, como este árbol; no da los padres de ninguno de los dos: https://gw.geneanet.org/gsanfru?lang=en&n=prada&p=pedro"
+      ]
     },
     {
       "id": "pedro-calvo",
@@ -12054,6 +12283,20 @@
       ]
     },
     {
+      "id": "cecilia-hijo-de-juan-perez-padre-de-emerenciana-perez",
+      "name": "Cecilia Pérez Garzón",
+      "givenNames": "Cecilia",
+      "surnames": [
+        "Pérez",
+        "Garzón"
+      ],
+      "father": "juan-perez-padre-de-emerenciana-perez",
+      "mother": "emerenciana-garzon",
+      "observations": [
+        "Consta como hija de Juan «el Mozo» Pérez y Emerenciana Gascón o Garzón, casada con un Pascual, sin fechas, en el árbol «Alonso Web Site» de MyHeritage: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6BI4ARGTG5VJ45IDEVIRJJG4BQQ-1-3362&action=showRecord"
+      ]
+    },
+    {
       "id": "antonio-ufano",
       "name": "Antonio Ufano de Almancaya",
       "givenNames": "Antonio",
@@ -12184,7 +12427,8 @@
         "transcription": "Ana María Salbador. Cláusula. Cumplido.\n\nEn el Lugar de Moraleja a veinte y seis días del mes de Enero de mill settezos y quarenta y dos años yo el infra escripto Cura deste Lugr di sepultura eclesiástica gradas arriba en la Iglesia deste Lugr, abiendo recivido los Stos sacramentos de Penitencia, Comunión y extrema unción, a Ana María Salbador, la qual hizo testtamento ante el fiel de fhos y en él dispone enterrarse en la sepultura de sus Padres, con el ábito de Sto Domingo, y en el entierro, honrras y cabo de año asistan seis sazerdotes y ardan a los tres ofizios ocho achas, y en ellos se ofrende con media carga de trigo y se digan las tres misas de indulgenzia y se ofrende año y día sobre mi sepultura, y que se diga por mi alma un nobenario cantado con misas, responso y vigilia, y que por mi alma mando se digan quinientas misas, las docientas en Sto Domingo, las ciento en Sn Benito y otras ciento en Sn Gerónimo y ciento en la Iglesia deste Lugr, y mandó otras cien misas rezadas con responso cantado por el ánima de Manuel Alonso y Dn Custodio Alonso, las que en caso de no dezirse en esta Iglesia las dejó a la disposizión de sus testamentarios, que lo fueron Bernardo Alonso y Antonio García, y por herederos al dho Bernardo Alonso y Gerónima Alonso y para que conste lo firmé ut supra. Dn Victoriano Zamora."
       },
       "observations": [
-        "La partida de fallecimiento nombra herederos a Bernardo y Jerónima Alonso."
+        "La partida de fallecimiento nombra herederos a Bernardo y Jerónima Alonso.",
+        "Probablemente es ella la María Salvador que su padre nombra entre sus hijos en un pleito de 1680 ante la Real Chancillería de Valladolid: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324"
       ],
       "baptism": {
         "date": "1668-04-19",
@@ -12382,6 +12626,20 @@
       ]
     },
     {
+      "id": "felipe-hijo-de-alonso-bragado-padre-de-maria-bragado",
+      "name": "Felipe Bragado Esteban",
+      "givenNames": "Felipe",
+      "surnames": [
+        "Bragado",
+        "Esteban"
+      ],
+      "father": "alonso-bragado-padre-de-maria-bragado",
+      "mother": "manuela-esteban-madre-de-maria-bragado",
+      "observations": [
+        "Consta como hijo de Alonso Bragado Prieto y Manuela Esteban Martín, sin fechas, en varios árboles de MyHeritage: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6ZKECGOKDHS7ADRETFVODO22BSA-4-501941&action=showRecord"
+      ]
+    },
+    {
       "id": "alonso-bragado-padre-de-maria-bragado",
       "name": "Alonso Bragado Prieto",
       "givenNames": "Alonso",
@@ -12390,7 +12648,8 @@
         "Prieto"
       ],
       "observations": [
-        "Consta como padre de María Bragado Esteban, casado con Manuela Esteban Martín el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-KXT"
+        "Consta como padre de María Bragado Esteban, casado con Manuela Esteban Martín el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-KXT",
+        "Cuatro árboles de MyHeritage (de Jean-Louis Descomps, Carlos Pena, Alberto Martín y Manuel de Novoa Barrón) tienen a Alonso Bragado Prieto casado con Manuela Esteban Martín, padres de María Bragado Esteban, mujer de Miguel Avedillo Montalvo, y de Felipe Bragado Esteban; ninguno da sus padres: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7LZHLQPSGNSE4FQLVL4JZN3SBUA-1-500038&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7DUXO4TJ3QBN2HGIDBDEZVAM2DY-1-500295&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6ZKECGOKDHS7ADRETFVODO22BSA-4-501941&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7UDLXXN53PJUFTW2V65JXYGQNDY-8-501029&action=showRecord"
       ],
       "marriages": [
         {
@@ -12410,7 +12669,8 @@
         "Martín"
       ],
       "observations": [
-        "Consta como madre de María Bragado Esteban, casada con Alonso Bragado Prieto el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-P81"
+        "Consta como madre de María Bragado Esteban, casada con Alonso Bragado Prieto el 5 de enero de 1677 en Santa María Magdalena de Moraleja del Vino, en un perfil del Árbol Familiar de FamilySearch que no cita fuentes: https://www.familysearch.org/ark:/61903/4:1:G3LX-P81",
+        "Cuatro árboles de MyHeritage (de Jean-Louis Descomps, Carlos Pena, Alberto Martín y Manuel de Novoa Barrón) tienen a Alonso Bragado Prieto casado con Manuela Esteban Martín, padres de María Bragado Esteban, mujer de Miguel Avedillo Montalvo, y de Felipe Bragado Esteban; ninguno da sus padres: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7LZHLQPSGNSE4FQLVL4JZN3SBUA-1-500038&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7DUXO4TJ3QBN2HGIDBDEZVAM2DY-1-500295&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6ZKECGOKDHS7ADRETFVODO22BSA-4-501941&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7UDLXXN53PJUFTW2V65JXYGQNDY-8-501029&action=showRecord"
       ],
       "marriages": [
         {
@@ -13746,7 +14006,8 @@
       "father": "agustin-valladolid",
       "mother": "francisca-franco",
       "observations": [
-        "La partida de matrimonio de su hijo Francisco (1759) lo llama vecino de Pontejos."
+        "La partida de matrimonio de su hijo Francisco (1759) lo llama vecino de Pontejos.",
+        "En noviembre de 1778 su hijo Francisco, vecino de Casaseca de las Chanas, obtuvo la ejecutoria de un pleito sobre la partición de los bienes que dejó Santiago Valladolid, de modo que había muerto antes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
       ],
       "baptism": {
         "date": "1710-07-25",
@@ -14123,10 +14384,28 @@
         "La partida de entierro lo llama viudo de Ana Piorno y nombra herederos a su hijo José Fierro y a cuatro yernos.",
         "La partida de matrimonio de 1713 lo llama viudo de Micaela de Olmedo, vecina que fue de Gáname.",
         "Su nacimiento y sus padres constan en el pleito de hidalguía que su hijo José siguió en 1735 ante la Real Chancillería de Valladolid, que prueba su nobleza con los padrones de Cármenes de 1680, 1686, 1692 y 1698, donde figura como hidalgo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
-        "Su perfil en el árbol de FamilySearch cita ese mismo pleito y lo da por bautizado el 28 de marzo de 1678: https://www.familysearch.org/ark:/61903/4:1:G86H-5LK"
+        "Su perfil en el árbol de FamilySearch cita ese mismo pleito y lo da por bautizado el 28 de marzo de 1678: https://www.familysearch.org/ark:/61903/4:1:G86H-5LK",
+        "El padrón de hidalgos de Cármenes de 1698, copiado en el pleito de su hijo José, lo nombra con su hermano, el licenciado don José Fierro, como «menores que quedaron de domingo fierro su padre y de Toribia diez lobo»: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
+        "Su boda de 1713 en Malillos, copiada en el pleito de su hijo José, la celebró «D. Joseph fierro Castañón, cura propio del lugar de fresnadillo», que también bautizó a un hijo suyo en Gáname en 1714 y que, por el apellido, pudo ser pariente suyo; la madrina fue Josefa de Olmedo, vecina de Gáname: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2QF",
+        "El Catastro de Ensenada de Gáname (1751-1753) le atribuye un molino de una muela, que le rendía tres cargas de centeno al año, y otro a medias con Pascual Lucas, de dos cargas y media, y nombra una cortina suya: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VD93 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VNZ7"
       ],
       "father": "domingo-fierro-padre-de-domingo-fierro",
       "mother": "toribia-diez"
+    },
+    {
+      "id": "jose-hijo-de-domingo-fierro-padre-de-domingo-fierro",
+      "name": "José Fierro Díez",
+      "givenNames": "José",
+      "surnames": [
+        "Fierro",
+        "Díez"
+      ],
+      "father": "domingo-fierro-padre-de-domingo-fierro",
+      "mother": "toribia-diez",
+      "observations": [
+        "El padrón de hidalgos de Cármenes de 1698, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, nombra «al Lizdo. D. Joseph fierro y a Domingo fierro su hermano, menores que quedaron de domingo fierro su padre y de Toribia diez lobo»; era, pues, licenciado: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "domingo-fierro-padre-de-domingo-fierro",
@@ -14150,15 +14429,32 @@
       ],
       "observations": [
         "Vecino de Cármenes e hidalgo en los padrones de 1674, 1680 y 1686, según el pleito de hidalguía de su nieto José Fierro (Real Chancillería de Valladolid, 1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
-        "Su perfil en el árbol de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:P8YQ-R1R"
+        "Su perfil en el árbol de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:P8YQ-R1R",
+        "Según el padrón de hidalgos de Cármenes de 1698, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, ya había muerto entonces: declara «que conocen al Lizdo. D. Joseph fierro y a Domingo fierro su hermano, menores que quedaron de domingo fierro su padre y de Toribia diez lobo», hidalgos de la casa de los Fierros de Cármenes, de la de Nembra, de la de Arintero y del solar de Getino: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
+        "Su partida de bautismo, copiada en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, dice que fue hijo de Juan Fierro Velasco y de Toribia Díez: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK15"
+      ],
+      "mother": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro"
+    },
+    {
+      "id": "juan-hijo-de-juan-fierro",
+      "name": "Juan Fierro Velasco",
+      "givenNames": "Juan",
+      "surnames": [
+        "Fierro",
+        "Velasco"
+      ],
+      "father": "juan-fierro",
+      "observations": [
+        "El padrón de hidalgos de Cármenes de 1680, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, lo llama «Juan fierro Belasco hijo del dicho Juan fierro Belasco y nieto del dicho Alonso fierro»; no nombra a su madre: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K"
       ]
     },
     {
       "id": "toribia-diez",
-      "name": "Toribia Díez",
+      "name": "Toribia Díez Lobo",
       "givenNames": "Toribia",
       "surnames": [
-        "Díez"
+        "Díez",
+        "Lobo"
       ],
       "origins": [
         "Cármenes"
@@ -14172,21 +14468,57 @@
       ],
       "observations": [
         "Consta como mujer de Domingo Fierro y abuela de José Fierro en el pleito de hidalguía de 1735: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
-        "El árbol de FamilySearch la llama Toribia Díez Lobo: https://www.familysearch.org/ark:/61903/4:1:P8YQ-PH4"
+        "El árbol de FamilySearch la llama Toribia Díez Lobo: https://www.familysearch.org/ark:/61903/4:1:P8YQ-PH4",
+        "En el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito se la llama Toribia Díez Lobo, también en la partida de su boda con Domingo Fierro (Cármenes, 12 de agosto de 1672) y en la de bautismo de su hijo Domingo; el padrón de 1698 nombra a sus hijos «el Lizdo. D. Joseph fierro» y Domingo como menores que quedaron de ella y de Domingo Fierro: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2XS https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K"
       ]
     },
     {
       "id": "juan-fierro",
-      "name": "Juan Fierro",
+      "name": "Juan Fierro Velasco",
       "givenNames": "Juan",
       "surnames": [
-        "Fierro"
+        "Fierro",
+        "Velasco"
       ],
       "origins": [
         "Cármenes"
       ],
       "observations": [
-        "Vecino de Cármenes y padre del Domingo Fierro nacido en 1642, según el pleito de hidalguía de su bisnieto José Fierro (1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
+        "Vecino de Cármenes y padre del Domingo Fierro nacido en 1642, según el pleito de hidalguía de su bisnieto José Fierro (1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "En el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, se le llama Juan Fierro Velasco. La partida de bautismo de su hijo Domingo, de mayo de 1642, copiada en él, lo da por marido de Toribia Díez; el padrón de hidalgos de Cármenes de 1680 declara que conocen a «Juan fierro Velasco hijo dalgo notorio» de la casa de los Fierros de Cármenes y del solar de Getino, «y conozieron a Alonso fierro su padre», y nombra a otro hijo suyo, Juan Fierro Velasco; el informe del abogado del pleito lo resume: «fue hijo de Alonso Fierro». Vivía, por tanto, en 1680: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L"
+      ],
+      "father": "alonso-fierro-padre-de-juan-fierro",
+      "marriages": [
+        {
+          "spouse": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro"
+        }
+      ]
+    },
+    {
+      "id": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro",
+      "name": "Toribia Díez",
+      "givenNames": "Toribia",
+      "surnames": [
+        "Díez"
+      ],
+      "marriages": [
+        {
+          "spouse": "juan-fierro"
+        }
+      ],
+      "observations": [
+        "Mujer de Juan Fierro Velasco y madre de Domingo Fierro, bautizado en Cármenes en mayo de 1642, según la partida copiada en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, que la llama «otra Toribia Díez» para distinguirla de su nuera, Toribia Díez Lobo: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK15"
+      ]
+    },
+    {
+      "id": "alonso-fierro-padre-de-juan-fierro",
+      "name": "Alonso Fierro",
+      "givenNames": "Alonso",
+      "surnames": [
+        "Fierro"
+      ],
+      "observations": [
+        "Padre de Juan Fierro Velasco según el padrón de hidalgos de Cármenes de 1680, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito: declara que lo conocieron «por tal hijo dalgo notorio», de modo que ya había muerto entonces. El informe del abogado del pleito lo repite: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L"
       ]
     },
     {
@@ -14252,7 +14584,8 @@
         "transcription": "Joseph.\n\nEn diez y ocho de Marzo de 1684 años el Ldo Juan de Barrio, Cura theniente de Abelón, baptizó y puso los Sanctos Olios a Joseph, hijo legítimo de Franco Blanco y de Catalina Blanca; fueron sus padrinos Germo Falcón y Dª Ana de Villa Real, a quienes advertí el spiritual parentesco; testigos Pedro Piñuel y Esteban Blanco, en fe de lo qual lo firmo. Juº de Barrio."
       },
       "observations": [
-        "La partida de matrimonio de 1712 lo llama viudo de María Crespo."
+        "La partida de matrimonio de 1712 lo llama viudo de María Crespo.",
+        "En 1735 el concejo de Fresnadillo declaró que parte de las posesiones que disfrutaba su yerno, José Fierro, eran suyas: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK31"
       ]
     },
     {
@@ -14895,7 +15228,8 @@
         "transcription": "En nueve de noviembre de mil y setecientos y quarenta y nueve, yo el infraescripto cura teniente en este lugar di sepultura eclesiástica en esta yglesia, junto al altar [ilegible], a Theresa las Eras, viuda; fue socorrida con los santos sacramentos; hizo testamento ante Alonso Luengo; tomó por su alma [ilegible], y que de ellos saliesen los derechos parroquiales; [ilegible] diez ducados [ilegible] a los religiosos de San Francisco de Zamora; [ilegible]; nombró por sus testamentarios a Alonso Luengo y Alonso Garrote; lo demás se puede ver en el testamento; así lo firmo. Joseph Luis Torres."
       },
       "observations": [
-        "La partida de entierro la llama viuda y dice que hizo testamento ante Alonso Luengo y nombró testamentarios a Alonso Luengo y a Alonso Garrote."
+        "La partida de entierro la llama viuda y dice que hizo testamento ante Alonso Luengo y nombró testamentarios a Alonso Luengo y a Alonso Garrote.",
+        "El árbol «mevaste» de Geneanet, cuya persona de referencia desciende de ella, la tiene casada con Domingo Garrote y madre de Francisco Garrote, nacido en 1722; no da sus padres: https://gw.geneanet.org/mevaste?lang=en&n=de+las+heras&p=theresa"
       ]
     },
     {
@@ -16244,7 +16578,8 @@
         "transcription": "Atilana.\n\nEn seis días del mes de nobiembre de mill setecientos y quinze, yo Dn Diº Phe de la Torre, Cura propio deste lugar de Morales, bauticé solemnemente y puse los Santos Óleos a una niña que se llamó Atilana, hixa lexítima de Gerónimo de Luelmo y de Teresa de Arroio; fueron padrinos Manuel Cabrero y Atilana de Mulas, vecinos deste lugar; testigos Dn Marcos Martín, Pedro de Arroio y Joseph de Ledesma, y para que conste lo firmé. Dn Diº Phe de la Torre."
       },
       "observations": [
-        "La partida de matrimonio de 1745 la llama viuda de Alonso Carpintero."
+        "La partida de matrimonio de 1745 la llama viuda de Alonso Carpintero.",
+        "Debe de ser ella la Atilana Luelmo, viuda, vecina de Morales del Vino, que en 1776-1779 pleiteó con Francisco de Mena Miguel, del mismo lugar, sobre la nulidad o validez de la venta de varias tierras que le había hecho, porque se alegaba que la venta le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953"
       ]
     },
     {
@@ -17842,7 +18177,14 @@
         }
       ],
       "father": "bernardo-matos",
-      "mother": "angela-rodriguez"
+      "mother": "angela-rodriguez",
+      "birth": {
+        "place": "El Cubo del Vino",
+        "note": "Lugar que da el árbol «carlesfeo» de Geneanet; no consta la partida."
+      },
+      "observations": [
+        "El árbol «carlesfeo» de Geneanet lo da por nacido en El Cubo de Tierra del Vino y casado con Isabel Ruiz, con un hijo, Bernardo Matos Ruiz; no da sus padres: https://gw.geneanet.org/carlesfeo?lang=en&n=matos&p=juan"
+      ]
     },
     {
       "id": "isabel-ruiz",
@@ -17871,7 +18213,10 @@
         "date": "1717-10-10",
         "place": "Villanueva de Campeán",
         "transcription": "Ysabel Ruiz.\n\nEn el lugar de Villanueva de Campeán, el día diez de octubre de mill setecientos diez y siete, el Br Barme [ilegible], vecino y morador [ilegible], con permiso de mí el infra escrito Cura propio, baptizó solemnemente y puso los santos óleos, con la solemnidad que manda Nra Sta Madre Yglesia, a una niña que se llamó Ysabel, hija lexítima de Sebastián Ruiz y Eufemia Rivero, naturales de Villanueva, sus lexítimos padres; fueron sus padrinos Bernardo Hernández e Ysabel de Huertas, vecinos de Villanueva, a quienes advertí la obligación y espiritual parentesco que de todos contrajo el padrino; fueron testigos Joseph Pachón, Franco de Huertas y Lorenzo Terrero, todos vecinos de este lugar. Nació la criatura el día dos de dicho mes. Fírmelo como Cura propio para que conste ut supra. Vez, entre renglones, vala. Alonso Méndez de Ferrera."
-      }
+      },
+      "observations": [
+        "El árbol «carlesfeo» de Geneanet la tiene casada con Juan Matos y madre de Bernardo Matos Ruiz: https://gw.geneanet.org/carlesfeo?lang=en&n=matos&p=juan"
+      ]
     },
     {
       "id": "pedro-bragado",
@@ -18282,7 +18627,10 @@
         "note": "Entierro el 20 de octubre, año sin precisar.",
         "transcription": "En veinte de Otubre enterré a Emerenciana Garzón muger de Juº Perez, Vºs deste lug.r. [ilegible] los Santos Sacramentos, no hizo testamento y por verdad lo firmé. Manuel Moreno."
       },
-      "father": "domingo-garzon"
+      "father": "domingo-garzon",
+      "observations": [
+        "El árbol «Alonso Web Site» de MyHeritage, de Germán Agustín Alonso, la llama Emerenciana Gascón o Garzón, nacida hacia 1615 en Benegiles, hija de Domingo Gascón o Garzón y mujer de Juan «el Mozo» Pérez, con una hija, Cecilia, casada con un Pascual. Coincide con este árbol en el padre y el marido; el año y el lugar de nacimiento son aproximados y no se citan partidas: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6BI4ARGTG5VJ45IDEVIRJJG4BQQ-1-3362&action=showRecord"
+      ]
     },
     {
       "id": "bartolome-ufano",
@@ -18362,7 +18710,40 @@
         "place": "Moraleja del Vino",
         "note": "Testó el 12 de junio de 1705.",
         "transcription": "Pº Salbador.\n\nEn trece días del mes de Junio del año de 1705, abiendo recibido todos los sacramentos, se enterró en la yglesia deste lugar de Moraleja Pº Salbador. Hiço testamento ante Pedro [ilegible] el día 12 de dicho mes; mandó enterrarse con ábito, asistir a su entierro y onrras [ilegible] sacerdotes, [ilegible] de trigo de ofrenda, un nobenario cantado, [ilegible] y lo firmé. Antº Machargo de Casso."
-      }
+      },
+      "observations": [
+        "En 1680 pleiteó ante la Real Chancillería de Valladolid, «como padre y administrador de sus hijos Manuel, Francisco, Josefa y María Salvador», vecinos de Moraleja del Vino, con el concejo y los vecinos del lugar, para que se les guardasen ciertos privilegios y exenciones concedidos a un antepasado suyo. La María del pleito debe de ser Ana María, que tenía entonces doce años: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324"
+      ]
+    },
+    {
+      "id": "josefa-hijo-de-pedro-salvador-padre-de-ana-maria-salvador",
+      "name": "Josefa Salvador Rodríguez",
+      "givenNames": "Josefa",
+      "surnames": [
+        "Salvador",
+        "Rodríguez"
+      ],
+      "father": "pedro-salvador-padre-de-ana-maria-salvador",
+      "mother": "maria-rodriguez-madre-de-ana-maria-salvador",
+      "observations": [
+        "Nombrada entre los hijos de Pedro Salvador, vecino de Moraleja del Vino, en un pleito de 1680 ante la Real Chancillería de Valladolid: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324",
+        "El pleito no nombra a la madre; se deduce porque Pedro Salvador estaba casado con María Rodríguez desde 1655 y el pleito trata a los hijos como menores. El segundo apellido se deduce del de ella."
+      ]
+    },
+    {
+      "id": "manuel-hijo-de-pedro-salvador-padre-de-ana-maria-salvador",
+      "name": "Manuel Salvador Rodríguez",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Salvador",
+        "Rodríguez"
+      ],
+      "father": "pedro-salvador-padre-de-ana-maria-salvador",
+      "mother": "maria-rodriguez-madre-de-ana-maria-salvador",
+      "observations": [
+        "Nombrado entre los hijos de Pedro Salvador, vecino de Moraleja del Vino, en un pleito de 1680 ante la Real Chancillería de Valladolid: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324",
+        "El pleito no nombra a la madre; se deduce porque Pedro Salvador estaba casado con María Rodríguez desde 1655 y el pleito trata a los hijos como menores. El segundo apellido se deduce del de ella."
+      ]
     },
     {
       "id": "maria-rodriguez-madre-de-ana-maria-salvador",
@@ -19096,6 +19477,9 @@
       "givenNames": "Luis",
       "surnames": [
         "Méndez"
+      ],
+      "observations": [
+        "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185"
       ]
     },
     {
@@ -19104,6 +19488,9 @@
       "givenNames": "María",
       "surnames": [
         "Martín"
+      ],
+      "observations": [
+        "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185"
       ]
     },
     {
@@ -21749,6 +22136,9 @@
         {
           "spouse": "martin-andres"
         }
+      ],
+      "observations": [
+        "Su perfil en el Árbol Familiar de FamilySearch la da por casada con Martín Andrés y madre de Mariana, Ana e Inés Andrés Luengo: https://www.familysearch.org/ark:/61903/4:1:L5LK-R3L"
       ]
     },
     {
@@ -22792,7 +23182,8 @@
         "note": "En sepultura propia en la capilla mayor."
       },
       "observations": [
-        "La partida de fallecimiento nombra a sus hijos Luis, Manuel, Francisco y Cecilia."
+        "La partida de fallecimiento nombra a sus hijos Luis, Manuel, Francisco y Cecilia.",
+        "Probablemente es él, o su hijo del mismo nombre, el Francisco Ramos, vecino de Moraleja del Vino, que en 1709-1710 acusó a Juan Martín, de la misma vecindad, de haber entrado en una tierra suya después de acabado el arrendamiento que habían hecho, y con el que pleiteó Pedro Fernández de la Garrida, arcipreste de la parroquia de San Ildefonso de Zamora, sobre la separación de unos bienes de un concurso de acreedores; esa ejecutoria es de enero de 1721: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/212414 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5825016"
       ]
     },
     {
@@ -23799,7 +24190,10 @@
       ],
       "birth": {
         "place": "Muga de Alba"
-      }
+      },
+      "observations": [
+        "El árbol «montiponti» de Geneanet, cuya persona de referencia desciende de Antonia Rodríguez, la tiene unida a Antonio Peña y madre de Pedro Peña Rodríguez, nacido en 1678, como este árbol; no da los padres de ninguno de los dos: https://gw.geneanet.org/montiponti?lang=en&n=rodriguez&p=antonia"
+      ]
     },
     {
       "id": "antonia-rodriguez",
@@ -23810,7 +24204,10 @@
       ],
       "birth": {
         "place": "Muga de Alba"
-      }
+      },
+      "observations": [
+        "El árbol «montiponti» de Geneanet, cuya persona de referencia desciende de Antonia Rodríguez, la tiene unida a Antonio Peña y madre de Pedro Peña Rodríguez, nacido en 1678, como este árbol; no da los padres de ninguno de los dos: https://gw.geneanet.org/montiponti?lang=en&n=rodriguez&p=antonia"
+      ]
     },
     {
       "id": "pedro-gomez",
@@ -26082,7 +26479,10 @@
         "date": "1732-03-17",
         "place": "Gáname",
         "transcription": "En el lug.r de Ganame a diez y siete días del mes de Marzo de mil setecientos y treinta y dos años, yo Fran.co Vaquero cura de él enterré en la Yglª [ilegible] a Atilano Zurdo Vecº del, marido de Sebastiana [ilegible], falleció en el Convento de Religiosos descalzos de S. Fran.co de Zamora y por certificación de D.n Pedro [ilegible] cura de S. Salvador de dha ciudad me consta haber recibido los S.tos Sacramentos con el de la extremaunción. Hizo su testamento ante Fran.co Prieto y otros testigos Vec.os de este en veinte y uno de febrero de dho año, en que se mandaba enterrar en esta Yglesia con hábito de S. Fran.co y que se gastasen en hacer bien por su Alma doscientos R.s de que saliesen entierro, honrras y dos novenarios Cantados [ilegible] y que se le ofrendase dos años según costumbre, por [ilegible] a su mujer, y por herederos a sus hijos lexítimos y de Sebastiana Maiordomo su primera mujer Joseph, Manuel, Thomás y Michaela; y Domingo Zurdo hijo de la otra Sebastiana su última mujer; por testamentarios a los dhos Joseph y Manuel sus hijos, y para que conste lo firmé. Fran.co Vaquero."
-      }
+      },
+      "observations": [
+        "Dos árboles de MyHeritage («FAMILIA PIORNO FERNANDEZ» y el de Félix Manuel Aparicio Lorenzo) lo tienen casado con Sebastiana Mayordomo y padre de José Zurdo Mayordomo; el segundo lo da por nacido en Gáname en 1670. Ninguno da sus padres: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-260&action=showRecord https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-5-55908&action=showRecord"
+      ]
     },
     {
       "id": "sebastiana-mayordomo",
@@ -26980,7 +27380,10 @@
         "place": "Morales del Vino",
         "note": "Bautizado de socorro por don Juan Cabrero, presbítero, sin que conste el día; el 26 de abril de 1724 recibió los óleos.",
         "transcription": "Manuel Pérez.\n\nEn veinte y seis de Abril deste presente año de mill setecientos y veinte y quatro años, yo Dn Diº Phe de la Torre, Cura propio deste lugar de Morales, puse los santos óleos a un niño que se llamó Manuel, hixo lexítimo y de lexítimo matrimonio de Juan Pérez y de María Carrascal, el qual dicho niño nació el día quince de dicho mes, y estaba baptizado de socorro por Dn Juan Cabrero, presvítero, Capellán de la Misericordia, vecino deste dicho lugar; fueron sus padrinos Alonso Carpintero y Cathalina Ufano, a quienes avisé la obligación que tenían; fueron testigos Juan de Luelmo, Manuel Carrascal y Alonso Pérez, todos vecinos deste dicho lugar, y para que conste lo firmé. Dn Diº Phe de la Torre."
-      }
+      },
+      "observations": [
+        "En 1757-1758 pleiteó, como Manuel Pérez Carrascal, vecino de Morales del Vino, con María de Mena, de la misma vecindad, sobre el reconocimiento de un censo que Ana María León había fundado en favor de una capellanía de la iglesia de San Pedro de Zamora: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/214213"
+      ]
     },
     {
       "id": "isabel-martin-madre-de-juan-perez-martin",
@@ -27721,7 +28124,10 @@
         "date": "1889-11-17",
         "place": "Tardobispo",
         "transcription": "Domingo de las Heras hijo legítimo de Benito y María Antonia Pradas.\n\nEn el día diez y siete de Noviembre de mil ochocientos ochenta y nueve = Yo el infrascripto cura Ecónomo de Tardobispo y sus anejos, bauticé solemnemente y puse los Santos Óleos a un niño que nació el día quince de dicho mes a las tres de su mañana, a quien puse por nombre Domingo, hijo legítimo de Benito de las Heras y María Antonia Pradas, naturales de Tardobispo. Abuelos paternos Franco de las Heras, natural de Abelón, y Josefa Ravanal, natural de Sn Esteban de Zamora; maternos Ángel Pradas, de Tardobispo, y Manuela Carretero, de Peleas de Arriba. Padrinos Domingo Nieto, natural de Fonfría, y María Martín, natural de Frezno de Sayago, a quien advertí sus obligaciones. Testigos Baleriano Pérez y Josefa Ravanal, de esta vecindad. Y para que conste lo firmo fecha ut supra. Agustín Arroyo.\n\nSe casó con Engracia Lozano Rodríguez en esta Parroquia el 3 de Junio de 1912. José Alejandre."
-      }
+      },
+      "observations": [
+        "Fue fiscal municipal de Tardobispo desde el 1 de agosto de 1930 y suplente desde noviembre de 1935, y vocal de la Junta municipal del Censo electoral de Tardobispo por los contribuyentes industriales en 1932-1933: https://archive.org/details/BoletinOficialZamora_19300630 https://archive.org/details/BoletinOficialZamora_19311230 https://archive.org/details/BoletinOficialZamora_19351127"
+      ]
     },
     {
       "id": "engracia-lozano-rodriguez",
@@ -29381,7 +29787,8 @@
       "observations": [
         "El relato familiar considera a Adelina su hermana mayor, lo que no concuerda con las fechas de nacimiento registradas.",
         "Su nieta publicó su biografía en «De Zamora a América. Memoria de la emigración zamorana I» (2007): nació a las siete de la tarde, según el acta n.º 376; salió de Villardeciervos hacia 1910, con unos quince años, y se estableció en Pergamino (Argentina), donde murió.",
-        "Un perfil del árbol de FamilySearch, que no cita partidas, da otras fechas: nacido el 27 de abril de 1898 y fallecido en Buenos Aires el 23 de enero de 1950. Se sigue la biografía, que cita el acta de nacimiento: https://www.familysearch.org/ark:/61903/4:1:PZ4W-9N6"
+        "Un perfil del árbol de FamilySearch, que no cita partidas, da otras fechas: nacido el 27 de abril de 1898 y fallecido en Buenos Aires el 23 de enero de 1950. Se sigue la biografía, que cita el acta de nacimiento: https://www.familysearch.org/ark:/61903/4:1:PZ4W-9N6",
+        "Probablemente es él el «Antonio Fernández Vinzuela», mozo de Villardeciervos del reemplazo de 1916, el de los nacidos en 1895, declarado prófugo ese año, lo que concuerda con su salida hacia América: https://archive.org/details/BoletinOficialZamora_19160918"
       ],
       "death": {
         "date": "1947-01-23",
@@ -30307,7 +30714,8 @@
       "father": "manuel-mendez-de-paz",
       "observations": [
         "Nombrado entre los hijos de Manuel Méndez de Paz en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Probablemente es ella la doña Sebastiana Méndez Maíllo que murió en Zamora el 28 de diciembre de 1923, a los ochenta años, y fue enterrada al día siguiente tras un oficio de difuntos en Santa María de la Horta; su esquela en el Heraldo de Zamora nombra a sus hijos Basilisa, Casimiro, Rafaela, Jerónima, Manuela, Romualdo y Brígida Pérez Méndez: https://archive.org/details/HeraldoDeZamora_19231229_09095"
       ]
     },
     {
@@ -33854,7 +34262,8 @@
         "Garzón"
       ],
       "observations": [
-        "La partida de bautismo de su nieta Emerenciana Pérez Garzón, de quien fue padrino, lo llama abuelo de la niña; por el apellido se le tiene por el padre de Emerenciana Garzón."
+        "La partida de bautismo de su nieta Emerenciana Pérez Garzón, de quien fue padrino, lo llama abuelo de la niña; por el apellido se le tiene por el padre de Emerenciana Garzón.",
+        "El árbol «Alonso Web Site» de MyHeritage también lo tiene por padre de Emerenciana Gascón o Garzón, la mujer de Juan «el Mozo» Pérez: https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6BI4ARGTG5VJ45IDEVIRJJG4BQQ-1-3362&action=showRecord"
       ]
     },
     {
@@ -34414,8 +34823,13 @@
       "mother": "teresa-de-las-heras",
       "observations": [
         "Nombrado entre los cinco hijos y herederos de Domingo Garrote Andrés en su partida de fallecimiento (1724).",
-        "Segundo apellido deducido del de su madre."
-      ]
+        "Segundo apellido deducido del de su madre.",
+        "El árbol «mevaste» de Geneanet lo da por nacido en 1722, hijo de Domingo Garrote y Teresa de las Heras: https://gw.geneanet.org/mevaste?lang=en&n=garrote&oc=1&p=francisco"
+      ],
+      "birth": {
+        "date": "1722",
+        "note": "Año que da el árbol «mevaste» de Geneanet."
+      }
     },
     {
       "id": "manuela-hijo-de-domingo-garrote-andres",
@@ -35761,7 +36175,8 @@
       "mother": "maria-rodriguez-madre-de-ana-maria-salvador",
       "observations": [
         "Figura en una lista de confirmados de Moraleja del Vino como hijo de Pedro Salvador y de María Rodríguez; el nombre de pila, al margen, y la segunda palabra del nombre del padre («Hurtado») se leen con reservas.",
-        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila.",
+        "Su padre lo nombra entre sus hijos en un pleito de 1680 ante la Real Chancillería de Valladolid, lo que confirma la lectura de su nombre en la lista de confirmados: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324"
       ]
     },
     {
@@ -38116,6 +38531,9 @@
           "note": "En segundas nupcias, con D. Juan López Martín, en Tardobispo, según la nota al margen de su partida de bautismo.",
           "transcription": "Se casó en segundas nupcias con D. Juan López Martín, en esta parroquia el día 23 de Noviembre de 1923. J. Alejandre."
         }
+      ],
+      "observations": [
+        "Quizá es ella la Amelia de las Heras Prada que se casó en Zamora a primeros de febrero de 1915 con Constantino Nieto Salgado, según el movimiento del Registro Civil que publicó el Heraldo de Zamora: https://archive.org/details/HeraldoDeZamora_19150210_05686"
       ]
     },
     {
@@ -38169,7 +38587,8 @@
       "observations": [
         "Su matrimonio lo nombra hijo de Benito de las Heras y de María A. Prada, según el índice de los libros parroquiales de Santa Fe en FamilySearch: https://www.familysearch.org/ark:/61903/1:1:QLYN-L7Y9",
         "Figura en una lista de pasajeros llegados a Buenos Aires entre 1901 y 1922. Su hermano Evaristo se había casado en Rosario en 1910.",
-        "Tiene un perfil en el árbol de FamilySearch, que lo da por nacido en octubre de 1892: https://www.familysearch.org/ark:/61903/4:1:GGXZ-TLC"
+        "Tiene un perfil en el árbol de FamilySearch, que lo da por nacido en octubre de 1892: https://www.familysearch.org/ark:/61903/4:1:GGXZ-TLC",
+        "El Boletín Oficial de Zamora del 26 de septiembre de 1917 lo incluye entre los mozos de Tardobispo declarados prófugos ese año: https://archive.org/details/BoletinOficialZamora_19170926"
       ]
     },
     {

@@ -9,7 +9,17 @@
     "Genealogías públicas de FamilySearch por pueblo (Villardeciervos, Casaseca de las Chanas, Tardobispo, Morales del Vino, Gáname, Moraleja del Vino, Malillos y Fadón): sin coincidencias en la línea directa.",
     "Árbol Familiar de FamilySearch por pareja de apellidos, nivel de bisabuelos (Calvo Méndez, Piorno Santiago, Brioso Pérez, de las Heras Prada, Devesa Junquera, Blanco Palmero, Herrero Cuesta; Fernández Unzueta por nombre): hecho el 13-11-2026.",
     "Árbol Familiar de FamilySearch por lugar, con aviso solo cuando da padres que faltan a un ascendiente directo: Villardeciervos (319), Casaseca de las Chanas (146, primera página), Tardobispo (79), Morales del Vino (378, primera página), Gáname (1.499), Abelón (877), Fadón (59), Malillos (245, primera página), Peleas de Arriba (94). El orden de las páginas no es estable y algunas personas se repiten, así que la cobertura no es completa.",
-    "Árbol de Geneanet «pepepont» (unas 3.300 personas; familias catalanas, canarias y casas reales medievales, con un grupo de Villardeciervos: Bobillo, Baladrón, Junquera, Romero, Escudero): ninguna coincidencia segura con este árbol. Árbol «sbengoa»: coincide con la línea Unzueta-Fuldain de Arrasate y Eibar sin añadir generaciones."
+    "Árbol de Geneanet «pepepont» (unas 3.300 personas; familias catalanas, canarias y casas reales medievales, con un grupo de Villardeciervos: Bobillo, Baladrón, Junquera, Romero, Escudero): ninguna coincidencia segura con este árbol. Árbol «sbengoa»: coincide con la línea Unzueta-Fuldain de Arrasate y Eibar sin añadir generaciones.",
+    "Geneanet, búsqueda de todos los árboles por lugar (14-11-2026, con la sesión de la familia): 55 pueblos de la línea directa, cotejados con el árbol por nombre, segundo apellido, cónyuge y año. Coinciden con antepasados directos cinco árboles cuyas páginas no se pueden abrir desde el navegador de trabajo (verificación de Cloudflare): «mevaste» (Teresa de las Heras, Abelón), «gsanfru» (Pedro Prada e Inés Delgado, Torrefrades), «montiponti» (Antonia Rodríguez y Pedro Peña Rodríguez, Muga de Alba), «carlesfeo» (Juan Matos e Isabel Ruiz) y «delafuma» (Pedro Salvador y María Terrón, Sanzoles). En once pueblos con miles de resultados solo se leyeron 15 páginas.",
+    "MyHeritage, árboles familiares (14-11-2026): búsqueda por nombre de 107 de los 113 antepasados directos sin padres conocidos hasta la novena generación (quedan Francisco Macías, Isabel Manzano, María Bartolomé, Ysabela Ormacho Rodríguez, Antonio Bobillo y Catalina Devesa, por el límite diario de la cuenta gratuita). Ningún árbol da padres para ellos.",
+    "FamilySearch, Árbol Familiar por lugar (14-11-2026): 62 pueblos leídos completos o hasta el final de lo que el buscador devuelve, y búsquedas por apellido en Fuentesaúco, Cármenes, Bermillo de Sayago, San Marcial y Carrascal. Dio los padres de María Bragado y de Domingo Garrote (aplicados) y confirmó muchos enlaces ya conocidos de Abelón; ningún otro antepasado directo sin padres tiene perfil con padres.",
+    "PARES, listas por pueblo guardadas el 13-11-2026 (Villardeciervos, Casaseca de las Chanas y Tardobispo): cotejadas el 14-11-2026; de la de Villardeciervos solo se guardaron 50 de 77 asientos por un fallo de paginación.",
+    "PARES, listas completas de resultados por pueblo para los 71 pueblos de la línea directa (búsqueda por el nombre del pueblo; 13 y 14-11-2026), cotejadas el 14-11-2026 con los antepasados directos por nombre, apellidos, cónyuge, pueblo y época. Los pleitos civiles no están digitalizados; las ejecutorias sí.",
+    "Prensa del Internet Archive (Boletín Oficial de Zamora 1834-1936 y Heraldo de Zamora 1896-1942) para Nicanor Calvo Martín y Marcelina Méndez Maíllo: barrido completo el 14-11-2026; de Marcelina no hay ninguna mención.",
+    "FamilySearch, Árbol Familiar por pueblos: completados el 14-11-2026 Casaseca de Campeán (110), El Cubo de Tierra del Vino (289), Mansilla de las Mulas (449), Sobradillo de Palomares (64), Fuente el Carnero (38) y Valdemerilla (18); Villaescusa, 1.000 de 2.376 y la búsqueda con los apellidos Durán y Vivas. Solo coinciden cuatro antepasados de El Cubo que ya tenían padres; sus perfiles no dan padres.",
+    "MyHeritage, árboles: buscados los 113 antepasados directos sin padres hasta la novena generación; los seis últimos (Francisco Macías, Isabel Manzano, María Bartolomé, Ysabela Ormacho Rodríguez, Antonio Bobillo y Catalina Devesa), el 14-11-2026, sin coincidencias.",
+    "MyHeritage, árboles, décima generación: 53 de los 188 antepasados directos sin padres buscados el 14-11-2026, hasta Marcos Vega, cuando se alcanzó el límite diario de la cuenta gratuita; faltan 135 de esa generación y 288 de las generaciones 11 a 13.",
+    "Geneanet, búsqueda por pueblo: el 14-11-2026 se leyeron las páginas que faltaban de Malillos (1.805 resultados), Peleas de Arriba (3.266), Torregamones (789), Roales (1.302), Fuentesaúco (2.541), Carrascal (1.435), San Marcial (3.345), Morales de Toro (998), Salce (1.992) y Madridanos (1.191), sin coincidencias nuevas con la línea directa. Toro devuelve 54.469 resultados, porque el nombre coincide con muchos otros lugares, y solo se leyeron unos 3.000, más el apellido Sariñana en todo Geneanet (420), también sin coincidencias. El buscador no admite combinar apellido y pueblo."
   ],
   "applied": [
     {
@@ -216,14 +226,113 @@
         "https://www.familysearch.org/ark:/61903/4:1:L5LK-4JW",
         "https://www.familysearch.org/ark:/61903/4:1:L5LK-YH7"
       ]
+    },
+    {
+      "person": "luis-mendez-padre-de-juan-mendez",
+      "change": "Observaciones con enlace a PARES en Luis Méndez y María Martín (ejecutoria de 1630 que los nombra como matrimonio vecino de Casaseca), Francisco Valladolid Carbajal y Santiago Valladolid Franco (partición de los bienes de Santiago, 1778), Manuel Martín Prada (pleitos de 1816-1825 y 1826) y, como probables, Diego Calvo (1794 y 1797) y Lorenzo Roncero (1757).",
+      "evidence": "Cotejo, el 14-11-2026, de las listas de resultados de PARES guardadas el 13-11-2026 para Villardeciervos (50 de 77 asientos), Casaseca de las Chanas (140) y Tardobispo (27) con los antepasados directos de cada pueblo, por nombre, apellidos y época. Descartados por segundo apellido o pueblo distintos: Bernardo Alonso «de Casaseca» (1741-1745; el antepasado vivía en Moraleja del Vino), Manuel Hernández Maíllo (1794-1806) y Alonso Santiago Junquera (1818-1824).",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12769125",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12766851",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12718901"
+      ]
+    },
+    {
+      "person": "pedro-salvador-padre-de-ana-maria-salvador",
+      "change": "PARES, todos los pueblos de la línea directa: observaciones con enlace en María Terrón y Pedro Salvador (Sanzoles; pleito de 1754 y ejecutoria de 1755), Manuel Pérez Carrascal (1757-1758), Atilana Luelmo y Francisco de Mena Miguel (1776-1779), Alonso Brioso Cabrero (1822) y Pedro Salvador de Moraleja del Vino (1680), que nombra a sus hijos Manuel, Francisco, Josefa y María; se añaden Manuel y Josefa como hermanos de Ana María Salvador. Como probables: Pedro Salvador de Sanzoles (1734-1735), Baltasar Brioso (1786), Nicolás Alonso (1774), Pedro de Prada (1752), Félix Ramos (1776), Francisco Ramos (1709-1721), Pedro Calvo (1753) y Bernardo Calvo (1715-1725).",
+      "evidence": "Listas completas de resultados de PARES por pueblo (búsqueda por el nombre del pueblo), guardadas el 14-11-2026 y cotejadas con los antepasados directos por nombre, apellidos, cónyuge, pueblo y época.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12715366",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5823223",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/214213",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5801956"
+      ]
+    },
+    {
+      "person": "nicanor-calvo-martin",
+      "change": "Prensa digitalizada (Boletín Oficial de Zamora): Nicanor Calvo Martín votó en Casaseca de las Chanas en 1888 (con los dos apellidos) y en 1882; como probables, sin segundo apellido, los plazos de una finca de bienes nacionales (1882-1888) y la exposición agrícola de 1859. Su cuñada Sebastiana Méndez Maíllo murió probablemente en Zamora el 28-12-1923 (Heraldo de Zamora).",
+      "evidence": "Barrido del texto completo del Internet Archive (Boletín Oficial de Zamora hasta 1936 y Heraldo de Zamora hasta 1942) con variantes de los nombres; cada hallazgo releído sobre la imagen de la página por el lector y cotejado con el texto OCR el 14-11-2026.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18881010",
+        "https://archive.org/details/BoletinOficialZamora_18830126",
+        "https://archive.org/details/BoletinOficialZamora_18880206",
+        "https://archive.org/details/BoletinOficialZamora_18590930",
+        "https://archive.org/details/HeraldoDeZamora_19231229_09095"
+      ]
+    },
+    {
+      "person": "benito-de-las-heras-rabanal",
+      "change": "Prensa digitalizada: Benito de las Heras Rabanal, concejal y regidor síndico de Tardobispo (1902), agente de consumos (1905) y fiscal municipal suplente (1907), excluido del censo por fallecido en 1925; Antonio Fernández Romero, soldado del regimiento de Saboya en 1882 y vivo en Villardeciervos en 1900; como probables, las fincas expropiadas de Josefa Unzueta (1930-1935). Hermanos: Domingo de las Heras Prada (fiscal municipal, 1930-1935), Eleuterio (prófugo, 1917), Amelia (posible boda en Zamora, 1915) y Antonio Fernández Unzueta (prófugo, 1916); Marcelino Prada Carretero, posible hermano de Mª Antonia.",
+      "evidence": "Barrido del texto completo del Internet Archive (Boletín Oficial de Zamora, Heraldo de Zamora y Boletín Eclesiástico de Astorga) con variantes de los nombres; las citas clave, releídas sobre la imagen de la página por el lector, y los 21 números citados comprobados en el catálogo del Internet Archive el 14-11-2026.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19071129",
+        "https://archive.org/details/BoletinOficialZamora_19250703",
+        "https://archive.org/details/BoletinOficialZamora_18820315",
+        "https://archive.org/details/BoletinEclesiasticoObispadoAstorga_19000404"
+      ]
+    },
+    {
+      "person": "antonio-blanco-vega",
+      "change": "Prensa digitalizada: Antonio Blanco Vega, prestamista en dinero (contribución industrial de 1917), acreedor en pleitos de 1896 a 1916, jurado y vocal de la Junta del Censo (1916), vivo en noviembre de 1916 y probablemente muerto antes de mayo de 1929. Los edictos de Benavente de 1888 dan a su tío carnal Santiago Vega Ferreras (muerto en Benavente el 02-02-1886, a los 74 años), que se añade como hermano de Catalina Vega Ferreras, y a su hermano José Blanco Vega, que se añade. Como probables, José y Antonio Blanco Palmero, hermanos de Petra Blanco Palmero, en una observación.",
+      "evidence": "Barrido del texto completo del Internet Archive (Boletín Oficial de Zamora y Heraldo de Zamora); citas releídas sobre la imagen por el lector y los edictos de 1888 y la matrícula de 1917 cotejados con el texto OCR el 14-11-2026.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18880924",
+        "https://archive.org/details/BoletinOficialZamora_19170406"
+      ]
+    },
+    {
+      "person": "pedro-salvador",
+      "change": "Las cinco páginas de árboles de Geneanet que la familia copió el 14-11-2026 (mevaste, gsanfru, montiponti, carlesfeo y delafuma) coinciden con el árbol y no dan padres. Se añaden hermanos de la línea directa: Isabel (1716), Antonia (1716), Isabel (1718) y Catalina Salvador Terrón; Bernardo Matos Ruiz; el año 1722 de Francisco Garrote de las Heras y el lugar de nacimiento de Juan Matos. Cada ficha lleva una observación con el enlace.",
+      "evidence": "Páginas copiadas por la familia desde su navegador, porque las de cada árbol piden una verificación humana en el navegador de trabajo.",
+      "urls": [
+        "https://gw.geneanet.org/mevaste?lang=en&n=de+las+heras&p=theresa",
+        "https://gw.geneanet.org/gsanfru?lang=en&n=prada&p=pedro",
+        "https://gw.geneanet.org/montiponti?lang=en&n=rodriguez&p=antonia",
+        "https://gw.geneanet.org/carlesfeo?lang=en&n=matos&p=juan",
+        "https://gw.geneanet.org/delafuma?lang=en&n=salvador&p=pedro"
+      ]
+    },
+    {
+      "person": "emerenciana-garzon",
+      "change": "MyHeritage, árboles, décima generación (53 de 188 antepasados directos sin padres): coincidencias para Emerenciana Garzón (otro árbol también le da por padre a Domingo Garzón), Alonso Bragado Prieto y Manuela Esteban Martín, y Atilano Zurdo; ninguna da padres nuevos. Se añaden Cecilia Pérez Garzón y Felipe Bragado Esteban como hermanos de la línea directa.",
+      "evidence": "Búsqueda por nombre en los árboles de MyHeritage con la sesión de la familia, puntuando cónyuge, hijos, padres, segundo apellido y año, el 14-11-2026.",
+      "urls": [
+        "https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV6BI4ARGTG5VJ45IDEVIRJJG4BQQ-1-3362&action=showRecord",
+        "https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7LZHLQPSGNSE4FQLVL4JZN3SBUA-1-500038&action=showRecord",
+        "https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-5-55908&action=showRecord"
+      ]
+    },
+    {
+      "person": "juan-fierro",
+      "change": "El pleito de hidalguía de José Fierro (1735), digitalizado y transcrito en FamilySearch y cotejado con las imágenes en los pasajes clave: Juan Fierro pasa a Juan Fierro Velasco, hijo de Alonso Fierro (ficha nueva) y marido de Toribia Díez (ficha nueva), madre de Domingo Fierro (1642); la mujer de este pasa a Toribia Díez Lobo. Hermanos nuevos: Juan Fierro Velasco, hijo de Juan, y el licenciado José Fierro Díez, hermano de Domingo Fierro (1678). Domingo Fierro (1642) había muerto en 1698. Del Catastro de Ensenada de Gáname (1752), dos molinos de Domingo Fierro (1678).",
+      "evidence": "FamilySearch, búsqueda de texto completo (colección «Spain, Archidiócesis de Valladolid, Biographies, 1439-1843», película 004137093, «Pleitos de hidalguía»), con la sesión de la familia; los pasajes de Alonso Fierro (padrón de 1680), de los hermanos menores (padrón de 1698) y la boda de 1713 se leyeron en la imagen el 14-11-2026.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XLFW"
+      ]
+    },
+    {
+      "person": "pedro-vega-roman",
+      "change": "PARES 5800328 (ejecutoria de 1832): Pedro de Vega Román fue tutor y curador de su cuñado Juan Ferreras Santiago, que heredó de sus padres antes de 1807; Manuela Ferreras Santiago sería hermana de Juan. Observaciones en Pedro y en Manuela.",
+      "evidence": "Lectura completa de las 13 imágenes por un lector y comprobación independiente de las 15 afirmaciones por otro, que las confirmó todas (14-11-2026). La palabra «Cuñado» está en la obligación que Juan dijo haber firmado con engaño; «hermano político», en la demanda del procurador de Pedro.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800328"
+      ]
     }
   ],
   "pendingDecisions": [
     {
       "person": "jose-fierro-de-las-infantas",
-      "question": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada.",
+      "question": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada. El expediente completo del pleito (FamilySearch) copia la partida de bautismo que presentó el propio José, certificada por el cura de Gáname el 31-05-1735: nacido el 14 de mayo de 1715, bautizado de necesidad en casa el 15 y con los óleos el 28, padrino don Antonio de las Infantas, madrina Josefa Olmedo. La partida fotografiada de 1714 sería de un primer José, hijo de los mismos padres, que probablemente murió niño.",
       "urls": [
-        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255"
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK9Z"
       ]
     },
     {
@@ -232,13 +341,29 @@
       "urls": [
         "https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
       ]
+    },
+    {
+      "person": "alonso-fierro-padre-de-juan-fierro",
+      "question": "Juan Fierro Velasco era hijo de un Alonso Fierro (padrón de Cármenes de 1680, en el pleito de 1735). Las pruebas de Santiago de Alonso Fierro Castañón (1681, AHN Santiago exp. 3063, transcritas en FamilySearch) dan a Luis Fierro de Velasco, natural de Cármenes, como hijo de Alonso Fierro, natural de Cármenes, y de Inés de Velasco, natural de Villanueva de Pontedo. Por el segundo apellido, el nombre del padre, el pueblo y la época, Juan sería hermano de Luis e hijo de Inés de Velasco, pero ningún texto lo dice. Pendiente de la familia: enlazar a Inés de Velasco como madre de Juan.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K"
+      ]
     }
   ],
   "discarded": [
     "Juan Junquera Martínez (nacido hacia 1821 en Villardeciervos, hijo de Pedro Junquera y María Martínez): no es hermano de Josefa Junquera Martínez, hija de Antonio Junquera Bobo.",
     "Los Devesa Blanco de FamilySearch son gallegos (Palas de Rei, Vilardevós).",
     "En «josearia»: Joseph y Juan Martín-Rodríguez Hernández y Miguel Sánchez García (casado en 1760) son homónimos de otras localidades y épocas.",
-    "Miguel Calvo Méndez del árbol de FamilySearch (LTDL-MS1): es hijo de una Marina Calvo Méndez nacida en 1923, no el bisabuelo."
+    "Miguel Calvo Méndez del árbol de FamilySearch (LTDL-MS1): es hijo de una Marina Calvo Méndez nacida en 1923, no el bisabuelo.",
+    "PARES 12740755 (1732-1736): Andrés Terrón, marido de Rosa Prieto, Sanzoles: el antepasado Andrés Terrón de la Iglesia murió en 1709 y estaba casado con Isabel Martín Delgado.",
+    "PARES 12805775 (1735-1737): Manuel de Montalvo, vecino de Arcenillas: Manuel Montalvo Martín fue enterrado en Moraleja del Vino en 1707.",
+    "PARES 214628 (1766-1769): Francisco Pérez Alonso, de Villardondiego: el antepasado del mismo nombre murió en Casaseca de las Chanas en 1756.",
+    "PARES 211544, 227496 y 215452 (1787-1788): Alonso Brioso Pinto, abad de una cofradía de Morales del Vino: segundo apellido distinto del de Alonso Brioso Cabrero.",
+    "PARES 12991946 (1767-1774): partición de los bienes de María Marqués Herrero, Morales del Vino: segundo apellido distinto de los de las dos María Marqués de la línea.",
+    "PARES 195048 (1796-1797): Manuel Pérez, Morales del Vino: Manuel Pérez Carrascal murió en 1760.",
+    "PARES 211174 (1823): Manuel Martín, de Morales del Vino, que pide volver a ser alcalde: Manuel Martín de Prada era vecino de Casaseca de las Chanas en 1816-1826 y el nombre es muy común.",
+    "PARES 12741237 (1733-1734): Manuel Hernández, marido de Isabel de Valladolid, Casaseca de las Chanas: Manuel Hernández Crespo murió en 1713; podría ser su hijo Manuel, pero el nombre es muy común y no se ha buscado más."
   ],
   "leads": [
     {
@@ -313,6 +438,96 @@
       "person": "catalina-luengo-madre-de-ines-andres",
       "note": "Puede ser la misma Catalina Luengo que en 1670 era mujer de Juan Ortizo, madre de Martín Ortizo Luengo, y murió en Abelón el 06-06-1707 (catalina-luengo-madre-de-martin-ortizo); ninguna partida lo dice, y se han dejado como dos personas.",
       "urls": []
+    },
+    {
+      "person": "francisco-terron-padre-de-francisco-terron",
+      "note": "MyHeritage, árbol «Cordero Web Site» de Antonio Javier José Cordero: Francisco Terrón Mateos, hijo de Francisco Terrón y Catalina Mateos, casado con María Díaz, con hijos María, Francisco, María y Juan Terrón Díaz. Coinciden dos hijos, pero la mujer se llama María y no Isabel Díaz: no se enlaza.",
+      "urls": [
+        "https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7TAVAHBXEZWDOR55UYXQB4K5Z6Y-2-511246&action=showRecord"
+      ]
+    },
+    {
+      "person": "manuel-devesa-romero",
+      "note": "MyHeritage, árboles «regarranz» (Maria Gomez) y «Pont Sarmiento Seba Monferrer»: Juan Devesa Bobillo, casado con María Romero Rodríguez, con hijos Antonia (1807), Teresa (02-09-1809 a 22-06-1854, casada con Alonso Romero Romero) y Francisco Devesa Romero (1812), sin ningún Manuel. «Regarranz» casa también a una María Romero Rodríguez con Tirso Romero Santiago, como este árbol. La venta de 1844 de «Juan Devesa y María Romero, vecinos de Santa Eulalia» encaja con esta pareja. Si Manuel fuera hijo suyo, habría nacido hacia 1800 y no hacia 1784; nada lo dice.",
+      "urls": []
+    },
+    {
+      "person": "lorenzo-tuda",
+      "note": "MyHeritage, árbol «Salgado Web Site» de María Jesús Salgado: Lorenzo Tuda, nacido en Malillos, casado con Isabel Fernández, con una hija Antonia; no da sus padres.",
+      "urls": [
+        "https://www.myheritage.es/research/collection-1/myheritage-family-trees?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-295&action=showRecord"
+      ]
+    },
+    {
+      "person": "maria-baladron",
+      "note": "PARES 535536 (1788-1791): la justicia de Villardeciervos procesó a Pedro Baladrón, arriero, y a su hermana María Baladrón, hilandera, como cómplices en la muerte de Catalina Blanco. Podría ser la antepasada, casada con Joaquín Junquera, pero no constan su edad ni sus padres; habría que ver en su partida de matrimonio o de bautismo si tuvo un hermano Pedro.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/535536"
+      ]
+    },
+    {
+      "person": "nicanor-calvo-martin",
+      "note": "Posibles hijos de Nicanor Calvo Martín y Marcelina Méndez Maíllo, solo por el par de apellidos y el pueblo: Abelardo Calvo Méndez, elegido concejal de Casaseca de las Chanas el 09-11-1911, y Lucas Calvo Méndez, concejal en febrero de 1922 (Lucas era el nombre del padre de Nicanor). Hubo otra pareja Calvo-Méndez en el pueblo (Geminiana, 1908; Pío, 1934; Secundino, 1923), así que el par de apellidos no basta; habría que buscar sus bautismos en Casaseca.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19111115",
+        "https://archive.org/details/BoletinOficialZamora_19220213"
+      ]
+    },
+    {
+      "person": "jose-hijo-de-lucas-calvo-alonso",
+      "note": "Un José Calvo Martín, elector de Madridanos, figura entre los electores fallecidos en la rectificación de las listas de 1888; no consta que sea el hermano de Nicanor.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18881205"
+      ]
+    },
+    {
+      "person": "benito-de-las-heras-rabanal",
+      "note": "Un Ángel de las Heras Prada era juez municipal suplente de Tardobispo en 1939 (Heraldo de Zamora, 14-08-1939); no figura entre los hijos de Benito y Mª Antonia que tiene el árbol. Podría ser un hijo no registrado o un sobrino; habría que buscar su bautismo en Tardobispo.",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19390814_13667"
+      ]
+    },
+    {
+      "person": "benito-de-las-heras-rabanal",
+      "note": "Un Benito de las Heras, sin segundo apellido, ocupaba en 1906 el local de la fragua municipal de Las Enillas, anejo de Tardobispo; no consta que sea él.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19070213"
+      ]
+    },
+    {
+      "person": "francisco-fernandez-romero",
+      "note": "Un Francisco Fernández Romero fue nombrado juez municipal de Villardeciervos para el bienio 1903-1905; el padre de Antonio Fernández Romero tendría entonces setenta y siete años, y puede ser otro del mismo nombre.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19030626"
+      ]
+    },
+    {
+      "person": "antonio-fernandez-romero",
+      "note": "Pistas sin segundo apellido para Antonio Fernández, de Villardeciervos, donde había otros del mismo nombre (Antonio Fernández Blanco vivía en 1929): licencia de armas (1898), vocal propietario de la Junta municipal del Censo (1907), licencia (1912), «herederos de Antonio Fernández» (1929) y dueño de fincas expropiadas (1930 y 1935).",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_18980215_00355",
+        "https://archive.org/details/BoletinOficialZamora_19071023",
+        "https://archive.org/details/BoletinOficialZamora_19290830"
+      ]
+    },
+    {
+      "person": "eduardo-fernandez-unzueta",
+      "note": "Un Eduardo Fernández Unzueta, de La Cesira (Córdoba, Argentina), vendía ganado en el mercado de Buenos Aires en agosto de 1945 (La Nación, 9-8-1945); podría ser el prófugo de 1917.",
+      "urls": []
+    },
+    {
+      "person": "antonio-blanco-vega",
+      "note": "El Heraldo de Zamora de octubre de 1914 cuenta que se abrió sumario en Puebla de Sanabria contra un Antonio Blanco Vega, vecino de Villardeciervos, por lesiones a Clemente Santiago Castro. Tendría sesenta y cinco años y en el pueblo había otros Antonio Blanco; no se ha añadido al árbol.",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19141012_05588"
+      ]
+    },
+    {
+      "person": "antonio-blanco-vega",
+      "note": "Las listas de jurados de 1913-1915 del partido de Alcañices traen un «Antonio Blanco Vega», cabeza de familia de Santa María de Valverde, cuando el antepasado vivía en Villardeciervos: será otro hombre o su hijo Antonio Blanco Palmero con un apellido equivocado.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19150104"
+      ]
     }
   ]
 }
