@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "batch": "Nueva tanda de investigación del 15-11-2026",
+  "startedOn": "2026-11-15",
+  "method": "Búsquedas en la sesión de MyHeritage por nombres y lugar, comparando cónyuge, hijos y época. Resultados y límites guardados por identificador; no se interpreta el orden del buscador como cobertura exhaustiva. Investigaciones paralelas en catálogos oficiales, sin importar parentescos por similitud del nombre.",
+  "searches": [
+    {
+      "people": [
+        "marcos-vega",
+        "isabel-salvador"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Marcos",
+        "surname": "Vega",
+        "birthPlace": "Gáname"
+      },
+      "resultsTotal": 1082,
+      "reviewed": "Primera página de20 resultados; dos duplicados del mismo árbol encajan por esposa, hija y pueblo. Se abrieron los perfiles de Marcos y de Ysabel.",
+      "finding": "Sin padres. Coincide la familia: Marcos Vega, Ysabel Salvadora y María Vega Salvadora, casada con un Zurdo Mayordomo. El árbol fecha a Ysabel el20-8-1710 y a su hija en1700, cronología imposible; no se importa ninguna fecha.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-9-55906&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-9-55907&action=showRecord"
+      ],
+      "status": "Matched family; no new parents; dates rejected"
+    },
+    {
+      "people": [
+        "isabel-salvador"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Isabel",
+        "surname": "Salvador"
+      },
+      "resultsTotal": 2588,
+      "reviewed": "Primera página20; homónimas con otros maridos, lugares y épocas.",
+      "finding": "Sin coincidencia de la pareja Marcos Vega–Isabel Salvador en esa página.",
+      "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "isabel-salvador"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Isabel",
+        "surname": "Salvadora",
+        "place": "Gáname"
+      },
+      "resultsTotal": 742,
+      "reviewed": "Primera página20.",
+      "finding": "Árbol FAMILIA PIORNO FERNANDEZ: coincide esposo Marcos Vega e hija María Vega Salvadora (Zurdo Maiordomo), sin padres mostrados. Resto de página sin coincidencias.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-277&action=showRecord"
+      ],
+      "status": "Family match; no parents shown in results"
+    },
+    {
+      "people": [
+        "santiago-burrieza"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Santiago",
+        "surname": "Burrieza"
+      },
+      "resultsTotal": 74,
+      "reviewed": "Primera página20; el buscador amplía a Barraza, Berruezo y Berrizo.",
+      "finding": "Ningún Santiago Burrieza de Casaseca de Campeán ni con Ana Melado en la página revisada. No es una búsqueda exhaustiva de los74.",
+      "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "ana-melado-madre-de-manuel-burrieza"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Ana",
+        "surname": "Melado"
+      },
+      "resultsTotal": 506,
+      "reviewed": "Primera página20, incluidas variantes Mellado; sin Santiago Burrieza ni Casaseca de Campeán.",
+      "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "blas-salvador"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Blas",
+        "surname": "Salvador"
+      },
+      "resultsTotal": 131,
+      "reviewed": "Primera página20; ninguna Margarita Sastre ni familia de Gáname.",
+      "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "margarita-sastre"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Margarita",
+        "surname": "Sastre"
+      },
+      "resultsTotal": 2639,
+      "reviewed": "Primera página20; resultados Uruguay, Mallorca, Segovia y otros, sin Blas Salvador ni Gáname.",
+      "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "miguel-anton"
+      ],
+      "service": "MyHeritage family trees",
+      "query": {
+        "given": "Miguel",
+        "surname": "Antón"
+      },
+      "resultsTotal": 1692,
+      "reviewed": "Primera página20; sin Ángela Pozo o familia de Gáname.",
+      "status": "No match in reviewed page"
+    }
+  ],
+  "applied": [],
+  "leads": [],
+  "coverageNotes": [
+    "La caché temporal del agente anterior ya no está disponible. Se ha reconstruido una cola actual por identificadores en research-queue-2026-11-15.json; no equivale a recuperar los resultados perdidos.",
+    "Marcos Vega se repite porque el corte anterior pudo coincidir con el límite gratuito. No se descuentan nombres a partir de un recuento heredado sin una búsqueda guardada.",
+    "Los intentos de añadir Gáname en el campo Lugar de la barra de MyHeritage no quedaron reflejados en las URL de algunas consultas. Se registra la consulta realmente enviada (solo nombre), sin afirmar una búsqueda filtrada por lugar ni cobertura de páginas no vistas."
+  ]
+}
