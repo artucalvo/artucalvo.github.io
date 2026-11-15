@@ -324,30 +324,49 @@
       "urls": [
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800328"
       ]
-    }
-  ],
-  "pendingDecisions": [
+    },
     {
-      "person": "jose-fierro-de-las-infantas",
-      "question": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada. El expediente completo del pleito (FamilySearch) copia la partida de bautismo que presentó el propio José, certificada por el cura de Gáname el 31-05-1735: nacido el 14 de mayo de 1715, bautizado de necesidad en casa el 15 y con los óleos el 28, padrino don Antonio de las Infantas, madrina Josefa Olmedo. La partida fotografiada de 1714 sería de un primer José, hijo de los mismos padres, que probablemente murió niño.",
+      "person": "jose-fierro",
+      "change": "Decisión de la familia (15-11-2026): se mantiene el nacimiento de José Fierro de las Infantas el 20-01-1714, de la partida fotografiada, aunque el pleito de 1735 copia un bautismo del 14-05-1715.",
+      "evidence": "La descripción de PARES del pleito de 1735 dice que José Fierro nació en Gáname el 14 de mayo de 1715. Su partida de bautismo, fotografiada, dice que nació el 20 de enero de 1714 y fue bautizado el 29. No se ha cambiado nada. El expediente completo del pleito (FamilySearch) copia la partida de bautismo que presentó el propio José, certificada por el cura de Gáname el 31-05-1735: nacido el 14 de mayo de 1715, bautizado de necesidad en casa el 15 y con los óleos el 28, padrino don Antonio de las Infantas, madrina Josefa Olmedo. La partida fotografiada de 1714 sería de un primer José, hijo de los mismos padres, que probablemente murió niño.",
       "urls": [
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
         "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK9Z"
       ]
     },
     {
+      "person": "ines-velasco-madre-de-juan-fierro",
+      "change": "Decisión de la familia (15-11-2026): Inés Velasco, mujer de Alonso Fierro, se enlaza como madre de Juan Fierro Velasco; se añade su hijo Luis Fierro Velasco, padre del caballero de Santiago Alonso Fierro Castañón.",
+      "evidence": "Juan Fierro Velasco era hijo de un Alonso Fierro (padrón de Cármenes de 1680, en el pleito de 1735). Las pruebas de Santiago de Alonso Fierro Castañón (1681, AHN Santiago exp. 3063, transcritas en FamilySearch) dan a Luis Fierro de Velasco, natural de Cármenes, como hijo de Alonso Fierro, natural de Cármenes, y de Inés de Velasco, natural de Villanueva de Pontedo. Por el segundo apellido, el nombre del padre, el pueblo y la época, Juan sería hermano de Luis e hijo de Inés de Velasco, pero ningún texto lo dice. Pendiente de la familia: enlazar a Inés de Velasco como madre de Juan.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K"
+      ]
+    },
+    {
+      "person": "alonso-calabaza",
+      "change": "FamilySearch, texto completo: un pleito de hidalguía de hacia 1816 copia el bautismo de 1734 de Andrea Inés Calabaza, nieta de Alonso Calabaza y María López; se añade su padre, Manuel Calabaza López, como hermano de Antonio Calabaza López.",
+      "evidence": "Búsqueda de texto completo de FamilySearch con la sesión de la familia (15-11-2026); nombre, cónyuge y pueblo coinciden.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91J-3",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91F-Y"
+      ]
+    },
+    {
+      "person": "francisco-de-las-heras-pascual",
+      "change": "Matrimonio de Francisco de las Heras Pascual y Josefa Rabanal Ibáñez en Zamora (San Cipriano), el 17-11-1852, y el oficio de herrero de Francisco.",
+      "evidence": "Registro civil de matrimonios de Zamora, 1844-1860, en el texto completo de FamilySearch; la fecha («cuarenta» impreso y tachado, «cincuenta y dos» manuscrito), los nombres y los padres se leyeron en la imagen el 15-11-2026.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSG5-L9YT-B"
+      ]
+    }
+  ],
+  "pendingDecisions": [
+    {
       "person": "nicanor-calvo-piorno",
       "question": "El padrón de Badalona de 1921 (edades referidas a 1920) no incluye a Nicanor, nacido en Badalona el 5 de agosto de 1916 según la familia, y sí a su hermano Juan, de 1915. No se ha cambiado nada. La familia no lo sabe (14-11-2026); apunta que quizá vivía entonces con sus abuelos en Casaseca de las Chanas. El Nicanor de los boletines de 1920 es un hermano mayor, nacido hacia 1899 (ficha nueva); la ausencia del Nicanor de 1916 en la hoja de 1921 sigue sin explicación.",
       "urls": [
         "https://museudebadalona.cat/arxiu/ahbdn/padrons/padrons-1921/"
-      ]
-    },
-    {
-      "person": "alonso-fierro-padre-de-juan-fierro",
-      "question": "Juan Fierro Velasco era hijo de un Alonso Fierro (padrón de Cármenes de 1680, en el pleito de 1735). Las pruebas de Santiago de Alonso Fierro Castañón (1681, AHN Santiago exp. 3063, transcritas en FamilySearch) dan a Luis Fierro de Velasco, natural de Cármenes, como hijo de Alonso Fierro, natural de Cármenes, y de Inés de Velasco, natural de Villanueva de Pontedo. Por el segundo apellido, el nombre del padre, el pueblo y la época, Juan sería hermano de Luis e hijo de Inés de Velasco, pero ningún texto lo dice. Pendiente de la familia: enlazar a Inés de Velasco como madre de Juan.",
-      "urls": [
-        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B",
-        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K"
       ]
     }
   ],

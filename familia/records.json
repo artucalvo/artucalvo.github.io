@@ -3525,7 +3525,23 @@
         "transcription": "Francisco: hijo de Manuel de las Heras y de Josefa Pascual.\n\nEn el Lugar de Abelón, a veinte y cinco días del mes de Diciembre del año de mil ochocientos y veinte: Yo el infrascripto Cura Párroco de dicho Lugar, Bauticé solemnemte y puse los Santos Óleo y Crisma a un niño, qe nació en la madrugada del día anterior. Le puse por nombre Francisco: hijo legítimo de Manuel de las Heras, natural del Lugar de Fadón, y vecino del dicho Abelón, y de Josefa Pascual, natural de este de Abelón. Abuelos paternos: Alonso de las Heras, natural del dicho Fadón, y vecino del insinuado Abelón, y Mónica Domínguez, ya difunta, natural del referido Abelón. Abuelos maternos: Atilano Pascual, natural y vecino del nominado Abelón, y Teresa Lorenzo, natural del Lugar de Villardiegua de la Ribera. Fue su padrino Manuel Nicolás, de esta vecindad, a quien advertí el parentesco espiritual y demás obligaciones de su cargo. Fueron testigos Alonso de las Heras, Atilano Pascual y Tomás Diego, de esta vecindad. Y para qe conste, lo firmo, en dicho Lugar, a 25 de Diciembre de 1820. Dn Antonio Molina."
       },
       "observations": [
-        "La partida de matrimonio de su hijo Benito (23-10-1880) lo da por difunto."
+        "La partida de matrimonio de su hijo Benito (23-10-1880) lo da por difunto.",
+        "El registro civil de matrimonios de Zamora (asiento n.º 785), digitalizado en FamilySearch, recoge la boda del 17 de noviembre de 1852 en la iglesia de San Cipriano: Francisco de las Heras, natural de Abelón, soltero, herrero, hijo de Manuel de las Heras y Josefa Pascual, con Josefa Ravanal, natural de Zamora, soltera, hija de José Ravanal y Manuela Ibáñez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSG5-L9YT-B"
+      ],
+      "marriages": [
+        {
+          "spouse": "josefa-rabanal-ibanez",
+          "date": "1852-11-17",
+          "place": "Zamora",
+          "note": "En la iglesia de San Cipriano; los novios vivían en esa parroquia. Asiento n.º 785 del registro civil de matrimonios de Zamora."
+        }
+      ],
+      "occupations": [
+        {
+          "name": "Herrero",
+          "date": "1852",
+          "note": "Su profesión al casarse, según el registro civil de Zamora."
+        }
       ]
     },
     {
@@ -3561,7 +3577,16 @@
         "transcription": "N. 495. Josefa Ravanal, adulta de sesenta años. No testó.\n\nEn el día diez y ocho de Octubre del año mil ochocientos noventa y uno, yo el Infrascripto cura Ecónomo de Tardobispo di sepultura eclesiástica en el cementerio de este Lugar al cadáver de Josefa Ravanal, de sesenta años de edad, consorte de Franco de las Heras, este de Abelón, y Josefa de Sn Esteban de Zamora, la que murió el día anterior a las cinco de la tarde a consecuencia de una enfermedad Neumonía Catarral, según certificación del Médico titular Dn Manuel Hernández; recibió los Stos Sacramentos de Penitencia y Estrema Unción; no otorgó testamento, dejando dos hijos, Benito y María de las Heras; se le hizo entierro según costumbre de esta parroquia. Y para que conste lo firmo fecha ut supra. Agustín Arroyo."
       },
       "observations": [
-        "La partida de entierro dice que dejó dos hijos: Benito y María de las Heras."
+        "La partida de entierro dice que dejó dos hijos: Benito y María de las Heras.",
+        "El registro civil de matrimonios de Zamora (asiento n.º 785), digitalizado en FamilySearch, recoge la boda del 17 de noviembre de 1852 en la iglesia de San Cipriano: Francisco de las Heras, natural de Abelón, soltero, herrero, hijo de Manuel de las Heras y Josefa Pascual, con Josefa Ravanal, natural de Zamora, soltera, hija de José Ravanal y Manuela Ibáñez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSG5-L9YT-B"
+      ],
+      "marriages": [
+        {
+          "spouse": "francisco-de-las-heras-pascual",
+          "date": "1852-11-17",
+          "place": "Zamora",
+          "note": "En la iglesia de San Cipriano; los novios vivían en esa parroquia. Asiento n.º 785 del registro civil de matrimonios de Zamora."
+        }
       ]
     },
     {
@@ -14485,14 +14510,16 @@
       ],
       "observations": [
         "Vecino de Cármenes y padre del Domingo Fierro nacido en 1642, según el pleito de hidalguía de su bisnieto José Fierro (1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
-        "En el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, se le llama Juan Fierro Velasco. La partida de bautismo de su hijo Domingo, de mayo de 1642, copiada en él, lo da por marido de Toribia Díez; el padrón de hidalgos de Cármenes de 1680 declara que conocen a «Juan fierro Velasco hijo dalgo notorio» de la casa de los Fierros de Cármenes y del solar de Getino, «y conozieron a Alonso fierro su padre», y nombra a otro hijo suyo, Juan Fierro Velasco; el informe del abogado del pleito lo resume: «fue hijo de Alonso Fierro». Vivía, por tanto, en 1680: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L"
+        "En el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, se le llama Juan Fierro Velasco. La partida de bautismo de su hijo Domingo, de mayo de 1642, copiada en él, lo da por marido de Toribia Díez; el padrón de hidalgos de Cármenes de 1680 declara que conocen a «Juan fierro Velasco hijo dalgo notorio» de la casa de los Fierros de Cármenes y del solar de Getino, «y conozieron a Alonso fierro su padre», y nombra a otro hijo suyo, Juan Fierro Velasco; el informe del abogado del pleito lo resume: «fue hijo de Alonso Fierro». Vivía, por tanto, en 1680: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L",
+        "La familia aceptó el 15 de noviembre de 2026 enlazar como su madre a Inés Velasco, mujer de Alonso Fierro, por su segundo apellido, el nombre de su padre, el pueblo y la época; las pruebas de Santiago de 1681 no lo nombran."
       ],
       "father": "alonso-fierro-padre-de-juan-fierro",
       "marriages": [
         {
           "spouse": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro"
         }
-      ]
+      ],
+      "mother": "ines-velasco-madre-de-juan-fierro"
     },
     {
       "id": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro",
@@ -14518,7 +14545,61 @@
         "Fierro"
       ],
       "observations": [
-        "Padre de Juan Fierro Velasco según el padrón de hidalgos de Cármenes de 1680, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito: declara que lo conocieron «por tal hijo dalgo notorio», de modo que ya había muerto entonces. El informe del abogado del pleito lo repite: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L"
+        "Padre de Juan Fierro Velasco según el padrón de hidalgos de Cármenes de 1680, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito: declara que lo conocieron «por tal hijo dalgo notorio», de modo que ya había muerto entonces. El informe del abogado del pleito lo repite: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L",
+        "En las pruebas de nobleza de su nieto Alonso Fierro Castañón para el hábito de Santiago (1681; Archivo Histórico Nacional, Órdenes Militares, Santiago, expediente 3063), transcritas en FamilySearch, aparece como abuelo paterno del pretendiente: «Alonso Fierro natural del dicho lugar de Carmenes», casado con Inés de Velasco, natural de Villanueva de Pontedo, y padre de Luis Fierro de Velasco: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G94H-C"
+      ],
+      "birth": {
+        "place": "Cármenes",
+        "note": "Natural de Cármenes, según las pruebas de Santiago de su nieto (1681)."
+      },
+      "marriages": [
+        {
+          "spouse": "ines-velasco-madre-de-juan-fierro"
+        }
+      ]
+    },
+    {
+      "id": "ines-velasco-madre-de-juan-fierro",
+      "name": "Inés Velasco",
+      "givenNames": "Inés",
+      "surnames": [
+        "Velasco"
+      ],
+      "birth": {
+        "place": "Villanueva de Pontedo",
+        "note": "Natural de Villanueva de Pontedo, según las pruebas de Santiago de su nieto (1681)."
+      },
+      "marriages": [
+        {
+          "spouse": "alonso-fierro-padre-de-juan-fierro"
+        }
+      ],
+      "observations": [
+        "En las pruebas de nobleza de su nieto Alonso Fierro Castañón para el hábito de Santiago (1681; Archivo Histórico Nacional, Órdenes Militares, Santiago, expediente 3063), transcritas en FamilySearch, su nieto declara por abuelos paternos a «Alonso Fierro natural del dicho lugar de Carmenes y Inés de Velasco natural del dicho lugar de Villanueva del Pontedo», vecinos de Cármenes, padres de Luis Fierro de Velasco: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G94H-C",
+        "La familia aceptó el 15 de noviembre de 2026 enlazarla como madre de Juan Fierro Velasco: el pleito de hidalguía de su bisnieto José Fierro (1735) da a Juan por hijo de Alonso Fierro, y su segundo apellido, el pueblo y la época coinciden con los de este matrimonio, aunque ningún texto lo nombra entre sus hijos."
+      ]
+    },
+    {
+      "id": "luis-hijo-de-alonso-fierro-padre-de-juan-fierro",
+      "name": "Luis Fierro Velasco",
+      "givenNames": "Luis",
+      "surnames": [
+        "Fierro",
+        "Velasco"
+      ],
+      "father": "alonso-fierro-padre-de-juan-fierro",
+      "mother": "ines-velasco-madre-de-juan-fierro",
+      "birth": {
+        "place": "Cármenes"
+      },
+      "marriages": [
+        {
+          "note": "Casado con Francisca de la Cuesta Castañón, natural de Villanueva de Pontedo."
+        }
+      ],
+      "observations": [
+        "Natural de Cármenes, hijo de Alonso Fierro y de Inés de Velasco y padre de Alonso Fierro Castañón, capitán de caballos, que ingresó en la Orden de Santiago el 14 de septiembre de 1681, según las pruebas de nobleza de su nieto Alonso Fierro Castañón para el hábito de Santiago (1681; Archivo Histórico Nacional, Órdenes Militares, Santiago, expediente 3063), transcritas en FamilySearch: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G949-B https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS28-G94H-C",
+        "El «Nobiliario de la Montaña Leonesa» de Juan José Sánchez Badiola (2019, pp. 287-288) recoge la misma filiación: https://dialnet.unirioja.es/servlet/libro?codigo=770795"
       ]
     },
     {
@@ -18295,6 +18376,26 @@
         "place": "Peleas de Arriba",
         "transcription": "Antto.\n\nEn beinti quatro de diciembre de setecientos, yo el Ldo Juan R[odríguez], cura theniente deste lugar, bauticé y puse los santos olios a Antonio, hijo de Alonso Calabaza y de su muger María López, que nació a quince de dicho mes; fueron padrinos Antonio Rueda y Susana Pérez, a [ilegible] parentesco del bautizado; testigos Mateo Gutiérrez y Antonio González, y lo firmé dicho día. Ldo Juan Rodríguez."
       }
+    },
+    {
+      "id": "manuel-hijo-de-alonso-calabaza",
+      "name": "Manuel Calabaza López",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Calabaza",
+        "López"
+      ],
+      "father": "alonso-calabaza",
+      "mother": "maria-lopez",
+      "marriages": [
+        {
+          "note": "Casado con Cecilia Rivera, hija de Agustín Rivera y de Engracia Gutiérrez, vecinos y naturales de Peleas de Arriba."
+        }
+      ],
+      "observations": [
+        "Un pleito de hidalguía de la Real Chancillería de Valladolid de hacia 1816, de los descendientes de su hija Andrea, digitalizado y transcrito en FamilySearch, copia el bautismo de Andrea Inés Calabaza Rivera (Peleas de Arriba, nacida el 21 y bautizada el 31 de enero de 1734), nieta de Alonso Calabaza y María López y de Agustín Rivera y Engracia Gutiérrez, y su boda en Santa María de la Horta de Zamora el 28 de mayo de 1758 con Manuel Ruiz Bamba, cuando Manuel Calabaza y Cecilia Rivera ya habían muerto: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91J-3 https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91F-Y",
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "ines-gutierrez",
@@ -25550,7 +25651,10 @@
       ],
       "birth": {
         "place": "Peleas de Arriba"
-      }
+      },
+      "observations": [
+        "Un pleito de hidalguía de la Real Chancillería de Valladolid de hacia 1816, de los descendientes de su nieta Andrea Calabaza, que FamilySearch tiene digitalizado y transcrito, copia el bautismo de Andrea Inés (Peleas de Arriba, 1734), hija de Manuel Calabaza y Cecilia Rivera, con «sus Abuelos Paternos Alonso Calabaza, y su mujer María López»: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91J-3 https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91F-Y"
+      ]
     },
     {
       "id": "maria-lopez",
@@ -25561,7 +25665,10 @@
       ],
       "birth": {
         "place": "Peleas de Arriba"
-      }
+      },
+      "observations": [
+        "Un pleito de hidalguía de la Real Chancillería de Valladolid de hacia 1816, de los descendientes de su nieta Andrea Calabaza, que FamilySearch tiene digitalizado y transcrito, copia el bautismo de Andrea Inés (Peleas de Arriba, 1734), hija de Manuel Calabaza y Cecilia Rivera, con «sus Abuelos Paternos Alonso Calabaza, y su mujer María López»: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91J-3 https://www.familysearch.org/ark:/61903/3:1:3QS7-L9P4-V91F-Y"
+      ]
     },
     {
       "id": "mateo-gutierrez",
@@ -31410,7 +31517,13 @@
       "father": "alonso-brioso-cabrero",
       "observations": [
         "Nombrado entre los hijos de Alonso Vicente Brioso Cabrero en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Casó con Teresa Martín: su hijo Lorenzo Brioso Martín nació en Morales del Vino el 9 de agosto de 1840 y fue bautizado el 11, nieto de Alonso Brioso e Inés Martín, según la copia de la partida que figura en un expediente de pensión de Madrid de 1885, digitalizado en FamilySearch: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9J3-LQ3V"
+      ],
+      "marriages": [
+        {
+          "note": "Casado con Teresa Martín."
+        }
       ]
     },
     {
