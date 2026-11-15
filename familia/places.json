@@ -727,6 +727,14 @@
       "latitude": 42.97811111,
       "longitude": -5.57847222,
       "source": "https://es.wikipedia.org/wiki/Villanueva_de_Pontedo"
+    },
+    {
+      "name": "Cabreros del Monte",
+      "province": "Valladolid",
+      "municipality": "Cabreros del Monte",
+      "latitude": 41.84768031,
+      "longitude": -5.2680103,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/cabreros-del-monte-id47029"
     }
   ]
 }

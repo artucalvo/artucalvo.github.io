@@ -121,10 +121,100 @@
       "resultsTotal": 1692,
       "reviewed": "Primera página20; sin Ángela Pozo o familia de Gáname.",
       "status": "No match in reviewed page"
+    },
+    {
+      "people": [
+        "santiago-burrieza",
+        "ana-melado-madre-de-manuel-burrieza"
+      ],
+      "service": "FamilySearch full-text",
+      "query": {
+        "keywords": "\"Casaseca de Campeán\""
+      },
+      "resultsTotal": 216,
+      "reviewed": "Se listaron los títulos de los primeros 100 resultados, no se revisaron los 216 registros ni se completó el barrido de la localidad.",
+      "finding": "La consulta sin comillas devolvió 16.423 resultados por sus términos separados; la frase entre comillas redujo a 216. Los títulos incluyen catastro, matrimonios, expedientes militares y pensiones; no se identificó un parentesco nuevo por los títulos.",
+      "status": "In progress",
+      "urls": [
+        "https://www.familysearch.org/en/search/full-text/results?count=100&q.text=%22Casaseca%20de%20Campe%C3%A1n%22"
+      ]
     }
   ],
-  "applied": [],
-  "leads": [],
+  "applied": [
+    {
+      "people": [
+        "pedro-salvador-padre-del-padre-de-ana-maria",
+        "pedro-salvador-abuelo-del-padre-de-ana-maria",
+        "catalina-garcia-cabezas-madre-de-pedro-salvador"
+      ],
+      "change": "Se añade a Catalina García Cabezas como madre de Pedro Salvador el mozo y mujer de Pedro Salvador, abuelo del litigante de 1680. Cabreros del Monte se guarda como lugar de referencia, con coordenadas de AEMET.",
+      "evidence": "PARES 5752515, ejecutoria de mayo de 1640, imagen 2: Pedro Salvador el mozo, hijo de Pedro Salvador y Catalina García Cabezas su mujer, vecinos que fueron de Cabreros del Monte. PARES 5831662, ejecutoria de 1713, copia el pleito de 1680 y dice que el padre de aquel Pedro obtuvo una sobrecarta en 1640. Se cotejaron imagen y relación con ambas piezas; no se supone que Catalina sea la homónima mujer de Alonso García mencionada en el pleito posterior.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
+        "https://www.aemet.es/es/eltiempo/prediccion/municipios/cabreros-del-monte-id47029"
+      ]
+    },
+    {
+      "people": [
+        "marcos-vega",
+        "isabel-salvador"
+      ],
+      "change": "Observaciones con enlaces a los perfiles de un árbol coincidente por cónyuges e hija; sin padres nuevos.",
+      "evidence": "MyHeritage, Felix Manuel Aparicio Lorenzo Web Site: Marcos Vega, Ysabel Salvadora y su hija María, de Gáname. El árbol da a Ysabel nacimiento en 1710 y a su hija en 1700; no se usa ninguna de sus fechas.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-9-55906&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV725GMYDUAX3YH3C62YKEIWS6QFQ-9-55907&action=showRecord"
+      ]
+    },
+    {
+      "people": [
+        "joan-landaburu-guridi",
+        "anna-guinea"
+      ],
+      "change": "Observación en ambos con la carta de pago de la dote de Ana de 1612, sin inferir el parentesco de Pedro de Abarrategui.",
+      "evidence": "Fondo Juan Carlos Guerra, Badator 3316747, signatura 4346-07, 27-11-1612, Mondragón. La escritura original se localizó en imágenes 135 y 136 y se cotejó: el matrimonio, vecino de Mondragón, recibió de don Pedro de Abarrategui los 80 ducados de la dote de Ana. No expresa que Pedro fuese su padre. La lectura de otro nombre relacionado con los bienes es incierta y no se incorpora. Los nombres, matrimonio de julio de 1612 y lugar permiten identificar la pareja.",
+      "urls": [
+        "https://www.artxibo.euskadi.eus/webartxi00-container/eu/ad53aArchivoHistoricoWar/badator/getFicha?badid=3316747&locale=es",
+        "https://www.artxibo.euskadi.eus/dokuklik/025/4346/025_04346_135.jpg",
+        "https://www.artxibo.euskadi.eus/dokuklik/025/4346/025_04346_136.jpg"
+      ]
+    },
+    {
+      "people": [
+        "juan-fuldain-amezqueta",
+        "antonia-egurbide-zigorondo",
+        "maria-fuldain-egurbide"
+      ],
+      "change": "Enlace a la genealogía secundaria leinztarra que coincide en la pareja, fechas y filiación de María; no da padres.",
+      "evidence": "La sección II coincide en boda de Juan y Antonia el 23-01-1606, bautismo de María el 08-12-1612 y boda de esta el 09-02-1643, ya documentados en el árbol. El autor llama solo posible la conexión con otra línea Fuldain.",
+      "urls": [
+        "https://sites.google.com/site/leinztarra/fuldain"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "people": [
+        "catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "pedro-salvador-padre-del-padre-de-ana-maria"
+      ],
+      "note": "La ejecutoria de 1599, PARES 7227590, puede aclarar el parentesco de Alonso García y su mujer Catalina García Cabezas con los tres Pedro Salvador. La coincidencia de nombres no demuestra que esa Catalina y la madre de Pedro el mozo sean una sola persona.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590"
+      ]
+    },
+    {
+      "people": [
+        "juan-fuldain-amezqueta"
+      ],
+      "note": "Una genealogía Fuldain-Iraegui y un pleito de hidalguía de 1634 podrían estar relacionados con la línea de Juan, pero el recopilador solo considera posible la conexión. No unirlas sin un enlace documental.",
+      "urls": [
+        "https://sites.google.com/site/leinztarra/fuldain",
+        "https://w390w.gipuzkoa.net/WAS/CORP/DBKVisorBibliotecaWEB/pdf/178878/319418?tipoPeticion=ikusi"
+      ]
+    }
+  ],
   "coverageNotes": [
     "La caché temporal del agente anterior ya no está disponible. Se ha reconstruido una cola actual por identificadores en research-queue-2026-11-15.json; no equivale a recuperar los resultados perdidos.",
     "Marcos Vega se repite porque el corte anterior pudo coincidir con el límite gratuito. No se descuentan nombres a partir de un recuento heredado sin una búsqueda guardada.",
