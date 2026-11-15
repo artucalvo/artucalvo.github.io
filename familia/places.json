@@ -719,6 +719,14 @@
       "latitude": 43.18542077,
       "longitude": -2.47092183,
       "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/eibar-id20030"
+    },
+    {
+      "name": "Villanueva de Pontedo",
+      "province": "León",
+      "municipality": "Cármenes",
+      "latitude": 42.97811111,
+      "longitude": -5.57847222,
+      "source": "https://es.wikipedia.org/wiki/Villanueva_de_Pontedo"
     }
   ]
 }

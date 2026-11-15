@@ -368,7 +368,8 @@
         }
       ],
       "observations": [
-        "El Boletín Oficial de Zamora del 7 de enero de 1910 lo nombra vocal de la Junta municipal del Censo electoral de Villardeciervos, como contribuyente por inmuebles, cultivo y ganadería: https://archive.org/details/BoletinOficialZamora_19100107"
+        "El Boletín Oficial de Zamora del 7 de enero de 1910 lo nombra vocal de la Junta municipal del Censo electoral de Villardeciervos, como contribuyente por inmuebles, cultivo y ganadería: https://archive.org/details/BoletinOficialZamora_19100107",
+        "Figura con ambos apellidos y como vecino de Villardeciervos en las listas definitivas de jurados del partido judicial de Puebla de Sanabria publicadas en 1894, 1896 y 1898, dentro de las «capacidades». La lista de 1896 corresponde al año 1897. Estar incluido en estas listas no prueba que llegara a actuar como jurado: https://archive.org/details/BoletinOficialZamora_18940813 https://archive.org/details/BoletinOficialZamora_18960821 https://archive.org/details/BoletinOficialZamora_18980902"
       ]
     },
     {
@@ -506,7 +507,8 @@
         }
       ],
       "observations": [
-        "El 18 de octubre de 1907 le incendiaron un corral en Villardeciervos, donde murieron 231 ovejas y veinte cabras, con daños tasados en 2.860 pesetas; el autor, un joven de catorce años, fue juzgado en octubre de 1908. Lo cuenta el Heraldo de Zamora: https://archive.org/details/HeraldoDeZamora_19071023_03164 https://archive.org/details/HeraldoDeZamora_19081003_03442"
+        "El Heraldo de Zamora del 3 de octubre de 1908 lo identifica con los dos apellidos y refiere que el 18 de octubre de 1907 se incendió un corral suyo en Villardeciervos, donde murieron 231 cabezas de ganado lanar y veinte de cabrío, con perjuicios tasados en 2.860 pesetas. La crónica anunciaba el juicio contra el acusado para el lunes siguiente: https://archive.org/details/HeraldoDeZamora_19081003_03442/page/n1",
+        "El Heraldo de Zamora del 28 de septiembre de 1908 lo identifica con los dos apellidos como vecino de Villardeciervos al anunciar un juicio por el incendio de un corral suyo: https://archive.org/details/HeraldoDeZamora_19080928_03437"
       ]
     },
     {
@@ -587,7 +589,9 @@
         "place": "Villardeciervos"
       },
       "death": {
-        "place": "Villardeciervos"
+        "place": "Villardeciervos",
+        "date": "1935",
+        "note": "Había fallecido antes de la carta de su hijo del 7 de marzo de 1935; no consta el día exacto."
       },
       "marriages": [
         {
@@ -600,7 +604,8 @@
         "place": "Villardeciervos"
       },
       "observations": [
-        "Probablemente es ella la Josefa Unzueta, vecina de Villardeciervos, dueña de tres fincas que se expropiaron para el trozo primero de la carretera de Puente de Tera a Alcañices: figura como «Josefa Zueta» en la lista de 1930 y como Josefa Unzueta en la de marzo de 1935, sin la indicación de herederos o viuda que esa lista pone a los dueños fallecidos: https://archive.org/details/BoletinOficialZamora_19300604 https://archive.org/details/BoletinOficialZamora_19350329"
+        "Probablemente es ella la Josefa Unzueta, vecina de Villardeciervos, dueña de tres fincas que se expropiaron para el trozo primero de la carretera de Puente de Tera a Alcañices: figura como «Josefa Zueta» en la lista de 1930 y como Josefa Unzueta en la de marzo de 1935: https://archive.org/details/BoletinOficialZamora_19300604 https://archive.org/details/BoletinOficialZamora_19350329",
+        "Su nieta María Luisa Visintini sitúa su muerte en 1935 (página 208). La carta de su hijo Antonio del 7 de marzo de 1935, dirigida a su cuñado Epifanio Herrero, confirma que ya había muerto (página 215). Responde a una carta del 21 de enero, lo que sugiere una muerte anterior a esa fecha; el día exacto no se indica. La lista de fincas de marzo de 1935 no demuestra que entonces siguiera viva: https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf#page=208 https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf#page=215"
       ]
     },
     {
@@ -2693,10 +2698,16 @@
         {
           "name": "Soldado",
           "note": "Al casarse en 1879 consta «licenciado del Ejército con licencia absoluta»."
+        },
+        {
+          "name": "Mesonero",
+          "date": "1894",
+          "note": "En Casaseca de las Chanas, calle Jambrina; matrícula de la contribución industrial de 1893-1894."
         }
       ],
       "observations": [
-        "La partida de matrimonio lo describe como licenciado del Ejército con licencia absoluta."
+        "La partida de matrimonio lo describe como licenciado del Ejército con licencia absoluta.",
+        "La matrícula de la contribución industrial de Casaseca de las Chanas para 1893-1894 lo nombra con ambos apellidos como mesonero en la calle Jambrina, con una cuota de 20 pesetas para el Tesoro: https://archive.org/details/BoletinOficialZamora_18940402/page/n1"
       ]
     },
     {
@@ -2850,12 +2861,31 @@
           "date": "1877-08-23",
           "place": "Tardobispo",
           "transcription": "N. 95. Enrique Brioso, soltero, con Balbina Pérez, viuda.\n\nEn el día veinte y tres de Agosto del año mil ochocientos setenta y siete, yo el infrascripto Cura párroco de Tardobispo y sus anejos, precedidas las moniciones canónicas en esta Yglesia, no habiendo resultado impedimento, ecsaminados en doctrina cristiana y recibido el Sacramento de la Penitencia, desposé in facie Eclesie con el consentimiento necesario y por palabra de presente a Enrique Brioso, soltero, hijo legítimo de Dn Florencio Brioso y Antonia Mena, con Balbina Pérez, viuda de Julián Garrote, vecinos todos de este pueblo. Fueron testigos Agustín Mena mayor y Manuel Salvador, de esta vecindad. Y para que conste lo firmo fecha ut supra. Manuel Temprano."
+        },
+        {
+          "note": "Probable segundo matrimonio con Carmen Alonso Ramos, después del fallecimiento de Balbina Pérez en 1911. La identificación fue aceptada por la familia el 15-11-2026; no consta la fecha de la boda."
         }
       ],
       "observations": [
         "La partida de entierro de su mujer (19-11-1911) lo da por vivo.",
-        "El Boletín Oficial de Zamora del 15 de julio de 1898 anuncia la subasta judicial de cinco fincas de Balbina Pérez en Tardobispo (una cuadra y pajar y un corral en la calle de la Fuentica, una viña de mil quinientas cepas en La Barrera y dos tierras) para pagar una deuda del matrimonio con Pedro Villar Domínguez, vecino de Toro: https://archive.org/details/BoletinOficialZamora_18980715"
-      ]
+        "El Boletín Oficial de Zamora del 15 de julio de 1898 anuncia la subasta judicial de cinco fincas de Balbina Pérez en Tardobispo (una cuadra y pajar y un corral en la calle de la Fuentica, una viña de mil quinientas cepas en La Barrera y dos tierras) para pagar una deuda del matrimonio con Pedro Villar Domínguez, vecino de Toro: https://archive.org/details/BoletinOficialZamora_18980715",
+        "Las actas municipales lo nombran miembro de la Junta municipal de Tardobispo en la sesión del 15 de febrero de 1906, publicada el 13 de febrero de 1907. El 29 de noviembre de 1907 se publicó su nombramiento como juez municipal propietario: https://archive.org/details/BoletinOficialZamora_19070213/page/n1 https://archive.org/details/BoletinOficialZamora_19071129/page/n7",
+        "La familia aceptó el 15-11-2026 identificarlo, como probable, con el Enrique Brioso de Mena, ordenanza del Instituto Geográfico y Estadístico, cuya viuda Carmen Alonso Ramos figura en la Gaceta de 1920. Julio V. Brioso y Mairal llama a Enrique su bisabuelo y empleado del Servicio Geográfico en Madrid (página 81), y nombra a su abuelo Julio Brioso Pérez, natural de Tardobispo (página 64). Coinciden los nombres, la procedencia familiar y el empleo, pero no se aporta aquí una partida del segundo matrimonio o del fallecimiento: https://studylib.es/doc/8491656/el-diario-de-huesca.-125-a%C3%B1os-despu%C3%A9s https://www.boe.es/gazeta/dias/1920/09/02/pdfs/GMD-1920-246.pdf"
+      ],
+      "occupations": [
+        {
+          "name": "Juez municipal",
+          "date": "1907",
+          "note": "Nombrado propietario del juzgado municipal de Tardobispo; publicación del 29 de noviembre de 1907."
+        },
+        {
+          "name": "Ordenanza",
+          "note": "Probablemente ordenanza del Instituto Geográfico y Estadístico en Madrid; identificación aceptada por la familia al cotejar el relato de un descendiente con la pensión de viudedad de 1920."
+        }
+      ],
+      "death": {
+        "note": "Probablemente había fallecido antes de agosto de 1920, según la identificación aceptada por la familia de la pensión de su viuda Carmen Alonso Ramos; no se conoce la fecha exacta."
+      }
     },
     {
       "id": "balbina-perez-sanchez",
@@ -3382,7 +3412,14 @@
         }
       ],
       "observations": [
-        "La partida de entierro de su mujer (04-06-1923) la llama viuda."
+        "La partida de entierro de su mujer (04-06-1923) la llama viuda.",
+        "La relación de pensiones de viudedad concedidas durante 1902 nombra a Antonia de Mena Santa María como su viuda. Su última escuela fue Entrala y murió en activo, con 37 años, 11 meses y 8 días de servicio. La relación demuestra que ya había fallecido en 1902, pero no da su fecha de muerte: https://www.boe.es/gazeta/dias/1903/10/18/pdfs/GMD-1903-291.pdf#page=12"
+      ],
+      "occupations": [
+        {
+          "name": "Maestro",
+          "note": "Su última escuela fue la de Entrala y murió en activo, según la concesión de pensión a su viuda durante 1902."
+        }
       ]
     },
     {
@@ -3422,7 +3459,11 @@
         "place": "Tardobispo",
         "note": "En el cementerio de Tardobispo; funeral de tercera clase.",
         "transcription": "N. 778. 3ª. Antonia de Mena Santamaría.\n\nEn el pueblo de Tardobispo, Diócesis de Zamora, Provincia de Zamora, en el día cuatro de Junio de mil novecientos veintitrés, yo, Don José Alejandre Moreno, Cura párroco de la Yglesia parroquial del Salvador de este pueblo de Tardobispo, mandé dar sepultura eclesiástica en el Cementerio de esta parroquia al cadáver de Da. Antonia de Mena Santamaría, de ochenta y ocho años de edad, viuda de D. Florencio Brioso, natural de Tardobispo, e hija legítima de D. Tomás de Mena y de Da. Valeria Santamaría, que, según certificación facultativa, falleció en Tardobispo, a las dos de la tarde del día anterior, a consecuencia de Hemorragia Cerebral, habiendo recibido el Santo Sacramento de la Extrema-Unción, que le fue administrado por el párroco que suscribe. Se le hicieron los funerales de tercera clase, siendo testigos D. Bernardino Pérez y D. Francisco Brioso, de esta vecindad. No consta que hiciese testamento. Y para que conste lo firmo, fecha ut supra. José Alejandre Moreno."
-      }
+      },
+      "observations": [
+        "La Junta Central de Derechos Pasivos del Magisterio le concedió durante 1902 una pensión de viudedad de 333,32 pesetas, como viuda de Florencio Brioso, cuya última escuela había sido Entrala. La relación se publicó el 18 de octubre de 1903, página 246: https://www.boe.es/gazeta/dias/1903/10/18/pdfs/GMD-1903-291.pdf#page=12",
+        "Un edicto de 2014 la nombra como titular registral de una viña en Tardobispo, en Las Huertas y El Mimbrero, con inscripción del 19 de agosto de 1902. Se trata de una inscripción histórica citada para reanudar el tracto registral, no de que viviera en 2014: https://www.diputaciondezamora.es/opencms/export/sites/dipu-zamora/servicios/BOP/.Archivos/documentos/BOP/2014/20141114-135.pdf#page=20"
+      ]
     },
     {
       "id": "esteban-perez-giron",
@@ -6521,7 +6562,8 @@
         "transcription": "Franca Antª Martín.\n\nEn Primero de febrero de Mil Stos y sesenta y Nuebe as, yo Dn Tirso de Prada, Presvítero, de Lizenzia de Dn Antto Cabrero, Cura Proprio de este Lugar de Morales, Baptizé solemnemte a una Niña que Nació el día Veinte y seis de Enero de dicho año y se llamó Franca Antª, hija Lexítima de Bizente Martín y María Gerónima Pérez; Nieta por la Paterna de Juan Martín, Nl de Pontejos, y Gerónima Martín, Nl de Pereruela y Vos que fueron de Pontejos, y por la Materna de Manl Pérez y Athilana de Luelmo, Nles y Vos de este Lugar; fueron sus Padrinos Santiago Valladolid y Athilana de Luelmo, a quienes avisé la obligación y expiritual Parentesco, y lo firmé. Dn Antto Cabrero. Dn Tirso de Prada."
       },
       "observations": [
-        "La ejecutoria de un pleito de su marido, de agosto de 1830, la llama Francisca Martínez Pérez de Luelmo; el pleito, con Antonio Luelmo, vecino de Morales, era sobre si ciertos bienes eran libres o vinculados. El «de Luelmo» será el apellido de su abuela materna, Atilana Luelmo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
+        "La ejecutoria de un pleito de su marido, de agosto de 1830, la llama Francisca Martínez Pérez de Luelmo; el pleito, con Antonio Luelmo, vecino de Morales, era sobre si ciertos bienes eran libres o vinculados. El «de Luelmo» será el apellido de su abuela materna, Atilana Luelmo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691",
+        "En la ejecutoria de 1830, los testigos la identifican como hija de Vicente Martín y Jerónima Pérez, lo que confirma que es la Francisca de la misma filiación que recogen su bautismo y matrimonio: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
       ]
     },
     {
@@ -11910,7 +11952,10 @@
       "burial": {
         "date": "1789-01-06",
         "transcription": "En seis de henero del año del S.or de mil setecientos ochenta y nueve, se dio sepultura en esta Yglesia de grada abajo al cuerpo de Cathalina Cabrero muger de Balthasar Brioso. Murió de dolor de costado a los sesenta y ocho años de su edad habiendo recibido los S.tos Sacram.tos de confesión, comunión y extrema unción; [ilegible] testamento ante Alonso de Luelmo fiel de fechos y escribano de millones de este Pueblo dexando el cargo del funeral a su marido que cumplió exactam.te de que certifico y firmo. D.n Manuel de Luelmo."
-      }
+      },
+      "observations": [
+        "El testamento de su tío Antonio Cabrero del 13 de junio de 1766 la identifica como mujer de Baltasar Brioso y hermana de María, Manuel y Diego Cabrero Marqués. Antonio era hermano de su padre Francisco: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ]
     },
     {
       "id": "catalina-cabrero-marques-alonso",
@@ -12453,7 +12498,7 @@
       },
       "observations": [
         "La partida de fallecimiento nombra herederos a Bernardo y Jerónima Alonso.",
-        "Probablemente es ella la María Salvador que su padre nombra entre sus hijos en un pleito de 1680 ante la Real Chancillería de Valladolid: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324"
+        "La ejecutoria de 1713 que copia el pleito iniciado por su padre en 1680 la nombra expresamente como Ana María Salvador, hija de Pedro Salvador y María Rodríguez, junto a sus hermanos Manuel, Francisco y Josefa: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
       ],
       "baptism": {
         "date": "1668-04-19",
@@ -16026,8 +16071,11 @@
         }
       ],
       "observations": [
-        "La partida de matrimonio de su hija Catalina (29-05-1748) lo da por difunto."
-      ]
+        "La partida de matrimonio de su hija Catalina (29-05-1748) lo da por difunto.",
+        "Se enlaza como hijo de Juan Cabrero de la Calle y María Luelmo con la aceptación de la familia del 15-11-2026. Es una filiación inferida: el testamento de 1766 del cura Antonio Cabrero llama a Francisco su hermano, y el entierro de Juan de 1743 nombra a Antonio como hijo. No consta aquí una partida que nombre directamente a los padres de Francisco; tampoco se precisa si los hermanos compartían ambos progenitores. La mujer de Juan aparece como María Luelmo Pérez en los entierros, aunque su ficha la identifica como María Luelmo Martín: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ],
+      "father": "juan-cabrero",
+      "mother": "maria-luelmo-madre-de-manuel-cabrero"
     },
     {
       "id": "ines-marques",
@@ -16069,7 +16117,8 @@
         "transcription": "Ynés.\n\nEn siete de nobiembre de mill y seiscientos y ochenta y seis años yo el Ldo Joseph de Prado, cura teniente de este lugar de Morales, bapticé y puse los Stos óleos a una niña que se llamó Ynés, hija de Diego Marqués y de María Nieta su legítima muger. Fueron sus padrinos Alonso Sánchez de Toro, vecino de Zamora, y Jacinta Nieta; advertiles el parentesco espiritual. Fueron testigos Alonso de Vitoria y Matheo Brioso y en fe de ello lo firmé ut supra. Joseph de Prado.\n\nEste baptizado se puso aquí por no advertir que era este asiento el de los desposados, con que se a puesto en su lugar. No se borra por no ser conbeniente, que fue una inadbertencia."
       },
       "observations": [
-        "Ni su matrimonio ni su entierro nombran a sus padres. Se la identifica con la Inés bautizada en Morales del Vino el 07-11-1686, hija de Diego Marqués y de María Nieto, la única de ese nombre y edad que queda en el libro; el entierro le da ochenta y cuatro años, uno más de los que tendría."
+        "Ni su matrimonio ni su entierro nombran a sus padres. Se la identifica con la Inés bautizada en Morales del Vino el 07-11-1686, hija de Diego Marqués y de María Nieto, la única de ese nombre y edad que queda en el libro; el entierro le da ochenta y cuatro años, uno más de los que tendría.",
+        "La ejecutoria que copia el testamento de Antonio Cabrero nombra a sus hijos María, Manuel, Diego y Catalina; el entierro de María la identifica como hija de Francisco Cabrero e Inés Marqués: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
       ]
     },
     {
@@ -16275,7 +16324,8 @@
         "transcription": "Mª de Luelmo Pérez.\n\nEn catorze de Dizre de mill setezs y veinte y quatro se enterró en esta Ygª María de Luelmo aviendo recivido los santos sacramentos de penitencia, Eucharistía y extrema unción. Hizo testamento ante Lázaro López fiel de fechos vº de este lugr, la qual dicha Mª de Luelmo fue muger de Juan Cabrero vºs y naturales de dho Lugr y lo firmé. Fr. Franco Fonseca, thente cura."
       },
       "observations": [
-        "La partida de fallecimiento de su marido y el margen de la suya la llaman María de Luelmo Pérez."
+        "La partida de fallecimiento de su marido y el margen de la suya la llaman María de Luelmo Pérez.",
+        "La familia aceptó enlazar a Francisco Cabrero como hijo suyo por ser hermano del cura Antonio Cabrero, hijo de Juan. La maternidad es inferida: el testamento no identifica directamente a la madre de Francisco, y sigue pendiente la diferencia entre los apellidos Pérez y Martín: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
       ]
     },
     {
@@ -16660,7 +16710,8 @@
       },
       "observations": [
         "La partida de matrimonio de 1745 la llama viuda de Alonso Carpintero.",
-        "Debe de ser ella la Atilana Luelmo, viuda, vecina de Morales del Vino, que en 1776-1779 pleiteó con Francisco de Mena Miguel, del mismo lugar, sobre la nulidad o validez de la venta de varias tierras que le había hecho, porque se alegaba que la venta le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953"
+        "Debe de ser ella la Atilana Luelmo, viuda, vecina de Morales del Vino, que en 1776-1779 pleiteó con Francisco de Mena Miguel, del mismo lugar, sobre la nulidad o validez de la venta de varias tierras que le había hecho, porque se alegaba que la venta le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953",
+        "Su hermano José Luelmo Pinto nombró en su testamento de 1781 a sus padres Jerónimo de Luelmo Pinto y Teresa Arroyo; el testamento se copia en la ejecutoria de 1830 sobre el vínculo familiar: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
       ]
     },
     {
@@ -17888,7 +17939,10 @@
         "Martínez"
       ],
       "origins": [
-        "Galicia"
+        "Sever"
+      ],
+      "observations": [
+        "El resumen familiar lo describe como «de Galicia», sin precisar localidad. Por indicación de la familia del 15-11-2026, se adopta Sever, de Viana do Bolo (Ourense), como lugar de referencia, por ser el asociado a su mujer Catalina. Es una atribución familiar inferida; el bautismo de su hijo Silvestre de 1733 no indica el origen de ninguno de sus padres."
       ]
     },
     {
@@ -17898,9 +17952,12 @@
       "surnames": [
         "Martínez"
       ],
-      "birth": {
-        "place": "Sever"
-      }
+      "origins": [
+        "Sever"
+      ],
+      "observations": [
+        "El resumen familiar la sitúa en «Sever, Orense», identificado por la familia como Sever, de Viana do Bolo. Es un lugar de referencia, sin prueba de nacimiento allí. El bautismo de su hijo Silvestre de 1733 la llama Chatalina Martín y no indica su lugar de origen."
+      ]
     },
     {
       "id": "manuel-juarez",
@@ -18813,8 +18870,9 @@
         "transcription": "Pº Salbador.\n\nEn trece días del mes de Junio del año de 1705, abiendo recibido todos los sacramentos, se enterró en la yglesia deste lugar de Moraleja Pº Salbador. Hiço testamento ante Pedro [ilegible] el día 12 de dicho mes; mandó enterrarse con ábito, asistir a su entierro y onrras [ilegible] sacerdotes, [ilegible] de trigo de ofrenda, un nobenario cantado, [ilegible] y lo firmé. Antº Machargo de Casso."
       },
       "observations": [
-        "En 1680 pleiteó ante la Real Chancillería de Valladolid, «como padre y administrador de sus hijos Manuel, Francisco, Josefa y María Salvador», vecinos de Moraleja del Vino, con el concejo y los vecinos del lugar, para que se les guardasen ciertos privilegios y exenciones concedidos a un antepasado suyo. La María del pleito debe de ser Ana María, que tenía entonces doce años: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12713324"
-      ]
+        "La ejecutoria de 1713 copia su pleito iniciado en 1680, en el que figura casado con María Rodríguez y como padre de Manuel, Francisco, Josefa y Ana María Salvador. Lo declara hijo y nieto de sendos Pedro Salvador y llama bisabuelo suyo a Alonso García, marido de Catalina García Cabezas; no aclara por cuál de sus abuelos llega esa última ascendencia. Un pasaje de la sentencia llama a su mujer María Vázquez, aunque las peticiones dicen María Rodríguez, como las partidas familiares: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ],
+      "father": "pedro-salvador-padre-del-padre-de-ana-maria"
     },
     {
       "id": "josefa-hijo-de-pedro-salvador-padre-de-ana-maria-salvador",
@@ -19591,8 +19649,10 @@
         "Martín"
       ],
       "observations": [
-        "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185"
-      ]
+        "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185",
+        "La ejecutoria de 1630 nombra a Antonio Martín como su padre y dice que antes de casarse con Luis Méndez había sido la segunda mujer de Baltasar Rodríguez, vecino de El Perdigón. Lorenzo Rodríguez, el litigante, era hijo de Baltasar: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041"
+      ],
+      "father": "antonio-martin-padre-de-maria-martin-mendez"
     },
     {
       "id": "maria-madaleno",
@@ -23008,7 +23068,8 @@
         "place": "Morales del Vino"
       },
       "observations": [
-        "La partida de fallecimiento nombra testamentarios a sus hijos don Juan y don Antonio Cabrero; la firma el cura de Morales, don Antonio Cabrero Luelmo."
+        "La partida de fallecimiento nombra testamentarios a sus hijos don Juan y don Antonio Cabrero; la firma el cura de Morales, don Antonio Cabrero Luelmo.",
+        "El testamento de su hijo Antonio Cabrero (1766) llama hermano a Francisco Cabrero, marido de Inés Marqués. La familia aceptó enlazar también a Francisco como hijo de Juan; el enlace es inferido, no una filiación expresa de Francisco: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
       ],
       "baptism": {
         "date": "1665-09-12",
@@ -38947,6 +39008,127 @@
       ],
       "observations": [
         "Consta como madre de Tomasa Bobillo, casada a principios del siglo XVIII con Antonio Bobillo, en un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense), que no cita las partidas: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+      ]
+    },
+    {
+      "id": "antonio-cabrero-luelmo-hermano-de-francisco",
+      "name": "Antonio Cabrero Luelmo",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Cabrero",
+        "Luelmo"
+      ],
+      "father": "juan-cabrero",
+      "occupations": [
+        {
+          "name": "Cura",
+          "date": "1766",
+          "note": "Cura de Morales del Vino."
+        }
+      ],
+      "observations": [
+        "El entierro de Juan Cabrero de la Calle de 1743 lo nombra entre sus hijos y lleva la firma del cura Antonio Cabrero Luelmo.",
+        "Su testamento del 13 de junio de 1766 llama hermano a Francisco Cabrero, marido de Inés Marqués, y sobrinos a sus hijos María, Manuel, Diego y Catalina. La maternidad de Antonio no se expresa en los pasajes utilizados: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ]
+    },
+    {
+      "id": "maria-cabrero-marques-hermano-de-catalina",
+      "name": "María Cabrero Marqués",
+      "givenNames": "María",
+      "surnames": [
+        "Cabrero",
+        "Marqués"
+      ],
+      "father": "francisco-cabrero",
+      "mother": "ines-marques",
+      "observations": [
+        "El testamento de su tío Antonio Cabrero de 1766 nombra como hermanos a María, Manuel, Diego y Catalina Cabrero Marqués, esta última mujer de Baltasar Brioso. La copia del entierro de María confirma que era hija de Francisco Cabrero e Inés Marqués: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ]
+    },
+    {
+      "id": "manuel-cabrero-marques-hermano-de-catalina",
+      "name": "Manuel Cabrero Marqués",
+      "givenNames": "Manuel",
+      "surnames": [
+        "Cabrero",
+        "Marqués"
+      ],
+      "father": "francisco-cabrero",
+      "mother": "ines-marques",
+      "observations": [
+        "El testamento de su tío Antonio Cabrero de 1766 nombra como hermanos a María, Manuel, Diego y Catalina Cabrero Marqués, esta última mujer de Baltasar Brioso. La copia del entierro de María confirma que era hija de Francisco Cabrero e Inés Marqués: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ],
+      "occupations": [
+        {
+          "name": "Abogado de los Reales Consejos",
+          "date": "1766",
+          "note": "Vecino de Zamora."
+        }
+      ]
+    },
+    {
+      "id": "diego-cabrero-marques-hermano-de-catalina",
+      "name": "Diego Cabrero Marqués",
+      "givenNames": "Diego",
+      "surnames": [
+        "Cabrero",
+        "Marqués"
+      ],
+      "father": "francisco-cabrero",
+      "mother": "ines-marques",
+      "observations": [
+        "El testamento de su tío Antonio Cabrero de 1766 nombra como hermanos a María, Manuel, Diego y Catalina Cabrero Marqués, esta última mujer de Baltasar Brioso. La copia del entierro de María confirma que era hija de Francisco Cabrero e Inés Marqués: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ]
+    },
+    {
+      "id": "antonio-martin-padre-de-maria-martin-mendez",
+      "name": "Antonio Martín",
+      "givenNames": "Antonio",
+      "surnames": [
+        "Martín"
+      ],
+      "observations": [
+        "La ejecutoria de 1630 del pleito de Luis Méndez y María Martín, vecinos de Casaseca de las Chanas, lo llama padre de María al tratar de un arca que ella le había entregado: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041"
+      ]
+    },
+    {
+      "id": "pedro-salvador-padre-del-padre-de-ana-maria",
+      "name": "Pedro Salvador",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Salvador"
+      ],
+      "father": "pedro-salvador-abuelo-del-padre-de-ana-maria",
+      "origins": [
+        "Moraleja del Vino"
+      ],
+      "observations": [
+        "El pleito iniciado por su hijo Pedro en 1680 lo identifica como padre de este y vecino que había sido de Moraleja. Había obtenido en 1640 una sobrecarta de una ejecutoria anterior. El texto se copia en una ejecutoria de 1713: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ]
+    },
+    {
+      "id": "pedro-salvador-abuelo-del-padre-de-ana-maria",
+      "name": "Pedro Salvador",
+      "givenNames": "Pedro",
+      "surnames": [
+        "Salvador"
+      ],
+      "observations": [
+        "El pleito de 1680, copiado en la ejecutoria de 1713, llama al litigante Pedro Salvador hijo de Pedro Salvador y nieto de otro Pedro Salvador. Este es el abuelo citado; no se indica aquí el nombre de su mujer: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ]
+    },
+    {
+      "id": "jose-luelmo-pinto-hermano-de-atilana",
+      "name": "José Luelmo Pinto",
+      "givenNames": "José",
+      "surnames": [
+        "Luelmo",
+        "Pinto"
+      ],
+      "father": "jeronimo-de-luelmo",
+      "mother": "teresa-arroyo",
+      "observations": [
+        "En su testamento de 1781, copiado en la ejecutoria de 1830, nombra como padres a Jerónimo de Luelmo Pinto y Teresa Arroyo, los mismos de Atilana Luelmo Arroyo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
       ]
     }
   ]

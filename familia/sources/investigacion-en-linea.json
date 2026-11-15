@@ -19,7 +19,8 @@
     "FamilySearch, Árbol Familiar por pueblos: completados el 14-11-2026 Casaseca de Campeán (110), El Cubo de Tierra del Vino (289), Mansilla de las Mulas (449), Sobradillo de Palomares (64), Fuente el Carnero (38) y Valdemerilla (18); Villaescusa, 1.000 de 2.376 y la búsqueda con los apellidos Durán y Vivas. Solo coinciden cuatro antepasados de El Cubo que ya tenían padres; sus perfiles no dan padres.",
     "MyHeritage, árboles: buscados los 113 antepasados directos sin padres hasta la novena generación; los seis últimos (Francisco Macías, Isabel Manzano, María Bartolomé, Ysabela Ormacho Rodríguez, Antonio Bobillo y Catalina Devesa), el 14-11-2026, sin coincidencias.",
     "MyHeritage, árboles, décima generación: 53 de los 188 antepasados directos sin padres buscados el 14-11-2026, hasta Marcos Vega, cuando se alcanzó el límite diario de la cuenta gratuita; faltan 135 de esa generación y 288 de las generaciones 11 a 13.",
-    "Geneanet, búsqueda por pueblo: el 14-11-2026 se leyeron las páginas que faltaban de Malillos (1.805 resultados), Peleas de Arriba (3.266), Torregamones (789), Roales (1.302), Fuentesaúco (2.541), Carrascal (1.435), San Marcial (3.345), Morales de Toro (998), Salce (1.992) y Madridanos (1.191), sin coincidencias nuevas con la línea directa. Toro devuelve 54.469 resultados, porque el nombre coincide con muchos otros lugares, y solo se leyeron unos 3.000, más el apellido Sariñana en todo Geneanet (420), también sin coincidencias. El buscador no admite combinar apellido y pueblo."
+    "Geneanet, búsqueda por pueblo: el 14-11-2026 se leyeron las páginas que faltaban de Malillos (1.805 resultados), Peleas de Arriba (3.266), Torregamones (789), Roales (1.302), Fuentesaúco (2.541), Carrascal (1.435), San Marcial (3.345), Morales de Toro (998), Salce (1.992) y Madridanos (1.191), sin coincidencias nuevas con la línea directa. Toro devuelve 54.469 resultados, porque el nombre coincide con muchos otros lugares, y solo se leyeron unos 3.000, más el apellido Sariñana en todo Geneanet (420), también sin coincidencias. El buscador no admite combinar apellido y pueblo.",
+    "Continuación del 15-11-2026: cotejados los pasajes genealógicos de las cinco ejecutorias pendientes y una nueva tanda de prensa y boletines. Detalles, decisiones expresas de la familia, discrepancias y cobertura real en investigacion-2026-11-15.json. No se ha completado ni descontado el barrido pendiente de FamilySearch o MyHeritage."
   ],
   "applied": [
     {
@@ -359,6 +360,108 @@
       "urls": [
         "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSG5-L9YT-B"
       ]
+    },
+    {
+      "person": "maria-martin-madre-de-juan-mendez",
+      "change": "Nuevo padre de María Martín: Antonio Martín. Se anota su anterior marido Baltasar Rodríguez, sin abrir una rama por afinidad.",
+      "evidence": "PARES 5759041, imagen 2: María Martín, segunda mujer que había sido de Baltasar Rodríguez de El Perdigón, «Antonio Martín su padre». Coincide la pareja Luis Méndez–María Martín y Casaseca. El bautismo de su hijo Juan de 1630 nombra entre los testigos a Antonio Martín, sin expresar parentesco.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041"
+      ]
+    },
+    {
+      "person": "pedro-salvador-padre-de-ana-maria-salvador",
+      "change": "Dos antepasados directos nuevos, ambos Pedro Salvador, padre y abuelo del litigante de 1680. Ana María queda confirmada por nombre completo.",
+      "evidence": "PARES 5831662, imagen 2, petición de 1680: «hijo de Pº Salvador y nieto de Pº Salvador». Imagen 3 izquierda confirma al padre vecino que había sido de Moraleja y su sobrecarta de 1640. Imagen 3 derecha: María Rodríguez y los hijos Manuel, Francisco, Josefa y Ana María. La sentencia llama a la mujer María Vázquez, discrepancia interna registrada sin cambiar la filiación parroquial. La expedición de 1713 no se usa como prueba de que el litigante viviera ese año.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ]
+    },
+    {
+      "person": "francisco-cabrero",
+      "change": "Filiación inferida de Francisco con Juan y María, aceptada expresamente por la familia en este chat. Se añaden su hermano Antonio y los tres hermanos de Catalina.",
+      "evidence": "PARES 5811624, imagen 3 derecha, cláusula 8: «los hijos de mi hermano Francisco Cabrero». Imagen 10 izquierda: Catalina mujer de Baltasar Brioso, y hermanos María, Manuel y Diego; Manuel abogado de los Reales Consejos, vecino de Zamora. Imagen 18 izquierda copia el entierro de María (1776), hija de Francisco Cabrero e Inés Marqués. Juan Cabrero de la Calle nombra a su hijo Antonio en su entierro de 1743, firmado Antonio Cabrero Luelmo. No se demuestra directamente que Francisco sea hijo de Juan ni de su mujer; tampoco que los hermanos compartieran ambos padres. María se llama Pérez en los entierros y Martín en la identificación del árbol. No se trasladan edad o fecha exacta del entierro de María Cabrero: la lectura provisional de 74 años no encaja con el matrimonio de sus padres de 1710.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+      ]
+    },
+    {
+      "person": "atilana-de-luelmo",
+      "change": "Se añade José como hermano de Atilana y se confirma la identidad de Francisca en la ejecutoria.",
+      "evidence": "PARES 5800691, imagen 3, copia del testamento de 1781 de José: padres Jerónimo de Luelmo Pinto y Teresa Arroyo. Imágenes 7 y 9: Francisca, hija de Vicente Martín y Jerónima Pérez, misma filiación que el bautismo de 1769 y el matrimonio de 1787. No se convierte en genealogía demostrada la pretensión de ser la pariente más próxima.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
+      ]
+    },
+    {
+      "person": "josefa-unzueta-fernandez",
+      "change": "Se añade fallecimiento en 1935, sin día exacto, y se elimina la inferencia de vida a partir del edicto de marzo de 1935.",
+      "evidence": "María Luisa Visintini, De Zamora a América I (2007), página 208: sitúa la muerte en 1935. Página 215: carta de Antonio a Epifanio Herrero, 7-3-1935, que responde a otra del 21-1 y lamenta la pérdida de su madre. La muerte anterior al 21-1 es una inferencia, no una fecha expresa. El capítulo identifica los padres y hermanos de Antonio, coincidentes con el árbol.",
+      "urls": [
+        "https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf#page=208",
+        "https://emigracioncastellanayleonesa.es/wp-content/uploads/2023/07/Emigracion_Zamorana_I.pdf#page=215"
+      ]
+    },
+    {
+      "person": "florencio-brioso-alonso",
+      "change": "Oficio de maestro de Florencio, última escuela en Entrala y pensión de su viuda; inscripción histórica de una viña de Antonia.",
+      "evidence": "Gaceta 18-10-1903, página 246, estado de pensiones de 1902: Antonia de Mena Santa María, viuda de Florencio Brioso; Entrala, en activo al fallecimiento, 37 años 11 meses 8 días de servicio, clasificación 500 y pensión 333,32 pesetas. Tabla leída en la imagen renderizada. Acredita fallecimiento previo a la concesión en 1902, no fecha exacta. BOP Zamora 14-11-2014, página 20: Antonia Mena Santamaría, viña Las Huertas y El Mimbrero en Tardobispo, sexta inscripción del 19-8-1902; un edicto de reanudación del tracto, no prueba de vida en 2014.",
+      "urls": [
+        "https://www.boe.es/gazeta/dias/1903/10/18/pdfs/GMD-1903-291.pdf#page=12",
+        "https://www.diputaciondezamora.es/opencms/export/sites/dipu-zamora/servicios/BOP/.Archivos/documentos/BOP/2014/20141114-135.pdf#page=20"
+      ]
+    },
+    {
+      "person": "salvador-piorno-tuda",
+      "change": "Oficio de mesonero en Casaseca de las Chanas, calle Jambrina, 1893-1894.",
+      "evidence": "BOP 2-4-1894, página 2: Salvador Piorno Tuda, mesonero, domicilio «Idem» de Jambrina, cuota para el Tesoro 20 pesetas. No es número de vivienda.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18940402/page/n1"
+      ]
+    },
+    {
+      "person": "enrique-brioso-mena",
+      "change": "Junta municipal de Tardobispo (1906), juez municipal propietario (1907), y como identificación probable aprobada por la familia: ordenanza en Madrid, segundo matrimonio con Carmen Alonso Ramos y fallecimiento anterior a agosto de 1920.",
+      "evidence": "Actas municipales publicadas el 13-2-1907, página 2, sesión 15-2-1906; BOP 29-11-1907, página 8, Jueces, Tardobispo, propietario D. Enrique Brioso de Mena. Julio V. Brioso y Mairal, Noticias carlistas en El Diario de Huesca, páginas 64 y 81: abuelo Julio Brioso Pérez de Tardobispo y bisabuelo Enrique Brioso de Mena, empleado del Servicio Geográfico de Madrid. Gaceta 2-9-1920: Carmen Alonso Ramos viuda de Enrique, ordenanza del Instituto Geográfico y Estadístico; el Heraldo del 3-8-1920 ya lo nombraba fallecido. No hay partida del segundo matrimonio ni de fallecimiento.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_19070213/page/n1",
+        "https://archive.org/details/BoletinOficialZamora_19071129/page/n7",
+        "https://studylib.es/doc/8491656/el-diario-de-huesca.-125-a%C3%B1os-despu%C3%A9s",
+        "https://www.boe.es/gazeta/dias/1920/09/02/pdfs/GMD-1920-246.pdf",
+        "https://archive.org/details/HeraldoDeZamora_19200803_08165"
+      ]
+    },
+    {
+      "person": "desiderio-devesa-romero",
+      "change": "Inclusión en listas de jurados, categoría capacidades, sin inferir actuación efectiva ni profesión.",
+      "evidence": "BOP 13-8-1894 número 38; 21-8-1896 número 46, lista para 1897; 2-9-1898 número 64. Nombre completo y Villardeciervos, imágenes cotejadas.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18940813",
+        "https://archive.org/details/BoletinOficialZamora_18960821",
+        "https://archive.org/details/BoletinOficialZamora_18980902"
+      ]
+    },
+    {
+      "person": "epifanio-herrero-vega",
+      "change": "Se coteja la crónica judicial del 3-10-1908 y se atribuyen expresamente sus cifras; se añade la mención con nombre completo del 28-9-1908.",
+      "evidence": "El padre tiene ambos apellidos en las crónicas de 28-9 y 3-10-1908. El 3-10 dice expresamente 18-10 del año anterior, 231 cabezas lanares y veinte cabrías que perecieron, perjuicios de 2.860 pesetas. Lectura independiente del original descargado y renderizado al cierre: la cifra es 231, no el 281 del OCR. Se corrige la alarma preliminar de que las cifras carecían de respaldo: sí aparecen en la segunda cita ya presente en la ficha.",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19080928_03437",
+        "https://archive.org/details/HeraldoDeZamora_19081003_03442/page/n1"
+      ]
+    },
+    {
+      "person": "domingo-martinez",
+      "change": "Se aclara la procedencia de las localidades y se conservan como referencias, sin atribuir nacimientos. Tras la explicación de la prueba disponible, la familia pidió sustituir Galicia por Sever, Ourense, en Domingo.",
+      "evidence": "README del lote CUARTOS: TATARABUELOS CUARTOS.docx, MATERNOS 43, «De Galicia» para Domingo y «Catalina Martínez (Sever, Orense)». La familia identificó Sever como Viana do Bolo el 7-11-2026. Los paréntesis se trataron originalmente solo como lugares de referencia. El bautismo de Silvestre de 1733, transcrito en cuartos-fotografias.json, dice Domingo Martínez y Chatalina Martín, sin origen de los padres. No se encontró el DOCX original para nueva inspección; no se presenta su resumen como prueba parroquial. La sustitución de Galicia por Sever en Domingo procede de esta nueva indicación familiar, no de una nueva partida."
+    },
+    {
+      "person": "ines-velasco-madre-de-juan-fierro",
+      "change": "Mapa: Villanueva de Pontedo, Cármenes, León, 42.97811111, -5.57847222, según el enlace identificado por la familia.",
+      "evidence": "Coordenadas del enlace identificado por la familia el 15-11-2026.",
+      "urls": [
+        "https://es.wikipedia.org/wiki/Villanueva_de_Pontedo"
+      ]
     }
   ],
   "pendingDecisions": [
@@ -547,6 +650,55 @@
       "urls": [
         "https://archive.org/details/BoletinOficialZamora_19150104"
       ]
+    },
+    {
+      "person": "francisco-valladolid",
+      "note": "Pendiente, no se cambia la madre ni se añaden hermanos. PARES 5814006, imágenes 2-4: Francisco hijo de Santiago, vecindades Casaseca y Pontejos. El texto parece llamar a la primera mujer María Carvajal, mientras matrimonio de 1732, bautismo de 1734 y matrimonio de 1759 dicen Francisca Carbajal. Nombra a Francisca Valladolid, mujer de Luis Fernández, hija de distinta madre, y a José y Blas, fallecidos niños; segunda esposa Gerónima Martín, lectura por confirmar.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
+      ]
+    },
+    {
+      "person": "pedro-salvador-padre-de-ana-maria-salvador",
+      "note": "Bisabuelo nombrado, ruta de parentesco sin determinar. PARES 5831662, imagen 3 izquierda, Alonso García marido de Catalina García Cabezas, bisabuelo del litigante. No enlazar como padre del abuelo Pedro por mera sucesión del relato. Tampoco enlazar con el personaje medieval del privilegio.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ]
+    },
+    {
+      "person": "epifanio-herrero-vega",
+      "note": "Comprobación adicional resuelta respecto a las cifras y la identidad del propietario; queda una diferencia editorial en el apellido del acusado. El original del 3-10-1908, página 2, confirma 231 ovejas y veinte cabras muertas en el corral de Epifanio Herrero Vega el 18-10-1907. El aviso inicial del 23-10-1907 daba 235 ovejas albergadas, que no equivale al número muerto. El apellido del acusado aparece como Vega Fernández en 1907 y Junquera Fernández en 1908; no se usa para filiaciones. La alarma preliminar de falta de respaldo para las cifras de la ficha resultó incorrecta tras revisar el 3-10.",
+      "urls": [
+        "https://archive.org/details/HeraldoDeZamora_19071023_03164",
+        "https://archive.org/details/HeraldoDeZamora_19081003_03442",
+        "https://archive.org/details/HeraldoDeZamora_19080928_03437"
+      ]
+    },
+    {
+      "person": "salvador-piorno-tuda",
+      "note": "Posibles menciones sin segundo apellido, sin nuevos enlaces. Salvador Piorno, elector de Casaseca en 1882 y 1888; Petra Piorno Tuda en fallecimientos del 9-9-1905, sin edad o padres, posible pariente no identificada.",
+      "urls": [
+        "https://archive.org/details/BoletinOficialZamora_18830126",
+        "https://archive.org/details/BoletinOficialZamora_18881010",
+        "https://archive.org/details/HeraldoDeZamora_19050909_02541"
+      ]
+    },
+    {
+      "person": "enrique-brioso-mena",
+      "note": "No se aplica la condena de 1900. El nombre coincide pero falta filiación o localidad inequívoca. Otros cargos sin segundo apellido (vigilante de consumos, mayo de 1906; concejal saliente, 1913) siguen como probables.",
+      "urls": []
+    },
+    {
+      "person": "epifanio-herrero-vega",
+      "note": "Donativos sin segundo apellido, no aplicados. Boletín eclesiástico de Astorga, 4-4-1900, Villar de Ciervos: Epifanio Herrero, 0,25 pesetas; Desiderio Devesa, 1 peseta. Hay homónimos en generaciones contiguas.",
+      "urls": [
+        "https://archive.org/details/BoletinEclesiasticoObispadoAstorga_19000404"
+      ]
+    },
+    {
+      "person": "antonio-junquera-bobo",
+      "note": "Descartado como evidencia de este antepasado. Un Antonio Junquera Bobo premiado por sucesos de 1840 en Ourense; el antepasado nació en 1828 y tendría doce años. No atribuirle la medalla.",
+      "urls": []
     }
   ]
 }

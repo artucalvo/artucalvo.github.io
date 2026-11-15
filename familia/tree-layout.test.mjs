@@ -213,7 +213,12 @@ test('person data and the catalog contain no file attribution or file references
   const fileReference = /\.(?:docx?|pdf|jpe?g|png|tiff?)\b|\bfotograf[íi]as?\b|\bdocumentos?\b|\bfuente\s*:/iu;
   function check(value, context) {
     if (typeof value === 'string') {
-      assert.doesNotMatch(value, fileReference, `${context} contains a file reference`);
+      // Observations may link to online historical sources, including PDFs.
+      // The prose and all other fields still exclude file attribution.
+      const prose = /\.observations\[\d+\]$/u.test(context)
+        ? value.replace(/https?:\/\/[^\s<>"«»]+/gu, '')
+        : value;
+      assert.doesNotMatch(prose, fileReference, `${context} contains a file reference`);
     } else if (Array.isArray(value)) {
       value.forEach((entry, index) => check(entry, `${context}[${index}]`));
     } else if (value && typeof value === 'object') {
