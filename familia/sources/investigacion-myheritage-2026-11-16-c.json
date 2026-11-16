@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "batch": "Tercera tanda de MyHeritage del 16-11-2026",
+  "method": "Búsquedas por nombres en árboles familiares de MyHeritage; se compararon las tarjetas visibles con familiares y localidades conocidos. Las coincidencias son aproximadas y las páginas no revisadas quedan pendientes.",
+  "searches": [
+    {
+      "personId": "magdalena-sastre",
+      "query": "Magdalena Sastre",
+      "resultsTotal": 10890,
+      "reviewed": "Primera página: 20 tarjetas",
+      "finding": "Sin Miguel Calvo ni Ángela Sogo en la página revisada."
+    },
+    {
+      "personId": "ana-ma-bambon",
+      "query": "Ana María Bambón",
+      "resultsTotal": 314,
+      "reviewed": "Primera página: 20 tarjetas",
+      "finding": "Sin Manuel Martín Alonso ni Juan en Pontejos en la página revisada; aparecen variantes aproximadas."
+    },
+    {
+      "personId": "manuel-misol",
+      "query": "Manuel Misol",
+      "resultsTotal": 13,
+      "reviewed": "13 resultados principales",
+      "finding": "Sin Inés Prieto, Francisco Misol Prieto ni contexto identificable de Morales de Toro."
+    },
+    {
+      "personId": "ana-lachon",
+      "query": "Ana Lachón",
+      "resultsTotal": 973,
+      "reviewed": "Primera página: 20 tarjetas; cuatro perfiles abiertos de dos grupos separados",
+      "finding": "Un perfil y su hija Casilda concuerdan con Manuel Hernández, Andrés Pérez Mateos y Juan Pérez Hernández (1736). Otro grupo con padres homónimos da un hijo Andrés Hernández Lachón; posible pista, sin confirmar unión de ambos grupos."
+    },
+    {
+      "personId": "alonso-calabaza",
+      "query": "Alonso Calabaza",
+      "resultsTotal": 53,
+      "reviewed": "Primeras 9 tarjetas de la primera página",
+      "finding": "Sin María López ni Antonio Calabaza López en las tarjetas revisadas; el resto queda pendiente."
+    },
+    {
+      "personId": "luisa-portales",
+      "query": "Luisa Portales",
+      "resultsTotal": 861,
+      "reviewed": "Primera página: 20 tarjetas",
+      "finding": "Sin Catalina Marqués Portales ni contexto reconocible de Morales del Vino en la página revisada."
+    },
+    {
+      "personId": "catalina-marques-portales",
+      "query": "Catalina Marques Portales",
+      "resultsTotal": 565,
+      "reviewed": "Primera página: 20 tarjetas",
+      "finding": "Sin padres ni contexto conocidos en las tarjetas revisadas; predominan coincidencias aproximadas chilenas."
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "ana-lachon",
+        "manuel-hernandez-padre-de-casilda-hernandez",
+        "casilda-hernandez"
+      ],
+      "finding": "Se anotó el árbol coincidente y una pista de posible hermano. El bautismo de 1736 llama naturales de Villanueva de Campeán a Manuel y Ana, frente a Casaseca de Campeán en sus fichas: discrepancia no resuelta. No se añadieron padres ni se estableció la supuesta hermandad.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503829&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503825&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503865&action=showRecord"
+      ]
+    }
+  ],
+  "coverageNotes": [
+    "Siete consultas, incluida una búsqueda de hija; salvo la consulta de 13 resultados, son revisiones parciales. No se recalculó el número antiguo de personas pendientes.",
+    "La partida de Juan figura como transcripción en el árbol local; no se ha comprobado aquí la imagen original. El árbol de MyHeritage puede depender de la misma fuente y no se trata como confirmación independiente."
+  ]
+}
