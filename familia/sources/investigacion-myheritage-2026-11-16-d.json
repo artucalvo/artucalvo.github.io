@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "batch": "Cuarta tanda de MyHeritage del 16-11-2026",
+  "method": "Búsquedas por nombre en árboles familiares de MyHeritage, con cotejo de las tarjetas visibles con la pareja, descendencia y localidad ya conocidas. No se han revisado páginas restantes.",
+  "searches": [
+    {
+      "personId": "ines-rodrigo",
+      "query": "Inés Rodrigo",
+      "resultsTotal": 334,
+      "reviewed": "Primera página",
+      "finding": "Sin Santiago Almaraz ni Fresnadillo en los resultados mostrados."
+    },
+    {
+      "personId": "maria-almaraz",
+      "query": "María Almaraz Rodrigo",
+      "resultsTotal": 492,
+      "reviewed": "Primera página",
+      "finding": "Sin los padres Santiago Almaraz e Inés Rodrigo ni el contexto de Fresnadillo entre las tarjetas visibles."
+    },
+    {
+      "personId": "alonso-roman",
+      "query": "Alonso Román",
+      "resultsTotal": 793,
+      "reviewed": "Primera página",
+      "finding": "Sin Luisa Perdigón, Andrés ni Arcenillas entre las tarjetas visibles."
+    },
+    {
+      "personId": "andres-roman",
+      "query": "Andrés Román Perdigón",
+      "resultsTotal": 14,
+      "reviewed": "Los 14 resultados principales y las primeras sugerencias con nombre flexibilizado",
+      "finding": "Sin Alonso Román ni Luisa Perdigón; los resultados corresponden a otros contextos."
+    },
+    {
+      "personId": "agustin-prieto",
+      "query": "Agustín Prieto",
+      "resultsTotal": 1587,
+      "reviewed": "Primera página",
+      "finding": "Sin Isabel Vicente, Atanasio ni Muga de Sayago en las tarjetas visibles."
+    },
+    {
+      "personId": "atanasio-prieto",
+      "query": "Atanasio Prieto Vicente",
+      "resultsTotal": 0,
+      "reviewed": "Sin resultados principales; primeras 20 sugerencias con nombre flexibilizado",
+      "finding": "Ninguna sugerencia mostrada coincide con la familia conocida."
+    },
+    {
+      "personId": "maria-magarzo",
+      "query": "María Magarzo",
+      "resultsTotal": 22869,
+      "reviewed": "Primera página",
+      "finding": "Sin Juan Gonzalo ni Manuel Gonzalo en las tarjetas visibles."
+    }
+  ],
+  "profileFollowup": {
+    "people": [
+      "andres-perez",
+      "melchor-perez",
+      "ana-mateo-madre-de-andres-perez"
+    ],
+    "finding": "El árbol Bonilla Cortabitarte coincide con Andrés, su mujer Casilda, su hijo Juan y los padres Melchor Pérez y Ana Mateos. Los perfiles de ambos padres no dan ascendientes. Los registros ya transcritos y el árbol pueden depender de la misma fuente.",
+    "urls": [
+      "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503824&action=showRecord",
+      "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503826&action=showRecord",
+      "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503827&action=showRecord"
+    ]
+  },
+  "placeReview": {
+    "people": [
+      "ana-lachon",
+      "manuel-hernandez-padre-de-casilda-hernandez"
+    ],
+    "finding": "Comprobada la fotografía original de la partida de bautismo de Jerónimo Juan Pérez de 30-09-1736, Peleas de Arriba, folio 65: sus abuelos maternos son naturales de Villanueva de Campeán. Los resúmenes familiares TATARABUELOS QUINTOS, entrada 118, y SEXTOS dan Casaseca de Campeán, sin partida original identificada para ese lugar. Se usa Villanueva en las fichas, con aviso de que faltan las partidas propias y constancia del dato discrepante.",
+    "original": "familia/Register Data/Tatarabuelos cuartos/Juan Pérez Hernández.JPG"
+  },
+  "coverageNotes": [
+    "Siete consultas, cuatro de ascendientes y tres de hijos directos para buscar a sus padres; salvo la de 14 resultados, son revisiones parciales. Sin nuevos padres identificados."
+  ]
+}
