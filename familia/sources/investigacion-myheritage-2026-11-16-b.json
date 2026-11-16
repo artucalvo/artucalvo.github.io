@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "batch": "Segunda tanda de MyHeritage del 16-11-2026",
+  "method": "Se buscó por nombre y apellidos en árboles familiares de MyHeritage; se compararon las primeras 20 tarjetas de cada consulta con cónyuge, descendencia y localidad. No se revisaron las páginas restantes.",
+  "searches": [
+    {
+      "personId": "ana-formariz",
+      "query": "Ana Formariz",
+      "resultsTotal": 278,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Matías Delgado ni Ambrosio; predominan resultados portugueses por similitud de palabras."
+    },
+    {
+      "personId": "matias-delgado",
+      "query": "Matías Delgado",
+      "resultsTotal": 760,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Ana Formariz ni Ambrosio en la página revisada."
+    },
+    {
+      "personId": "juana-gaitan",
+      "query": "Juana Gaitán",
+      "resultsTotal": 1124,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Alonso Antón, Andrés o Fresnadillo en la página revisada."
+    },
+    {
+      "personId": "teresa-roncero",
+      "query": "Teresa Roncero",
+      "resultsTotal": 561,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Santiago Domínguez o Abelón en la página revisada."
+    },
+    {
+      "personId": "ana-piorno",
+      "query": "Ana Piorno",
+      "resultsTotal": 306,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Coincide con Bernardo Gaspar y Fadón; el perfil incluye matrimonio, hija Teresa y una supuesta pareja Pascual Martín señalada con interrogante."
+    },
+    {
+      "personId": "santiago-sastre",
+      "query": "Santiago Sastre",
+      "resultsTotal": 788,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin María Rodrigo, Gáname ni hijos conocidos en la página revisada."
+    },
+    {
+      "personId": "alonso-zurdo",
+      "query": "Alonso Zurdo",
+      "resultsTotal": 70,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Hay un Alonso de Gáname con mujer María Domínguez e hija María, pero no aparece Ángela Alonso; no se establece identidad."
+    },
+    {
+      "personId": "maria-zurdo",
+      "query": "María Zurdo Alonso",
+      "resultsTotal": 1921,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "La primera página muestra homónimas con otros padres y fechas, no a Alonso Zurdo y Ángela Alonso."
+    },
+    {
+      "personId": "alonso-anton",
+      "query": "Alonso Antón",
+      "resultsTotal": 270,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Juana Gaitán ni Fresnadillo en la página revisada."
+    },
+    {
+      "personId": "santiago-almaraz",
+      "query": "Santiago Almaraz",
+      "resultsTotal": 63,
+      "reviewed": "Primera página, 20 resultados principales",
+      "finding": "Sin Inés Rodrigo ni Fresnadillo en la página revisada."
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "ana-piorno",
+        "bernardo-gaspar",
+        "teresa-gaspar-hija-de-bernardo"
+      ],
+      "finding": "El árbol FAMILIA PIORNO FERNANDEZ sitúa la boda de Ana Piorno y Bernardo Gaspar de Olmedo el 4-01-1708 en Fadón, y da a Bernardo por hijo de Alonso Gaspar y Josepha de Olmedo. La partida de bautismo de Bernardo de 1688, su entierro de 1729 y el matrimonio de Sebastiana de 1730 permiten corroborar identidad por padres, pareja y pueblo; su entierro también nombra entre sus hijas a Teresa. El perfil de Teresa atribuye a esta una boda con Pedro Hernández Escudero el 1-06-1744 en Sogo de Sayago. No se han comprobado las partidas de boda. La supuesta pareja adicional de Ana, Pascual Martín?, figura con interrogante y no se incorpora como relación.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-34&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-33&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-30&action=showRecord"
+      ]
+    }
+  ],
+  "coverageNotes": [
+    "Diez personas buscadas; solo se revisaron las primeras tarjetas, aunque algunos resultados son coincidencias aproximadas o duplicados. Las cifras no constituyen cobertura exhaustiva.",
+    "Los padres de Ana continúan desconocidos; no se ha reducido automáticamente la antigua cuenta de pendientes."
+  ]
+}

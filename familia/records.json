@@ -22694,7 +22694,10 @@
       },
       "marriages": [
         {
-          "spouse": "ana-piorno"
+          "spouse": "ana-piorno",
+          "date": "1708-01-04",
+          "place": "Fadón",
+          "note": "Fecha y lugar dados por un árbol familiar de MyHeritage; partida de matrimonio no comprobada."
         }
       ],
       "baptism": {
@@ -22702,7 +22705,8 @@
         "transcription": "En catorce días del mes de febrero de mill seiscientos y ochenta y ocho el L.do [ilegible] cura Theniente [ilegible] baptizó a Bernardo hijo de Alonso Gaspar y Josepha de Olmedo su muger; fue su Padrino el L.do Andrés Rodríguez y lo firmé. [firma]."
       },
       "observations": [
-        "La partida de bautismo nombra a su madre Josepha de Olmedo; la de entierro dice «Theresa Olmedo su madre», expresión que podría referirse a la madre de su mujer Ana. La discrepancia queda pendiente de revisión."
+        "La partida de bautismo nombra a su madre Josepha de Olmedo; la de entierro dice «Theresa Olmedo su madre», expresión que podría referirse a la madre de su mujer Ana. La discrepancia queda pendiente de revisión.",
+        "El árbol FAMILIA PIORNO FERNANDEZ coincide en la mujer, los padres y la hija Teresa, y da su boda el 4 de enero de 1708 en Fadón; no se ha comprobado la partida. El entierro de Bernardo en 1729 fija un límite anterior al del perfil de ese árbol: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-33&action=showRecord"
       ]
     },
     {
@@ -22733,8 +22737,14 @@
       },
       "marriages": [
         {
-          "spouse": "bernardo-gaspar"
+          "spouse": "bernardo-gaspar",
+          "date": "1708-01-04",
+          "place": "Fadón",
+          "note": "Fecha y lugar dados por un árbol familiar de MyHeritage; partida de matrimonio no comprobada."
         }
+      ],
+      "observations": [
+        "El árbol FAMILIA PIORNO FERNANDEZ da su boda con Bernardo Gaspar de Olmedo el 4 de enero de 1708 en Fadón. Coinciden nombres, matrimonio, hija Teresa y localidad con los datos parroquiales de la familia; no se ha comprobado la partida de boda. El mismo árbol plantea con interrogante una pareja Pascual Martín, sin prueba examinada: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-34&action=showRecord"
       ]
     },
     {
@@ -28687,7 +28697,8 @@
       "father": "bernardo-gaspar",
       "mother": "ana-piorno",
       "observations": [
-        "Segundo apellido deducido del de su madre."
+        "Segundo apellido deducido del de su madre.",
+        "El árbol FAMILIA PIORNO FERNANDEZ la identifica como hija de Bernardo Gaspar y Ana Piorno y dice que se casó con Pedro Hernández Escudero el 1 de junio de 1744 en Sogo de Sayago. El enlace es compatible con la hija Teresa nombrada en el entierro de Bernardo, pero no se ha comprobado la partida del matrimonio: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-30&action=showRecord"
       ]
     },
     {
