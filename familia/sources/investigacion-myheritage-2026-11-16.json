@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "batch": "Búsquedas de MyHeritage del 16-11-2026",
+  "method": "Consultas en árboles familiares de MyHeritage; se revisaron tarjetas de la primera página, no todos los resultados. Las coincidencias se contrastaron con cónyuges, hijos, fecha y lugar. El buscador flexibiliza nombres; un criterio de familiar no exacto influye en la ordenación pero no garantiza que los resultados lo cumplan.",
+  "searches": [
+    {
+      "personId": "angela-pozo-madre-de-maria-anton",
+      "query": "Ángela Pozo",
+      "resultsTotal": 4498,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "No figura Miguel Antón ni la hija María en la primera página, ni en la primera página ordenada con esposo Miguel Antón; predominan duplicados."
+    },
+    {
+      "personId": "matias-zurdo",
+      "query": "Matías Zurdo",
+      "resultsTotal": 15,
+      "reviewed": "15 resultados principales mostrados en primera página",
+      "finding": "Los resultados principales mostrados corresponden a otros lugares, épocas o cónyuges; también se mostraron alternativas de nombre flexibilizado."
+    },
+    {
+      "personId": "manuela-diego",
+      "query": "Manuela Diego",
+      "resultsTotal": 2350,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Matías Zurdo en la página revisada."
+    },
+    {
+      "personId": "antonio-de-las-infantas",
+      "query": "Antonio Infantas",
+      "resultsTotal": 424,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "No aparece pareja María García ni hija Manuela en la primera página; el buscador amplía a Infantes."
+    },
+    {
+      "personId": "catalina-coscaron",
+      "query": "Catalina Coscarón",
+      "resultsTotal": 200,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Francisco Almaraz ni hija Josefa Almaraz; homónimas con otros maridos. Se intentó Fresnadillo en Lugar, pero no persistió en la búsqueda."
+    },
+    {
+      "personId": "maria-tudera",
+      "query": "María Tudera",
+      "resultsTotal": 15233,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Lucas Pereruela o Malillos; predominan homónimas finlandesas."
+    },
+    {
+      "personId": "lucas-pereruela",
+      "query": "Lucas Pereruela",
+      "resultsTotal": 16,
+      "reviewed": "16 resultados principales mostrados en primera página",
+      "finding": "Los resultados principales son homónimos de otras familias; ningún resultado muestra María Tudera o Malillos."
+    },
+    {
+      "personId": "catalina-pereruela",
+      "query": "Catalina Pereruela",
+      "resultsTotal": 15,
+      "reviewed": "15 resultados principales mostrados en primera página",
+      "finding": "Los resultados principales corresponden a apellidos aproximados y otros cónyuges; ninguno muestra Matías Hernández o Malillos."
+    },
+    {
+      "personId": "maria-magarzo",
+      "query": "María Magarzo",
+      "resultsTotal": 22798,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Juan Gonzalo ni Villardiegua de la Ribera en la página revisada."
+    },
+    {
+      "personId": "domingo-barrocal",
+      "query": "Domingo Barrocal",
+      "resultsTotal": 21,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Primera página dominada por la variante Berrocal; no se ve Ana Crespo o Fresnadillo. El resultado 21 no se revisó."
+    },
+    {
+      "personId": "juan-barrocal",
+      "query": "Juan Barrocal",
+      "resultsTotal": 183,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "La primera página está dominada por homónimos de Medina del Campo; no aparece Inés Melado ni Fresnadillo."
+    },
+    {
+      "personId": "ines-melado",
+      "query": "Inés Melado",
+      "resultsTotal": 162,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Juan Barrocal ni Luelmo en primera página; se repitió con esposo Juan Barrocal como criterio no exacto y tampoco hubo coincidencia en la primera página."
+    },
+    {
+      "personId": "catalina-blanco",
+      "query": "Catalina Blanco",
+      "resultsTotal": 4531,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Sin Francisco Blanco y Fresnadillo identificados en la primera página."
+    },
+    {
+      "personId": "alonso-melado",
+      "query": "Alonso Melado",
+      "resultsTotal": 63,
+      "reviewed": "20 resultados principales mostrados en primera página",
+      "finding": "Coincide esposa María Coscarón; la ficha de la hija Josefa da Luelmo y cronología compatible. Los perfiles no nombran padres de Alonso ni de María, ni a Inés."
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "alonso-melado",
+        "maria-coscaron-madre-de-ines-melado",
+        "ines-melado"
+      ],
+      "finding": "El árbol Salgado nombra al matrimonio Alonso Melado–María Coscarón y a su hija Josefa Melada, de Luelmo, casada con Francisco de Pedro Lorenzo en Luelmo el 16-06-1717. La partida de boda de Inés en 1713 la llama hija de Alonso Melado y María Coscarón, de Luelmo: nombres y lugar sugieren la misma pareja, pero el árbol no nombra a Inés. Se anota Josefa como posible hermana con atribución y no se crea una relación nueva ni se toma la fecha como partida verificada. Los perfiles consultados no muestran padres del matrimonio.",
+      "urls": [
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-856&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-857&action=showRecord",
+        "https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-228&action=showRecord"
+      ]
+    }
+  ],
+  "coverageNotes": [
+    "Se hicieron 14 búsquedas de personas, con dos consultas adicionales por cónyuge y un intento de filtro de localidad que no persistió. Se revisaron tarjetas, no todas las páginas, y tres perfiles de la pareja e hija. No se afirma ausencia en todo MyHeritage.",
+    "La antigua estimación de pendientes de generaciones 10–13 no se reduce mecánicamente: la cola reconstruida difiere de la original y estas búsquedas son revisiones parciales."
+  ]
+}

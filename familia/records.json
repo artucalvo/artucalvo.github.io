@@ -15092,7 +15092,10 @@
         "place": "Luelmo"
       },
       "father": "alonso-melado",
-      "mother": "maria-coscaron-madre-de-ines-melado"
+      "mother": "maria-coscaron-madre-de-ines-melado",
+      "observations": [
+        "El árbol Salgado de MyHeritage da a Alonso Melado y María Coscarón una hija Josefa Melada, nacida en Luelmo y casada allí con Francisco de Pedro Lorenzo el 16-06-1717; sería hermana de Inés si ambas parejas son las mismas, lo que sugiere la coincidencia de nombres y pueblo. El árbol no nombra a Inés ni adjunta una partida comprobada: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-228&action=showRecord"
+      ]
     },
     {
       "id": "alonso-santiago",
@@ -21757,7 +21760,8 @@
         "place": "Luelmo"
       },
       "observations": [
-        "La partida de matrimonio de su hija Inés (06-09-1713) lo da por difunto."
+        "La partida de matrimonio de su hija Inés (06-09-1713) lo da por difunto.",
+        "El árbol Salgado de MyHeritage recoge a Alonso Melado y María Coscarón como matrimonio y como padres de Josefa Melada, natural de Luelmo. La coincidencia de nombres de la pareja y pueblo con los padres de Inés en su matrimonio de 1713 sugiere que es la misma familia; el árbol consultado no nombra a Inés ni da padres a la pareja: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-856&action=showRecord https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-228&action=showRecord"
       ]
     },
     {
@@ -21769,7 +21773,10 @@
       ],
       "birth": {
         "place": "Luelmo"
-      }
+      },
+      "observations": [
+        "El árbol Salgado de MyHeritage recoge a Alonso Melado y María Coscarón como matrimonio y como padres de Josefa Melada, natural de Luelmo. La coincidencia de nombres de la pareja y pueblo con los padres de Inés en su matrimonio de 1713 sugiere que es la misma familia; el árbol consultado no nombra a Inés ni da padres a la pareja: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-857&action=showRecord https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV7SDFSAISXYU2PA6Y6KGQ7DAEOCY-12-228&action=showRecord"
+      ]
     },
     {
       "id": "juan-santiago",
