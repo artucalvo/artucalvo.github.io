@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "batch": "Continuación del 16-11-2026",
+  "searches": [
+    {
+      "service": "FamilySearch full-text",
+      "query": {
+        "keywords": "Burrieza"
+      },
+      "resultsTotal": 154,
+      "reviewed": "Se examinaron títulos de la primera página y se abrieron dos imágenes: un índice catastral de Gáname y una lista de una genealogía de 1794. No se revisaron los 154 documentos.",
+      "finding": "El índice de Gáname parece mencionar a un Atilano Burrieza, sin filiación identificada; no se enlaza. La lista de 1794 menciona Burrieza sin establecer relación con los antepasados.",
+      "status": "Búsqueda parcial, sin enlace confirmado",
+      "urls": [
+        "https://www.familysearch.org/en/search/full-text/results?count=100&q.text=Burrieza",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VCFC",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9GN-V2HC"
+      ]
+    },
+    {
+      "service": "Búsqueda web, prensa y fuentes parroquiales",
+      "finding": "Consultas dirigidas a Manuel Devesa Romero y a parejas ya investigadas sin coincidencias nuevas con identidad suficientemente confirmada. La guía de 2001 reproduce un inventario parroquial de 1954 para Sever (Viana del Bollo): guiones en libros de bautismos, confirmaciones, matrimonios y defunciones y 1790 en fábrica. No es prueba de pérdida ni inventario actual.",
+      "urls": [
+        "https://www.cultura.gob.es/dam/jcr%3Af28cc317-7893-40a3-9561-d821b6caf030/archivosiglesia.pdf",
+        "https://www.diocesisastorga.es/guia-diocesana/archivo-diocesano/formulario"
+      ]
+    },
+    {
+      "service": "FamilySearch full-text",
+      "query": {
+        "keywords": "\"Manuel Burrieza\""
+      },
+      "resultsTotal": 2,
+      "finding": "Los fragmentos encontrados son del siglo XIX y no corresponden al Manuel fallecido en 1724; no se revisaron expedientes completos.",
+      "status": "Sin coincidencia por fecha",
+      "urls": [
+        "https://www.familysearch.org/en/search/full-text/results?count=100&q.text=%22Manuel%20Burrieza%22"
+      ]
+    },
+    {
+      "service": "FamilySearch full-text",
+      "query": {
+        "keywords": "\"Santiago Burrieza\""
+      },
+      "resultsTotal": 0,
+      "finding": "La frase exacta no produjo resultados; las variantes o errores de reconocimiento podrían no estar representados.",
+      "status": "Sin resultados",
+      "urls": [
+        "https://www.familysearch.org/en/search/full-text/results?count=100&q.text=%22Santiago%20Burrieza%22"
+      ]
+    },
+    {
+      "service": "FamilySearch full-text",
+      "query": {
+        "keywords": "\"Antonia Burrieza\""
+      },
+      "resultsTotal": 4,
+      "reviewed": "Se abrió la primera imagen de las cuatro.",
+      "finding": "La mención es un lindero en el catastro de Moraleja, con una referencia de lugar que el texto automático lee «de pelilla»; no da datos de cónyuge ni padres para identificar a la Antonia del árbol, vecina de Gáname. No se enlaza.",
+      "status": "Sin identificación confirmada",
+      "urls": [
+        "https://www.familysearch.org/en/search/full-text/results?count=100&q.text=%22Antonia%20Burrieza%22",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-LGCC"
+      ]
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "joan-landaburu-guridi",
+        "anna-guinea",
+        "maria-landaburu-hermano-de-mari-miguel-landaburu-guinea"
+      ],
+      "finding": "El padrón histórico de Juan Carlos Guerra (pág. 30) resume la hidalguía de Miguel de Ezcurra de 1708: hijo de Miguel de Ezcurra y María de Landaburu, nieto materno de Juan Landaburu y Ana Guinea. El resumen de esa otra rama no menciona a Mari Miguel ni prueba por sí mismo su filiación. Sitúa los solares de los linajes en Orozco y Garagarza, no el nacimiento individual de los abuelos. La referencia al proceso conservado en el archivo municipal se refiere a la entrada anterior de 1674, no se atribuye al de 1708.",
+      "urls": [
+        "https://w390w.gipuzkoa.net/WAS/CORP/DBKVisorBibliotecaWEB/pdf/178878/319496?tipoPeticion=ikusi"
+      ]
+    },
+    {
+      "people": [
+        "santiago-valladolid"
+      ],
+      "finding": "Se explica en observaciones la discrepancia de la partida de bautismo: el cuerpo dice Luis y una nota marginal parcialmente leída parece corregirlo por Agustín. El matrimonio de 1732 identifica a los padres como Agustín Valladolid y Francisca Franco. Se conservan las reservas sobre la lectura y la fecha de bautismo ya registradas en quintos-fotografias.json."
+    }
+  ],
+  "leads": [
+    {
+      "people": [
+        "domingo-martinez"
+      ],
+      "finding": "Para verificar el origen atribuido por la familia a Sever se puede consultar al Archivo Diocesano de Astorga por los libros históricos disponibles. Su formulario pide solicitud firmada, prueba de identidad y parentesco. La guía de 1954 es una referencia histórica, no confirma los fondos actuales. No se ha solicitado ninguna partida.",
+      "urls": [
+        "https://www.diocesisastorga.es/guia-diocesana/archivo-diocesano/formulario",
+        "https://www.cultura.gob.es/dam/jcr%3Af28cc317-7893-40a3-9561-d821b6caf030/archivosiglesia.pdf"
+      ]
+    }
+  ]
+}
