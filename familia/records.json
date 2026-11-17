@@ -5337,7 +5337,15 @@
         "transcription": "Manl Hernz Gaytán.\n\nEn tres de Octubre de mil setezs novta y tres, yo el infrascripto Cura propio de la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca de las Chanas di sepultura eclesiástica en ella, de arco arriva, al cadáver de Manuel Hernández Gaytán, marido que fue de Ynés Martín y vezino de este lugar; falleció en dos de dho mes y año, haviendo recivido los santos Sacramtos; no hizo testamto por haver hecho zesión de sus bienes a su dha muger, y para que conste lo firmo. Dn Carlos de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento por haber hecho cesión de sus bienes a su mujer."
+        "La partida de entierro dice que no hizo testamento por haber hecho cesión de sus bienes a su mujer.",
+        "El Catastro de Ensenada recoge su declaración del 16 de junio de 1751 como vecino de Casaseca de las Chanas, labrador y cosechero de vino: dice tener 23 años y vivir con su mujer, Inés García, y un criado de 16, Patricio; no tiene hijos. No firma por no saber: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XX-9"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Labrador y cosechero de vino, según su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -5379,7 +5387,8 @@
         "transcription": "Ynés Martín. Testó.\n\nEn doze de Abril de mil ochoztos y cinco, yo Dn Franco de Valdecañas, Presvro, vezº de este Lugar de Casca las Chanas, con la lizª necesaria, di sepultura eclesiástica en el cuerpo de la Parroql de Sn Juan Bautista de él al cadáver de Ynés Martín, viuda de Manl Hernz y vezª que fue de este; falleció en onze del mismo, haviendo recivido los Stos Sacramtos y hecho testamto en dho día onze de Abril y propio año de ochoztos cinco, ante Manl Mulas, fiel de fhos de este Lugar; en él dispuso se empleasen por bien de su alma cinco mil rs, dejando los demás vienes a sus hijos Fr. Juan, Manl, Bernardino Hernz y Felipa Martín, nieta, mejorando en todo lo que quepa de sus vienes al dho Bernardino, y para qe conste lo firmo. Dn Franco de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro dice que testó el día de su muerte ante Manuel Mulas, fiel de fechos, y dejó sus bienes a sus hijos fray Juan, Manuel y Bernardino Hernández y a su nieta Felipa Martín, mejorando a Bernardino."
+        "La partida de entierro dice que testó el día de su muerte ante Manuel Mulas, fiel de fechos, y dejó sus bienes a sus hijos fray Juan, Manuel y Bernardino Hernández y a su nieta Felipa Martín, mejorando a Bernardino.",
+        "Figura, con 9 años, en la declaración que su padre, Alonso Martín, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 30 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XD-M"
       ]
     },
     {
@@ -5419,7 +5428,10 @@
         "place": "Casaseca de las Chanas",
         "note": "En el cuerpo de la iglesia.",
         "transcription": "Andrés Méndez. No testó.\n\nEn veinte y tres de Febrº de mil ochoztos y dos, yo Dn Franco de Valdecañas, Presvro, vezº de este Lugar de Casaseca las Chanas, con lizª de Dn Carlos de Valdecañas, Cura Rector de la Ygª Parroquial de Sn Juan Bautista de él, di sepultura eclesiástica en el cuerpo de ella al cadáver de Andrés Méndez, marido que fue de María Lera, vezos de este; falleció en veinte y dos de dho mes y año, haviendo recivido los Stos Sacramtos; no hizo testamto, y para que conste lo firmo. Dn Franco de Valdecañas Duque de Estrada."
-      }
+      },
+      "observations": [
+        "Figura, con 6 años, en la declaración que su madre, Ana María Martín, viuda de Manuel Méndez, hizo para el Catastro de Ensenada en Casaseca de las Chanas en julio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F"
+      ]
     },
     {
       "id": "maria-de-lera-rodriguez",
@@ -5781,7 +5793,10 @@
         "place": "Gáname",
         "note": "De grada arriba.",
         "transcription": "Theresa Piorno.\n\nEn el lugar de Gáname, a ocho días del mes de febrero de mil setezientos noventa y uno, yo el infrascripto Párrocho enterré en esta Ygª, grada arriba, a Theresa Piorno, muger que fue de Josef Piorno, vecº de él, la que murió el día antezte, haviendo recivido los santos Sacramtos de Penitencia, Eucharistía y Extrema Unción; no hizo testamento, y en fe de ello lo firmo. Dn Antonio Carrascal."
-      }
+      },
+      "observations": [
+        "Figura, con 6 años, en la declaración que su padre, Domingo Piorno, hizo para el Catastro de Ensenada en Gáname el 22 de agosto de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHF4"
+      ]
     },
     {
       "id": "casimiro-vega-vega",
@@ -5860,7 +5875,8 @@
         "transcription": "Año de 1818. Águeda Fierro. Adta. Cumplido.\n\nEn la Yglesia Parroquial de este lugar de Gáname, a ocho de Enero de mil ochocientos y diez y ocho, yo Dn Agustín Enríquez, Cura Párroco de dho lugar, di sepultura eccª en la 1ª del 2º tramo, al lado de la epístª, en el cuerpo de Yglesia, al cadáver de Águeda Fierro, viuda de Casimiro Vega y vecª de este lugar, qe socorrida de los Stos Sacramtos de Penitencia, Viático y extrema unción había fallecido el día anterior. Hizo testamto, en el qe mandó pr su alma doscientos rs, de los qe han de salir los dros Parroquiales. Son heredros sus hijos Manl, Josef, Ángela, Micaela y Teresa Vega, y testamentarios dhos sus dos hijos, y pª qe conste lo firmo yo dho Párroco en dho lugar, dho día, mes y año. Agustín Enríquez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento y que eran sus herederos sus hijos Manuel, José, Ángela, Micaela y Teresa Vega."
+        "La partida de entierro dice que hizo testamento y que eran sus herederos sus hijos Manuel, José, Ángela, Micaela y Teresa Vega.",
+        "Figura, con 4 años, en la declaración que su padre, José Fierro, hizo para el Catastro de Ensenada en Gáname el 18 de agosto de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZWQ"
       ],
       "baptism": {
         "date": "1747-02-07",
@@ -6038,7 +6054,8 @@
         "transcription": "Catalina Gonzalo. Cumplido.\n\nEn el lugar de Fadón, a veinte y tres días del mes de Agosto del año de mil ochocientos veinte y uno, yo el Infrascripto teniente de Cura de él di sepultura eclesiástica, grada arriba, al cadáber de Catalina Gonzalo, viuda de Miguel Bega, la que murió el día veinte y dos del referido mes, y vecinos de Fadón; su edad setenta y ocho años; recibió los Santos Sacramentos de penitencia, viático y extremaunción; dejó cinco hijos: Josef, Antonia, Manl, Franco y María; otorgó testamento ante Cayetano Santiago, de la misma vecindad; instituyó por testamentarios a sus hijos; dejó por bien de su Alma la cantidad de quatrocientos veinte y cinco rs, yncluso los derechos parroquiales y algunas Misas votivas, y para que conste lo firmo. Fr. Narciso González."
       },
       "observations": [
-        "La partida de entierro la llama viuda de Miguel Vega, con quien casó después de enviudar de Bernardo Feltrero, y dice que otorgó testamento ante Cayetano Santiago y dejó cinco hijos: José, Antonia, Manuel, Francisco y María."
+        "La partida de entierro la llama viuda de Miguel Vega, con quien casó después de enviudar de Bernardo Feltrero, y dice que otorgó testamento ante Cayetano Santiago y dejó cinco hijos: José, Antonia, Manuel, Francisco y María.",
+        "Figura, con 8 años, en la declaración que su padre, Juan Gonzalo, hizo para el Catastro de Ensenada en Gáname el 31 de agosto de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VH2S"
       ]
     },
     {
@@ -6804,7 +6821,8 @@
         "transcription": "Manuel Sánchez.\n\nEn la Villa del Cubo, a seis días de Junio del año de mil setecientos y nobenta y nuebe, yo el infrascripto párroco de su Yglesia enterré en ella, grada abajo, al cadáver de Manuel Sánchez, vecino de esta Villa, conjunta persona de Catalina Durán; murió ayer; recibió los Stos Sacramentos de penitencia, viático y extremaunción; otorgó testamento ante Josef Blasco, vecino de esta Villa, habilitado para ello por la Justicia por la ausencia del fiel de fechos, en el qe dispuso se hiciese de bien por su alma lo qe es de derecho parroquial, con más siete misas votivas a varios santos; dejó el quinto de sus bienes a su muger, y en lo demás dejó por herederos a sus cinco hijos, y por testamentarios a su muger Catalina y a su yerno Josef [ilegible], y lo firmo. Manuel del Castillo."
       },
       "observations": [
-        "La partida de entierro dice que otorgó testamento, dejó el quinto de sus bienes a su mujer y por herederos a sus cinco hijos; fueron testamentarios su mujer Catalina y su yerno José."
+        "La partida de entierro dice que otorgó testamento, dejó el quinto de sus bienes a su mujer y por herederos a sus cinco hijos; fueron testamentarios su mujer Catalina y su yerno José.",
+        "Figura, con 17 años y como el mayor de cuatro hermanos, en la declaración que su madre, María Misol, hizo para el Catastro de Ensenada en El Cubo el 30 de septiembre de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9ZP-4"
       ]
     },
     {
@@ -6886,7 +6904,8 @@
         "transcription": "Juan Alonso Yzquierdo.\n\nEn la Villa del Cubo a veynte y cinco días de febrero del año de mil y ochocientos, yo el infrascripto cura de ella enterré y di sepultura en esta Yglesia (grada arriba) al cadáver de Juan Alonso Yzquierdo, vecino de esta Villa, conjunta persona de Teresa Terrón, el qual falleció ayer, habiendo recibido los Stos sacramentos de penitencia, viático y extrema unción; otorgó testamento ante el fiel de fechos de esta Villa, en el qual dispuso se le hiciese de bien por su alma lo qe es de derecho parroquial y además ocho misas votivas a varios santos, y qe se le enterrase con el hábito de Sn Francisco de la aldea; dejó por herederos a sus ocho hijos, excepto el quinto de sus bienes, qe dejó a su muger; dejó por testamentarios a su muger y a su hijo Josef, y por verdad lo firmo. Manuel del Castillo."
       },
       "observations": [
-        "La partida de entierro dice que otorgó testamento y dejó por herederos a sus ocho hijos, salvo el quinto de sus bienes, que dejó a su mujer; fueron testamentarios su mujer y su hijo José."
+        "La partida de entierro dice que otorgó testamento y dejó por herederos a sus ocho hijos, salvo el quinto de sus bienes, que dejó a su mujer; fueron testamentarios su mujer y su hijo José.",
+        "Figura, con 13 años, en la declaración que su padre, Miguel Izquierdo, hizo para el Catastro de Ensenada en El Cubo el 28 de septiembre de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q96Q-F"
       ]
     },
     {
@@ -7964,7 +7983,10 @@
         "place": "Morales del Vino",
         "note": "Bautizada de socorro por el cura, sin que conste el día; el 6 de enero de 1714 recibió los óleos.",
         "transcription": "Luisa Martín. Año de 1714.\n\nEn seis días del mes de enero deste presente año de 1714, yo Dn Diº Phe de la Torre, cura propio deste lugar, puse los Stos óleos a una niña que se llamó Luisa, hixa lexma de Franco Martín y de Ysabel Yzquierdo; la qual dha niña estaba Bautizada de socorro por mí; fueron Padrinos Juº Martín, abuelo Paterno de la Bautizada, y Luisa de [ilegible], asistente en el Xpto de Morales; fueron testigos Dn Franco Martín, Lázaro López y Pº Martín, y para que conste lo firmé. Dn Diº Phe de la Torre."
-      }
+      },
+      "observations": [
+        "Figura, con 37 años, en una declaración de 1751 para el Catastro de Ensenada, en Morales del Vino, junto a su marido, de 43, sus hijos Atanasio (9) y una niña de once meses y dos criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QD-G"
+      ]
     },
     {
       "id": "francisco-hernandez",
@@ -8087,7 +8109,8 @@
         "transcription": "Alonso Martín. Fundación de los Misereres.\n\nEn beinte y tres días del mes de Enero del año de mil setecientos setenta y siete, yo el infrascripto Cura propio de la Parroquial de san Juan Baptista de este Lugar de Casaseca de las chanas enterré grada abaxo a Alonso Martín, viudo que quedó de Gerónima Carrascal, vecinos de este Lugar que fueron; recibió los santos sacramentos de penitencia, Eucharistía por viático y extremaunción; hizo testamento ante Juan Álvarez Jixón, fiel de fechos de este Lugar, en el que dexa se le digan los tres oficios de entierro, honrras y cabo de año con mi asistencia y la de ocho Religiosos, quatro franciscos y quatro descalzos, la cera menuda acostumbrada, con diez hachas de a tres pabilos, las tres misas de indulgencia, y otras dos, una al santo Christo del amparo y la otra a Nª Madre de las Angustias; ytem dexa una tierra a do llaman la santa a su hija Ynés, que linda con tierra de Dn Diego Ocampo, vecino de este Lugar, y con sendero que va de Arzenillas a Cazurra, la que queda a la yzquierda, para que alumbre al santo Christo del Amparo, y cumpla con mandar decir al cura o su theniente los Misereres de Quaresma, con más una misa el Viernes anterior al Domingo de Ramos, y que sea cantada con las luces acostumbradas, y por todo se pague quinze rrs; y que se entierre con el hábito de los Descalzos, y se le ofrende cinco años según costumbre; dexa por bien de su Alma y la de su muger cinco mil rrs, y por sus testamentarios a su hijo Manuel Martín y su hierno Manuel Hernz, y murió el día beinte y dos de dicho mes y año, y lo firmo ut supra. Dn Alonso Rodríguez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Juan Álvarez Jixón, fiel de fechos; dejó a su hija Inés una tierra «a do llaman la santa» para alumbrar al Santo Cristo del Amparo y pagar los misereres de Cuaresma, y nombró testamentarios a su hijo Manuel Martín y a su yerno Manuel Hernández."
+        "La partida de entierro dice que hizo testamento ante Juan Álvarez Jixón, fiel de fechos; dejó a su hija Inés una tierra «a do llaman la santa» para alumbrar al Santo Cristo del Amparo y pagar los misereres de Cuaresma, y nombró testamentarios a su hijo Manuel Martín y a su yerno Manuel Hernández.",
+        "El Catastro de Ensenada recoge su declaración del 30 de junio de 1751 como vecino de Casaseca de las Chanas: dice tener 41 años y vivir con su mujer, Jerónima Carrascal, de 46, sus hijos Juan (15), María (12), Inés (9) y Manuel (3) y un criado de labranza, Alonso Marqués, de 56: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XD-M"
       ]
     },
     {
@@ -8129,7 +8152,8 @@
         "transcription": "Gerónima Carrascal.\n\nEn diez y siete días del mes de septiembre del año de mil setecientos setenta y seis, yo el infrascripto Cura propio de la Parroquial de San Juan Baptista de este Lugar de Casaseca de las chanas enterré grada abaxo, con el hávito de franciscos descalzos, a Gerónima Carrascal, lexítima consorte de Alonso Martín, vecinos, que él es, y esta fue, de este Lugar; recivió los santos sacramentos de penitencia, Eucharistía por viático y extremaunción; no hizo testamento por perder el habla; se le hizieron los tres oficios de entierro, honrras y cavo de año, las tres missas de indulgencia, la cera acostumbrada; asistieron a su entierro tres Religiosos Descalzos, y con sola mi asistencia un Novenario cantado, y murió el día diez y seis de dho mes y año, y para qe conste lo firmo ut supra. Dn Alonso Rodríguez."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento por haber perdido el habla."
+        "La partida de entierro dice que no hizo testamento por haber perdido el habla.",
+        "Figura, con 46 años, en la declaración que su marido, Alonso Martín, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 30 de junio de 1751, junto a sus hijos Juan (15), María (12), Inés (9) y Manuel (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XD-M"
       ]
     },
     {
@@ -8168,7 +8192,8 @@
       },
       "observations": [
         "La partida de matrimonio lo llama viudo de Antonia García.",
-        "La partida de entierro dice que dio poder para testar a su hijo Luis, que otorgó el testamento ante Francisco Esteban."
+        "La partida de entierro dice que dio poder para testar a su hijo Luis, que otorgó el testamento ante Francisco Esteban.",
+        "Su viuda, Ana María Martín, declara para el Catastro de Ensenada en Casaseca de las Chanas, en julio de 1751, que vive con los dos hijos del matrimonio, Antonia (7) y Andrés (6): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F"
       ],
       "burial": {
         "date": "1749-02-07",
@@ -8217,7 +8242,8 @@
         "transcription": "Ana María Martín.\n\nEn onze días del mes de Abril del año de mil setecientos setenta y siete, yo el infra scripto Cura propio de la Parroql de san Juan Baptista de este Lugar de Casaseca de las chanas enterré con el Ábito de san Gerónimo, y con asistencia de dos Religiosos de la misma orden, a Ana María Martín, viuda que quedó de Manuel Méndez, vecinos que fueron de este Lugar; recivió los santos sacramentos de penitencia, Eucaristía por Viático y extrema unción; no hizo testamento formal, aunqe dexó declarado algunas mandas; se le hizieron los tres oficios de entierro, honrras y cabo de año, y se enterró grada abaxo, y murió el día diez de dho mes y año, y para que conste lo firmo ut supra. Dn Alonso Rodríguez."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento formal, aunque dejó declaradas algunas mandas."
+        "La partida de entierro dice que no hizo testamento formal, aunque dejó declaradas algunas mandas.",
+        "El Catastro de Ensenada recoge su declaración de julio de 1751 como vecina de Casaseca de las Chanas, cosechera de vino y viuda de Manuel Méndez: dice tener 32 años y vivir con sus hijos Antonia Méndez (7) y Andrés (6): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F"
       ]
     },
     {
@@ -8254,7 +8280,8 @@
         "transcription": "Juan de Lera.\n\nEn quatro de Henero de mill setezs sesenta y ocho fue sepultado en la parrochial deste lugr de Casasca de las Chans, con el hábito de N. P. Sn Franco, Juan de Lera, vº de dho lugr y conjunta persona de Ana Rs; recivió los Santos Sacramentos; otorgó su testamto ante Phelipe Temprano, fiel de fechos del referido lugr, y en él dispuso se le hiziesen los tres oficios acostumbrados con asistenzia del Sr Cura y quatro Relijiosos de Sn Franco; se le hiziese un nobenario cantado con Vijilia; se le dijesen las tres misas de Indulgenzia; se le ofrende año y día según costumbre; se dé a las obras pías la limna acostumbrada; deja por herederas a dos hijas q tiene, y por Albazeas a Pedro Pérez, vº deste, y a su mugr, y así para q conste lo firmo dho día, mes y año. El Barme Díez."
       },
       "observations": [
-        "La partida de entierro dice que otorgó testamento ante Felipe Temprano, fiel de fechos; dejó por herederas a sus dos hijas y por albaceas a Pedro Pérez y a su mujer."
+        "La partida de entierro dice que otorgó testamento ante Felipe Temprano, fiel de fechos; dejó por herederas a sus dos hijas y por albaceas a Pedro Pérez y a su mujer.",
+        "El Catastro de Ensenada recoge su declaración del 19 de agosto de 1751 como vecino de Casaseca de las Chanas: dice tener 36 años y vivir con su mujer, Ana Rodríguez, y sus hijos Ramona (5), Laura (2) y Silverio, de un mes. Firma de su mano: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-7"
       ]
     },
     {
@@ -8291,7 +8318,8 @@
         "transcription": "Ana Rodríguez.\n\nEn veinte y nueve días del mes de Julio del año de mil setecientos setenta y siete, yo el infra scripto fr. Miguel de Alfaro, Religioso del tercer orden de Sn Francisco, con licencia expresa del Cura propio de la Parroquial de Sn Juan Baptista de este Lugar de Casaseca de las chanas, enterré grada abaxo, y con asistencia de dos Religiosos Descalzos, y con su hábito, a Ana Rodríguez, viuda de Juan de Lera, vecinos que fueron de este Lugar; recivió los santos sacramentos de penitencia, Eucharistía por Viático y extremaunción, e hizo testamento ante Manuel Mulas, fiel de fechos de este Lugar, y mandó se le hiciesen los tres oficios de entierro, honrras y cavo de año con dicha asistencia, y las tres misas de indulgencia, un Novenario de misa cantada con su Vigilia, con sola mi asistencia, y otra misa a Sn Antonio de Padua, rezada, quatro achas y zera acostumbrada, que se le ofrende dos años con zera blanca y amarilla, que se le tome por una vez bula de difuntos, y para su cumplimiento dexó el valor de una viña de tinta, al camino de Moraleja; por sus testamentarios a Eduardo Martínez y Andrés Méndez, sus Yernos; i si restase alguna cosa de dha viña se le digan algunas misas, que llaman de Sn Vicente Ferrer; por sus herederos sus dos hijas Ramona y María Lera; a las obras pías lo acostumbrado; y murió el día veinte y ocho del referido mes y año, y para que conste lo firmo ut supra. Dn Alonso Rodríguez. fr. Miguel de Alfaro."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Manuel Mulas, fiel de fechos; fueron testamentarios sus yernos Eduardo Martínez y Andrés Méndez, y herederas sus dos hijas, Ramona y María Lera."
+        "La partida de entierro dice que hizo testamento ante Manuel Mulas, fiel de fechos; fueron testamentarios sus yernos Eduardo Martínez y Andrés Méndez, y herederas sus dos hijas, Ramona y María Lera.",
+        "Figura en la declaración que su marido, Juan de Lera, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 19 de agosto de 1751, junto a sus hijos Ramona (5), Laura (2) y Silverio, de un mes: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-7"
       ]
     },
     {
@@ -8394,14 +8422,22 @@
       },
       "observations": [
         "La partida de matrimonio lo llama viudo de Ana Moreno.",
-        "La partida de entierro dice que dio poder para testar a Manuel Morales."
+        "La partida de entierro dice que dio poder para testar a Manuel Morales.",
+        "El Catastro de Ensenada recoge su declaración del 19 de julio de 1751 como vecino de Casaseca de las Chanas, cosechero de vino: dice tener 50 años y vivir con su mujer, Teresa Ponce, de 50, y cuatro hijas: Juana (20), Águeda (13), María Antonia (10) y la menor, de 7: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-J"
       ],
       "burial": {
         "date": "1756-07-04",
         "place": "Casaseca de las Chanas",
         "note": "En la parroquial.",
         "transcription": "Franco Pérez.\n\nEn quatro de Julio de mil setezos cinqta y seis ans fue sepultado en la parrochial de este lugr de Casaseca de las Chans Franco Pérez, Marido de Theresa Ponze; recivió los Stos Sacramtos; dio poder para testar a Manul Morales, en cuio testamento dispuso se le dijesen los tres oficios de entierro, onrras y cabo de año; se le ofrende año y día según costumbre; se le digan las tres missas de Indulgencia; se le compre Bula, y se dé a las obras pías la limosna acostumbrada, con que las aparta de sus vienes; y así para que conste lo firmo, día, mes y año. El Barme Díez."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Cosechero de vino",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "teresa-ponce",
@@ -8443,7 +8479,8 @@
         "transcription": "Theresa Ponze.\n\nEn diez y ocho de dho mes y año fue sepultada en la parroquial de este Lugr de Casaseca de las Chans Theresa Ponze, Viuda de Franco Pérez; reciuió los Stos Sacramentos y no hizo testamto, pero se la hizieron los tres Oficios acostumbrados, que hera hasta lo que se podía estender su corto caudal; se le mandaron decir las tres missas de la guía, y así para que conste lo firmo dho día, mes y año. Barme Díez Berde."
       },
       "observations": [
-        "La partida de entierro la llama viuda de Francisco Pérez y dice que no hizo testamento; se le hicieron los tres oficios acostumbrados, hasta donde alcanzaba su corto caudal."
+        "La partida de entierro la llama viuda de Francisco Pérez y dice que no hizo testamento; se le hicieron los tres oficios acostumbrados, hasta donde alcanzaba su corto caudal.",
+        "Figura, con 50 años, en la declaración que su marido, Francisco Pérez, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 19 de julio de 1751, junto a cuatro hijas: Juana (20), Águeda (13), María Antonia (10) y la menor, de 7: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-J"
       ]
     },
     {
@@ -8485,7 +8522,15 @@
         "transcription": "Andrés Maíllo. Testó. Cumplido.\n\nEn veinte y quatro de Agosto de mil y ochoztos, yo Dn Franco de Valdecañas, Presvro, vezº de este Lugar de Casaseca las Chanas, con la lizª necesaria di sepultura eclesiástica, de arco arriba, en la Yglesia Parroquial de Sn Juan Bautista de dho Lugar, al cadáver de Andrés Maíllo, viudo de Theodora Hernz, vezº que fue de él; falleció en veinte y tres de dho mes, haviendo recivido los Stos Sacramtos y hecho testamto en diez y siete de dho mes y año, en el que dispuso fuesen sus únicos y universales herederos sus dos hijos Domingo y Josef Maíllo, haviendo dejado al arbitrio de estos los sufragios por su alma, y formó este testamto ante Manl Mulas, fiel de fhos de este Lugar, y para que conste lo firmo. Dn Franco de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento el 17 de agosto de 1800 ante Manuel Mulas, fiel de fechos, y nombró herederos a sus dos hijos, Domingo y José Maíllo."
+        "La partida de entierro dice que hizo testamento el 17 de agosto de 1800 ante Manuel Mulas, fiel de fechos, y nombró herederos a sus dos hijos, Domingo y José Maíllo.",
+        "El Catastro de Ensenada recoge su declaración del 16 de junio de 1751 como vecino de Casaseca de las Chanas, cosechero de vino: dice tener 28 años y vivir con su mujer, Teodora Gaitán, de 24, y sus hijos Domingo (3) y Tomás, de meses. No firma por no saber. El mismo día declara, como curador, las viñas de su menor Agustina Hernández, de 8 años: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XN-J"
+      ],
+      "occupations": [
+        {
+          "name": "Cosechero de vino",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -8527,7 +8572,8 @@
         "transcription": "Theodora Herz.\n\nEn veinte y nueve días del mes de Abril del año de mil setecientos setenta y ocho, yo el infrascripto Cura proprio de la Parroquial de San Juan Baptista de este Lugar de Casaseca de las Chanas enterré, grada arriva, al lado de la Epístola, y con el hávito del gran Pe San Francisco de los descalzos, y con asistencia de quatro Religiosos del mismo hávito y dos de Sn Francisco, a Theodora Hernández, lexítima consorte que era de Andrés Maíllo, vecino de este Lugar. Recivió los santos sacramentos de penitencia, eucharistía por viático y extremaunción; no hizo testamento; se le hicieron los tres oficios de entierro, honrras y cavo de año, un novenario con vigilia y misa cantada con sola mi asistencia, las tres misas de indulgencia, y murió el día veinte y ocho del referido mes y año, y para q conste lo firmo ut supra. Dn Alonso Rodríguez."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento."
+        "La partida de entierro dice que no hizo testamento.",
+        "Figura como Teodora Gaitán, con 24 años, en la declaración que su marido, Andrés Maíllo, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 16 de junio de 1751, junto a sus hijos Domingo (3) y Tomás, de meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XN-J"
       ]
     },
     {
@@ -8569,7 +8615,15 @@
         "transcription": "Bernardo Rodríguez. Se le hizo un Novenario con Vigilia y misa cantada.\n\nEn veinte y seis días del mes de Julio del año de mil setos seta y seis, yo el infra escrito Cura Proprio de la Parroql de Sn Juan Baptista de este Lugr de Casaseca de las chanas enterré grada arriba a Bernardo Rodríguez, legítimo consorte de Emerencia García, vecinos qe él fue, y ella lo es, de este Lugr; recivió los Stos Sacramtos de Penitencia y Extremaunción, no el de la comunión pr padecer bómito; hizo testamto ante Phelipe Temprano, fiel de fechos de este Lugr, y mandó se le enterrase con el hábito de Sn Franco y asistencia de tres Religiosos de la misma orden; se le dijeron las tres misas de Yndulgencia; dejó por testamentarios a Andrés Mayllo y su Muger; por herederos a sus dos hijas, Phelipa y Bernarda; se le trajo la cera acostumbrada, y murió el veinte y cinco de dho mes y año, y para que conste lo firmo ut supra. Dn Alonso Rodríguez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Felipe Temprano, fiel de fechos; nombró testamentarios a Andrés Maíllo y a su mujer, y herederas a sus dos hijas Felipa y Bernarda, sin mencionar a Sebastiana."
+        "La partida de entierro dice que hizo testamento ante Felipe Temprano, fiel de fechos; nombró testamentarios a Andrés Maíllo y a su mujer, y herederas a sus dos hijas Felipa y Bernarda, sin mencionar a Sebastiana.",
+        "El Catastro de Ensenada recoge su declaración del 8 de julio de 1751 como vecino de Casaseca de las Chanas, cosechero de vino: dice tener 40 años y vivir con su mujer, Emerenciana García, de 32, y sus hijos Felipa (11), María Francisca (5) y Pascasio, de meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-C"
+      ],
+      "occupations": [
+        {
+          "name": "Cosechero de vino",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -8611,7 +8665,8 @@
         "transcription": "Emerenciana García. Testó. Cumplido.\n\nEn diez y ocho de Septiembre de mil setezos noventa y uno, yo el infrascripto Cura propio de la Yglesia Parroquial de Sn Juan Bautista de este lugar de Casaseca de las Chanas di sepultura eclesiástica en ella, de Arco arriva, al cadáver de Emerenciana García, muger que fue de Andrés Mayllo, vecino de este lugar; falleció en diez y siete de dho mes y año, haviendo recivido los santos sacramtos y hecho testamto en diez y siete de Agto del año de mil setezos ochenta y nueve, ante Manuel Mulas, vecino de este lugar, por ausencia del fiel de fhos, y en él ordenó se empleasen ochocientos rs en su entierro, funeral y otros sufragios por su Alma; nombró por su testamentario a dho su Marido, y después de varios legados dejó erederos únicos y universales de sus vienes a Sevastiana Rodríguez su hija, y sus nietas Dionisia y Catalina Luelmo, y para qe conste lo firmo. Dn Carlos de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro la llama mujer de Andrés Maíllo, con quien casó después de enviudar de Bernardo Rodríguez; dice que hizo testamento el 17 de agosto de 1789 y dejó herederas a su hija Sebastiana Rodríguez y a sus nietas Dionisia y Catalina Luelmo."
+        "La partida de entierro la llama mujer de Andrés Maíllo, con quien casó después de enviudar de Bernardo Rodríguez; dice que hizo testamento el 17 de agosto de 1789 y dejó herederas a su hija Sebastiana Rodríguez y a sus nietas Dionisia y Catalina Luelmo.",
+        "Figura, con 32 años, en la declaración que su marido, Bernardo Rodríguez, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 8 de julio de 1751, junto a sus hijos Felipa (11), María Francisca (5) y Pascasio, de meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-C"
       ]
     },
     {
@@ -8652,7 +8707,8 @@
         "transcription": "Josef Morles. No testó.\n\nEn diez de Dizre de mil ochoztos y tres, yo Dn Franco de Valdecañas, Presvro, vezº de este Lugar de Casaseca las Chanas, con la lizª necesaria, di sepultura eclesiástica en el cuerpo de la Ygª Parroql de Sn Juan Bautista de él, al cadáver de Josef Morles, conjunto de Ygnacia Calvo, vezos de este; falleció en nuebe de dho mes y año, haviendo recivido los Stos Smtos; no hizo testamto, y su único y universal heredero fue Bernardo Morles, hijo único, y para que conste lo firmo. Dn Franco de Valdecañas Duque de Estrada."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento y que su único heredero fue su hijo único, Bernardo Morales."
+        "La partida de entierro dice que no hizo testamento y que su único heredero fue su hijo único, Bernardo Morales.",
+        "Figura, con 13 años, en la declaración que su padre, Manuel Morales Urueña, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 23 de junio de 1751; la mujer de su padre era entonces Francisca Ponce: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9DT-1"
       ]
     },
     {
@@ -8687,7 +8743,8 @@
       "mother": "manuela-portales",
       "father": "bernardo-calvo-martin",
       "observations": [
-        "La partida de matrimonio la llama viuda de Andrés Ponce."
+        "La partida de matrimonio la llama viuda de Andrés Ponce.",
+        "Figura, con 20 años, en la declaración que su madre, Manuela Portales, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 13 de agosto de 1751, junto a su hermana Susana, de 18: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-D"
       ],
       "burial": {
         "date": "1806-02-07",
@@ -8736,7 +8793,8 @@
       },
       "observations": [
         "La partida de entierro dice que hizo testamento el 11 de enero de 1799; dejó por únicas herederas a sus dos hijas, Antonia y Josefa, y nombró testamentarios a su hijo fray Santiago Valladolid, a Pedro Palacios y a Manuel Jambrina, vecino de Pontejos.",
-        "El Registro de Ejecutorias de la Real Chancillería de Valladolid guarda la del pleito que siguió, como vecino de Casaseca de las Chanas, con Luis Fernández, vecino de Zamora, sobre la partición de los bienes que dejó Santiago Valladolid (noviembre de 1778): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
+        "El Registro de Ejecutorias de la Real Chancillería de Valladolid guarda la del pleito que siguió, como vecino de Casaseca de las Chanas, con Luis Fernández, vecino de Zamora, sobre la partición de los bienes que dejó Santiago Valladolid (noviembre de 1778): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006",
+        "Figura, con 18 años y como único hijo, en la declaración que su padre, Santiago Valladolid, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 3 de julio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J"
       ]
     },
     {
@@ -8927,7 +8985,8 @@
         "transcription": "Domº Piorno. Pobre.\n\nEn quinze días del mes de Nre, año de mil setezs setenta y nuebe, yo el infrascrito Cura propio en la Ygª del Lugar de Gáname di sepultura eclesiástica en dha Ygª (abajo) a Domº Piorno, viudo de Antonia Burrieza, difunta; recibió los Stos Sacramtos; no hizo testamto por ser pobre, y se enterró de limosna, y para que conste lo firmo, fecha ut supra. Domingo de la Cagiga."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento por ser pobre y que se le enterró de limosna."
+        "La partida de entierro dice que no hizo testamento por ser pobre y que se le enterró de limosna.",
+        "El Catastro de Ensenada recoge su declaración del 22 de agosto de 1751 en Gáname, firmada por un testigo a su ruego: dice tener 43 años y vivir con su mujer, Antonia Burrieza, de 40, y sus hijas Ángela (15) y Teresa (6): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHF4"
       ]
     },
     {
@@ -8971,7 +9030,8 @@
         "transcription": "Antonia Burrieza. Cumplido.\n\nEn el Lugar de Gáname, a ocho días del mes de febrero de mil setezs y zinquenta y quatro, yo el infrascripto cura propio de él enterré, a vajo, a Antonia Burrieza, muger de Domingo Piorno, vezno de este dho lugar, qe recivió el Sto Sacramto de la Extremaunzn, y no otro pr no permitirlo el accidente; hizo testamto ante Joseph Gabriel de Torres y testigos qe en él se expresan, vezs de él, su fecha zinco de dho mes y año; es su voluntad se distribuian pr su alma cien reales, con los qe se han de pagar los dros Parrochiales y las limosnas de siete misas botivas: una al Sto Xpto de la Cabaña; otra a Nra Sra del Tránsito; otra a la Virgen de Francia; otra a la del Abiso; otra a Sn Antonio; otra a Sta Cathalina, y otra a Sta Bárbara; y nombró pr testamrios al dho Domº Piorno su marido y a Andrés Zurdo, y por herederas a sus dos hijas. Y pª qe conste lo firmo dho día. Thomás Sz de Varredo."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento el 5 de febrero de 1754; nombró testamentarios a su marido y a Andrés Zurdo, y herederas a sus dos hijas."
+        "La partida de entierro dice que hizo testamento el 5 de febrero de 1754; nombró testamentarios a su marido y a Andrés Zurdo, y herederas a sus dos hijas.",
+        "Figura, con 40 años, en la declaración que su marido, Domingo Piorno, hizo para el Catastro de Ensenada en Gáname el 22 de agosto de 1751, junto a sus hijas Ángela (15) y Teresa (6): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHF4"
       ]
     },
     {
@@ -9103,7 +9163,15 @@
         "La partida de entierro dice que no hizo testamento porque dijo no tener ya bienes algunos.",
         "Siendo vecino de Fresnadillo, siguió un pleito de hidalguía ante la Real Chancillería de Valladolid y obtuvo Real Provisión el 31 de octubre de 1735. El pleito recoge su ascendencia hasta su bisabuelo Juan Fierro, de Cármenes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
         "El expediente completo de su pleito de hidalguía (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68) está digitalizado y transcrito en FamilySearch. Contiene las partidas de bautismo de su padre (Cármenes, 1678) y de su abuelo (Cármenes, 1642), la boda de sus abuelos (Cármenes, 12 de agosto de 1672), la de sus padres (Malillos, 27 de febrero de 1713), los padrones de hidalgos de Cármenes de 1674, 1680, 1686, 1692, 1698 y 1710 y el informe del abogado: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XLFW https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2XM https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XL6L",
-        "El concejo de Fresnadillo le reconoció el estado de hijodalgo el 15 de septiembre de 1735. Los alcaldes declararon que llevaba unos once meses de vecino, que no había tenido ningún oficio y que sus únicos bienes raíces eran las casas en que vivía, porque las otras posesiones que disfrutaba eran de su padre, Domingo Fierro, y de su suegro, José Blanco: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK31"
+        "El concejo de Fresnadillo le reconoció el estado de hijodalgo el 15 de septiembre de 1735. Los alcaldes declararon que llevaba unos once meses de vecino, que no había tenido ningún oficio y que sus únicos bienes raíces eran las casas en que vivía, porque las otras posesiones que disfrutaba eran de su padre, Domingo Fierro, y de su suegro, José Blanco: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK31",
+        "El Catastro de Ensenada recoge su declaración del 18 de agosto de 1751 como labrador de Gáname: dice tener 35 años y vivir con su mujer, Micaela Blanca, de 33, cuatro hijos (una hija de 13, Josefa, de 10, Águeda, de 4, y Tomás, de un mes) y un criado de labranza de 18. Firma de su mano: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZWQ"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -9146,7 +9214,8 @@
         "transcription": "Micaela Blanco.\n\nEn doze de Mayo de mil setecientos y sesenta y nuebe, yo el ynfrascrito Presvº y párroco de la Yglesia del Lugr de Gáname di sepultura eclesiástica en dha Yglesia, arriva, a Micaela Blanco, muger y conjunta de Joseph Fierro, vecinos deste Lugr; no recibió sacramtos por ser muerte repentina, ni hizo testamto. Dexó su marido y hijos; dispusieron se le hiciesen el entierro, honrras y cabo de año con la misa de Yndulgencia y tres nobenarios cantados en esta Ygª, el uno con vigilia, y que se la ofrendase dos años según costumbre, cuya disposon se hará presente en la próxima visita, y para que conste lo firmo. Domingo de la Cagiga."
       },
       "observations": [
-        "La partida de entierro dice que no recibió los sacramentos ni hizo testamento por ser su muerte repentina."
+        "La partida de entierro dice que no recibió los sacramentos ni hizo testamento por ser su muerte repentina.",
+        "Figura, con 33 años, en la declaración que su marido, José Fierro, hizo para el Catastro de Ensenada en Gáname el 18 de agosto de 1751, junto a cuatro hijos: una hija de 13, Josefa (10), Águeda (4) y Tomás, de un mes: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZWQ"
       ]
     },
     {
@@ -9384,7 +9453,8 @@
       },
       "observations": [
         "La partida de entierro dice que hizo testamento el 27 de mayo de 1753 ante Francisco Isidro, fiel de fechos; nombró ofrendadera a su mujer, Josefa, herederos a sus siete hijos y testamentarios a Blas Gonzalo y Domingo Martín.",
-        "La partida de matrimonio de 1730 lo llama viudo de Catalina Vega."
+        "La partida de matrimonio de 1730 lo llama viudo de Catalina Vega.",
+        "El Catastro de Ensenada recoge su declaración del 31 de agosto de 1751 en Gáname: dice pasar de los cincuenta años y vivir con su mujer, Josefa Barrocal, de 43, y cuatro hijos: Manuel, Lázaro (14), Catalina (8) y otro de 6: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VH2S"
       ]
     },
     {
@@ -9419,7 +9489,8 @@
         "place": "Gáname"
       },
       "observations": [
-        "La partida de fallecimiento la llama mujer de Domingo Herrero."
+        "La partida de fallecimiento la llama mujer de Domingo Herrero.",
+        "Figura, con 43 años, en la declaración que su marido, Juan Gonzalo, hizo para el Catastro de Ensenada en Gáname el 31 de agosto de 1751, junto a cuatro hijos: Manuel, Lázaro (14), Catalina (8) y otro de 6: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VH2S"
       ]
     },
     {
@@ -10029,7 +10100,8 @@
         "transcription": "En el día veinte y seis de Abril del año de mil ochocientos y dos se enterró en la Parroquial de este lugar de Morales el cadáver de Baltasar Brioso que murió el día antecedente: natural y vecino de este mismo lugar y viudo de Catalina Cabrero: hizo testamento: recibió los Sacramentos de Penitencia, viático, y Unción, y se le hizo entierro, oficios, y Novenario: y en fe de ello como Párrocho que soy lo certifico y firmo ut supra. Jose Mariano Barba."
       },
       "observations": [
-        "Probablemente es él el Baltasar Brioso, vecino de Morales del Vino, que en 1786-1787 pleiteó con Francisco García Patón, de Zamora, por el derecho de tanteo en el nuevo foro que el cabildo eclesiástico de San Simón de Zamora había hecho a favor de este sobre unas tierras que hasta entonces labraba Baltasar, y en 1786 con Antonio Montero, vecino de Zamora, por el arrendamiento de cuatro tierras del monasterio de Santa María de Valparaíso, en Peleas de Arriba: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/227485 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13011339"
+        "Probablemente es él el Baltasar Brioso, vecino de Morales del Vino, que en 1786-1787 pleiteó con Francisco García Patón, de Zamora, por el derecho de tanteo en el nuevo foro que el cabildo eclesiástico de San Simón de Zamora había hecho a favor de este sobre unas tierras que hasta entonces labraba Baltasar, y en 1786 con Antonio Montero, vecino de Zamora, por el arrendamiento de cuatro tierras del monasterio de Santa María de Valparaíso, en Peleas de Arriba: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/227485 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13011339",
+        "El Catastro de Ensenada recoge su declaración de 1751 en Morales del Vino: dice tener 25 años y vivir con su mujer, Catalina Cabrero, de 30, y dos hijos pequeños, una niña de 2 años y otro de ocho meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3Q8-Z"
       ]
     },
     {
@@ -10069,7 +10141,10 @@
         "date": "1737-08-14",
         "place": "Morales del Vino",
         "transcription": "Esteban Bizentte Martín.\n\nEn cattorze de Agostto de mil setos y treinta y siete, yo Dn Antt. Cabrero, Cura Propio de la Yglesia Parroquial deste lugar de Morales, Baptizé solemnemente y puse los Sanctos óleos a un niño que nazió el día dos de dicho mes y se llamó Esteban Bizente, hijo lexítimo de Alonsso Martín e Ysabel Marqués su muger; Nietto por la Paterna de Luis Martín e Ynés Briosso, Nles y Vos estos quatro deste lugar de Morales, y por la Materna de Ml Marqués Nietto, Nl del dicho lugr, y Franca Herrero, Nl de Perezuela, y ambos Vos de Morales; fueron sus Padrinos Luis Martín e Ynés Briosso, sus Abuelos; fueron testigos Dn Matheo de Luelmo, Canónigo de la Sta Yglesia Cathedral de la Ziudad de Zamora, y Dn Juan de Luelmo, Colexial en el Maior de Obiedo, y Ml Garzía, sacristán, y para que conste lo firmé. Dn Antt. Cabrero. Fº Manuel Garzía."
-      }
+      },
+      "observations": [
+        "Figura, con 14 años, en la casa de sus abuelos paternos, Luis Martín Nieto e Inés Brioso, según la declaración que aquel hizo para el Catastro de Ensenada en Morales del Vino el 25 de junio de 1751, junto a otros cuatro jóvenes del mismo apellido: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R"
+      ]
     },
     {
       "id": "maria-marques",
@@ -10281,7 +10356,8 @@
         "transcription": "Franco de Mena\n\nEn el día veinte y cinco de Junio de mil setecientos nobenta y dos, yo el infrascripto cura propio rector de la Yglesia Parrochial de este lugar de Morales, di sepultura eclesiástica en ella a el cadáver de Franco de Mena, nral que fue de este lugar, hijo legítimo de Alonso de Mena y de Ana Miguel, también de Morales; recibió los Santos Sacramentos de la Penitencia, Viático y Extrema Unción; hizo testamento; se le hizo entierro, oficios y nobenario, y en fe de ello lo certifico y firmo ut supra = José María Baraz\n\nTiene cumplido el testamto. Baraz"
       },
       "observations": [
-        "En 1776-1779, como Francisco de Mena Miguel, vecino de Morales del Vino, pleiteó con Atilana Luelmo, viuda, del mismo lugar, que pedía anular la venta de varias tierras que le había hecho alegando que le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953"
+        "En 1776-1779, como Francisco de Mena Miguel, vecino de Morales del Vino, pleiteó con Atilana Luelmo, viuda, del mismo lugar, que pedía anular la venta de varias tierras que le había hecho alegando que le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953",
+        "El Catastro de Ensenada recoge su declaración del 11 de julio de 1751 como vecino de Morales: dice tener 24 años y vivir con su mujer, Inés Román, de 22, sin hijos: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M9-V"
       ]
     },
     {
@@ -10312,7 +10388,10 @@
         }
       ],
       "father": "andres-roman",
-      "mother": "ines-hernandez"
+      "mother": "ines-hernandez",
+      "observations": [
+        "Figura, con 22 años, en la declaración que su marido, Francisco de Mena, hizo para el Catastro de Ensenada en Morales del Vino el 11 de julio de 1751; el matrimonio no tenía hijos: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M9-V"
+      ]
     },
     {
       "id": "vicente-martin",
@@ -10768,7 +10847,8 @@
       },
       "observations": [
         "La partida de entierro la llama mujer de Domingo Borrego, con quien casó después de enviudar de Santiago Sánchez, y dice que hizo testamento.",
-        "Un perfil del Árbol Familiar de FamilySearch, sin fuentes y con años de nacimiento aproximados, da a Santiago Sánchez y María Misol, de El Cubo de Tierra del Vino, otros hijos llamados Bartolomé y Martín Sánchez, sin fechas: https://www.familysearch.org/ark:/61903/4:1:GZ63-BP7 https://www.familysearch.org/ark:/61903/4:1:GZ63-BW6"
+        "Un perfil del Árbol Familiar de FamilySearch, sin fuentes y con años de nacimiento aproximados, da a Santiago Sánchez y María Misol, de El Cubo de Tierra del Vino, otros hijos llamados Bartolomé y Martín Sánchez, sin fechas: https://www.familysearch.org/ark:/61903/4:1:GZ63-BP7 https://www.familysearch.org/ark:/61903/4:1:GZ63-BW6",
+        "El Catastro de Ensenada recoge su declaración del 30 de septiembre de 1751 en El Cubo, firmada a su ruego: dice tener 36 años y vivir, sin marido, con cuatro hijos: Manuel (17), una hija de 13, Bartolomé (11) y otra hija de 4: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9ZP-4"
       ]
     },
     {
@@ -10857,7 +10937,15 @@
         "transcription": "Miguel. Adulto. Hizo testamento, está cumplido. Nota: no dexó ofrenda.\n\nEn la villa del Cubo, a treze de obtubre de mil sietecientos y sesenta y tres, yo el infra escripto teniente de cura de la dicha villa di sepultura eclesiástica a Miguel Yzquierdo, vecino de dicha villa (no fue socorrido con los Stos Sacramentos por acidente repentino), en el cuerpo de la Yglesia, junto a la grada de la capilla maior, enfrente a Sn Antonio; hizo testamento, y dexó por su alma los derechos Parroquiales, una missa en el altar de ánima, dos al Ángel de su guarda y otras dos al sancto de su nombre, y para que conste lo firmo en dicho día, mes y año ut supra. fr. Atilano de Villanueva."
       },
       "observations": [
-        "La partida de entierro dice que murió de accidente repentino, sin recibir los sacramentos, y que había hecho testamento."
+        "La partida de entierro dice que murió de accidente repentino, sin recibir los sacramentos, y que había hecho testamento.",
+        "El Catastro de Ensenada recoge su declaración del 28 de septiembre de 1751 como vecino de la villa de El Cubo, jornalero: dice tener 55 años y vivir con su mujer, Antonia de Alcántara, de 45, su hijo Juan Alonso, de 13, y una hija de 24. No firma por no saber: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q96Q-F"
+      ],
+      "occupations": [
+        {
+          "name": "Jornalero",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -10900,7 +10988,8 @@
         "transcription": "Antonia Alcántara. Adultta.\n\nEn veinte y uno de Marzo de mil setezientos sesenta y ocho años, yo el infraescritto Cura proprio de la Parrochial de Santo Domingo desta Villa del Cubo, en el cuerpo de su Yglesia di sepoltura ecclesiástica a Antonia Alcántara, muger que fue de Miguel Yzquierdo, ia difuntto, vezinos desta Villa. Recibió los Santtos Sacramentos todos según costumbre; hizo testamentto ante el fiel de fechos desta dha villa; dejó por su alma los dros Parrochiales y tres misas a diferentes Santtos, y asimismo a sus hijos por herederos, y para que conste lo firmé. Dn Manuel Santero Montes."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante el fiel de fechos y dejó por herederos a sus hijos."
+        "La partida de entierro dice que hizo testamento ante el fiel de fechos y dejó por herederos a sus hijos.",
+        "Figura, con 45 años, en la declaración que su marido, Miguel Izquierdo, hizo para el Catastro de Ensenada en El Cubo el 28 de septiembre de 1751, junto a su hijo Juan Alonso, de 13, y una hija de 24: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q96Q-F"
       ]
     },
     {
@@ -10943,7 +11032,8 @@
         "transcription": "Franco Terrón. Adulto. Hizo testamento; está cumplido.\n\nEn la Villa de el Cubo, a diez y siete de Junio de mil setecientos y sesenta y uno as, io el infra escripto Cura de esta Villa di sepultura Ecclesiástica en la Capilla Maior, al Lado de el Evangelio, junto a la grada de abaxo, a Franco Terrón, Vezº de esta Villa; fue socorrido con los Sanctos Sacramentos de Communión y Extremaunción, e hizo testamto, y dexó por su alma los derechos Parrochiales y la ofrenda acostumbrada, y la missa de el Altar Privilegiado; otra al Ángel de su Guarda; otra al Sto de su Nombre; otra a N. Sra de el Carmen, y se ha de decir en el Monasterio de N. Sra de Valparaíso; otra al Patrono Sto Domingo; y dexó por ofrendadora a su muger Ángela Campo, y por testamentarios a su muger y a Domingo Terrón, y por herederos a sus hijos Petrona, Theresa, Alonso y Franco Terrón, y para que conste lo firmo en dho día, mes y año ut sup. Dn Joseph Rz Cuenllas."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento; fueron testamentarios su mujer y Domingo Terrón, y herederos sus hijos Petrona, Teresa, Alonso y Francisco Terrón."
+        "La partida de entierro dice que hizo testamento; fueron testamentarios su mujer y Domingo Terrón, y herederos sus hijos Petrona, Teresa, Alonso y Francisco Terrón.",
+        "El Catastro de Ensenada recoge su declaración del 22 de septiembre de 1751 en El Cubo, firmada a su ruego: dice tener 36 años y vivir con su mujer, de apellido Campo, de 27, y cinco hijos: dos hijas de 11 y 9 años, Alonso (6), otro de 3 y una niña de 1: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9FK-L"
       ]
     },
     {
@@ -10986,7 +11076,8 @@
         "transcription": "Ángela Campo. Adulta.\n\nEn la Villa del Cubo, a veinte y seis días de el Mes de Diciembre de mill setecientos setenta y quatro, yo Dn Alonso Rey, Parrocho de ella, di sepoltura ecclesiástica en la Capilla maior, en sepoltura propria, al Cadáver de Ángela Campo, que murió el día anterior; recivió todos los Santos Sacramentos; otorgó su testamento; dejó por sus herederos a sus hijos; mandó nueve missas votivas; fue muger de Miguel Macías, vecino de esta Villa, casada en segundas nupcias; y para que conste lo firmo. Alonso Rey."
       },
       "observations": [
-        "La partida de entierro la llama mujer de Miguel Macías, vecino de El Cubo del Vino, con quien estaba casada en segundas nupcias, y dice que otorgó testamento y dejó por herederos a sus hijos."
+        "La partida de entierro la llama mujer de Miguel Macías, vecino de El Cubo del Vino, con quien estaba casada en segundas nupcias, y dice que otorgó testamento y dejó por herederos a sus hijos.",
+        "Figura, con 27 años, en la declaración que su marido, Francisco Terrón, hizo para el Catastro de Ensenada en El Cubo el 22 de septiembre de 1751, junto a cinco hijos: dos hijas de 11 y 9 años, Alonso (6), otro de 3 y una niña de 1: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9FK-L"
       ]
     },
     {
@@ -11923,7 +12014,8 @@
       },
       "observations": [
         "La partida de fallecimiento indica que dio poder para testar a su hermano, cura de San Marcial, y que dejó una hija.",
-        "Probablemente es él el Pedro de Prada, vecino de Morales del Vino, que litigó con Hermenegildo Ruiz, de la misma vecindad, un pleito cuya ejecutoria expidió la Real Chancillería de Valladolid en abril de 1752: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5833293"
+        "Probablemente es él el Pedro de Prada, vecino de Morales del Vino, que litigó con Hermenegildo Ruiz, de la misma vecindad, un pleito cuya ejecutoria expidió la Real Chancillería de Valladolid en abril de 1752: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5833293",
+        "El Catastro de Ensenada recoge en Morales del Vino, en 1751, la declaración de un vecino de 43 años que vive con su mujer, Luisa Martín, de 37, sus hijos Atanasio (9) y una niña de once meses y dos criados, uno de ellos para las viñas; el encabezamiento con su nombre no se ha leído: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QD-G"
       ]
     },
     {
@@ -11954,7 +12046,8 @@
         "transcription": "En seis de henero del año del S.or de mil setecientos ochenta y nueve, se dio sepultura en esta Yglesia de grada abajo al cuerpo de Cathalina Cabrero muger de Balthasar Brioso. Murió de dolor de costado a los sesenta y ocho años de su edad habiendo recibido los S.tos Sacram.tos de confesión, comunión y extrema unción; [ilegible] testamento ante Alonso de Luelmo fiel de fechos y escribano de millones de este Pueblo dexando el cargo del funeral a su marido que cumplió exactam.te de que certifico y firmo. D.n Manuel de Luelmo."
       },
       "observations": [
-        "El testamento de su tío Antonio Cabrero del 13 de junio de 1766 la identifica como mujer de Baltasar Brioso y hermana de María, Manuel y Diego Cabrero Marqués. Antonio era hermano de su padre Francisco: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624"
+        "El testamento de su tío Antonio Cabrero del 13 de junio de 1766 la identifica como mujer de Baltasar Brioso y hermana de María, Manuel y Diego Cabrero Marqués. Antonio era hermano de su padre Francisco: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5811624",
+        "Figura, con 30 años, en la declaración que su marido, Baltasar Brioso, hizo para el Catastro de Ensenada en Morales del Vino en 1751, junto a dos hijos pequeños, una niña de 2 años y otro de ocho meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3Q8-Z"
       ]
     },
     {
@@ -13693,7 +13786,10 @@
         "date": "1692-05-27",
         "place": "Casaseca de las Chanas",
         "transcription": "Antto Maíllo.\n\nEn beinte i siete de maio de nobenta i dos, yo Dn Joseph de Miranda, cura propio deste lugar, bauticé i puse los Stos Olios a un niño que se llamó Antº, hijo legítimo de Domingo Maíllo [ilegible] i de Ana Elbira; fue su padrino Antº Jambrina; testigos Custodio García i Manuel Crespo, i en fe dello lo firmé ut supra. Dn Joseph de Miranda."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 15 de junio de 1751 como vecino de Casaseca de las Chanas: dice tener 59 años y vivir con su mujer, de 54, y sus hijos Diego (24), Manuel (22) y María (19). Firma de su mano: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z98Z-W"
+      ]
     },
     {
       "id": "catalina-diez",
@@ -13736,7 +13832,8 @@
         "transcription": "Antonia Díez.\n\nEn quatro de Henero de mil setecientos y cinquenta i dos fue sepultada en la parroquia de este lugar de Casaseca de las Chanas Antonia Díez, esposa de Antonio Maíllo, vecinos de este; recibió los Santos Sacramentos; otorgó su testamento ante Francisco Esteban, vecino; dispuso se le dixesen las tres missas de [ilegible], y por ellas la limosna acostumbrada; se la enterrase con el ábito de Nuestro Padre San Francisco; se le hiciesen los tres oficios de [ilegible]; dexó por sus albaceas a Antonio Maíllo, su esposo, i a Andrés Maíllo, su hijo, y para que conste lo firmo en dicho lugar, dichos día, mes y año. Dn Barthme Díez."
       },
       "observations": [
-        "La partida de entierro dice que otorgó testamento ante Francisco Esteban y nombró albaceas a su marido, Antonio Maíllo, y a su hijo Andrés Maíllo."
+        "La partida de entierro dice que otorgó testamento ante Francisco Esteban y nombró albaceas a su marido, Antonio Maíllo, y a su hijo Andrés Maíllo.",
+        "Figura, con 54 años, en la declaración que su marido, Antonio Maíllo, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 15 de junio de 1751, junto a sus hijos Diego (24), Manuel (22) y María (19): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z98Z-W"
       ]
     },
     {
@@ -13977,7 +14074,17 @@
         "date": "1715-03-11",
         "place": "Casaseca de las Chanas",
         "transcription": "Manuel Morales Urueña.\n\nEl día cinco de Marzo deste presente año de mil setezientos y quinze nazió Manuel, hijo legítimo y de legítimo matrimonio de Antonio Morales, vecino y natural deste lugar, y de Ysabel de Urueña, vecina deste y natural del de Mora[leja]; nieto por parte de Padre de Blas Morales y de Juana Tobal, vecinos [deste] lugar, y por parte de Madre de Luis Urueña y de María Arenas, vecinos de Moraleja, y la susodicha María natural deste; y io el infrascripto Cura [desta] Yglesia le baptizé solemnemente el día once de dicho mes y año. Fue [...]"
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 23 de junio de 1751 como vecino de Casaseca de las Chanas, cosechero de vino: dice tener 36 años y vivir con su mujer, Francisca Ponce, de 40, sus hijos José (13) y Remigio (4) y un menor a su cargo, Alonso Marqués, de 12, de cuyos bienes declara aparte como curador: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9DT-1"
+      ],
+      "occupations": [
+        {
+          "name": "Cosechero de vino",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "maria-antonia-moreno",
@@ -14004,7 +14111,8 @@
       "mother": "isabel-delgado-madre-de-maria-antonia-moreno",
       "observations": [
         "La partida de matrimonio de su hijo José (21-01-1765) la da por difunta.",
-        "La partida de matrimonio de 1737 la llama María Moreno, viuda de Alonso Delgado, vecino que fue de Casaseca."
+        "La partida de matrimonio de 1737 la llama María Moreno, viuda de Alonso Delgado, vecino que fue de Casaseca.",
+        "Había muerto antes del 23 de junio de 1751: ese día su marido, Manuel Morales Urueña, declara para el Catastro de Ensenada que su mujer es Francisca Ponce, de 40 años, y que vive con sus hijos José (13) y Remigio (4): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9DT-1"
       ],
       "baptism": {
         "date": "1705-09-30",
@@ -14050,7 +14158,10 @@
         "date": "1698-01-19",
         "place": "Cazurra",
         "transcription": "Manuela Portales Prieto. Cazurra.\n\nEn decinueve días del mes de henero de mil seiscientos y nobenta y ocho años, yo el Br Gerónimo García Lazada baptizé a Manuela, hija legítima de Juan Portales y de Ana María Prieto, su muger; fueron sus padrinos Miguel Prieto, tío de la baptizada y vecino de este lugar, y María Portales, también su tía, asistente en el arrabal de S. Frontis; y testigos Diego de Urueña, Alonso Calbo y Domingo Martín, todos vecinos deste lugar, y para que conste lo firmé en Cazurra, fecha ut supra. Br Gerónimo García Lazada."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 13 de agosto de 1751 como vecina de Casaseca de las Chanas: dice tener 55 años y vivir con sus hijas Ignacia Calvo (20) y Susana (18): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-D"
+      ]
     },
     {
       "id": "santiago-valladolid",
@@ -14078,13 +14189,21 @@
       "observations": [
         "La partida de matrimonio de su hijo Francisco (1759) lo llama vecino de Pontejos.",
         "En noviembre de 1778 su hijo Francisco, vecino de Casaseca de las Chanas, obtuvo la ejecutoria de un pleito sobre la partición de los bienes que dejó Santiago Valladolid, de modo que había muerto antes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006",
-        "El cuerpo de su bautismo de 1710 llama Luis Valladolid a su padre, pero una nota marginal posterior, solo parcialmente legible, parece corregir Luis por Agustín. El matrimonio de Santiago de 1732 y el entierro de Agustín en 1726 nombran a Agustín Valladolid y Francisca Franco como matrimonio. La lectura del margen y del día de bautismo tiene reservas."
+        "El cuerpo de su bautismo de 1710 llama Luis Valladolid a su padre, pero una nota marginal posterior, solo parcialmente legible, parece corregir Luis por Agustín. El matrimonio de Santiago de 1732 y el entierro de Agustín en 1726 nombran a Agustín Valladolid y Francisca Franco como matrimonio. La lectura del margen y del día de bautismo tiene reservas.",
+        "El Catastro de Ensenada recoge su declaración del 3 de julio de 1751 como vecino de Casaseca de las Chanas, labrador y cosechero de vino: dice tener 40 años y vivir con su mujer, Francisca Carbajal, de 50, su hijo Francisco, de 18, y cinco criados: Diego Maíllo, criado de labranza (24), Juan Jambrina (14), Elías Fernández (12), Andrés Pérez, pastor (30), y Manuela Salgado (20): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J"
       ],
       "baptism": {
         "date": "1710-07-25",
         "place": "Casaseca de las Chanas",
         "transcription": "Santiago Valladolid Franco.\n\nEl día catorze de Julio deste presente año de mill setezientos y diez nació Santiago, hijo legítimo y de legítimo matrimonio de Luis Valladolid, vecino y natural deste lugar, y de Francisca Franco, vecina deste y natural del de Corrales; sus abuelos paternos Luis Valladolid, vecino y natural deste, y Gerónima de San Juan, vecina y natural del de Venialbo; abuelos maternos Bartholomé Franco y [Ana] Palacios, vecinos y naturales del dicho lugar de Corrales; y yo el infrascripto cura le bapticé solemnemente y puse los Santos olios el día veinte y cinco de dicho mes y año; fue su padrino Francisco Carbajal, vecino deste lugar, a quien advertí el parentesco espiritual, y lo firmé. Antº Basilio Barba Santos.\n\n[ilegible] de Agustín Valladolid en [ilegible] de Luis. [ilegible]. Folio 25 vuelto."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Labrador y cosechero de vino, según su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "francisca-carbajal",
@@ -14122,7 +14241,8 @@
         "transcription": "Franca Carbajal.\n\nEn ocho de setienbre de mil seiscientos i nobenta i quatro años, io Dn Joseph de Miranda, cura propio deste lugar, Bauticé i puse los Santos Olios a una niña que se llamó Franca, hija legítima de Franco Carbagal i de Josepha Delgado; fue su padrino Francisco Galán, vecino de Venialbo, i madrina Catalina Esteba, su prima; testigos Domingo Gita i Antto Xambrina, i en fe dello lo firmé, setienbre ocho de nobenta i quatro años. Dn Joseph de Miranda."
       },
       "observations": [
-        "La partida de matrimonio de 1732 la llama viuda de Luis Morales."
+        "La partida de matrimonio de 1732 la llama viuda de Luis Morales.",
+        "Figura, con 50 años, en la declaración que su marido, Santiago Valladolid, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 3 de julio de 1751, junto a su hijo Francisco, de 18: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J"
       ]
     },
     {
@@ -14233,13 +14353,21 @@
         "transcription": "María Vega.\n\nEn el Lugar de Ganame a veinte y siete días del mes de Abril de mill settos sesenta y tres, yo el Cura propio de él enterré (arriba) a María Vega, viuda de Joseph Zurdo, vezos de él; recivió los Stos Sacramtos e hizo testamento ante Joseph Rodrígz fiel de fhos, y testigos, que en él se expresan, su fecha veinte de febrero del año pasado de mill settos sesenta y dos, y es su voluntad se distribuian en beneficio de su alma ciento y cinqta rs vn de cuia cantidad se han de pagar los dros Parroqs de entierro, honrras, y Novenario cantº y treinta y un rs limosna de ocho Misas votivas; una, al Sto Xpto de la Cabaña; otra, a Nra Sra del Rosario; otra, a la del Rayo; otra, a Sn Miguel; otra, a Sn Joseph; otra, a Sta Cathna; otra, a Sta Bárbara; y otra, al Sto Xpto de Morales, esta, rezda, su limosna tres rs, las siete, cantadas, su limosna, quatro rs. Manda a las obras pías lo acostumbrado, y que se ofrende su sepultura dos años, según costumbre; nombra para que la alumbren, y ofrenden a sus dos hijas María y Josepha Zurdo; por herederas, así a estas dos, como también a Bárbara, Ysabel, Theresa, Clara, Michaela, y Atilana, sus hijas, a Alonso, a Joseph, a Sebastián, Atilano, y a Manuel Piorno, sus nietos; y por testamentarios, a Blas Gonzalo, y a Alonso Fuentes, sus yernos, vezos de este dho lugar. Y para que conste, firmo, ut supra. Thomás Sz de Varredo."
       },
       "observations": [
-        "La partida de fallecimiento nombra herederas a sus hijas María, Josefa, Bárbara, Isabel, Teresa, Clara, Micaela y Atilana Zurdo, y a sus nietos Alonso, José, Sebastián, Atilano y Manuel Piorno."
+        "La partida de fallecimiento nombra herederas a sus hijas María, Josefa, Bárbara, Isabel, Teresa, Clara, Micaela y Atilana Zurdo, y a sus nietos Alonso, José, Sebastián, Atilano y Manuel Piorno.",
+        "El Catastro de Ensenada recoge su declaración del 28 de julio de 1751 como viuda, vecina de Gáname y labradora: dice pasar de los cincuenta años y vivir con tres hijos de apellido Zurdo, de 16, 13 y 11 años; la menor se llama Atilana: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZFR"
       ],
       "baptism": {
         "date": "1698-08-03",
         "place": "Gáname",
         "transcription": "María.\n\nEn tres días del mes de Agosto de dicho año baptizé a María, hija de Marcos Vega y de Ysabel Salvadora, su muger; fue su padrino Alonso Gaspar, vecino deste lugar; advertile el parentesco; y nació el día veinte y cinco de Jullio; y lo firmé. Ldo Joseph Rodríguez."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Labradora",
+          "date": "1751",
+          "note": "Así consta en su declaración, ya viuda, para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "pedro-piorno",
@@ -15116,7 +15244,17 @@
         "date": "1685-11-15",
         "place": "Moral de Sayago",
         "transcription": "Alº.\n\nEn quinze días del mes de nobiembre de mill y seiscientos y ochenta y cinco, yo el infrascripto cura theniente deste lugar de Moral bauticé solemnemente un niño; le puse por nombre Alº, hijo legítimo de Juº Santiago y de su muger Manuela Blanca; fue su padrino su tío Alº Alcaraz, vecino deste lugar, y para que conste lo firmé dicho día, mes y año ut supra. Matheo de Barrio."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge, en septiembre de 1751, la declaración de un Alonso Santiago, vecino de Moral y labrador, que dice tener 60 años y no nombra mujer ni hijos; la firma un testigo a su ruego: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-LP39"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en la declaración de Alonso Santiago, vecino de Moral, para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "manuela-mateos",
@@ -15503,7 +15641,10 @@
         "date": "1751-10-11",
         "place": "Gáname",
         "transcription": "Joseph Sastre.\n\nEn el Lugar de Ganame a onze días del mes de Octe de mill settos y cinqta y uno, yo el infrascripto Cura propio de él, enterré, abajo, a Joseph Sastre, marido de Josepha Esteban, vezº de él. Recivió todos los Stos Sacramtos e hizo testamto ante Franco Ysidro, fiel de fhos, y testigos, que en él se expresan, vezs de este lugar; dispuso, que se distribuiessen en bien de su alma veinte ducados, que de ellos se pagassen los dros parroqs de entierro, honrras y novenº cantado, y que la restante cantidad se combirtiesse en misas rezs, de la qual se llevó la correspondte a la Colecturía. Yttn mandó, que se dixessen por su alma cinco misas votivas rezs: una, a la Virgen de Francia; otra, a nra Sra de Gracia; otra, a la del Rayo; otra, a Sn Joseph; y otra, a Sta Bárbara; y que se ofrendase su sepultura dos años, según estilo, con expresión, de que se llevasen dos obladas, y dos zerillas en cada uno, y el vino correspondte. Nombró por testamentarios a dho Franco Ysidro, y a Blas Zurdo, su yerno; y por herederos a sus hijos, e hijas: la fecha del testamento, ocho de dho mes, y año; y para que conste, firmo, ut supra. Thomás Sz de Varredo."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge en Gáname, en 1751, la declaración de un vecino de 58 años que vive con su mujer, Josefa Esteban, de 60, y un criado de 24 que guarda el ganado lanar; el encabezamiento con su nombre no se ha leído: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZJ7"
+      ]
     },
     {
       "id": "josefa-esteban",
@@ -15530,7 +15671,8 @@
         "transcription": "Josepha Esteban.\n\nEn el Lugar de Ganame a veinte y siete días del mes de Henero de mill settezs y cinqta y tres, yo el infrascripto Cura propio de él enterré, abajo, a Josepha Esteban, viuda de Joseph Sastre, vezº de él. Recivió los Stos Sacramtos y hizo testamento ante Franco Ysidro, fiel de fechos, y testigos, que en él se expresan, vezs de este dho lugar, su fecha 4 de Agto de 1751, por el que dispone, que se distribuian por su alma veinte ducads y que de ellos se paguen los dros parroqs y las limosnas de quatro misas rezadas: una, a nra Sra del Rayo; otra, a la Virgen de Gracia; otra, a Sn Joseph; y otra, a Sta Bárbara; como también, veinte rs que manda en dho su testamto para sufragios por las benditas ánimas; asimismo dispone, que se ofrende su sepultura, por dos años, según estilo; el primero, a ofrenda doble, de dos obladas de quatro libras, entre ambas, dos candelas y dos mrs de vino; y el segdo por mitad. Nombra por ofrendaderas a sus dos hijas Manuela, y Cathalina Sastre, y quiere se les paguen lo acostumbrado por su trabajo; a las quales, y también a sus dos hijos Santiago, y Domingo nombra, y dexa por heredos en el remanente de sus bienes, pagadas deudas, y legados, que en dho testamto hace; y por testamentarios, a dho Jph, su marido, y a Juan Gonzalo, vezº que aquel era, y este lo es de este dho lugar. Y para que conste, firmo, ut supra. Thomás Sz de Varredo."
       },
       "observations": [
-        "La partida de fallecimiento nombra herederos a sus hijos Manuela, Catalina, Santiago y Domingo Sastre."
+        "La partida de fallecimiento nombra herederos a sus hijos Manuela, Catalina, Santiago y Domingo Sastre.",
+        "Figura, con 60 años, en una declaración de 1751 para el Catastro de Ensenada, en Gáname, junto a su marido, de 58, y un criado de 24 que guarda el ganado lanar; el matrimonio no tiene hijos en casa: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZJ7"
       ],
       "baptism": {
         "date": "1690-10-30",
@@ -15965,7 +16107,17 @@
         "date": "1683-03-14",
         "place": "Morales del Vino",
         "transcription": "Juan.\n\nEn catorze días del mes de março de dicho año, yo el Ldo Diego de Mena, clérigo presbítero, vecino deste lugar de Morales, bauticé, de orden i licencia del Ldo D. Ml de Olmedo, cura teniente dél, a un niño que se llamó Juan, hijo legítimo de Franco Brioso i de María del Huelmo, vecinos deste lugar; fueron padrinos el Ldo D. Juan Briosso, cura propio del lugar de Roelos de Sayago, y María Pinto; fueron testigos el Ldo Franco Martín, clérigo presbítero, y Juan de Huelmo, vecinos deste dicho lugar, y para que conste lo firmé, fecho ut supra. Ldo Diego de Mena."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 22 de junio de 1751 como vecino de Morales y labrador: dice tener 68 años y vivir con su mujer, María Marqués, de 58, y tres criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G376-L"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "maria-de-luelmo-madre-de-juan-brioso",
@@ -16052,7 +16204,8 @@
         "transcription": "María Marqués. Cumplido. Cabrero.\n\nEn seis de Octubre de mil settos y zinqta y dos as se enterró en esta Yglesia María Marqués muger de Juan Brioso. Murió el día zinco de dicho mes de su muerte natural. Rezivió todos los Stos Sacramentos, hizo testamento ante Diego Cabrero fiel de fechos, tomó por su alma mil rs. Testamentarios su marido Juan Brioso, Alonso y Baltasar Brioso sus hijos. Hiziéronsele entierro, onrras y cabo de año y novenario cantdo y lo firmé. Dn Antto Cabrero."
       },
       "observations": [
-        "La partida de fallecimiento nombra testamentarios a su marido y a sus hijos Alonso y Baltasar Brioso."
+        "La partida de fallecimiento nombra testamentarios a su marido y a sus hijos Alonso y Baltasar Brioso.",
+        "Figura, con 58 años, en la declaración que su marido, Juan Brioso, hizo para el Catastro de Ensenada en Morales del Vino el 22 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G376-L"
       ]
     },
     {
@@ -16158,7 +16311,8 @@
         "transcription": "Ysabel Marqs.\n\nEn quatro henero del año de mil setezientos ochenta y tres yo el infrascripto Thente Ecónomo de este lugar de Morales de Zamª di sepultura ecclesiástica en el cuerpo de la Yglesia Parroquial de dho lugar a el cuerpo de Ysabel Marqs, muger que fue de Alonso Martín, ambos vezs que fueron del expresado lugar y difuntos. Murió la referida Ysabel el día tres de dho mes. Recivió los santos sacramtos de penitencia, Eucaristía por modo de viático, y el de la Sta extremaunción. Hizo testamento, en el qual dexó a la disposición de su hijo Dn Luis Martín, Dignd de Prior de la Sta Yglesia de Zamª, la distribución de los mrs que fueren de su agrado por vien de su alma sin determinar otra cosa como consta de su testamto que para en el oficio de Dn Miguel Tomillo ssno de Zamora, y para que conste lo firmo. Dn Silvestre Baz."
       },
       "observations": [
-        "La partida de fallecimiento nombra a su hijo don Luis Martín, dignidad de prior de la Santa Iglesia de Zamora."
+        "La partida de fallecimiento nombra a su hijo don Luis Martín, dignidad de prior de la Santa Iglesia de Zamora.",
+        "Figura, con 45 años, en la declaración que su marido, Alonso Martín, hizo para el Catastro de Ensenada en Morales del Vino en julio de 1751; en la casa había cuatro criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M8-1"
       ],
       "baptism": {
         "date": "1705-11-12",
@@ -16640,7 +16794,10 @@
         "place": "Morales del Vino",
         "note": "Bautizado de socorro por la comadre, sin que conste el día; el 23 de octubre de 1701 recibió los óleos.",
         "transcription": "Andrés.\n\nEn veinte y tres días del mes de Octubre de mill y setezientos y uno, yo el Ldo Gerónimo del Huelmo, Cura propio deste lugar de Morales, puse los santos olios a un niño que se llamó Andrés, a quien baptizó de socorro la comadre; nazió el día ocho deste presente mes y año; hixo legítimo de Alonso Román y de Luysa Perdigón; fueron padrinos Franco Rodríguez Román y Ysabel de Carrascal; testigos Juan de las Mulas, Andrés Perdigón, Álbaro y Franco de la Calle, vecinos todos deste dicho lugar, y para que conste lo firmé; contraxo el parentesco spiritual el dicho padrino, de que fue advertido, y para que conste lo firmé. Ldo Gerónimo del Huelmo."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 21 de junio de 1751 en Morales del Vino: dice tener 48 años y vivir, sin mujer, con tres hijos: Alonso (19), una hija de 15 y Lorenzo (13). No firma por no saber: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QF-Q"
+      ]
     },
     {
       "id": "ines-hernandez",
@@ -16715,7 +16872,8 @@
       "observations": [
         "La partida de matrimonio de 1745 la llama viuda de Alonso Carpintero.",
         "Debe de ser ella la Atilana Luelmo, viuda, vecina de Morales del Vino, que en 1776-1779 pleiteó con Francisco de Mena Miguel, del mismo lugar, sobre la nulidad o validez de la venta de varias tierras que le había hecho, porque se alegaba que la venta le era lesiva: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/13010953",
-        "Su hermano José Luelmo Pinto nombró en su testamento de 1781 a sus padres Jerónimo de Luelmo Pinto y Teresa Arroyo; el testamento se copia en la ejecutoria de 1830 sobre el vínculo familiar: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691"
+        "Su hermano José Luelmo Pinto nombró en su testamento de 1781 a sus padres Jerónimo de Luelmo Pinto y Teresa Arroyo; el testamento se copia en la ejecutoria de 1830 sobre el vínculo familiar: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5800691",
+        "Figura, con 38 años, en la declaración que su marido, Manuel Pérez, hizo para el Catastro de Ensenada en Morales del Vino el 29 de junio de 1751, junto a una hija de 6: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3S3-J"
       ]
     },
     {
@@ -27242,7 +27400,8 @@
         "transcription": "En veinte y seis de Noviembre de mil setecientos y cinquenta y dos años se enterró en esta Yglesia Luis Martín, marido y conjunta persona que fue de Inés Brioso. Murió de su muerte [ilegible], recibió todos los S.tos Sacramentos, hizo testamento y [ilegible] dijo que se le hiciese el entierro, honras y cabo de año y novenario [ilegible]. Dejó [ilegible] hijos D.n [ilegible] Martín cura de [ilegible], D.n Esteban magistral de Ávila y Alonso [ilegible]. D.n Antº Cabrera."
       },
       "observations": [
-        "El margen de la partida de entierro lo llama Luis Martín Cordero, mientras los datos anteriores lo nombran Luis Martín Nieto; la esposa y los hijos eclesiásticos apoyan la identificación, pero el segundo apellido requiere revisión."
+        "El margen de la partida de entierro lo llama Luis Martín Cordero, mientras los datos anteriores lo nombran Luis Martín Nieto; la esposa y los hijos eclesiásticos apoyan la identificación, pero el segundo apellido requiere revisión.",
+        "El Catastro de Ensenada recoge su declaración del 25 de junio de 1751 en Morales del Vino: dice tener 74 años y vivir con su mujer, Inés Brioso, de 77, cinco jóvenes de apellido Martín Marqués, de entre 13 y 20 años (entre ellos Bernardo, 19, Inés, 15, Esteban, 14, y Alonso, 13), y doce criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R"
       ],
       "baptism": {
         "date": "1676-11",
@@ -27285,7 +27444,8 @@
         "transcription": "Ynés Brioso. Cumplido y lo firmé. Cabrero.\n\nEn quinze de Diziembre de mil settos y zinquenta y dos as se entterró en esta Yglesia Ynés Brioso muger que fue de Luis Martín. Murió de su muerte nattural, rezivió todos los Stos Sacramentos, hizo testamento y no tomó por su alma más que lo que quisieran gastar sus hijos Dn Estevan Martín Majistral de Ábila, Dn [ilegible] Martín cura de Arzenillas y para que conste lo firmé en dicho día mes y año. Dn Antto Cabrero."
       },
       "observations": [
-        "La partida de fallecimiento nombra a dos hijos eclesiásticos: don Esteban Martín, magistral de Ávila, y otro, cura de Arcenillas."
+        "La partida de fallecimiento nombra a dos hijos eclesiásticos: don Esteban Martín, magistral de Ávila, y otro, cura de Arcenillas.",
+        "Figura, con 77 años, en la declaración que su marido, Luis Martín Nieto, hizo para el Catastro de Ensenada en Morales del Vino el 25 de junio de 1751; vivían con ellos cinco jóvenes de apellido Martín Marqués y doce criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R"
       ],
       "baptism": {
         "date": "1673-08-05",
@@ -27329,7 +27489,10 @@
         "date": "1708-12-27",
         "place": "Morales del Vino",
         "transcription": "Alonsso.\n\nEn veinte y siete días del mes de diziembre de mill setezs y ocho años, yo el Ldo Germo de el Huelmo, cura ppio de este lugr de Morales, baptizé solemnemente un niño que nació el día catorze de el presente mes y año, y se llamó Alonsso, hixo legítimo de Luis Martín y de Ynés Brioso su legítima muger; fueron padrinos Pedro Martín el mozo y Cathalina Ufano, mozos solteros, de los quales contraxo el parentesco espiritual dho padrino, de que fue advertido; testigos los Sres Ldos Diego de Lera y Franco Martín, presvíteros, y Franco Ufano, sacristán, vzs todos de este lugr de Morales, y para que conste lo firmé. Ldo Germo de el Huelmo."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración de julio de 1751 en Morales del Vino: dice tener 42 años y vivir con su mujer, Isabel Marqués, de 45, y cuatro criados, tres de ellos para la labranza y los bueyes: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M8-1"
+      ]
     },
     {
       "id": "manuel-martin-padre-de-juan-martin-bambon",
@@ -27592,7 +27755,8 @@
         "transcription": "Manuel Pérez.\n\nEn veinte y seis de Abril deste presente año de mill setecientos y veinte y quatro años, yo Dn Diº Phe de la Torre, Cura propio deste lugar de Morales, puse los santos óleos a un niño que se llamó Manuel, hixo lexítimo y de lexítimo matrimonio de Juan Pérez y de María Carrascal, el qual dicho niño nació el día quince de dicho mes, y estaba baptizado de socorro por Dn Juan Cabrero, presvítero, Capellán de la Misericordia, vecino deste dicho lugar; fueron sus padrinos Alonso Carpintero y Cathalina Ufano, a quienes avisé la obligación que tenían; fueron testigos Juan de Luelmo, Manuel Carrascal y Alonso Pérez, todos vecinos deste dicho lugar, y para que conste lo firmé. Dn Diº Phe de la Torre."
       },
       "observations": [
-        "En 1757-1758 pleiteó, como Manuel Pérez Carrascal, vecino de Morales del Vino, con María de Mena, de la misma vecindad, sobre el reconocimiento de un censo que Ana María León había fundado en favor de una capellanía de la iglesia de San Pedro de Zamora: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/214213"
+        "En 1757-1758 pleiteó, como Manuel Pérez Carrascal, vecino de Morales del Vino, con María de Mena, de la misma vecindad, sobre el reconocimiento de un censo que Ana María León había fundado en favor de una capellanía de la iglesia de San Pedro de Zamora: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/214213",
+        "El Catastro de Ensenada recoge su declaración del 29 de junio de 1751 en Morales del Vino: dice tener 25 años y vivir con su mujer, Atilana, de 38, y una hija de 6: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3S3-J"
       ]
     },
     {
