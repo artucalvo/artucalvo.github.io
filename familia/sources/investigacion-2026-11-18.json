@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "batch": "Continuación del 18-11-2026: Catastro de Ensenada leído en las imágenes",
+  "searches": [
+    {
+      "service": "FamilySearch, imágenes del Catastro de Ensenada sin transcribir",
+      "query": {
+        "film": "008220257",
+        "village": "Fadón",
+        "images": "643-830"
+      },
+      "reviewed": "Las declaraciones de seglares de Fadón (Sig. 469; tarjetas de FamilySearch en las imágenes 641 y 831) se leyeron imagen a imagen en el visor, ampliando encabezamientos, pasajes de familia y cierres; cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector, que trató de refutarla.",
+      "finding": "Tres familias de antepasados directos, de agosto de 1751.",
+      "status": "Completo para los vecinos de Fadón. Las páginas 649-653, 750 y 829-830 están casi borradas."
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "joaquin-sastre",
+        "maria-de-las-heras"
+      ],
+      "finding": "Joaquín Sastre, labrador, 40 años, con María de las Heras, 35, y dos hijas, Petrona (lectura con reservas), 15, y Magdalena, 11 (22-08-1751). La edad de María concuerda con la de su entierro de 1791.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VQW7"
+      ]
+    },
+    {
+      "people": [
+        "ambrosio-delgado",
+        "sebastiana-hernandez",
+        "ana-delgado"
+      ],
+      "finding": "Ambrosio Delgado, labrador, 30 años, con Sebastiana «Fernanda» (Fernández), 32, y sus hijos Josefa (6), Antonio (3) y Ana, de cinco meses (20-08-1751).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V759"
+      ]
+    },
+    {
+      "people": [
+        "jose-vega",
+        "maria-zurdo",
+        "miguel-vega"
+      ],
+      "finding": "José Vega, labrador, 60 años, con casa en la calle del Camino de Gáname, con María «Zuedo» (Zurdo), 50, y sus hijos Miguel (18), José (14), Alonso (12) y Manuela (9) (15-08-1751).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V4FZ"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "people": [
+        "bernardo-feltrero-esteban"
+      ],
+      "finding": "La declaración n.º 24 de Fadón (imágenes 751, 753 y 754; declarante sin leer, de unos 19 años, con mujer Catalina [?] de 26 y sin hijos) podría ser la suya, si ya estaba casado con Catalina Zurdo; conviene releerla.",
+      "urls": []
+    },
+    {
+      "people": [
+        "barbara-zurdo"
+      ],
+      "finding": "La declaración de un curador de menores en Fadón (imágenes 827-830, muy borrosas) podría ser la de Bárbara Zurdo, huérfana desde 1748; su hermana Sebastiana figura como menor de Manuel Vega (imagen 809). José Vega arrendaba tierras de «los herederos de Josef Zuedo».",
+      "urls": []
+    }
+  ]
+}

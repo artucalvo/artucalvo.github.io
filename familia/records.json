@@ -9968,7 +9968,8 @@
         "transcription": "Ana Delgado. Cumplido.\n\nEn el lugar de Fadón, a diez y siete días del mes de Julio del año de mil ochocientos veinte y cinco, yo el infraescrito teniente de dicho lugar di sepultura eclesiástica, grada arriba, al cadáver de Ana Delgado, consorte de Francisco Sastre, difunto, este natural de dicho Fadón y ella también, y vecinos de el mismo, la que havía fallecido el día diez y seis del mismo mes y año. Recibió los Santos Sacramentos de Penitencia, Viático y Extremaunción, e Indulgencia plenaria; hizo testamento ante Cayetano Santiago, en el que dejó para hacer bien por su Alma mil reales, y que de ellos havían de salir siete cántaros de vino, y el Pan para la caridad, la cera y ofrendas, con más seis Misas votivas a varios Santos. Dejó por sus herederos y testamentarios a sus hijos únicos Gregorio, Antonia e Ysabel, y en fe de ello lo firmo ut supra. Fr. Manuel Rodríguez Barreiro."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Cayetano Santiago y dejó por herederos y testamentarios a sus únicos hijos, Gregorio, Antonia e Isabel."
+        "La partida de entierro dice que hizo testamento ante Cayetano Santiago y dejó por herederos y testamentarios a sus únicos hijos, Gregorio, Antonia e Isabel.",
+        "Figura, con cinco meses, en la declaración que su padre, Ambrosio Delgado, hizo para el Catastro de Ensenada en Fadón el 20 de agosto de 1751, junto a sus hermanos Josefa (6) y Antonio (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V759"
       ]
     },
     {
@@ -10029,7 +10030,10 @@
         }
       ],
       "father": "jose-vega",
-      "mother": "maria-zurdo"
+      "mother": "maria-zurdo",
+      "observations": [
+        "Figura, con 18 años, en la declaración que su padre, José Vega, hizo para el Catastro de Ensenada en Fadón el 15 de agosto de 1751, junto a sus hermanos José (14), Alonso (12) y Manuela (9): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V4FZ"
+      ]
     },
     {
       "id": "barbara-zurdo",
@@ -15807,7 +15811,15 @@
         "transcription": "Juachin Sastre. Testamento cumplido.\n\nEn treinta de septiembre de mil setecientos ochenta y dos, yo el infrascripto Theniente Cura de este Lugar de Fadón di sepultura eclesiástica (grada arriba) al cadáver de Juachin Sastre, consorte que fue de María de las Heras, vecinos de este Lugar. Recivió los Santos Sacramentos de Penitencia y sagrado Viático, no aviendo podido administrarle la santa Unción por averse muerto luego de repente; otorgó testamento y mandó se hiciese por el bien de su Alma el funeral según costumbre de esta Yglesia; mandó se le dixesse una missa (en esta Yglesia) al Cristo de la buena Muerte, otra a Nuestra Señora del Rosario, su limosna quatro reales, otra a San Antonio, su limosna tres reales, otra a Nuestra Señora de Francia, otra al Santo Christo de Morales, su limosna tres reales; mandó se le ofrendase un año a ofrenda sencilla; dexó por testamentarios a su muger, a Antonio Lamón y a su hijo Francisco, y para que conste lo firmo ut supra. Dn Miguel Pérez y Ávila."
       },
       "observations": [
-        "La partida de entierro dice que murió de repente, después de recibir la penitencia y el viático; otorgó testamento y nombró testamentarios a su mujer, María de las Heras, a Antonio Lamón y a su hijo Francisco."
+        "La partida de entierro dice que murió de repente, después de recibir la penitencia y el viático; otorgó testamento y nombró testamentarios a su mujer, María de las Heras, a Antonio Lamón y a su hijo Francisco.",
+        "El Catastro de Ensenada recoge su declaración del 22 de agosto de 1751 como vecino de Fadón y labrador: dice tener 40 años y vivir con su mujer, María de las Heras, de 35, y dos hijas, Petrona, de 15 (el nombre se lee con reservas), y Magdalena, de 11. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VQW7"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -15846,7 +15858,8 @@
       "observations": [
         "Segundo apellido deducido del de su madre, Magdalena Amador.",
         "La partida de bautismo de su hijo Francisco (1751) llama a sus padres … de las Heras y Madalena Amadora, difuntos y naturales de Malillos; el árbol la confundía con María de las Heras Coscarón (1717-1741), mujer de Antonio Feltrero.",
-        "La partida de entierro le da setenta y seis años y la llama viuda de Joaquín Sastre; no hizo testamento."
+        "La partida de entierro le da setenta y seis años y la llama viuda de Joaquín Sastre; no hizo testamento.",
+        "Figura, con 35 años, en la declaración que su marido, Joaquín Sastre, hizo para el Catastro de Ensenada en Fadón el 22 de agosto de 1751, junto a sus hijas Petrona, de 15 (el nombre se lee con reservas), y Magdalena, de 11: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VQW7"
       ],
       "burial": {
         "date": "1791-10-23",
@@ -15886,7 +15899,15 @@
         "transcription": "Ambrosio Delgado.\n\nEn veinte y ocho del mes de Septiembre año de mil setezientos setenta y dos, yo el infraescrito cura theniente en el lugar de Fadón di sepultura eclesiástica en la yglesia de dicho lugar (abaxo) a Ambrosio Delgado, marido de Sebastiana Fernández, vecinos de dicho lugar; recibió los Santos Sacramentos; no hizo testamento por ser de cortos bienes, y su muger e hijos han dispuesto se le hagan de bien por su alma los derechos parrochiales en esta yglesia; y para que conste lo firmo, fecha ut supra. Dn Manuel Martín."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento por ser de cortos bienes; su mujer e hijos dispusieron que se pagaran por su alma los derechos parroquiales."
+        "La partida de entierro dice que no hizo testamento por ser de cortos bienes; su mujer e hijos dispusieron que se pagaran por su alma los derechos parroquiales.",
+        "El Catastro de Ensenada recoge su declaración del 20 de agosto de 1751 como vecino de Fadón y labrador: dice tener 30 años y vivir con su mujer, Sebastiana Fernández, de 32, y sus hijos Josefa (6), Antonio (3) y Ana, de cinco meses. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V759"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -15911,7 +15932,8 @@
         "transcription": "Sebastiana Fernández.\n\nEn el Lugar de Fadón, a siete días del mes de febrero del año de mil setecientos noventa y dos, yo el infrascripto theniente cura dél enterré en esta yglesia (grada abaxo) el cadáver de Sebastiana Fernández, viuda de Ambrosio Delgado, vecino que fue deste lugar; otorgó testamento ante Josef Zurdo, fiel de fechos deste lugar, en el día quatro de dicho mes y año, en el que ordenó se le hiciese el funeral y tres misas votivas; recibió los Sacramentos de penitencia, viático y extremaunción; y por verdad lo firmo ut supra. Dn Manuel del Castillo."
       },
       "observations": [
-        "La partida de entierro la llama viuda de Ambrosio Delgado y dice que otorgó testamento el 4 de febrero de 1792 ante José Zurdo, fiel de fechos."
+        "La partida de entierro la llama viuda de Ambrosio Delgado y dice que otorgó testamento el 4 de febrero de 1792 ante José Zurdo, fiel de fechos.",
+        "Figura como Sebastiana Fernández, con 32 años, en la declaración que su marido, Ambrosio Delgado, hizo para el Catastro de Ensenada en Fadón el 20 de agosto de 1751, junto a sus hijos Josefa (6), Antonio (3) y Ana, de cinco meses: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V759"
       ]
     },
     {
@@ -16024,7 +16046,17 @@
         "date": "1689-04-03",
         "place": "Gáname",
         "transcription": "Joseph.\n\nEn tres días del mes de abril de mil seiscientos y ochenta y nueve bapticé a Joseph, hijo de Marcos Vega y de su muger Ysabel Salbadora; fue su padrino Alonso Gaspar, y lo firmé. Joseph Rodríguez."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 15 de agosto de 1751 como vecino de Fadón y labrador, con casa en la calle del Camino de Gáname: dice tener 60 años y vivir con su mujer, María Zurdo, de 50, y sus hijos Miguel (18), José (14), Alonso (12) y Manuela (9). No sabe firmar y lo hace a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V4FZ"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "maria-zurdo",
@@ -16044,7 +16076,10 @@
         "date": "1702-01-14",
         "place": "Gáname",
         "transcription": "María.\n\nEn catorze días del mes de Enero de dicho año baptizé a María, hija de Alonso Zurdo y de Ángela Alonso, su muger; y nació el día ocho de dicho mes; fue su padrino Blas Gonzalo, vecino deste lugar; advertile el parentesco; y lo firmé. Ldo Joseph Rodríguez."
-      }
+      },
+      "observations": [
+        "Figura, con 50 años, en la declaración que su marido, José Vega, hizo para el Catastro de Ensenada en Fadón el 15 de agosto de 1751 (el apellido se escribe «Zuedo»), junto a sus hijos Miguel (18), José (14), Alonso (12) y Manuela (9): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V4FZ"
+      ]
     },
     {
       "id": "ana-mateo",
