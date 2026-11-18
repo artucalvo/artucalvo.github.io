@@ -6097,7 +6097,8 @@
         "transcription": "Alonso Santº. Adto. Cumplido.\n\nEn veinte y dos de Mayo de mil setecientos y nobenta y uno, yo Dn Agustín Enríquez, Cura Párroco de este Lugar de Abelón, di sepultura eccª en la quarta del quarto tramo, lado de el evangº, de la Yglesia de dho Lugar al cadáber de Alonso Santiago, marido de Agustina Garrote, vecº qe fue de este mismo Lugar. Fue socorrido de todos los Stos Sacramtos. Había fallecido el día anterior. No hizo testamento, pero por disposición de sus herederos, qe lo son sus hijos, se invirtieron en bien de su alma doscientos reales, de los que hayan de salir los derechos parroquiales, y para que conste lo firmo. Dn Agustín Enríquez."
       },
       "observations": [
-        "La partida de entierro dice que no hizo testamento y que sus herederos eran sus hijos."
+        "La partida de entierro dice que no hizo testamento y que sus herederos eran sus hijos.",
+        "Figura, con 10 años, en la declaración que su padre, Domingo Santiago, hizo para el Catastro de Ensenada en Abelón el 25 de septiembre de 1751, junto a sus hermanos Isabel (17), Pedro (12) e Inés (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS99-7"
       ]
     },
     {
@@ -6137,7 +6138,10 @@
         "date": "1804-12-22",
         "place": "Abelón",
         "transcription": "Agustina Garrote. Adta. Cumplido.\n\nEn el lugar de Abelón, a veinte y dos días del mes de Diciembre del año de mil ochocientos y quatro, yo el infra scripto Cura propio Rector de su Yglesia Parroquial enterré y di sepultura Eclesiástica al cadáver de Agustina Garrote, qe murió en la mañana de este día. Fue socorrida con todos los sacramentos por su orden. Dexó solamente los derechos Parroquiales, con su ofrenda y alumbramiento de sepultura por medio año. Fue su testamentario Pedro Santiago. Y para qe conste, lo firmo. Dn Antº Molina."
-      }
+      },
+      "observations": [
+        "Figura, con 11 años, en la declaración que su madre, Manuela Garrido, viuda, hizo para el Catastro de Ensenada en Abelón el 22 de septiembre de 1751, junto a su hermano Antonio Garrote (8): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQR-M"
+      ]
     },
     {
       "id": "angel-garrote-garrote",
@@ -6164,7 +6168,8 @@
         "transcription": "Año de 1795. Ángel Garrote. Adulto. Cumplido.\n\nEn treinta y uno de Enero de mil setecientos noventa y cinco, yo Dn Diego Enríquez, Clérigo Presbítero, con licencia expresa de Dn Agustín Enríquez, Cura Párroco de este Lugar de Abelón, di sepultura eclesiástica en la tercera del quarto tramo, al lado del evangº, al cadáver de Ángel Garrote, marido de Micaela Antón y vecino de este Lugar, qe socorrido de todos los Santos Sacramentos havía fallecido el día anterior. Hizo testamento ante Josef Diego, vecino y fiel de fechos de este Lugar, en el qe deja por su alma ciento y ochenta reales de vellón, y qe de ellos hayan de salir los derechos parroquiales y un oficio por sus obligaciones. Son sus herederos Ysidro, Josef, Paula, Josefa, Tadea y Antonia Garrote, sus hijos, y testamentarios Felipe Silva, vecino de aquí, y dha su Muger. Y en fe de ello lo firmo, y firmé. Dn Diego Enríquez. Dn Agustín Enríquez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos, y que eran sus herederos sus hijos Isidro, José, Paula, Josefa, Tadea y Antonia Garrote."
+        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos, y que eran sus herederos sus hijos Isidro, José, Paula, Josefa, Tadea y Antonia Garrote.",
+        "Figura, con 7 años (escrito «Anguel»), en la declaración que su padre, Pascual Garrote, hizo para el Catastro de Ensenada en Abelón el 24 de septiembre de 1751, junto a sus hermanas, una de 9 años («Cata…») y Antonia (6), y su hermano Lorenzo (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSJ-V"
       ],
       "baptism": {
         "date": "1744-03-02",
@@ -9522,7 +9527,18 @@
         }
       ],
       "father": "alonso-santiago",
-      "mother": "manuela-mateos"
+      "mother": "manuela-mateos",
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 25 de septiembre de 1751 como vecino de Abelón y labrador: dice tener 40 años y vivir con su mujer, Teresa Garrote, de 42, y sus hijos Isabel (17), Pedro (12), Alonso (10) e Inés (3). Firma de su mano: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS99-7",
+        "El 24 de septiembre de 1751 declara también para el Catastro de Ensenada, como curador de Isabel Blanco, la hija de su mujer, los bienes de esta en Abelón, con una casa que linda con la suya: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSK-5"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "teresa-garrote",
@@ -9559,7 +9575,8 @@
       "father": "domingo-garrote-ortijo",
       "observations": [
         "La partida de matrimonio la llama viuda de José Blanco.",
-        "La partida de entierro dice que fue su testamentario su marido, Domingo Santiago, y que dejó por herederos a sus hijos Pedro, Alonso e Inés Santiago."
+        "La partida de entierro dice que fue su testamentario su marido, Domingo Santiago, y que dejó por herederos a sus hijos Pedro, Alonso e Inés Santiago.",
+        "Figura, con 42 años, en la declaración que su marido, Domingo Santiago, hizo para el Catastro de Ensenada en Abelón el 25 de septiembre de 1751, junto a sus hijos Isabel (17), Pedro (12), Alonso (10) e Inés (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS99-7"
       ],
       "burial": {
         "date": "1754-12-20",
@@ -9649,7 +9666,8 @@
         "transcription": "Manuela Garrido.\n\nEn treinta de Abril año de mil sete cientos sesenta y quatro, yo el ynfra scripto Cura theniente de este lugar de Sn Martín de Abelón di sepultura Eclesiástica en la parroquial de dho lugar a Manuela Garrido, muger que fue de Domingo Santiago, la que se enterró en el quarto tramo, al lado del evangelio; recivió los santos sacramentos; hizo testamento, y tomó para bien de su alma ocho ducados, y que de ellos salgan todos los derechos parroquiales y nada más; mas dos misas cantadas, una al Christo y otra a Nª Señora de Sn Vte; a las obras pías lo acostumbrado; dejó por heredera a su hija, y por testamentarios a Domingo Santiago y a Alonso Santiago, y que le alumbren y ofrenden como se acostumbra; fueron testigos Antonio Blanco, Manuel Garrote, Miguel Domínguez, Ygnacio de Prada y Atilano Luengo, todos vecinos deste lugar de Abelón, en donde lo [...]"
       },
       "observations": [
-        "La partida de entierro la llama mujer de Domingo Santiago, con quien casó después de enviudar de Pedro Garrote; dice que hizo testamento, dejó por heredera a su hija y nombró testamentarios a Domingo Santiago y a Alonso Santiago."
+        "La partida de entierro la llama mujer de Domingo Santiago, con quien casó después de enviudar de Pedro Garrote; dice que hizo testamento, dejó por heredera a su hija y nombró testamentarios a Domingo Santiago y a Alonso Santiago.",
+        "El Catastro de Ensenada recoge su declaración del 22 de septiembre de 1751 como viuda y vecina de Abelón (escrito «Manuela Garrida»): dice tener 33 años y vivir con sus hijos Agustina (11) y Antonio Garrote (8): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQR-M"
       ]
     },
     {
@@ -9692,7 +9710,15 @@
       },
       "observations": [
         "La partida de entierro dice que hizo testamento el 22 de julio de 1779 ante José Diego, fiel de fechos; declaró herederos a su hijo Ángel Garrote y a sus nietos Clemente, María y Lucía, hijos de Domingo Luengo y de su hija Antonia Garrote, ya difunta, y nombró testamentarios a Ángel y a Pascual Luengo.",
-        "La partida de bautismo dice que fue su padrino su tío Alonso Garrote."
+        "La partida de bautismo dice que fue su padrino su tío Alonso Garrote.",
+        "El Catastro de Ensenada recoge su declaración del 24 de septiembre de 1751 como vecino de Abelón y labrador: dice tener 32 años y vivir con su mujer, María Garrote, de 30, y cuatro hijos: una hija de 9 años cuyo nombre empieza por «Cata» (el resto lo tapa una mancha de tinta), Ángel (7), Antonia (6) y Lorenzo (3). Firma a su ruego un testigo, Juan de Miguel: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSJ-V"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -9735,7 +9761,8 @@
         "transcription": "María Garrote, mujer de Pasqual Garrote. Está cumplido este testamento.\n\nEn beinte y cinco del mes de Marzo año de mil sete cientos y cinquenta y tres, yo el cura theniente de este lugar de Abelón di sepultura eclesiástica, gradas abajo, frente de la puerta principal, lado de la hepístola, a María Garrote, mujer de Pasqual Garrote, vº de este; fue socorrida con todos los sacramentos; hizo testamento ante Domingo Santiago; tomó por su ánima ciento quarenta y tres rs, mandó saliesen de ellos los derechos Parroquiales, Visita y obras pías, y sobró para colecturía cinquenta rs; dejó por herederos a sus hijos; nombró por testamentarios a su marido y a Alonso Garrote; fueron testigos Domingo Santiago, Manuel Lesma y Franco Benéite, y por berdad lo firmo. Dn Gregorio Cabrero."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Domingo Santiago; dejó por herederos a sus hijos y nombró testamentarios a su marido y a Alonso Garrote."
+        "La partida de entierro dice que hizo testamento ante Domingo Santiago; dejó por herederos a sus hijos y nombró testamentarios a su marido y a Alonso Garrote.",
+        "Figura, con 30 años, en la declaración que su marido, Pascual Garrote, hizo para el Catastro de Ensenada en Abelón el 24 de septiembre de 1751, junto a sus hijos: una hija de 9 años («Cata…»), Ángel (7), Antonia (6) y Lorenzo (3): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSJ-V"
       ]
     },
     {
@@ -11216,7 +11243,8 @@
       "mother": "emerenciana-blanco",
       "observations": [
         "La partida de matrimonio lo llama viudo de Ana María Garrote.",
-        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos; nombró herederos a sus hijos Paula, Polonia, Rafael, Mónica, José y Alonso, y testamentarios a su hijo Rafael y a José Morales."
+        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos; nombró herederos a sus hijos Paula, Polonia, Rafael, Mónica, José y Alonso, y testamentarios a su hijo Rafael y a José Morales.",
+        "Figura, con 15 años, en la declaración que su madre, Emerenciana Blanco, viuda, hizo para el Catastro de Ensenada en Abelón el 22 de septiembre de 1751, junto a sus hermanos Ana (17), Santiago (13), José (12), Alonso (9) y Miguel (7): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSV-K"
       ],
       "burial": {
         "date": "1790-10-05",
@@ -11348,7 +11376,8 @@
         "transcription": "Josefa Villar. Adta. Cumplido.\n\nEn quince de Agosto de mil setecientos y nobenta y dos, yo Dn Agustín Enríquez, Cura párroco de este Lugar de Abelón, di sepultura eccª en la última del quinto tramo, al lado de la epístola, de la Yglesia de dho lugar al cadáber de Josefa Villar, muger de Manuel Pasqual, vecino de dicho Lugar, que socorrida con el sacramento de la extrema unción solamente (por no haber dado lugar la enfermedad) havía fallecido el día anterior. Hizo testamento ante Josef Diego, vecino de este Lugar, y dejó en él por su alma doscientos reales, de los que haian de salir los derechos parroquiales y dos misas votivas. Son sus erederos sus hijos Serafín, Isabel, Alonso y Atilano. Y testamentarios su Marido y Alonso Ortijo, vecino de aquí. Y en fe de ello lo firmo. Dn Agustín Enríquez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante José Diego; fueron herederos sus hijos Serafín, Isabel, Alonso y Atilano, y testamentarios su marido y Alonso Ortijo."
+        "La partida de entierro dice que hizo testamento ante José Diego; fueron herederos sus hijos Serafín, Isabel, Alonso y Atilano, y testamentarios su marido y Alonso Ortijo.",
+        "Figura, con 11 años, en la declaración que su padre, Domingo de Villar, hizo para el Catastro de Ensenada en Abelón el 27 de septiembre de 1751, junto a sus hermanos María (14) y Domingo (9): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQK-P"
       ]
     },
     {
@@ -15338,7 +15367,15 @@
         "transcription": "Cathalina Diego, biuda.\n\nEn dos de Marzo año de 1760, yo el ynfrascripto Cura theniente de San Martín de Abelón di sepultura eclesiástica en la parroquial de dicho lugar a Cathalina Diego, biuda, la que se enterró en el quarto tramo al lado de la Epístola; recivió los sanctos sacramentos, hizo testamento, y tomó por su alma docientos sesenta y quatro reales de vellón, de los quales mandó salir los derechos parroquiales, y para varias de ofrenda de misas de dicha cantidad; más mandó una misa cantada a Nuestra Señora de San Bicente, y quatro rezadas por las ánimas de purgatorio; remitiose a la colectoría lo correspondiente. Dejó por herederos a sus hijas María Garrote, Polonia Garrote, y a sus nietos, que fueron hijos de Theresa Garrote, difunta, los quales son Pedro Santiago, Alonso Santiago y Ynés Santiago, e Ysabel Blanco; testamentarios Domingo Santiago y Alonso Ysidro; ytem dejó a su hija Polonia gratis el huertico de las paredes, que linda con casas de Alonso Fernando. Fueron testigos Joseph Silba, Martín Garrote, Gabriel Miguel, Alonso Fernando y Manuel Sesma, todos vecinos de dicho lugar, en donde, para que conste, lo firmo. Fr. Manuel Montes."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento; dejó por herederos a sus hijas María y Polonia Garrote y a los hijos de su difunta hija Teresa Garrote (Pedro, Alonso e Inés Santiago, e Isabel Blanco), y por testamentarios a Domingo Santiago y a Alonso Isidro."
+        "La partida de entierro dice que hizo testamento; dejó por herederos a sus hijas María y Polonia Garrote y a los hijos de su difunta hija Teresa Garrote (Pedro, Alonso e Inés Santiago, e Isabel Blanco), y por testamentarios a Domingo Santiago y a Alonso Isidro.",
+        "El Catastro de Ensenada recoge su declaración del 24 de septiembre de 1751 como viuda, labradora y vecina de Abelón: vive sola y dice tener sesenta o setenta años (la palabra se lee con reservas). Firma a su ruego Domingo Santiago, marido de su hija Teresa: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSS6-H"
+      ],
+      "occupations": [
+        {
+          "name": "Labradora",
+          "date": "1751",
+          "note": "Así consta en su declaración, ya viuda, para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -15366,7 +15403,8 @@
       "father": "pedro-garrote-padre-de-antonio-garrote",
       "mother": "maria-blanco-madre-de-antonio-garrote",
       "observations": [
-        "La partida de matrimonio de su hijo Pedro (04-02-1739) lo da por difunto."
+        "La partida de matrimonio de su hijo Pedro (04-02-1739) lo da por difunto.",
+        "Había muerto antes del 24 de septiembre de 1751: ese día su mujer, Catalina Morales, declara como viuda para el Catastro de Ensenada en Abelón, con sus hijos Manuel Garrote (30), Ana María (21) y Micaela (15): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS4H-2"
       ],
       "baptism": {
         "date": "1694-02-07",
@@ -15402,7 +15440,17 @@
         "date": "1691-08-12",
         "place": "Abelón",
         "transcription": "Catalina.\n\nEn doce de agosto de nobenta y uno baptizé una niña, hija de Andrés Morales y de su muxer Ana Bernabé; llamose Catalina; fue su padrino Santiago Morales. Fez."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 24 de septiembre de 1751 como viuda, labradora y vecina de Abelón: dice tener setenta años y vivir con sus hijos Manuel Garrote (30), Ana María (21) y Micaela (15). Firma a su ruego un testigo, Juan de Miguel: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS4H-2"
+      ],
+      "occupations": [
+        {
+          "name": "Labradora",
+          "date": "1751",
+          "note": "Así consta en su declaración, ya viuda, para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "pedro-garrido",
@@ -17858,7 +17906,8 @@
         "transcription": "Merenciana Blanco. Biuda.\n\nEn cinco de octubre año de mil setecientos y cinquenta y tres, yo el Cura theniente de este Lugar de Abelón di sepultura eclesiástica, gradas abajo, lado del Ebangelio, a Merenciana Blanco, biuda que quedó de Joseph Domínguez, vecinos de este lugar; no recibió ningún sacramento; hizo testamento; tomó por su ánima diez ducados, y de ellos mandó saliesen los derechos parroquiales y salida de cofradía, y no quedó nada para la colecturía; dejó por herederos a sus hijos; fueron testigos Alonso Bernabé, Domingo Aparicio y Francisco Domínguez, vecinos de este dicho lugar, y por verdad lo firmo. Dn Gregorio Cabrero. Nombró por testamentarios a Joseph Garrote y Manuel Domínguez. Valga.\n\nAnotación. Esta cláusula de arriba tiene de equívoco que por su ánima tomó diez ducados, y solo saliesen de ellos los derechos de las cofradías, que son diez reales, y sobró para la colecturía sesenta y dos reales, y por ser así lo firmo. Dn Gregorio Cabrero."
       },
       "observations": [
-        "La partida de entierro dice que no recibió ningún sacramento; hizo testamento, tomó por su alma diez ducados, dejó por herederos a sus hijos y nombró testamentarios a José Garrote y a Manuel Domínguez."
+        "La partida de entierro dice que no recibió ningún sacramento; hizo testamento, tomó por su alma diez ducados, dejó por herederos a sus hijos y nombró testamentarios a José Garrote y a Manuel Domínguez.",
+        "El Catastro de Ensenada recoge su declaración del 22 de septiembre de 1751 como viuda y vecina de Abelón: dice tener 40 años y vivir con sus hijos Ana (17), Manuel Domínguez (15), Santiago (13), José (12), Alonso (9) y Miguel (7): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSV-K"
       ]
     },
     {
@@ -17939,7 +17988,8 @@
         "transcription": "Antonia Pérez. Adulta. Pobre.\n\nEn ocho de Marzo de mil setecientos y ochenta y nuebe yo Dn Agustín Enríquez cura párroco de este Lugar de Abelón di sepultura ecca en la prima del tercer tramo al lado de el evango de la Ygla de dho Lugar al cadáber de Antonia Pérez natural del Lugar de Torregamons y veca que fue de este Lugar, muger de Franco Domínguez, que socorrida de todos los Stos Sacramtos había fallecido el día anterior. No hizo testamto por no tener de qué y solo se le hizo su intierro con misa y en fe de ello lo firmo. Dn Agustín Enríquez."
       },
       "observations": [
-        "La partida de fallecimiento la llama natural de Torregamones y mujer de Francisco Domínguez."
+        "La partida de fallecimiento la llama natural de Torregamones y mujer de Francisco Domínguez.",
+        "El Catastro de Ensenada recoge su declaración del 28 de septiembre de 1751 como viuda y vecina de Abelón: dice tener 40 años y vivir con sus hijos Antonio Martín (17), Miguel (15) y María (8). Firma a su ruego un testigo, Juan de Miguel: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS49-L"
       ]
     },
     {
@@ -18015,7 +18065,15 @@
         "transcription": "Domingo Villar. Pobre.\n\nEn cinco de henero deste presente año de mil septecientos y sesenta y nueve, yo el infraescrito cura theniente del lugar de Moral, con licencia del Sr Dn Lorenzo Gutiérrez, cura propio del lugar de Fresnadillo, di sepultura eclesiástica en esta [yglesia] de San Martín de Abelón a Domingo Villar; no recivió más que la Santa Unción por no aver dado lugar la enfermedad; no hizo testamento por no tener de qué, y para que conste lo firmo dicho día, mes y año ut supra. Dn Lorenzo Fernández."
       },
       "observations": [
-        "La partida de entierro lo llama pobre y dice que solo recibió la santa unción, porque la enfermedad no dio lugar a más, y que no hizo testamento por no tener de qué."
+        "La partida de entierro lo llama pobre y dice que solo recibió la santa unción, porque la enfermedad no dio lugar a más, y que no hizo testamento por no tener de qué.",
+        "El Catastro de Ensenada recoge su declaración del 27 de septiembre de 1751 como vecino de Abelón y guarda del campo: dice tener 40 años y vivir, sin mujer, con sus hijos María (14), Josefa (11) y Domingo (9). Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQK-P"
+      ],
+      "occupations": [
+        {
+          "name": "Guarda del campo",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -27205,7 +27263,10 @@
         "date": "1681-08-11",
         "place": "Abelón",
         "transcription": "En onze de agosto de dicho año, yo el dicho cura theniente baptizé un niño que se llamó Domingo, hijo legítimo de Domingo Garrote y su muger Ynés Ortijua; fue su padrino Barthholomé Garrote, todos vecinos deste lugar, y lo firmé en dicho día. Juº de Barrio."
-      }
+      },
+      "observations": [
+        "Había muerto antes del 24 de septiembre de 1751: ese día su mujer, Catalina Diego, declara como viuda para el Catastro de Ensenada en Abelón: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSS6-H"
+      ]
     },
     {
       "id": "jose-hijo-de-domingo-garrote-padre-de-domingo-garrote-ortijo",

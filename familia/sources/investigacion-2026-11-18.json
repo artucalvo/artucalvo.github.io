@@ -12,6 +12,17 @@
       "reviewed": "Las declaraciones de seglares de Fadón (Sig. 469; tarjetas de FamilySearch en las imágenes 641 y 831) se leyeron imagen a imagen en el visor, ampliando encabezamientos, pasajes de familia y cierres; cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector, que trató de refutarla.",
       "finding": "Tres familias de antepasados directos, de agosto de 1751.",
       "status": "Completo para los vecinos de Fadón. Las páginas 649-653, 750 y 829-830 están casi borradas."
+    },
+    {
+      "service": "FamilySearch, imágenes del Catastro de Ensenada sin transcribir",
+      "query": {
+        "film": "008219736",
+        "village": "Abelón",
+        "images": "1309-1606"
+      },
+      "reviewed": "Las relaciones de seglares de Abelón (Sig. 9; tarjeta de FamilySearch en la imagen 1305, portada en 1306 e índice numerado de las 102 relaciones en 1307-1308) se leyeron imagen a imagen; el índice y el de los asientos (1614-1615) sirvieron para comprobar los nombres dudosos. Cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector.",
+      "finding": "Seis hogares de antepasados directos, de septiembre de 1751; dos viudas probables quedan pendientes de decisión familiar.",
+      "status": "Completo. Antes de las relaciones están la parte eclesiástica, el auto del juez del 15-12-1751 y la lista de relaciones leídas con los oficios de cada vecino (imágenes 1296-1304); después, los asientos."
     }
   ],
   "applied": [
@@ -46,6 +57,88 @@
       "urls": [
         "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V4FZ"
       ]
+    },
+    {
+      "people": [
+        "pascual-garrote",
+        "maria-garrote",
+        "angel-garrote-garrote"
+      ],
+      "finding": "Pascual Garrote, labrador, 32 años, con María Garrote, 30, y sus hijos: una hija de 9 («Cata…», bajo una mancha de tinta), Ángel (escrito «Anguel»), 7, Antonia, 6, y Lorenzo, 3 (24-09-1751).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSJ-V"
+      ]
+    },
+    {
+      "people": [
+        "domingo-santiago",
+        "teresa-garrote",
+        "alonso-santiago-garrote"
+      ],
+      "finding": "Domingo Santiago, labrador, 40 años, con Teresa Garrote, 42, y sus hijos Isabel (17), Pedro (12), Alonso (10) e Inés (3) (25-09-1751); el día antes declaró como curador de Isabel Blanco, hija de su mujer.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS99-7",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSK-5"
+      ]
+    },
+    {
+      "people": [
+        "domingo-villar",
+        "josefa-villar"
+      ],
+      "finding": "Domingo de Villar, guarda del campo, 40 años, viudo, con sus hijos María (14), Josefa (11) y Domingo (9) (27-09-1751).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQK-P"
+      ]
+    },
+    {
+      "people": [
+        "emerenciana-blanco",
+        "manuel-dominguez"
+      ],
+      "finding": "Emerenciana Blanco (el primer lector leyó «Clemenzia»; el índice dice «Emerenzia»), viuda, 40 años, con sus hijos Ana (17), Manuel Domínguez (15), Santiago (13), José (12), Alonso (9) y Miguel (7) (22-09-1751). No figura Francisco, que el árbol le da por hijo.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSSV-K"
+      ]
+    },
+    {
+      "people": [
+        "antonia-perez"
+      ],
+      "finding": "Antonia Pérez, viuda, 40 años, con sus hijos Antonio Martín (17), Miguel (15) y María (8); una línea de una hija de unos 9 años está tachada (28-09-1751). Su hija Emerenciana, de 15, no está en la casa.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS49-L"
+      ]
+    },
+    {
+      "people": [
+        "manuela-garrido",
+        "agustina-garrote-garrido"
+      ],
+      "finding": "Manuela «Garrida», viuda, 33 años, con sus hijos Agustina (11; el nombre en parte bajo una mancha) y Antonio Garrote (8) (22-09-1751).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQR-M"
+      ]
+    },
+    {
+      "people": [
+        "catalina-diego",
+        "domingo-garrote-ortijo"
+      ],
+      "finding": "Aceptada por decisión familiar (18-11-2026): Catalina Diego, viuda labradora de Abelón, vive sola y declara sesenta o setenta años (lectura con reservas; el árbol le da 65); firma por ella Domingo Santiago, marido de su hija Teresa (24-09-1751). Se anota en la ficha de Domingo Garrote Ortijo que había muerto antes de esa fecha.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSS6-H"
+      ]
+    },
+    {
+      "people": [
+        "catalina-morales",
+        "antonio-garrote"
+      ],
+      "finding": "Aceptada por decisión familiar (18-11-2026): Catalina Morales, viuda labradora de Abelón, la única adulta con ese nombre, declara setenta años (el árbol le da 60) y vive con sus hijos Manuel Garrote (30), Ana María (21) y Micaela (15) (24-09-1751). Se anota en la ficha de Antonio Garrote Blanco que había muerto antes de esa fecha.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS4H-2"
+      ]
     }
   ],
   "leads": [
@@ -61,6 +154,13 @@
         "barbara-zurdo"
       ],
       "finding": "La declaración de un curador de menores en Fadón (imágenes 827-830, muy borrosas) podría ser la de Bárbara Zurdo, huérfana desde 1748; su hermana Sebastiana figura como menor de Manuel Vega (imagen 809). José Vega arrendaba tierras de «los herederos de Josef Zuedo».",
+      "urls": []
+    },
+    {
+      "people": [
+        "emerenciana-martin"
+      ],
+      "finding": "Una criada «Concep[…] Martín», de 16 años, en casa del barbero Joseph Silva (imagen 1506), podría ser Emerenciana Martín Pérez, que no está en la casa de su madre; no se ha comprobado.",
       "urls": []
     }
   ]
