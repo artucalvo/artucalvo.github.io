@@ -11292,7 +11292,15 @@
         "transcription": "Emerenciana Martín. Adulta. Cumplido.\n\nEn quince de octubre de mil setecientos y ochenta y nuebe, yo Dn Agustín Enríquez, Cura Párroco de este Lugar de Abelón, di sepultura eccª en la primª del séptimo tramo, al lado del evangº, de la Yglesia de dho Lugar al cadáber de Emerenciana Martín, muger de Manuel Domingz, vecº de este Lugar, qe socorrido de todos los Stos Sacramtos había fallecido el día anterior; hizo testamto ante Josef Diego, fiel de fechos de este dho Lugar, en el qe dejó pr su alma treinta rs; por testamentº a dho su marido, y heredºs a sus hijos, y para qe conste lo firmo. Dn Agustín Enríquez."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos; nombró testamentario a su marido y herederos a sus hijos."
+        "La partida de entierro dice que hizo testamento ante José Diego, fiel de fechos; nombró testamentario a su marido y herederos a sus hijos.",
+        "Figura, con 16 años, entre los criados de la declaración que el barbero Joseph Silva, vecino de Abelón, hizo para el Catastro de Ensenada el 20 de septiembre de 1751; no está en la de su madre, Antonia Pérez, viuda: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSWR-9"
+      ],
+      "occupations": [
+        {
+          "name": "Criada",
+          "date": "1751",
+          "note": "Así figura, con 16 años, en la declaración del barbero Joseph Silva para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -11775,7 +11783,10 @@
       "death": {
         "note": "Falleció el 13 de septiembre, año sin precisar.",
         "transcription": "En la Yglesia Parroquial de Nuestra S.ra de la Asumpción, única de este lugar de Peleas de Arriba en catorce de setiembre del año de mil [ilegible]cientos y uno, fue sepultado el cadáver de Atilano Carretero marido de Engracia Galán el que falleció el día próximo anterior, y otorgó testamento por el que mandaba se le hiciesen por su Alma los oficios acostumbrados y que asistiesen a su entierro dos Religiosos, cura y sacristán y dejaba para su alma treinta misas y quatro a varios santuarios, y por herederos de sus bienes a sus hijos Theresa Carretero, Matheo Carretero y Fran.co Carretero, y para que se cumpliesen las mandas dichas dejó por albacea a su hijo Matheo Carretero; y para que conste lo firmo yo el cura Ecónomo de esta Parroquial. Fr. Anselmo Díaz."
-      }
+      },
+      "observations": [
+        "Figura, con 22 años, en la declaración que su padre, Esteban Carretero, viudo, hizo para el Catastro de Ensenada en Peleas de Arriba el 1 de agosto de 1751, junto a una hermana de 12 años cuyo nombre no se da: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7D5-8"
+      ]
     },
     {
       "id": "engracia-galan",
@@ -11787,12 +11798,14 @@
       ],
       "birth": {
         "date": "1731-05-26",
-        "place": "Peleas de Arriba"
+        "place": "Peleas de Arriba",
+        "note": "Fecha dudosa: en el Catastro de Ensenada, el 1 de agosto de 1751, su curador, Juan de Matos, declara los bienes de «Engracia Galán, menor», con la edad «de 13 años» añadida entre líneas, lo que la haría nacida hacia 1738; por este bautismo tendría 20. Este bautismo de 1731 podría ser el de una hermana mayor del mismo nombre."
       },
       "baptism": {
         "date": "1731-06-11",
         "place": "Peleas de Arriba",
-        "transcription": "Engracia.\n\nEn once de Junio deste año de setecientos y treinta y uno, yo el Lizdo Franco Rz Pesquera, cura proprio deste lugar de Peleas de Arriba, bauticé solemnemente y puse los Stos óleos a una hija lexítima de Fernando Galán y de su muger Franca Pérez. Púsele nombre Engracia. Nació el día veinte y seis de Mayo de dicho año. Fueron sus padrinos Franco Baylón y su muger Engracia Pérez, quien no contrajo parentesco alguno. Advertíles las obligaciones que manda nuestra Madre la Yglesia y lo firmé dicho día mes y año ut supra. Ldo Franco Rodríguez Pesquera."
+        "transcription": "Engracia.\n\nEn once de Junio deste año de setecientos y treinta y uno, yo el Lizdo Franco Rz Pesquera, cura proprio deste lugar de Peleas de Arriba, bauticé solemnemente y puse los Stos óleos a una hija lexítima de Fernando Galán y de su muger Franca Pérez. Púsele nombre Engracia. Nació el día veinte y seis de Mayo de dicho año. Fueron sus padrinos Franco Baylón y su muger Engracia Pérez, quien no contrajo parentesco alguno. Advertíles las obligaciones que manda nuestra Madre la Yglesia y lo firmé dicho día mes y año ut supra. Ldo Franco Rodríguez Pesquera.",
+        "note": "Podría ser la partida de una hermana mayor del mismo nombre (véase la nota del nacimiento)."
       },
       "marriages": [
         {
@@ -11814,7 +11827,10 @@
         "date": "1802-02-01",
         "place": "Peleas de Arriba",
         "transcription": "En la Yglesia Parroquial de ntra. Señora de la Asunción, única del lugar de Peleas de arriba, en treinta y uno de enero de mil ochocientos y dos fue sepultado el cadáver de Engracia Galán, mujer de Atilano Carretero, vecinos de este pueblo, digo falleció en dicho día y fue sepultado en el siguiente primero de febrero, después de recibidos los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción, y otorgado testamento por el qual dexó mandado se le hiciese entierro con dos asistentes y los oficios de costumbre, y que se celebrasen por su alma y las de sus obligaciones diez y nueve misas [ilegible] y que se pusiesen luces y ofrendas sobre su sepultura por el tiempo de dos años. Instituyó por sus herederos a sus tres hijos Matheo Carretero, Fran.co Carretero y Theresa Carretero, y después de varias mandas a algunos de estos y nietos, nombró por su albacea y testamentario a su hijo Matheo Carretero y para que conste lo firmo yo el párroco de esta Yglesia. Liz.do D.n Fran.co Gonzalez Ramos."
-      }
+      },
+      "observations": [
+        "Juan de Matos, vecino de Peleas de Arriba, declara el 1 de agosto de 1751 para el Catastro de Ensenada, como su curador, los bienes de «Engracia Galán, menor», con la edad «de 13 años» añadida entre líneas; el índice del libro la llama Engracia Pérez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7DT-M"
+      ]
     },
     {
       "id": "juan-perez",
@@ -11846,7 +11862,8 @@
         "place": "Peleas de Arriba"
       },
       "observations": [
-        "La partida de fallecimiento nombra herederos a sus seis hijos: María, Teresa, Isabel, Andrea, Manuel y José Pérez."
+        "La partida de fallecimiento nombra herederos a sus seis hijos: María, Teresa, Isabel, Andrea, Manuel y José Pérez.",
+        "Figura, con 14 años y anotado entre los criados, en la declaración que Lorenzo Gutiérrez, marido de su madre, hizo para el Catastro de Ensenada en Peleas de Arriba el 10 de agosto de 1751, junto a su madre, Casilda Hernández, de 36, y a su hermano Fernando Pérez, de 12, también anotado como criado: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7P4-C"
       ]
     },
     {
@@ -11922,7 +11939,17 @@
         "date": "1800-09",
         "place": "Peleas de Arriba",
         "transcription": "En la Yglesia Parroquial del lugar de Peleas de Arriba en [ilegible] de setiembre de mil y ochocientos fue sepultado el cadáver de Fran.co Bragado viudo de Ángela Macías y vecino del dicho lugar en donde falleció en el día próximo antecedente habiendo recibido los santos sacramentos de Penitencia y Eucharistía [ilegible]. Otorgó testamento por el que ordenaba se enterrase su cadáver en esta dicha parroquial [ilegible]; dejó por sus herederos a sus hijos Pedro, Josefa, Manuel, Rosa, Balthasar, Ysabel y Ángela [ilegible] y para que conste firmé yo el infrascrito Teniente cura de la referida parroquial. Fr. Anselmo Díaz."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 9 de agosto de 1751 como vecino de Peleas de Arriba y labrador: dice tener 32 años y vivir con su mujer, Ángela Macías, de 23, sin hijos, y con un criado de labranza, Felipe Hernández, de 20. Firma a su ruego un testigo, Francisco Bailón: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7HV-G"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "angela-macias",
@@ -11952,7 +11979,10 @@
       "burial": {
         "date": "1795-12-08",
         "place": "Peleas de Arriba"
-      }
+      },
+      "observations": [
+        "Figura, con 23 años, en la declaración que su marido, Francisco Bragado, hizo para el Catastro de Ensenada en Peleas de Arriba el 9 de agosto de 1751; no declaran hijos: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7HV-G"
+      ]
     },
     {
       "id": "jeronimo-calabaza",
@@ -11984,7 +12014,15 @@
         }
       ],
       "observations": [
-        "La partida de matrimonio de 1752 indica que era viudo de Josefa Gutiérrez."
+        "La partida de matrimonio de 1752 indica que era viudo de Josefa Gutiérrez.",
+        "El Catastro de Ensenada recoge su declaración del 10 de julio de 1751 como vecino de Peleas de Arriba y jornalero, ya viudo: dice tener 24 años y vivir con una hija de 2, cuyo nombre está tachado. Firma a su ruego un testigo, Jacinto Gutiérrez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7HV-Y"
+      ],
+      "occupations": [
+        {
+          "name": "Jornalero",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -18436,7 +18474,17 @@
         "date": "1691-06-14",
         "place": "Figueruela de Abajo",
         "transcription": "Esteban.\n\nEn catorze de Junio de mil y seiscientos y nobenta y uno, yo Bme Fauto, Cura teniente de Figueruela de Abaxo, Bauticé y puse los santos óleos a un niño que se llamó Esteban, y es legítimo de Santiago Esteban, digo Carretero, y de Ysabel, digo María Arias; fueron padrinos Esteban Carretero y María Fierras, y lo firmo dicho día, mes y año. Bme Fauto."
-      }
+      },
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración del 1 de agosto de 1751 como vecino de Peleas de Arriba y jornalero, con la nota «Viudo» al margen: dice tener 54 años y vivir con sus hijos Atilano, de 22, y una hija de 12 cuyo nombre no se da. Por estar él ausente firma a su ruego un testigo, Manuel Alonso González: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7D5-8"
+      ],
+      "occupations": [
+        {
+          "name": "Jornalero",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "maria-arias",
@@ -18567,7 +18615,8 @@
       "observations": [
         "La partida de entierro la llama viuda de Lorenzo Gutiérrez y nombra herederos a sus hijos Fernando, Juan y Francisca Pérez.",
         "El árbol Bonilla Cortabitarte de MyHeritage la identifica como hija de Manuel Hernández y Ana Lachón, esposa de Andrés Pérez Mateos y madre de Juan Pérez Hernández (1736), datos que coinciden con el bautismo de Jerónimo Juan. Es un árbol de usuario y no se ha comprobado en él una partida original: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503825&action=showRecord",
-        "Un perfil separado del mismo árbol presenta a Andrés Hernández Lachón como hijo de Manuel Hernández y Ana Lachón; la posible hermandad con Casilda requiere confirmación porque los perfiles de los padres son distintos: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503865&action=showRecord"
+        "Un perfil separado del mismo árbol presenta a Andrés Hernández Lachón como hijo de Manuel Hernández y Ana Lachón; la posible hermandad con Casilda requiere confirmación porque los perfiles de los padres son distintos: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6B75J56WSGMAWPPPZ5VND5TUNPQ-1-503865&action=showRecord",
+        "Figura, con 36 años, en la declaración que su marido, Lorenzo Gutiérrez, labrador de 48 años, hizo para el Catastro de Ensenada en Peleas de Arriba el 10 de agosto de 1751. En la casa viven también Pedro Gutiérrez, de 20, cinco hijas de 18 (la edad se lee con reservas), 16, 12, 5 y 3 años, cuyos nombres no se dan, y, anotados entre los criados, sus hijos Juan Pérez, de 14, y Fernando Pérez, de 12: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7P4-C"
       ]
     },
     {
@@ -18691,7 +18740,8 @@
       ],
       "birth": {
         "date": "1700-12-15",
-        "place": "Peleas de Arriba"
+        "place": "Peleas de Arriba",
+        "note": "Fecha dudosa: en el Catastro de Ensenada, el 2 de julio de 1751, Antonio Calabaza, viudo y con su hijo Benito en casa, declara 72 años, lo que le haría nacido hacia 1679, y no hay en el lugar otro vecino de ese nombre. Un Miguel Calabaza, vecino del lugar, declara 35 años; si es su hijo Miguel, habría nacido hacia 1716, cuando el Antonio de este bautismo tendría quince. Este bautismo de 1700, del que salen también los padres que se le dan, podría ser el de otro Antonio Calabaza."
       },
       "father": "alonso-calabaza",
       "mother": "maria-lopez",
@@ -18702,13 +18752,22 @@
         "transcription": "Antonio Calabaza.\n\nEn seys de octubre de mil setecientos y sesenta y dos yo el infrascripto Cura de Peleas de Arriba di sepoltura eclesiástica junto a el púlpito de la Yglesia de dicho lugar a Antonio Calabaza viudo de Ynés Gutiérrez. Recibió los Santos Sacramentos, hizo testamento ante Gerónimo Rodríguez fiel de fechos de dicho lugar, dejó por su testamentario a Gerónimo Calabaza su hijo, y por herederos a sus hijos Miguel, Benito y Gerónimo Calabaza. Dejó por su alma los derechos parrochiales, y que asistiesen a su entierro, onrras y cabo de año dos religiosos con el Sr Cura, y se le ofrendase todo el año como es costumbre. Mandó se le dijese una missa a Nª Sª de Tiedra Vieja, otra a Nª Sª de el Consuelo, otra a Nª Sª de la Cuesta, otra en el altar de las perdonanzas en Valparayso. Fueron testigos Gregorio Baylón, Miguel Alonso, Joseph Rodríguez y Joseph Esteban, y para que conste lo firmo dicho día, mes y año. Dn Joseph Pardo."
       },
       "observations": [
-        "La partida de fallecimiento nombra herederos a sus hijos Miguel, Benito y Jerónimo Calabaza."
+        "La partida de fallecimiento nombra herederos a sus hijos Miguel, Benito y Jerónimo Calabaza.",
+        "El Catastro de Ensenada recoge su declaración del 2 de julio de 1751 como vecino de Peleas de Arriba y labrador, viudo: dice tener 72 años y vivir con su hijo Benito, de 13 (la edad se lee con reservas), y un criado, Juan Hernández, de 78. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
       ],
       "baptism": {
         "date": "1700-12-24",
         "place": "Peleas de Arriba",
-        "transcription": "Antto.\n\nEn beinti quatro de diciembre de setecientos, yo el Ldo Juan R[odríguez], cura theniente deste lugar, bauticé y puse los santos olios a Antonio, hijo de Alonso Calabaza y de su muger María López, que nació a quince de dicho mes; fueron padrinos Antonio Rueda y Susana Pérez, a [ilegible] parentesco del bautizado; testigos Mateo Gutiérrez y Antonio González, y lo firmé dicho día. Ldo Juan Rodríguez."
-      }
+        "transcription": "Antto.\n\nEn beinti quatro de diciembre de setecientos, yo el Ldo Juan R[odríguez], cura theniente deste lugar, bauticé y puse los santos olios a Antonio, hijo de Alonso Calabaza y de su muger María López, que nació a quince de dicho mes; fueron padrinos Antonio Rueda y Susana Pérez, a [ilegible] parentesco del bautizado; testigos Mateo Gutiérrez y Antonio González, y lo firmé dicho día. Ldo Juan Rodríguez.",
+        "note": "Podría ser la partida de otro Antonio Calabaza (véase la nota del nacimiento)."
+      },
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "manuel-hijo-de-alonso-calabaza",
@@ -32848,7 +32907,8 @@
       "father": "antonio-calabaza",
       "observations": [
         "Nombrado entre los hijos de Antonio Calabaza López en la observación de su partida; el nombre aquí conservado es el que figura en esa lista.",
-        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la observación original recoge solo el nombre de pila.",
+        "Figura, con 13 años (la edad se lee con reservas), en la declaración que su padre, Antonio Calabaza, viudo, hizo para el Catastro de Ensenada en Peleas de Arriba el 2 de julio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
       ]
     },
     {

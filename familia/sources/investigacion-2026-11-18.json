@@ -23,6 +23,17 @@
       "reviewed": "Las relaciones de seglares de Abelón (Sig. 9; tarjeta de FamilySearch en la imagen 1305, portada en 1306 e índice numerado de las 102 relaciones en 1307-1308) se leyeron imagen a imagen; el índice y el de los asientos (1614-1615) sirvieron para comprobar los nombres dudosos. Cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector.",
       "finding": "Seis hogares de antepasados directos, de septiembre de 1751; dos viudas probables quedan pendientes de decisión familiar.",
       "status": "Completo. Antes de las relaciones están la parte eclesiástica, el auto del juez del 15-12-1751 y la lista de relaciones leídas con los oficios de cada vecino (imágenes 1296-1304); después, los asientos."
+    },
+    {
+      "service": "FamilySearch, imágenes del Catastro de Ensenada sin transcribir",
+      "query": {
+        "film": "008034271",
+        "village": "Peleas de Arriba",
+        "images": "249-569"
+      },
+      "reviewed": "Las relaciones de seglares de Peleas de Arriba (tarjeta de FamilySearch en la imagen 245; índice de vecinos y forasteros en 247-249) se leyeron imagen a imagen: vecinos, números 1 a 63, en 249-440; el Concejo, en 441-446; los forasteros, en 447-568. Cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector; el primer intento de comprobación se repitió porque FamilySearch había cerrado la sesión.",
+      "finding": "Cuatro hogares de antepasados directos, de julio y agosto de 1751, y dos declaraciones que coinciden salvo en la edad, incorporadas por decisión de la familia con las fechas de nacimiento marcadas como dudosas.",
+      "status": "Completo para los vecinos y los forasteros."
     }
   ],
   "applied": [
@@ -139,6 +150,73 @@
       "urls": [
         "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZS4H-2"
       ]
+    },
+    {
+      "people": [
+        "francisco-bragado",
+        "angela-macias"
+      ],
+      "finding": "Francisco Bragado, labrador, 32 años, con Ángela Macías, 23, sin hijos, y un criado de labranza, Felipe Hernández, 20 (9-08-1751; firma a su ruego Francisco Bailón). Relación n.º 2, folios 10-15. La edad de Ángela concuerda con su bautismo de 1727.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7HV-G"
+      ]
+    },
+    {
+      "people": [
+        "esteban-carretero",
+        "atilano-carretero"
+      ],
+      "finding": "Esteban Carretero, jornalero, «Viudo» al margen, 54 años, con sus hijos Atilano, 22, y una hija de 12 sin nombre (1-08-1751; firma por su ausencia Manuel Alonso González). Relación n.º 25. La edad de Atilano concuerda con su bautismo de 1728.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7D5-8"
+      ]
+    },
+    {
+      "people": [
+        "jeronimo-calabaza"
+      ],
+      "finding": "Jerónimo Calabaza, jornalero, «viudo» entre líneas, 24 años, con una hija de 2 cuyo nombre está tachado (10-07-1751; firma a su ruego Jacinto Gutiérrez). Relación n.º 24. Concuerda con su bautismo de 1727 y con su boda de 1752, de viudo de Josefa Gutiérrez.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7HV-Y"
+      ]
+    },
+    {
+      "people": [
+        "casilda-hernandez",
+        "juan-perez"
+      ],
+      "finding": "En la relación n.º 1, de Lorenzo Gutiérrez, labrador de 48 años, figura su mujer Casilda Hernández, 36, con Pedro Gutiérrez, 20, cinco hijas sin nombre de 18 (lectura con reservas), 16, 12, 5 y 3 años y, como criados, Juan Pérez, 14, y Fernando Pérez, 12 (10-08-1751). El entierro de Casilda (1780) la llama viuda de Lorenzo Gutiérrez y nombra herederos a sus hijos Fernando, Juan y Francisca Pérez; la edad de Juan concuerda con su bautismo de 1736.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7P4-C"
+      ]
+    },
+    {
+      "people": [
+        "emerenciana-martin"
+      ],
+      "finding": "Criada de 16 años en la relación de Joseph Silva, barbero y vecino de Abelón (encabezamiento en la imagen 1503, folio 188; criados en la 1506; cierre firmado por él en la 1507: «Abelón y septiembre veinte de 1751»). El primer lector leyó «Concep[…] Martín»; releído sobre la imagen ampliada, el nombre es «Emerenciana Martín, de edad de diez y seis años». Su bautismo de 1736 le da 15 años y ocho meses, y no figura en la relación de su madre, Antonia Pérez, viuda.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSWR-9"
+      ]
+    },
+    {
+      "people": [
+        "antonio-calabaza",
+        "benito-hijo-de-antonio-calabaza"
+      ],
+      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 4 (2-07-1751) de Antonio Calabaza, labrador, «viudo» entre líneas, que dice tener «setenta y dos años» (releído sobre la imagen ampliada) y vive con su hijo Benito, de 13 (lectura con reservas), y un criado, Juan Hernández, de 78. Es el único vecino de ese nombre, viudo como el del árbol (su mujer murió en 1748) y con un hijo Benito, como los herederos de su entierro de 1762. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1700, que le daría 50 años; un Miguel Calabaza del lugar (n.º 32) declara 35, lo que, si es su hijo, tampoco casa con un padre nacido en 1700. El bautismo de 1700, del que salen también los padres que el árbol le da, podría ser el de otro Antonio Calabaza.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
+      ]
+    },
+    {
+      "people": [
+        "engracia-galan"
+      ],
+      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 61 (1-08-1751), en la que Juan de Matos, como curador, declara los bienes de «Engracia Galán, menor», con «de 13 a.s» entre líneas (leído así por los dos lectores); el índice la llama Engracia Pérez, el apellido de su madre. Huérfana, como la del árbol, cuyos padres murieron en 1749, y soltera hasta su boda de 1753. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1731, que le daría 20 años; ese bautismo podría ser el de una hermana mayor del mismo nombre.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7DT-M"
+      ]
     }
   ],
   "leads": [
@@ -158,9 +236,36 @@
     },
     {
       "people": [
-        "emerenciana-martin"
+        "teresa-ramirez"
       ],
-      "finding": "Una criada «Concep[…] Martín», de 16 años, en casa del barbero Joseph Silva (imagen 1506), podría ser Emerenciana Martín Pérez, que no está en la casa de su madre; no se ha comprobado.",
+      "finding": "Su marido, Esteban Carretero, declara ya viudo el 1-08-1751, pero la relación no nombra a la difunta, y tiene una hija de 12 años que pudo ser de ella o de otra mujer. La boda de su hijo Atilano (1753) la da por difunta.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7D5-8"
+      ]
+    },
+    {
+      "people": [
+        "baltasara-perez"
+      ],
+      "finding": "Relación n.º 60 (imágenes 434-435; 1-08-1751): Pedro Calabaza, como curador, declara los bienes de «Baltasara Pérez, menor», con «de 12 a.s» entre líneas. Coincide el nombre y que era soltera, pero nada la une a sus padres del árbol; no está en casa de su curador ni en la de la viuda María Bartolomé.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7H1-V"
+      ]
+    },
+    {
+      "people": [
+        "maria-bartolome"
+      ],
+      "finding": "Relación n.º 6 (imágenes 281-285): María Bartolomé, viuda y labradora, 43 años, con hijos apellidados Pérez de 21 a 5 años, entre ellos Alonso y Bernardo, los nombres del marido y del suegro del árbol. Sin comprobar por un segundo lector; el hijo mayor, de 21, no puede ser de un marido nacido en 1714.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7H2-3"
+      ]
+    },
+    {
+      "people": [
+        "esteban-carretero"
+      ],
+      "finding": "Declara 54 años en 1751; el bautismo de Figueruela de Abajo de 1691 que le atribuye el árbol le daría 60. La identificación de 1751 se apoya en su hijo Atilano y no depende de esa fecha.",
       "urls": []
     }
   ]
