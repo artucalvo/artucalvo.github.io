@@ -31,9 +31,31 @@
         "village": "Peleas de Arriba",
         "images": "249-569"
       },
-      "reviewed": "Las relaciones de seglares de Peleas de Arriba (tarjeta de FamilySearch en la imagen 245; índice de vecinos y forasteros en 247-249) se leyeron imagen a imagen: vecinos, números 1 a 63, en 249-440; el Concejo, en 441-446; los forasteros, en 447-568. Cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector; el primer intento de comprobación se repitió porque FamilySearch había cerrado la sesión.",
+      "reviewed": "Las relaciones de seglares de Peleas de Arriba (tarjeta de FamilySearch en la imagen 245; índice de vecinos y forasteros en 247-249) se leyeron imagen a imagen: vecinos, números 1 a 63, en 249-440; el Concejo, en 441-446; los forasteros, en 447-568. Cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector; el primer intento de comprobación se repitió porque FamilySearch había cerrado la sesión. La relación n.º 4, de Antonio Calabaza, se leyó una tercera vez, y se localizó la n.º 32, de Miguel Calabaza (imágenes 362-363, 1-07-1751); en la n.º 4 siguen dudosos la edad (setenta y dos o sesenta y dos), el nombre y la edad del criado y la última cifra del año.",
       "finding": "Cuatro hogares de antepasados directos, de julio y agosto de 1751, y dos declaraciones que coinciden salvo en la edad, incorporadas por decisión de la familia con las fechas de nacimiento marcadas como dudosas.",
       "status": "Completo para los vecinos y los forasteros."
+    },
+    {
+      "service": "FamilySearch, imágenes del Catastro de Ensenada sin transcribir",
+      "query": {
+        "film": "008220293",
+        "village": "Malillos",
+        "images": "1357-1729"
+      },
+      "reviewed": "Las relaciones de seglares de Malillos (tarjeta de FamilySearch «MALILLOS Declaraciones de Seglares Sig. 753, ITEM 6» en la imagen 1353, portada en 1354 e índice de los 94 declarantes en 1355-1356) se leyeron imagen a imagen; cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector. Dos pistas de forasteros (Joaquín Sastre y Antonio de las Heras) y la viuda Isabel Fernández se releyeron después sobre la imagen ampliada.",
+      "finding": "Un hogar de antepasados directos (Juan Tuda, 22-08-1751), la declaración de Joaquín Sastre como forastero y la de la viuda Isabel Fernández, aceptada por decisión de la familia.",
+      "status": "Completo. Muchos antepasados de Malillos vivían ya en Fadón o en Sogo, cuyos libros guardan sus familias."
+    },
+    {
+      "service": "FamilySearch, imágenes del Catastro de Ensenada sin transcribir",
+      "query": {
+        "film": "008127956",
+        "village": "Tardobispo",
+        "images": "1560-1801"
+      },
+      "reviewed": "Las relaciones de seglares de Tardobispo (tarjeta de FamilySearch «TARDOBISPO Declaraciones de Seglares Sig. 1472, ITEM 8» en la imagen 1556, portada en 1557 e índice de 71 relaciones, vecinos 1-37 y forasteros 38-71, en 1558-1559) se leyeron imagen a imagen; cada coincidencia con un antepasado la volvió a leer sobre la imagen un segundo lector.",
+      "finding": "Tres hogares de antepasados directos, de junio de 1751.",
+      "status": "Completo."
     }
   ],
   "applied": [
@@ -204,18 +226,84 @@
         "antonio-calabaza",
         "benito-hijo-de-antonio-calabaza"
       ],
-      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 4 (2-07-1751) de Antonio Calabaza, labrador, «viudo» entre líneas, que dice tener «setenta y dos años» (releído sobre la imagen ampliada) y vive con su hijo Benito, de 13 (lectura con reservas), y un criado, Juan Hernández, de 78. Es el único vecino de ese nombre, viudo como el del árbol (su mujer murió en 1748) y con un hijo Benito, como los herederos de su entierro de 1762. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1700, que le daría 50 años; un Miguel Calabaza del lugar (n.º 32) declara 35, lo que, si es su hijo, tampoco casa con un padre nacido en 1700. El bautismo de 1700, del que salen también los padres que el árbol le da, podría ser el de otro Antonio Calabaza.",
+      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 4 (2-07-1751; el año va en cifras y la última se lee mal, pero las relaciones n.º 26 y 32 lo dan en letra, 1751) de Antonio Calabaza, labrador, «viudo» entre líneas, que dice tener setenta y dos o sesenta y dos años (dos lecturas dan setenta; la última, hecha más de cerca, se inclina por sesenta, con reservas) y vive con su hijo Benito, de 13 (lectura con reservas), y un criado, Juan Hernández o Méndez, de 78 o 68 (nombre y edad dudosos); firma a su ruego Jacinto Gutiérrez. Es el único vecino de ese nombre, viudo como el del árbol (su mujer murió en 1748) y con un hijo Benito, como los herederos de su entierro de 1762. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1700, que le daría 50 años. Un Miguel Calabaza del lugar (n.º 32, 1-07-1751), jornalero, declara 35 años y paga a Antonio Calabaza doce reales al año por la casa en que vive, sin decir que sea su padre; si es su hijo, tampoco casa con un padre nacido en 1700. El bautismo de 1700, del que salen también los padres que el árbol le da, podría ser el de otro Antonio Calabaza.",
       "urls": [
-        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7J8-Y",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JZ-B"
       ]
     },
     {
       "people": [
         "engracia-galan"
       ],
-      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 61 (1-08-1751), en la que Juan de Matos, como curador, declara los bienes de «Engracia Galán, menor», con «de 13 a.s» entre líneas (leído así por los dos lectores); el índice la llama Engracia Pérez, el apellido de su madre. Huérfana, como la del árbol, cuyos padres murieron en 1749, y soltera hasta su boda de 1753. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1731, que le daría 20 años; ese bautismo podría ser el de una hermana mayor del mismo nombre.",
+      "finding": "Decisión familiar del 18-11-2026: se incorpora la relación n.º 61 (1-08-1751), en la que Juan de Matos, como curador, declara los bienes de «Engracia Galán, menor», con «de 13 a.s» entre líneas (leído así por los dos lectores); el índice la llama Engracia Pérez, el apellido de su madre. Huérfana, como la del árbol, cuyos padres murieron en 1749, y soltera hasta su boda de 1753; además, al morir en 1749 su padre, Fernando Galán, dio poder para testar a un Juan Matos, lo que refuerza la identificación. Se marca como dudosa, sin cambiarla, la fecha de nacimiento de 1731, que le daría 20 años; ese bautismo podría ser el de una hermana mayor del mismo nombre.",
       "urls": [
         "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7DT-M"
+      ]
+    },
+    {
+      "people": [
+        "juan-tuda",
+        "margarita-pereruela",
+        "domingo-tuda-pereruela"
+      ],
+      "finding": "Juan Tuda («Juº», abreviatura de Juan), labrador, 43 años, con Margarita Pereruela, 42, y sus hijos Manuel (22), Santiago (17) y Domingo (9) (22-08-1751; firma a su ruego Matheo Hernández). Relación n.º 7, folios 29-40. Las edades de Margarita y Domingo coinciden exactamente con sus bautismos de 1708 y 1742; Manuel y Santiago no están en el árbol.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-391N-G"
+      ]
+    },
+    {
+      "people": [
+        "joaquin-sastre"
+      ],
+      "finding": "Relación n.º 91, de forastero (21-08-1751): «Joaquín S[astre], vecino del lugar de Fadón», declara tierras en Malillos; firma por él Casimiro Barrocal. El primer lector leyó el apellido «Justo[?]»; releído sobre la imagen ampliada, encaja con «Sastre» en letra cursiva, y es el único Joaquín entre los vecinos de Fadón, donde Joaquín Sastre declaró el 22-08-1751. Nació en Malillos en 1712.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-39BW-F"
+      ]
+    },
+    {
+      "people": [
+        "isabel-fernandez"
+      ],
+      "finding": "Aceptada por decisión familiar (18-11-2026): relación n.º 37 de Malillos (encabezamiento en la imagen 1525, f. 147; familia y cierre en la 1527): «Ysabel Fernan[dez] viuda y vecina del lugar de Malillos», «de edad de sesenta años», sola, con catorce ovejas y ocho corderos; «Malillos y Agosto a beinte y seis» de 1751, testigo Alonso Tuda. Encabezamiento, familia y cierre releídos sobre la imagen ampliada. No nombra al marido ni a los hijos; encaja con la viuda de Lorenzo Tuda (muerto en 1746), madre de Juan, Alonso y Antonia Tuda, que declaran aparte.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-39BM-K"
+      ]
+    },
+    {
+      "people": [
+        "lorenzo-roncero-herrero",
+        "dorotea-hernandez",
+        "manuel-hijo-de-dorotea-hernandez",
+        "bernardo-hijo-de-dorotea-hernandez",
+        "miguel-hijo-de-dorotea-hernandez"
+      ],
+      "finding": "Relación n.º 2 (26-06-1751; firma a su ruego Juan Francisco del Pozo): Lorenzo Roncero, labrador, 38 años, con Dorotea Hernández, 37, sus hijos Manuel (12), «Berndo» (6) y Miguel (10 meses), una hija de 9 y otra de 3, sin nombre, y cuatro criados. Todas las edades encajan con los bautismos; las dos hijas serían Francisca (1741) y Joaquina Paula (1748), las únicas nacidas hasta entonces, pero no se nombran y no se anota nada en sus fichas.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
+      ]
+    },
+    {
+      "people": [
+        "juan-perez-de-la-iglesia",
+        "teresa-hernandez-hernandez",
+        "lorenzo-hijo-de-juan-perez-de-la-iglesia"
+      ],
+      "finding": "Relación n.º 8 (20-06-1751; firma a su ruego Juan Francisco del Pozo): Juan Pérez, labrador, 50 años, con Teresa Hernández, de «quarenta y» (quizá falta la unidad), su hijo Lorenzo Pérez (11) y una hija de 13 sin nombre, que sería Micaela (1738); labra sus tierras con un hijo y no tiene criados.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6998-Q"
+      ]
+    },
+    {
+      "people": [
+        "manuel-perez",
+        "angela-miguel",
+        "juan-perez-miguel"
+      ],
+      "finding": "Relación n.º 4 (día 21, sin mes, de 1751; los asientos vecinos son de junio; firma a su ruego Juan Francisco del Pozo): Manuel Pérez, labrador, 45 años, con Ángela Miguel, 38, su hijo Juan Pérez (5) y un mozo de labranza de 15; declara 300 reales al año por un trato de cera («gomazero de zera», lectura con reservas).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-699Z-F"
       ]
     }
   ],
@@ -266,6 +354,46 @@
         "esteban-carretero"
       ],
       "finding": "Declara 54 años en 1751; el bautismo de Figueruela de Abajo de 1691 que le atribuye el árbol le daría 60. La identificación de 1751 se apoya en su hijo Atilano y no depende de esa fecha.",
+      "urls": []
+    },
+    {
+      "people": [
+        "antonio-de-las-heras"
+      ],
+      "finding": "Relación n.º 73 de forastero (imágenes 1677-1679; 26-09-1751, el mes con reservas): Antonio de las Heras, vecino y labrador de Sogo, declara tierras y una casa en Malillos, el lugar de su mujer, y firma de su mano. Sin datos de familia, y declaran también otros de las Heras de Sogo, así que no se enlaza; su familia debe de estar en el libro de Sogo.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-3SMW-N"
+      ]
+    },
+    {
+      "people": [
+        "alonso-hijo-de-lorenzo-tuda",
+        "antonia-hijo-de-lorenzo-tuda"
+      ],
+      "finding": "Hermanos de Juan Tuda, leídos una sola vez: Alonso Tuda, labrador, relación de 20-09-1751 (imágenes 1401-1410), con su mujer Jerónima Pereruela, de 51, sus hijos Benito (14), Micaela (8) y Francisco (2) y un criado; y Antonia Tuda, de unos 24 años, mujer de Manuel Zertexo[?], labrador de 25, con su hija Isabel, de 5 (relación de 26-08-1751, imágenes 1460-1461). Sin segunda lectura; no se ha tocado su ficha.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-39TP-6",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-3S9B-4"
+      ]
+    },
+    {
+      "people": [
+        "joaquina-roncero-hernandez",
+        "micaela-perez"
+      ],
+      "finding": "Figurarían como hijas sin nombre en las relaciones de sus padres (Joaquina, de 3 años, en la de Lorenzo Roncero; Micaela, de 13, en la de Juan Pérez); los dos lectores coinciden en las edades, pero la declaración no da el nombre, así que no se anota en sus fichas.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6998-Q"
+      ]
+    },
+    {
+      "people": [
+        "jose-hijo-de-juan-perez-de-la-iglesia",
+        "ildefonso-hijo-de-manuel-perez",
+        "luisa-hijo-de-manuel-perez"
+      ],
+      "finding": "No figuran en las casas de sus padres en junio de 1751 José Pérez Hernández (nacido en 1744), Ildefonso (1745) y Luisa Pérez Miguel (1741); quizá murieron niños. Convendría buscar sus entierros de 1744-1751 en Tardobispo.",
       "urls": []
     }
   ]

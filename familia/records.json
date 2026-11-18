@@ -5925,7 +5925,8 @@
         "transcription": "Domingo Tuda. Cumplido. Edad 70 años.\n\nEn el día doce de Enero de este año de mil ochocientos y trece, io el Infrascripto Cura Propio de este Lugar de Malillos y sus anejos di sepultura Ecclesiástica en la Parrochial de Santa María Magdalena de este dho Lugar, grada abajo, al cuerpo de Domingo Tuda, Marido que fue de Tomasa Porres, vecinos de este Lugar, el que murió el día once de dho mes y año; recibió los SS. Sacramtos de Penitencia, Viático y Extrema Unción, e hizo testamto ante Ysidro Roncero, fiel de fechos del Lugar de Arcillo, en el que quedó por bien de su alma seis mil rvn, y que de ellos han de salir los derechos Parrochiales, como también tres cargas de centeno con el vino correspondiente, que se había de dar de caridad el día de su entierro, y dos años de ofrenda doble, y a la misa de su entierro, honras y cabo de año se pusiesen a cada una doce hachas, y que estas fuesen con asistencia de tres sacerdotes; también mandó que al Párroco se le diesen quinientos rvn para que aplicase cien misas por su alma y ánimas benditas, cinquenta misas de a cinco rvn a Dn Narciso Jurado, teniente de Mogatar, y otras tantas a Dn Josef Luengo, teniente de Sogo; mandó otras varias mandas particulares, que podrán verse en su testamto, y lo restante hasta dhos seis mil rvn lo quedaba al arvitrio de sus testamentarios, y para que así conste lo firmo ut supra. Josef Altamirano."
       },
       "observations": [
-        "La partida de entierro dice que hizo testamento ante Isidro Roncero, fiel de fechos de Arcillo, y dejó seis mil reales por su alma, con tres cargas de centeno y vino de caridad el día de su entierro."
+        "La partida de entierro dice que hizo testamento ante Isidro Roncero, fiel de fechos de Arcillo, y dejó seis mil reales por su alma, con tres cargas de centeno y vino de caridad el día de su entierro.",
+        "Figura, con 9 años, en la declaración que su padre, Juan Tuda, hizo para el Catastro de Ensenada en Malillos el 22 de agosto de 1751, junto a sus hermanos Manuel (22) y Santiago (17): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-391N-G"
       ]
     },
     {
@@ -6684,7 +6685,8 @@
         }
       ],
       "observations": [
-        "Tuvo un hermano mayor del mismo nombre, nacido el 5 de junio de 1740 y bautizado el día 15, cuya partida de bautismo lleva al margen la nota «murió»."
+        "Tuvo un hermano mayor del mismo nombre, nacido el 5 de junio de 1740 y bautizado el día 15, cuya partida de bautismo lleva al margen la nota «murió».",
+        "Figura, con 5 años, en la declaración que su padre, Manuel Pérez, hizo para el Catastro de Ensenada en Tardobispo en junio de 1751; es el único hijo que declara: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-699Z-F"
       ],
       "burial": {
         "date": "1793-05-13",
@@ -9250,7 +9252,15 @@
         "note": "En la parroquial de Santa María Magdalena, de grada abajo."
       },
       "observations": [
-        "La partida de fallecimiento dice que no hizo testamento."
+        "La partida de fallecimiento dice que no hizo testamento.",
+        "El Catastro de Ensenada recoge su declaración del 22 de agosto de 1751 como vecino de Malillos y labrador: dice tener 43 años y vivir con su mujer, Margarita Pereruela, de 42, y sus hijos Manuel (22), Santiago (17) y Domingo (9). Firma a su ruego Matheo Hernández: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-391N-G"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -9279,7 +9289,8 @@
       "father": "miguel-pereruela",
       "mother": "maria-hernandez",
       "observations": [
-        "La partida de fallecimiento dice que hizo testamento y nombró herederos a su hijo y a sus nietas, y testamentarios a su hijo Domingo Tuda y a Bernardo Alonso."
+        "La partida de fallecimiento dice que hizo testamento y nombró herederos a su hijo y a sus nietas, y testamentarios a su hijo Domingo Tuda y a Bernardo Alonso.",
+        "Figura, con 42 años, en la declaración que su marido, Juan Tuda, hizo para el Catastro de Ensenada en Malillos el 22 de agosto de 1751, junto a sus hijos Manuel (22), Santiago (17) y Domingo (9): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-391N-G"
       ]
     },
     {
@@ -10622,13 +10633,21 @@
         "note": "En medio del cuerpo de la iglesia, con el hábito de San Francisco."
       },
       "observations": [
-        "La partida de fallecimiento dice que hizo testamento y dejó por heredero a su hijo Juan Pérez."
+        "La partida de fallecimiento dice que hizo testamento y dejó por heredero a su hijo Juan Pérez.",
+        "El Catastro de Ensenada recoge su declaración, fechada el día 21 sin mes (los asientos vecinos son de junio) de 1751, como vecino de Tardobispo y labrador: dice tener 45 años y vivir con su mujer, Ángela Miguel, de 38, su hijo Juan Pérez, de 5, y un mozo de labranza de 15. Declara además una ganancia de trescientos reales al año por un trato de cera (el nombre del oficio se lee con reservas). Firma a su ruego un testigo, Juan Francisco del Pozo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-699Z-F"
       ],
       "baptism": {
         "place": "Tardobispo",
         "note": "La partida se rehízo el 25 de junio de 1717 por declaración jurada de su abuelo Juan Roncero y tres testigos: nació en junio de 1706, sin que recordasen el día, y fue bautizado unos ocho días después.",
         "transcription": "Manl Pérez Ronzero. Manuel Pérez, año de 1706. Corresponde después de reedificada la Yglesia a folio 16. Ledesma.\n\nEn el lugar de Tardobispo, a venticinco de Junio de mil setecientos y diez y siete, en virtud de la comisión q el Dr Dn Juº Franco Gómez Calleja, Visitador General deeste Obispado de Zamora, dio a mí Dn Phe Antº de Ledesma, Cura propio de dho lugar y anejos, en la visita q hizo de mi Iglesia en ventiuno de Abril de este año, pareció Juan Roncero, vezº deeste lugar de Tardobpo, y dijo tenía noticia q en este libro faltaba la cláusula y asiento deel baptismo de Manuel Pérez Roncero, su nieto, hijo lexítimo y de lexítimo matrimonio de Juan Pérez y Luisa Roncero, vezs y naturales q fueron deeste lugar, ia difuntos, y q para evitar los daños q podían seguirse presentaba a Marcos García, vezº q fue muchos años deeste lugar, a Joseph Pérez menor, y a Santiago de la Fuente, vezinos deél, de los quales recibí juramto en forma, q lo hicieron a Dios y una Cruz, y debajo deél declararon ser dho Manuel Pérez hijo lexítimo y de lexítimo matrimonio de dhos Juan Pérez y Luisa Roncero, difuntos, y q como a tal se le vieron criar y alimentar y llamarle hijo, y él a ellos Padres, y saben nació en el mes de Junio deel año pasado de mil setecientos y seis, q no se acuerdan deel día, y q vieron q a los ocho días con poca diferencia de su nacimto le baptizó en la Iglesia deeste lugar y puso los sanctos óleos Dn Simón Rz de Valderrábano, Cura q fue de ella, y q saben son sus abuelos paternos Joseph Pérez, natural deeste lugar, y Ysabel Martín, natural deel Perdigón, su muger, ia difunta, y maternos dho Juan Roncero y María Fernández su muger, vezs deeste lugar, y él natural deél y ella deel Perdigón, y q fueron sus Padrinos dicho Juan Roncero (q debaxo deel mismo juramto declaró todo lo q va dicho) y María Miguel, muger de Franco Miguel, ia difunto, vezs deel Perdigón, y ella aora de Casaseca de Campián, y aviéndoles echo diferentes repreguntas se ratificaron y firmaron los q supieron, y io el Cura, de q certifico. Juan Ronzero. Marcos García. Joseph Pérez. Phe Antº de Ledesma."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "angela-miguel",
@@ -10642,7 +10661,10 @@
         "La Tuda"
       ],
       "father": "gregorio-miguel",
-      "mother": "isabel-vara"
+      "mother": "isabel-vara",
+      "observations": [
+        "Figura, con 38 años, en la declaración que su marido, Manuel Pérez, hizo para el Catastro de Ensenada en Tardobispo en junio de 1751, junto a su hijo Juan Pérez, de 5: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-699Z-F"
+      ]
     },
     {
       "id": "dorotea-hernandez",
@@ -10683,7 +10705,8 @@
         "note": "En la iglesia, de grada arriba, con el hábito de San Francisco."
       },
       "observations": [
-        "La partida de fallecimiento dice que otorgó testamento ante Francisco García, vecino de El Perdigón; fueron herederos sus hijos Manuel, Francisca, Bernardo, Joaquina y Miguel, y testamentario su marido."
+        "La partida de fallecimiento dice que otorgó testamento ante Francisco García, vecino de El Perdigón; fueron herederos sus hijos Manuel, Francisca, Bernardo, Joaquina y Miguel, y testamentario su marido.",
+        "Figura, con 37 años, en la declaración que su marido, Lorenzo Roncero, hizo para el Catastro de Ensenada en Tardobispo el 26 de junio de 1751, junto a sus hijos Manuel (12), Bernardo (6) y Miguel (10 meses) y dos hijas de 9 y 3 años cuyos nombres no se dan: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
       ]
     },
     {
@@ -11829,7 +11852,7 @@
         "transcription": "En la Yglesia Parroquial de ntra. Señora de la Asunción, única del lugar de Peleas de arriba, en treinta y uno de enero de mil ochocientos y dos fue sepultado el cadáver de Engracia Galán, mujer de Atilano Carretero, vecinos de este pueblo, digo falleció en dicho día y fue sepultado en el siguiente primero de febrero, después de recibidos los Santos Sacramentos de Penitencia, Eucharistía y Extremaunción, y otorgado testamento por el qual dexó mandado se le hiciese entierro con dos asistentes y los oficios de costumbre, y que se celebrasen por su alma y las de sus obligaciones diez y nueve misas [ilegible] y que se pusiesen luces y ofrendas sobre su sepultura por el tiempo de dos años. Instituyó por sus herederos a sus tres hijos Matheo Carretero, Fran.co Carretero y Theresa Carretero, y después de varias mandas a algunos de estos y nietos, nombró por su albacea y testamentario a su hijo Matheo Carretero y para que conste lo firmo yo el párroco de esta Yglesia. Liz.do D.n Fran.co Gonzalez Ramos."
       },
       "observations": [
-        "Juan de Matos, vecino de Peleas de Arriba, declara el 1 de agosto de 1751 para el Catastro de Ensenada, como su curador, los bienes de «Engracia Galán, menor», con la edad «de 13 años» añadida entre líneas; el índice del libro la llama Engracia Pérez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7DT-M"
+        "Juan de Matos, vecino de Peleas de Arriba, declara el 1 de agosto de 1751 para el Catastro de Ensenada, como su curador, los bienes de «Engracia Galán, menor», con la edad «de 13 años» añadida entre líneas; el índice del libro la llama Engracia Pérez. Al morir en 1749, su padre, Fernando Galán, había dado poder para testar a un Juan Matos: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7DT-M"
       ]
     },
     {
@@ -12223,7 +12246,15 @@
       },
       "observations": [
         "La partida de entierro dice que otorgó testamento ante Juan Martín, fiel de fechos, y nombró testamentarios a su mujer, Micaela Pérez, y al párroco.",
-        "Probablemente es él el Lorenzo Roncero, vecino de Tardobispo, que en 1757 pleiteó con Lorenzo de la Fuente y Francisco Ribera, vecinos de Pereruela, por los pastos de una dehesa de la catedral de Zamora que llevaba en arriendo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12718901"
+        "Probablemente es él el Lorenzo Roncero, vecino de Tardobispo, que en 1757 pleiteó con Lorenzo de la Fuente y Francisco Ribera, vecinos de Pereruela, por los pastos de una dehesa de la catedral de Zamora que llevaba en arriendo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12718901",
+        "El Catastro de Ensenada recoge su declaración del 26 de junio de 1751 como vecino de Tardobispo y labrador: dice tener 38 años y vivir con su mujer, Dorotea Hernández, de 37, sus hijos Manuel (12), Bernardo (6) y Miguel (10 meses), dos hijas de 9 y 3 años cuyos nombres no se dan, y cuatro criados, entre ellos un pastor del ganado lanar. Firma a su ruego un testigo, Juan Francisco del Pozo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
       ]
     },
     {
@@ -15016,7 +15047,8 @@
       },
       "observations": [
         "En la partida de fallecimiento figura con el apellido Hernández.",
-        "La partida de entierro la llama viuda de Lorenzo Tuda y dice que hizo testamento; dejó por herederos a sus hijos Juan, Alonso y Antonia, y por testamentarios a sus hijos."
+        "La partida de entierro la llama viuda de Lorenzo Tuda y dice que hizo testamento; dejó por herederos a sus hijos Juan, Alonso y Antonia, y por testamentarios a sus hijos.",
+        "El Catastro de Ensenada recoge su declaración del 26 de agosto de 1751 como viuda y vecina de Malillos (escrito «Ysabel Fernan[dez]», con el final del apellido poco claro): dice tener 60 años y vivir sola, con catorce ovejas y ocho corderos. Firma como testigo Alonso Tuda: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-39BM-K"
       ],
       "burial": {
         "date": "1753-11-08",
@@ -15898,7 +15930,8 @@
       },
       "observations": [
         "La partida de entierro dice que murió de repente, después de recibir la penitencia y el viático; otorgó testamento y nombró testamentarios a su mujer, María de las Heras, a Antonio Lamón y a su hijo Francisco.",
-        "El Catastro de Ensenada recoge su declaración del 22 de agosto de 1751 como vecino de Fadón y labrador: dice tener 40 años y vivir con su mujer, María de las Heras, de 35, y dos hijas, Petrona, de 15 (el nombre se lee con reservas), y Magdalena, de 11. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VQW7"
+        "El Catastro de Ensenada recoge su declaración del 22 de agosto de 1751 como vecino de Fadón y labrador: dice tener 40 años y vivir con su mujer, María de las Heras, de 35, y dos hijas, Petrona, de 15 (el nombre se lee con reservas), y Magdalena, de 11. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VQW7",
+        "El 21 de agosto de 1751 declara también para el Catastro de Ensenada, como vecino de Fadón, las tierras que posee en Malillos, donde había nacido (el apellido se lee con dificultad, pero es el único Joaquín entre los vecinos de Fadón). Firma por él Casimiro Barrocal: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGK-39BW-F"
       ],
       "occupations": [
         {
@@ -18741,7 +18774,7 @@
       "birth": {
         "date": "1700-12-15",
         "place": "Peleas de Arriba",
-        "note": "Fecha dudosa: en el Catastro de Ensenada, el 2 de julio de 1751, Antonio Calabaza, viudo y con su hijo Benito en casa, declara 72 años, lo que le haría nacido hacia 1679, y no hay en el lugar otro vecino de ese nombre. Un Miguel Calabaza, vecino del lugar, declara 35 años; si es su hijo Miguel, habría nacido hacia 1716, cuando el Antonio de este bautismo tendría quince. Este bautismo de 1700, del que salen también los padres que se le dan, podría ser el de otro Antonio Calabaza."
+        "note": "Fecha dudosa: en el Catastro de Ensenada, el 2 de julio de 1751, Antonio Calabaza, viudo y con su hijo Benito en casa, dice tener setenta y dos o sesenta y dos años (la palabra se lee con reservas), lo que le haría nacido hacia 1679 o hacia 1689, y no hay en el lugar otro vecino de ese nombre. Un Miguel Calabaza, jornalero y vecino del lugar, que paga a Antonio Calabaza doce reales al año por la casa en que vive, sin decir que sea su padre, declara 35 años el 1 de julio de 1751; si es su hijo Miguel, habría nacido hacia 1716, cuando el Antonio de este bautismo tendría catorce o quince años. Este bautismo de 1700, del que salen también los padres que se le dan, podría ser el de otro Antonio Calabaza."
       },
       "father": "alonso-calabaza",
       "mother": "maria-lopez",
@@ -18753,7 +18786,7 @@
       },
       "observations": [
         "La partida de fallecimiento nombra herederos a sus hijos Miguel, Benito y Jerónimo Calabaza.",
-        "El Catastro de Ensenada recoge su declaración del 2 de julio de 1751 como vecino de Peleas de Arriba y labrador, viudo: dice tener 72 años y vivir con su hijo Benito, de 13 (la edad se lee con reservas), y un criado, Juan Hernández, de 78. Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
+        "El Catastro de Ensenada recoge su declaración del 2 de julio de 1751 como vecino de Peleas de Arriba y labrador, viudo: dice tener setenta y dos o sesenta y dos años y vivir con su hijo Benito, de 13, y un criado, Juan Hernández o Méndez, de 78 o 68; las edades y el nombre del criado se leen con reservas. Firma a su ruego un testigo, Jacinto Gutiérrez: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-T7JN-D"
       ],
       "baptism": {
         "date": "1700-12-24",
@@ -28266,13 +28299,21 @@
         "note": "En la iglesia, de grada arriba, con el hábito de San Francisco."
       },
       "observations": [
-        "La partida de fallecimiento dice que otorgó testamento ante el cura y dejó por herederos a sus hijos Micaela y Lorenzo, y por testamentarios a su mujer, Teresa Hernández, y a su yerno Lorenzo Roncero."
+        "La partida de fallecimiento dice que otorgó testamento ante el cura y dejó por herederos a sus hijos Micaela y Lorenzo, y por testamentarios a su mujer, Teresa Hernández, y a su yerno Lorenzo Roncero.",
+        "El Catastro de Ensenada recoge su declaración del 20 de junio de 1751 como vecino de Tardobispo y labrador: dice tener 50 años y vivir con su mujer, Teresa Hernández, de cuarenta (quizá falta la unidad), su hijo Lorenzo Pérez, de 11, y una hija de 13 cuyo nombre no se da. Dice que no tiene criados de labranza porque labra sus tierras con un hijo. Firma a su ruego un testigo, Juan Francisco del Pozo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6998-Q"
       ],
       "baptism": {
         "date": "1702-04-10",
         "place": "Tardobispo",
         "transcription": "Juan Pérez Huelmo.\n\nEn diez de abril deste año de mil setecientos y dos, yo el Ldo Simón Rodríguez Valderrábano, cura propio de San Salvador deste lugar de Tardobispo y sus anejos, baptizé y puse los santos olios a un niño que se llama Juan, hijo de Joseph Pérez y Manuela [de la Yglesia], su muger, vecinos deste dicho lugar; fueron sus padrinos Juan Pérez y Manuela de la Fuente, [vecinos] de dicho lugar; testigos Manuel [ilegible], Baltasar Ballestero, Marcos García, vecinos deste lugar, en dicho día, mes y año de 1702. Simón Rodríguez Valderrábano."
-      }
+      },
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "jose-perez-luelmo",
@@ -28480,7 +28521,8 @@
         "note": "De grada arriba."
       },
       "observations": [
-        "La partida de fallecimiento la llama viuda de Juan Pérez y dice que otorgó testamento ante Juan Martín, fiel de fechos, y nombró herederos a sus hijos Lorenzo y Micaela."
+        "La partida de fallecimiento la llama viuda de Juan Pérez y dice que otorgó testamento ante Juan Martín, fiel de fechos, y nombró herederos a sus hijos Lorenzo y Micaela.",
+        "Figura, con cuarenta años (quizá falta la unidad), en la declaración que su marido, Juan Pérez, hizo para el Catastro de Ensenada en Tardobispo el 20 de junio de 1751, junto a su hijo Lorenzo Pérez, de 11, y una hija de 13 cuyo nombre no se da: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6998-Q"
       ],
       "baptism": {
         "date": "1709-10-17",
@@ -33561,7 +33603,8 @@
       "father": "lorenzo-roncero-herrero",
       "mother": "dorotea-hernandez",
       "observations": [
-        "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754)."
+        "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
+        "Figura, con 12 años, en la declaración que su padre, Lorenzo Roncero, hizo para el Catastro de Ensenada en Tardobispo el 26 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
       ],
       "birth": {
         "date": "1739-01-14",
@@ -33610,7 +33653,8 @@
       "mother": "dorotea-hernandez",
       "observations": [
         "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
-        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila.",
+        "Figura, con 6 años, en la declaración que su padre, Lorenzo Roncero, hizo para el Catastro de Ensenada en Tardobispo el 26 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
       ],
       "baptism": {
         "date": "1745-03-17",
@@ -33634,7 +33678,8 @@
       "mother": "dorotea-hernandez",
       "observations": [
         "Nombrado entre los hijos y herederos de Dorotea Hernández y Lorenzo Roncero en la partida de fallecimiento de ella (1754).",
-        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila."
+        "Apellidos deducidos por el parentesco familiar; la partida recoge solo el nombre de pila.",
+        "Figura, con 10 meses, en la declaración que su padre, Lorenzo Roncero, hizo para el Catastro de Ensenada en Tardobispo el 26 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6972-7"
       ],
       "baptism": {
         "date": "1750-10-07",
@@ -35029,7 +35074,8 @@
       "mother": "teresa-hernandez-hernandez",
       "observations": [
         "Nombrado heredero, con su hermana Micaela, en las partidas de fallecimiento de su padre, Juan Pérez de la Iglesia (1760), y de su madre, Teresa Hernández (1777).",
-        "Segundo apellido deducido del de su madre."
+        "Segundo apellido deducido del de su madre.",
+        "Figura, con 11 años, en la declaración que su padre, Juan Pérez, hizo para el Catastro de Ensenada en Tardobispo el 20 de junio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-6998-Q"
       ],
       "baptism": {
         "date": "1740-08-18",

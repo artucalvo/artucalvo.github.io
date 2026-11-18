@@ -61,11 +61,11 @@
     {
       "service": "MyHeritage",
       "query": {
-        "people": 283
+        "people": 296
       },
-      "reviewed": "Búsquedas por nombre y apellido en los árboles familiares: cincuenta el 17-11-2026 y 233 el 18-11-2026, en tandas de unas cincuenta que se cortan con el aviso «Ha alcanzado el límite máximo de uso diario de esta función»; pese al aviso, las búsquedas vuelven a funcionar a las pocas horas. Solo se puntúa la primera página de cada búsqueda (cónyuge, hijos, padres y año).",
-      "finding": "Ninguna coincidencia. Los dos únicos resultados puntuados son homónimos: un Francisco Cabrero de Lastras de Cuéllar (Segovia), nacido en 1643, y un Martín Blanco Melendro de Villovieco (Palencia), casado con Isabel González, cuando el del árbol lo está con Juana Pascual.",
-      "status": "Quedan 85 antepasados de las generaciones 11 a 13 sin buscar. La tarde del 18-11-2026 MyHeritage respondió a las búsquedas automáticas con un «Control de Seguridad» y no se siguió."
+      "reviewed": "Búsquedas por nombre y apellido en los árboles familiares: cincuenta el 17-11-2026 y 246 el 18-11-2026, en tandas de unas cincuenta que se cortan con el aviso «Ha alcanzado el límite máximo de uso diario de esta función»; pese al aviso, las búsquedas vuelven a funcionar a las pocas horas. Solo se puntúa la primera página de cada búsqueda (cónyuge, hijos, padres y año).",
+      "finding": "Ninguna coincidencia. Los dos únicos resultados puntuados son homónimos: un Francisco Cabrero de Lastras de Cuéllar (Segovia), nacido en 1643, y un Martín Blanco Melendro de Villovieco (Palencia), casado con Isabel González, cuando el del árbol lo está con Juana Pascual. Un Domingo García García de Villarramiel de Campos (Palencia), nacido en 1578 y casado con Catalina Prieto Santos, tiene un hijo Alonso, pero no es el del árbol, casado con Francisca Blanco.",
+      "status": "Quedan 72 antepasados de las generaciones 11 a 13 sin buscar. La tarde del 18-11-2026 MyHeritage respondió dos veces a las búsquedas automáticas con un «Control de Seguridad»; no se ha franqueado, y las búsquedas se detuvieron al aparecer."
     },
     {
       "service": "PARES, Registro de Ejecutorias de la Real Chancillería de Valladolid",
