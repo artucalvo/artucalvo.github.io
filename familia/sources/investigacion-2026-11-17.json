@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "batch": "Continuación del 17 y 18-11-2026: Catastro de Ensenada y barrido de texto completo",
+  "searches": [
+    {
+      "service": "FamilySearch full-text",
+      "query": {
+        "places": 76
+      },
+      "reviewed": "Se descargaron hasta 1.100 resultados por cada uno de los 76 lugares de la cola (31.126 páginas distintas) y se cotejaron por programa con los antepasados directos: nombre y primer apellido más cónyuge, padres, hijos, lugar y año.",
+      "finding": "Ninguna coincidencia nueva fiable fuera del Catastro de Ensenada y de los expedientes ya aprovechados (hidalguía Fierro, pruebas de Santiago de 1681, registro civil de Zamora de 1852).",
+      "status": "Barrido terminado. El servicio solo entrega los primeros 1.100 resultados de cada consulta."
+    },
+    {
+      "service": "FamilySearch, catálogo",
+      "query": {
+        "keywords": "Catastro Ensenada + lugar"
+      },
+      "reviewed": "Fichas del catálogo de cada lugar y la general «Zamora, España 1751-1775», con los rollos y las signaturas del Archivo Histórico Provincial de Zamora.",
+      "finding": "Cada lugar tiene respuestas generales, declaraciones y asientos de eclesiásticos y de seglares. Las declaraciones de seglares dan edad, mujer, hijos y criados de cada vecino.",
+      "status": "Localizados los rollos de todos los lugares de la familia en la provincia de Zamora."
+    },
+    {
+      "service": "FamilySearch full-text, rollos del Catastro",
+      "query": {
+        "films": [
+          "008219804",
+          "008219803",
+          "008220590",
+          "008220278",
+          "008220589",
+          "008034564",
+          "008034572",
+          "008034273",
+          "008034272",
+          "008034592",
+          "008034292",
+          "008034276",
+          "008034590",
+          "008127955",
+          "008220247",
+          "008220248",
+          "008034280",
+          "008034293",
+          "008034583",
+          "008034582",
+          "008034573",
+          "008034284",
+          "008220243",
+          "008034563",
+          "008034575",
+          "008034576",
+          "008220268",
+          "008128938"
+        ]
+      },
+      "reviewed": "De cada rollo transcrito se descargaron las páginas con palabras propias de las declaraciones (familia, edad, años, mujer, hijos, viuda, relación, oficio, vecino…), se ordenaron por imagen y se leyeron los encabezamientos, los pasajes de familia y los cierres. Dos lectores independientes revisaron los rollos de Casaseca de las Chanas, Morales del Vino, Gáname, Moraleja del Vino y Moral de Sayago, El Cubo, Pereruela y El Perdigón, Fresnadillo, Muga de Alba, Piñuel, Luelmo, Fuente el Carnero y La Cernecina. Se comprobaron sobre la imagen las declaraciones de Santiago Valladolid, Manuel Morales Urueña, Ana María Martín, José Fierro, Manuel Hernández Gaitán y José Antón.",
+      "finding": "65 observaciones y 12 oficios en fichas de antepasados de Casaseca de las Chanas, Morales del Vino, Gáname, El Cubo, Moral de Sayago y Fresnadillo.",
+      "status": "No están transcritos, y habría que leerlos imagen a imagen: Abelón (008219736, ítems 6-10), Malillos (008220293, ítems 3-7), Tardobispo (008127956), Peleas de Arriba (008034271, ítems 1-5), Fadón (008220257, ítems 3-7), el segundo rollo de Morales del Vino y Moralina (008220591), Sogo (008187151 y 008187152), Villanueva de Campeán y Villamor de la Ladre (008127952), Torregamones y Torrefrades (008034647), Villadepera (008034642), Vegalatrave y Venialbo (008127954), Villardiegua (008187143), Roales (008034279), Pontejos (008128939) y los de la ciudad de Zamora y Villalpando. En los rollos transcritos faltan las declaraciones de seglares de Pereruela, Moraleja del Vino, Moral de Sayago y casi todas las de Muga de Alba."
+    },
+    {
+      "service": "MyHeritage",
+      "query": {
+        "people": 103
+      },
+      "reviewed": "Cincuenta búsquedas por nombre y apellido en los árboles familiares el 17-11-2026 y cincuenta y tres el 18-11-2026, hasta el límite diario de la cuenta gratuita. Solo se puntúa la primera página de cada búsqueda (cónyuge, hijos, padres y año).",
+      "finding": "Ninguna coincidencia. El único resultado puntuado, un Francisco Cabrero de Lastras de Cuéllar (Segovia) nacido en 1643, es un homónimo.",
+      "status": "Quedan 265 antepasados de las generaciones 10 a 13 sin buscar."
+    },
+    {
+      "service": "PARES, Registro de Ejecutorias de la Real Chancillería de Valladolid",
+      "query": {
+        "units": [
+          "7227590",
+          "5731595",
+          "5814006"
+        ]
+      },
+      "reviewed": "Lectura de las imágenes de las tres ejecutorias: la de 1599 (51 imágenes: demanda, probanza de siete testigos y sentencias; la cadena de confirmaciones del privilegio solo se hojeó), la de 1612 (10 imágenes; las sentencias finales, en letra procesal, solo en lo esencial) y la de 1778 (9 imágenes). Un segundo lector repasó las afirmaciones de parentesco de la de 1599; los pasajes clave de la de 1612 se comprobaron además sobre los recortes de la imagen.",
+      "finding": "Ascendencia y dos matrimonios de Catalina García Cabezas; segundo matrimonio y sucesión de Santiago Valladolid.",
+      "status": "Pendiente: la revisión independiente completa de las ejecutorias de 1612 y 1778 y el pleito original de 1588-1599 (Pleitos Civiles, Fernando Alonso, caja 2817,3), no digitalizado."
+    }
+  ],
+  "applied": [
+    {
+      "people": [
+        "alonso-martin",
+        "jeronima-carrascal",
+        "ines-martin-carrascal",
+        "santiago-valladolid",
+        "francisca-carbajal",
+        "francisco-valladolid",
+        "francisco-perez",
+        "teresa-ponce",
+        "manuel-morales",
+        "jose-morales",
+        "maria-antonia-moreno",
+        "bernardo-rodriguez",
+        "emerenciana-garcia",
+        "andres-maillo",
+        "teodora-hernandez",
+        "antonio-maillo",
+        "catalina-diez",
+        "ana-ma-martin",
+        "manuel-mendez",
+        "andres-mendez-martin",
+        "manuela-portales",
+        "ignacia-calvo",
+        "juan-de-lera",
+        "ana-rodriguez",
+        "manuel-hernandez-gaitan"
+      ],
+      "finding": "Declaraciones de vecinos de Casaseca de las Chanas para el Catastro de Ensenada, de junio a agosto de 1751 (rollo 008219804): edad declarada, mujer, hijos y criados. Manuel Morales Urueña estaba casado entonces con Francisca Ponce, de modo que María Antonia Moreno había muerto.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9DT-1",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XD-M",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-J",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-C",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XN-J",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z98Z-W",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z967-D",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9N8-7",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9XX-9"
+      ]
+    },
+    {
+      "people": [
+        "jose-fierro",
+        "micaela-blanco",
+        "agueda-fierro-blanco",
+        "domingo-piorno",
+        "antonia-burrieza",
+        "teresa-piorno-burrieza",
+        "juan-gonzalo",
+        "josefa-barrocal",
+        "catalina-gonzalo-barrocal",
+        "jose-sastre",
+        "josefa-esteban",
+        "maria-vega"
+      ],
+      "finding": "Declaraciones de vecinos de Gáname, de julio y agosto de 1751 (rollo 008220278). La de José Fierro se leyó en la imagen: 35 años, su mujer Micaela Blanca, de 33, cuatro hijos y un criado.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZWQ",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHF4",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VH2S",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZJ7",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VZFR"
+      ]
+    },
+    {
+      "people": [
+        "alonso-martin-brioso",
+        "isabel-marques",
+        "luis-martin",
+        "ines-brioso",
+        "esteban-martin",
+        "juan-brioso",
+        "maria-marques-madre-de-baltasar-brioso",
+        "manuel-perez-carrascal",
+        "atilana-de-luelmo",
+        "andres-roman",
+        "pedro-de-prada-martin",
+        "luisa-martin",
+        "baltasar-brioso",
+        "catalina-cabrero-marques-brioso",
+        "ines-roman",
+        "francisco-de-mena"
+      ],
+      "finding": "Declaraciones de vecinos de Morales del Vino, de junio y julio de 1751 (rollo 008220590). Luis Martín Nieto declara doce criados y firma además, el 22 de agosto, como arrendatario de la dehesa de Llamas de Ayuso (rollo 008034582).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M8-1",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G376-L",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3S3-J",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QF-Q",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QD-G",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3Q8-Z",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M9-V",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-R927-7"
+      ]
+    },
+    {
+      "people": [
+        "miguel-izquierdo",
+        "antonia-alcantara",
+        "juan-izquierdo-alcantara",
+        "maria-misol",
+        "manuel-sanchez-misol",
+        "francisco-terron",
+        "angela-campo"
+      ],
+      "finding": "Declaraciones de vecinos de El Cubo, de septiembre de 1751 (rollo 008034564).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q96Q-F",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9ZP-4",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9FK-L"
+      ]
+    },
+    {
+      "people": [
+        "alonso-santiago",
+        "jose-anton"
+      ],
+      "finding": "Declaraciones de un Alonso Santiago, labrador de Moral, de 60 años (rollo 008220589), y de José Antón, labrador de Fresnadillo, de 40, con tres hijas y sin mujer nombrada (rollo 008034572, leída en la imagen).",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-LP39",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-5WZ1"
+      ]
+    },
+    {
+      "people": [
+        "catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "magdalena-manzano-madre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "juan-hijo-de-pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+        "pedro-salvador-abuelo-del-padre-de-ana-maria",
+        "pedro-salvador-padre-de-ana-maria-salvador"
+      ],
+      "finding": "La ejecutoria de 21 de octubre de 1599 declara a Catalina García Cabezas descendiente de Vellito de Auriolis y nombra a sus padres, Andrés García Cabeza y Magdalena Manzano, y a sus abuelos paternos, Pedro García Cabeza y Catalina de Quintana, vecinos de «Felgoso», jurisdicción de Bembibre (Folgoso de la Ribera); todos tienen ficha nueva, igual que su tío Juan García Cabeza. La de 9 de junio de 1612 llama a Alonso García su «primero marido»: Pedro Salvador fue el segundo, de modo que Alonso García no es antepasado de sangre.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595",
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ]
+    },
+    {
+      "people": [
+        "santiago-valladolid",
+        "francisco-valladolid",
+        "francisca-hijo-de-santiago-valladolid"
+      ],
+      "finding": "La ejecutoria de 14 de noviembre de 1778 cuenta la sucesión de Santiago Valladolid: segundo matrimonio con Gerónima Martín, viuda con tres hijos; de él nacieron José y Blas, muertos niños, y Francisca Valladolid Martín, mujer de Luis Fernández, que tiene ficha nueva. Santiago murió viudo, vecino de Pontejos, antes de enero de 1778. El texto llama a su primera mujer unas veces María y otras Francisca Carvajal; el Catastro de Ensenada la nombra Francisca en 1751.",
+      "urls": [
+        "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
+      ]
+    },
+    {
+      "people": [
+        "ana-ma-martin",
+        "ana-hijo-de-apolonia-rodriguez"
+      ],
+      "finding": "Decisión familiar del 18-11-2026: se marca como dudosa la fecha de nacimiento de 1704 de Ana María Martín, sin cambiarla. La partida de 1704 bautiza a «Ana», hija de Juan Martín y Polonia Rodríguez; el entierro de su padre (1720) nombra por herederos a «Ana, Andrés, Ygnes, Juan y Ana María Martín», y en el Catastro de Ensenada, en julio de 1751, Ana María declara 32 años (comprobado en la imagen), lo que la haría nacida hacia 1719. La ficha de su hermana Ana recoge que el bautismo de 1704 podría ser el suyo.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "people": [
+        "jose-fernandez",
+        "maria-de-la-pena",
+        "josefa-fernandez-de-la-pena"
+      ],
+      "finding": "Pendiente de decisión familiar: en Muga de Alba, el 20 de agosto de 1751, un Fernández de 34 años declara a su mujer María Peña, de 28, y a sus hijas María Josefa (8) y Ana (5). Falta el encabezamiento con el nombre, y la edad de ella queda nueve años por debajo del bautismo de 1714 de la ficha.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-RSQF-5"
+      ]
+    },
+    {
+      "people": [
+        "antonia-ufano",
+        "maria-martinez",
+        "ines-marques",
+        "catalina-marques",
+        "josefa-casaseca",
+        "alonso-de-mena"
+      ],
+      "finding": "Declaraciones que podrían ser suyas pero sin nombre legible o con algún dato que no encaja; no se enlazan. Antonia «Essano», sola, de 62 años, en Casaseca; María Martínez, de 60, con hijos Manuel Martín (23) y Alonso (19), en Casaseca; y en Morales una persona de 64 años por quien firma su hijo Diego Cabrero, una vecina Márquez de 48 con hijos Cabrero, otra de 50 con hijos Márquez y un viudo de 60 con un hijo Luis de Mena.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9FV-Q",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9FX-W",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3SX-H",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M9-K",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3Q1-C",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3QC-V"
+      ]
+    },
+    {
+      "people": [
+        "domingo-sastre",
+        "maria-anton",
+        "manuel-vega",
+        "jose-vega",
+        "juan-tuda",
+        "juan-fernandez",
+        "catalina-roncero",
+        "juan-matos"
+      ],
+      "finding": "Encabezamientos o cierres con su nombre pero sin pasaje de familia que permita identificarlos: Domingo Sastre, María Antón (labradora) y Manuel Vega en Gáname; José Vega, vecino de Piñuel con tierras en Gáname; «Julio Cuda» (¿Juan Tuda?), vecino de Malillos con tierras en La Cernecina; Juan Fernández, de Muga, de 60 años, casado con Catalina Montero; en Piñuel, un vecino de 73 con su mujer «Chatalina Gorcizo», de 80; y dos cierres de El Cubo del 24 de septiembre de 1751 con firma ilegible.",
+      "urls": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHLD",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VHR7",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VD27",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-V8QF",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-2R5C",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-RSQX-9",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-L34D-W",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-Q9ZR-4"
+      ]
+    }
+  ]
+}

@@ -8213,7 +8213,7 @@
       "birth": {
         "date": "1704-10-21",
         "place": "Casaseca de las Chanas",
-        "note": "La partida, del 30 de octubre, dice que había nueve días que era nacida."
+        "note": "La partida, del 30 de octubre, dice que había nueve días que era nacida. Fecha dudosa: la partida bautiza a «Ana», y el entierro de su padre, de abril de 1720, nombra por herederos a «Ana, Andrés, Ygnes, Juan y Ana María Martín», de modo que hubo dos hermanas con ese nombre. En el Catastro de Ensenada, en julio de 1751, Ana María declara 32 años, lo que la haría nacida hacia 1719, poco antes de morir su padre. Este bautismo de 1704 podría ser el de su hermana Ana."
       },
       "marriages": [
         {
@@ -8233,7 +8233,8 @@
       "baptism": {
         "date": "1704-10-30",
         "place": "Casaseca de las Chanas",
-        "transcription": "Ana Mrn.\n\nEn treinta de octubre de mil setecientos y quatro, yo el dicho Cura teniente bauticé y puse los santos olios solenemente a Ana, hija de Juan Martín y de su muger Polonia Rodríguez; fueron padrinos Gaspar Ernández y su muger Ana Delgado, vzos del Perdigón; avía nuebe días que era nazida, y lo firmé. Domingo Bernabé."
+        "transcription": "Ana Mrn.\n\nEn treinta de octubre de mil setecientos y quatro, yo el dicho Cura teniente bauticé y puse los santos olios solenemente a Ana, hija de Juan Martín y de su muger Polonia Rodríguez; fueron padrinos Gaspar Ernández y su muger Ana Delgado, vzos del Perdigón; avía nuebe días que era nazida, y lo firmé. Domingo Bernabé.",
+        "note": "La partida dice «Ana», no Ana María; podría ser la de su hermana mayor del mismo nombre (véase la nota del nacimiento)."
       },
       "burial": {
         "date": "1777-04-11",
@@ -8794,7 +8795,8 @@
       "observations": [
         "La partida de entierro dice que hizo testamento el 11 de enero de 1799; dejó por únicas herederas a sus dos hijas, Antonia y Josefa, y nombró testamentarios a su hijo fray Santiago Valladolid, a Pedro Palacios y a Manuel Jambrina, vecino de Pontejos.",
         "El Registro de Ejecutorias de la Real Chancillería de Valladolid guarda la del pleito que siguió, como vecino de Casaseca de las Chanas, con Luis Fernández, vecino de Zamora, sobre la partición de los bienes que dejó Santiago Valladolid (noviembre de 1778): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006",
-        "Figura, con 18 años y como único hijo, en la declaración que su padre, Santiago Valladolid, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 3 de julio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J"
+        "Figura, con 18 años y como único hijo, en la declaración que su padre, Santiago Valladolid, hizo para el Catastro de Ensenada en Casaseca de las Chanas el 3 de julio de 1751: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J",
+        "La ejecutoria explica el pleito: su padre había vuelto a casar con Gerónima Martín, y Luis Fernández, marido de su medio hermana Francisca Valladolid Martín, quería reservar para ella lo que el padre heredó de dos hijos de ese matrimonio muertos niños. La Chancillería dio la razón a Francisco el 14 de octubre de 1778 y lo confirmó el 6 de noviembre: todo se partiría por igual: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
       ]
     },
     {
@@ -9764,7 +9766,17 @@
         }
       ],
       "father": "andres-anton",
-      "mother": "maria-almaraz"
+      "mother": "maria-almaraz",
+      "observations": [
+        "El Catastro de Ensenada recoge su declaración de septiembre de 1751 como vecino de Fresnadillo y labrador: dice tener 40 años y no nombra mujer; viven con él tres hijas, de 13, 11 y 5 años, y una criada de 24, Catalina Garrote. Firma de su mano: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-5WZ1"
+      ],
+      "occupations": [
+        {
+          "name": "Labrador",
+          "date": "1751",
+          "note": "Así consta en su declaración para el Catastro de Ensenada."
+        }
+      ]
     },
     {
       "id": "manuela-figal",
@@ -14182,6 +14194,9 @@
           "place": "Casaseca de las Chanas",
           "note": "Con dispensa del tercer con cuarto grado de afinidad.",
           "transcription": "Santiago Valladolid con Francisca Carbajal.\n\nEn diez y seis días del mes de Junio deeste presente año de mil setezientos y treinta y dos, abiendo precedido las tres admoniciones que el santo Concilio determina, y porque uno de los contrahientes al presente vivía en el Lugar de Cazurra se publicó en el dicho Lugar, como me consta por certificación de Dn Custodio de Villar, Cura Propio de dicho Lugar; y por ser parientes los contrahientes en tercero con quarto grado de affinidad, de que fueron dispensados por la Santidad de Nuestro Santísimo Padre Clemente, por la Divina Providencia Papa duodézimo, como consta de su Bula, que para en el oficio de Dn Francisco de la Thorre, notario mayor de la Audiencia Eclesiástica Episcopal de la Ciudad de Zamora, y con licencia que me trajeron del Sr Provisor Dn Diego Martínez, despachada en el dicho oficio a nueve de Junio deeste dicho año, yo el infrascripto Cura Propio deeste Lugar de Casaseca de las Chanas desposé a Santiago Valladolid, natural de este Lugar, hijo de Agustín Valladolid y de Francisca Franco, naturales y vecinos que fueron de este Lugar, por ser ia difuntos, y a Francisca Carbajal, vecina deeste Lugar y viuda de Luis Morales, a los quales les pregunté de su mutuo consentimiento, y le dieron mutuamente por palabras de presente que hacen verdadero matrimonio, siendo testigos Ygnacio Ponce y Manuel Hernández, vecinos deeste Lugar, y lo firmé ut supra. Juan Hernández de León."
+        },
+        {
+          "note": "Segundo matrimonio, después de enviudar de Francisca Carbajal, con Gerónima Martín, viuda con tres hijos de apellido Martín; no constan fecha ni lugar."
         }
       ],
       "father": "agustin-valladolid",
@@ -14190,7 +14205,8 @@
         "La partida de matrimonio de su hijo Francisco (1759) lo llama vecino de Pontejos.",
         "En noviembre de 1778 su hijo Francisco, vecino de Casaseca de las Chanas, obtuvo la ejecutoria de un pleito sobre la partición de los bienes que dejó Santiago Valladolid, de modo que había muerto antes: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006",
         "El cuerpo de su bautismo de 1710 llama Luis Valladolid a su padre, pero una nota marginal posterior, solo parcialmente legible, parece corregir Luis por Agustín. El matrimonio de Santiago de 1732 y el entierro de Agustín en 1726 nombran a Agustín Valladolid y Francisca Franco como matrimonio. La lectura del margen y del día de bautismo tiene reservas.",
-        "El Catastro de Ensenada recoge su declaración del 3 de julio de 1751 como vecino de Casaseca de las Chanas, labrador y cosechero de vino: dice tener 40 años y vivir con su mujer, Francisca Carbajal, de 50, su hijo Francisco, de 18, y cinco criados: Diego Maíllo, criado de labranza (24), Juan Jambrina (14), Elías Fernández (12), Andrés Pérez, pastor (30), y Manuela Salgado (20): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J"
+        "El Catastro de Ensenada recoge su declaración del 3 de julio de 1751 como vecino de Casaseca de las Chanas, labrador y cosechero de vino: dice tener 40 años y vivir con su mujer, Francisca Carbajal, de 50, su hijo Francisco, de 18, y cinco criados: Diego Maíllo, criado de labranza (24), Juan Jambrina (14), Elías Fernández (12), Andrés Pérez, pastor (30), y Manuela Salgado (20): https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z9NC-J",
+        "La ejecutoria de 14 de noviembre de 1778 cuenta su sucesión: de su primer matrimonio solo quedó Francisco; viudo, casó con Gerónima Martín, viuda a su vez y madre de Vicente, María y Juana Martín, y tuvo con ella a José y Blas, que murieron niños después que su madre, y a Francisca Valladolid Martín, mujer de Luis Fernández. Murió viudo, vecino de Pontejos, antes de enero de 1778, con tierras en Casaseca de las Chanas y en Pontejos. La Chancillería mandó partir toda la herencia por igual entre Francisco y Francisca: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
       ],
       "baptism": {
         "date": "1710-07-25",
@@ -19037,7 +19053,8 @@
         "transcription": "Pº Salbador.\n\nEn trece días del mes de Junio del año de 1705, abiendo recibido todos los sacramentos, se enterró en la yglesia deste lugar de Moraleja Pº Salbador. Hiço testamento ante Pedro [ilegible] el día 12 de dicho mes; mandó enterrarse con ábito, asistir a su entierro y onrras [ilegible] sacerdotes, [ilegible] de trigo de ofrenda, un nobenario cantado, [ilegible] y lo firmé. Antº Machargo de Casso."
       },
       "observations": [
-        "La ejecutoria de 1713 copia su pleito iniciado en 1680, en el que figura casado con María Rodríguez y como padre de Manuel, Francisco, Josefa y Ana María Salvador. Lo declara hijo y nieto de sendos Pedro Salvador y llama bisabuelo suyo a Alonso García, marido de Catalina García Cabezas; no aclara por cuál de sus abuelos llega esa última ascendencia. Un pasaje de la sentencia llama a su mujer María Vázquez, aunque las peticiones dicen María Rodríguez, como las partidas familiares: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+        "La ejecutoria de 1713 copia su pleito iniciado en 1680, en el que figura casado con María Rodríguez y como padre de Manuel, Francisco, Josefa y Ana María Salvador. Lo declara hijo y nieto de sendos Pedro Salvador y llama bisabuelo suyo a Alonso García, marido de Catalina García Cabezas; no aclara por cuál de sus abuelos llega esa última ascendencia. Un pasaje de la sentencia llama a su mujer María Vázquez, aunque las peticiones dicen María Rodríguez, como las partidas familiares: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
+        "La ejecutoria de 1612 aclara el parentesco con Alonso García: fue el primer marido de Catalina García Cabezas, abuela paterna de este Pedro Salvador, que casó después con el primer Pedro Salvador: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ],
       "father": "pedro-salvador-padre-del-padre-de-ana-maria"
     },
@@ -27401,7 +27418,8 @@
       },
       "observations": [
         "El margen de la partida de entierro lo llama Luis Martín Cordero, mientras los datos anteriores lo nombran Luis Martín Nieto; la esposa y los hijos eclesiásticos apoyan la identificación, pero el segundo apellido requiere revisión.",
-        "El Catastro de Ensenada recoge su declaración del 25 de junio de 1751 en Morales del Vino: dice tener 74 años y vivir con su mujer, Inés Brioso, de 77, cinco jóvenes de apellido Martín Marqués, de entre 13 y 20 años (entre ellos Bernardo, 19, Inés, 15, Esteban, 14, y Alonso, 13), y doce criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R"
+        "El Catastro de Ensenada recoge su declaración del 25 de junio de 1751 en Morales del Vino: dice tener 74 años y vivir con su mujer, Inés Brioso, de 77, cinco jóvenes de apellido Martín Marqués, de entre 13 y 20 años (entre ellos Bernardo, 19, Inés, 15, Esteban, 14, y Alonso, 13), y doce criados: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-G3M4-R",
+        "El Catastro de Ensenada recoge además la declaración que firmó en Morales el 22 de agosto de 1751 un Luis Martín Nieto, vecino de Morales, como arrendatario de la dehesa de Llamas de Ayuso, por la que pagaba 4.500 reales al año para pasto de sus ganados y labor: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXY-R927-7"
       ],
       "baptism": {
         "date": "1676-11",
@@ -35111,6 +35129,7 @@
       "observations": [
         "Nombrada heredera, con sus hermanos, en la partida de entierro de su padre, Juan Martín (1720), que nombra a Ana, Andrés, Inés, Juan y Ana María.",
         "No es su hermana Ana María, que la partida nombra aparte.",
+        "Podría ser suya la partida de bautismo del 30 de octubre de 1704, de «Ana», hija de Juan Martín y Polonia Rodríguez, que el árbol asigna a su hermana Ana María, porque esta declara 32 años en el Catastro de Ensenada de julio de 1751, lo que la haría nacida hacia 1719: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-Z968-F",
         "Segundo apellido deducido del de su madre."
       ]
     },
@@ -39334,10 +39353,17 @@
       ],
       "observations": [
         "El pleito de 1680, copiado en la ejecutoria de 1713, llama al litigante Pedro Salvador hijo de Pedro Salvador y nieto de otro Pedro Salvador. Este es el abuelo citado; esa ejecutoria no nombra a su mujer: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
-        "La ejecutoria de 1640 identifica a Pedro Salvador el mozo como hijo suyo y de Catalina García Cabezas, su mujer, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515"
+        "La ejecutoria de 1640 identifica a Pedro Salvador el mozo como hijo suyo y de Catalina García Cabezas, su mujer, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515",
+        "La ejecutoria de 9 de junio de 1612 recoge el pleito que siguió, como marido de Catalina García Cabezas y vecino de Cabreros del Monte, con el concejo de la villa: en febrero de 1611 pidió que no se le cobrase alcabala por el privilegio de Belico de Auriolis de que gozaba su mujer, y los alcaldes de hijosdalgo le dieron la razón. Su procurador dice que ella había estado casada antes con Alonso García. Otorgó el poder firmando de su mano: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ],
       "origins": [
         "Cabreros del Monte"
+      ],
+      "marriages": [
+        {
+          "spouse": "catalina-garcia-cabezas-madre-de-pedro-salvador",
+          "note": "Entre octubre de 1599 y febrero de 1611; segundo matrimonio de ella."
+        }
       ]
     },
     {
@@ -39367,7 +39393,145 @@
       ],
       "observations": [
         "La ejecutoria de 1640 identifica a Pedro Salvador el mozo como hijo de Pedro Salvador y Catalina García Cabezas, su mujer, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515",
-        "Una ejecutoria posterior nombra a una Catalina García Cabezas como mujer de Alonso García, bisabuelo de Pedro Salvador de Moraleja. No está establecido si se trata de la misma persona: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+        "La ejecutoria de 21 de octubre de 1599 la declara descendiente legítima de Vellito de Auriolis y manda guardar el privilegio a ella y a Alonso García, su marido, vecino de Cabreros del Monte, en el pleito que ambos siguieron desde diciembre de 1588 con el fiscal y el concejo de la villa. La dice hija legítima de Andrés García Cabeza, vecino de «Felgoso», y los testigos nombran a su madre, Magdalena Manzano, y a sus abuelos paternos, Pedro García Cabeza y Catalina de Quintana: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "La ejecutoria de 9 de junio de 1612 la presenta casada con Pedro Salvador, vecino de Cabreros del Monte, cuyo procurador llama dos veces a Alonso García «su primero marido». Los testigos de El Bierzo dicen que vivía entonces en Tierra de Campos: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595",
+        "La ejecutoria de 1713 la nombra como mujer de Alonso García, a quien llama bisabuelo de Pedro Salvador de Moraleja; es la misma Catalina, casada primero con Alonso García y después con Pedro Salvador: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662"
+      ],
+      "father": "andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "mother": "magdalena-manzano-madre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "birth": {
+        "place": "Folgoso de la Ribera",
+        "note": "Hacia 1570: los testigos de la probanza copiada en la ejecutoria de 1599, hecha entre 1589 y 1591, le dan unos veinte años y dicen que se crio en casa de sus padres en «Felgoso», jurisdicción de Bembibre."
+      },
+      "marriages": [
+        {
+          "note": "Primer matrimonio, con Alonso García, vecino de Cabreros del Monte. Se casaron y velaron en Folgoso unos dos años antes de la probanza de 1589-1591; él vivía aún en octubre de 1599."
+        },
+        {
+          "spouse": "pedro-salvador-abuelo-del-padre-de-ana-maria",
+          "note": "Segundo matrimonio, entre octubre de 1599 y febrero de 1611."
+        }
+      ]
+    },
+    {
+      "id": "andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "name": "Andrés García Cabeza",
+      "givenNames": "Andrés",
+      "surnames": [
+        "García",
+        "Cabeza"
+      ],
+      "father": "pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "mother": "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "birth": {
+        "place": "Folgoso de la Ribera"
+      },
+      "marriages": [
+        {
+          "spouse": "magdalena-manzano-madre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+          "place": "Folgoso de la Ribera",
+          "note": "Casados y velados en la iglesia de Folgoso, según varios testigos de la probanza que asistieron a la boda; no consta la fecha."
+        }
+      ],
+      "observations": [
+        "La ejecutoria de 21 de octubre de 1599 lo llama Andrés García Cabeza, vecino de «Felgoso», jurisdicción de la villa de Bembibre, hijo legítimo de Pedro García Cabeza y Catalina de Quintana, marido de Magdalena Manzano y padre de Catalina García Cabezas; los testigos lo tienen, como a su padre, por descendiente de Vellito de Auriolis y exento de pechos, y dicen que llevaba unos veinticinco años casado: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "Vivía todavía en agosto de 1611, cuando los testigos de la probanza hecha en Folgoso y La Granja de San Vicente para su yerno Pedro Salvador dicen que había vivido en Folgoso, con casa poblada y bienes raíces, y también en Tremor de Arriba, y que llevaba mercaderías a los mercados de Ponferrada y Astorga: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+      ]
+    },
+    {
+      "id": "magdalena-manzano-madre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "name": "Magdalena Manzano",
+      "givenNames": "Magdalena",
+      "surnames": [
+        "Manzano"
+      ],
+      "marriages": [
+        {
+          "spouse": "andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+          "place": "Folgoso de la Ribera",
+          "note": "Casados y velados en la iglesia de Folgoso, según varios testigos de la probanza que asistieron a la boda; no consta la fecha."
+        }
+      ],
+      "origins": [
+        "Folgoso de la Ribera"
+      ],
+      "observations": [
+        "Los siete testigos de la probanza copiada en la ejecutoria de 21 de octubre de 1599 la nombran Magdalena Manzano (alguno, Manzana), mujer de Andrés García Cabeza, casados y velados en la iglesia de «Felgoso», y madre de Catalina García Cabezas «entre otras» hijas: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590"
+      ]
+    },
+    {
+      "id": "pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "name": "Pedro García Cabeza",
+      "givenNames": "Pedro",
+      "surnames": [
+        "García",
+        "Cabeza"
+      ],
+      "marriages": [
+        {
+          "spouse": "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador"
+        }
+      ],
+      "origins": [
+        "Folgoso de la Ribera"
+      ],
+      "observations": [
+        "La ejecutoria de 21 de octubre de 1599 lo nombra vecino que fue de «Felgoso», ya difunto, marido de Catalina de Quintana, padre de Andrés García Cabeza «entre otros» hijos y abuelo de Catalina García Cabezas; los testigos dicen que estuvo en posesión y reputación de descendiente de Vellito de Auriolis, a quien se atribuía un privilegio de hidalguía del rey Bermudo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "Los testigos de 1611 añaden que vivió en Folgoso y en Tremor de Arriba y que, según oyeron a los viejos, el origen de su linaje había venido del páramo de la Focella, en Asturias: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+      ]
+    },
+    {
+      "id": "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "name": "Catalina Quintana",
+      "givenNames": "Catalina",
+      "surnames": [
+        "Quintana"
+      ],
+      "marriages": [
+        {
+          "spouse": "pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador"
+        }
+      ],
+      "origins": [
+        "Folgoso de la Ribera"
+      ],
+      "observations": [
+        "Cinco testigos de la probanza copiada en la ejecutoria de 21 de octubre de 1599 la nombran Catalina (de) Quintana, mujer de Pedro García Cabeza y madre de Andrés García Cabeza; otro testigo la llama Catalina Manzana: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590"
+      ]
+    },
+    {
+      "id": "juan-hijo-de-pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "name": "Juan García Cabeza",
+      "givenNames": "Juan",
+      "surnames": [
+        "García",
+        "Cabeza"
+      ],
+      "father": "pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "mother": "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
+      "origins": [
+        "Folgoso de la Ribera"
+      ],
+      "observations": [
+        "Los testigos de la probanza de agosto de 1611 lo nombran vecino de Folgoso, hermano de Andrés García Cabeza y tío carnal de Catalina García Cabezas, y dicen que gozó de la misma exención de pechos: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+      ]
+    },
+    {
+      "id": "francisca-hijo-de-santiago-valladolid",
+      "name": "Francisca Valladolid Martín",
+      "givenNames": "Francisca",
+      "surnames": [
+        "Valladolid",
+        "Martín"
+      ],
+      "father": "santiago-valladolid",
+      "marriages": [
+        {
+          "note": "Casada con Luis Fernández, vecino de Cazurra a comienzos de 1778 y de Pontejos a finales de ese año."
+        }
+      ],
+      "observations": [
+        "Hija de Santiago Valladolid y de su segunda mujer, Gerónima Martín, y medio hermana de Francisco Valladolid Carbajal, con quien pleiteó su marido, Luis Fernández, por la partición de la herencia paterna. Sus hermanos enteros José y Blas murieron niños: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5814006"
       ]
     }
   ]

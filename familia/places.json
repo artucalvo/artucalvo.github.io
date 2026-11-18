@@ -735,6 +735,14 @@
       "latitude": 41.84768031,
       "longitude": -5.2680103,
       "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/cabreros-del-monte-id47029"
+    },
+    {
+      "name": "Folgoso de la Ribera",
+      "province": "León",
+      "municipality": "Folgoso de la Ribera",
+      "latitude": 42.6430923,
+      "longitude": -6.31942645,
+      "source": "https://www.aemet.es/es/eltiempo/prediccion/municipios/folgoso-de-la-ribera-id24071"
     }
   ]
 }
