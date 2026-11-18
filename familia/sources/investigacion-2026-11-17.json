@@ -61,11 +61,11 @@
     {
       "service": "MyHeritage",
       "query": {
-        "people": 103
+        "people": 156
       },
-      "reviewed": "Cincuenta búsquedas por nombre y apellido en los árboles familiares el 17-11-2026 y cincuenta y tres el 18-11-2026, hasta el límite diario de la cuenta gratuita. Solo se puntúa la primera página de cada búsqueda (cónyuge, hijos, padres y año).",
+      "reviewed": "Búsquedas por nombre y apellido en los árboles familiares: cincuenta el 17-11-2026 y 106 el 18-11-2026, en dos tandas que se cortaron con el aviso «Ha alcanzado el límite máximo de uso diario de esta función»; la segunda tanda funcionó unas dos horas después del primer corte. Solo se puntúa la primera página de cada búsqueda (cónyuge, hijos, padres y año).",
       "finding": "Ninguna coincidencia. El único resultado puntuado, un Francisco Cabrero de Lastras de Cuéllar (Segovia) nacido en 1643, es un homónimo.",
-      "status": "Quedan 265 antepasados de las generaciones 10 a 13 sin buscar."
+      "status": "Quedan 212 antepasados de las generaciones 11 a 13 sin buscar."
     },
     {
       "service": "PARES, Registro de Ejecutorias de la Real Chancillería de Valladolid",
@@ -218,9 +218,10 @@
         "catalina-quintana-madre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
         "juan-hijo-de-pedro-garcia-padre-de-andres-garcia-padre-de-catalina-garcia-cabezas-madre-de-pedro-salvador",
         "pedro-salvador-abuelo-del-padre-de-ana-maria",
-        "pedro-salvador-padre-de-ana-maria-salvador"
+        "pedro-salvador-padre-de-ana-maria-salvador",
+        "pedro-salvador-padre-del-padre-de-ana-maria"
       ],
-      "finding": "La ejecutoria de 21 de octubre de 1599 declara a Catalina García Cabezas descendiente de Vellito de Auriolis y nombra a sus padres, Andrés García Cabeza y Magdalena Manzano, y a sus abuelos paternos, Pedro García Cabeza y Catalina de Quintana, vecinos de «Felgoso», jurisdicción de Bembibre (Folgoso de la Ribera); todos tienen ficha nueva, igual que su tío Juan García Cabeza. La de 9 de junio de 1612 llama a Alonso García su «primero marido»: Pedro Salvador fue el segundo, de modo que Alonso García no es antepasado de sangre.",
+      "finding": "La ejecutoria de 21 de octubre de 1599 declara a Catalina García Cabeza (Cabezas en el catálogo de PARES) descendiente de Vellito de Auriolis y nombra a sus padres, Andrés García Cabeza y Magdalena Manzano, y a sus abuelos paternos, Pedro García Cabeza y Catalina de Quintana, vecinos de «Felgoso», jurisdicción de Bembibre (Folgoso de la Ribera); todos tienen ficha nueva, igual que su tío Juan García Cabeza. La de 9 de junio de 1612 llama a Alonso García su «primero marido»: Pedro Salvador fue el segundo, de modo que Alonso García no es antepasado de sangre. Por decisión familiar (18-11-2026) su apellido se escribe Cabeza, como el de su padre y su abuelo, y su hijo pasa a llamarse Pedro Salvador Cabeza (segundo apellido deducido del de su madre; los documentos lo llaman solo Pedro Salvador).",
       "urls": [
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
         "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595",

@@ -19054,7 +19054,7 @@
       },
       "observations": [
         "La ejecutoria de 1713 copia su pleito iniciado en 1680, en el que figura casado con María Rodríguez y como padre de Manuel, Francisco, Josefa y Ana María Salvador. Lo declara hijo y nieto de sendos Pedro Salvador y llama bisabuelo suyo a Alonso García, marido de Catalina García Cabezas; no aclara por cuál de sus abuelos llega esa última ascendencia. Un pasaje de la sentencia llama a su mujer María Vázquez, aunque las peticiones dicen María Rodríguez, como las partidas familiares: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
-        "La ejecutoria de 1612 aclara el parentesco con Alonso García: fue el primer marido de Catalina García Cabezas, abuela paterna de este Pedro Salvador, que casó después con el primer Pedro Salvador: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+        "La ejecutoria de 1612 aclara el parentesco con Alonso García: fue el primer marido de Catalina García Cabeza, abuela paterna de este Pedro Salvador, que casó después con el primer Pedro Salvador: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ],
       "father": "pedro-salvador-padre-del-padre-de-ana-maria"
     },
@@ -39329,10 +39329,11 @@
     },
     {
       "id": "pedro-salvador-padre-del-padre-de-ana-maria",
-      "name": "Pedro Salvador",
+      "name": "Pedro Salvador Cabeza",
       "givenNames": "Pedro",
       "surnames": [
-        "Salvador"
+        "Salvador",
+        "Cabeza"
       ],
       "father": "pedro-salvador-abuelo-del-padre-de-ana-maria",
       "origins": [
@@ -39340,7 +39341,8 @@
       ],
       "observations": [
         "El pleito iniciado por su hijo Pedro en 1680 lo identifica como padre de este y vecino que había sido de Moraleja. Había obtenido en 1640 una sobrecarta de una ejecutoria anterior. El texto se copia en una ejecutoria de 1713: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
-        "La ejecutoria de 1640 lo identifica como Pedro Salvador el mozo, hijo de Pedro Salvador y Catalina García Cabezas, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515"
+        "La ejecutoria de 1640 lo identifica como Pedro Salvador el mozo, hijo de Pedro Salvador y Catalina García Cabezas, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515",
+        "Segundo apellido deducido del de su madre; las ejecutorias lo llaman solo Pedro Salvador."
       ],
       "mother": "catalina-garcia-cabezas-madre-de-pedro-salvador"
     },
@@ -39354,7 +39356,7 @@
       "observations": [
         "El pleito de 1680, copiado en la ejecutoria de 1713, llama al litigante Pedro Salvador hijo de Pedro Salvador y nieto de otro Pedro Salvador. Este es el abuelo citado; esa ejecutoria no nombra a su mujer: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5831662",
         "La ejecutoria de 1640 identifica a Pedro Salvador el mozo como hijo suyo y de Catalina García Cabezas, su mujer, vecinos que fueron de Cabreros del Monte: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5752515",
-        "La ejecutoria de 9 de junio de 1612 recoge el pleito que siguió, como marido de Catalina García Cabezas y vecino de Cabreros del Monte, con el concejo de la villa: en febrero de 1611 pidió que no se le cobrase alcabala por el privilegio de Belico de Auriolis de que gozaba su mujer, y los alcaldes de hijosdalgo le dieron la razón. Su procurador dice que ella había estado casada antes con Alonso García. Otorgó el poder firmando de su mano: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+        "La ejecutoria de 9 de junio de 1612 recoge el pleito que siguió, como marido de Catalina García Cabeza y vecino de Cabreros del Monte, con el concejo de la villa: en febrero de 1611 pidió que no se le cobrase alcabala por el privilegio de Belico de Auriolis de que gozaba su mujer, y los alcaldes de hijosdalgo le dieron la razón. Su procurador dice que ella había estado casada antes con Alonso García. Otorgó el poder firmando de su mano: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ],
       "origins": [
         "Cabreros del Monte"
@@ -39382,11 +39384,11 @@
     },
     {
       "id": "catalina-garcia-cabezas-madre-de-pedro-salvador",
-      "name": "Catalina García Cabezas",
+      "name": "Catalina García Cabeza",
       "givenNames": "Catalina",
       "surnames": [
         "García",
-        "Cabezas"
+        "Cabeza"
       ],
       "origins": [
         "Cabreros del Monte"
@@ -39434,7 +39436,7 @@
         }
       ],
       "observations": [
-        "La ejecutoria de 21 de octubre de 1599 lo llama Andrés García Cabeza, vecino de «Felgoso», jurisdicción de la villa de Bembibre, hijo legítimo de Pedro García Cabeza y Catalina de Quintana, marido de Magdalena Manzano y padre de Catalina García Cabezas; los testigos lo tienen, como a su padre, por descendiente de Vellito de Auriolis y exento de pechos, y dicen que llevaba unos veinticinco años casado: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "La ejecutoria de 21 de octubre de 1599 lo llama Andrés García Cabeza, vecino de «Felgoso», jurisdicción de la villa de Bembibre, hijo legítimo de Pedro García Cabeza y Catalina de Quintana, marido de Magdalena Manzano y padre de Catalina García Cabeza; los testigos lo tienen, como a su padre, por descendiente de Vellito de Auriolis y exento de pechos, y dicen que llevaba unos veinticinco años casado: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
         "Vivía todavía en agosto de 1611, cuando los testigos de la probanza hecha en Folgoso y La Granja de San Vicente para su yerno Pedro Salvador dicen que había vivido en Folgoso, con casa poblada y bienes raíces, y también en Tremor de Arriba, y que llevaba mercaderías a los mercados de Ponferrada y Astorga: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ]
     },
@@ -39456,7 +39458,7 @@
         "Folgoso de la Ribera"
       ],
       "observations": [
-        "Los siete testigos de la probanza copiada en la ejecutoria de 21 de octubre de 1599 la nombran Magdalena Manzano (alguno, Manzana), mujer de Andrés García Cabeza, casados y velados en la iglesia de «Felgoso», y madre de Catalina García Cabezas «entre otras» hijas: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590"
+        "Los siete testigos de la probanza copiada en la ejecutoria de 21 de octubre de 1599 la nombran Magdalena Manzano (alguno, Manzana), mujer de Andrés García Cabeza, casados y velados en la iglesia de «Felgoso», y madre de Catalina García Cabeza «entre otras» hijas: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590"
       ]
     },
     {
@@ -39476,7 +39478,7 @@
         "Folgoso de la Ribera"
       ],
       "observations": [
-        "La ejecutoria de 21 de octubre de 1599 lo nombra vecino que fue de «Felgoso», ya difunto, marido de Catalina de Quintana, padre de Andrés García Cabeza «entre otros» hijos y abuelo de Catalina García Cabezas; los testigos dicen que estuvo en posesión y reputación de descendiente de Vellito de Auriolis, a quien se atribuía un privilegio de hidalguía del rey Bermudo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
+        "La ejecutoria de 21 de octubre de 1599 lo nombra vecino que fue de «Felgoso», ya difunto, marido de Catalina de Quintana, padre de Andrés García Cabeza «entre otros» hijos y abuelo de Catalina García Cabeza; los testigos dicen que estuvo en posesión y reputación de descendiente de Vellito de Auriolis, a quien se atribuía un privilegio de hidalguía del rey Bermudo: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/7227590",
         "Los testigos de 1611 añaden que vivió en Folgoso y en Tremor de Arriba y que, según oyeron a los viejos, el origen de su linaje había venido del páramo de la Focella, en Asturias: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ]
     },
@@ -39513,7 +39515,7 @@
         "Folgoso de la Ribera"
       ],
       "observations": [
-        "Los testigos de la probanza de agosto de 1611 lo nombran vecino de Folgoso, hermano de Andrés García Cabeza y tío carnal de Catalina García Cabezas, y dicen que gozó de la misma exención de pechos: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
+        "Los testigos de la probanza de agosto de 1611 lo nombran vecino de Folgoso, hermano de Andrés García Cabeza y tío carnal de Catalina García Cabeza, y dicen que gozó de la misma exención de pechos: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5731595"
       ]
     },
     {
