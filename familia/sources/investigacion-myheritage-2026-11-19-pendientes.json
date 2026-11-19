@@ -1,0 +1,894 @@
+{
+  "schemaVersion": 1,
+  "batch": "Reanudación de las búsquedas pendientes de MyHeritage, 19-11-2026",
+  "method": "Búsquedas por nombre y apellido en la sesión compartida de MyHeritage, con navegación normal y comprobación de la carga de las tarjetas. Solo se criba la primera página mediante los datos visibles; no se abren todos los perfiles. Los totales incluyen variantes muy amplias y no equivalen a coincidencias. Se cotejan nombres, pareja, hijos, localidad y cronología con records.json. Los años orientativos de la cola y las fechas resumidas o estimadas no se consideran nacimientos documentados ni pruebas de ausencia. El árbol Calvo Devesa de la propia familia no constituye una confirmación independiente. La confianza de los seguimientos se refiere a la identificación de la persona, no a la veracidad de todos los datos del árbol ajeno ni a su independencia de otras genealogías. Las búsquedas se detienen ante un control de seguridad o un límite de uso.",
+  "coverage": {
+    "initialPending": 72,
+    "reviewedPeople": 72,
+    "remainingPeople": 0,
+    "matchedPeople": 4,
+    "recheckedPeople": 18,
+    "remainingRechecks": 2,
+    "status": "Primera revisión de los 72 y cuatro variantes completadas; dos relecturas complementarias pendientes por límite de uso",
+    "scope": "Revisión parcial de primeras páginas, no búsqueda exhaustiva de todas las coincidencias.",
+    "qualityNote": "Se han repetido 18 de las primeras 20 consultas, conservando los campos de fecha completos (incluidos «Før» y «calc bef») y cotejando también las parejas e hijos de tarjetas con fechas tardías. No hay identificaciones nuevas. Catalina de la Calle y Martín Herrero conservan su revisión inicial, pero su relectura de fechas y vínculos queda pendiente por un nuevo límite de uso. Ninguna revisión constituye una exclusión definitiva.",
+    "finding": "Cuatro personas de la cola identificadas en árboles ajenos: Juan Fuldain-Amezqueta, Antonia Egurbide Zigorondo, Joan Landaburu y Anna Guinea. Se añaden observaciones con enlaces a sus fichas y a la de Maria Fuldain Egurbide, examinada como seguimiento de sus padres: cinco fichas en total. Sin personas, parentescos ni fechas nuevas."
+  },
+  "searches": [
+    {
+      "personId": "pedro-nieto-padre-de-juan-nieto",
+      "query": "Pedro Nieto",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Nieto",
+      "resultsTotal": 2535380,
+      "cardsReviewed": 20,
+      "finding": "Sin coincidencia que reúna al hijo Juan Nieto y el contexto de Cubillos o Casaseca de las Chanas. También se revisó la primera página de todas las colecciones, sin identificación. El año 1604 de la cola es orientativo."
+    },
+    {
+      "personId": "pedro-madaleno",
+      "query": "Pedro Madaleno",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Madaleno",
+      "resultsTotal": 660795,
+      "cardsReviewed": 20,
+      "finding": "Calvo Devesa coincide con Casaseca de las Chanas, María Rubio y la hija María Madaleno Rubio, pero es el árbol de la propia familia. Sin coincidencia independiente en las restantes tarjetas."
+    },
+    {
+      "personId": "juan-diez",
+      "query": "Juan Díez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.D%C3%ADez",
+      "resultsTotal": 2541137,
+      "cardsReviewed": 20,
+      "finding": "Sin María Rubio, el hijo Pedro bautizado en 1652 ni Casaseca de las Chanas. Juan Díez Labrador (Fermoselle, 1657) es demasiado tardío; Juan Díez Carrascal (1629) no ofrece localidad, esposa o hijos que permitan identificarlo."
+    },
+    {
+      "personId": "juan-morales-padre-de-ana-morales",
+      "query": "Juan Morales",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Morales",
+      "resultsTotal": 2646010,
+      "cardsReviewed": 20,
+      "finding": "Sin María Simón, la hija Ana ni Casaseca de las Chanas. Juan Morales Espejo (Alhama de Murcia, 1643) no puede ser el padre de Ana, bautizada en 1648."
+    },
+    {
+      "personId": "pedro-delgado-padre-de-miguel-delgado",
+      "query": "Pedro Delgado",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Delgado",
+      "resultsTotal": 1836965,
+      "cardsReviewed": 20,
+      "finding": "Sin Marcela Rodríguez, Miguel ni Casaseca de las Chanas. Los perfiles Delgado Delgado/Gaspar no aportan vínculos con el padre de Miguel, bautizado en 1632."
+    },
+    {
+      "personId": "maria-alvarez-madre-de-domingo-calvo",
+      "query": "María Álvarez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.%C3%81lvarez",
+      "resultsTotal": 5253724,
+      "cardsReviewed": 17,
+      "finding": "Sin pareja ni hijo Domingo Calvo ni referencia a Arcenillas. No se identifica a la fallecida allí en 1660. Se cargaron 17 tarjetas, aunque la cabecera anuncia 1–20."
+    },
+    {
+      "personId": "pascual-martin-padre-de-pascual-martin",
+      "query": "Pascual Martín",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pascual+ln.Mart%C3%ADn",
+      "resultsTotal": 23602338,
+      "cardsReviewed": 20,
+      "finding": "Sin María Perdigón ni el hijo Pascual bautizado en Arcenillas en 1606. Los perfiles de Durango (1698), Blancas (1442), Used (1346) y los demás no aportan la familia buscada."
+    },
+    {
+      "personId": "maria-perdigon",
+      "query": "María Perdigón",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Perdig%C3%B3n",
+      "resultsTotal": 1237303,
+      "cardsReviewed": 20,
+      "finding": "Sin Pascual Martín ni Arcenillas. Los perfiles Perdigón Pérez de hacia 1630 son posteriores al bautismo de Pascual en 1606; los restantes no aportan la pareja y descendencia buscadas."
+    },
+    {
+      "personId": "antonio-jambrina-padre-de-victoria-jambrina",
+      "query": "Antonio Jambrina",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Antonio+ln.Jambrina",
+      "resultsTotal": 917128,
+      "cardsReviewed": 20,
+      "finding": "Sin Ana Hernández ni Victoria (Arcenillas, 1608). Las tarjetas de Moraleja del Vino con Josefa o Teresa de Valencia y la de Novoa Barron con Teresa Martín y Bernardo no identifican a este Antonio."
+    },
+    {
+      "personId": "anton-carbajal-padre-de-juan-carbajal",
+      "query": "Antón Carbajal",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Ant%C3%B3n+ln.Carbajal",
+      "resultsTotal": 244372,
+      "cardsReviewed": 20,
+      "finding": "El buscador ofrece variantes Antonio. Sin Isabel Galán, Juan ni Casaseca de las Chanas. Antonio de Carbajal Sánchez, fallecido en Costa Rica en 1604, no corresponde al padre del bautizado en 1624."
+    },
+    {
+      "personId": "isabel-galan-madre-de-juan-carbajal",
+      "query": "Isabel Galán",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Isabel+ln.Gal%C3%A1n",
+      "resultsTotal": 3228051,
+      "cardsReviewed": 20,
+      "finding": "Sin Antón Carbajal ni el hijo Juan de Casaseca de las Chanas (1624). Las familias de Castellanos de Moriscos, Nava del Rey y las otras tarjetas no aportan la pareja buscada."
+    },
+    {
+      "personId": "alonso-fierro-padre-de-juan-fierro",
+      "query": "Alonso Fierro",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Alonso+ln.Fierro",
+      "resultsTotal": 3825127,
+      "cardsReviewed": 20,
+      "finding": "Sin Inés Velasco, Cármenes ni los hijos Juan y Luis. Alonso Fierro de Dehesas, con María Rodríguez y Fernando, no se identifica con el matrimonio de Cármenes; también aparecen variantes Alfonso."
+    },
+    {
+      "personId": "ines-velasco-madre-de-juan-fierro",
+      "query": "Inés Velasco",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.In%C3%A9s+ln.Velasco",
+      "resultsTotal": 1716381,
+      "cardsReviewed": 19,
+      "finding": "Sin Alonso Fierro, Villanueva de Pontedo ni Cármenes. Inés Velasco Callejas (Ciguñuela, 1575; Melchor Pérez) y Velasco Ramos (Domingo Gallego) no aportan la familia buscada. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "domingo-lorenzo-padre-de-maria-lorenzo",
+      "query": "Domingo Lorenzo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Domingo+ln.Lorenzo",
+      "resultsTotal": 2387521,
+      "cardsReviewed": 19,
+      "finding": "Sin María Rubiano ni la hija María de Malillos (1634). Domingo Lorenzo de La Palma (1600), con Ana Francisca, no aporta la pareja buscada. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "maria-rubiano-madre-de-maria-lorenzo",
+      "query": "María Rubiano",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Rubiano",
+      "resultsTotal": 2762026,
+      "cardsReviewed": 20,
+      "finding": "Sin Domingo Lorenzo ni Malillos. Las familias de Berlanga (Benito Rubiano) y Karrantza (Juan Antonio Caballero) no aportan vínculos con María Lorenzo Rubiano."
+    },
+    {
+      "personId": "jose-amador-padre-de-pedro-amador",
+      "query": "José Amador",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Jos%C3%A9+ln.Amador",
+      "resultsTotal": 1991502,
+      "cardsReviewed": 20,
+      "finding": "Sin identificación con Catalina Tejedor y Bermillo de Sayago. Se abrió el perfil de hacia 1592 de ramosrodriguez: no ofrece localidad, esposa ni hijos que permitan enlazarlo."
+    },
+    {
+      "personId": "catalina-tejedor-madre-de-pedro-amador",
+      "query": "Catalina Tejedor",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Tejedor",
+      "resultsTotal": 76894,
+      "cardsReviewed": 20,
+      "finding": "Sin José Amador ni Bermillo de Sayago. Las Catalinas de Fuentepelayo, Villanuño, La Seca y las restantes tarjetas tienen otras parejas o no permiten identificarlas."
+    },
+    {
+      "personId": "juan-pinto-padre-de-maria-pinto",
+      "query": "Juan Pinto",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Pinto",
+      "resultsTotal": 2676855,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina de la Calle ni María Pinto. Los perfiles sin año tienen otras parejas; las tarjetas con nacimientos tardíos no aportan vínculos con esta generación."
+    },
+    {
+      "personId": "catalina-de-la-calle-madre-de-maria-pinto",
+      "query": "Catalina de la Calle",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.de%2F3la%2F3Calle",
+      "resultsTotal": 1370813,
+      "cardsReviewed": 20,
+      "finding": "Sin Juan Pinto ni María Pinto. Las tarjetas de La Zarza, Aldeanueva de Santa Cruz, Morgovejo y Rebolledo Traspeña no aportan esa pareja o descendencia."
+    },
+    {
+      "personId": "martin-herrero-padre-de-maria-herrero",
+      "query": "Martín Herrero",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mart%C3%ADn+ln.Herrero",
+      "resultsTotal": 1102093,
+      "cardsReviewed": 18,
+      "finding": "Sin María de Herrera ni la hija María bautizada en 1638. Los perfiles de Moriscos, La Zarza y las restantes tarjetas no ofrecen la familia buscada. Se cargaron 18 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "maria-herrera-madre-de-maria-herrero",
+      "query": "María de Herrera",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.de%2F3Herrera",
+      "resultsTotal": 475569,
+      "cardsReviewed": 20,
+      "finding": "Sin Martín Herrero ni su hija María de 1638. Predominan ramas Herrera/Guzmán y de la Riva Herrera; la María de Herrera Sánchez nacida en 1640 es posterior al bautismo de la hija buscada."
+    },
+    {
+      "personId": "francisco-herrero-padre-de-maria-herrero-lastra",
+      "query": "Francisco Herrero",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Francisco+ln.Herrero",
+      "resultsTotal": 1102093,
+      "cardsReviewed": 20,
+      "finding": "Sin María Lastra ni la hija María bautizada en 1658. Los perfiles de Milmarcos, Curiel, Nava del Rey, Villarramiel y Carbonero el Mayor no proporcionan los vínculos buscados."
+    },
+    {
+      "personId": "maria-lastra-madre-de-maria-herrero",
+      "query": "María Lastra",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Lastra",
+      "resultsTotal": 2171111,
+      "cardsReviewed": 20,
+      "finding": "Sin Francisco Herrero ni su hija María (1658). El árbol alejo muestra a María Lastra López de Villar del Buey, hija de Miguel Lastra y Elena López, casada con Santiago Herrero Texado y madre de Catalina; el marido y la hija no son los del dossier. No se enlaza por compartir Lastra y Herrero."
+    },
+    {
+      "personId": "sebastian-colastico-padre-de-catalina-colastico",
+      "query": "Sebastián Colástico",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Sebasti%C3%A1n+ln.Col%C3%A1stico",
+      "resultsTotal": 158002,
+      "cardsReviewed": 20,
+      "finding": "Solo variantes lejanas del buscador (Gallastegui, Colsa, Colestock y otras). Ninguna tarjeta nombra a Sebastián Colástico con Catalina Carnero o su hija Catalina."
+    },
+    {
+      "personId": "catalina-carnero-madre-de-catalina-colastico",
+      "query": "Catalina Carnero",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Carnero",
+      "resultsTotal": 6973163,
+      "cardsReviewed": 20,
+      "finding": "Sin Sebastián Colástico ni la hija Catalina de 1640. Las tarjetas de Cañizo, Salmoral y otras localidades presentan parejas distintas; no se identifica a la buscada."
+    },
+    {
+      "personId": "lorenzo-hernandez-padre-de-lorenzo-hernandez",
+      "query": "Lorenzo Hernández",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Lorenzo+ln.Hern%C3%A1ndez",
+      "resultsTotal": 5162096,
+      "cardsReviewed": 20,
+      "finding": "Sin Inés Tamame ni el hijo Lorenzo bautizado en El Perdigón en 1628. Los perfiles visibles no aportan los vínculos buscados."
+    },
+    {
+      "personId": "ines-tamame-madre-de-lorenzo-hernandez",
+      "query": "Inés Tamame",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.In%C3%A9s+ln.Tamame",
+      "resultsTotal": 329858,
+      "cardsReviewed": 20,
+      "finding": "Sin Lorenzo Hernández ni El Perdigón. Ynés Santiago, casada con Juan Tamame y madre de Lucía y Micaela en el árbol alejo, no lleva Tamame como apellido de nacimiento y no es una coincidencia con la familia buscada."
+    },
+    {
+      "personId": "alonso-de-segovia-padre-de-maria-de-segovia",
+      "query": "Alonso de Segovia",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Alonso+ln.de%2F3Segovia",
+      "resultsTotal": 261305,
+      "cardsReviewed": 20,
+      "finding": "Sin María de Cabo ni la hija María de El Perdigón (1623). Alonso de Segovia García (Ciguñuela, 1629) es posterior a su bautismo; el Alonso de hacia 1565 con Leonor Pérez y Hernando no aporta la pareja buscada."
+    },
+    {
+      "personId": "maria-de-cabo-madre-de-maria-de-segovia",
+      "query": "María de Cabo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.de%2F3Cabo",
+      "resultsTotal": 2019660,
+      "cardsReviewed": 20,
+      "finding": "Sin Alonso de Segovia ni su hija María de El Perdigón (1623). María Ronda, esposa de Matías de Cabo en Gomecello, no lleva de Cabo como apellido de nacimiento y no coincide con la pareja buscada."
+    },
+    {
+      "personId": "martin-marcos",
+      "query": "Martín Marcos",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mart%C3%ADn+ln.Marcos",
+      "resultsTotal": 4211655,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Martín, María ni Malillos. Los perfiles de Herrín de Campos (Martín Marcos Melero), La Vellés, Carpio y otros lugares carecen de los vínculos buscados."
+    },
+    {
+      "personId": "catalina-martin-madre-de-maria-marcos",
+      "query": "Catalina Martín",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Mart%C3%ADn",
+      "resultsTotal": 23602338,
+      "cardsReviewed": 20,
+      "finding": "Sin Martín Marcos ni la hija María de Malillos (1635). Predominan las ramas Martín de Escobar de Cádiz y otros matrimonios ajenos al dossier."
+    },
+    {
+      "personId": "pablo-alonso",
+      "query": "Pablo Alonso",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pablo+ln.Alonso",
+      "resultsTotal": 2770243,
+      "cardsReviewed": 20,
+      "finding": "Sin Ángela Pérez ni Ana de Malillos (1652). Los perfiles Hernández Alonso de La Laguna y Alonso Arroyo de Burgos tienen otras familias; Pablo Alonso Miguel (1660) es posterior al bautismo de Ana."
+    },
+    {
+      "personId": "angela-perez-madre-de-ana-alonso",
+      "query": "Ángela Pérez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.%C3%81ngela+ln.P%C3%A9rez",
+      "resultsTotal": 8081859,
+      "cardsReviewed": 18,
+      "finding": "Sin Pablo Alonso, Ana ni Malillos. Las parejas García Sánchez, Méndez García y Soler Gilabert no aportan vínculos con la madre de Ana de 1652. Se cargaron 18 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "alonso-pascual-padre-de-andres-pascual",
+      "query": "Alonso Pascual",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Alonso+ln.Pascual",
+      "resultsTotal": 1716220,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Salvador ni Torregamones. Los perfiles de Herrín de Campos con Inés de San Pedro y un hijo Andrés no se identifican con el matrimonio buscado solo por compartir padre e hijo de nombres comunes."
+    },
+    {
+      "personId": "catalina-salvador-madre-de-andres-pascual",
+      "query": "Catalina Salvador",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Salvador",
+      "resultsTotal": 493345,
+      "cardsReviewed": 19,
+      "finding": "Sin Alonso Pascual ni Andrés de Torregamones (1656). Las tarjetas de Fuentes de Rubielos, Villalba de los Alcores, Amusco y otros pueblos no ofrecen los vínculos buscados. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "juan-hernandez-abuelo-de-domingo-hernandez",
+      "query": "Juan Hernández",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Hern%C3%A1ndez",
+      "resultsTotal": 5162096,
+      "cardsReviewed": 19,
+      "finding": "Sin Pascuala Gata ni el hijo Juan Hernández Gata bautizado hacia 1640. Las tarjetas no permiten identificar al antepasado. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "pascuala-gata-abuela-de-domingo-hernandez",
+      "query": "Pascuala Gata",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pascuala+ln.Gata",
+      "resultsTotal": 10413,
+      "cardsReviewed": 20,
+      "finding": "Ninguna Pascuala Gata con Juan Hernández o Juan Hernández Gata; se muestran mayoritariamente coincidencias lejanas Gata/Gåta y nombres diferentes."
+    },
+    {
+      "personId": "emerenciana-hista-madre-de-isabel-fernandez",
+      "query": "Emerenciana Hista",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Emerenciana+ln.Hista",
+      "resultsTotal": 985535,
+      "cardsReviewed": 20,
+      "finding": "Solo variantes lejanas Hosta, Histe, Hastay y similares. Sin Emerenciana Hista, Domingo Hernández ni Isabel Fernández de Tardobispo (1656)."
+    },
+    {
+      "personId": "martin-unceta-aguinaga",
+      "query": "Martin Unceta Aguinaga",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Martin+ln.Unceta%2F3Aguinaga",
+      "resultsTotal": 29721,
+      "cardsReviewed": 19,
+      "finding": "La familia Gregorio Unceta Aguinaga–Marina Arizbarrenechea–Rafael no identifica a Martin. Martín Unzueta Guinea (Anúcita, 1607) tiene otros apellidos y padres; ninguna tarjeta ofrece a Gracia Çirarrusta ni a Juan Baptista de Eibar (1623). Se cargaron 19 tarjetas, con cabecera 1–20. La variante Unzueta se revisa por separado."
+    },
+    {
+      "personId": "gracia-cirarrusta-gaztelueta",
+      "query": "Gracia Çirarrusta Gaztelueta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Gracia+ln.%C3%87irarrusta%2F3Gaztelueta",
+      "resultsTotal": 2163,
+      "cardsReviewed": 20,
+      "finding": "Se muestran familias Cirarruista-Ugarte y Çubibarria de Artea y Zeanuri, pero ninguna Gracia con Martin Unceta Aguinaga ni el hijo Juan Baptista de Eibar (1623). La variante Ciarrusta queda bloqueada después de completar la tanda original."
+    },
+    {
+      "personId": "juan-fuldain-amezqueta",
+      "query": "Juan Fuldain-Amezqueta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Fuldain-Amezqueta",
+      "resultsTotal": 58130,
+      "cardsReviewed": 20,
+      "finding": "Identidad comprobada en Errasti Chinchurreta: pareja Antonia Egurbide Zigorondo e hija Maria Fuldain Egurbide, nacida el 8-12-1612 en Arrasate y casada con Juan Baptista Unzueta Cirarruista. El perfil no aporta padres ni nacimiento de Juan; se añade solo la referencia, no los años estimados de otros árboles.",
+      "status": "matched-reference"
+    },
+    {
+      "personId": "antonia-egurbide-zigorondo",
+      "query": "Antonia Egurbide Zigorondo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Antonia+ln.Egurbide%2F3Zigorondo",
+      "resultsTotal": 5016,
+      "cardsReviewed": 20,
+      "finding": "Identidad comprobada en Errasti Chinchurreta: marido Juan Fuldain Amezqueta e hija Maria Fuldain Egurbide (Arrasate, 8-12-1612), casada con Juan Baptista Unzueta Cirarruista. No aporta padres ni nacimiento de Antonia. Los hijos adicionales de Garaizar ya constan como hermanos de Maria; no se abren búsquedas para ellos.",
+      "status": "matched-reference"
+    },
+    {
+      "personId": "juan-cabarte",
+      "query": "Juan Cabarte",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Cabarte",
+      "resultsTotal": 2092945,
+      "cardsReviewed": 20,
+      "finding": "Juan Çabarte Barrutia (1572–1658), casado con Magdalena Murube, y Juan Martínez Çabarte con María Yribe no aportan la pareja María Pérez Ybieta-Arteaga ni el hijo Domingo. Se conservan como homónimos sin enlazar."
+    },
+    {
+      "personId": "maria-perez-ybieta-arteaga",
+      "query": "Maria Perez Ybieta-Arteaga",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Maria+ln.Perez%2F3Ybieta-Arteaga",
+      "resultsTotal": 83704,
+      "cardsReviewed": 17,
+      "finding": "Solo variantes lejanas y familias sin Juan Cabarte ni Domingo; ninguna tarjeta identifica a María Pérez Ybieta-Arteaga. Se cargaron 17 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "joan-landaburu-guridi",
+      "query": "Joan Landaburu",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Joan+ln.Landaburu",
+      "resultsTotal": 251235,
+      "cardsReviewed": 20,
+      "finding": "La búsqueda por Joan devuelve variantes lejanas, pero se identifica a través de Anna Guinea. Los dos perfiles de Sitio Familiar coinciden en el matrimonio del 17-7-1612 en Garagartza (Arrasate) y los hijos Ana (1613), María (1619), María Luisa (1622) y Joan Asencio (1627). Sin padres; no se incorpora el nacimiento estimado hacia 1600 ni el apellido Guridi de otros árboles.",
+      "status": "matched-reference"
+    },
+    {
+      "personId": "anna-guinea",
+      "query": "Anna Guinea",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Anna+ln.Guinea",
+      "resultsTotal": 34992,
+      "cardsReviewed": 20,
+      "finding": "Identidad comprobada en Sitio Familiar por Joan Landaburu, la boda del 17-7-1612 en Garagartza y cuatro hijos ya documentados. Sin padres. Se conserva desconocido el nacimiento; no se importan los años de 1585/1600 ni Arrasate con interrogación que muestran otros perfiles.",
+      "status": "matched-reference"
+    },
+    {
+      "personId": "antonio-martin-padre-de-maria-martin-mendez",
+      "query": "Antonio Martín",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Antonio+ln.Mart%C3%ADn",
+      "resultsTotal": 23602338,
+      "cardsReviewed": 20,
+      "finding": "Sin María Martín, esposa de Luis Méndez y antes de Baltasar Rodríguez, ni Casaseca de las Chanas o El Perdigón. Los homónimos de Lastras de Cuéllar, La Adrada y otros lugares no permiten identificarlo."
+    },
+    {
+      "personId": "miguel-alonso-padre-de-catalina-alonso",
+      "query": "Miguel Alonso",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Miguel+ln.Alonso",
+      "resultsTotal": 2770243,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Alonso García ni Casaseca de las Chanas. Los perfiles de Fuentespreadas con Atilana Peña y Antonia Pascuala no aportan la familia buscada; no se asigna un año al bautismo ilegible de Catalina."
+    },
+    {
+      "personId": "domingo-ortizo-padre-de-domingo-ortiz",
+      "query": "Domingo Ortizo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Domingo+ln.Ortizo",
+      "resultsTotal": 1185923,
+      "cardsReviewed": 20,
+      "finding": "Predominan variantes Ortiz. Sin Abelón ni el fallecido de 1672 con herederos Juan y Domingo Ortizo. Domingo Ortiz Bracamonte de México y Ortiz Santacruz de Guriezo no aportan esos vínculos."
+    },
+    {
+      "personId": "maria-ortizo-madre-de-alonso-sesma",
+      "query": "María Ortizo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Ortizo",
+      "resultsTotal": 1185923,
+      "cardsReviewed": 20,
+      "finding": "Sin Alonso Sesma ni Abelón. Las Marías Ortiza de Grijota de 1566 están casadas con Pedro Fernández y tienen otra descendencia; no permiten identificar a la madre del bautizado en 1655."
+    },
+    {
+      "personId": "luis-rodriguez-padre-de-maria-rodriguez",
+      "query": "Luis Rodríguez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Luis+ln.Rodr%C3%ADguez",
+      "resultsTotal": 10766282,
+      "cardsReviewed": 19,
+      "finding": "Sin Isabel Delgado, la hija María de 1613 ni Casaseca de las Chanas. Predominan Luis Rodríguez de la Yedra de Gran Canaria y familias ajenas. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "isabel-delgado-madre-de-maria-rodriguez",
+      "query": "Isabel Delgado",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Isabel+ln.Delgado",
+      "resultsTotal": 1836965,
+      "cardsReviewed": 20,
+      "finding": "Sin Luis Rodríguez ni María de Casaseca de las Chanas (1613). Isabel Delgado Álvarez de Escalona está casada con Pedro Rodríguez; las familias Delgado Lobo, Muñoz-Delgado y Flores no aportan la identificación buscada."
+    },
+    {
+      "personId": "anton-simon-padre-de-maria-simon",
+      "query": "Antón Simón",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Ant%C3%B3n+ln.Sim%C3%B3n",
+      "resultsTotal": 2723467,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Marqués ni María de Casaseca de las Chanas (1612). Los homónimos de Fuencarral, Villanubla y Canarias no ofrecen esos vínculos."
+    },
+    {
+      "personId": "catalina-marques-madre-de-maria-simon",
+      "query": "Catalina Marqués",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Marqu%C3%A9s",
+      "resultsTotal": 4806885,
+      "cardsReviewed": 20,
+      "finding": "Sin Antón Simón ni la hija María de 1612. Predominan ramas de Menorca; Catalina Marqués Zabaco está casada con Juan Cojo y no identifica a la madre buscada."
+    },
+    {
+      "personId": "pedro-rodriguez-padre-de-marcela-rodriguez",
+      "query": "Pedro Rodríguez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Rodr%C3%ADguez",
+      "resultsTotal": 10766282,
+      "cardsReviewed": 20,
+      "finding": "Sin María Domínguez, Marcela ni el sacristán de Casaseca de las Chanas. Las tarjetas sin nacimiento tampoco aportan los vínculos buscados."
+    },
+    {
+      "personId": "maria-dominguez-madre-de-marcela-rodriguez",
+      "query": "María Domínguez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Dom%C3%ADnguez",
+      "resultsTotal": 1583662,
+      "cardsReviewed": 20,
+      "finding": "Sin Pedro Rodríguez ni Marcela de Casaseca de las Chanas. Las tarjetas de Abezames con Crisanto Domínguez o Antonio Cabezón y las familias Falcón de Canarias no identifican a la buscada."
+    },
+    {
+      "personId": "juan-garcia-padre-de-antonio-garcia",
+      "query": "Juan García",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Garc%C3%ADa",
+      "resultsTotal": 13065869,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Mella ni Antonio de Arcenillas (1585). Los García de Noriega del siglo XVII y los demás perfiles visibles no aportan esa familia."
+    },
+    {
+      "personId": "catalina-mella-madre-de-antonio-garcia",
+      "query": "Catalina Mella",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Mella",
+      "resultsTotal": 84845,
+      "cardsReviewed": 18,
+      "finding": "Sin Juan García ni el hijo Antonio de Arcenillas (1585). Las parejas Jufré, Dávalos, Beltrán y las mujeres con Mella como apellido de casada no identifican a la buscada. Se cargaron 18 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "francisco-cabrero-padre-de-maria-cabrero",
+      "query": "Francisco Cabrero",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Francisco+ln.Cabrero",
+      "resultsTotal": 1263706,
+      "cardsReviewed": 19,
+      "finding": "Sin Catalina Urueña ni María de Arcenillas (1594). Los perfiles Cabrero Frayle de Berrocalejo/Valdeverdeja y los de Lastras y Pliego no aportan los vínculos buscados. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "catalina-uruena-madre-de-maria-cabrero",
+      "query": "Catalina Urueña",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Urue%C3%B1a",
+      "resultsTotal": 57699,
+      "cardsReviewed": 19,
+      "finding": "Sin Francisco Cabrero ni la hija María de Arcenillas (1594). Catalina Urueña de Rosinos de Vidriales está casada con Juan Calvo y tiene un hijo Silvestre; las otras tarjetas tampoco identifican a la buscada. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "andres-hernandez-padre-de-ana-hernandez",
+      "query": "Andrés Hernández",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Andr%C3%A9s+ln.Hern%C3%A1ndez",
+      "resultsTotal": 5162096,
+      "cardsReviewed": 15,
+      "finding": "Sin María Prieto ni Ana de Arcenillas (1582). Andrés Hernández de Almagro/Santiago de Chile tiene esposa Magdalena de la Serna; los demás no aportan la familia buscada. Se cargaron 15 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "maria-prieto-madre-de-ana-hernandez",
+      "query": "María Prieto",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Prieto",
+      "resultsTotal": 1896875,
+      "cardsReviewed": 20,
+      "finding": "Sin Andrés Hernández ni Ana de Arcenillas (1582). Las familias Prieto de Herrín de Campos y las otras tarjetas carecen de esos vínculos."
+    },
+    {
+      "personId": "anton-valladolid-padre-de-domingo-valladolid",
+      "query": "Antón Valladolid",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Ant%C3%B3n+ln.Valladolid",
+      "resultsTotal": 46207,
+      "cardsReviewed": 19,
+      "finding": "Se muestran variantes Antonio, sin María Cordero ni Domingo de Casaseca de las Chanas (1627). Antonio Valladolid de Cazurra (1729) es posterior; el de Beatriz Roncero y Agustín no ofrece los vínculos buscados. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "maria-cordero-madre-de-domingo-valladolid",
+      "query": "María Cordero",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Cordero",
+      "resultsTotal": 677355,
+      "cardsReviewed": 20,
+      "finding": "Sin Antón Valladolid, Domingo ni Casaseca de las Chanas. Las familias de Cartago, Buenos Aires y Quintanilla de Combarros no identifican a la buscada."
+    },
+    {
+      "personId": "ascensio-blanco-padre-de-alonso-blanco",
+      "query": "Ascensio Blanco",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Ascensio+ln.Blanco",
+      "resultsTotal": 1471067,
+      "cardsReviewed": 20,
+      "finding": "Se muestran nombres e iniciales A. Blanco, sin Ascensio con María Martín, Alonso ni Abelón. Ninguna identificación entre las tarjetas revisadas."
+    },
+    {
+      "personId": "maria-martin-madre-de-alonso-blanco",
+      "query": "María Martín",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Mart%C3%ADn",
+      "resultsTotal": 23602338,
+      "cardsReviewed": 20,
+      "finding": "Sin Ascensio Blanco ni Alonso de Abelón (1656). Las parejas de Fuentepelayo, Sotosalbos y los demás perfiles no aportan los vínculos buscados."
+    },
+    {
+      "personId": "sebastian-crespo-padre-de-manuela-crespo",
+      "query": "Sebastián Crespo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Sebasti%C3%A1n+ln.Crespo",
+      "resultsTotal": 2382701,
+      "cardsReviewed": 20,
+      "finding": "Sin Merenciana Pascual ni Manuela de Abelón (1658). Las familias Crespo Núñez de Vera, Crespo Sama de Llanes y Crespo Mendoza de Cárcar no identifican al buscado."
+    },
+    {
+      "personId": "merenciana-pascual-madre-de-manuela-crespo",
+      "query": "Merenciana Pascual",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Merenciana+ln.Pascual",
+      "resultsTotal": 1716220,
+      "cardsReviewed": 20,
+      "finding": "La Merenciana de Filipinas de 1802 es posterior; las tarjetas M. Pascual tampoco ofrecen a Sebastián Crespo, Manuela ni Abelón. Ninguna identificación."
+    },
+    {
+      "personId": "domingo-hernandez-abuelo-de-isabel-fernandez",
+      "query": "Domingo Hernández",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Domingo+ln.Hern%C3%A1ndez",
+      "resultsTotal": 5162096,
+      "cardsReviewed": 20,
+      "finding": "Sin María de la Calle ni Domingo de Tardobispo (1613). Los Hernández de Cuba y otros contextos no ofrecen los vínculos buscados."
+    },
+    {
+      "personId": "maria-de-la-calle-madre-de-domingo-hernandez",
+      "query": "María de la Calle",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.de%2F3la%2F3Calle",
+      "resultsTotal": 1370813,
+      "cardsReviewed": 20,
+      "finding": "Sin Domingo Hernández ni Tardobispo. Las familias Casabona, Marcano, Tejerina y las demás tarjetas no permiten identificar a la madre de Domingo de 1613."
+    },
+    {
+      "personId": "domingo-calvo-abuelo-de-domingo-calvo",
+      "query": "Domingo Calvo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Domingo+ln.Calvo",
+      "resultsTotal": 691688,
+      "cardsReviewed": 20,
+      "finding": "Sin el hijo Domingo de Arcenillas (1582). Predominan perfiles Calvo Calvo nacidos en Campaspero en 1603 o después; Domingo Calvo Peribañez de hacia 1580 con María García Sacristán tampoco aporta la familia buscada."
+    },
+    {
+      "personId": "alonso-de-cabo-padre-de-maria-de-cabo",
+      "query": "Alonso de Cabo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Alonso+ln.de%2F3Cabo",
+      "resultsTotal": 2019660,
+      "cardsReviewed": 20,
+      "finding": "Sin María de Cabo, la nieta María de Segovia ni El Perdigón (1623). Alonso González de Cabo con María de Agüeros y la hija Isabel y las variantes Cobo/Caba/Cuba no aportan la identificación buscada."
+    }
+  ],
+  "profileFollowup": [
+    {
+      "personId": "jose-amador-padre-de-pedro-amador",
+      "tree": "ramosrodriguez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV76SLW6SATNDKMHA7GXKZZRS2QZQ-38-3497&action=showRecord",
+      "finding": "Atribuye a José Amador un nacimiento hacia 1592 y padres Pedro Amador y María Iniesta, pero no indica localidad, esposa ni hijos. Coincidencia de nombre y época insuficiente; no se añaden parentescos ni se investigan sus hermanos.",
+      "confidence": "low",
+      "applied": false
+    },
+    {
+      "personId": "juan-fuldain-amezqueta",
+      "tree": "Errasti Chinchurreta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6F7VTIIN4NIHSSCSMAQBFMKZKTA-1-504200&action=showRecord",
+      "finding": "Perfil abierto: esposa Antonia Egurbide Zigorondo e hija Maria Fuldain Egurbide (1612). No presenta padres ni fechas de Juan. La ficha de la hija confirma Arrasate, 8-12-1612 y su marido Juan Baptista Unzueta Cirarruista.",
+      "confidence": "high",
+      "applied": true
+    },
+    {
+      "personId": "antonia-egurbide-zigorondo",
+      "tree": "Errasti Chinchurreta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6F7VTIIN4NIHSSCSMAQBFMKZKTA-1-504201&action=showRecord",
+      "finding": "Perfil abierto: esposo Juan Fuldain Amezqueta e hija Maria Fuldain Egurbide (1612). Sin padres ni fechas propias. Coinciden los vínculos y los datos de la hija, comprobada por separado. Los otros hijos visibles en la búsqueda de Garaizar ya están documentados como hermanos de Maria.",
+      "confidence": "high",
+      "applied": true
+    },
+    {
+      "personId": "maria-fuldain-egurbide",
+      "tree": "Errasti Chinchurreta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6F7VTIIN4NIHSSCSMAQBFMKZKTA-1-501820&action=showRecord",
+      "finding": "Seguimiento de los perfiles de sus padres, no integrante de los 72 pendientes. Coinciden ambos padres, fecha y lugar (8-12-1612, Arrasate) y marido Juan Baptista Unzueta Cirarruista. El perfil no fecha el matrimonio. Se añade una referencia, sin cambiar los datos existentes.",
+      "confidence": "high",
+      "applied": true
+    },
+    {
+      "personId": "juan-baptista-unceta-cirarruista",
+      "tree": "Errasti Chinchurreta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV6F7VTIIN4NIHSSCSMAQBFMKZKTA-1-501819&action=showRecord",
+      "finding": "Abierto desde la ficha de Maria Fuldain Egurbide, su esposa. No presenta padres ni fechas, por lo que no amplía la búsqueda de Martin Unceta Aguinaga ni Gracia Çirarrusta Gaztelueta. Se registra el seguimiento sin añadir una observación redundante.",
+      "confidence": "medium",
+      "applied": false
+    },
+    {
+      "personId": "joan-landaburu-guridi",
+      "tree": "Sitio Familiar",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV63SUX476CF3FEFMSOMS6ICBPJ2I-3-528627&action=showRecord",
+      "finding": "Abierto desde Anna Guinea. Coinciden la esposa, boda de 17-7-1612 en San Miguel de Garagartza (Arrasate) y cuatro hijos y sus años: Ana (1613), María (1619), María Luisa (1622), Joan Asencio (1627). Sin padres. No se aplica el nacimiento estimado hacia 1600 ni el lugar Arrasate con interrogación; tampoco el apellido Guridi de otros árboles.",
+      "confidence": "high",
+      "applied": true
+    },
+    {
+      "personId": "anna-guinea",
+      "tree": "Sitio Familiar",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?itemId=OYYV63SUX476CF3FEFMSOMS6ICBPJ2I-3-528628&action=showRecord",
+      "finding": "Coinciden marido Joan Landaburu, boda de 17-7-1612 en Garagartza (Arrasate), cuatro hijos y sus años. Sin padres ni datos que amplíen la ascendencia. El nacimiento estimado hacia 1600 y el lugar Arrasate con interrogación no se aplican. No se buscan los hermanos de Mari Miguel por separado.",
+      "confidence": "high",
+      "applied": true
+    }
+  ],
+  "additionalSearches": [
+    {
+      "personId": "martin-unceta-aguinaga",
+      "query": "Martin Unzueta Aguinaga",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Martin+ln.Unzueta%2F3Aguinaga",
+      "resultsTotal": 26655,
+      "cardsReviewed": 19,
+      "finding": "Sin Gracia Ciarrusta ni Juan Baptista de Eibar. Los perfiles Unzueta Guinea de Anúcita (1607) y las restantes variantes no aportan los vínculos buscados. Se cargaron 19 tarjetas, con cabecera 1–20."
+    },
+    {
+      "personId": "gracia-cirarrusta-gaztelueta",
+      "query": "Gracia Ciarrusta Gaztelueta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&action=query&p=1&view_mode=card&qname=Name+fn.Gracia+ln.Ciarrusta%2F3Gaztelueta",
+      "resultsTotal": 117406,
+      "cardsReviewed": 19,
+      "finding": "Revisada tras el aviso del usuario de que el servicio volvía a funcionar. Sin Martin Unceta Aguinaga ni Juan Baptista de Eibar. Gracia Vetelu Telleria, casada con Martin Lopez Gorrochategui y fallecida en Segura en 1672, tiene otra familia; tampoco se identifica a la buscada entre las otras tarjetas."
+    },
+    {
+      "personId": "ascensio-blanco-padre-de-alonso-blanco",
+      "query": "Asensio Blanco",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Asensio+ln.Blanco",
+      "resultsTotal": 1471067,
+      "cardsReviewed": 20,
+      "finding": "Predominan iniciales A. y otros nombres. Manuel Asensio Joseph Blanch (Polop, 1751) es posterior al hijo Alonso de 1656. Sin María Martín ni el matrimonio de Abelón de 1651."
+    },
+    {
+      "personId": "merenciana-pascual-madre-de-manuela-crespo",
+      "query": "Emerenciana Pascual",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Emerenciana+ln.Pascual",
+      "resultsTotal": 1716220,
+      "cardsReviewed": 12,
+      "finding": "Sin Sebastián Crespo, Manuela ni Abelón. Emerenciana Íñigo Pascual (Rubielos de Mora, 1596), casada con Roque Narbón Catalán, tiene otra familia. Emerenciana de Cea Pascual (Mazariegos, 1651) no encaja como madre de la bautizada en 1658; Pascual Paniagua figura con Francisco Rico Maroto. Las 12 tarjetas permanecen estables en una segunda lectura, todas cargadas, pese a la cabecera 1–20."
+    }
+  ],
+  "rechecks": [
+    {
+      "personId": "pedro-nieto-padre-de-juan-nieto",
+      "query": "Pedro Nieto",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Nieto",
+      "resultsTotal": 2535380,
+      "cardsReviewed": 20,
+      "finding": "Sin el hijo Juan ni los lugares vinculados al matrimonio de 1660. Pedro Martinez Nieto de El Bonillo tiene esposa Ana Maria Mathias y otras hijas; las tarjetas sin fecha tampoco permiten identificar al padre de Juan. Se cotejaron también las familias de las tarjetas con fechas tardías."
+    },
+    {
+      "personId": "pedro-madaleno",
+      "query": "Pedro Madaleno",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Madaleno",
+      "resultsTotal": 660795,
+      "cardsReviewed": 20,
+      "finding": "Se mantiene la coincidencia ya registrada con el árbol propio Calvo Devesa. Las otras tarjetas tienen Herminia Pulido, Constanza Fernández, María Escudero u otras familias; no hay una identificación ajena nueva."
+    },
+    {
+      "personId": "juan-diez",
+      "query": "Juan Díez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.D%C3%ADez",
+      "resultsTotal": 2541137,
+      "cardsReviewed": 20,
+      "finding": "Sin María Rubio, Pedro de 1652 ni Casaseca de las Chanas. Los perfiles de Escalada, Prioro y Urueña ofrecen otras parejas; Juan Díez Carrascal de 1629 sigue sin lugar, esposa o hijos que permitan identificarlo."
+    },
+    {
+      "personId": "juan-morales-padre-de-ana-morales",
+      "query": "Juan Morales",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Morales",
+      "resultsTotal": 2646010,
+      "cardsReviewed": 20,
+      "finding": "Sin María Simón ni Ana de 1648. Juan Morales Espejo figura nacido hacia septiembre de 1643, no antes de esa fecha, y carece de los vínculos buscados. Las otras tarjetas no identifican al antepasado."
+    },
+    {
+      "personId": "pedro-delgado-padre-de-miguel-delgado",
+      "query": "Pedro Delgado",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pedro+ln.Delgado",
+      "resultsTotal": 1836965,
+      "cardsReviewed": 20,
+      "finding": "Sin Marcela Rodríguez ni Miguel de 1632. Los perfiles sin año Delgado/Delgado-Gaspar siguen sin los vínculos familiares buscados; se cotejaron también las familias de las tarjetas con fechas tardías."
+    },
+    {
+      "personId": "maria-alvarez-madre-de-domingo-calvo",
+      "query": "María Álvarez",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.%C3%81lvarez",
+      "resultsTotal": 5253724,
+      "cardsReviewed": 17,
+      "finding": "Sin Domingo Calvo, su hijo Domingo de 1610 ni Arcenillas. Las 17 tarjetas vuelven a estar cargadas; hay otras parejas y lugares, y las fechas completas no aportan una identificación nueva."
+    },
+    {
+      "personId": "pascual-martin-padre-de-pascual-martin",
+      "query": "Pascual Martín",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Pascual+ln.Mart%C3%ADn",
+      "resultsTotal": 23602338,
+      "cardsReviewed": 20,
+      "finding": "Sin María Perdigón ni el hijo Pascual de Arcenillas de 1606. Ninguna fecha con calificador permite relacionar las tarjetas con la familia buscada; las de Durango, Blancas y Used siguen sin esos vínculos."
+    },
+    {
+      "personId": "maria-perdigon",
+      "query": "María Perdigón",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Perdig%C3%B3n",
+      "resultsTotal": 1237303,
+      "cardsReviewed": 20,
+      "finding": "Sin Pascual Martín ni Arcenillas. Perdigón Pérez aparece nacida en 1630 o hacia 1630, no antes de ese año, y con Francisco de Lima Toledo; las otras parejas y familias no identifican a la buscada."
+    },
+    {
+      "personId": "antonio-jambrina-padre-de-victoria-jambrina",
+      "query": "Antonio Jambrina",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Antonio+ln.Jambrina",
+      "resultsTotal": 917128,
+      "cardsReviewed": 20,
+      "finding": "Sin Ana Hernández ni Victoria de 1608. Se comprobaron también las familias de las tarjetas con fechas tardías. El Antonio Jambrina de Calvo Devesa, con Teresa de Valencia Celenque y Manuela, no es el buscado."
+    },
+    {
+      "personId": "anton-carbajal-padre-de-juan-carbajal",
+      "query": "Antón Carbajal",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Ant%C3%B3n+ln.Carbajal",
+      "resultsTotal": 244372,
+      "cardsReviewed": 20,
+      "finding": "Sin Isabel Galán, Juan ni Casaseca de las Chanas. Antonio de Carbajal Sánchez sigue vinculado a Francisca Toroci y Cartago, con fallecimiento de 1604; ninguna otra tarjeta ofrece la familia buscada."
+    },
+    {
+      "personId": "isabel-galan-madre-de-juan-carbajal",
+      "query": "Isabel Galán",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Isabel+ln.Gal%C3%A1n",
+      "resultsTotal": 3228051,
+      "cardsReviewed": 20,
+      "finding": "Se conserva expresamente el nacimiento antes de 1660 de Isabel Galán García de Castellanos de Moriscos: no se descarta por haber nacido en 1660. Tiene marido Felipe García Quiñones e hija Isabel, sin Antón Carbajal ni Juan; las otras tarjetas tampoco identifican a la buscada."
+    },
+    {
+      "personId": "alonso-fierro-padre-de-juan-fierro",
+      "query": "Alonso Fierro",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Alonso+ln.Fierro",
+      "resultsTotal": 3825127,
+      "cardsReviewed": 20,
+      "finding": "Sin Inés Velasco ni los hijos Juan y Luis. Alonso Fierro de Cármenes aparece nacido en 1728, sin calificador antes, casado con Isabel Alonso y padre de Isabel: no es una coincidencia con la familia buscada. Los de Dehesas tienen María Rodríguez y Fernando."
+    },
+    {
+      "personId": "ines-velasco-madre-de-juan-fierro",
+      "query": "Inés Velasco",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.In%C3%A9s+ln.Velasco",
+      "resultsTotal": 1716381,
+      "cardsReviewed": 19,
+      "finding": "Sin Alonso Fierro, Villanueva de Pontedo ni los hijos Juan y Luis. Velasco Callejas de 1575 tiene marido Melchor Pérez; Velasco Ramos, fallecida en Ciudad Rodrigo en 1696, tiene Domingo Gallego. Ninguna tarjeta ofrece los vínculos buscados."
+    },
+    {
+      "personId": "domingo-lorenzo-padre-de-maria-lorenzo",
+      "query": "Domingo Lorenzo",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Domingo+ln.Lorenzo",
+      "resultsTotal": 2387521,
+      "cardsReviewed": 19,
+      "finding": "Sin María Rubiano ni la hija María de Malillos de 1634. Se revisaron todas las fechas y parejas visibles, incluidas las tarjetas tardías; Domingo Lorenzo de La Palma de 1600 sigue con Ana Francisca y otra descendencia."
+    },
+    {
+      "personId": "maria-rubiano-madre-de-maria-lorenzo",
+      "query": "María Rubiano",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Mar%C3%ADa+ln.Rubiano",
+      "resultsTotal": 2762026,
+      "cardsReviewed": 20,
+      "finding": "Sin Domingo Lorenzo ni María de Malillos. Las familias de Berlanga y Karrantza mantienen otras parejas y descendencia; también se cotejaron los vínculos visibles de las tarjetas con fechas tardías."
+    },
+    {
+      "personId": "jose-amador-padre-de-pedro-amador",
+      "query": "José Amador",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Jos%C3%A9+ln.Amador",
+      "resultsTotal": 1991502,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina Tejedor ni Bermillo de Sayago. La tarjeta de ramosrodriguez dice 1592 estimado a partir de una confirmación de 1596, pero sigue sin localidad, esposa o hijos. Las otras tarjetas no aportan dos vínculos familiares o geográficos que permitan una identificación."
+    },
+    {
+      "personId": "catalina-tejedor-madre-de-pedro-amador",
+      "query": "Catalina Tejedor",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.Tejedor",
+      "resultsTotal": 76894,
+      "cardsReviewed": 20,
+      "finding": "Sin José Amador, Pedro Amador Tejedor ni Bermillo. Se conservaron los calificadores antes de 1520 y antes de 1600/1606/1611, y se cotejaron parejas e hijos. Las familias de Fuentepelayo, Villanuño y La Seca no identifican a la buscada."
+    },
+    {
+      "personId": "juan-pinto-padre-de-maria-pinto",
+      "query": "Juan Pinto",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Juan+ln.Pinto",
+      "resultsTotal": 2676855,
+      "cardsReviewed": 20,
+      "finding": "Sin Catalina de la Calle ni María Pinto. Se revisó la fecha literal «calc bef 1771» de Juan Pinto Sagastume como calculada antes de 1771, no como nacimiento en 1771; esta tarjeta ofrece Chiquimula, Petrona Archila Morales y otra descendencia. Tampoco se identificó la familia en las demás tarjetas."
+    }
+  ],
+  "previousAccessStops": [
+    {
+      "date": "2026-11-19",
+      "personId": "gracia-cirarrusta-gaztelueta",
+      "query": "Gracia Ciarrusta Gaztelueta",
+      "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Gracia+ln.Ciarrusta%2F3Gaztelueta",
+      "reason": "Du har nådd den maksimale daglige bruksgrensen for denne funksjonen.",
+      "action": "Detención inmediata. No se cierra el aviso ni se intenta otra ruta. La variante bloqueada no se cuenta como revisada; la consulta original de Gracia ya estaba revisada. No se presume cuándo se restablecerá el acceso."
+    }
+  ],
+  "accessStop": {
+    "date": "2026-11-19",
+    "observedAt": "2026-11-19T13:03:32Z",
+    "personId": "catalina-de-la-calle-madre-de-maria-pinto",
+    "query": "Catalina de la Calle",
+    "url": "https://www.myheritage.no/research/collection/myheritage-family-trees/colid-1?s=1&formId=master&formMode=1&action=query&qname=Name+fn.Catalina+ln.de%2F3la%2F3Calle",
+    "reason": "Du har nådd den maksimale daglige bruksgrensen for denne funksjonen.",
+    "action": "Detención inmediata tras un nuevo límite de uso. No se cierra el aviso ni se intenta otra ruta. La relectura de Catalina se interrumpe y no se cuenta como completada; Martín Herrero no se vuelve a consultar. Las búsquedas iniciales de ambos ya estaban revisadas. No se presume cuándo se restablecerá el acceso."
+  },
+  "followUpPending": [
+    {
+      "personId": "catalina-de-la-calle-madre-de-maria-pinto",
+      "query": "Catalina de la Calle",
+      "kind": "date-and-family-recheck",
+      "status": "blocked",
+      "reason": "La consulta original ya estaba revisada; solo queda pendiente la relectura de fechas y vínculos familiares. El nuevo límite impidió completarla."
+    },
+    {
+      "personId": "martin-herrero-padre-de-maria-herrero",
+      "query": "Martín Herrero",
+      "kind": "date-and-family-recheck",
+      "status": "not-attempted",
+      "reason": "La consulta original ya estaba revisada. No se volvió a consultar para la relectura de fechas y vínculos después del nuevo límite."
+    }
+  ],
+  "applied": [
+    {
+      "personId": "juan-fuldain-amezqueta",
+      "change": "Observación con enlace al perfil de Errasti Chinchurreta; sin padres ni fechas nuevos."
+    },
+    {
+      "personId": "antonia-egurbide-zigorondo",
+      "change": "Observación con enlace al perfil de Errasti Chinchurreta; sin padres ni fechas nuevos."
+    },
+    {
+      "personId": "maria-fuldain-egurbide",
+      "change": "Observación con enlace al perfil de Errasti Chinchurreta, concordante con los padres, nacimiento y marido existentes."
+    },
+    {
+      "personId": "joan-landaburu-guridi",
+      "change": "Observación con enlace a Sitio Familiar, concordante con el matrimonio y cuatro hijos conocidos. No se modifica el nombre ni se añade nacimiento."
+    },
+    {
+      "personId": "anna-guinea",
+      "change": "Observación con enlace a Sitio Familiar, concordante con el matrimonio y cuatro hijos conocidos. No se añade nacimiento."
+    }
+  ]
+}
