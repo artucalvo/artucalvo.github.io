@@ -89,6 +89,14 @@
       "source": "https://www.cartociudad.es/geocoder/api/geocoder/find?q=La+Tuda%2C+La+Tuda+%28Pereruela%29"
     },
     {
+      "name": "Las Enillas",
+      "province": "Zamora",
+      "municipality": "Pereruela",
+      "latitude": 41.404255555556,
+      "longitude": -5.8360194444444,
+      "source": "https://es.wikipedia.org/wiki/Las_Enillas"
+    },
+    {
       "name": "Malillos",
       "province": "Zamora",
       "municipality": "Pereruela",

@@ -804,10 +804,11 @@
     },
     {
       "id": "pedro-palmero",
-      "name": "Pedro Palmero",
+      "name": "Pedro Palmero Gallego",
       "givenNames": "Pedro",
       "surnames": [
-        "Palmero"
+        "Palmero",
+        "Gallego"
       ],
       "father": "juan-palmero",
       "mother": "francisca-gallego-madre-de-pedro-palmero",
@@ -822,6 +823,9 @@
           "spouse": "felipa-martinez-bobillo",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -1324,10 +1328,11 @@
     },
     {
       "id": "francisco-junquera",
-      "name": "Francisco Junquera",
+      "name": "Francisco Junquera Baladrón",
       "givenNames": "Francisco",
       "surnames": [
-        "Junquera"
+        "Junquera",
+        "Baladrón"
       ],
       "father": "joaquin-junquera",
       "mother": "maria-baladron",
@@ -1342,14 +1347,18 @@
           "spouse": "teresa-bobo",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
       "id": "teresa-bobo",
-      "name": "Teresa Bobo",
+      "name": "Teresa Bobo Nieto",
       "givenNames": "Teresa",
       "surnames": [
-        "Bobo"
+        "Bobo",
+        "Nieto"
       ],
       "father": "pedro-bobo-blanco",
       "mother": "francisca-nieto-blanco",
@@ -1364,6 +1373,9 @@
           "spouse": "francisco-junquera",
           "place": "Villardeciervos"
         }
+      ],
+      "observations": [
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -12864,10 +12876,11 @@
     },
     {
       "id": "maria-bragado",
-      "name": "María Bragado",
+      "name": "María Bragado Esteban",
       "givenNames": "María",
       "surnames": [
-        "Bragado"
+        "Bragado",
+        "Esteban"
       ],
       "birth": {
         "place": "Villaralbo",
@@ -12899,7 +12912,8 @@
         }
       ],
       "observations": [
-        "Su perfil en el Árbol Familiar de FamilySearch, que no cita fuentes, la llama María Bragado Esteban y la da por nacida en noviembre de 1685 y bautizada el 5 de diciembre en Nuestra Señora de la Asunción de Villaralbo, casada el 26 de mayo de 1715 en Santa María Magdalena de Moraleja del Vino con Miguel Avedillo Montalvo, e hija de Alonso Bragado Prieto y Manuela Esteban Martín. Coincide con este árbol en el marido, los hijos Alonso y Antonio y el entierro del 20 de septiembre de 1755: https://www.familysearch.org/ark:/61903/4:1:G9CV-DT7"
+        "Su perfil en el Árbol Familiar de FamilySearch, que no cita fuentes, la llama María Bragado Esteban y la da por nacida en noviembre de 1685 y bautizada el 5 de diciembre en Nuestra Señora de la Asunción de Villaralbo, casada el 26 de mayo de 1715 en Santa María Magdalena de Moraleja del Vino con Miguel Avedillo Montalvo, e hija de Alonso Bragado Prieto y Manuela Esteban Martín. Coincide con este árbol en el marido, los hijos Alonso y Antonio y el entierro del 20 de septiembre de 1755: https://www.familysearch.org/ark:/61903/4:1:G9CV-DT7",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -14669,10 +14683,11 @@
     },
     {
       "id": "domingo-fierro",
-      "name": "Domingo Fierro",
+      "name": "Domingo Fierro Díez",
       "givenNames": "Domingo",
       "surnames": [
-        "Fierro"
+        "Fierro",
+        "Díez"
       ],
       "birth": {
         "date": "1678-03-28",
@@ -14704,7 +14719,8 @@
         "Su perfil en el árbol de FamilySearch cita ese mismo pleito y lo da por bautizado el 28 de marzo de 1678: https://www.familysearch.org/ark:/61903/4:1:G86H-5LK",
         "El padrón de hidalgos de Cármenes de 1698, copiado en el pleito de su hijo José, lo nombra con su hermano, el licenciado don José Fierro, como «menores que quedaron de domingo fierro su padre y de Toribia diez lobo»: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
         "Su boda de 1713 en Malillos, copiada en el pleito de su hijo José, la celebró «D. Joseph fierro Castañón, cura propio del lugar de fresnadillo», que también bautizó a un hijo suyo en Gáname en 1714 y que, por el apellido, pudo ser pariente suyo; la madrina fue Josefa de Olmedo, vecina de Gáname: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2QF",
-        "El Catastro de Ensenada de Gáname (1751-1753) le atribuye un molino de una muela, que le rendía tres cargas de centeno al año, y otro a medias con Pascual Lucas, de dos cargas y media, y nombra una cortina suya: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VD93 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VNZ7"
+        "El Catastro de Ensenada de Gáname (1751-1753) le atribuye un molino de una muela, que le rendía tres cargas de centeno al año, y otro a medias con Pascual Lucas, de dos cargas y media, y nombra una cortina suya: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VD93 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-VNZ7",
+        "Segundo apellido deducido del de su madre."
       ],
       "father": "domingo-fierro-padre-de-domingo-fierro",
       "mother": "toribia-diez"
@@ -14726,10 +14742,11 @@
     },
     {
       "id": "domingo-fierro-padre-de-domingo-fierro",
-      "name": "Domingo Fierro",
+      "name": "Domingo Fierro Díez",
       "givenNames": "Domingo",
       "surnames": [
-        "Fierro"
+        "Fierro",
+        "Díez"
       ],
       "father": "juan-fierro",
       "birth": {
@@ -14748,7 +14765,8 @@
         "Vecino de Cármenes e hidalgo en los padrones de 1674, 1680 y 1686, según el pleito de hidalguía de su nieto José Fierro (Real Chancillería de Valladolid, 1735): https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/468255",
         "Su perfil en el árbol de FamilySearch: https://www.familysearch.org/ark:/61903/4:1:P8YQ-R1R",
         "Según el padrón de hidalgos de Cármenes de 1698, copiado en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, ya había muerto entonces: declara «que conocen al Lizdo. D. Joseph fierro y a Domingo fierro su hermano, menores que quedaron de domingo fierro su padre y de Toribia diez lobo», hidalgos de la casa de los Fierros de Cármenes, de la de Nembra, de la de Arintero y del solar de Getino: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK7K",
-        "Su partida de bautismo, copiada en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, dice que fue hijo de Juan Fierro Velasco y de Toribia Díez: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK15"
+        "Su partida de bautismo, copiada en el expediente del pleito de hidalguía de José Fierro (Real Chancillería de Valladolid, Sala de Hijosdalgo, caja 1091,68), que FamilySearch tiene digitalizado y transcrito, dice que fue hijo de Juan Fierro Velasco y de Toribia Díez: https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-X2PZ https://www.familysearch.org/ark:/61903/3:1:3QS7-89PH-XK15",
+        "Segundo apellido deducido del de su madre."
       ],
       "mother": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro"
     },
@@ -17512,10 +17530,11 @@
     },
     {
       "id": "juan-sanchez",
-      "name": "Juan Sánchez",
+      "name": "Juan Sánchez Pérez",
       "givenNames": "Juan",
       "surnames": [
-        "Sánchez"
+        "Sánchez",
+        "Pérez"
       ],
       "origins": [
         "El Cubo del Vino"
@@ -17529,6 +17548,9 @@
           "place": "El Cubo del Vino",
           "transcription": "Año de 1695.\n\nJuan y María.\n\nEn veinte y ocho días del mes de Agosto de 1695 yo el cura propio desta villa del Cubo desposé in facie eclesie a Juan Sánchez mozo libre, hijo lexítimo de Domingo Sánchez y de María Pérez difuntos y vecinos que fueron del lugar de Cabañas, y a María Gómez viuda de Alonso Antón, vecino que fue de dha villa, y lo firmé en dho día en dha villa. Santiago Martín."
         }
+      ],
+      "observations": [
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -18102,10 +18124,11 @@
     },
     {
       "id": "domingo-villar",
-      "name": "Domingo Villar",
+      "name": "Domingo Villar Salero",
       "givenNames": "Domingo",
       "surnames": [
-        "Villar"
+        "Villar",
+        "Salero"
       ],
       "origins": [
         "Abelón"
@@ -18137,7 +18160,8 @@
       },
       "observations": [
         "La partida de entierro lo llama pobre y dice que solo recibió la santa unción, porque la enfermedad no dio lugar a más, y que no hizo testamento por no tener de qué.",
-        "El Catastro de Ensenada recoge su declaración del 27 de septiembre de 1751 como vecino de Abelón y guarda del campo: dice tener 40 años y vivir, sin mujer, con sus hijos María (14), Josefa (11) y Domingo (9). Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQK-P"
+        "El Catastro de Ensenada recoge su declaración del 27 de septiembre de 1751 como vecino de Abelón y guarda del campo: dice tener 40 años y vivir, sin mujer, con sus hijos María (14), Josefa (11) y Domingo (9). Firma a su ruego un testigo: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGJ-ZSQK-P",
+        "Segundo apellido deducido del de su madre."
       ],
       "occupations": [
         {
@@ -18543,10 +18567,11 @@
     },
     {
       "id": "fernando-galan",
-      "name": "Fernando Galán",
+      "name": "Fernando Galán Mateo",
       "givenNames": "Fernando",
       "surnames": [
-        "Galán"
+        "Galán",
+        "Mateo"
       ],
       "birth": {
         "place": "Peleas de Arriba"
@@ -18561,7 +18586,8 @@
         }
       ],
       "observations": [
-        "La partida de matrimonio de 1722 llama a la contrayente Isabel Pérez, hija de Santiago Pérez y Ana Bailón; la partida de bautismo de su hija Engracia y las de entierro de ambos llaman a su mujer Francisca Pérez."
+        "La partida de matrimonio de 1722 llama a la contrayente Isabel Pérez, hija de Santiago Pérez y Ana Bailón; la partida de bautismo de su hija Engracia y las de entierro de ambos llaman a su mujer Francisca Pérez.",
+        "Segundo apellido deducido del de su madre."
       ],
       "burial": {
         "date": "1749-04-22",
@@ -19612,6 +19638,9 @@
       "givenNames": "Juan",
       "surnames": [
         "Galán"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19620,6 +19649,9 @@
       "givenNames": "María",
       "surnames": [
         "Méndez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19668,6 +19700,9 @@
       "givenNames": "Luis",
       "surnames": [
         "Gaitán"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19676,6 +19711,9 @@
       "givenNames": "Micaela",
       "surnames": [
         "Hernández"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19719,6 +19757,9 @@
       "givenNames": "Andrés",
       "surnames": [
         "Delgado"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19727,6 +19768,9 @@
       "givenNames": "Isabel",
       "surnames": [
         "de Vergara"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19842,6 +19886,9 @@
       "givenNames": "Antón",
       "surnames": [
         "Vara"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -19850,14 +19897,18 @@
       "givenNames": "Isabel",
       "surnames": [
         "Nieto"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
       "id": "pedro-carrascal",
-      "name": "Pedro Carrascal",
+      "name": "Pedro Carrascal Hernández",
       "givenNames": "Pedro",
       "surnames": [
-        "Carrascal"
+        "Carrascal",
+        "Hernández"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -19872,7 +19923,10 @@
         }
       ],
       "father": "alonso-carrascal",
-      "mother": "catalina-hernandez-madre-de-pedro-carrascal"
+      "mother": "catalina-hernandez-madre-de-pedro-carrascal",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "alonso-carrascal",
@@ -19892,10 +19946,11 @@
     },
     {
       "id": "ines-bragado",
-      "name": "Inés Bragado",
+      "name": "Inés Bragado Gallego",
       "givenNames": "Inés",
       "surnames": [
-        "Bragado"
+        "Bragado",
+        "Gallego"
       ],
       "marriages": [
         {
@@ -19910,7 +19965,10 @@
         "place": "Morales del Vino"
       },
       "father": "alonso-bragado",
-      "mother": "maria-gallego"
+      "mother": "maria-gallego",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "alonso-bragado",
@@ -19930,10 +19988,11 @@
     },
     {
       "id": "alonso-de-trigo",
-      "name": "Alonso Trigo",
+      "name": "Alonso Trigo Carrascal",
       "givenNames": "Alonso",
       "surnames": [
-        "Trigo"
+        "Trigo",
+        "Carrascal"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -19950,7 +20009,8 @@
         }
       ],
       "observations": [
-        "La partida de matrimonio de 1666 lo llama viudo de Francisca Bueno."
+        "La partida de matrimonio de 1666 lo llama viudo de Francisca Bueno.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -20006,6 +20066,9 @@
       "surnames": [
         "Méndez"
       ],
+      "origins": [
+        "Casaseca de las Chanas"
+      ],
       "observations": [
         "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185"
       ]
@@ -20016,6 +20079,9 @@
       "givenNames": "María",
       "surnames": [
         "Martín"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ],
       "observations": [
         "El 12 de agosto de 1630 la Real Chancillería de Valladolid expidió la ejecutoria del pleito que Lorenzo Rodríguez, el mozo, vecino de El Perdigón, siguió con «Luis Méndez y su mujer, María Martín, vecinos de Casaseca de las Chanas»; el pleito, fechado entre 1607 y 1630, se conserva entre los civiles de la misma Chancillería: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/5759041 https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/192185",
@@ -20054,6 +20120,9 @@
       "givenNames": "Pedro",
       "surnames": [
         "Madaleno"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -20675,6 +20744,9 @@
       "givenNames": "Benito",
       "surnames": [
         "Martín"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -20683,6 +20755,9 @@
       "givenNames": "María",
       "surnames": [
         "Delgado"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -20762,6 +20837,9 @@
       "givenNames": "Alonso",
       "surnames": [
         "Valencia"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -20770,6 +20848,9 @@
       "givenNames": "Catalina",
       "surnames": [
         "Celenque"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -21418,10 +21499,11 @@
     },
     {
       "id": "francisca-franco",
-      "name": "Francisca Franco",
+      "name": "Francisca Franco Palacios",
       "givenNames": "Francisca",
       "surnames": [
-        "Franco"
+        "Franco",
+        "Palacios"
       ],
       "birth": {
         "place": "Corrales del Vino"
@@ -21435,7 +21517,10 @@
       "burial": {
         "date": "1729-11",
         "transcription": "En [ilegible] de Noviembre año de mil setecientos y veinte y nueve aviendo recibido los santos sacramentos se enterró en esta Yglesia Francisca Franco muger que fue de Agustín Valladolid difunto. Hizo testamento ante Atilano Alonso Vº deste lugar en el qual mandó [ilegible] enterrarse en esta Yglesia y con el hábito de [ilegible] que a su entierro y oficios ardiesen quatro achas y la cera menuda necesaria y que a ellos asistiese el cura de lugar [ilegible] y que se le tome Bulla de difuntos [ilegible]. [ilegible] y para que conste lo firmo en dicho día mes y año. Andrés Sánchez."
-      }
+      },
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "bartolome-franco",
@@ -21946,10 +22031,11 @@
     },
     {
       "id": "lucas-pereruela",
-      "name": "Lucas Pereruela",
+      "name": "Lucas Pereruela Lucas",
       "givenNames": "Lucas",
       "surnames": [
-        "Pereruela"
+        "Pereruela",
+        "Lucas"
       ],
       "birth": {
         "date": "1644-10-27",
@@ -21962,7 +22048,10 @@
         "date": "1644-10-27",
         "place": "Malillos",
         "transcription": "Lucas.\n\nEn 27 días del mes de otubre de 644 años yo Dn Antonio de Valencia, cura propio desta parroquial de Malillos, bapticé a Lucas, hijo de Miguel de Pereruela y de su muger Lucía Lucas; fue su padrino Domingo Lorenço, vºs deste lugar todos, y en fee dello lo firmé ut supra. Dn Antonio de Valencia."
-      }
+      },
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "miguel-de-pereruela",
@@ -22456,10 +22545,11 @@
     },
     {
       "id": "andres-morales",
-      "name": "Andrés Morales",
+      "name": "Andrés Morales Diego",
       "givenNames": "Andrés",
       "surnames": [
-        "Morales"
+        "Morales",
+        "Diego"
       ],
       "birth": {
         "place": "Abelón"
@@ -22485,7 +22575,8 @@
         }
       ],
       "observations": [
-        "Sus padres, Matías Morales y María Diego, y las fechas de sus dos matrimonios constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:G76X-6N3"
+        "Sus padres, Matías Morales y María Diego, y las fechas de sus dos matrimonios constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:G76X-6N3",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -23040,10 +23131,11 @@
     },
     {
       "id": "bernardo-gaspar",
-      "name": "Bernardo Gaspar",
+      "name": "Bernardo Gaspar de Olmedo",
       "givenNames": "Bernardo",
       "surnames": [
-        "Gaspar"
+        "Gaspar",
+        "de Olmedo"
       ],
       "birth": {
         "date": "1688-02-14",
@@ -23071,7 +23163,8 @@
       },
       "observations": [
         "La partida de bautismo nombra a su madre Josepha de Olmedo; la de entierro dice «Theresa Olmedo su madre», expresión que podría referirse a la madre de su mujer Ana. La discrepancia queda pendiente de revisión.",
-        "El árbol FAMILIA PIORNO FERNANDEZ coincide en la mujer, los padres y la hija Teresa, y da su boda el 4 de enero de 1708 en Fadón; no se ha comprobado la partida. El entierro de Bernardo en 1729 fija un límite anterior al del perfil de ese árbol: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-33&action=showRecord"
+        "El árbol FAMILIA PIORNO FERNANDEZ coincide en la mujer, los padres y la hija Teresa, y da su boda el 4 de enero de 1708 en Fadón; no se ha comprobado la partida. El entierro de Bernardo en 1729 fija un límite anterior al del perfil de ese árbol: https://www.myheritage.es/research/collection/myheritage-family-trees/colid-1?itemId=OYYV724UR6NIKK5CVBDGRCSWOUJDNQA-1-33&action=showRecord",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -23353,10 +23446,11 @@
     },
     {
       "id": "manuel-marques-padre-de-isabel-marques",
-      "name": "Manuel Marqués",
+      "name": "Manuel Marqués Nieto",
       "givenNames": "Manuel",
       "surnames": [
-        "Marqués"
+        "Marqués",
+        "Nieto"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -23364,7 +23458,8 @@
       "father": "diego-marques-padre-de-manuel-marques",
       "mother": "maria-nieto-madre-de-manuel-marques",
       "observations": [
-        "La partida de bautismo de su hija Isabel (12-11-1705) lo llama familiar del Santo Oficio."
+        "La partida de bautismo de su hija Isabel (12-11-1705) lo llama familiar del Santo Oficio.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -23893,10 +23988,11 @@
     },
     {
       "id": "manuel-de-mena",
-      "name": "Manuel de Mena",
+      "name": "Manuel de Mena Martín",
       "givenNames": "Manuel",
       "surnames": [
-        "de Mena"
+        "de Mena",
+        "Martín"
       ],
       "birth": {
         "place": "Morales del Vino"
@@ -23914,7 +24010,8 @@
       "mother": "catalina-martin-madre-de-manuel-de-mena",
       "observations": [
         "La partida de matrimonio de su hijo Alonso (22-04-1720) lo da por difunto.",
-        "La partida de su matrimonio con Isabel de San Pedro (21-02-1689) lo llama viudo de Catalina de las Mulas; el apellido se lee con reservas."
+        "La partida de su matrimonio con Isabel de San Pedro (21-02-1689) lo llama viudo de Catalina de las Mulas; el apellido se lee con reservas.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -24112,10 +24209,11 @@
     },
     {
       "id": "maria-pinto",
-      "name": "María Pinto",
+      "name": "María Pinto de la Calle",
       "givenNames": "María",
       "surnames": [
-        "Pinto"
+        "Pinto",
+        "de la Calle"
       ],
       "father": "juan-pinto-padre-de-maria-pinto",
       "marriages": [
@@ -24127,15 +24225,17 @@
       ],
       "mother": "catalina-de-la-calle-madre-de-maria-pinto",
       "observations": [
-        "La partida de matrimonio de su hijo Jerónimo (03-03-1714) la da por difunta."
+        "La partida de matrimonio de su hijo Jerónimo (03-03-1714) la da por difunta.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
       "id": "teresa-arroyo",
-      "name": "Teresa Arroyo",
+      "name": "Teresa Arroyo Madrid",
       "givenNames": "Teresa",
       "surnames": [
-        "Arroyo"
+        "Arroyo",
+        "Madrid"
       ],
       "marriages": [
         {
@@ -24150,7 +24250,10 @@
         "place": "Morales del Vino"
       },
       "father": "diego-de-arroyo",
-      "mother": "maria-madrid"
+      "mother": "maria-madrid",
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "diego-de-arroyo",
@@ -24248,10 +24351,11 @@
     },
     {
       "id": "maria-herrero-madre-de-ana-ma-de-chaves",
-      "name": "María Herrero",
+      "name": "María Herrero de Herrera",
       "givenNames": "María",
       "surnames": [
-        "Herrero"
+        "Herrero",
+        "de Herrera"
       ],
       "father": "martin-herrero-padre-de-maria-herrero",
       "mother": "maria-herrera-madre-de-maria-herrero",
@@ -24263,7 +24367,10 @@
       "birth": {
         "date": "1638-09-01",
         "note": "La fecha es la del bautismo; no consta la del nacimiento."
-      }
+      },
+      "observations": [
+        "Segundo apellido deducido del de su madre."
+      ]
     },
     {
       "id": "jose-santiago",
@@ -24281,10 +24388,11 @@
     },
     {
       "id": "mariana-rodriguez",
-      "name": "Mariana Rodríguez",
+      "name": "Mariana Rodríguez Herrero",
       "givenNames": "Mariana",
       "surnames": [
-        "Rodríguez"
+        "Rodríguez",
+        "Herrero"
       ],
       "birth": {
         "place": "Carrascal",
@@ -24296,7 +24404,8 @@
         "maria-rodriguez-hermano-de-mariana-rodriguez"
       ],
       "observations": [
-        "La partida de matrimonio de su hija Manuela (21-03-1723) la da por difunta, vecina que fue de Carrascal."
+        "La partida de matrimonio de su hija Manuela (21-03-1723) la da por difunta, vecina que fue de Carrascal.",
+        "Segundo apellido deducido del de su madre."
       ],
       "mother": "maria-herrero-madre-de-mariana-rodriguez",
       "baptism": {
@@ -27243,10 +27352,11 @@
     },
     {
       "id": "domingo-garrote-padre-de-domingo-garrote-ortijo",
-      "name": "Domingo Garrote",
+      "name": "Domingo Garrote Gabriel",
       "givenNames": "Domingo",
       "surnames": [
-        "Garrote"
+        "Garrote",
+        "Gabriel"
       ],
       "birth": {
         "place": "Abelón"
@@ -27255,15 +27365,17 @@
       "mother": "catalina-gabriel",
       "observations": [
         "Su perfil en el Árbol Familiar de FamilySearch lo llama Domingo Garrote Gabriel, nacido hacia 1649, hijo de Juan Garrote y Catalina Gabriel, y cita su partida de matrimonio con Inés Ortijo Blanco; da la boda en Abelón el 23 de junio de 1669, aunque la fuente está fechada en 1679: https://www.familysearch.org/ark:/61903/4:1:L5P7-H4Q",
-        "En este árbol, un Bartolomé Garrote apadrinó en 1681 a su hijo Domingo, y Catalina Gabriel nombró testamentario a un Domingo Garrote en 1702."
+        "En este árbol, un Bartolomé Garrote apadrinó en 1681 a su hijo Domingo, y Catalina Gabriel nombró testamentario a un Domingo Garrote en 1702.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
       "id": "ines-ortijo",
-      "name": "Inés Ortijo",
+      "name": "Inés Ortijo Blanco",
       "givenNames": "Inés",
       "surnames": [
-        "Ortijo"
+        "Ortijo",
+        "Blanco"
       ],
       "birth": {
         "date": "1657-01-14",
@@ -27288,7 +27400,8 @@
         "transcription": "Ynés Ortijo. Cumplido.\n\nEn seis de diciembre de mill setecientos y quatro años se enterró en esta parroquial de Señor San Martín Ynés Ortijo, la qual se enterró junto a la pila [ilegible]; recibió los santos sacramentos; hizo testamento; [ilegible]; fueron sus testamentarios Juan Ortijo y su hijo Domingo Garrote, y para que conste lo firmé en dicho día, mes y año. Joseph Carrión Cossano."
       },
       "observations": [
-        "La partida de entierro (06-12-1704) nombra testamentarios a Juan Ortijo y a su hijo Domingo Garrote."
+        "La partida de entierro (06-12-1704) nombra testamentarios a Juan Ortijo y a su hijo Domingo Garrote.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -28246,6 +28359,9 @@
       "surnames": [
         "de la Iglesia"
       ],
+      "origins": [
+        "Tardobispo"
+      ],
       "observations": [
         "La partida de matrimonio de su hija Manuela (18-11-1693) lo da por difunto."
       ]
@@ -28656,6 +28772,9 @@
       "surnames": [
         "Pérez"
       ],
+      "origins": [
+        "Tardobispo"
+      ],
       "marriages": [
         {
           "spouse": "ana-de-luelmo",
@@ -28741,10 +28860,11 @@
     },
     {
       "id": "alonso-blanco-padre-de-jose-blanco",
-      "name": "Alonso Blanco",
+      "name": "Alonso Blanco Martín",
       "givenNames": "Alonso",
       "surnames": [
-        "Blanco"
+        "Blanco",
+        "Martín"
       ],
       "father": "ascensio-blanco-padre-de-alonso-blanco",
       "mother": "maria-martin-madre-de-alonso-blanco",
@@ -28761,7 +28881,8 @@
       ],
       "observations": [
         "Su nacimiento, su matrimonio y sus padres, Ascensio Blanco y María Martín, constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-BVK",
-        "Ese perfil lo llama Alonso Asensio Blanco Martín y le da siete hijos con Manuela Crespo."
+        "Ese perfil lo llama Alonso Asensio Blanco Martín y le da siete hijos con Manuela Crespo.",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -28811,10 +28932,11 @@
     },
     {
       "id": "manuela-crespo",
-      "name": "Manuela Crespo",
+      "name": "Manuela Crespo Pascual",
       "givenNames": "Manuela",
       "surnames": [
-        "Crespo"
+        "Crespo",
+        "Pascual"
       ],
       "father": "sebastian-crespo-padre-de-manuela-crespo",
       "mother": "merenciana-pascual-madre-de-manuela-crespo",
@@ -28830,7 +28952,8 @@
         }
       ],
       "observations": [
-        "Su bautismo, su matrimonio y sus padres, Sebastián Crespo y Merenciana Pascual, constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-BK7"
+        "Su bautismo, su matrimonio y sus padres, Sebastián Crespo y Merenciana Pascual, constan según un perfil del árbol de FamilySearch que no adjunta partidas: https://www.familysearch.org/ark:/61903/4:1:L5CG-BK7",
+        "Segundo apellido deducido del de su madre."
       ]
     },
     {
@@ -29507,13 +29630,15 @@
     },
     {
       "id": "tomasa-bobillo",
-      "name": "Tomasa Bobillo",
+      "name": "Tomasa Bobillo Devesa",
       "givenNames": "Tomasa",
       "surnames": [
-        "Bobillo"
+        "Bobillo",
+        "Devesa"
       ],
       "observations": [
-        "Un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense) la hace hija de Antonio Bobillo y Catalina Devesa, casados a principios del siglo XVIII, y mujer de Francisco Unzueta; no cita las partidas. La familia aceptó esa filiación el 14 de noviembre de 2026: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/"
+        "Un estudio publicado en 2011 sobre las familias de Villardeciervos establecidas en Maside (Ourense) la hace hija de Antonio Bobillo y Catalina Devesa, casados a principios del siglo XVIII, y mujer de Francisco Unzueta; no cita las partidas. La familia aceptó esa filiación el 14 de noviembre de 2026: https://estudiosgenealogicos.wordpress.com/2011/12/15/viaje-a-la-cuna-de-los-cervato-ourensanos-maside-y-las-senas-de-identidad-cervato-zamoranas/",
+        "Segundo apellido deducido del de su madre."
       ],
       "father": "antonio-bobillo-padre-de-tomasa-bobillo",
       "mother": "catalina-devesa-madre-de-tomasa-bobillo"
@@ -30015,6 +30140,9 @@
       "givenNames": "Francisco",
       "surnames": [
         "González"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -30023,6 +30151,9 @@
       "givenNames": "Catalina",
       "surnames": [
         "Pérez"
+      ],
+      "origins": [
+        "Casaseca de las Chanas"
       ]
     },
     {
@@ -34780,16 +34911,18 @@
     },
     {
       "id": "magdalena-amador",
-      "name": "Magdalena Amador",
+      "name": "Magdalena Amador Mayoral",
       "givenNames": "Magdalena",
       "surnames": [
-        "Amador"
+        "Amador",
+        "Mayoral"
       ],
       "origins": [
         "Malillos"
       ],
       "observations": [
-        "La partida de bautismo de su nieto Francisco Sastre (1751) la llama Madalena Amadora y la da por difunta, como a su marido, … de las Heras, cuyo nombre no se lee; los dos eran naturales de Malillos."
+        "La partida de bautismo de su nieto Francisco Sastre (1751) la llama Madalena Amadora y la da por difunta, como a su marido, … de las Heras, cuyo nombre no se lee; los dos eran naturales de Malillos.",
+        "Segundo apellido deducido del de su madre."
       ],
       "father": "pedro-amador-padre-de-magdalena-amador",
       "mother": "manuela-mayoral-madre-de-magdalena-amador",
@@ -36209,6 +36342,9 @@
       "surnames": [
         "Roncero"
       ],
+      "origins": [
+        "Las Enillas"
+      ],
       "observations": [
         "La partida de bautismo de su hijo Juan (Tardobispo, 03-09-1657) lo llama, con reservas de lectura, Martín Roncero."
       ]
@@ -36219,6 +36355,9 @@
       "givenNames": "María",
       "surnames": [
         "de Herrera"
+      ],
+      "origins": [
+        "Las Enillas"
       ],
       "observations": [
         "La partida de bautismo de su hijo Juan (Tardobispo, 03-09-1657) la llama María Herrera, mujer de Martín Roncero."
@@ -36284,15 +36423,17 @@
     },
     {
       "id": "pedro-amador-padre-de-magdalena-amador",
-      "name": "Pedro Amador",
+      "name": "Pedro Amador Tejedor",
       "givenNames": "Pedro",
       "surnames": [
-        "Amador"
+        "Amador",
+        "Tejedor"
       ],
       "father": "jose-amador-padre-de-pedro-amador",
       "mother": "catalina-tejedor-madre-de-pedro-amador",
       "observations": [
-        "La partida de su matrimonio con Manuela Mayoral (Malillos, 06-03-1679) lo llama hijo de José Amador y de Catalina Tejedor, vecinos de Bermillo."
+        "La partida de su matrimonio con Manuela Mayoral (Malillos, 06-03-1679) lo llama hijo de José Amador y de Catalina Tejedor, vecinos de Bermillo.",
+        "Segundo apellido deducido del de su madre."
       ],
       "marriages": [
         {

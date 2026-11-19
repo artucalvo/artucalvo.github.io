@@ -1,0 +1,462 @@
+{
+  "schemaVersion": 1,
+  "batch": "Cotejo del árbol Calvo Devesa de MyHeritage, 19-11-2026",
+  "reviewedOn": "2026-11-19",
+  "tree": {
+    "service": "MyHeritage",
+    "name": "Calvo Devesa",
+    "url": "https://www.myheritage.es/family-trees/calvo-devesa/OYYV7LMRB4CODC6LCEEXIR55IBAAMJI?rootIndividualID=1000021&familyTreeID=1",
+    "origin": "Árbol creado hace años por la propia familia.",
+    "scope": "250 personas, todas de la ascendencia de Bernardo Calvo Brioso. Él y su madre, Rosario Brioso de las Heras, figuran como privados. El árbol parte de Nicanor Calvo Piorno."
+  },
+  "method": [
+    "Se descargaron las 250 fichas del árbol (nombres, hechos con fecha, lugar y nota, y familias) desde la sesión de la familia.",
+    "Se emparejaron con records.json por estructura, partiendo de Bernardo Calvo Brioso, Nicanor Calvo Piorno y Rosario Brioso de las Heras y siguiendo padres, cónyuges e hijos: 244 de las 250 tienen ficha local.",
+    "Se compararon nombres, fechas, lugares y notas. Las discrepancias se cotejaron con los resúmenes familiares (DOCX y ODT de Register Data), con las transcripciones de las fotografías y, en los casos dudosos, con las imágenes originales.",
+    "Regla aplicada: si las fuentes no resuelven una discrepancia, prevalece el árbol local."
+  ],
+  "coverage": {
+    "matched": 244,
+    "unmatched": 6,
+    "unmatchedDetail": "Cinco son padres que el árbol local no enlaza a propósito: Francisco Hernández y Catalina Lorenzo, Antonio Martín e Inés Martín, y María Rubio (ver keptLocal). La sexta, Juan Rodríguez Pérez (1000208), es la ficha local juan-rodriguez-perez. El emparejamiento automático asignó esa ficha al padre que MyHeritage da a Isabel Rodríguez, Alonso Rodríguez Corralino, de otra rama.",
+    "localOnlyParents": "El árbol local es más completo: 67 personas emparejadas no tienen padres en MyHeritage y sí en records.json.",
+    "names": "MyHeritage abrevia muchos nombres (sin segundos nombres de pila ni segundo apellido) y escribe «Pradas», «de Prada» o «Mena» sin partícula. Se conservan las formas locales, que siguen las partidas y las convenciones del README."
+  },
+  "applied": {
+    "origins": {
+      "rule": "MyHeritage da como lugar de nacimiento, sin fecha, el pueblo donde fueron bautizados sus hijos. Ninguna partida da ese nacimiento, así que el pueblo se registra como lugar de referencia (origins), no como nacimiento. Los bautismos de los hijos los sitúan allí («vºs deste lugar», «mis feligreses»), y la ejecutoria de 1630 llama a Luis Méndez y María Martín vecinos de Casaseca de las Chanas. En el caso de Martín Roncero y María de Herrera, la familia identificó como Las Enillas el anexo de Tardobispo que no se lee en el bautismo de su hijo.",
+      "people": [
+        {
+          "personId": "juan-galan",
+          "name": "Juan Galán",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "maria-mendez",
+          "name": "María Méndez",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "luis-gaitan-padre-de-domingo-gaitan",
+          "name": "Luis Gaitán",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "micaela-hernandez-madre-de-domingo-gaitan",
+          "name": "Micaela Hernández",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "andres-delgado",
+          "name": "Andrés Delgado",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "isabel-de-vergara",
+          "name": "Isabel de Vergara",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "francisco-gonzalez-padre-de-francisco-gonzalez",
+          "name": "Francisco González",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "catalina-perez",
+          "name": "Catalina Pérez",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "anton-vara",
+          "name": "Antón Vara",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "isabel-nieto",
+          "name": "Isabel Nieto",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "luis-mendez-padre-de-juan-mendez",
+          "name": "Luis Méndez",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "maria-martin-madre-de-juan-mendez",
+          "name": "María Martín",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "pedro-madaleno",
+          "name": "Pedro Madaleno",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "benito-martin",
+          "name": "Benito Martín",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "maria-delgado",
+          "name": "María Delgado",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "alonso-valencia",
+          "name": "Alonso Valencia",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "catalina-celenque",
+          "name": "Catalina Celenque",
+          "place": "Casaseca de las Chanas"
+        },
+        {
+          "personId": "jose-perez-padre-de-jose-perez-luelmo",
+          "name": "José Pérez",
+          "place": "Tardobispo"
+        },
+        {
+          "personId": "miguel-de-la-iglesia",
+          "name": "Miguel de la Iglesia",
+          "place": "Tardobispo"
+        },
+        {
+          "personId": "martin-roncero-padre-de-juan-roncero",
+          "name": "Martín Roncero",
+          "place": "Las Enillas",
+          "source": "https://es.wikipedia.org/wiki/Las_Enillas"
+        },
+        {
+          "personId": "maria-herrera-madre-de-juan-roncero",
+          "name": "María de Herrera",
+          "place": "Las Enillas",
+          "source": "https://es.wikipedia.org/wiki/Las_Enillas"
+        }
+      ]
+    },
+    "secondSurnames": {
+      "rule": "Personas con un solo apellido y con los dos padres enlazados y con apellido: se añade como segundo apellido el primero de la madre, con la observación habitual «Segundo apellido deducido del de su madre.». Los identificadores no cambian.",
+      "people": [
+        {
+          "personId": "pedro-palmero",
+          "before": "Pedro Palmero",
+          "after": "Pedro Palmero Gallego",
+          "motherId": "francisca-gallego-madre-de-pedro-palmero"
+        },
+        {
+          "personId": "francisco-junquera",
+          "before": "Francisco Junquera",
+          "after": "Francisco Junquera Baladrón",
+          "motherId": "maria-baladron"
+        },
+        {
+          "personId": "teresa-bobo",
+          "before": "Teresa Bobo",
+          "after": "Teresa Bobo Nieto",
+          "motherId": "francisca-nieto-blanco"
+        },
+        {
+          "personId": "maria-bragado",
+          "before": "María Bragado",
+          "after": "María Bragado Esteban",
+          "motherId": "manuela-esteban-madre-de-maria-bragado"
+        },
+        {
+          "personId": "domingo-fierro",
+          "before": "Domingo Fierro",
+          "after": "Domingo Fierro Díez",
+          "motherId": "toribia-diez"
+        },
+        {
+          "personId": "domingo-fierro-padre-de-domingo-fierro",
+          "before": "Domingo Fierro",
+          "after": "Domingo Fierro Díez",
+          "motherId": "toribia-diez-madre-de-domingo-fierro-padre-de-domingo-fierro"
+        },
+        {
+          "personId": "juan-sanchez",
+          "before": "Juan Sánchez",
+          "after": "Juan Sánchez Pérez",
+          "motherId": "maria-perez-madre-de-juan-sanchez"
+        },
+        {
+          "personId": "domingo-villar",
+          "before": "Domingo Villar",
+          "after": "Domingo Villar Salero",
+          "motherId": "maria-salero"
+        },
+        {
+          "personId": "fernando-galan",
+          "before": "Fernando Galán",
+          "after": "Fernando Galán Mateo",
+          "motherId": "maria-mateo-madre-de-fernando-galan"
+        },
+        {
+          "personId": "pedro-carrascal",
+          "before": "Pedro Carrascal",
+          "after": "Pedro Carrascal Hernández",
+          "motherId": "catalina-hernandez-madre-de-pedro-carrascal"
+        },
+        {
+          "personId": "ines-bragado",
+          "before": "Inés Bragado",
+          "after": "Inés Bragado Gallego",
+          "motherId": "maria-gallego"
+        },
+        {
+          "personId": "alonso-de-trigo",
+          "before": "Alonso Trigo",
+          "after": "Alonso Trigo Carrascal",
+          "motherId": "catalina-carrascal"
+        },
+        {
+          "personId": "francisca-franco",
+          "before": "Francisca Franco",
+          "after": "Francisca Franco Palacios",
+          "motherId": "ana-palacios"
+        },
+        {
+          "personId": "lucas-pereruela",
+          "before": "Lucas Pereruela",
+          "after": "Lucas Pereruela Lucas",
+          "motherId": "lucia-lucas"
+        },
+        {
+          "personId": "andres-morales",
+          "before": "Andrés Morales",
+          "after": "Andrés Morales Diego",
+          "motherId": "maria-diego-madre-de-andres-morales"
+        },
+        {
+          "personId": "bernardo-gaspar",
+          "before": "Bernardo Gaspar",
+          "after": "Bernardo Gaspar de Olmedo",
+          "motherId": "josefa-de-olmedo"
+        },
+        {
+          "personId": "manuel-marques-padre-de-isabel-marques",
+          "before": "Manuel Marqués",
+          "after": "Manuel Marqués Nieto",
+          "motherId": "maria-nieto-madre-de-manuel-marques"
+        },
+        {
+          "personId": "manuel-de-mena",
+          "before": "Manuel de Mena",
+          "after": "Manuel de Mena Martín",
+          "motherId": "catalina-martin-madre-de-manuel-de-mena"
+        },
+        {
+          "personId": "maria-pinto",
+          "before": "María Pinto",
+          "after": "María Pinto de la Calle",
+          "motherId": "catalina-de-la-calle-madre-de-maria-pinto"
+        },
+        {
+          "personId": "teresa-arroyo",
+          "before": "Teresa Arroyo",
+          "after": "Teresa Arroyo Madrid",
+          "motherId": "maria-madrid"
+        },
+        {
+          "personId": "maria-herrero-madre-de-ana-ma-de-chaves",
+          "before": "María Herrero",
+          "after": "María Herrero de Herrera",
+          "motherId": "maria-herrera-madre-de-maria-herrero"
+        },
+        {
+          "personId": "mariana-rodriguez",
+          "before": "Mariana Rodríguez",
+          "after": "Mariana Rodríguez Herrero",
+          "motherId": "maria-herrero-madre-de-mariana-rodriguez"
+        },
+        {
+          "personId": "domingo-garrote-padre-de-domingo-garrote-ortijo",
+          "before": "Domingo Garrote",
+          "after": "Domingo Garrote Gabriel",
+          "motherId": "catalina-gabriel"
+        },
+        {
+          "personId": "ines-ortijo",
+          "before": "Inés Ortijo",
+          "after": "Inés Ortijo Blanco",
+          "motherId": "ana-blanco"
+        },
+        {
+          "personId": "alonso-blanco-padre-de-jose-blanco",
+          "before": "Alonso Blanco",
+          "after": "Alonso Blanco Martín",
+          "motherId": "maria-martin-madre-de-alonso-blanco"
+        },
+        {
+          "personId": "manuela-crespo",
+          "before": "Manuela Crespo",
+          "after": "Manuela Crespo Pascual",
+          "motherId": "merenciana-pascual-madre-de-manuela-crespo"
+        },
+        {
+          "personId": "tomasa-bobillo",
+          "before": "Tomasa Bobillo",
+          "after": "Tomasa Bobillo Devesa",
+          "motherId": "catalina-devesa-madre-de-tomasa-bobillo"
+        },
+        {
+          "personId": "magdalena-amador",
+          "before": "Magdalena Amador",
+          "after": "Magdalena Amador Mayoral",
+          "motherId": "manuela-mayoral-madre-de-magdalena-amador"
+        },
+        {
+          "personId": "pedro-amador-padre-de-magdalena-amador",
+          "before": "Pedro Amador",
+          "after": "Pedro Amador Tejedor",
+          "motherId": "catalina-tejedor-madre-de-pedro-amador"
+        }
+      ]
+    }
+  },
+  "keptLocal": [
+    {
+      "personIds": [
+        "isabel-rodriguez",
+        "juan-rodriguez-perez",
+        "teodora-alonso"
+      ],
+      "myheritage": "Isabel Rodríguez Herrador, bautizada el 17-10-1660, hija de Alonso Rodríguez Corralino (bautizado el 07-10-1637, con un doctor colegial mayor del arzobispo de Salamanca de padrino) y de Ana Herrador, y nieta de Alonso Rodríguez y María Corralino.",
+      "local": "Isabel Rodríguez Alonso, nacida el 12-03-1684, hija de Juan Rodríguez Pérez y Teodora Alonso Delgado.",
+      "evidence": "TATARABUELOS QUINTOS (28) y SEXTOS (104) dan la filiación local, y la partida de fallecimiento de Juan Rodríguez Pérez nombra a Isabel entre los hijos de su segundo matrimonio.",
+      "decision": "Se mantiene la ficha local. No se incorpora la rama Rodríguez Corralino–Herrador ni sus fechas."
+    },
+    {
+      "personIds": [
+        "gregoria-moreno"
+      ],
+      "myheritage": "Gregoria Moreno Esteban, hija de Alonso Moreno Esteban y María Esteban.",
+      "local": "Gregoria Moreno Morales, nacida el 21-05-1670, hija de Antonio Moreno Isidro y Catalina Morales.",
+      "evidence": "TATARABUELOS QUINTOS (34): «Era hija de Antonio Moreno (Casaseca de las Chanas) y Catalina Morales (Casaseca Chanas)».",
+      "decision": "Se mantiene la ficha local."
+    },
+    {
+      "personIds": [
+        "isabel-fernandez-madre-de-micaela-hernandez-fernandez",
+        "emerenciana-hista-madre-de-isabel-fernandez",
+        "micaela-hernandez-madre-de-teresa-hernandez-hernandez"
+      ],
+      "myheritage": "Isabel Hernández Triste, hija de Domingo Hernández de la Calle y Emerenciana Triste; su hija, Micaela Hernández Hernández.",
+      "local": "Isabel Fernández Hista, hija de Domingo Hernández de la Calle y Emerenciana Hista; su hija, Micaela Hernández Fernández.",
+      "evidence": "Se volvió a mirar la imagen «Isabel Hernández Hista.JPG» (bautismo, Tardobispo, 28-02-1656). La palabra partida entre dos líneas empieza por «h» y se lee «hista». No se lee «Triste». TATARABUELOS SEXTOS (224) llama a la madre de Micaela Isabel Fernández.",
+      "decision": "Se mantienen los nombres locales. La lectura «Hista» sigue anotada con reservas."
+    },
+    {
+      "personIds": [
+        "juan-martin-padre-de-ana-ma-martin"
+      ],
+      "myheritage": "Juan Martín Martín, nacido en Casaseca de las Chanas el 01-09-1666, hijo de Antonio Martín e Inés Martín.",
+      "local": "Juan Martín, natural de San Marcial, sin padres.",
+      "evidence": "La fecha de MyHeritage sale de la imagen «Juan Martín Martín.JPG», que la revisión de los quintos transcribió como de 1636. Mirada de nuevo, la palabra del año se lee «sesenta», no «treinta»: el bautismo es del 01-09-1666, como dice MyHeritage, y se corrige en quintos-fotografias.json. Un «Ldo Moreno» firma también el bautismo de Pedro Ponce de 1666, y al margen derecho se lee, con reservas, «Juº Mrn». Aun así, la boda de 1704 lo llama «del lugar de S. Marcial» y dice que necesitó licencia «por no ser entrambos los contraentes de dicho lugar de Casaseca»; el entierro de 1720 lleva al margen «Marzial», y TATARABUELOS QUINTOS (35) lo da por nacido en San Marcial.",
+      "decision": "Se mantiene sin padres y con el nacimiento en San Marcial. El bautismo de 1666 queda como candidato sin enlazar. Hace falta comprobar si había otro Juan Martín de su edad en Casaseca."
+    },
+    {
+      "personIds": [
+        "catalina-hernandez-madre-de-manuela-de-la-iglesia"
+      ],
+      "myheritage": "Nacida en Tardobispo, hija de Francisco Hernández y Catalina Lorenzo, ambos de «Alcamín».",
+      "local": "Sin padres; lugar de referencia Valcamín de Abajo.",
+      "evidence": "Solo lo sustenta la imagen «Catalina Hernández Lorenzo.JPG», el bautismo de una Catalina en Tardobispo en marzo de 1620, hija de «[ilegible] Hernández» y Catalina Lorenzo, vecinos de «Valcam-». El nombre del padre no se lee. Esa Catalina tendría 55 años al nacer Manuela de la Iglesia (1675).",
+      "decision": "Se mantiene sin enlazar, como decidió la revisión de «Otros familiares»."
+    },
+    {
+      "personIds": [
+        "maria-madaleno"
+      ],
+      "myheritage": "Su madre es María Rubio.",
+      "local": "María Madaleno Rubio, sin madre enlazada.",
+      "evidence": "Su bautismo (1637) dice «Mª Rubia». El README («Homónimos de la misma localidad») deja sin enlace a las María Rubio de Casaseca de las Chanas: no se sabe si la mujer de Pedro Madaleno y la de Juan Díez son una o dos personas.",
+      "decision": "No se crea la ficha de la madre."
+    },
+    {
+      "personIds": [
+        "antonia-valladolid-ocampo"
+      ],
+      "myheritage": "Antonia Josefa Valladolid Ocampo, nacida el 18-02-1767.",
+      "local": "Antonia Valladolid Ocampo, nacida hacia 1760; su hermana Josefa nació el 18-02-1767.",
+      "evidence": "El bautismo de 1767 es el de Josefa («Llamose Jpha»). Antonia murió en 1824 con 64 años.",
+      "decision": "Se mantiene la separación local entre las dos hermanas."
+    },
+    {
+      "personIds": [
+        "maria-martinez"
+      ],
+      "myheritage": "María Catalina Martínez Martín, bautizada el 20-09-1694.",
+      "local": "Nacida en Casaseca de las Chanas, sin fecha.",
+      "evidence": "No hay ninguna partida de ese bautismo, y se casó el 09-09-1705: con esa fecha habría tenido diez años.",
+      "decision": "No se añade la fecha."
+    },
+    {
+      "personIds": [
+        "pedro-nieto-padre-de-juan-nieto"
+      ],
+      "myheritage": "Nacido en Mellanes.",
+      "local": "Sin lugar; vecino de Cubillos según el bautismo de su nieta Catalina.",
+      "evidence": "Los resúmenes ponen Mellanes junto a su hijo Juan Nieto, al que otra versión da por nacido en Casaseca. El README ya decidió no añadir Mellanes.",
+      "decision": "No se añade Mellanes."
+    },
+    {
+      "personIds": [
+        "juan-rodriguez-padre-de-juan-rodriguez-perez"
+      ],
+      "myheritage": "Su equivalente es Alonso Rodríguez, nacido en Casaseca de las Chanas, de la rama Rodríguez Corralino.",
+      "local": "Juan Rodríguez, sin lugar.",
+      "evidence": "Es una persona distinta, de la rama que se descarta en el caso de Isabel Rodríguez.",
+      "decision": "No se añade el lugar."
+    },
+    {
+      "personIds": [
+        "teresa-gaitan",
+        "teresa-ponce",
+        "micaela-perez",
+        "apolonia-rodriguez",
+        "pedro-ponce",
+        "francisco-gonzalez",
+        "juan-mendez"
+      ],
+      "myheritage": "Fechas de nacimiento o bautismo: 23-09-1704, 13-11-1701, 27-03-1738, 01-05-1683, 01-05-1666, 29-09-1648 y 13-06-1630.",
+      "local": "28-09-1704, 23-11-1701 (bautismo el 01-12), 27-02-1738 (bautismo el 09-03), 02-05-1683, 01-03-1666, 09-09-1646 y 13-07-1630.",
+      "evidence": "El bautismo de Teresa Gaitán se fecha «En dicho día» por el asiento anterior, que no está fotografiado. El día 28 viene de TATARABUELOS CUARTOS, y la partida no da otra fecha. Las demás fechas locales salen de partidas transcritas: «nazió ocho días antes del baptismo»; «En veinte y siete de febrero … nazió»; «En treynta y dos de Abril»; «En primero de Marzo de … sesenta y seis»; «En 9 de setienbre de 1646»; «En treze de julio de 1630».",
+      "decision": "Se mantienen las fechas locales."
+    },
+    {
+      "personIds": [
+        "carlos-santiago-garrote",
+        "manuel-de-las-heras-dominguez",
+        "isabel-alonso-zamora",
+        "manuel-hernandez-crespo",
+        "micaela-perez",
+        "juan-martin-hernandez",
+        "manuel-martin-de-prada",
+        "margarita-giron-fernandez",
+        "francisco-giron-martin",
+        "dorotea-de-la-iglesia"
+      ],
+      "myheritage": "Lugares de nacimiento: Fadón, Abelón, Casaseca de las Chanas, Zamora (parroquia de San Frontis), Zamora, Casaseca de las Chanas, Moraleja del Vino, Roales del Vino (dos veces) y «La Torre del Salinar - Fuentelcarnero».",
+      "local": "Abelón, Fadón, Moraleja del Vino, Casaseca de las Chanas, Casaseca de las Chanas, Sanzoles, Morales del Vino, Roales (dos veces) y La Torre del Salinar.",
+      "evidence": "Los lugares de los cinco primeros y el de Manuel Martín Prada vienen de sus bautismos transcritos; Sanzoles, de TATARABUELOS QUINTOS (29). La familia confirmó que Roales es Roales del Pan. La Torre del Salinar es un pueblo desaparecido que se sitúa en Entrala, por indicación de la familia; Fuentelcarnero es otra localidad.",
+      "decision": "Se mantienen los lugares locales."
+    }
+  ],
+  "alreadyCovered": [
+    "Florencio Brioso Alonso: «Maestro en Entrala» ya consta en su ocupación de maestro.",
+    "Las notas sobre los padrinos de Manuela Jambrina (un cirujano), Teresa Delgado (el procurador de Zamora) y Juan Méndez (un licenciado) ya están en sus transcripciones.",
+    "La persona 1000208 de MyHeritage, Juan Rodríguez Pérez, marido de Úrsula Martín y padre de Alonso Rodríguez Martín, es la ficha local juan-rodriguez-perez, con su primer matrimonio."
+  ],
+  "notApplied": [
+    {
+      "personId": "francisca-lozano",
+      "reason": "Tiene los dos padres, Andrés Corralino y Pascuala Delgado, pero sus partidas la llaman Corralino y los resúmenes «Lozano o Corralino». Como el primer apellido está en duda, no se le añade el segundo."
+    },
+    {
+      "personId": "domingo-calvo-padre-de-domingo-calvo",
+      "reason": "Su madre consta solo como «María», sin apellido."
+    }
+  ]
+}
